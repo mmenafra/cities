@@ -149,7 +149,7 @@ akumak:
   longitude: "-52.3333333"
 akunaq: 
   city: akunaq
-  accentcity: "Ak\xC3\xBAn\xC3\xA2q"
+  accentcity: "Akún\xC3\xA2q"
   region: "03"
   population: 
   latitude: "68.75"
@@ -443,7 +443,7 @@ avigait:
   longitude: "-49.8333333"
 avssaqutaq: 
   city: avssaqutaq
-  accentcity: "Avssaq\xC3\xBAtaq"
+  accentcity: "Avssaqútaq"
   region: "03"
   population: 
   latitude: "66.9166667"
@@ -828,7 +828,7 @@ igdlumiut:
   longitude: "-37.5833333"
 igdlunguaq: 
   city: igdlunguaq
-  accentcity: "Igdl\xC3\xBAnguaq"
+  accentcity: "Igdlúnguaq"
   region: "03"
   population: 
   latitude: "64.25"
@@ -3586,7 +3586,7 @@ tugssaq:
   longitude: "-56.1833333"
 tunungassoq: 
   city: tunungassoq
-  accentcity: "Tun\xC3\xBAngassoq"
+  accentcity: "Tunúngassoq"
   region: "03"
   population: 
   latitude: "68.1"

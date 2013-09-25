@@ -1619,7 +1619,7 @@ bachki:
   longitude: "31.5125"
 bachmetowka: 
   city: bachmetowka
-  accentcity: "Bachmet\xC3\xB3wka"
+  accentcity: "Bachmetówka"
   region: "06"
   population: 
   latitude: "54.1833333"
@@ -3733,7 +3733,7 @@ berezowce:
   longitude: "26.8166667"
 berezowka: 
   city: berezowka
-  accentcity: "Berez\xC3\xB3wka"
+  accentcity: "Berezówka"
   region: "07"
   population: 
   latitude: "54.7833333"
@@ -5056,14 +5056,14 @@ bogutichi:
   longitude: "29.1"
 bohdanow: 
   city: bohdanow
-  accentcity: "Bohdan\xC3\xB3w"
+  accentcity: "Bohdanów"
   region: "03"
   population: 
   latitude: "54.2"
   longitude: "26.0833333"
 bohdanowka: 
   city: bohdanowka
-  accentcity: "Bohdan\xC3\xB3wka"
+  accentcity: "Bohdanówka"
   region: "01"
   population: 
   latitude: "52.3666667"
@@ -7233,7 +7233,7 @@ borowiki:
   longitude: "27.35"
 borowka: 
   city: borowka
-  accentcity: "Bor\xC3\xB3wka"
+  accentcity: "Borówka"
   region: "07"
   population: 
   latitude: "54.8"
@@ -11118,7 +11118,7 @@ choromsk:
   longitude: "27.1166667"
 chorostow: 
   city: chorostow
-  accentcity: "Chorost\xC3\xB3w"
+  accentcity: "Chorostów"
   region: "06"
   population: 
   latitude: "52.5"
@@ -11146,7 +11146,7 @@ chotimsk:
   longitude: "32.5863889"
 chotow: 
   city: chotow
-  accentcity: "Chot\xC3\xB3w"
+  accentcity: "Chotów"
   region: "06"
   population: 
   latitude: "53.75"
@@ -12070,7 +12070,7 @@ dawhalyessye:
   longitude: "30.7233333"
 dawidgrodek: 
   city: dawidgrodek
-  accentcity: "Dawidgr\xC3\xB3dek"
+  accentcity: "Dawidgródek"
   region: "01"
   population: 
   latitude: "52.05"
@@ -14429,7 +14429,7 @@ dubatovka:
   longitude: "26.5166667"
 dubatowka: 
   city: dubatowka
-  accentcity: "Dubat\xC3\xB3wka"
+  accentcity: "Dubatówka"
   region: "03"
   population: 
   latitude: "54.6"
@@ -14527,7 +14527,7 @@ dubieniec:
   longitude: "26.9833333"
 dubieniecki bor: 
   city: dubieniecki bor
-  accentcity: "Dubieniecki B\xC3\xB3r"
+  accentcity: "Dubieniecki Bór"
   region: "01"
   population: 
   latitude: "52.0"
@@ -15787,7 +15787,7 @@ dymovschina:
   longitude: "30.0772222"
 dynarowka: 
   city: dynarowka
-  accentcity: "Dynar\xC3\xB3wka"
+  accentcity: "Dynarówka"
   region: "06"
   population: 
   latitude: "54.0333333"
@@ -20225,7 +20225,7 @@ grabovo:
   longitude: "24.9166667"
 grabow: 
   city: grabow
-  accentcity: "Grab\xC3\xB3w"
+  accentcity: "Grabów"
   region: "06"
   population: 
   latitude: "52.5166667"
@@ -20736,7 +20736,7 @@ grobovye:
   longitude: "28.2666667"
 grodek: 
   city: grodek
-  accentcity: "Gr\xC3\xB3dek"
+  accentcity: "Gródek"
   region: "06"
   population: 
   latitude: "54.15"
@@ -20750,7 +20750,7 @@ grodi:
   longitude: "26.5333333"
 grodki: 
   city: grodki
-  accentcity: "Gr\xC3\xB3dki"
+  accentcity: "Gródki"
   region: "06"
   population: 
   latitude: "54.3166667"
@@ -23270,7 +23270,7 @@ iwaniki:
   longitude: "26.0833333"
 iwanisowka: 
   city: iwanisowka
-  accentcity: "Iwanis\xC3\xB3wka"
+  accentcity: "Iwanisówka"
   region: "01"
   population: 
   latitude: "52.2666667"
@@ -23578,7 +23578,7 @@ janki:
   longitude: "27.8166667"
 janow: 
   city: janow
-  accentcity: "Jan\xC3\xB3w"
+  accentcity: "Janów"
   region: "01"
   population: 
   latitude: "52.1325"
@@ -24082,7 +24082,7 @@ kalinovo:
   longitude: "30.1822222"
 kalinowka: 
   city: kalinowka
-  accentcity: "Kalin\xC3\xB3wka"
+  accentcity: "Kalinówka"
   region: "06"
   population: 
   latitude: "54.8166667"
@@ -30340,7 +30340,7 @@ konstantynovo:
   longitude: "27.1666667"
 konstantynow: 
   city: konstantynow
-  accentcity: "Konstantyn\xC3\xB3w"
+  accentcity: "Konstantynów"
   region: "07"
   population: 
   latitude: "54.9166667"
@@ -31684,7 +31684,7 @@ kosovo:
   longitude: "30.4769444"
 kosow: 
   city: kosow
-  accentcity: "Kos\xC3\xB3w"
+  accentcity: "Kosów"
   region: "01"
   population: 
   latitude: "52.75"
@@ -32265,7 +32265,7 @@ kowaliszki:
   longitude: "27.1666667"
 kowieniow: 
   city: kowieniow
-  accentcity: "Kowieni\xC3\xB3w"
+  accentcity: "Kowieniów"
   region: "06"
   population: 
   latitude: "54.6333333"
@@ -33140,7 +33140,7 @@ krasnodvortsy:
   longitude: "27.4333333"
 krasnogorka: 
   city: krasnogorka
-  accentcity: "Krasnog\xC3\xB3rka"
+  accentcity: "Krasnogórka"
   region: "07"
   population: 
   latitude: "55.7666667"
@@ -34029,7 +34029,7 @@ krokotka velka:
   longitude: "24.9666667"
 krolewszczyzna: 
   city: krolewszczyzna
-  accentcity: "Kr\xC3\xB3lewszczyzna"
+  accentcity: "Królewszczyzna"
   region: "07"
   population: 
   latitude: "55.0333333"
@@ -34288,7 +34288,7 @@ krukovshchina:
   longitude: "31.055"
 krukowka: 
   city: krukowka
-  accentcity: "Kruk\xC3\xB3wka"
+  accentcity: "Krukówka"
   region: "07"
   population: 
   latitude: "55.6"
@@ -37480,7 +37480,7 @@ leplevka:
   longitude: "23.6666667"
 leplowka: 
   city: leplowka
-  accentcity: "Lepl\xC3\xB3wka"
+  accentcity: "Leplówka"
   region: "01"
   population: 
   latitude: "51.7666667"
@@ -41582,7 +41582,7 @@ maksimovka:
   longitude: "30.3333333"
 maksymowka: 
   city: maksymowka
-  accentcity: "Maksym\xC3\xB3wka"
+  accentcity: "Maksymówka"
   region: "06"
   population: 
   latitude: "54.2166667"
@@ -42268,7 +42268,7 @@ malinovskaya sloboda:
   longitude: "31.6183333"
 malinowka stara: 
   city: malinowka stara
-  accentcity: "Malin\xC3\xB3wka Stara"
+  accentcity: "Malinówka Stara"
   region: "04"
   population: 
   latitude: "54.0"
@@ -45152,7 +45152,7 @@ migovo:
   longitude: "24.0166667"
 migowka: 
   city: migowka
-  accentcity: "Mig\xC3\xB3wka"
+  accentcity: "Migówka"
   region: "06"
   population: 
   latitude: "54.1833333"
@@ -48694,7 +48694,7 @@ nagavki:
   longitude: "27.1"
 nagorna: 
   city: nagorna
-  accentcity: "Nag\xC3\xB3rna"
+  accentcity: "Nagórna"
   region: "06"
   population: 
   latitude: "52.9666667"
@@ -52495,7 +52495,7 @@ nowjelnia:
   longitude: "25.5833333"
 nowogrodek: 
   city: nowogrodek
-  accentcity: "Nowogr\xC3\xB3dek"
+  accentcity: "Nowogródek"
   region: "03"
   population: 
   latitude: "53.6"
@@ -52530,7 +52530,7 @@ nowosiolki:
   longitude: "27.3166667"
 nowy dwor: 
   city: nowy dwor
-  accentcity: "Nowy Dw\xC3\xB3r"
+  accentcity: "Nowy Dwór"
   region: "07"
   population: 
   latitude: "55.1166667"
@@ -54357,7 +54357,7 @@ osinovyy most:
   longitude: "30.9055556"
 osinowka: 
   city: osinowka
-  accentcity: "Osin\xC3\xB3wka"
+  accentcity: "Osinówka"
   region: "03"
   population: 
   latitude: "54.6833333"
@@ -55015,7 +55015,7 @@ ostrowiec:
   longitude: "25.9588889"
 ostrow: 
   city: ostrow
-  accentcity: "Ostr\xC3\xB3w"
+  accentcity: "Ostrów"
   region: "07"
   population: 
   latitude: "55.1333333"
@@ -56093,7 +56093,7 @@ parafianowo:
   longitude: "27.6"
 parafianow: 
   city: parafianow
-  accentcity: "Parafian\xC3\xB3w"
+  accentcity: "Parafianów"
   region: "07"
   population: 
   latitude: "54.8833333"
@@ -58193,7 +58193,7 @@ plaszyno:
   longitude: "27.3333333"
 platerow: 
   city: platerow
-  accentcity: "Plater\xC3\xB3w"
+  accentcity: "Platerów"
   region: "07"
   population: 
   latitude: "55.3666667"
@@ -60804,7 +60804,7 @@ porozov:
   longitude: "24.3666667"
 porozow: 
   city: porozow
-  accentcity: "Poroz\xC3\xB3w"
+  accentcity: "Porozów"
   region: "03"
   population: 
   latitude: "52.9333333"
@@ -62722,7 +62722,7 @@ przewalka:
   longitude: "23.9166667"
 przewoz: 
   city: przewoz
-  accentcity: "Przew\xC3\xB3z"
+  accentcity: "Przewóz"
   region: "07"
   population: 
   latitude: "55.15"
@@ -62869,7 +62869,7 @@ puchowka:
   longitude: "27.0333333"
 pucilow: 
   city: pucilow
-  accentcity: "Pucil\xC3\xB3w"
+  accentcity: "Pucilów"
   region: "06"
   population: 
   latitude: "54.3666667"
@@ -64318,7 +64318,7 @@ rakowce:
   longitude: "26.3333333"
 rakow: 
   city: rakow
-  accentcity: "Rak\xC3\xB3w"
+  accentcity: "Raków"
   region: "06"
   population: 
   latitude: "53.9666667"
@@ -72942,7 +72942,7 @@ snov:
   longitude: "26.4"
 snow: 
   city: snow
-  accentcity: "Sn\xC3\xB3w"
+  accentcity: "Snów"
   region: "06"
   population: 
   latitude: "53.2166667"
@@ -73642,7 +73642,7 @@ sosnovyy bor:
   longitude: "29.5833333"
 sosnowka: 
   city: sosnowka
-  accentcity: "Sosn\xC3\xB3wka"
+  accentcity: "Sosnówka"
   region: "07"
   population: 
   latitude: "55.3"
@@ -73943,7 +73943,7 @@ stachowce:
   longitude: "26.7666667"
 stachow: 
   city: stachow
-  accentcity: "Stach\xC3\xB3w"
+  accentcity: "Stachów"
   region: "01"
   population: 
   latitude: "52.0833333"
@@ -76099,7 +76099,7 @@ stetychuv:
   longitude: "26.1333333"
 stetyczow: 
   city: stetyczow
-  accentcity: "Stetycz\xC3\xB3w"
+  accentcity: "Stetyczów"
   region: "01"
   population: 
   latitude: "52.0666667"
@@ -77149,7 +77149,7 @@ subyaki:
   longitude: "30.8"
 sucha gora: 
   city: sucha gora
-  accentcity: "Sucha G\xC3\xB3ra"
+  accentcity: "Sucha Góra"
   region: "06"
   population: 
   latitude: "54.2"
@@ -78395,7 +78395,7 @@ swierzen nowy:
   longitude: "26.7333333"
 swieta wola: 
   city: swieta wola
-  accentcity: "Swieta W\xC3\xB3la"
+  accentcity: "Swieta Wóla"
   region: "01"
   population: 
   latitude: "52.5333333"
@@ -78857,7 +78857,7 @@ szepiele:
   longitude: "27.5"
 szereszow: 
   city: szereszow
-  accentcity: "Szeresz\xC3\xB3w"
+  accentcity: "Szereszów"
   region: "01"
   population: 
   latitude: "52.55"
@@ -79004,7 +79004,7 @@ szylowicze:
   longitude: "26.3833333"
 szylwy bor: 
   city: szylwy bor
-  accentcity: "Szylwy B\xC3\xB3r"
+  accentcity: "Szylwy Bór"
   region: "03"
   population: 
   latitude: "54.0333333"
@@ -79235,7 +79235,7 @@ tarakanovka:
   longitude: "27.7166667"
 tarakanowka: 
   city: tarakanowka
-  accentcity: "Tarakan\xC3\xB3wka"
+  accentcity: "Tarakanówka"
   region: "06"
   population: 
   latitude: "54.55"
@@ -80432,7 +80432,7 @@ tomashov:
   longitude: "23.6"
 tomaszowka: 
   city: tomaszowka
-  accentcity: "Tomasz\xC3\xB3wka"
+  accentcity: "Tomaszówka"
   region: "01"
   population: 
   latitude: "51.55"
@@ -88041,7 +88041,7 @@ vzmostye:
   longitude: "28.3666667"
 walowka: 
   city: walowka
-  accentcity: "Wal\xC3\xB3wka"
+  accentcity: "Walówka"
   region: "03"
   population: 
   latitude: "53.4666667"
@@ -88083,14 +88083,14 @@ wasilewicze:
   longitude: "26.3666667"
 wasilkowka: 
   city: wasilkowka
-  accentcity: "Wasilk\xC3\xB3wka"
+  accentcity: "Wasilkówka"
   region: "07"
   population: 
   latitude: "54.6"
   longitude: "27.9666667"
 wasiolki: 
   city: wasiolki
-  accentcity: "Wasi\xC3\xB3lki"
+  accentcity: "Wasiólki"
   region: "06"
   population: 
   latitude: "54.6833333"
@@ -88104,7 +88104,7 @@ wasiuki:
   longitude: "26.25"
 wawiorka: 
   city: wawiorka
-  accentcity: "Wawi\xC3\xB3rka"
+  accentcity: "Wawiórka"
   region: "03"
   population: 
   latitude: "53.8333333"
@@ -88139,7 +88139,7 @@ werejki:
   longitude: "24.2"
 werenow: 
   city: werenow
-  accentcity: "Weren\xC3\xB3w"
+  accentcity: "Werenów"
   region: "03"
   population: 
   latitude: "54.1475"
@@ -88209,7 +88209,7 @@ widze:
   longitude: "26.6333333"
 widzibor: 
   city: widzibor
-  accentcity: "Widzib\xC3\xB3r"
+  accentcity: "Widzibór"
   region: "01"
   population: 
   latitude: "51.9833333"
@@ -88293,7 +88293,7 @@ wielka myssa:
   longitude: "26.3333333"
 wielki bor: 
   city: wielki bor
-  accentcity: "Wielki B\xC3\xB3r"
+  accentcity: "Wielki Bór"
   region: "06"
   population: 
   latitude: "54.2833333"
@@ -88601,7 +88601,7 @@ wolejkowicze:
   longitude: "26.25"
 wolka obrowska: 
   city: wolka obrowska
-  accentcity: "W\xC3\xB3lka Obrowska"
+  accentcity: "Wólka Obrowska"
   region: "01"
   population: 
   latitude: "52.5833333"
@@ -88615,7 +88615,7 @@ wolka rzadowa:
   longitude: "23.5666667"
 wolka: 
   city: wolka
-  accentcity: "W\xC3\xB3lka"
+  accentcity: "Wólka"
   region: "01"
   population: 
   latitude: "52.0666667"
@@ -88790,7 +88790,7 @@ wozowniki:
   longitude: "27.6333333"
 wroblewszczyzna: 
   city: wroblewszczyzna
-  accentcity: "Wr\xC3\xB3blewszczyzna"
+  accentcity: "Wróblewszczyzna"
   region: "06"
   population: 
   latitude: "54.4666667"
@@ -93151,7 +93151,7 @@ zarezova:
   longitude: "30.45"
 zarnowka wielka: 
   city: zarnowka wielka
-  accentcity: "Zarn\xC3\xB3wka Wielka"
+  accentcity: "Zarnówka Wielka"
   region: "03"
   population: 
   latitude: "53.4333333"
@@ -94089,7 +94089,7 @@ zawlicze:
   longitude: "27.4333333"
 zawrotki: 
   city: zawrotki
-  accentcity: "Zawr\xC3\xB3tki"
+  accentcity: "Zawrótki"
   region: "07"
   population: 
   latitude: "55.0333333"
@@ -94362,7 +94362,7 @@ zdzieciol:
   longitude: "25.4133333"
 zdzitow: 
   city: zdzitow
-  accentcity: "Zdzit\xC3\xB3w"
+  accentcity: "Zdzitów"
   region: "01"
   population: 
   latitude: "52.4166667"

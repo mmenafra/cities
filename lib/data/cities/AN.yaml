@@ -387,7 +387,7 @@ dorp lagoen:
   longitude: "-69.1666667"
 dorp lagun: 
   city: dorp lagun
-  accentcity: "Dorp Lag\xC3\xBAn"
+  accentcity: "Dorp Lagún"
   region: "00"
   population: 
   latitude: "12.3166667"
@@ -429,7 +429,7 @@ dorp rincan:
   longitude: "-68.3333333"
 dorp rincon: 
   city: dorp rincon
-  accentcity: "Dorp Rinc\xC3\xB3n"
+  accentcity: "Dorp Rincón"
   region: "00"
   population: 
   latitude: "12.2333333"
@@ -856,7 +856,7 @@ lagoen:
   longitude: "-69.1666667"
 lagun: 
   city: lagun
-  accentcity: "Lag\xC3\xBAn"
+  accentcity: "Lagún"
   region: "00"
   population: "289"
   latitude: "12.3166667"
@@ -1262,7 +1262,7 @@ rigot:
   longitude: "-68.35"
 rincon: 
   city: rincon
-  accentcity: "Rinc\xC3\xB3n"
+  accentcity: "Rincón"
   region: "00"
   population: "1496"
   latitude: "12.2333333"
@@ -1801,7 +1801,7 @@ wanapa:
   longitude: "-68.2333333"
 weis afo: 
   city: weis afo
-  accentcity: "Weis Af\xC3\xB3"
+  accentcity: "Weis Afó"
   region: "00"
   population: 
   latitude: "12.15"

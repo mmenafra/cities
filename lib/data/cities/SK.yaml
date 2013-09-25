@@ -177,105 +177,105 @@ almas puszta:
   longitude: "17.8166667"
 also-balog: 
   city: also-balog
-  accentcity: "Als\xC3\xB3-Balog"
+  accentcity: "Alsó-Balog"
   region: "01"
   population: 
   latitude: "48.45"
   longitude: "20.1333333"
 also bodok: 
   city: also bodok
-  accentcity: "Als\xC3\xB3 Bodok"
+  accentcity: "Alsó Bodok"
   region: "04"
   population: 
   latitude: "48.3166667"
   longitude: "18.2166667"
 also csitar: 
   city: also csitar
-  accentcity: "Als\xC3\xB3 Csit\xC3\xA1r"
+  accentcity: "Alsó Csit\xC3\xA1r"
   region: "04"
   population: 
   latitude: "48.35"
   longitude: "18.1666667"
 alsofalu: 
   city: alsofalu
-  accentcity: "Als\xC3\xB3falu"
+  accentcity: "Alsófalu"
   region: "03"
   population: 
   latitude: "48.5"
   longitude: "20.2166667"
 alsogyertyan: 
   city: alsogyertyan
-  accentcity: "Als\xC3\xB3gyerty\xC3\xA1n"
+  accentcity: "Alsógyerty\xC3\xA1n"
   region: "03"
   population: 
   latitude: "48.85"
   longitude: "21.7666667"
 alsohrabocz: 
   city: alsohrabocz
-  accentcity: "Als\xC3\xB3hrab\xC3\xB3cz"
+  accentcity: "Alsóhrabócz"
   region: "03"
   population: 
   latitude: "48.85"
   longitude: "21.7666667"
 also-kalosa: 
   city: also-kalosa
-  accentcity: "Als\xC3\xB3-K\xC3\xA1losa"
+  accentcity: "Alsó-K\xC3\xA1losa"
   region: "03"
   population: 
   latitude: "48.4166667"
   longitude: "20.2333333"
 alsokubin: 
   city: alsokubin
-  accentcity: "Als\xC3\xB3kubin"
+  accentcity: "Alsókubin"
   region: 08
   population: 
   latitude: "49.2"
   longitude: "19.3"
 also macskas: 
   city: also macskas
-  accentcity: "Als\xC3\xB3 Macskas"
+  accentcity: "Alsó Macskas"
   region: "04"
   population: 
   latitude: "47.8833333"
   longitude: "18.5666667"
 alsomislye: 
   city: alsomislye
-  accentcity: "Als\xC3\xB3mislye"
+  accentcity: "Alsómislye"
   region: "03"
   population: 
   latitude: "48.6166667"
   longitude: "21.3666667"
 also-szecse: 
   city: also-szecse
-  accentcity: "Als\xC3\xB3-Szecse"
+  accentcity: "Alsó-Szecse"
   region: "04"
   population: 
   latitude: "48.1666667"
   longitude: "18.5666667"
 also szeli: 
   city: also szeli
-  accentcity: "Als\xC3\xB3 Szeli"
+  accentcity: "Alsó Szeli"
   region: "07"
   population: 
   latitude: "48.1"
   longitude: "17.7833333"
 also szemered: 
   city: also szemered
-  accentcity: "Als\xC3\xB3 Szemer\xC3\xA9d"
+  accentcity: "Alsó Szemer\xC3\xA9d"
   region: "04"
   population: 
   latitude: "48.1166667"
   longitude: "18.85"
 also-tur: 
   city: also-tur
-  accentcity: "Als\xC3\xB3-Tur"
+  accentcity: "Alsó-Tur"
   region: "04"
   population: 
   latitude: "48.1166667"
   longitude: "18.95"
 also-valy: 
   city: also-valy
-  accentcity: "Als\xC3\xB3-V\xC3\xA1ly"
+  accentcity: "Alsó-V\xC3\xA1ly"
   region: "03"
   population: 
   latitude: "48.45"
@@ -373,7 +373,7 @@ andice:
   longitude: "19.55"
 andod: 
   city: andod
-  accentcity: "And\xC3\xB3d"
+  accentcity: "Andód"
   region: "04"
   population: 
   latitude: "48.0"
@@ -527,7 +527,7 @@ asakert:
   longitude: "17.9833333"
 aszod pusta: 
   city: aszod pusta
-  accentcity: "Asz\xC3\xB3d Pusta"
+  accentcity: "Aszód Pusta"
   region: "04"
   population: 
   latitude: "47.9333333"
@@ -674,14 +674,14 @@ bacovna:
   longitude: "22.0"
 bacuch: 
   city: bacuch
-  accentcity: "Bac\xC3\xBAch"
+  accentcity: "Bacúch"
   region: "01"
   population: 
   latitude: "48.8666667"
   longitude: "19.8166667"
 bacurov: 
   city: bacurov
-  accentcity: "Bac\xC3\xBArov"
+  accentcity: "Bacúrov"
   region: "01"
   population: 
   latitude: "48.5166667"
@@ -793,7 +793,7 @@ baka:
   longitude: "17.5333333"
 bakohaza: 
   city: bakohaza
-  accentcity: "Bak\xC3\xB3h\xC3\xA1za"
+  accentcity: "Bakóh\xC3\xA1za"
   region: "01"
   population: 
   latitude: "48.1666667"
@@ -1073,7 +1073,7 @@ bardejovska nova ves:
   longitude: "21.2833333"
 bardejovske kupele: 
   city: bardejovske kupele
-  accentcity: "Bardejovsk\xC3\xA9 K\xC3\xBApele"
+  accentcity: "Bardejovsk\xC3\xA9 Kúpele"
   region: "05"
   population: 
   latitude: "49.3333333"
@@ -1094,7 +1094,7 @@ baromlak:
   longitude: "18.3"
 baromut: 
   city: baromut
-  accentcity: "Barom\xC3\xBAt"
+  accentcity: "Baromút"
   region: "01"
   population: 
   latitude: "48.3333333"
@@ -1374,7 +1374,7 @@ bela nad cirochou:
   longitude: "22.1"
 belanske kupele: 
   city: belanske kupele
-  accentcity: "Belansk\xC3\xA9 K\xC3\xBApele"
+  accentcity: "Belansk\xC3\xA9 Kúpele"
   region: "05"
   population: 
   latitude: "49.2333333"
@@ -1703,7 +1703,7 @@ beretke:
   longitude: "20.35"
 berezo: 
   city: berezo
-  accentcity: "Berez\xC3\xB3"
+  accentcity: "Berezó"
   region: "07"
   population: 
   latitude: "48.6666667"
@@ -2228,7 +2228,7 @@ bobrovnik:
   longitude: "19.4833333"
 bobrow: 
   city: bobrow
-  accentcity: "Bobr\xC3\xB3w"
+  accentcity: "Bobrów"
   region: 08
   population: 
   latitude: "49.4333333"
@@ -2998,7 +2998,7 @@ breznicka:
   longitude: "21.7"
 breznobanya: 
   city: breznobanya
-  accentcity: "Brezn\xC3\xB3b\xC3\xA1nya"
+  accentcity: "Breznób\xC3\xA1nya"
   region: "01"
   population: 
   latitude: "48.8166667"
@@ -3306,7 +3306,7 @@ bucsany:
   longitude: "17.7166667"
 bucs: 
   city: bucs
-  accentcity: "B\xC3\xBAcs"
+  accentcity: "Búcs"
   region: "04"
   population: 
   latitude: "47.8166667"
@@ -3544,7 +3544,7 @@ bur sankt georg:
   longitude: "17.05"
 bursky svaty jur: 
   city: bursky svaty jur
-  accentcity: "B\xC3\xBArsky Sv\xC3\xA4ty Jur"
+  accentcity: "Búrsky Sv\xC3\xA4ty Jur"
   region: "02"
   population: 
   latitude: "48.6166667"
@@ -5252,14 +5252,14 @@ csalar:
   longitude: "19.5"
 csallokoz kurt: 
   city: csallokoz kurt
-  accentcity: "Csall\xC3\xB3k\xC3\xB6z K\xC3\xBCrt"
+  accentcity: "Csallók\xC3\xB6z K\xC3\xBCrt"
   region: "02"
   population: 
   latitude: "47.9833333"
   longitude: "17.7"
 csarnnaho: 
   city: csarnnaho
-  accentcity: "Csarnnah\xC3\xB3"
+  accentcity: "Csarnnahó"
   region: "03"
   population: 
   latitude: "48.4333333"
@@ -5336,7 +5336,7 @@ csicser:
   longitude: "22.0333333"
 csicso: 
   city: csicso
-  accentcity: "Csics\xC3\xB3"
+  accentcity: "Csicsó"
   region: "02"
   population: 
   latitude: "47.7666667"
@@ -5364,7 +5364,7 @@ csoloszto:
   longitude: "17.3166667"
 csolto: 
   city: csolto
-  accentcity: "Csolt\xC3\xB3"
+  accentcity: "Csoltó"
   region: "03"
   population: 
   latitude: "48.5"
@@ -5896,7 +5896,7 @@ diosek:
   longitude: "17.65"
 diosforge patony: 
   city: diosforge patony
-  accentcity: "Di\xC3\xB3sf\xC3\xB6rge Patony"
+  accentcity: "Diósf\xC3\xB6rge Patony"
   region: "02"
   population: 
   latitude: "48.0166667"
@@ -5966,7 +5966,7 @@ dlha:
   longitude: "19.45"
 dlha luka: 
   city: dlha luka
-  accentcity: "Dlh\xC3\xA1 L\xC3\xBAka"
+  accentcity: "Dlh\xC3\xA1 Lúka"
   region: 08
   population: 
   latitude: "49.1666667"
@@ -6078,14 +6078,14 @@ dobfenek:
   longitude: "20.0"
 dobogo: 
   city: dobogo
-  accentcity: "Dobog\xC3\xB3"
+  accentcity: "Dobogó"
   region: "04"
   population: 
   latitude: "48.1666667"
   longitude: "18.6333333"
 dobogo majer: 
   city: dobogo majer
-  accentcity: "Dobog\xC3\xB3 Majer"
+  accentcity: "Dobogó Majer"
   region: "04"
   population: 
   latitude: "48.1666667"
@@ -6099,7 +6099,7 @@ doborgaz:
   longitude: "17.3666667"
 doboruszka: 
   city: doboruszka
-  accentcity: "Dob\xC3\xB3ruszka"
+  accentcity: "Dobóruszka"
   region: "03"
   population: 
   latitude: "48.5333333"
@@ -6288,7 +6288,7 @@ dolany:
   longitude: "17.3833333"
 dola pusta: 
   city: dola pusta
-  accentcity: "D\xC3\xB3la Pusta"
+  accentcity: "Dóla Pusta"
   region: "01"
   population: 
   latitude: "48.35"
@@ -7583,7 +7583,7 @@ dolny keblov:
   longitude: "18.6333333"
 dolny kerestur: 
   city: dolny kerestur
-  accentcity: "Doln\xC3\xBD Kerest\xC3\xBAr"
+  accentcity: "Doln\xC3\xBD Kerestúr"
   region: "04"
   population: 
   latitude: "48.05"
@@ -8157,35 +8157,35 @@ dubovica:
   longitude: "20.9666667"
 dubrava: 
   city: dubrava
-  accentcity: "D\xC3\xBAbrava"
+  accentcity: "Dúbrava"
   region: "07"
   population: 
   latitude: "48.5833333"
   longitude: "17.4166667"
 dubrav: 
   city: dubrav
-  accentcity: "D\xC3\xBAbrav"
+  accentcity: "Dúbrav"
   region: "01"
   population: 
   latitude: "48.5833333"
   longitude: "19.0"
 dubravica: 
   city: dubravica
-  accentcity: "D\xC3\xBAbravica"
+  accentcity: "Dúbravica"
   region: "01"
   population: 
   latitude: "48.6833333"
   longitude: "19.2833333"
 dubravka: 
   city: dubravka
-  accentcity: "D\xC3\xBAbravka"
+  accentcity: "Dúbravka"
   region: "03"
   population: 
   latitude: "48.6333333"
   longitude: "21.8833333"
 dubravy: 
   city: dubravy
-  accentcity: "D\xC3\xBAbravy"
+  accentcity: "Dúbravy"
   region: "01"
   population: 
   latitude: "48.5833333"
@@ -8276,7 +8276,7 @@ dulovo:
   longitude: "20.2"
 dunacsun: 
   city: dunacsun
-  accentcity: "Dunacs\xC3\xBAn"
+  accentcity: "Dunacsún"
   region: "02"
   population: 
   latitude: "48.0333333"
@@ -8437,7 +8437,7 @@ durlsdorf:
   longitude: "20.4833333"
 dusa: 
   city: dusa
-  accentcity: "D\xC3\xBAsa"
+  accentcity: "Dúsa"
   region: "01"
   population: 
   latitude: "48.35"
@@ -9053,7 +9053,7 @@ dvor kenderes:
   longitude: "17.9833333"
 dvor keresztur: 
   city: dvor keresztur
-  accentcity: "Dvor Kereszt\xC3\xBAr"
+  accentcity: "Dvor Keresztúr"
   region: "03"
   population: 
   latitude: "48.4166667"
@@ -9235,7 +9235,7 @@ dvor mihalyhaza:
   longitude: "22.1333333"
 dvor mikloshaza: 
   city: dvor mikloshaza
-  accentcity: "Dvor Mikl\xC3\xB3sh\xC3\xA1za"
+  accentcity: "Dvor Miklósh\xC3\xA1za"
   region: "04"
   population: 
   latitude: "47.85"
@@ -9746,7 +9746,7 @@ dvory nad zitavou:
   longitude: "18.2666667"
 dvor zabzo: 
   city: dvor zabzo
-  accentcity: "Dvor Zabz\xC3\xB3"
+  accentcity: "Dvor Zabzó"
   region: "01"
   population: 
   latitude: "48.3666667"
@@ -9914,14 +9914,14 @@ erdohat karcsa:
   longitude: "17.5666667"
 erdudka: 
   city: erdudka
-  accentcity: "Erd\xC3\xBAdka"
+  accentcity: "Erdúdka"
   region: 08
   population: 
   latitude: "49.3833333"
   longitude: "19.1833333"
 erdutka: 
   city: erdutka
-  accentcity: "Erd\xC3\xBAtka"
+  accentcity: "Erdútka"
   region: 08
   population: 
   latitude: "49.3833333"
@@ -9935,7 +9935,7 @@ ersek-lel:
   longitude: "17.9"
 ersekujvar: 
   city: ersekujvar
-  accentcity: "\xC3\x89rsek\xC3\xBAjv\xC3\xA1r"
+  accentcity: "\xC3\x89rsekújv\xC3\xA1r"
   region: "04"
   population: 
   latitude: "47.9833333"
@@ -10530,7 +10530,7 @@ gaboltov:
   longitude: "21.15"
 gadocpuszta: 
   city: gadocpuszta
-  accentcity: "Gad\xC3\xB3cpuszta"
+  accentcity: "Gadócpuszta"
   region: "04"
   population: 
   latitude: "47.7833333"
@@ -10551,7 +10551,7 @@ gajdos:
   longitude: "22.1166667"
 gajdove kupele: 
   city: gajdove kupele
-  accentcity: "Gajdove K\xC3\xBApele"
+  accentcity: "Gajdove Kúpele"
   region: "03"
   population: 
   latitude: "48.75"
@@ -11748,7 +11748,7 @@ harmanec:
   longitude: "19.05"
 harmonia: 
   city: harmonia
-  accentcity: "Harm\xC3\xB3nia"
+  accentcity: "Harmónia"
   region: "07"
   population: 
   latitude: "48.3666667"
@@ -11762,7 +11762,7 @@ harsag:
   longitude: "21.3"
 harskut: 
   city: harskut
-  accentcity: "H\xC3\xA1rsk\xC3\xBAt"
+  accentcity: "H\xC3\xA1rskút"
   region: "03"
   population: 
   latitude: "48.6333333"
@@ -11923,7 +11923,7 @@ hegymeg:
   longitude: "19.9166667"
 hegy-sur: 
   city: hegy-sur
-  accentcity: "Hegy-S\xC3\xBAr"
+  accentcity: "Hegy-Súr"
   region: "02"
   population: 
   latitude: "48.1666667"
@@ -12063,7 +12063,7 @@ hideghet:
   longitude: "17.3"
 hidegkut: 
   city: hidegkut
-  accentcity: "Hidegk\xC3\xBAt"
+  accentcity: "Hidegkút"
   region: "01"
   population: 
   latitude: "48.1666667"
@@ -13883,7 +13883,7 @@ horny keblov:
   longitude: "18.6333333"
 horny kerestur: 
   city: horny kerestur
-  accentcity: "Horn\xC3\xBD Kerest\xC3\xBAr"
+  accentcity: "Horn\xC3\xBD Kerestúr"
   region: "04"
   population: 
   latitude: "48.0666667"
@@ -14142,7 +14142,7 @@ hostovice:
   longitude: "22.15"
 hosusovo: 
   city: hosusovo
-  accentcity: "Hos\xC3\xBAsovo"
+  accentcity: "Hosúsovo"
   region: "03"
   population: 
   latitude: "48.5"
@@ -14555,7 +14555,7 @@ hronska breznica:
   longitude: "19.0"
 hronska dubrava: 
   city: hronska dubrava
-  accentcity: "Hronsk\xC3\xA1 D\xC3\xBAbrava"
+  accentcity: "Hronsk\xC3\xA1 Dúbrava"
   region: "01"
   population: 
   latitude: "48.5833333"
@@ -14940,7 +14940,7 @@ hylov:
   longitude: "21.1166667"
 iglo: 
   city: iglo
-  accentcity: "Igl\xC3\xB3"
+  accentcity: "Igló"
   region: "05"
   population: 
   latitude: "48.95"
@@ -15941,7 +15941,7 @@ jaszfalu:
   longitude: "18.4"
 jaszo: 
   city: jaszo
-  accentcity: "J\xC3\xA1sz\xC3\xB3"
+  accentcity: "J\xC3\xA1szó"
   region: "03"
   population: 
   latitude: "48.6833333"
@@ -16193,14 +16193,14 @@ johannesberg:
   longitude: "18.9166667"
 joka: 
   city: joka
-  accentcity: "J\xC3\xB3ka"
+  accentcity: "Jóka"
   region: "02"
   population: 
   latitude: "48.15"
   longitude: "17.5166667"
 jolesz: 
   city: jolesz
-  accentcity: "J\xC3\xB3l\xC3\xA9sz"
+  accentcity: "Jól\xC3\xA9sz"
   region: "03"
   population: 
   latitude: "48.6333333"
@@ -16326,7 +16326,7 @@ kabancova:
   longitude: "19.1166667"
 kacago: 
   city: kacago
-  accentcity: "Kacag\xC3\xB3"
+  accentcity: "Kacagó"
   region: "03"
   population: 
   latitude: "48.3166667"
@@ -17131,14 +17131,14 @@ keresovce:
   longitude: "20.4666667"
 kerestur: 
   city: kerestur
-  accentcity: "Kerest\xC3\xBAr"
+  accentcity: "Kerestúr"
   region: "07"
   population: 
   latitude: "48.3333333"
   longitude: "17.6666667"
 kerestury: 
   city: kerestury
-  accentcity: "Kerest\xC3\xBAry"
+  accentcity: "Kerestúry"
   region: "01"
   population: 
   latitude: "48.3666667"
@@ -17208,7 +17208,7 @@ keszolces:
   longitude: "17.3833333"
 ketkeresztur: 
   city: ketkeresztur
-  accentcity: "K\xC3\xA9tkereszt\xC3\xBAr"
+  accentcity: "K\xC3\xA9tkeresztúr"
   region: "01"
   population: 
   latitude: "48.3666667"
@@ -17334,7 +17334,7 @@ kis-ceteny:
   longitude: "18.1833333"
 kis-dioszeg: 
   city: kis-dioszeg
-  accentcity: "Kis-Di\xC3\xB3szeg"
+  accentcity: "Kis-Diószeg"
   region: "07"
   population: 
   latitude: "48.2"
@@ -17418,7 +17418,7 @@ kis-kovesd:
   longitude: "21.8"
 kis-lucs: 
   city: kis-lucs
-  accentcity: "Kis-L\xC3\xBAcs"
+  accentcity: "Kis-Lúcs"
   region: "02"
   population: 
   latitude: "47.9833333"
@@ -17481,7 +17481,7 @@ kis-raska:
   longitude: "21.9166667"
 kis-sallo: 
   city: kis-sallo
-  accentcity: "Kis-Sall\xC3\xB3"
+  accentcity: "Kis-Salló"
   region: "04"
   population: 
   latitude: "48.1"
@@ -17495,14 +17495,14 @@ kisseben:
   longitude: "21.1"
 kis-somlyo: 
   city: kis-somlyo
-  accentcity: "Kis-Somly\xC3\xB3"
+  accentcity: "Kis-Somlyó"
   region: "04"
   population: 
   latitude: "47.85"
   longitude: "18.4666667"
 kis somlyo pusta: 
   city: kis somlyo pusta
-  accentcity: "Kis Somly\xC3\xB3 Pusta"
+  accentcity: "Kis Somlyó Pusta"
   region: "04"
   population: 
   latitude: "47.85"
@@ -17908,7 +17908,7 @@ kobeliarovo:
   longitude: "20.3666667"
 kobolkut: 
   city: kobolkut
-  accentcity: "K\xC3\xB6b\xC3\xB6lk\xC3\xBAt"
+  accentcity: "K\xC3\xB6b\xC3\xB6lkút"
   region: "04"
   population: 
   latitude: "47.85"
@@ -19091,7 +19091,7 @@ krajna pol'ana:
   longitude: "21.6833333"
 krajna porubka: 
   city: krajna porubka
-  accentcity: "Krajn\xC3\xA1 Por\xC3\xBAbka"
+  accentcity: "Krajn\xC3\xA1 Porúbka"
   region: "05"
   population: 
   latitude: "49.4"
@@ -19266,7 +19266,7 @@ krasna:
   longitude: "19.9666667"
 krasna luka: 
   city: krasna luka
-  accentcity: "Kr\xC3\xA1sna L\xC3\xBAka"
+  accentcity: "Kr\xC3\xA1sna Lúka"
   region: "05"
   population: 
   latitude: "49.2"
@@ -19294,7 +19294,7 @@ krasna ves:
   longitude: "18.2333333"
 krasnohorska dlha luka: 
   city: krasnohorska dlha luka
-  accentcity: "Kr\xC3\xA1snohorsk\xC3\xA1 Dlh\xC3\xA1 L\xC3\xBAka"
+  accentcity: "Kr\xC3\xA1snohorsk\xC3\xA1 Dlh\xC3\xA1 Lúka"
   region: "03"
   population: 
   latitude: "48.6166667"
@@ -19553,7 +19553,7 @@ krivostany:
   longitude: "21.85"
 krivosud: 
   city: krivosud
-  accentcity: "Krivos\xC3\xBAd"
+  accentcity: "Krivosúd"
   region: "06"
   population: 
   latitude: "48.8166667"
@@ -20001,7 +20001,7 @@ kupele cerveny klastor:
   longitude: "20.4333333"
 kupele: 
   city: kupele
-  accentcity: "K\xC3\xBApele"
+  accentcity: "Kúpele"
   region: "03"
   population: 
   latitude: "48.4833333"
@@ -20120,14 +20120,14 @@ kutnarie:
   longitude: "18.3833333"
 kutniky: 
   city: kutniky
-  accentcity: "K\xC3\xBAtniky"
+  accentcity: "Kútniky"
   region: "02"
   population: 
   latitude: "47.9666667"
   longitude: "17.6666667"
 kuty: 
   city: kuty
-  accentcity: "K\xC3\xBAty"
+  accentcity: "Kúty"
   region: "02"
   population: 
   latitude: "48.6666667"
@@ -20554,14 +20554,14 @@ lastovce:
   longitude: "21.6333333"
 laszlomuve: 
   city: laszlomuve
-  accentcity: "L\xC3\xA1szl\xC3\xB3m\xC3\xBCve"
+  accentcity: "L\xC3\xA1szlóm\xC3\xBCve"
   region: "04"
   population: 
   latitude: "48.2166667"
   longitude: "18.5666667"
 laszlo tanya: 
   city: laszlo tanya
-  accentcity: "L\xC3\xA1szl\xC3\xB3 Tanya"
+  accentcity: "L\xC3\xA1szló Tanya"
   region: "03"
   population: 
   latitude: "48.5666667"
@@ -21331,7 +21331,7 @@ liptovska osada:
   longitude: "19.2666667"
 liptovska porubka: 
   city: liptovska porubka
-  accentcity: "Liptovsk\xC3\xA1 Por\xC3\xBAbka"
+  accentcity: "Liptovsk\xC3\xA1 Porúbka"
   region: "01"
   population: 
   latitude: "49.0333333"
@@ -21394,7 +21394,7 @@ liptovske matiasovce:
   longitude: "19.5666667"
 liptovske revuce: 
   city: liptovske revuce
-  accentcity: "Liptovsk\xC3\xA9 Rev\xC3\xBAce"
+  accentcity: "Liptovsk\xC3\xA9 Revúce"
   region: "01"
   population: 
   latitude: "48.9333333"
@@ -21674,7 +21674,7 @@ lopej:
   longitude: "19.5"
 lopuchov: 
   city: lopuchov
-  accentcity: "Lop\xC3\xBAchov"
+  accentcity: "Lopúchov"
   region: "05"
   population: 
   latitude: "49.1333333"
@@ -21723,7 +21723,7 @@ losonec:
   longitude: "17.4"
 lot: 
   city: lot
-  accentcity: "L\xC3\xB3t"
+  accentcity: "Lót"
   region: "04"
   population: 
   latitude: "48.0666667"
@@ -22031,7 +22031,7 @@ lukahaza:
   longitude: "21.9833333"
 luka: 
   city: luka
-  accentcity: "L\xC3\xBAka"
+  accentcity: "Lúka"
   region: "06"
   population: 
   latitude: "48.6666667"
@@ -22087,7 +22087,7 @@ lukov nad toplou:
   longitude: "21.0833333"
 luky: 
   city: luky
-  accentcity: "L\xC3\xBAky"
+  accentcity: "Lúky"
   region: 08
   population: 
   latitude: "49.2833333"
@@ -23809,7 +23809,7 @@ matuskovo:
   longitude: "17.7333333"
 matyoc: 
   city: matyoc
-  accentcity: "M\xC3\xA1ty\xC3\xB3c"
+  accentcity: "M\xC3\xA1tyóc"
   region: "03"
   population: 
   latitude: "48.5666667"
@@ -23928,7 +23928,7 @@ medve:
   longitude: "17.6666667"
 medveshidegkut: 
   city: medveshidegkut
-  accentcity: "Medveshidegk\xC3\xBAt"
+  accentcity: "Medveshidegkút"
   region: "01"
   population: 
   latitude: "48.1666667"
@@ -24880,7 +24880,7 @@ mogdove:
   longitude: "18.7333333"
 mogyoros: 
   city: mogyoros
-  accentcity: "Mogyor\xC3\xB3s"
+  accentcity: "Mogyorós"
   region: "03"
   population: 
   latitude: "48.5833333"
@@ -24957,7 +24957,7 @@ mokrad:
   longitude: "19.3"
 mokra luka: 
   city: mokra luka
-  accentcity: "Mokr\xC3\xA1 L\xC3\xBAka"
+  accentcity: "Mokr\xC3\xA1 Lúka"
   region: "03"
   population: 
   latitude: "48.6666667"
@@ -25069,7 +25069,7 @@ moravsky svaty jan:
   longitude: "17.0166667"
 moroc-karcsa: 
   city: moroc-karcsa
-  accentcity: "M\xC3\xB3roc-Karcsa"
+  accentcity: "Móroc-Karcsa"
   region: "02"
   population: 
   latitude: "47.9666667"
@@ -25272,7 +25272,7 @@ muran:
   longitude: "20.05"
 muranska dlha luka: 
   city: muranska dlha luka
-  accentcity: "Mur\xC3\xA1nska Dlh\xC3\xA1 L\xC3\xBAka"
+  accentcity: "Mur\xC3\xA1nska Dlh\xC3\xA1 Lúka"
   region: "01"
   population: 
   latitude: "48.7166667"
@@ -25538,14 +25538,14 @@ nagy-csalomija:
   longitude: "19.2"
 nagy-daroc: 
   city: nagy-daroc
-  accentcity: "Nagy-Dar\xC3\xB3c"
+  accentcity: "Nagy-Daróc"
   region: "01"
   population: 
   latitude: "48.35"
   longitude: "19.85"
 nagy-dioszeg: 
   city: nagy-dioszeg
-  accentcity: "Nagy-Di\xC3\xB3szeg"
+  accentcity: "Nagy-Diószeg"
   region: "07"
   population: 
   latitude: "48.2"
@@ -25629,7 +25629,7 @@ nagy-kovesd:
   longitude: "21.8166667"
 nagy-lucs: 
   city: nagy-lucs
-  accentcity: "Nagy-L\xC3\xBAcs"
+  accentcity: "Nagy-Lúcs"
   region: "02"
   population: 
   latitude: "47.9833333"
@@ -25685,28 +25685,28 @@ nagy-raska:
   longitude: "21.9166667"
 nagy-sallo: 
   city: nagy-sallo
-  accentcity: "Nagy-Sall\xC3\xB3"
+  accentcity: "Nagy-Salló"
   region: "04"
   population: 
   latitude: "48.1"
   longitude: "18.5333333"
 nagy-saro: 
   city: nagy-saro
-  accentcity: "Nagy-S\xC3\xA1r\xC3\xB3"
+  accentcity: "Nagy-S\xC3\xA1ró"
   region: "04"
   population: 
   latitude: "48.1"
   longitude: "18.65"
 nagy-somlyo: 
   city: nagy-somlyo
-  accentcity: "Nagy-Somly\xC3\xB3"
+  accentcity: "Nagy-Somlyó"
   region: "04"
   population: 
   latitude: "47.8333333"
   longitude: "18.4666667"
 nagy somlyo pusta: 
   city: nagy somlyo pusta
-  accentcity: "Nagy Somly\xC3\xB3 Pusta"
+  accentcity: "Nagy Somlyó Pusta"
   region: "04"
   population: 
   latitude: "47.8333333"
@@ -25797,14 +25797,14 @@ namestovo:
   longitude: "19.5"
 nameszto: 
   city: nameszto
-  accentcity: "N\xC3\xA1meszt\xC3\xB3"
+  accentcity: "N\xC3\xA1mesztó"
   region: 08
   population: 
   latitude: "49.4"
   longitude: "19.5"
 namiestow: 
   city: namiestow
-  accentcity: "Namiest\xC3\xB3w"
+  accentcity: "Namiestów"
   region: 08
   population: 
   latitude: "49.4"
@@ -26133,7 +26133,7 @@ nemet-gurab:
   longitude: "17.5"
 nemetprona: 
   city: nemetprona
-  accentcity: "N\xC3\xA9metpr\xC3\xB3na"
+  accentcity: "N\xC3\xA9metpróna"
   region: 08
   population: 
   latitude: "48.8666667"
@@ -27414,7 +27414,7 @@ novot:
   longitude: "19.55"
 novoveske kupele: 
   city: novoveske kupele
-  accentcity: "Novovesk\xC3\xA9 K\xC3\xBApele"
+  accentcity: "Novovesk\xC3\xA9 Kúpele"
   region: "03"
   population: 
   latitude: "48.9"
@@ -28387,7 +28387,7 @@ osrblie:
   longitude: "19.5333333"
 ostra luka: 
   city: ostra luka
-  accentcity: "Ostr\xC3\xA1 L\xC3\xBAka"
+  accentcity: "Ostr\xC3\xA1 Lúka"
   region: "01"
   population: 
   latitude: "48.55"
@@ -28765,7 +28765,7 @@ paludza:
   longitude: "19.5333333"
 paludzka: 
   city: paludzka
-  accentcity: "Pal\xC3\xBAdzka"
+  accentcity: "Palúdzka"
   region: "01"
   population: 
   latitude: "49.0833333"
@@ -28842,7 +28842,7 @@ panske pole:
   longitude: "17.8"
 panyit-daroc: 
   city: panyit-daroc
-  accentcity: "Panyit-Dar\xC3\xB3c"
+  accentcity: "Panyit-Daróc"
   region: "01"
   population: 
   latitude: "48.2833333"
@@ -29031,14 +29031,14 @@ pastuchov:
   longitude: "17.8833333"
 pastuchy: 
   city: pastuchy
-  accentcity: "Past\xC3\xBAchy"
+  accentcity: "Pastúchy"
   region: "02"
   population: 
   latitude: "47.8666667"
   longitude: "17.6666667"
 paszto: 
   city: paszto
-  accentcity: "Paszt\xC3\xB3"
+  accentcity: "Pasztó"
   region: "04"
   population: 
   latitude: "47.9666667"
@@ -29178,7 +29178,7 @@ pavlusi:
   longitude: "18.7333333"
 pavuci: 
   city: pavuci
-  accentcity: "Pav\xC3\xBAci"
+  accentcity: "Pavúci"
   region: "06"
   population: 
   latitude: "49.15"
@@ -29283,7 +29283,7 @@ pelsoc:
   longitude: "20.4"
 pentek-sur: 
   city: pentek-sur
-  accentcity: "P\xC3\xA9ntek-S\xC3\xBAr"
+  accentcity: "P\xC3\xA9ntek-Súr"
   region: "02"
   population: 
   latitude: "48.1833333"
@@ -29969,7 +29969,7 @@ pocuvadlo:
   longitude: "18.8333333"
 poda-tejed: 
   city: poda-tejed
-  accentcity: "P\xC3\xB3da-Tejed"
+  accentcity: "Póda-Tejed"
   region: "02"
   population: 
   latitude: "47.9666667"
@@ -30620,7 +30620,7 @@ poruba:
   longitude: "19.2666667"
 porubka: 
   city: porubka
-  accentcity: "Por\xC3\xBAbka"
+  accentcity: "Porúbka"
   region: 08
   population: 
   latitude: "49.1666667"
@@ -31362,7 +31362,7 @@ pucho:
   longitude: "18.3333333"
 puchov: 
   city: puchov
-  accentcity: "P\xC3\xBAchov"
+  accentcity: "Púchov"
   region: 08
   population: "18833"
   latitude: "49.1333333"
@@ -31383,7 +31383,7 @@ pudmerice:
   longitude: "17.4166667"
 puho: 
   city: puho
-  accentcity: "Puh\xC3\xB3"
+  accentcity: "Puhó"
   region: 08
   population: 
   latitude: "49.1333333"
@@ -31425,7 +31425,7 @@ pusta dapsa:
   longitude: "20.25"
 pusta dola: 
   city: pusta dola
-  accentcity: "Pusta D\xC3\xB3la"
+  accentcity: "Pusta Dóla"
   region: "01"
   population: 
   latitude: "48.35"
@@ -31712,7 +31712,7 @@ radisa:
   longitude: "18.35"
 radnot: 
   city: radnot
-  accentcity: "Radn\xC3\xB3t"
+  accentcity: "Radnót"
   region: "03"
   population: 
   latitude: "48.35"
@@ -31957,7 +31957,7 @@ raksa:
   longitude: "18.8833333"
 rakusy: 
   city: rakusy
-  accentcity: "Rak\xC3\xBAsy"
+  accentcity: "Rakúsy"
   region: "05"
   population: 
   latitude: "49.1833333"
@@ -32328,14 +32328,14 @@ revistske podzamcie:
   longitude: "18.7333333"
 revuca: 
   city: revuca
-  accentcity: "Rev\xC3\xBAca"
+  accentcity: "Revúca"
   region: "01"
   population: "13466"
   latitude: "48.6833333"
   longitude: "20.1166667"
 revucka lehota: 
   city: revucka lehota
-  accentcity: "Rev\xC3\xBAcka Lehota"
+  accentcity: "Revúcka Lehota"
   region: "03"
   population: 
   latitude: "48.6833333"
@@ -32419,7 +32419,7 @@ rieka:
   longitude: "18.2166667"
 rigo tanya: 
   city: rigo tanya
-  accentcity: "Rig\xC3\xB3 Tanya"
+  accentcity: "Rigó Tanya"
   region: "04"
   population: 
   latitude: "47.8333333"
@@ -32545,7 +32545,7 @@ rohoznik:
   longitude: "21.7666667"
 rokalyukpuszta: 
   city: rokalyukpuszta
-  accentcity: "R\xC3\xB3kalyukpuszta"
+  accentcity: "Rókalyukpuszta"
   region: "04"
   population: 
   latitude: "47.8666667"
@@ -32769,7 +32769,7 @@ roznove mitice:
   longitude: "18.1166667"
 rozsnyo: 
   city: rozsnyo
-  accentcity: "Rozsny\xC3\xB3"
+  accentcity: "Rozsnyó"
   region: "03"
   population: 
   latitude: "48.6666667"
@@ -32867,7 +32867,7 @@ rudnianska lehota:
   longitude: "18.4666667"
 rudnianske kupele: 
   city: rudnianske kupele
-  accentcity: "Rudnianske K\xC3\xBApele"
+  accentcity: "Rudnianske Kúpele"
   region: "03"
   population: 
   latitude: "48.7166667"
@@ -33273,14 +33273,14 @@ sajdikove humence:
   longitude: "17.2666667"
 sajo-keszi: 
   city: sajo-keszi
-  accentcity: "Saj\xC3\xB3-Keszi"
+  accentcity: "Sajó-Keszi"
   region: "03"
   population: 
   latitude: "48.3833333"
   longitude: "20.35"
 sajolenartfalva: 
   city: sajolenartfalva
-  accentcity: "Saj\xC3\xB3l\xC3\xA9n\xC3\xA1rtfalva"
+  accentcity: "Sajól\xC3\xA9n\xC3\xA1rtfalva"
   region: "03"
   population: 
   latitude: "48.3"
@@ -33301,7 +33301,7 @@ salajka:
   longitude: "19.75"
 salakuzy: 
   city: salakuzy
-  accentcity: "Salak\xC3\xBAzy"
+  accentcity: "Salakúzy"
   region: "04"
   population: 
   latitude: "48.3833333"
@@ -33378,7 +33378,7 @@ salkova:
   longitude: "19.2166667"
 sallo: 
   city: sallo
-  accentcity: "Sall\xC3\xB3"
+  accentcity: "Salló"
   region: "04"
   population: 
   latitude: "48.0"
@@ -33630,7 +33630,7 @@ sarkanska pusta:
   longitude: "17.7"
 sarkanyto pusta: 
   city: sarkanyto pusta
-  accentcity: "S\xC3\xA1rk\xC3\xA1nyt\xC3\xB3 Pusta"
+  accentcity: "S\xC3\xA1rk\xC3\xA1nytó Pusta"
   region: "02"
   population: 
   latitude: "48.0333333"
@@ -34855,7 +34855,7 @@ slatinka:
   longitude: "19.7"
 slatinne kupele: 
   city: slatinne kupele
-  accentcity: "Slatinn\xC3\xA9 K\xC3\xBApele"
+  accentcity: "Slatinn\xC3\xA9 Kúpele"
   region: "01"
   population: 
   latitude: "48.1333333"
@@ -36353,7 +36353,7 @@ streda nad bodrokom:
   longitude: "21.7666667"
 stredna revuca: 
   city: stredna revuca
-  accentcity: "Stredn\xC3\xA1 Rev\xC3\xBAca"
+  accentcity: "Stredn\xC3\xA1 Revúca"
   region: "01"
   population: 
   latitude: "48.9166667"
@@ -36388,7 +36388,7 @@ stredne turovce:
   longitude: "18.95"
 strednia revuca: 
   city: strednia revuca
-  accentcity: "Strednia Rev\xC3\xBAca"
+  accentcity: "Strednia Revúca"
   region: "01"
   population: 
   latitude: "48.9166667"
@@ -36675,7 +36675,7 @@ sucha dolina:
   longitude: "21.15"
 sucha gora: 
   city: sucha gora
-  accentcity: "Sucha G\xC3\xB3ra"
+  accentcity: "Sucha Góra"
   region: 08
   population: 
   latitude: "49.3666667"
@@ -36731,7 +36731,7 @@ sudince:
   longitude: "18.8833333"
 sudovce: 
   city: sudovce
-  accentcity: "S\xC3\xBAdovce"
+  accentcity: "Súdovce"
   region: "04"
   population: 
   latitude: "48.2166667"
@@ -36815,7 +36815,7 @@ sulova:
   longitude: "20.4833333"
 sulovce: 
   city: sulovce
-  accentcity: "S\xC3\xBAlovce"
+  accentcity: "Súlovce"
   region: "04"
   population: 
   latitude: "48.4666667"
@@ -36920,7 +36920,7 @@ susty:
   longitude: "17.4333333"
 sutor: 
   city: sutor
-  accentcity: "S\xC3\xBAtor"
+  accentcity: "Sútor"
   region: "03"
   population: 
   latitude: "48.35"
@@ -37445,7 +37445,7 @@ szalkai pusta:
   longitude: "18.7333333"
 szaloc: 
   city: szaloc
-  accentcity: "Szal\xC3\xB3c"
+  accentcity: "Szalóc"
   region: "03"
   population: 
   latitude: "48.5833333"
@@ -37536,7 +37536,7 @@ szent-mihalyfa:
   longitude: "17.5166667"
 szent miklospuszta: 
   city: szent miklospuszta
-  accentcity: "Szent Mikl\xC3\xB3spuszta"
+  accentcity: "Szent Miklóspuszta"
   region: "04"
   population: 
   latitude: "47.9333333"
@@ -37571,14 +37571,14 @@ szepes-mindszent:
   longitude: "20.8"
 szepesofalu: 
   city: szepesofalu
-  accentcity: "Szepes\xC3\xB3falu"
+  accentcity: "Szepesófalu"
   region: "05"
   population: 
   latitude: "49.3833333"
   longitude: "20.3666667"
 szepestotfalu: 
   city: szepestotfalu
-  accentcity: "Szepest\xC3\xB3tfalu"
+  accentcity: "Szepestótfalu"
   region: "05"
   population: 
   latitude: "49.2333333"
@@ -37662,7 +37662,7 @@ szkaros:
   longitude: "20.2"
 szodo: 
   city: szodo
-  accentcity: "Sz\xC3\xB3d\xC3\xB3"
+  accentcity: "Szódó"
   region: "04"
   population: 
   latitude: "48.0833333"
@@ -37704,7 +37704,7 @@ sztagnoza:
   longitude: "17.9666667"
 sztropko: 
   city: sztropko
-  accentcity: "Sztropk\xC3\xB3"
+  accentcity: "Sztropkó"
   region: "05"
   population: 
   latitude: "49.2"
@@ -37788,7 +37788,7 @@ talka:
   longitude: "21.4166667"
 tallos: 
   city: tallos
-  accentcity: "Tall\xC3\xB3s"
+  accentcity: "Tallós"
   region: "07"
   population: 
   latitude: "48.0833333"
@@ -38621,7 +38621,7 @@ torna-ujfalu:
   longitude: "20.9"
 tornoc: 
   city: tornoc
-  accentcity: "Torn\xC3\xB3c"
+  accentcity: "Tornóc"
   region: "04"
   population: 
   latitude: "48.15"
@@ -38670,14 +38670,14 @@ tos-nyarasd:
   longitude: "17.8"
 totfalu: 
   city: totfalu
-  accentcity: "T\xC3\xB3tfalu"
+  accentcity: "Tótfalu"
   region: "05"
   population: 
   latitude: "49.2333333"
   longitude: "20.4333333"
 tot megyer: 
   city: tot megyer
-  accentcity: "T\xC3\xB3t Megyer"
+  accentcity: "Tót Megyer"
   region: "04"
   population: 
   latitude: "48.05"
@@ -39202,7 +39202,7 @@ tupa:
   longitude: "18.9"
 tura luka: 
   city: tura luka
-  accentcity: "Tur\xC3\xA1 L\xC3\xBAka"
+  accentcity: "Tur\xC3\xA1 Lúka"
   region: "06"
   population: 
   latitude: "48.75"
@@ -39433,7 +39433,7 @@ tuzina:
   longitude: "18.6166667"
 tuzok pusta: 
   city: tuzok pusta
-  accentcity: "T\xC3\xBAzok Pusta"
+  accentcity: "Túzok Pusta"
   region: "02"
   population: 
   latitude: "47.9166667"
@@ -39713,7 +39713,7 @@ ujezd:
   longitude: "18.0666667"
 ujhely-joka: 
   city: ujhely-joka
-  accentcity: "Ujhely-J\xC3\xB3ka"
+  accentcity: "Ujhely-Jóka"
   region: "02"
   population: 
   latitude: "48.1333333"
@@ -39888,7 +39888,7 @@ unter-turcek:
   longitude: "18.9166667"
 u paniku: 
   city: u paniku
-  accentcity: "U P\xC3\xA1nik\xC3\xBA"
+  accentcity: "U P\xC3\xA1nikú"
   region: "06"
   population: 
   latitude: "48.8"
@@ -39972,7 +39972,7 @@ ursinyovo:
   longitude: "18.5833333"
 u sabotu: 
   city: u sabotu
-  accentcity: "U Sabot\xC3\xBA"
+  accentcity: "U Sabotú"
   region: "06"
   population: 
   latitude: "48.8166667"
@@ -40119,7 +40119,7 @@ vagbeszterce:
   longitude: "18.45"
 vag-hosszufalu: 
   city: vag-hosszufalu
-  accentcity: "V\xC3\xA1g-Hossz\xC3\xBAfalu"
+  accentcity: "V\xC3\xA1g-Hosszúfalu"
   region: "04"
   population: 
   latitude: "48.1666667"
@@ -40413,7 +40413,7 @@ varasur:
   longitude: "17.7333333"
 varbo: 
   city: varbo
-  accentcity: "Varb\xC3\xB3"
+  accentcity: "Varbó"
   region: "01"
   population: 
   latitude: "48.0833333"
@@ -40469,7 +40469,7 @@ varsany:
   longitude: "18.6666667"
 vasarut: 
   city: vasarut
-  accentcity: "V\xC3\xA1s\xC3\xA1r\xC3\xBAt"
+  accentcity: "V\xC3\xA1s\xC3\xA1rút"
   region: "02"
   population: 
   latitude: "47.9833333"
@@ -40560,7 +40560,7 @@ vechec:
   longitude: "21.6333333"
 vecseklo: 
   city: vecseklo
-  accentcity: "Vecsekl\xC3\xB3"
+  accentcity: "Vecsekló"
   region: "01"
   population: 
   latitude: "48.1666667"
@@ -41645,7 +41645,7 @@ venecia:
   longitude: "21.0833333"
 verbocz: 
   city: verbocz
-  accentcity: "Verb\xC3\xB3cz"
+  accentcity: "Verbócz"
   region: "06"
   population: 
   latitude: "48.8"
@@ -41988,7 +41988,7 @@ visnov:
   longitude: "21.6666667"
 visnyo: 
   city: visnyo
-  accentcity: "Visny\xC3\xB3"
+  accentcity: "Visnyó"
   region: "03"
   population: 
   latitude: "48.5166667"
@@ -42548,7 +42548,7 @@ vrtizer:
   longitude: "18.4666667"
 vrutky: 
   city: vrutky
-  accentcity: "Vr\xC3\xBAtky"
+  accentcity: "Vrútky"
   region: 08
   population: "7298"
   latitude: "49.1166667"
@@ -43689,7 +43689,7 @@ zabudisova kopanica:
   longitude: "17.85"
 zabzo: 
   city: zabzo
-  accentcity: "Zabz\xC3\xB3"
+  accentcity: "Zabzó"
   region: "01"
   population: 
   latitude: "48.3666667"
@@ -43920,7 +43920,7 @@ zamutov:
   longitude: "21.5666667"
 zanska luka: 
   city: zanska luka
-  accentcity: "Z\xC3\xA1nska L\xC3\xBAka"
+  accentcity: "Z\xC3\xA1nska Lúka"
   region: "07"
   population: 
   latitude: "48.2333333"
@@ -44788,7 +44788,7 @@ zolna:
   longitude: "19.2333333"
 zolyom: 
   city: zolyom
-  accentcity: "Z\xC3\xB3lyom"
+  accentcity: "Zólyom"
   region: "01"
   population: 
   latitude: "48.5833333"
@@ -44816,7 +44816,7 @@ zorkovce:
   longitude: "18.8666667"
 zsarno: 
   city: zsarno
-  accentcity: "Zsarn\xC3\xB3"
+  accentcity: "Zsarnó"
   region: "03"
   population: 
   latitude: "48.5833333"

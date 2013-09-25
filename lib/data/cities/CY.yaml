@@ -317,7 +317,7 @@ agios sozomenos:
   longitude: "33.4375"
 agios theodoros: 
   city: agios theodoros
-  accentcity: "\xC3\x81gios The\xC3\xB3doros"
+  accentcity: "\xC3\x81gios Theódoros"
   region: "05"
   population: 
   latitude: "34.8958333"
@@ -2417,7 +2417,7 @@ avdeler:
   longitude: "33.5708333"
 avdelero: 
   city: avdelero
-  accentcity: "Avdeler\xC3\xB3"
+  accentcity: "Avdeleró"
   region: "03"
   population: 
   latitude: "35.0125"
@@ -3334,7 +3334,7 @@ ayios vavatsinia:
   longitude: "33.1916667"
 ayios yeorgios: 
   city: ayios yeorgios
-  accentcity: "\xC3\x81yios Ye\xC3\xB3rgios"
+  accentcity: "\xC3\x81yios Yeórgios"
   region: "01"
   population: 
   latitude: "35.2583333"
@@ -5511,7 +5511,7 @@ engomi:
   longitude: "33.3458333"
 enkomi: 
   city: enkomi
-  accentcity: "Enk\xC3\xB3mi"
+  accentcity: "Enkómi"
   region: "04"
   population: 
   latitude: "35.1666667"
@@ -7170,7 +7170,7 @@ istinco:
   longitude: "32.5208333"
 istingo: 
   city: istingo
-  accentcity: "Isting\xC3\xB3"
+  accentcity: "Istingó"
   region: "06"
   population: 
   latitude: "34.9708333"
@@ -9410,7 +9410,7 @@ koilani:
   longitude: "32.8625"
 koilas ton kedron: 
   city: koilas ton kedron
-  accentcity: "Koil\xC3\xA1s t\xC3\xB3n K\xC3\xA9dron"
+  accentcity: "Koil\xC3\xA1s tón K\xC3\xA9dron"
   region: "06"
   population: 
   latitude: "34.9833333"
@@ -13155,7 +13155,7 @@ palaekythro:
   longitude: "33.4875"
 palaeo metokhi: 
   city: palaeo metokhi
-  accentcity: "Pal\xC3\xA6\xC3\xB3 Met\xC3\xB3khi"
+  accentcity: "Pal\xC3\xA6ó Metókhi"
   region: "04"
   population: 
   latitude: "35.125"
@@ -17523,7 +17523,7 @@ vroisha:
   longitude: "32.6666667"
 vroisia: 
   city: vroisia
-  accentcity: "Vr\xC3\xB3isia"
+  accentcity: "Vróisia"
   region: "04"
   population: 
   latitude: "35.0666667"

@@ -359,7 +359,7 @@ ankor pias:
   longitude: "103.7166667"
 anlong: 
   city: anlong
-  accentcity: "\xC3\x82nl\xC3\xB3ng"
+  accentcity: "\xC3\x82nlóng"
   region: "10"
   population: 
   latitude: "13.0833333"
@@ -520,7 +520,7 @@ anlong trach:
   longitude: "103.3166667"
 anlong veng: 
   city: anlong veng
-  accentcity: "\xC3\x82nl\xC3\xB3ng V\xC3\xAAng"
+  accentcity: "\xC3\x82nlóng V\xC3\xAAng"
   region: "16"
   population: 
   latitude: "14.2333333"
@@ -646,7 +646,7 @@ antit sok:
   longitude: "103.7666667"
 antong sar: 
   city: antong sar
-  accentcity: "\xC3\x82nt\xC3\xB3ng S\xC3\xA2r"
+  accentcity: "\xC3\x82ntóng S\xC3\xA2r"
   region: 08
   population: 
   latitude: "10.8166667"
@@ -2914,7 +2914,7 @@ buy phlok:
   longitude: "106.9"
 cai bua: 
   city: cai bua
-  accentcity: "C\xC3\xA1i B\xC3\xBAa"
+  accentcity: "C\xC3\xA1i Búa"
   region: "14"
   population: 
   latitude: "10.95"
@@ -4475,7 +4475,7 @@ dambe:
   longitude: "105.8833333"
 dambok khpos: 
   city: dambok khpos
-  accentcity: "D\xC3\xA2mbok Khp\xC3\xB3s"
+  accentcity: "D\xC3\xA2mbok Khpós"
   region: "04"
   population: 
   latitude: "11.1333333"
@@ -4965,7 +4965,7 @@ hung lo:
   longitude: "105.1833333"
 hung loi: 
   city: hung loi
-  accentcity: "Hung L\xC3\xB3i"
+  accentcity: "Hung Lói"
   region: "14"
   population: 
   latitude: "10.9333333"
@@ -5147,14 +5147,14 @@ kamphun:
   longitude: "106.1"
 kampong cham: 
   city: kampong cham
-  accentcity: "K\xC3\xA2mp\xC3\xB3ng Cham"
+  accentcity: "K\xC3\xA2mpóng Cham"
   region: "02"
   population: "61761"
   latitude: "12.0"
   longitude: "105.45"
 kampong chheuteal: 
   city: kampong chheuteal
-  accentcity: "K\xC3\xA2mp\xC3\xB3ng Chheut\xC3\xA9al"
+  accentcity: "K\xC3\xA2mpóng Chheut\xC3\xA9al"
   region: "05"
   population: 
   latitude: "12.8666667"
@@ -5196,7 +5196,7 @@ kampong kantuot:
   longitude: "104.8166667"
 kampong kdei: 
   city: kampong kdei
-  accentcity: "K\xC3\xA2mp\xC3\xB3ng Kdei"
+  accentcity: "K\xC3\xA2mpóng Kdei"
   region: "16"
   population: 
   latitude: "13.1166667"
@@ -5210,14 +5210,14 @@ kampong khleang:
   longitude: "104.1333333"
 kampong krabei: 
   city: kampong krabei
-  accentcity: "K\xC3\xA2mp\xC3\xB3ng Kr\xC3\xA2bei"
+  accentcity: "K\xC3\xA2mpóng Kr\xC3\xA2bei"
   region: 09
   population: 
   latitude: "12.8666667"
   longitude: "105.95"
 kampong ktei: 
   city: kampong ktei
-  accentcity: "K\xC3\xA2mp\xC3\xB3ng Ktei"
+  accentcity: "K\xC3\xA2mpóng Ktei"
   region: "16"
   population: 
   latitude: "13.1166667"
@@ -5259,7 +5259,7 @@ kampong rou:
   longitude: "105.9333333"
 kampong saom: 
   city: kampong saom
-  accentcity: "K\xC3\xA2mp\xC3\xB3ng Sa\xC3\xB4m"
+  accentcity: "K\xC3\xA2mpóng Sa\xC3\xB4m"
   region: "06"
   population: 
   latitude: "10.6333333"
@@ -5294,7 +5294,7 @@ kampong thom:
   longitude: "104.9"
 kampong thum: 
   city: kampong thum
-  accentcity: "K\xC3\xA2mp\xC3\xB3ng Thum"
+  accentcity: "K\xC3\xA2mpóng Thum"
   region: "05"
   population: "19955"
   latitude: "12.7"
@@ -5308,14 +5308,14 @@ kampong thun:
   longitude: "104.9"
 kampong trabek: 
   city: kampong trabek
-  accentcity: "K\xC3\xA2mp\xC3\xB3ng Tr\xC3\xA2b\xC3\xAAk"
+  accentcity: "K\xC3\xA2mpóng Tr\xC3\xA2b\xC3\xAAk"
   region: "14"
   population: 
   latitude: "11.15"
   longitude: "105.4666667"
 kampong trach: 
   city: kampong trach
-  accentcity: "K\xC3\xA2mp\xC3\xB3ng Trach"
+  accentcity: "K\xC3\xA2mpóng Trach"
   region: "06"
   population: 
   latitude: "10.5666667"
@@ -5329,7 +5329,7 @@ kampong trak:
   longitude: "104.4666667"
 kampong tralach: 
   city: kampong tralach
-  accentcity: "K\xC3\xA2mp\xC3\xB3ng Tr\xC3\xA2lach"
+  accentcity: "K\xC3\xA2mpóng Tr\xC3\xA2lach"
   region: "03"
   population: 
   latitude: "11.9"
@@ -11188,7 +11188,7 @@ memong:
   longitude: "106.1833333"
 memot: 
   city: memot
-  accentcity: "M\xC3\xA9m\xC3\xB3t"
+  accentcity: "M\xC3\xA9mót"
   region: "02"
   population: 
   latitude: "11.8166667"
@@ -11349,7 +11349,7 @@ mondol khiri city:
   longitude: "107.2833333"
 mondol kiri: 
   city: mondol kiri
-  accentcity: "M\xC3\xB4nd\xC3\xB3l Kiri"
+  accentcity: "M\xC3\xB4ndól Kiri"
   region: "10"
   population: 
   latitude: "12.4166667"
@@ -67160,7 +67160,7 @@ phum komreng:
   longitude: "104.9166667"
 phum komriep: 
   city: phum komriep
-  accentcity: "Ph\xC3\xBAm Komriep"
+  accentcity: "Phúm Komriep"
   region: "03"
   population: 
   latitude: "12.45"
@@ -71122,7 +71122,7 @@ phum punloh:
   longitude: "102.7833333"
 phum raivong: 
   city: phum raivong
-  accentcity: "Phum Raiv\xC3\xB3ng"
+  accentcity: "Phum Raivóng"
   region: 08
   population: 
   latitude: "11.7163889"
@@ -72123,7 +72123,7 @@ phum sang kho:
   longitude: "102.8666667"
 phum sang khor: 
   city: phum sang khor
-  accentcity: "Phum Sang Kh\xC3\xB3r"
+  accentcity: "Phum Sang Khór"
   region: "18"
   population: 
   latitude: "11.1166667"
@@ -73432,7 +73432,7 @@ phum svay khsach khnong:
   longitude: "105.1833333"
 phum svaylup: 
   city: phum svaylup
-  accentcity: "Phum Svayl\xC3\xBAp"
+  accentcity: "Phum Svaylúp"
   region: "02"
   population: 
   latitude: "11.8333333"
@@ -78374,7 +78374,7 @@ prey nhea:
   longitude: "104.9666667"
 prey nob: 
   city: prey nob
-  accentcity: "Prey N\xC3\xB3b"
+  accentcity: "Prey Nób"
   region: "06"
   population: 
   latitude: "10.6333333"
@@ -78591,7 +78591,7 @@ prey steang:
   longitude: "105.9833333"
 prey stung chrou: 
   city: prey stung chrou
-  accentcity: "Prey St\xC3\xBAng Chr\xC3\xB4u"
+  accentcity: "Prey Stúng Chr\xC3\xB4u"
   region: "07"
   population: 
   latitude: "11.4666667"
@@ -78955,7 +78955,7 @@ p'um banteai yuon:
   longitude: "104.0"
 p'um bat kandol: 
   city: p'um bat kandol
-  accentcity: "P'um B\xC3\xA2t K\xC3\xA2nd\xC3\xB3l"
+  accentcity: "P'um B\xC3\xA2t K\xC3\xA2ndól"
   region: "12"
   population: 
   latitude: "12.65"
@@ -79088,7 +79088,7 @@ pum klang:
   longitude: "103.8666667"
 p'um koh paa: 
   city: p'um koh paa
-  accentcity: "P'um K\xC3\xB3h Paa"
+  accentcity: "P'um Kóh Paa"
   region: "12"
   population: 
   latitude: "12.6166667"
@@ -80285,7 +80285,7 @@ rusey banteai:
   longitude: "105.1666667"
 rusey srok: 
   city: rusey srok
-  accentcity: "R\xC3\xBAsey Srok"
+  accentcity: "Rúsey Srok"
   region: "04"
   population: 
   latitude: "11.2666667"
@@ -81048,7 +81048,7 @@ semrong:
   longitude: "103.9"
 sen kong: 
   city: sen kong
-  accentcity: "S\xC3\xAAn K\xC3\xB3ng"
+  accentcity: "S\xC3\xAAn Kóng"
   region: "13"
   population: 
   latitude: "13.6"
@@ -81265,7 +81265,7 @@ skatoum:
   longitude: "106.3833333"
 skon: 
   city: skon
-  accentcity: "Sk\xC3\xB3n"
+  accentcity: "Skón"
   region: "02"
   population: 
   latitude: "12.0666667"
@@ -81426,7 +81426,7 @@ snay kreang:
   longitude: "105.7333333"
 snay pol: 
   city: snay pol
-  accentcity: "Snay P\xC3\xB3l"
+  accentcity: "Snay Pól"
   region: "14"
   population: 
   latitude: "11.6666667"
@@ -81580,7 +81580,7 @@ soc bray ho:
   longitude: "105.9333333"
 soc la tua: 
   city: soc la tua
-  accentcity: "S\xC3\xB3c L\xC3\xA0 Tua"
+  accentcity: "Sóc L\xC3\xA0 Tua"
   region: "06"
   population: 
   latitude: "10.5166667"
@@ -81720,7 +81720,7 @@ spoan trach:
   longitude: "104.95"
 spong: 
   city: spong
-  accentcity: "Sp\xC3\xB3ng"
+  accentcity: "Spóng"
   region: "17"
   population: 
   latitude: "13.45"
@@ -81972,7 +81972,7 @@ sre khlong:
   longitude: "104.3"
 sre khtong: 
   city: sre khtong
-  accentcity: "Sr\xC3\xAA Kht\xC3\xB3ng"
+  accentcity: "Sr\xC3\xAA Khtóng"
   region: "10"
   population: 
   latitude: "12.5333333"
@@ -83218,14 +83218,14 @@ takok:
   longitude: "102.9833333"
 ta kong krau: 
   city: ta kong krau
-  accentcity: "Ta K\xC3\xB3ng Krau"
+  accentcity: "Ta Kóng Krau"
   region: "01"
   population: 
   latitude: "13.5"
   longitude: "102.7333333"
 ta kong romchek: 
   city: ta kong romchek
-  accentcity: "Ta Kong R\xC3\xB3mchek"
+  accentcity: "Ta Kong Rómchek"
   region: "16"
   population: 
   latitude: "13.6833333"
@@ -83834,7 +83834,7 @@ tbeng khpos:
   longitude: "104.6333333"
 tbong beng: 
   city: tbong beng
-  accentcity: "Tb\xC3\xB3ng Beng"
+  accentcity: "Tbóng Beng"
   region: "04"
   population: 
   latitude: "11.2833333"
@@ -84492,7 +84492,7 @@ trabeh prahuong:
   longitude: "105.6833333"
 trabek komphom: 
   city: trabek komphom
-  accentcity: "Trabek Komph\xC3\xB3m"
+  accentcity: "Trabek Komphóm"
   region: "19"
   population: 
   latitude: "11.3166667"
@@ -84674,7 +84674,7 @@ trapeang an chanh:
   longitude: "105.15"
 trapeang andok: 
   city: trapeang andok
-  accentcity: "Trapeang And\xC3\xB3k"
+  accentcity: "Trapeang Andók"
   region: "04"
   population: 
   latitude: "11.6"
@@ -85185,7 +85185,7 @@ trayang po:
   longitude: "104.95"
 tra yung: 
   city: tra yung
-  accentcity: "Tra Y\xC3\xBAng"
+  accentcity: "Tra Yúng"
   region: "04"
   population: 
   latitude: "11.5166667"
@@ -87159,7 +87159,7 @@ vott chek:
   longitude: "105.7833333"
 vott chey mongkol: 
   city: vott chey mongkol
-  accentcity: "V\xC3\xB4tt Chey M\xC3\xB4ngk\xC3\xB3l"
+  accentcity: "V\xC3\xB4tt Chey M\xC3\xB4ngkól"
   region: "14"
   population: 
   latitude: "11.4333333"
@@ -87187,7 +87187,7 @@ vott chrey kdaong:
   longitude: "105.7166667"
 vott kampong svay: 
   city: vott kampong svay
-  accentcity: "V\xC3\xB4tt K\xC3\xA2mp\xC3\xB3ng Svay"
+  accentcity: "V\xC3\xB4tt K\xC3\xA2mpóng Svay"
   region: "05"
   population: 
   latitude: "12.75"

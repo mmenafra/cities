@@ -142,14 +142,14 @@ ashverfi:
   longitude: "-22.35"
 asolfsskali: 
   city: asolfsskali
-  accentcity: "\xC3\x81s\xC3\xB3lfssk\xC3\xA1li"
+  accentcity: "\xC3\x81sólfssk\xC3\xA1li"
   region: "23"
   population: 
   latitude: "63.566667"
   longitude: "-19.8"
 "au\xC3\xB0kula": 
   city: "au\xC3\xB0kula"
-  accentcity: "Au\xC3\xB0k\xC3\xBAla"
+  accentcity: "Au\xC3\xB0kúla"
   region: "36"
   population: 
   latitude: "65.766667"
@@ -163,14 +163,14 @@ baeir:
   longitude: "-22.55"
 baenahus: 
   city: baenahus
-  accentcity: "B\xC3\xA6nah\xC3\xBAs"
+  accentcity: "B\xC3\xA6nahús"
   region: "19"
   population: 
   latitude: "66.016667"
   longitude: "-22.45"
 baenshus: 
   city: baenshus
-  accentcity: "Baensh\xC3\xBAs"
+  accentcity: "Baenshús"
   region: "19"
   population: 
   latitude: "66.016667"
@@ -261,21 +261,21 @@ bjarnarhofn:
   longitude: "-22.966667"
 bjoluhverfi: 
   city: bjoluhverfi
-  accentcity: "Bj\xC3\xB3luhverfi"
+  accentcity: "Bjóluhverfi"
   region: "23"
   population: 
   latitude: "63.8"
   longitude: "-20.5"
 blonduos: 
   city: blonduos
-  accentcity: "Bl\xC3\xB6ndu\xC3\xB3s"
+  accentcity: "Bl\xC3\xB6nduós"
   region: "05"
   population: "936"
   latitude: "65.666667"
   longitude: "-20.3"
 "bolsta\xC3\xB0arhli\xC3\xB0": 
   city: "bolsta\xC3\xB0arhli\xC3\xB0"
-  accentcity: "B\xC3\xB3lsta\xC3\xB0arhl\xC3\xAD\xC3\xB0"
+  accentcity: "Bólsta\xC3\xB0arhl\xC3\xAD\xC3\xB0"
   region: "05"
   population: 
   latitude: "65.516667"
@@ -345,7 +345,7 @@ brautarholt:
   longitude: "-20.716667"
 "brei\xC3\xB0abolssta\xC3\xB0ur": 
   city: "brei\xC3\xB0abolssta\xC3\xB0ur"
-  accentcity: "Brei\xC3\xB0ab\xC3\xB3lssta\xC3\xB0ur"
+  accentcity: "Brei\xC3\xB0abólssta\xC3\xB0ur"
   region: "35"
   population: 
   latitude: "65.45"
@@ -366,7 +366,7 @@ brautarholt:
   longitude: "-14"
 "brei\xC3\xB0ibolssta\xC3\xB0ur": 
   city: "brei\xC3\xB0ibolssta\xC3\xB0ur"
-  accentcity: "Brei\xC3\xB0ib\xC3\xB3lssta\xC3\xB0ur"
+  accentcity: "Brei\xC3\xB0ibólssta\xC3\xB0ur"
   region: "35"
   population: 
   latitude: "65.45"
@@ -429,42 +429,42 @@ brjanslaekur:
   longitude: "-22.383333"
 brunnholskirkja: 
   city: brunnholskirkja
-  accentcity: "Brunnh\xC3\xB3lskirkja"
+  accentcity: "Brunnhólskirkja"
   region: "06"
   population: 
   latitude: "64.283333"
   longitude: "-15.433333"
 "bu\xC3\xB0ardalur": 
   city: "bu\xC3\xB0ardalur"
-  accentcity: "B\xC3\xBA\xC3\xB0ardalur"
+  accentcity: "Bú\xC3\xB0ardalur"
   region: 08
   population: 
   latitude: "65.116667"
   longitude: "-21.766667"
 "bu\xC3\xB0areyri": 
   city: "bu\xC3\xB0areyri"
-  accentcity: "B\xC3\xBA\xC3\xB0areyri"
+  accentcity: "Bú\xC3\xB0areyri"
   region: "31"
   population: 
   latitude: "65.033333"
   longitude: "-14.216667"
 "bu\xC3\xB0arholshverfi": 
   city: "bu\xC3\xB0arholshverfi"
-  accentcity: "B\xC3\xBA\xC3\xB0arh\xC3\xB3lshverfi"
+  accentcity: "Bú\xC3\xB0arhólshverfi"
   region: "23"
   population: 
   latitude: "63.583333"
   longitude: "-20.166667"
 "bu\xC3\xB0ir": 
   city: "bu\xC3\xB0ir"
-  accentcity: "B\xC3\xBA\xC3\xB0ir"
+  accentcity: "Bú\xC3\xB0ir"
   region: "31"
   population: 
   latitude: "64.933333"
   longitude: "-14.016667"
 burfell: 
   city: burfell
-  accentcity: "B\xC3\xBArfell"
+  accentcity: "Búrfell"
   region: "03"
   population: 
   latitude: "64.083333"
@@ -520,14 +520,14 @@ diupivogur:
   longitude: "-14.283333"
 djupidalur: 
   city: djupidalur
-  accentcity: "Dj\xC3\xBApidalur"
+  accentcity: "Djúpidalur"
   region: "23"
   population: 
   latitude: "63.783333"
   longitude: "-20.283333"
 djupivogur: 
   city: djupivogur
-  accentcity: "Dj\xC3\xBApivogur"
+  accentcity: "Djúpivogur"
   region: "31"
   population: "389"
   latitude: "64.65"
@@ -562,14 +562,14 @@ dvergasteinn:
   longitude: "-23.5"
 dyrholahverfi: 
   city: dyrholahverfi
-  accentcity: "Dyrh\xC3\xB3lahverfi"
+  accentcity: "Dyrhólahverfi"
   region: "37"
   population: 
   latitude: "63.416667"
   longitude: "-19.166667"
 efri-nupur: 
   city: efri-nupur
-  accentcity: "Efri-N\xC3\xBApur"
+  accentcity: "Efri-Núpur"
   region: "35"
   population: 
   latitude: "65.133333"
@@ -618,7 +618,7 @@ engidalur:
   longitude: "-14.016667"
 evindarholar: 
   city: evindarholar
-  accentcity: "Evindarh\xC3\xB3lar"
+  accentcity: "Evindarhólar"
   region: "23"
   population: 
   latitude: "63.5"
@@ -646,14 +646,14 @@ eyri:
   longitude: "-22.933333"
 eyvindarholar: 
   city: eyvindarholar
-  accentcity: "Eyvindarh\xC3\xB3lar"
+  accentcity: "Eyvindarhólar"
   region: "23"
   population: 
   latitude: "63.5"
   longitude: "-19.616667"
 "faskru\xC3\xB0sfjor\xC3\xB0ur": 
   city: "faskru\xC3\xB0sfjor\xC3\xB0ur"
-  accentcity: "F\xC3\xA1skr\xC3\xBA\xC3\xB0sfj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "F\xC3\xA1skrú\xC3\xB0sfj\xC3\xB6r\xC3\xB0ur"
   region: "31"
   population: 
   latitude: "64.933333"
@@ -695,7 +695,7 @@ flateyri:
   longitude: "-23.516667"
 floagaflshverfi: 
   city: floagaflshverfi
-  accentcity: "Fl\xC3\xB3agaflshverfi"
+  accentcity: "Flóagaflshverfi"
   region: "03"
   population: 
   latitude: "63.9"
@@ -716,7 +716,7 @@ flugumyri:
   longitude: "-19.316667"
 folafotur: 
   city: folafotur
-  accentcity: "Folaf\xC3\xB3tur"
+  accentcity: "Folafótur"
   region: "36"
   population: 
   latitude: "66.033333"
@@ -744,7 +744,7 @@ folafotur:
   longitude: "-21.9"
 "gar\xC3\xB0akauptun": 
   city: "gar\xC3\xB0akauptun"
-  accentcity: "Gar\xC3\xB0akaupt\xC3\xBAn"
+  accentcity: "Gar\xC3\xB0akauptún"
   region: "10"
   population: 
   latitude: "64.083333"
@@ -975,7 +975,7 @@ gufunes:
   longitude: "-21.816667"
 gunnolfsa: 
   city: gunnolfsa
-  accentcity: "Gunn\xC3\xB3lfs\xC3\xA1"
+  accentcity: "Gunnólfs\xC3\xA1"
   region: 09
   population: 
   latitude: "66.1"
@@ -996,7 +996,7 @@ gvendarnes:
   longitude: "-21.95"
 hafnarholmur: 
   city: hafnarholmur
-  accentcity: "Hafnarh\xC3\xB3lmur"
+  accentcity: "Hafnarhólmur"
   region: "30"
   population: 
   latitude: "65.7"
@@ -1024,7 +1024,7 @@ hafrafell:
   longitude: "-23.166667"
 hafsos: 
   city: hafsos
-  accentcity: "Hafs\xC3\xB3s"
+  accentcity: "Hafsós"
   region: "28"
   population: 
   latitude: "65.9"
@@ -1122,7 +1122,7 @@ hals:
   longitude: "-13.875"
 hanholl: 
   city: hanholl
-  accentcity: "Hanh\xC3\xB3ll"
+  accentcity: "Hanhóll"
   region: "36"
   population: 
   latitude: "66.116667"
@@ -1248,7 +1248,7 @@ hjalteyri:
   longitude: "-19.95"
 "hli\xC3\xB0arhus": 
   city: "hli\xC3\xB0arhus"
-  accentcity: "Hl\xC3\xAD\xC3\xB0arh\xC3\xBAs"
+  accentcity: "Hl\xC3\xAD\xC3\xB0arhús"
   region: "19"
   population: 
   latitude: "66.133333"
@@ -1276,7 +1276,7 @@ hnifsdalur:
   longitude: "-23.133333"
 hnjotur: 
   city: hnjotur
-  accentcity: "Hnj\xC3\xB3tur"
+  accentcity: "Hnjótur"
   region: "34"
   population: 
   latitude: "65.566667"
@@ -1325,7 +1325,7 @@ hofn:
   longitude: "-15.216667"
 hofsos: 
   city: hofsos
-  accentcity: "Hofs\xC3\xB3s"
+  accentcity: "Hofsós"
   region: "28"
   population: "172"
   latitude: "65.9"
@@ -1346,42 +1346,42 @@ hofteigur:
   longitude: "-14.866667"
 holanes: 
   city: holanes
-  accentcity: "H\xC3\xB3lanes"
+  accentcity: "Hólanes"
   region: "05"
   population: 
   latitude: "65.816667"
   longitude: "-20.316667"
 holar: 
   city: holar
-  accentcity: "H\xC3\xB3lar"
+  accentcity: "Hólar"
   region: "28"
   population: "108"
   latitude: "65.733333"
   longitude: "-19.133333"
 holl: 
   city: holl
-  accentcity: "H\xC3\xB3ll"
+  accentcity: "Hóll"
   region: "36"
   population: 
   latitude: "66.15"
   longitude: "-23.25"
 holmabaeir: 
   city: holmabaeir
-  accentcity: "H\xC3\xB3lmab\xC3\xA6ir"
+  accentcity: "Hólmab\xC3\xA6ir"
   region: "23"
   population: 
   latitude: "63.616667"
   longitude: "-20.083333"
 holmahverfi: 
   city: holmahverfi
-  accentcity: "H\xC3\xB3lmahverfi"
+  accentcity: "Hólmahverfi"
   region: "23"
   population: 
   latitude: "63.566667"
   longitude: "-20.116667"
 holmavik: 
   city: holmavik
-  accentcity: "H\xC3\xB3lmav\xC3\xADk"
+  accentcity: "Hólmav\xC3\xADk"
   region: "30"
   population: "424"
   latitude: "65.716667"
@@ -1444,7 +1444,7 @@ hraun:
   longitude: "-23.75"
 hreppholar: 
   city: hreppholar
-  accentcity: "Hrepph\xC3\xB3lar"
+  accentcity: "Hrepphólar"
   region: "03"
   population: 
   latitude: "64.066667"
@@ -1465,7 +1465,7 @@ hruni:
   longitude: "-21.55"
 husavik: 
   city: husavik
-  accentcity: "H\xC3\xBAsav\xC3\xADk"
+  accentcity: "Húsav\xC3\xADk"
   region: "32"
   population: "2338"
   latitude: "66.05"
@@ -1563,14 +1563,14 @@ hvolsvollur:
   longitude: "-17.816667"
 ingjaldsholl: 
   city: ingjaldsholl
-  accentcity: "Ingjaldsh\xC3\xB3ll"
+  accentcity: "Ingjaldshóll"
   region: "29"
   population: 
   latitude: "64.916667"
   longitude: "-23.85"
 innriholmur: 
   city: innriholmur
-  accentcity: "Innrih\xC3\xB3lmur"
+  accentcity: "Innrihólmur"
   region: "07"
   population: 
   latitude: "64.3"
@@ -1731,14 +1731,14 @@ kirkjubaer:
   longitude: "-18.066667"
 kirkjubol: 
   city: kirkjubol
-  accentcity: "Kirkjub\xC3\xB3l"
+  accentcity: "Kirkjuból"
   region: "36"
   population: 
   latitude: "66.016667"
   longitude: "-23.566667"
 "kirkjubols\xC3\xBEorp": 
   city: "kirkjubols\xC3\xBEorp"
-  accentcity: "Kirkjub\xC3\xB3ls\xC3\xBEorp"
+  accentcity: "Kirkjubóls\xC3\xBEorp"
   region: "31"
   population: 
   latitude: "64.835"
@@ -1752,7 +1752,7 @@ kirkjuvogur:
   longitude: "-22.683333"
 kjos: 
   city: kjos
-  accentcity: "Kj\xC3\xB3s"
+  accentcity: "Kjós"
   region: "19"
   population: 
   latitude: "66.233333"
@@ -1850,21 +1850,21 @@ kolbeinseyri:
   longitude: "-21.4"
 kopasker: 
   city: kopasker
-  accentcity: "K\xC3\xB3pasker"
+  accentcity: "Kópasker"
   region: "21"
   population: "144"
   latitude: "66.3"
   longitude: "-16.45"
 "kopavogskaupsta\xC3\xB0ur": 
   city: "kopavogskaupsta\xC3\xB0ur"
-  accentcity: "K\xC3\xB3pavogskaupsta\xC3\xB0ur"
+  accentcity: "Kópavogskaupsta\xC3\xB0ur"
   region: "10"
   population: 
   latitude: "64.1"
   longitude: "-21.916667"
 kopavogur: 
   city: kopavogur
-  accentcity: "K\xC3\xB3pavogur"
+  accentcity: "Kópavogur"
   region: "10"
   population: "26157"
   latitude: "64.1"
@@ -1892,7 +1892,7 @@ kuviker:
   longitude: "-21.483333"
 kuvikur: 
   city: kuvikur
-  accentcity: "K\xC3\xBAv\xC3\xADkur"
+  accentcity: "Kúv\xC3\xADkur"
   region: "30"
   population: 
   latitude: "65.95"
@@ -1920,7 +1920,7 @@ kviabryggva:
   longitude: "-23.333333"
 laekjamot: 
   city: laekjamot
-  accentcity: "L\xC3\xA6kjam\xC3\xB3t"
+  accentcity: "L\xC3\xA6kjamót"
   region: "35"
   population: 
   latitude: "65.416667"
@@ -1997,14 +1997,14 @@ leira:
   longitude: "-21.85"
 liosavatn: 
   city: liosavatn
-  accentcity: "Li\xC3\xB3savatn"
+  accentcity: "Liósavatn"
   region: "32"
   population: 
   latitude: "65.683333"
   longitude: "-17.616667"
 litli-arskogssandur: 
   city: litli-arskogssandur
-  accentcity: "Litli-\xC3\x81rsk\xC3\xB3gssandur"
+  accentcity: "Litli-\xC3\x81rskógssandur"
   region: 09
   population: "130"
   latitude: "65.95"
@@ -2018,14 +2018,14 @@ litlibaer:
   longitude: "-22.833333"
 ljosavatn: 
   city: ljosavatn
-  accentcity: "Lj\xC3\xB3savatn"
+  accentcity: "Ljósavatn"
   region: "32"
   population: 
   latitude: "65.683333"
   longitude: "-17.616667"
 ljosvatn: 
   city: ljosvatn
-  accentcity: "Lj\xC3\xB3svatn"
+  accentcity: "Ljósvatn"
   region: "32"
   population: 
   latitude: "65.683333"
@@ -2186,7 +2186,7 @@ mosfell:
   longitude: "-20.6"
 muli: 
   city: muli
-  accentcity: "M\xC3\xBAli"
+  accentcity: "Múli"
   region: "34"
   population: 
   latitude: "65.483333"
@@ -2319,7 +2319,7 @@ novotunga:
   longitude: "-21.4"
 nup: 
   city: nup
-  accentcity: "N\xC3\xBAp"
+  accentcity: "Núp"
   region: "36"
   population: 
   latitude: "65.933333"
@@ -2333,7 +2333,7 @@ nupu:
   longitude: "-23.6"
 nupur: 
   city: nupur
-  accentcity: "N\xC3\xBApur"
+  accentcity: "Núpur"
   region: "36"
   population: 
   latitude: "65.933333"
@@ -2480,14 +2480,14 @@ raufarhofn:
   longitude: "-14.216667"
 reykhoar: 
   city: reykhoar
-  accentcity: "Reykh\xC3\xB3ar"
+  accentcity: "Reykhóar"
   region: "04"
   population: 
   latitude: "65.45"
   longitude: "-22.2"
 reykholar: 
   city: reykholar
-  accentcity: "Reykh\xC3\xB3lar"
+  accentcity: "Reykhólar"
   region: "04"
   population: "117"
   latitude: "65.45"
@@ -2578,7 +2578,7 @@ rip:
   longitude: "-19.45"
 saebol: 
   city: saebol
-  accentcity: "S\xC3\xA6b\xC3\xB3l"
+  accentcity: "S\xC3\xA6ból"
   region: "36"
   population: 
   latitude: "66.05"
@@ -2648,7 +2648,7 @@ saudarkrokr:
   longitude: "-19.65"
 "sau\xC3\xB0arkrokur": 
   city: "sau\xC3\xB0arkrokur"
-  accentcity: "Sau\xC3\xB0\xC3\xA1rkr\xC3\xB3kur"
+  accentcity: "Sau\xC3\xB0\xC3\xA1rkrókur"
   region: "28"
   population: 
   latitude: "65.75"
@@ -2725,14 +2725,14 @@ setberg:
   longitude: "-14"
 "si\xC3\xB0muli": 
   city: "si\xC3\xB0muli"
-  accentcity: "Si\xC3\xB0m\xC3\xBAli"
+  accentcity: "Si\xC3\xB0múli"
   region: "17"
   population: 
   latitude: "64.7"
   longitude: "-21.383333"
 "si\xC3\xB0umuli": 
   city: "si\xC3\xB0umuli"
-  accentcity: "S\xC3\xAD\xC3\xB0um\xC3\xBAli"
+  accentcity: "S\xC3\xAD\xC3\xB0umúli"
   region: "17"
   population: 
   latitude: "64.7"
@@ -2753,7 +2753,7 @@ setberg:
   longitude: "-19.183333"
 silfurtun: 
   city: silfurtun
-  accentcity: "Silfurt\xC3\xBAn"
+  accentcity: "Silfurtún"
   region: "10"
   population: 
   latitude: "64.1"
@@ -2809,7 +2809,7 @@ skalholt:
   longitude: "-20.533333"
 skalmarnesmuli: 
   city: skalmarnesmuli
-  accentcity: "Sk\xC3\xA1lmarnesm\xC3\xBAli"
+  accentcity: "Sk\xC3\xA1lmarnesmúli"
   region: "04"
   population: 
   latitude: "65.516667"
@@ -2872,21 +2872,21 @@ skipaskagi:
   longitude: "-22.1"
 skogur: 
   city: skogur
-  accentcity: "Sk\xC3\xB3gur"
+  accentcity: "Skógur"
   region: "36"
   population: 
   latitude: "65.716667"
   longitude: "-23.366667"
 "skutusta\xC3\xB0ir": 
   city: "skutusta\xC3\xB0ir"
-  accentcity: "Sk\xC3\xBAtusta\xC3\xB0ir"
+  accentcity: "Skútusta\xC3\xB0ir"
   region: "32"
   population: 
   latitude: "65.566667"
   longitude: "-17.033333"
 "sle\xC3\xB0brjotur": 
   city: "sle\xC3\xB0brjotur"
-  accentcity: "Sle\xC3\xB0brj\xC3\xB3tur"
+  accentcity: "Sle\xC3\xB0brjótur"
   region: "20"
   population: 
   latitude: "65.566667"
@@ -2921,21 +2921,21 @@ snartarstadir:
   longitude: "-16.433333"
 snoksdalur: 
   city: snoksdalur
-  accentcity: "Sn\xC3\xB3ksdalur"
+  accentcity: "Snóksdalur"
   region: 08
   population: 
   latitude: "65.016667"
   longitude: "-21.733333"
 snoksdolur: 
   city: snoksdolur
-  accentcity: "Sn\xC3\xB3ksdolur"
+  accentcity: "Snóksdolur"
   region: 08
   population: 
   latitude: "65.016667"
   longitude: "-21.733333"
 "solmundarhof\xC3\xB0i": 
   city: "solmundarhof\xC3\xB0i"
-  accentcity: "S\xC3\xB3lmundarh\xC3\xB6f\xC3\xB0i"
+  accentcity: "Sólmundarh\xC3\xB6f\xC3\xB0i"
   region: "07"
   population: 
   latitude: "64.312778"
@@ -2970,7 +2970,7 @@ stadarfell:
   longitude: "-22.2"
 "sta\xC3\xB0arholskirkja": 
   city: "sta\xC3\xB0arholskirkja"
-  accentcity: "Sta\xC3\xB0arh\xC3\xB3lskirkja"
+  accentcity: "Sta\xC3\xB0arhólskirkja"
   region: 08
   population: 
   latitude: "65.383333"
@@ -3012,7 +3012,7 @@ stadarfell:
   longitude: "-23.566667"
 staerri-arskogur: 
   city: staerri-arskogur
-  accentcity: "St\xC3\xA6rri-\xC3\x81rsk\xC3\xB3gur"
+  accentcity: "St\xC3\xA6rri-\xC3\x81rskógur"
   region: 09
   population: 
   latitude: "65.916667"
@@ -3075,70 +3075,70 @@ stokkseyri:
   longitude: "-21.066667"
 "stora fjar\xC3\xB0arhorn": 
   city: "stora fjar\xC3\xB0arhorn"
-  accentcity: "St\xC3\xB3ra Fjar\xC3\xB0arhorn"
+  accentcity: "Stóra Fjar\xC3\xB0arhorn"
   region: "30"
   population: 
   latitude: "65.55"
   longitude: "-21.466667"
 stora-vatnshorn: 
   city: stora-vatnshorn
-  accentcity: "St\xC3\xB3ra-Vatnshorn"
+  accentcity: "Stóra-Vatnshorn"
   region: 08
   population: 
   latitude: "65.066667"
   longitude: "-21.55"
 stora-vatnsleysa: 
   city: stora-vatnsleysa
-  accentcity: "St\xC3\xB3ra-Vatnsl\xC3\xA9ysa"
+  accentcity: "Stóra-Vatnsl\xC3\xA9ysa"
   region: "10"
   population: 
   latitude: "64.016667"
   longitude: "-22.216667"
 stori-as: 
   city: stori-as
-  accentcity: "St\xC3\xB3ri-\xC3\x81s"
+  accentcity: "Stóri-\xC3\x81s"
   region: "07"
   population: 
   latitude: "64.7"
   longitude: "-21.033333"
 storidalur: 
   city: storidalur
-  accentcity: "St\xC3\xB3ridalur"
+  accentcity: "Stóridalur"
   region: "23"
   population: 
   latitude: "63.633333"
   longitude: "-19.95"
 stori-dalur: 
   city: stori-dalur
-  accentcity: "St\xC3\xB3ri-Dalur"
+  accentcity: "Stóri-Dalur"
   region: "23"
   population: 
   latitude: "63.633333"
   longitude: "-19.95"
 stori laugardalur: 
   city: stori laugardalur
-  accentcity: "St\xC3\xB3ri Laugardalur"
+  accentcity: "Stóri Laugardalur"
   region: "34"
   population: 
   latitude: "65.65"
   longitude: "-23.916667"
 storinupur: 
   city: storinupur
-  accentcity: "St\xC3\xB3rin\xC3\xBApur"
+  accentcity: "Stórinúpur"
   region: "03"
   population: 
   latitude: "64.05"
   longitude: "-20.166667"
 storofshvoll: 
   city: storofshvoll
-  accentcity: "St\xC3\xB3r\xC3\xB3fshvoll"
+  accentcity: "Stórófshvoll"
   region: "23"
   population: 
   latitude: "63.75"
   longitude: "-20.216667"
 storolfshvoll: 
   city: storolfshvoll
-  accentcity: "St\xC3\xB3r\xC3\xB3lfshvoll"
+  accentcity: "Stórólfshvoll"
   region: "23"
   population: 
   latitude: "63.75"
@@ -3159,14 +3159,14 @@ strandarkirkja:
   longitude: "-21.7"
 stykkisholmur: 
   city: stykkisholmur
-  accentcity: "Stykkish\xC3\xB3lmur"
+  accentcity: "Stykkishólmur"
   region: "29"
   population: "1059"
   latitude: "65.066667"
   longitude: "-22.733333"
 "su\xC3\xB0avik": 
   city: "su\xC3\xB0avik"
-  accentcity: "S\xC3\xBA\xC3\xB0av\xC3\xADk"
+  accentcity: "Sú\xC3\xB0av\xC3\xADk"
   region: "36"
   population: 
   latitude: "66.033333"
@@ -3285,7 +3285,7 @@ tungufell:
   longitude: "-20.166667"
 ulfljotsvatn: 
   city: ulfljotsvatn
-  accentcity: "\xC3\x9Alflj\xC3\xB3tsvatn"
+  accentcity: "\xC3\x9Alfljótsvatn"
   region: "03"
   population: 
   latitude: "64.1"
@@ -3390,7 +3390,7 @@ vallanes:
   longitude: "-14.983333"
 "val\xC3\xBEjofssta\xC3\xB0ur": 
   city: "val\xC3\xBEjofssta\xC3\xB0ur"
-  accentcity: "Val\xC3\xBEj\xC3\xB3fssta\xC3\xB0ur"
+  accentcity: "Val\xC3\xBEjófssta\xC3\xB0ur"
   region: "20"
   population: 
   latitude: "65.016667"
@@ -3474,7 +3474,7 @@ vestmannaeyjar:
   longitude: "-20.2075"
 vesturhopsholar: 
   city: vesturhopsholar
-  accentcity: "Vesturh\xC3\xB3psh\xC3\xB3lar"
+  accentcity: "Vesturhópshólar"
   region: "35"
   population: 
   latitude: "65.533333"
@@ -3509,7 +3509,7 @@ vidirholl:
   longitude: "-16.033333"
 "vi\xC3\xB0irholl": 
   city: "vi\xC3\xB0irholl"
-  accentcity: "V\xC3\xAD\xC3\xB0irh\xC3\xB3ll"
+  accentcity: "V\xC3\xAD\xC3\xB0irhóll"
   region: "21"
   population: 
   latitude: "65.733333"
@@ -3551,7 +3551,7 @@ vogar:
   longitude: "-22.366667"
 "vomulasta\xC3\xB0ahverfi": 
   city: "vomulasta\xC3\xB0ahverfi"
-  accentcity: "Vom\xC3\xBAlasta\xC3\xB0ahverfi"
+  accentcity: "Vomúlasta\xC3\xB0ahverfi"
   region: "23"
   population: 
   latitude: "63.633333"
@@ -3628,7 +3628,7 @@ ytri-baegisa:
   longitude: "-23.5"
 "\xC3\x9Eingmuli": 
   city: "\xC3\x9Eingmuli"
-  accentcity: "\xC3\x9Eingm\xC3\xBAli"
+  accentcity: "\xC3\x9Eingmúli"
   region: "31"
   population: 
   latitude: "65.033333"
@@ -3642,7 +3642,7 @@ ytri-baegisa:
   longitude: "-21.116667"
 "\xC3\x9Ejorsarbru": 
   city: "\xC3\x9Ejorsarbru"
-  accentcity: "\xC3\x9Ej\xC3\xB3rs\xC3\xA1rbr\xC3\xBA"
+  accentcity: "\xC3\x9Ejórs\xC3\xA1rbrú"
   region: "03"
   population: 
   latitude: "63.933333"
@@ -3670,14 +3670,14 @@ ytri-baegisa:
   longitude: "-21.366667"
 "\xC3\x9Eoroddssta\xC3\xB0ur": 
   city: "\xC3\x9Eoroddssta\xC3\xB0ur"
-  accentcity: "\xC3\x9E\xC3\xB3roddssta\xC3\xB0ur"
+  accentcity: "\xC3\x9Eóroddssta\xC3\xB0ur"
   region: "32"
   population: 
   latitude: "65.85"
   longitude: "-17.55"
 "\xC3\x9Eorshofn": 
   city: "\xC3\x9Eorshofn"
-  accentcity: "\xC3\x9E\xC3\xB3rsh\xC3\xB6fn"
+  accentcity: "\xC3\x9Eórsh\xC3\xB6fn"
   region: "21"
   population: 
   latitude: "66.2"

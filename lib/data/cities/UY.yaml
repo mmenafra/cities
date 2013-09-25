@@ -205,7 +205,7 @@ arapey:
   longitude: "-57.5333333"
 araujo: 
   city: araujo
-  accentcity: "Ara\xC3\xBAjo"
+  accentcity: "Araújo"
   region: "11"
   population: 
   latitude: "-32.1"
@@ -520,7 +520,7 @@ bella italia:
   longitude: "-56.1166667"
 bella union: 
   city: bella union
-  accentcity: "Bella Uni\xC3\xB3n"
+  accentcity: "Bella Unión"
   region: "01"
   population: "14639"
   latitude: "-30.25"
@@ -562,7 +562,7 @@ biassini:
   longitude: "-57.1666667"
 bifurcacion: 
   city: bifurcacion
-  accentcity: "Bifurcaci\xC3\xB3n"
+  accentcity: "Bifurcación"
   region: "16"
   population: 
   latitude: "-34.3166667"
@@ -632,7 +632,7 @@ buenahora:
   longitude: "-58.1333333"
 buena union: 
   city: buena union
-  accentcity: "Buena Uni\xC3\xB3n"
+  accentcity: "Buena Unión"
   region: "13"
   population: 
   latitude: "-31.2333333"
@@ -1003,7 +1003,7 @@ centro:
   longitude: "-56.1944444"
 centurion: 
   city: centurion
-  accentcity: "Centuri\xC3\xB3n"
+  accentcity: "Centurión"
   region: "03"
   population: 
   latitude: "-32.1"
@@ -1225,16 +1225,9 @@ ciudad de minas:
   population: 
   latitude: "-34.37"
   longitude: "-55.225"
-ciudad de montevideo: 
-  city: ciudad de montevideo
-  accentcity: Ciudad de Montevideo
-  region: "10"
-  population: 
-  latitude: "-34.8580556"
-  longitude: "-56.1708333"
 ciudad de paysandu: 
   city: ciudad de paysandu
-  accentcity: "Ciudad de Paysand\xC3\xBA"
+  accentcity: "Ciudad de Paysandú"
   region: "11"
   population: 
   latitude: "-32.3213889"
@@ -1283,7 +1276,7 @@ colla:
   longitude: "-57.35"
 colon: 
   city: colon
-  accentcity: "Col\xC3\xB3n"
+  accentcity: "Colón"
   region: "10"
   population: 
   latitude: "-34.8"
@@ -1388,14 +1381,14 @@ colonia nicolich:
   longitude: "-56.0447222"
 colonia nuevo paysandu: 
   city: colonia nuevo paysandu
-  accentcity: "Colonia Nuevo Paysand\xC3\xBA"
+  accentcity: "Colonia Nuevo Paysandú"
   region: "11"
   population: 
   latitude: "-32.2833333"
   longitude: "-58.05"
 colonia ombues de lavalle: 
   city: colonia ombues de lavalle
-  accentcity: "Colonia Omb\xC3\xBAes de Lavalle"
+  accentcity: "Colonia Ombúes de Lavalle"
   region: "04"
   population: 
   latitude: "-33.9166667"
@@ -1458,7 +1451,7 @@ conchillas:
   longitude: "-58.0125"
 conciliacion: 
   city: conciliacion
-  accentcity: "Conciliaci\xC3\xB3n"
+  accentcity: "Conciliación"
   region: "10"
   population: 
   latitude: "-34.8333333"
@@ -1486,7 +1479,7 @@ constancia:
   longitude: "-58.0"
 constitucion: 
   city: constitucion
-  accentcity: "Constituci\xC3\xB3n"
+  accentcity: "Constitución"
   region: "15"
   population: 
   latitude: "-31.0833333"
@@ -1507,7 +1500,7 @@ coquimbo:
   longitude: "-57.7333333"
 cordon: 
   city: cordon
-  accentcity: "Cord\xC3\xB3n"
+  accentcity: "Cordón"
   region: "10"
   population: 
   latitude: "-34.905"
@@ -1605,7 +1598,7 @@ cruz de piedra:
   longitude: "-54.1833333"
 cuaro: 
   city: cuaro
-  accentcity: "Cuar\xC3\xB3"
+  accentcity: "Cuaró"
   region: "18"
   population: 
   latitude: "-31.9"
@@ -1626,7 +1619,7 @@ cuchilla de cuadra:
   longitude: "-56.4166667"
 cuchilla del ombu: 
   city: cuchilla del ombu
-  accentcity: "Cuchilla del Omb\xC3\xBA"
+  accentcity: "Cuchilla del Ombú"
   region: "18"
   population: 
   latitude: "-31.8"
@@ -1668,7 +1661,7 @@ cufre:
   longitude: "-57.1"
 cunapiru: 
   city: cunapiru
-  accentcity: "Cu\xC3\xB1apir\xC3\xBA"
+  accentcity: "Cu\xC3\xB1apirú"
   region: "13"
   population: 
   latitude: "-31.5333333"
@@ -2053,70 +2046,70 @@ espinillo:
   longitude: "-58.2833333"
 estacion ataques: 
   city: estacion ataques
-  accentcity: "Estaci\xC3\xB3n Ataques"
+  accentcity: "Estación Ataques"
   region: "13"
   population: 
   latitude: "-31.1"
   longitude: "-55.6666667"
 estacion casupa: 
   city: estacion casupa
-  accentcity: "Estaci\xC3\xB3n Casup\xC3\xA1"
+  accentcity: "Estación Casup\xC3\xA1"
   region: "07"
   population: 
   latitude: "-34.0333333"
   longitude: "-55.65"
 estacion esperanza: 
   city: estacion esperanza
-  accentcity: "Estaci\xC3\xB3n Esperanza"
+  accentcity: "Estación Esperanza"
   region: "11"
   population: 
   latitude: "-32.3333333"
   longitude: "-57.9333333"
 estacion garzon: 
   city: estacion garzon
-  accentcity: "Estaci\xC3\xB3n Garz\xC3\xB3n"
+  accentcity: "Estación Garzón"
   region: 09
   population: 
   latitude: "-34.6"
   longitude: "-54.55"
 estacion goni: 
   city: estacion goni
-  accentcity: "Estaci\xC3\xB3n Go\xC3\xB1i"
+  accentcity: "Estación Go\xC3\xB1i"
   region: "07"
   population: 
   latitude: "-33.5166667"
   longitude: "-56.4"
 estacion isla cabello: 
   city: estacion isla cabello
-  accentcity: "Estaci\xC3\xB3n Isla Cabello"
+  accentcity: "Estación Isla Cabello"
   region: "01"
   population: 
   latitude: "-30.7333333"
   longitude: "-57.3166667"
 estacion isla de cabello: 
   city: estacion isla de cabello
-  accentcity: "Estaci\xC3\xB3n Isla de Cabello"
+  accentcity: "Estación Isla de Cabello"
   region: "01"
   population: 
   latitude: "-30.7333333"
   longitude: "-57.3166667"
 estacion migues: 
   city: estacion migues
-  accentcity: "Estaci\xC3\xB3n Migues"
+  accentcity: "Estación Migues"
   region: "02"
   population: 
   latitude: "-34.4833333"
   longitude: "-55.6333333"
 estacion olmos: 
   city: estacion olmos
-  accentcity: "Estaci\xC3\xB3n Olmos"
+  accentcity: "Estación Olmos"
   region: "02"
   population: 
   latitude: "-34.7"
   longitude: "-55.9"
 estacion porvenir: 
   city: estacion porvenir
-  accentcity: "Estaci\xC3\xB3n Porvenir"
+  accentcity: "Estación Porvenir"
   region: "11"
   population: 
   latitude: "-32.3666667"
@@ -2137,7 +2130,7 @@ eucaliptus:
   longitude: "-57.25"
 fagundez: 
   city: fagundez
-  accentcity: "Fag\xC3\xBAndez"
+  accentcity: "Fagúndez"
   region: "01"
   population: 
   latitude: "-30.7166667"
@@ -2284,7 +2277,7 @@ garibaldi:
   longitude: "-57.8"
 garzon: 
   city: garzon
-  accentcity: "Garz\xC3\xB3n"
+  accentcity: "Garzón"
   region: 09
   population: 
   latitude: "-34.6"
@@ -2375,7 +2368,7 @@ guadalupe:
   longitude: "-56.2777778"
 guaviyu: 
   city: guaviyu
-  accentcity: "Guaviy\xC3\xBA"
+  accentcity: "Guaviyú"
   region: "15"
   population: 
   latitude: "-31.0166667"
@@ -2396,7 +2389,7 @@ guerrero:
   longitude: "-57.6833333"
 guichon: 
   city: guichon
-  accentcity: "Guich\xC3\xB3n"
+  accentcity: "Guichón"
   region: "11"
   population: 
   latitude: "-32.35"
@@ -2452,7 +2445,7 @@ ingeniero andreoni:
   longitude: "-55.5166667"
 ingeniero eduardo garcia de zuniga: 
   city: ingeniero eduardo garcia de zuniga
-  accentcity: "Ingeniero Eduardo Garc\xC3\xADa de Z\xC3\xBA\xC3\xB1iga"
+  accentcity: "Ingeniero Eduardo Garc\xC3\xADa de Zú\xC3\xB1iga"
   region: "02"
   population: 
   latitude: "-34.665"
@@ -2529,7 +2522,7 @@ itapeby:
   longitude: "-57.7"
 ituzaingo: 
   city: ituzaingo
-  accentcity: "Ituzaing\xC3\xB3"
+  accentcity: "Ituzaingó"
   region: "16"
   population: 
   latitude: "-34.4197222"
@@ -2564,7 +2557,7 @@ j.l. lacaze:
   longitude: "-57.4166667"
 joanico: 
   city: joanico
-  accentcity: "Joanic\xC3\xB3"
+  accentcity: "Joanicó"
   region: "02"
   population: 
   latitude: "-34.5894444"
@@ -2578,14 +2571,14 @@ joaquin suarez:
   longitude: "-57.6166667"
 jose batlle y ordonez: 
   city: jose batlle y ordonez
-  accentcity: "Jos\xC3\xA9 Batlle y Ord\xC3\xB3\xC3\xB1ez"
+  accentcity: "Jos\xC3\xA9 Batlle y Ordó\xC3\xB1ez"
   region: 08
   population: 
   latitude: "-33.4666667"
   longitude: "-55.1166667"
 jose enrique rodo: 
   city: jose enrique rodo
-  accentcity: "Jos\xC3\xA9 Enrique Rod\xC3\xB3"
+  accentcity: "Jos\xC3\xA9 Enrique Rodó"
   region: "17"
   population: 
   latitude: "-33.6833333"
@@ -2669,14 +2662,14 @@ julio maria sanz:
   longitude: "-54.15"
 kilometro 71: 
   city: kilometro 71
-  accentcity: "Kil\xC3\xB3metro 71"
+  accentcity: "Kilómetro 71"
   region: "07"
   population: 
   latitude: "-34.3666667"
   longitude: "-56.4"
 kiyu: 
   city: kiyu
-  accentcity: "Kiy\xC3\xBA"
+  accentcity: "Kiyú"
   region: "16"
   population: 
   latitude: "-34.65"
@@ -3026,7 +3019,7 @@ latorre:
   longitude: "-53.75"
 la union: 
   city: la union
-  accentcity: "La Uni\xC3\xB3n"
+  accentcity: "La Unión"
   region: "12"
   population: 
   latitude: "-32.75"
@@ -3577,13 +3570,6 @@ montes:
   population: 
   latitude: "-34.5"
   longitude: "-55.5833333"
-montevideo chico: 
-  city: montevideo chico
-  accentcity: Montevideo Chico
-  region: "18"
-  population: 
-  latitude: "-32.2166667"
-  longitude: "-55.6"
 montevideo: 
   city: montevideo
   accentcity: Montevideo
@@ -3593,7 +3579,7 @@ montevideo:
   longitude: "-56.1708333"
 morato: 
   city: morato
-  accentcity: "Morat\xC3\xB3"
+  accentcity: "Morató"
   region: "11"
   population: 
   latitude: "-32.3833333"
@@ -3698,14 +3684,14 @@ olmos:
   longitude: "-55.9"
 ombues de lavalle: 
   city: ombues de lavalle
-  accentcity: "Omb\xC3\xBAes de Lavalle"
+  accentcity: "Ombúes de Lavalle"
   region: "04"
   population: 
   latitude: "-33.9166667"
   longitude: "-57.7833333"
 ombues de oribe: 
   city: ombues de oribe
-  accentcity: "Omb\xC3\xBAes de Oribe"
+  accentcity: "Ombúes de Oribe"
   region: "05"
   population: 
   latitude: "-33.3"
@@ -3740,7 +3726,7 @@ oribe:
   longitude: "-57.1166667"
 ovidio morato: 
   city: ovidio morato
-  accentcity: "Ovidio Morat\xC3\xB3"
+  accentcity: "Ovidio Morató"
   region: "11"
   population: 
   latitude: "-32.3833333"
@@ -3831,7 +3817,7 @@ palomas:
   longitude: "-57.6"
 pan de azucar: 
   city: pan de azucar
-  accentcity: "Pan de Az\xC3\xBAcar"
+  accentcity: "Pan de Azúcar"
   region: 09
   population: 
   latitude: "-34.8"
@@ -3992,7 +3978,7 @@ paso del borracho:
   longitude: "-55.4666667"
 paso del centurion: 
   city: paso del centurion
-  accentcity: "Paso del Centuri\xC3\xB3n"
+  accentcity: "Paso del Centurión"
   region: "03"
   population: 
   latitude: "-32.1666667"
@@ -4006,7 +3992,7 @@ paso del cerro:
   longitude: "-55.7666667"
 paso del leon: 
   city: paso del leon
-  accentcity: "Paso del Le\xC3\xB3n"
+  accentcity: "Paso del León"
   region: "01"
   population: 
   latitude: "-30.1666667"
@@ -4090,7 +4076,7 @@ paso francos:
   longitude: "-56.2833333"
 paso guaviyu del arapey: 
   city: paso guaviyu del arapey
-  accentcity: "Paso Guaviy\xC3\xBA del Arapey"
+  accentcity: "Paso Guaviyú del Arapey"
   region: "15"
   population: 
   latitude: "-31.0166667"
@@ -4167,14 +4153,14 @@ passo de ataques:
   longitude: "-55.6666667"
 pavon: 
   city: pavon
-  accentcity: "Pav\xC3\xB3n"
+  accentcity: "Pavón"
   region: "16"
   population: 
   latitude: "-34.2833333"
   longitude: "-56.9166667"
 paysandu: 
   city: paysandu
-  accentcity: "Paysand\xC3\xBA"
+  accentcity: "Paysandú"
   region: "11"
   population: "78902"
   latitude: "-32.3213889"
@@ -4202,7 +4188,7 @@ penarol:
   longitude: "-56.1833333"
 pepe nunez: 
   city: pepe nunez
-  accentcity: "Pepe N\xC3\xBA\xC3\xB1ez"
+  accentcity: "Pepe Nú\xC3\xB1ez"
   region: "18"
   population: 
   latitude: "-31.45"
@@ -4356,7 +4342,7 @@ platero:
   longitude: "-57.6"
 platon: 
   city: platon
-  accentcity: "Plat\xC3\xB3n"
+  accentcity: "Platón"
   region: "13"
   population: 
   latitude: "-31.0"
@@ -4538,7 +4524,7 @@ poblado goyo martinez:
   longitude: "-55.8833333"
 poblado guaviyu: 
   city: poblado guaviyu
-  accentcity: "Poblado Guaviy\xC3\xBA"
+  accentcity: "Poblado Guaviyú"
   region: "15"
   population: 
   latitude: "-31.0166667"
@@ -4650,7 +4636,7 @@ poblado los garcia:
   longitude: "-54.95"
 poblado los gomez: 
   city: poblado los gomez
-  accentcity: "Poblado Los G\xC3\xB3mez"
+  accentcity: "Poblado Los Gómez"
   region: "18"
   population: 
   latitude: "-32.1833333"
@@ -4704,13 +4690,6 @@ poblado moirones:
   population: 
   latitude: "-31.6333333"
   longitude: "-55.0"
-poblado montevideo chico: 
-  city: poblado montevideo chico
-  accentcity: Poblado Montevideo Chico
-  region: "18"
-  population: 
-  latitude: "-32.2166667"
-  longitude: "-55.6"
 poblado paso de los novillos: 
   city: poblado paso de los novillos
   accentcity: Poblado Paso de los Novillos
@@ -4727,35 +4706,35 @@ poblado paso hondo:
   longitude: "-55.8833333"
 poblado rincon de giloca: 
   city: poblado rincon de giloca
-  accentcity: "Poblado Rinc\xC3\xB3n de Giloca"
+  accentcity: "Poblado Rincón de Giloca"
   region: "18"
   population: 
   latitude: "-31.8333333"
   longitude: "-55.7666667"
 poblado rincon de la aldea: 
   city: poblado rincon de la aldea
-  accentcity: "Poblado Rinc\xC3\xB3n de la Aldea"
+  accentcity: "Poblado Rincón de la Aldea"
   region: "18"
   population: 
   latitude: "-31.75"
   longitude: "-56.0666667"
 poblado rincon de la bolsa: 
   city: poblado rincon de la bolsa
-  accentcity: "Poblado Rinc\xC3\xB3n de la Bolsa"
+  accentcity: "Poblado Rincón de la Bolsa"
   region: "18"
   population: 
   latitude: "-31.8166667"
   longitude: "-55.9166667"
 poblado rincon de la laguna: 
   city: poblado rincon de la laguna
-  accentcity: "Poblado Rinc\xC3\xB3n de la Laguna"
+  accentcity: "Poblado Rincón de la Laguna"
   region: "11"
   population: 
   latitude: "-32.0"
   longitude: "-55.4833333"
 poblado rincon de los muchadas: 
   city: poblado rincon de los muchadas
-  accentcity: "Poblado Rinc\xC3\xB3n de los Muchadas"
+  accentcity: "Poblado Rincón de los Muchadas"
   region: "18"
   population: 
   latitude: "-32.2166667"
@@ -4776,7 +4755,7 @@ poblado rivera chico:
   longitude: "-55.6666667"
 poblado rolon: 
   city: poblado rolon
-  accentcity: "Poblado Rol\xC3\xB3n"
+  accentcity: "Poblado Rolón"
   region: "18"
   population: 
   latitude: "-32.3333333"
@@ -4790,7 +4769,7 @@ poblado san benito:
   longitude: "-56.1666667"
 poblado san ramon: 
   city: poblado san ramon
-  accentcity: "Poblado San Ram\xC3\xB3n"
+  accentcity: "Poblado San Ramón"
   region: "18"
   population: 
   latitude: "-31.9666667"
@@ -4846,7 +4825,7 @@ poblado vichadero:
   longitude: "-54.7166667"
 poblado zambullon: 
   city: poblado zambullon
-  accentcity: "Poblado Zambull\xC3\xB3n"
+  accentcity: "Poblado Zambullón"
   region: "18"
   population: 
   latitude: "-32.0333333"
@@ -4972,14 +4951,14 @@ pueblo centenario:
   longitude: "-56.4666667"
 pueblo conciliacion: 
   city: pueblo conciliacion
-  accentcity: "Pueblo Conciliaci\xC3\xB3n"
+  accentcity: "Pueblo Conciliación"
   region: "10"
   population: 
   latitude: "-34.8333333"
   longitude: "-56.2333333"
 pueblo constitucion: 
   city: pueblo constitucion
-  accentcity: "Pueblo Constituci\xC3\xB3n"
+  accentcity: "Pueblo Constitución"
   region: "15"
   population: 
   latitude: "-31.0833333"
@@ -5084,7 +5063,7 @@ pueblo isla cabellos:
   longitude: "-57.3166667"
 pueblo ituzaingo: 
   city: pueblo ituzaingo
-  accentcity: "Pueblo Ituzaing\xC3\xB3"
+  accentcity: "Pueblo Ituzaingó"
   region: "10"
   population: 
   latitude: "-34.85"
@@ -5203,7 +5182,7 @@ puerto del ingles:
   longitude: "-55.2833333"
 puerto gomez: 
   city: puerto gomez
-  accentcity: "Puerto G\xC3\xB3mez"
+  accentcity: "Puerto Gómez"
   region: "19"
   population: 
   latitude: "-33.0"
@@ -5308,7 +5287,7 @@ puntas de maciel:
   longitude: "-56.35"
 puntas de rolon: 
   city: puntas de rolon
-  accentcity: "Puntas de Rol\xC3\xB3n"
+  accentcity: "Puntas de Rolón"
   region: "12"
   population: 
   latitude: "-32.6833333"
@@ -5385,21 +5364,21 @@ rafael perazza:
   longitude: "-56.7988889"
 raigon: 
   city: raigon
-  accentcity: "Raig\xC3\xB3n"
+  accentcity: "Raigón"
   region: "16"
   population: 
   latitude: "-34.35"
   longitude: "-56.65"
 ramon saravia: 
   city: ramon saravia
-  accentcity: "Ram\xC3\xB3n Saravia"
+  accentcity: "Ramón Saravia"
   region: 08
   population: 
   latitude: "-33.0166667"
   longitude: "-55.05"
 ramon trigo: 
   city: ramon trigo
-  accentcity: "Ram\xC3\xB3n Trigo"
+  accentcity: "Ramón Trigo"
   region: "03"
   population: 
   latitude: "-32.3833333"
@@ -5462,175 +5441,175 @@ riachuelo:
   longitude: "-57.7166667"
 riffo: 
   city: riffo
-  accentcity: "Riff\xC3\xB3"
+  accentcity: "Riffó"
   region: "02"
   population: 
   latitude: "-34.5333333"
   longitude: "-56.3"
 rincon aldea: 
   city: rincon aldea
-  accentcity: "Rinc\xC3\xB3n Aldea"
+  accentcity: "Rincón Aldea"
   region: "18"
   population: 
   latitude: "-31.75"
   longitude: "-56.0666667"
 rincon de baygorria: 
   city: rincon de baygorria
-  accentcity: "Rinc\xC3\xB3n de Baygorria"
+  accentcity: "Rincón de Baygorria"
   region: "05"
   population: 
   latitude: "-32.8833333"
   longitude: "-56.8"
 rincon de coronel: 
   city: rincon de coronel
-  accentcity: "Rinc\xC3\xB3n de Coronel"
+  accentcity: "Rincón de Coronel"
   region: "03"
   population: 
   latitude: "-32.7"
   longitude: "-53.9666667"
 rincon de cuadra: 
   city: rincon de cuadra
-  accentcity: "Rinc\xC3\xB3n de Cuadra"
+  accentcity: "Rincón de Cuadra"
   region: "05"
   population: 
   latitude: "-33.3833333"
   longitude: "-56.4166667"
 rincon de giloca: 
   city: rincon de giloca
-  accentcity: "Rinc\xC3\xB3n de Giloca"
+  accentcity: "Rincón de Giloca"
   region: "18"
   population: 
   latitude: "-31.8333333"
   longitude: "-55.7666667"
 rincon de gutierrez: 
   city: rincon de gutierrez
-  accentcity: "Rinc\xC3\xB3n de Guti\xC3\xA9rrez"
+  accentcity: "Rincón de Guti\xC3\xA9rrez"
   region: "19"
   population: 
   latitude: "-33.2"
   longitude: "-54.75"
 rincon de la aldea: 
   city: rincon de la aldea
-  accentcity: "Rinc\xC3\xB3n de la Aldea"
+  accentcity: "Rincón de la Aldea"
   region: "18"
   population: 
   latitude: "-31.75"
   longitude: "-56.0666667"
 rincon de la bolsa: 
   city: rincon de la bolsa
-  accentcity: "Rinc\xC3\xB3n de la Bolsa"
+  accentcity: "Rincón de la Bolsa"
   region: "18"
   population: 
   latitude: "-31.8166667"
   longitude: "-55.9166667"
 rincon de la laguna: 
   city: rincon de la laguna
-  accentcity: "Rinc\xC3\xB3n de la Laguna"
+  accentcity: "Rincón de la Laguna"
   region: "11"
   population: 
   latitude: "-32.0"
   longitude: "-55.4833333"
 rincon del bonete: 
   city: rincon del bonete
-  accentcity: "Rinc\xC3\xB3n del Bonete"
+  accentcity: "Rincón del Bonete"
   region: "05"
   population: 
   latitude: "-32.8"
   longitude: "-56.4166667"
 rincon del cololo: 
   city: rincon del cololo
-  accentcity: "Rinc\xC3\xB3n del Colol\xC3\xB3"
+  accentcity: "Rincón del Cololó"
   region: "17"
   population: 
   latitude: "-33.0833333"
   longitude: "-57.4333333"
 rincon de los machado: 
   city: rincon de los machado
-  accentcity: "Rinc\xC3\xB3n de los Machado"
+  accentcity: "Rincón de los Machado"
   region: "18"
   population: 
   latitude: "-32.2166667"
   longitude: "-56.0166667"
 rincon de los negros: 
   city: rincon de los negros
-  accentcity: "Rinc\xC3\xB3n de los Negros"
+  accentcity: "Rincón de los Negros"
   region: "12"
   population: 
   latitude: "-32.7166667"
   longitude: "-57.4666667"
 rincon de los oliveras: 
   city: rincon de los oliveras
-  accentcity: "Rinc\xC3\xB3n de los Oliveras"
+  accentcity: "Rincón de los Oliveras"
   region: "14"
   population: 
   latitude: "-34.3666667"
   longitude: "-53.8333333"
 rincon del pino: 
   city: rincon del pino
-  accentcity: "Rinc\xC3\xB3n del Pino"
+  accentcity: "Rincón del Pino"
   region: "16"
   population: 
   latitude: "-34.4833333"
   longitude: "-56.85"
 rincon de moraes: 
   city: rincon de moraes
-  accentcity: "Rinc\xC3\xB3n de Moraes"
+  accentcity: "Rincón de Moraes"
   region: "13"
   population: 
   latitude: "-31.3"
   longitude: "-55.8666667"
 rincon de pacheco: 
   city: rincon de pacheco
-  accentcity: "Rinc\xC3\xB3n de Pacheco"
+  accentcity: "Rincón de Pacheco"
   region: "01"
   population: 
   latitude: "-30.6333333"
   longitude: "-56.1666667"
 rincon de pereyra: 
   city: rincon de pereyra
-  accentcity: "Rinc\xC3\xB3n de Pereyra"
+  accentcity: "Rincón de Pereyra"
   region: "18"
   population: 
   latitude: "-32.4"
   longitude: "-55.35"
 rincon de py: 
   city: rincon de py
-  accentcity: "Rinc\xC3\xB3n de Py"
+  accentcity: "Rincón de Py"
   region: "03"
   population: 
   latitude: "-32.5"
   longitude: "-54.4166667"
 rincon de valentines: 
   city: rincon de valentines
-  accentcity: "Rinc\xC3\xB3n de Valentines"
+  accentcity: "Rincón de Valentines"
   region: "15"
   population: 
   latitude: "-31.2"
   longitude: "-57.2333333"
 rincon de velazquez: 
   city: rincon de velazquez
-  accentcity: "Rinc\xC3\xB3n de Vel\xC3\xA1zquez"
+  accentcity: "Rincón de Vel\xC3\xA1zquez"
   region: "02"
   population: 
   latitude: "-34.4"
   longitude: "-56.3333333"
 rincon de vidal: 
   city: rincon de vidal
-  accentcity: "Rinc\xC3\xB3n de Vidal"
+  accentcity: "Rincón de Vidal"
   region: "02"
   population: 
   latitude: "-34.3833333"
   longitude: "-56.3833333"
 rincon de yaguari: 
   city: rincon de yaguari
-  accentcity: "Rinc\xC3\xB3n de Yaguar\xC3\xAD"
+  accentcity: "Rincón de Yaguar\xC3\xAD"
   region: "18"
   population: 
   latitude: "-31.8166667"
   longitude: "-55.1833333"
 rincon: 
   city: rincon
-  accentcity: "Rinc\xC3\xB3n"
+  accentcity: "Rincón"
   region: "19"
   population: 
   latitude: "-32.7833333"
@@ -5700,7 +5679,7 @@ roja:
   longitude: "-56.6833333"
 rolon: 
   city: rolon
-  accentcity: "Rol\xC3\xB3n"
+  accentcity: "Rolón"
   region: "18"
   population: 
   latitude: "-32.3333333"
@@ -5973,7 +5952,7 @@ san pedro:
   longitude: "-57.85"
 san ramon: 
   city: san ramon
-  accentcity: "San Ram\xC3\xB3n"
+  accentcity: "San Ramón"
   region: "18"
   population: 
   latitude: "-31.9666667"
@@ -6127,7 +6106,7 @@ sarandi de acegua:
   longitude: "-54.2"
 sarandi de barcelo: 
   city: sarandi de barcelo
-  accentcity: "Sarand\xC3\xAD de Barcel\xC3\xB3"
+  accentcity: "Sarand\xC3\xAD de Barceló"
   region: "03"
   population: 
   latitude: "-32.4833333"
@@ -6141,7 +6120,7 @@ sarandi de cebollati:
   longitude: "-54.5333333"
 sarandi de cuaro: 
   city: sarandi de cuaro
-  accentcity: "Sarand\xC3\xAD de Cuar\xC3\xB3"
+  accentcity: "Sarand\xC3\xAD de Cuaró"
   region: "01"
   population: 
   latitude: "-30.8333333"
@@ -6372,7 +6351,7 @@ suarez:
   longitude: "-57.6166667"
 tacuarembo: 
   city: tacuarembo
-  accentcity: "Tacuaremb\xC3\xB3"
+  accentcity: "Tacuarembó"
   region: "18"
   population: "50575"
   latitude: "-31.7333333"
@@ -6554,7 +6533,7 @@ trinidad:
   longitude: "-56.9"
 tropezon: 
   city: tropezon
-  accentcity: "Tropez\xC3\xB3n"
+  accentcity: "Tropezón"
   region: "16"
   population: 
   latitude: "-34.4"
@@ -6582,7 +6561,7 @@ turupi:
   longitude: "-55.2833333"
 union: 
   city: union
-  accentcity: "Uni\xC3\xB3n"
+  accentcity: "Unión"
   region: "10"
   population: 
   latitude: "-34.8705556"
@@ -6687,7 +6666,7 @@ vera:
   longitude: "-57.4666667"
 verdun: 
   city: verdun
-  accentcity: "Verd\xC3\xBAn"
+  accentcity: "Verdún"
   region: "05"
   population: 
   latitude: "-32.6666667"
@@ -6750,7 +6729,7 @@ villa borges:
   longitude: "-57.3666667"
 villa colon: 
   city: villa colon
-  accentcity: "Villa Col\xC3\xB3n"
+  accentcity: "Villa Colón"
   region: "10"
   population: 
   latitude: "-34.8"
@@ -7072,7 +7051,7 @@ young:
   longitude: "-57.6333333"
 zambullon: 
   city: zambullon
-  accentcity: "Zambull\xC3\xB3n"
+  accentcity: "Zambullón"
   region: "18"
   population: 
   latitude: "-32.0333333"

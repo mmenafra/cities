@@ -58,7 +58,7 @@ anselmo de andrade:
   longitude: "7.3666667"
 antonio dias: 
   city: antonio dias
-  accentcity: "Ant\xC3\xB3nio Dias"
+  accentcity: "António Dias"
   region: "02"
   population: 
   latitude: "0.2"
@@ -261,7 +261,7 @@ chamico:
   longitude: "6.6"
 cidade de santo antonio: 
   city: cidade de santo antonio
-  accentcity: "Cidade de Santo Ant\xC3\xB3nio"
+  accentcity: "Cidade de Santo António"
   region: "01"
   population: 
   latitude: "1.65"
@@ -275,7 +275,7 @@ cincoenta:
   longitude: "7.3666667"
 colonia acoreana: 
   city: colonia acoreana
-  accentcity: "Col\xC3\xB3nia A\xC3\xA7oreana"
+  accentcity: "Colónia A\xC3\xA7oreana"
   region: "02"
   population: 
   latitude: "0.1833333"
@@ -387,7 +387,7 @@ general fonseca:
   longitude: "7.4333333"
 germinia antonia: 
   city: germinia antonia
-  accentcity: "Germinia Ant\xC3\xB3nia"
+  accentcity: "Germinia Antónia"
   region: "01"
   population: 
   latitude: "1.6333333"
@@ -471,7 +471,7 @@ infante dom henrique:
   longitude: "7.4166667"
 io grande: 
   city: io grande
-  accentcity: "I\xC3\xB3 Grande"
+  accentcity: "Ió Grande"
   region: "02"
   population: 
   latitude: "0.2166667"
@@ -1311,7 +1311,7 @@ santo andre:
   longitude: "6.7"
 santo antonio: 
   city: santo antonio
-  accentcity: "Santo Ant\xC3\xB3nio"
+  accentcity: "Santo António"
   region: "02"
   population: 
   latitude: "0.2333333"
@@ -1360,14 +1360,14 @@ sao jao:
   longitude: "6.65"
 sao jeronimo: 
   city: sao jeronimo
-  accentcity: "S\xC3\xA3o Jer\xC3\xB3nimo"
+  accentcity: "S\xC3\xA3o Jerónimo"
   region: "02"
   population: 
   latitude: "0.2"
   longitude: "6.6833333"
 sao jeronymo: 
   city: sao jeronymo
-  accentcity: "S\xC3\xA3o Jer\xC3\xB3nymo"
+  accentcity: "S\xC3\xA3o Jerónymo"
   region: "02"
   population: 
   latitude: "0.2"

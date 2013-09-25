@@ -170,14 +170,14 @@ adelita:
   longitude: "-78.9786111"
 administracion: 
   city: administracion
-  accentcity: "Administraci\xC3\xB3n"
+  accentcity: "Administración"
   region: "07"
   population: 
   latitude: "22.25"
   longitude: "-78.8666667"
 admiracion: 
   city: admiracion
-  accentcity: "Admiraci\xC3\xB3n"
+  accentcity: "Admiración"
   region: "03"
   population: 
   latitude: "22.9044444"
@@ -443,7 +443,7 @@ aguica nueva:
   longitude: "-80.8191667"
 aguijon: 
   city: aguijon
-  accentcity: "Aguij\xC3\xB3n"
+  accentcity: "Aguijón"
   region: "16"
   population: 
   latitude: "22.4833333"
@@ -639,7 +639,7 @@ alcranes:
   longitude: "-81.5675"
 aldabo: 
   city: aldabo
-  accentcity: "Aldab\xC3\xB3"
+  accentcity: "Aldabó"
   region: "02"
   population: 
   latitude: "23.0594444"
@@ -975,7 +975,7 @@ alto de chiquero:
   longitude: "-76.9075"
 alto de jo: 
   city: alto de jo
-  accentcity: "Alto de J\xC3\xB3"
+  accentcity: "Alto de Jó"
   region: 09
   population: 
   latitude: "20.1166667"
@@ -996,14 +996,14 @@ alto del mango:
   longitude: "-75.1333333"
 alto del villalon: 
   city: alto del villalon
-  accentcity: "Alto del Villal\xC3\xB3n"
+  accentcity: "Alto del Villalón"
   region: "15"
   population: 
   latitude: "20.0666667"
   longitude: "-75.7"
 alto de villalon: 
   city: alto de villalon
-  accentcity: "Alto de Villal\xC3\xB3n"
+  accentcity: "Alto de Villalón"
   region: "15"
   population: 
   latitude: "20.0666667"
@@ -1290,35 +1290,35 @@ ampliacion almendares:
   longitude: "-82.4333333"
 ampliacion de almendares: 
   city: ampliacion de almendares
-  accentcity: "Ampliaci\xC3\xB3n de Almendares"
+  accentcity: "Ampliación de Almendares"
   region: "02"
   population: 
   latitude: "23.1"
   longitude: "-82.4333333"
 ampliacion de arroyo: 
   city: ampliacion de arroyo
-  accentcity: "Ampliaci\xC3\xB3n de Arroyo"
+  accentcity: "Ampliación de Arroyo"
   region: "02"
   population: 
   latitude: "23.0469444"
   longitude: "-82.4672222"
 ampliacion de cruz verde: 
   city: ampliacion de cruz verde
-  accentcity: "Ampliaci\xC3\xB3n de Cruz Verde"
+  accentcity: "Ampliación de Cruz Verde"
   region: "02"
   population: 
   latitude: "23.05"
   longitude: "-82.2666667"
 ampliacion de mulgoba: 
   city: ampliacion de mulgoba
-  accentcity: "Ampliaci\xC3\xB3n de Mulgoba"
+  accentcity: "Ampliación de Mulgoba"
   region: "02"
   population: 
   latitude: "22.9833333"
   longitude: "-82.3666667"
 ampliacion rosario: 
   city: ampliacion rosario
-  accentcity: "Ampliaci\xC3\xB3n Rosario"
+  accentcity: "Ampliación Rosario"
   region: "02"
   population: 
   latitude: "23.0475"
@@ -1346,7 +1346,7 @@ anaya:
   longitude: "-80.5"
 ancon: 
   city: ancon
-  accentcity: "Anc\xC3\xB3n"
+  accentcity: "Ancón"
   region: "03"
   population: 
   latitude: "22.15"
@@ -1556,14 +1556,14 @@ antilla:
   longitude: "-75.7361111"
 anton: 
   city: anton
-  accentcity: "Ant\xC3\xB3n"
+  accentcity: "Antón"
   region: "03"
   population: 
   latitude: "22.5494444"
   longitude: "-80.7302778"
 anton diaz: 
   city: anton diaz
-  accentcity: "Ant\xC3\xB3n D\xC3\xADaz"
+  accentcity: "Antón D\xC3\xADaz"
   region: "16"
   population: 
   latitude: "22.4130556"
@@ -1654,21 +1654,21 @@ antonio telles:
   longitude: "-78.8180556"
 anton recio: 
   city: anton recio
-  accentcity: "Ant\xC3\xB3n Recio"
+  accentcity: "Antón Recio"
   region: 08
   population: 
   latitude: "22.1761111"
   longitude: "-80.6197222"
 anton sanchez: 
   city: anton sanchez
-  accentcity: "Ant\xC3\xB3n S\xC3\xA1nchez"
+  accentcity: "Antón S\xC3\xA1nchez"
   region: 09
   population: 
   latitude: "20.1666667"
   longitude: "-77.2333333"
 antun: 
   city: antun
-  accentcity: "Ant\xC3\xBAn"
+  accentcity: "Antún"
   region: "01"
   population: 
   latitude: "22.2716667"
@@ -1682,7 +1682,7 @@ antunes:
   longitude: "-84.26"
 antunez: 
   city: antunez
-  accentcity: "Ant\xC3\xBAnez"
+  accentcity: "Antúnez"
   region: "01"
   population: 
   latitude: "22.2716667"
@@ -1927,7 +1927,7 @@ armonia:
   longitude: "-81.8338889"
 arostegui: 
   city: arostegui
-  accentcity: "Ar\xC3\xB3stegui"
+  accentcity: "Aróstegui"
   region: "05"
   population: 
   latitude: "21.85"
@@ -2116,14 +2116,14 @@ arroyo naranjo:
   longitude: "-82.3716667"
 arroyon: 
   city: arroyon
-  accentcity: "Arroy\xC3\xB3n"
+  accentcity: "Arroyón"
   region: "13"
   population: 
   latitude: "21.1666667"
   longitude: "-76.4255556"
 arroyon de flores: 
   city: arroyon de flores
-  accentcity: "Arroy\xC3\xB3n de Flores"
+  accentcity: "Arroyón de Flores"
   region: "12"
   population: 
   latitude: "20.9333333"
@@ -2319,7 +2319,7 @@ asturias:
   longitude: "-80.7333333"
 asuncion: 
   city: asuncion
-  accentcity: "Asunci\xC3\xB3n"
+  accentcity: "Asunción"
   region: "16"
   population: 
   latitude: "22.5"
@@ -2585,7 +2585,7 @@ bacuranao:
   longitude: "-82.2455556"
 badon: 
   city: badon
-  accentcity: "Bad\xC3\xB3n"
+  accentcity: "Badón"
   region: "11"
   population: 
   latitude: "22.8"
@@ -2774,7 +2774,7 @@ balbosa:
   longitude: "-83.05"
 balcon de la lisa: 
   city: balcon de la lisa
-  accentcity: "Balc\xC3\xB3n de la Lisa"
+  accentcity: "Balcón de la Lisa"
   region: "02"
   population: 
   latitude: "23.0538889"
@@ -2984,7 +2984,7 @@ barbara:
   longitude: "-75.5333333"
 barbaru: 
   city: barbaru
-  accentcity: "Barbar\xC3\xBA"
+  accentcity: "Barbarú"
   region: "12"
   population: 
   latitude: "20.6166667"
@@ -3061,7 +3061,7 @@ barlovento:
   longitude: "-82.4872222"
 baro: 
   city: baro
-  accentcity: "Bar\xC3\xB3"
+  accentcity: "Baró"
   region: "07"
   population: 
   latitude: "21.7211111"
@@ -3110,14 +3110,14 @@ barrederas:
   longitude: "-75.3833333"
 barrederas numero 6: 
   city: barrederas numero 6
-  accentcity: "Barrederas N\xC3\xBAmero 6"
+  accentcity: "Barrederas Número 6"
   region: "12"
   population: 
   latitude: "20.7166667"
   longitude: "-75.3666667"
 barrederas numero seis: 
   city: barrederas numero seis
-  accentcity: "Barrederas N\xC3\xBAmero Seis"
+  accentcity: "Barrederas Número Seis"
   region: "12"
   population: 
   latitude: "20.7166667"
@@ -3208,7 +3208,7 @@ bartolome:
   longitude: "-79.5511111"
 bartolome maso: 
   city: bartolome maso
-  accentcity: "Bartolom\xC3\xA9 Mas\xC3\xB3"
+  accentcity: "Bartolom\xC3\xA9 Masó"
   region: 09
   population: 
   latitude: "20.1661111"
@@ -3222,7 +3222,7 @@ basulto:
   longitude: "-75.9833333"
 batabano: 
   city: batabano
-  accentcity: "Bataban\xC3\xB3"
+  accentcity: "Batabanó"
   region: "11"
   population: "13832"
   latitude: "22.6869444"
@@ -3747,7 +3747,7 @@ batey pelayo:
   longitude: "-80.1852778"
 batey pinon: 
   city: batey pinon
-  accentcity: "Batey Pi\xC3\xB1\xC3\xB3n"
+  accentcity: "Batey Pi\xC3\xB1ón"
   region: "03"
   population: 
   latitude: "22.6341667"
@@ -4118,7 +4118,7 @@ bella pluma:
   longitude: "-76.8166667"
 bella union: 
   city: bella union
-  accentcity: "Bella Uni\xC3\xB3n"
+  accentcity: "Bella Unión"
   region: "11"
   population: 
   latitude: "22.7333333"
@@ -4209,7 +4209,7 @@ bendamio:
   longitude: "-79.9666667"
 bendicion: 
   city: bendicion
-  accentcity: "Bendici\xC3\xB3n"
+  accentcity: "Bendición"
   region: "16"
   population: 
   latitude: "22.6833333"
@@ -4405,7 +4405,7 @@ bijagual:
   longitude: "-76.25"
 bijaru: 
   city: bijaru
-  accentcity: "Bijar\xC3\xBA"
+  accentcity: "Bijarú"
   region: "12"
   population: 
   latitude: "20.9"
@@ -4454,7 +4454,7 @@ biran:
   longitude: "-75.9166667"
 bizarron: 
   city: bizarron
-  accentcity: "Bizarr\xC3\xB3n"
+  accentcity: "Bizarrón"
   region: "11"
   population: 
   latitude: "22.8"
@@ -4706,7 +4706,7 @@ bolivia:
   longitude: "-78.3333333"
 bolondron: 
   city: bolondron
-  accentcity: "Bolondr\xC3\xB3n"
+  accentcity: "Bolondrón"
   region: "03"
   population: "6778"
   latitude: "22.7633333"
@@ -4727,7 +4727,7 @@ bomba:
   longitude: "-80.7666667"
 bombon norte: 
   city: bombon norte
-  accentcity: "Bomb\xC3\xB3n Norte"
+  accentcity: "Bombón Norte"
   region: 09
   population: 
   latitude: "20.2166667"
@@ -4762,7 +4762,7 @@ bonilla:
   longitude: "-80.4472222"
 boqueron: 
   city: boqueron
-  accentcity: "Boquer\xC3\xB3n"
+  accentcity: "Boquerón"
   region: "10"
   population: 
   latitude: "19.9852778"
@@ -4776,14 +4776,14 @@ boquerones:
   longitude: "-80.0113889"
 borbollon: 
   city: borbollon
-  accentcity: "Borboll\xC3\xB3n"
+  accentcity: "Borbollón"
   region: "13"
   population: 
   latitude: "21.0"
   longitude: "-77.4333333"
 bordon: 
   city: bordon
-  accentcity: "Bord\xC3\xB3n"
+  accentcity: "Bordón"
   region: "16"
   population: 
   latitude: "22.6691667"
@@ -5000,14 +5000,14 @@ bruni:
   longitude: "-75.7"
 bruno numero 1: 
   city: bruno numero 1
-  accentcity: "Bruno N\xC3\xBAmero 1"
+  accentcity: "Bruno Número 1"
   region: "12"
   population: 
   latitude: "20.9666667"
   longitude: "-75.7"
 bruno numero uno: 
   city: bruno numero uno
-  accentcity: "Bruno N\xC3\xBAmero Uno"
+  accentcity: "Bruno Número Uno"
   region: "12"
   population: 
   latitude: "20.9666667"
@@ -5077,7 +5077,7 @@ buen retiro:
   longitude: "-81.7152778"
 bueycabon: 
   city: bueycabon
-  accentcity: "Bueycab\xC3\xB3n"
+  accentcity: "Bueycabón"
   region: "15"
   population: 
   latitude: "19.9663889"
@@ -5098,7 +5098,7 @@ bueycitos:
   longitude: "-76.7666667"
 bufalo: 
   city: bufalo
-  accentcity: "B\xC3\xBAfalo"
+  accentcity: "Búfalo"
   region: "16"
   population: 
   latitude: "22.7833333"
@@ -5112,14 +5112,14 @@ burenes:
   longitude: "-75.9016667"
 buron: 
   city: buron
-  accentcity: "Bur\xC3\xB3n"
+  accentcity: "Burón"
   region: "02"
   population: 
   latitude: "23.05"
   longitude: "-82.35"
 cabacu: 
   city: cabacu
-  accentcity: "Cabac\xC3\xBA"
+  accentcity: "Cabacú"
   region: "10"
   population: 
   latitude: "20.3036111"
@@ -5196,7 +5196,7 @@ cabanas:
   longitude: "-75.9152778"
 cabanzon: 
   city: cabanzon
-  accentcity: "Cabanz\xC3\xB3n"
+  accentcity: "Cabanzón"
   region: "01"
   population: 
   latitude: "22.2833333"
@@ -5329,7 +5329,7 @@ cacocum:
   longitude: "-76.3263889"
 cacocun: 
   city: cacocun
-  accentcity: "Cacoc\xC3\xBAn"
+  accentcity: "Cacocún"
   region: "12"
   population: 
   latitude: "20.7472222"
@@ -5581,7 +5581,7 @@ caimito uno:
   longitude: "-78.3044444"
 caisimu: 
   city: caisimu
-  accentcity: "Caisim\xC3\xBA"
+  accentcity: "Caisimú"
   region: "13"
   population: 
   latitude: "21.1166667"
@@ -5630,7 +5630,7 @@ calabaza:
   longitude: "-80.0375"
 calabaza numero 7: 
   city: calabaza numero 7
-  accentcity: "Calabaza N\xC3\xBAmero 7"
+  accentcity: "Calabaza Número 7"
   region: "12"
   population: 
   latitude: "20.7666667"
@@ -5700,7 +5700,7 @@ calazan:
   longitude: "-84.05"
 calderon: 
   city: calderon
-  accentcity: "Calder\xC3\xB3n"
+  accentcity: "Calderón"
   region: "12"
   population: 
   latitude: "21.0608333"
@@ -5798,7 +5798,7 @@ calixto:
   longitude: "-76.8713889"
 calixto lopez: 
   city: calixto lopez
-  accentcity: "Calixto L\xC3\xB3pez"
+  accentcity: "Calixto López"
   region: "01"
   population: 
   latitude: "22.3333333"
@@ -5833,7 +5833,7 @@ callejas:
   longitude: "-83.0166667"
 callejon de tranca: 
   city: callejon de tranca
-  accentcity: "Callej\xC3\xB3n de Tranca"
+  accentcity: "Callejón de Tranca"
   region: "01"
   population: 
   latitude: "22.3333333"
@@ -5945,7 +5945,7 @@ camarioca:
   longitude: "-81.3569444"
 camaron: 
   city: camaron
-  accentcity: "Camar\xC3\xB3n"
+  accentcity: "Camarón"
   region: "16"
   population: 
   latitude: "22.4"
@@ -6008,21 +6008,21 @@ camilo cienfuegos:
   longitude: "-81.9430556"
 camilo cienfuegos numero 1: 
   city: camilo cienfuegos numero 1
-  accentcity: "Camilo Cienfuegos N\xC3\xBAmero 1"
+  accentcity: "Camilo Cienfuegos Número 1"
   region: "03"
   population: 
   latitude: "22.7036111"
   longitude: "-81.2052778"
 camilo cienfuegos numero 2: 
   city: camilo cienfuegos numero 2
-  accentcity: "Camilo Cienfuegos N\xC3\xBAmero 2"
+  accentcity: "Camilo Cienfuegos Número 2"
   region: "03"
   population: 
   latitude: "22.65"
   longitude: "-81.25"
 camilo cienfuegos numero dos: 
   city: camilo cienfuegos numero dos
-  accentcity: "Camilo Cienfuegos N\xC3\xBAmero Dos"
+  accentcity: "Camilo Cienfuegos Número Dos"
   region: "03"
   population: 
   latitude: "22.65"
@@ -6239,42 +6239,42 @@ canada de la palma:
   longitude: "-77.4833333"
 canada honda numero 11: 
   city: canada honda numero 11
-  accentcity: "Ca\xC3\xB1ada Honda N\xC3\xBAmero 11"
+  accentcity: "Ca\xC3\xB1ada Honda Número 11"
   region: "12"
   population: 
   latitude: "21.0333333"
   longitude: "-75.65"
 canada honda numero 13: 
   city: canada honda numero 13
-  accentcity: "Ca\xC3\xB1ada Honda N\xC3\xBAmero 13"
+  accentcity: "Ca\xC3\xB1ada Honda Número 13"
   region: "12"
   population: 
   latitude: "21.0166667"
   longitude: "-75.6333333"
 canada honda numero 2: 
   city: canada honda numero 2
-  accentcity: "Ca\xC3\xB1ada Honda N\xC3\xBAmero 2"
+  accentcity: "Ca\xC3\xB1ada Honda Número 2"
   region: "12"
   population: 
   latitude: "21.0091667"
   longitude: "-75.6952778"
 canada honda numero dos: 
   city: canada honda numero dos
-  accentcity: "Ca\xC3\xB1ada Honda N\xC3\xBAmero Dos"
+  accentcity: "Ca\xC3\xB1ada Honda Número Dos"
   region: "12"
   population: 
   latitude: "21.0091667"
   longitude: "-75.6952778"
 canada honda numero once: 
   city: canada honda numero once
-  accentcity: "Ca\xC3\xB1ada Honda N\xC3\xBAmero Once"
+  accentcity: "Ca\xC3\xB1ada Honda Número Once"
   region: "12"
   population: 
   latitude: "21.0333333"
   longitude: "-75.65"
 canada honda numero trece: 
   city: canada honda numero trece
-  accentcity: "Ca\xC3\xB1ada Honda N\xC3\xBAmero Trece"
+  accentcity: "Ca\xC3\xB1ada Honda Número Trece"
   region: "12"
   population: 
   latitude: "21.0166667"
@@ -6302,7 +6302,7 @@ cana de castilla:
   longitude: "-80.7583333"
 canadon: 
   city: canadon
-  accentcity: "Ca\xC3\xB1ad\xC3\xB3n"
+  accentcity: "Ca\xC3\xB1adón"
   region: "12"
   population: 
   latitude: "21.0875"
@@ -6603,14 +6603,14 @@ canones:
   longitude: "-75.9152778"
 cano numero 4: 
   city: cano numero 4
-  accentcity: "Cano N\xC3\xBAmero 4"
+  accentcity: "Cano Número 4"
   region: "12"
   population: 
   latitude: "20.95"
   longitude: "-75.7"
 cano numero cuatro: 
   city: cano numero cuatro
-  accentcity: "Cano N\xC3\xBAmero Cuatro"
+  accentcity: "Cano Número Cuatro"
   region: "12"
   population: 
   latitude: "20.95"
@@ -6680,7 +6680,7 @@ cantimplora:
   longitude: "-76.1833333"
 canton: 
   city: canton
-  accentcity: "Cant\xC3\xB3n"
+  accentcity: "Cantón"
   region: "01"
   population: 
   latitude: "22.575"
@@ -6932,7 +6932,7 @@ carballo:
   longitude: "-77.7333333"
 carbo: 
   city: carbo
-  accentcity: "Carb\xC3\xB3"
+  accentcity: "Carbó"
   region: "14"
   population: 
   latitude: "22.3666667"
@@ -7450,7 +7450,7 @@ caserio san miguel:
   longitude: "-78.3"
 caseta numero 3: 
   city: caseta numero 3
-  accentcity: "Caseta N\xC3\xBAmero 3"
+  accentcity: "Caseta Número 3"
   region: "13"
   population: 
   latitude: "20.9166667"
@@ -7856,7 +7856,7 @@ cayo conuco:
   longitude: "-83.6333333"
 cayo cristobal: 
   city: cayo cristobal
-  accentcity: "Cayo Crist\xC3\xB3bal"
+  accentcity: "Cayo Cristóbal"
   region: "01"
   population: 
   latitude: "22.4936111"
@@ -8143,7 +8143,7 @@ ceiba del conde:
   longitude: "-80.3666667"
 ceiba de mainicu: 
   city: ceiba de mainicu
-  accentcity: "Ceiba de Mainic\xC3\xBA"
+  accentcity: "Ceiba de Mainicú"
   region: "14"
   population: 
   latitude: "21.8333333"
@@ -8346,7 +8346,7 @@ centro comunalmanuel m. brito:
   longitude: "-79.31"
 centro del hato matun: 
   city: centro del hato matun
-  accentcity: "Centro del Hato Mat\xC3\xBAn"
+  accentcity: "Centro del Hato Matún"
   region: 08
   population: 
   latitude: "22.1705556"
@@ -8444,7 +8444,7 @@ chacha:
   longitude: "-79.75"
 chacon: 
   city: chacon
-  accentcity: "Chac\xC3\xB3n"
+  accentcity: "Chacón"
   region: "04"
   population: 
   latitude: "21.9"
@@ -8563,7 +8563,7 @@ chavaleta:
   longitude: "-75.65"
 cheo lopez: 
   city: cheo lopez
-  accentcity: "Cheo L\xC3\xB3pez"
+  accentcity: "Cheo López"
   region: "01"
   population: 
   latitude: "22.3166667"
@@ -8577,7 +8577,7 @@ chibas:
   longitude: "-82.3069444"
 chicharon: 
   city: chicharon
-  accentcity: "Chichar\xC3\xB3n"
+  accentcity: "Chicharón"
   region: "16"
   population: 
   latitude: "22.5666667"
@@ -8696,7 +8696,7 @@ chorrera de managua:
   longitude: "-82.3166667"
 chorreron: 
   city: chorreron
-  accentcity: "Chorrer\xC3\xB3n"
+  accentcity: "Chorrerón"
   region: "14"
   population: 
   latitude: "22.2497222"
@@ -9165,7 +9165,7 @@ ciudad pesquera manzanillo:
   longitude: "-77.1"
 ciudad pesquera pescadores de pilon: 
   city: ciudad pesquera pescadores de pilon
-  accentcity: "Ciudad Pesquera Pescadores de Pil\xC3\xB3n"
+  accentcity: "Ciudad Pesquera Pescadores de Pilón"
   region: 09
   population: 
   latitude: "19.8833333"
@@ -9676,7 +9676,7 @@ colonia horquita:
   longitude: "-80.7719444"
 colonia jibaru: 
   city: colonia jibaru
-  accentcity: "Colonia Jibar\xC3\xBA"
+  accentcity: "Colonia Jibarú"
   region: 08
   population: 
   latitude: "22.3166667"
@@ -9767,28 +9767,28 @@ colonia miguel del sol:
   longitude: "-80.1166667"
 colonia numero 2: 
   city: colonia numero 2
-  accentcity: "Colonia N\xC3\xBAmero 2"
+  accentcity: "Colonia Número 2"
   region: "12"
   population: 
   latitude: "20.55"
   longitude: "-76.2166667"
 colonia numero 42: 
   city: colonia numero 42
-  accentcity: "Colonia N\xC3\xBAmero 42"
+  accentcity: "Colonia Número 42"
   region: "15"
   population: 
   latitude: "20.3333333"
   longitude: "-75.8833333"
 colonia numero 7: 
   city: colonia numero 7
-  accentcity: "Colonia N\xC3\xBAmero 7"
+  accentcity: "Colonia Número 7"
   region: "15"
   population: 
   latitude: "20.2333333"
   longitude: "-76.1833333"
 colonia numero 8: 
   city: colonia numero 8
-  accentcity: "Colonia N\xC3\xBAmero 8"
+  accentcity: "Colonia Número 8"
   region: "15"
   population: 
   latitude: "20.3261111"
@@ -9907,7 +9907,7 @@ colonia sindicato:
   longitude: "-76.0"
 colonias rey numero 1 y amaro: 
   city: colonias rey numero 1 y amaro
-  accentcity: "Colonias Rey N\xC3\xBAmero 1 y Amaro"
+  accentcity: "Colonias Rey Número 1 y Amaro"
   region: "12"
   population: 
   latitude: "20.6"
@@ -10026,14 +10026,14 @@ competencia:
   longitude: "-83.55"
 concepcion: 
   city: concepcion
-  accentcity: "Concepci\xC3\xB3n"
+  accentcity: "Concepción"
   region: "16"
   population: 
   latitude: "22.4833333"
   longitude: "-79.7"
 concepcion infante: 
   city: concepcion infante
-  accentcity: "Concepci\xC3\xB3n Infante"
+  accentcity: "Concepción Infante"
   region: "12"
   population: 
   latitude: "20.7111111"
@@ -10075,7 +10075,7 @@ condado:
   longitude: "-79.8402778"
 confederacion: 
   city: confederacion
-  accentcity: "Confederaci\xC3\xB3n"
+  accentcity: "Confederación"
   region: "01"
   population: 
   latitude: "22.0847222"
@@ -10110,7 +10110,7 @@ congojas:
   longitude: "-79.7833333"
 conico: 
   city: conico
-  accentcity: "C\xC3\xB3nico"
+  accentcity: "Cónico"
   region: "01"
   population: 
   latitude: "20.25"
@@ -10124,21 +10124,21 @@ consecuencia:
   longitude: "-75.7"
 consolacion: 
   city: consolacion
-  accentcity: "Consolaci\xC3\xB3n"
+  accentcity: "Consolación"
   region: "10"
   population: 
   latitude: "20.2488889"
   longitude: "-74.4113889"
 consolacion del norte: 
   city: consolacion del norte
-  accentcity: "Consolaci\xC3\xB3n del Norte"
+  accentcity: "Consolación del Norte"
   region: "01"
   population: 
   latitude: "22.7491667"
   longitude: "-83.5538889"
 consolacion del sur: 
   city: consolacion del sur
-  accentcity: "Consolaci\xC3\xB3n del Sur"
+  accentcity: "Consolación del Sur"
   region: "01"
   population: "69859"
   latitude: "22.5047222"
@@ -10250,7 +10250,7 @@ coralillo:
   longitude: "-79.35"
 corazon de jesus: 
   city: corazon de jesus
-  accentcity: "Coraz\xC3\xB3n de Jes\xC3\xBAs"
+  accentcity: "Corazón de Jesús"
   region: "16"
   population: 
   latitude: "22.7272222"
@@ -10271,7 +10271,7 @@ corcobado:
   longitude: "-75.4166667"
 cordoba: 
   city: cordoba
-  accentcity: "C\xC3\xB3rdoba"
+  accentcity: "Córdoba"
   region: "05"
   population: 
   latitude: "21.1"
@@ -10285,7 +10285,7 @@ cordobanal:
   longitude: "-79.9791667"
 cordova: 
   city: cordova
-  accentcity: "C\xC3\xB3rdova"
+  accentcity: "Córdova"
   region: "16"
   population: 
   latitude: "22.95"
@@ -10334,7 +10334,7 @@ corojo:
   longitude: "-79.5666667"
 corojo de san cristobal: 
   city: corojo de san cristobal
-  accentcity: "Corojo de San Crist\xC3\xB3bal"
+  accentcity: "Corojo de San Cristóbal"
   region: "16"
   population: 
   latitude: "22.25"
@@ -10481,35 +10481,35 @@ cortes:
   longitude: "-83.9983333"
 corua: 
   city: corua
-  accentcity: "Cor\xC3\xBAa"
+  accentcity: "Corúa"
   region: "12"
   population: 
   latitude: "20.6666667"
   longitude: "-75.5833333"
 corua numero 7: 
   city: corua numero 7
-  accentcity: "Corua N\xC3\xBAmero 7"
+  accentcity: "Corua Número 7"
   region: "12"
   population: 
   latitude: "20.6833333"
   longitude: "-75.5833333"
 corua numero 8: 
   city: corua numero 8
-  accentcity: "Corua N\xC3\xBAmero 8"
+  accentcity: "Corua Número 8"
   region: "12"
   population: 
   latitude: "20.6833333"
   longitude: "-75.5666667"
 corua numero ocho: 
   city: corua numero ocho
-  accentcity: "Cor\xC3\xBAa N\xC3\xBAmero Ocho"
+  accentcity: "Corúa Número Ocho"
   region: "12"
   population: 
   latitude: "20.6833333"
   longitude: "-75.5666667"
 corua numero siete: 
   city: corua numero siete
-  accentcity: "Cor\xC3\xBAa N\xC3\xBAmero Siete"
+  accentcity: "Corúa Número Siete"
   region: "12"
   population: 
   latitude: "20.6833333"
@@ -10936,14 +10936,14 @@ cuatro caminos:
   longitude: "-80.4202778"
 cuatro caminos de falcon: 
   city: cuatro caminos de falcon
-  accentcity: "Cuatro Caminos de Falc\xC3\xB3n"
+  accentcity: "Cuatro Caminos de Falcón"
   region: "02"
   population: 
   latitude: "23.05"
   longitude: "-82.4833333"
 cuatro caminos de guajaibon: 
   city: cuatro caminos de guajaibon
-  accentcity: "Cuatro Caminos de Guajaib\xC3\xB3n"
+  accentcity: "Cuatro Caminos de Guajaibón"
   region: "11"
   population: 
   latitude: "23.0027778"
@@ -11055,14 +11055,14 @@ cubanacan:
   longitude: "-82.4508333"
 cuba numero 2: 
   city: cuba numero 2
-  accentcity: "Cuba N\xC3\xBAmero 2"
+  accentcity: "Cuba Número 2"
   region: "12"
   population: 
   latitude: "20.55"
   longitude: "-76.2166667"
 cuba numero dos: 
   city: cuba numero dos
-  accentcity: "Cuba N\xC3\xBAmero Dos"
+  accentcity: "Cuba Número Dos"
   region: "12"
   population: 
   latitude: "20.55"
@@ -11776,7 +11776,7 @@ distrito khose-marti:
   longitude: "-75.8505556"
 division: 
   city: division
-  accentcity: "Divisi\xC3\xB3n"
+  accentcity: "División"
   region: "11"
   population: 
   latitude: "22.8333333"
@@ -11790,7 +11790,7 @@ dobales:
   longitude: "-76.4661111"
 doceapostoles: 
   city: doceapostoles
-  accentcity: "DoceAp\xC3\xB3stoles"
+  accentcity: "DoceApóstoles"
   region: "13"
   population: 
   latitude: "21.3666667"
@@ -11860,7 +11860,7 @@ domingo alfonso:
   longitude: "-80.4"
 domingo soberon: 
   city: domingo soberon
-  accentcity: "Domingo Sober\xC3\xB3n"
+  accentcity: "Domingo Soberón"
   region: "01"
   population: 
   latitude: "22.55"
@@ -12231,14 +12231,14 @@ egipto:
   longitude: "-75.4266667"
 el abra de calderon: 
   city: el abra de calderon
-  accentcity: "El Abra de Calder\xC3\xB3n"
+  accentcity: "El Abra de Calderón"
   region: 08
   population: 
   latitude: "22.2"
   longitude: "-80.15"
 el abra de castellon: 
   city: el abra de castellon
-  accentcity: "El Abra de Castell\xC3\xB3n"
+  accentcity: "El Abra de Castellón"
   region: 08
   population: 
   latitude: "22.2"
@@ -12364,7 +12364,7 @@ el almacen:
   longitude: "-83.7"
 el almendron: 
   city: el almendron
-  accentcity: "El Almendr\xC3\xB3n"
+  accentcity: "El Almendrón"
   region: "13"
   population: 
   latitude: "21.1"
@@ -12427,7 +12427,7 @@ el arce:
   longitude: "-77.2166667"
 el arpon: 
   city: el arpon
-  accentcity: "El Arp\xC3\xB3n"
+  accentcity: "El Arpón"
   region: "15"
   population: 
   latitude: "20.3666667"
@@ -12686,7 +12686,7 @@ el campamento:
   longitude: "-82.5666667"
 el canadon: 
   city: el canadon
-  accentcity: "El Ca\xC3\xB1ad\xC3\xB3n"
+  accentcity: "El Ca\xC3\xB1adón"
   region: "12"
   population: 
   latitude: "20.6333333"
@@ -12770,7 +12770,7 @@ el carabinero:
   longitude: "-82.6833333"
 el cardon: 
   city: el cardon
-  accentcity: "El Card\xC3\xB3n"
+  accentcity: "El Cardón"
   region: "12"
   population: 
   latitude: "20.7166667"
@@ -12882,7 +12882,7 @@ el cenizo:
   longitude: "-78.4291667"
 el cerrajon: 
   city: el cerrajon
-  accentcity: "El Cerraj\xC3\xB3n"
+  accentcity: "El Cerrajón"
   region: "05"
   population: 
   latitude: "21.25"
@@ -12973,7 +12973,7 @@ el chucho:
   longitude: "-75.65"
 el cidron de guaimarillo: 
   city: el cidron de guaimarillo
-  accentcity: "El Cidr\xC3\xB3n de Guaimarillo"
+  accentcity: "El Cidrón de Guaimarillo"
   region: "13"
   population: 
   latitude: "20.9441667"
@@ -13148,7 +13148,7 @@ el corojo:
   longitude: "-80.0166667"
 el corral de lazaro lopez: 
   city: el corral de lazaro lopez
-  accentcity: "El Corral de L\xC3\xA1zaro L\xC3\xB3pez"
+  accentcity: "El Corral de L\xC3\xA1zaro López"
   region: "07"
   population: 
   latitude: "21.9511111"
@@ -13393,7 +13393,7 @@ el dique:
   longitude: "-78.3025"
 el divino platon: 
   city: el divino platon
-  accentcity: "El Divino Plat\xC3\xB3n"
+  accentcity: "El Divino Platón"
   region: "01"
   population: 
   latitude: "22.2833333"
@@ -13680,7 +13680,7 @@ el guajirito:
   longitude: "-83.3"
 el guajiro numero uno: 
   city: el guajiro numero uno
-  accentcity: "El Guajiro N\xC3\xBAmero Uno"
+  accentcity: "El Guajiro Número Uno"
   region: "01"
   population: 
   latitude: "22.4833333"
@@ -13694,7 +13694,7 @@ el guanal:
   longitude: "-76.9"
 el guanobano: 
   city: el guanobano
-  accentcity: "El Guan\xC3\xB3bano"
+  accentcity: "El Guanóbano"
   region: "13"
   population: 
   latitude: "21.285"
@@ -13806,14 +13806,14 @@ el hicaco:
   longitude: "-78.7333333"
 el hondon: 
   city: el hondon
-  accentcity: "El Hond\xC3\xB3n"
+  accentcity: "El Hondón"
   region: "01"
   population: 
   latitude: "22.1"
   longitude: "-84.0"
 el horcon: 
   city: el horcon
-  accentcity: "El Horc\xC3\xB3n"
+  accentcity: "El Horcón"
   region: "05"
   population: 
   latitude: "21.1666667"
@@ -14016,7 +14016,7 @@ el jobo:
   longitude: "-79.8"
 el jobon: 
   city: el jobon
-  accentcity: "El Job\xC3\xB3n"
+  accentcity: "El Jobón"
   region: "15"
   population: 
   latitude: "20.1166667"
@@ -14030,7 +14030,7 @@ el jucaral:
   longitude: "-77.3833333"
 el jucaro: 
   city: el jucaro
-  accentcity: "El J\xC3\xBAcaro"
+  accentcity: "El Júcaro"
   region: "15"
   population: 
   latitude: "22.35"
@@ -14072,7 +14072,7 @@ el lechuza:
   longitude: "-81.0458333"
 el limon: 
   city: el limon
-  accentcity: "El Lim\xC3\xB3n"
+  accentcity: "El Limón"
   region: "03"
   population: 
   latitude: "22.75"
@@ -14093,7 +14093,7 @@ el llano de manacas:
   longitude: "-83.7630556"
 el lomon: 
   city: el lomon
-  accentcity: "El Lom\xC3\xB3n"
+  accentcity: "El Lomón"
   region: "15"
   population: 
   latitude: "20.1166667"
@@ -14149,7 +14149,7 @@ el malangal:
   longitude: "-75.3755556"
 el malecon: 
   city: el malecon
-  accentcity: "El Malec\xC3\xB3n"
+  accentcity: "El Malecón"
   region: "05"
   population: 
   latitude: "21.35"
@@ -14184,7 +14184,7 @@ el manaiu:
   longitude: "-83.75"
 el manaju: 
   city: el manaju
-  accentcity: "El Manaj\xC3\xBA"
+  accentcity: "El Manajú"
   region: "01"
   population: 
   latitude: "22.2166667"
@@ -14268,7 +14268,7 @@ el manzano:
   longitude: "-75.6263889"
 el maranon: 
   city: el maranon
-  accentcity: "El Mara\xC3\xB1\xC3\xB3n"
+  accentcity: "El Mara\xC3\xB1ón"
   region: "01"
   population: 
   latitude: "22.3666667"
@@ -14485,35 +14485,35 @@ el nueve:
   longitude: "-77.2666667"
 el numero 211: 
   city: el numero 211
-  accentcity: "El N\xC3\xBAmero 211"
+  accentcity: "El Número 211"
   region: "13"
   population: 
   latitude: "21.2244444"
   longitude: "-77.0611111"
 el numero 3: 
   city: el numero 3
-  accentcity: "El N\xC3\xBAmero 3"
+  accentcity: "El Número 3"
   region: "05"
   population: 
   latitude: "21.2563889"
   longitude: "-77.0975"
 el numero 5: 
   city: el numero 5
-  accentcity: "El N\xC3\xBAmero 5"
+  accentcity: "El Número 5"
   region: "13"
   population: 
   latitude: "20.9166667"
   longitude: "-77.25"
 el numero cinco: 
   city: el numero cinco
-  accentcity: "El N\xC3\xBAmero Cinco"
+  accentcity: "El Número Cinco"
   region: "13"
   population: 
   latitude: "20.9166667"
   longitude: "-77.25"
 el numero uno: 
   city: el numero uno
-  accentcity: "El N\xC3\xBAmero Uno"
+  accentcity: "El Número Uno"
   region: 08
   population: 
   latitude: "22.3"
@@ -14681,21 +14681,21 @@ el pelvir:
   longitude: "-82.5666667"
 el penon: 
   city: el penon
-  accentcity: "El Pe\xC3\xB1\xC3\xB3n"
+  accentcity: "El Pe\xC3\xB1ón"
   region: "05"
   population: 
   latitude: "21.3786111"
   longitude: "-77.7944444"
 el peru: 
   city: el peru
-  accentcity: "El Per\xC3\xBA"
+  accentcity: "El Perú"
   region: "11"
   population: 
   latitude: "23.0130556"
   longitude: "-82.0636111"
 elpidio gomez: 
   city: elpidio gomez
-  accentcity: "Elpidio G\xC3\xB3mez"
+  accentcity: "Elpidio Gómez"
   region: 08
   population: 
   latitude: "22.2666667"
@@ -14709,7 +14709,7 @@ el pilar:
   longitude: "-82.6333333"
 el pilon y palmar: 
   city: el pilon y palmar
-  accentcity: "El Pil\xC3\xB3n y Palmar"
+  accentcity: "El Pilón y Palmar"
   region: "15"
   population: 
   latitude: "20.0941667"
@@ -14737,7 +14737,7 @@ el pino:
   longitude: "-74.5352778"
 el pinon: 
   city: el pinon
-  accentcity: "El Pi\xC3\xB1\xC3\xB3n"
+  accentcity: "El Pi\xC3\xB1ón"
   region: 08
   population: 
   latitude: "22.8166667"
@@ -14821,7 +14821,7 @@ el progreso:
   longitude: "-83.5333333"
 el proximo: 
   city: el proximo
-  accentcity: "El Pr\xC3\xB3ximo"
+  accentcity: "El Próximo"
   region: "05"
   population: 
   latitude: "21.4233333"
@@ -14898,21 +14898,21 @@ el quirro:
   longitude: "-79.9497222"
 el ramon de guaninao: 
   city: el ramon de guaninao
-  accentcity: "El Ram\xC3\xB3n de Guaninao"
+  accentcity: "El Ramón de Guaninao"
   region: "15"
   population: 
   latitude: "20.1833333"
   longitude: "-76.1333333"
 el ramon de las yaguas: 
   city: el ramon de las yaguas
-  accentcity: "El Ram\xC3\xB3n de las Yaguas"
+  accentcity: "El Ramón de las Yaguas"
   region: "15"
   population: 
   latitude: "20.0416667"
   longitude: "-75.5194444"
 el ramon: 
   city: el ramon
-  accentcity: "El Ram\xC3\xB3n"
+  accentcity: "El Ramón"
   region: "15"
   population: 
   latitude: "20.0416667"
@@ -15024,7 +15024,7 @@ el rigor:
   longitude: "-79.0897222"
 el rincon: 
   city: el rincon
-  accentcity: "El Rinc\xC3\xB3n"
+  accentcity: "El Rincón"
   region: "14"
   population: 
   latitude: "22.0166667"
@@ -15171,7 +15171,7 @@ el salto:
   longitude: "-80.5394444"
 el salton: 
   city: el salton
-  accentcity: "El Salt\xC3\xB3n"
+  accentcity: "El Saltón"
   region: "15"
   population: 
   latitude: "20.15"
@@ -15241,7 +15241,7 @@ el sigual:
   longitude: "-79.1147222"
 el siju: 
   city: el siju
-  accentcity: "El Sij\xC3\xBA"
+  accentcity: "El Sijú"
   region: "14"
   population: 
   latitude: "21.8166667"
@@ -15696,7 +15696,7 @@ el yonce:
   longitude: "-76.4244444"
 el zanjon: 
   city: el zanjon
-  accentcity: "El Zanj\xC3\xB3n"
+  accentcity: "El Zanjón"
   region: "05"
   population: 
   latitude: "21.2166667"
@@ -15717,7 +15717,7 @@ el zorral:
   longitude: "-76.1666667"
 embarcadero canton: 
   city: embarcadero canton
-  accentcity: "Embarcadero Cant\xC3\xB3n"
+  accentcity: "Embarcadero Cantón"
   region: "01"
   population: 
   latitude: "22.575"
@@ -15801,7 +15801,7 @@ emilia gonzalez:
   longitude: "-82.5166667"
 emilio giro: 
   city: emilio giro
-  accentcity: "Emilio Gir\xC3\xB3"
+  accentcity: "Emilio Giró"
   region: "15"
   population: 
   latitude: "20.1847222"
@@ -15822,7 +15822,7 @@ empresa:
   longitude: "-81.3333333"
 encarnacion: 
   city: encarnacion
-  accentcity: "Encarnaci\xC3\xB3n"
+  accentcity: "Encarnación"
   region: 08
   population: 
   latitude: "22.2180556"
@@ -15878,7 +15878,7 @@ ensenada de las casas:
   longitude: "-83.75"
 ensilu: 
   city: ensilu
-  accentcity: "Ensil\xC3\xBA"
+  accentcity: "Ensilú"
   region: "07"
   population: 
   latitude: "21.7463889"
@@ -15948,7 +15948,7 @@ entronque la mina:
   longitude: "-80.175"
 entronque lebanon: 
   city: entronque lebanon
-  accentcity: "Entronque Leban\xC3\xB3n"
+  accentcity: "Entronque Lebanón"
   region: "13"
   population: 
   latitude: "21.0455556"
@@ -16165,7 +16165,7 @@ espinosa:
   longitude: "-79.7"
 espolon: 
   city: espolon
-  accentcity: "Espol\xC3\xB3n"
+  accentcity: "Espolón"
   region: "01"
   population: 
   latitude: "22.4833333"
@@ -16312,7 +16312,7 @@ estero:
   longitude: "-75.9361111"
 esteron: 
   city: esteron
-  accentcity: "Ester\xC3\xB3n"
+  accentcity: "Esterón"
   region: "12"
   population: 
   latitude: "20.7"
@@ -16417,7 +16417,7 @@ fajardo:
   longitude: "-76.7152778"
 falcon: 
   city: falcon
-  accentcity: "Falc\xC3\xB3n"
+  accentcity: "Falcón"
   region: "16"
   population: 
   latitude: "22.3566667"
@@ -16459,28 +16459,28 @@ federal:
   longitude: "-82.2833333"
 federal numero 1: 
   city: federal numero 1
-  accentcity: "Federal N\xC3\xBAmero 1"
+  accentcity: "Federal Número 1"
   region: "13"
   population: 
   latitude: "20.8333333"
   longitude: "-77.4666667"
 federal numero 2: 
   city: federal numero 2
-  accentcity: "Federal N\xC3\xBAmero 2"
+  accentcity: "Federal Número 2"
   region: "13"
   population: 
   latitude: "20.8333333"
   longitude: "-77.4333333"
 federal numero dos: 
   city: federal numero dos
-  accentcity: "Federal N\xC3\xBAmero Dos"
+  accentcity: "Federal Número Dos"
   region: "13"
   population: 
   latitude: "20.8333333"
   longitude: "-77.4333333"
 federal numero uno: 
   city: federal numero uno
-  accentcity: "Federal N\xC3\xBAmero Uno"
+  accentcity: "Federal Número Uno"
   region: "13"
   population: 
   latitude: "20.8333333"
@@ -16760,7 +16760,7 @@ finca ibarra:
   longitude: "-81.5169444"
 finca la concepcion: 
   city: finca la concepcion
-  accentcity: "Finca La Concepci\xC3\xB3n"
+  accentcity: "Finca La Concepción"
   region: "01"
   population: 
   latitude: "22.66"
@@ -16991,7 +16991,7 @@ foca:
   longitude: "-81.7833333"
 foco: 
   city: foco
-  accentcity: "Foc\xC3\xB3"
+  accentcity: "Focó"
   region: "11"
   population: 
   latitude: "22.9333333"
@@ -17418,7 +17418,7 @@ gaspar:
   longitude: "-78.5516667"
 gaston: 
   city: gaston
-  accentcity: "Gast\xC3\xB3n"
+  accentcity: "Gastón"
   region: "13"
   population: 
   latitude: "20.8827778"
@@ -17607,7 +17607,7 @@ glorieta:
   longitude: "-75.0844444"
 goacainabon: 
   city: goacainabon
-  accentcity: "Goacainab\xC3\xB3n"
+  accentcity: "Goacainabón"
   region: "15"
   population: 
   latitude: "19.9627778"
@@ -17635,7 +17635,7 @@ gomera:
   longitude: "-80.1666667"
 gomez: 
   city: gomez
-  accentcity: "G\xC3\xB3mez"
+  accentcity: "Gómez"
   region: "13"
   population: 
   latitude: "20.85"
@@ -17845,7 +17845,7 @@ gregorio arlee manalich:
   longitude: "-82.1475"
 grua guanamon de herrera: 
   city: grua guanamon de herrera
-  accentcity: "Gr\xC3\xBAa Guanam\xC3\xB3n de Herrera"
+  accentcity: "Grúa Guanamón de Herrera"
   region: "11"
   population: 
   latitude: "22.7166667"
@@ -17859,7 +17859,7 @@ grua nueva:
   longitude: "-78.4555556"
 grua primavera: 
   city: grua primavera
-  accentcity: "Gr\xC3\xBAa Primavera"
+  accentcity: "Grúa Primavera"
   region: "11"
   population: 
   latitude: "22.7333333"
@@ -17887,14 +17887,14 @@ guabeje:
   longitude: "-77.0833333"
 guabineyon: 
   city: guabineyon
-  accentcity: "Guabiney\xC3\xB3n"
+  accentcity: "Guabineyón"
   region: "12"
   population: 
   latitude: "21.0711111"
   longitude: "-76.3058333"
 guacainabon: 
   city: guacainabon
-  accentcity: "Guacainab\xC3\xB3n"
+  accentcity: "Guacainabón"
   region: "15"
   population: 
   latitude: "19.9627778"
@@ -18013,28 +18013,28 @@ guajabito:
   longitude: "-76.8166667"
 guajaca numero 1: 
   city: guajaca numero 1
-  accentcity: "Guajaca N\xC3\xBAmero 1"
+  accentcity: "Guajaca Número 1"
   region: "12"
   population: 
   latitude: "20.7"
   longitude: "-75.2333333"
 guajaca numero 3: 
   city: guajaca numero 3
-  accentcity: "Guajaca N\xC3\xBAmero 3"
+  accentcity: "Guajaca Número 3"
   region: "12"
   population: 
   latitude: "20.6833333"
   longitude: "-75.2"
 guajaca numero tres: 
   city: guajaca numero tres
-  accentcity: "Guajaca N\xC3\xBAmero Tres"
+  accentcity: "Guajaca Número Tres"
   region: "12"
   population: 
   latitude: "20.6833333"
   longitude: "-75.2"
 guajaca numero uno: 
   city: guajaca numero uno
-  accentcity: "Guajaca N\xC3\xBAmero Uno"
+  accentcity: "Guajaca Número Uno"
   region: "12"
   population: 
   latitude: "20.7"
@@ -18062,7 +18062,7 @@ guajimico:
   longitude: "-80.3"
 guajiro numero dos: 
   city: guajiro numero dos
-  accentcity: "Guajiro N\xC3\xBAmero Dos"
+  accentcity: "Guajiro Número Dos"
   region: "01"
   population: 
   latitude: "22.4833333"
@@ -18181,7 +18181,7 @@ guanabano:
   longitude: "-77.7166667"
 guanaba playa del rincon: 
   city: guanaba playa del rincon
-  accentcity: "Guanaba Playa del Rinc\xC3\xB3n"
+  accentcity: "Guanaba Playa del Rincón"
   region: "02"
   population: 
   latitude: "23.1711111"
@@ -18258,28 +18258,28 @@ guanal:
   longitude: "-80.4333333"
 guanamon de armentero: 
   city: guanamon de armentero
-  accentcity: "Guanam\xC3\xB3n de Armentero"
+  accentcity: "Guanamón de Armentero"
   region: "11"
   population: 
   latitude: "22.7166667"
   longitude: "-81.95"
 guanamon de armenteros: 
   city: guanamon de armenteros
-  accentcity: "Guanam\xC3\xB3n de Armenteros"
+  accentcity: "Guanamón de Armenteros"
   region: "11"
   population: 
   latitude: "22.7166667"
   longitude: "-81.95"
 guanamon de herrera: 
   city: guanamon de herrera
-  accentcity: "Guanam\xC3\xB3n de Herrera"
+  accentcity: "Guanamón de Herrera"
   region: "11"
   population: 
   latitude: "22.7166667"
   longitude: "-81.8"
 guanamon: 
   city: guanamon
-  accentcity: "Guanam\xC3\xB3n"
+  accentcity: "Guanamón"
   region: "11"
   population: 
   latitude: "22.7166667"
@@ -18790,7 +18790,7 @@ guillermo moncada:
   longitude: "-80.5811111"
 guillermon: 
   city: guillermon
-  accentcity: "Guillerm\xC3\xB3n"
+  accentcity: "Guillermón"
   region: "05"
   population: 
   latitude: "21.8666667"
@@ -18846,7 +18846,7 @@ guin'yao:
   longitude: "-74.4266667"
 guipuzcoa: 
   city: guipuzcoa
-  accentcity: "Guip\xC3\xBAzcoa"
+  accentcity: "Guipúzcoa"
   region: "03"
   population: 
   latitude: "22.95"
@@ -18979,7 +18979,7 @@ guren:
   longitude: "-77.4666667"
 gurugu: 
   city: gurugu
-  accentcity: "Gurug\xC3\xBA"
+  accentcity: "Gurugú"
   region: "05"
   population: 
   latitude: "21.6"
@@ -19119,7 +19119,7 @@ hacienda oliva:
   longitude: "-84.2666667"
 hacienda san bolondron: 
   city: hacienda san bolondron
-  accentcity: "Hacienda San Bolondr\xC3\xB3n"
+  accentcity: "Hacienda San Bolondrón"
   region: "01"
   population: 
   latitude: "21.8833333"
@@ -19245,7 +19245,7 @@ hato magdalena:
   longitude: "-80.7833333"
 hato matun: 
   city: hato matun
-  accentcity: "Hato Mat\xC3\xBAn"
+  accentcity: "Hato Matún"
   region: 08
   population: 
   latitude: "22.1744444"
@@ -19392,7 +19392,7 @@ heredera de muro:
   longitude: "-80.9666667"
 herederos de baltasar gomez: 
   city: herederos de baltasar gomez
-  accentcity: "Herederos de Baltasar G\xC3\xB3mez"
+  accentcity: "Herederos de Baltasar Gómez"
   region: "03"
   population: 
   latitude: "22.8166667"
@@ -19630,7 +19630,7 @@ hondones:
   longitude: "-83.8033333"
 hondon: 
   city: hondon
-  accentcity: "Hond\xC3\xB3n"
+  accentcity: "Hondón"
   region: "03"
   population: 
   latitude: "22.6"
@@ -20015,7 +20015,7 @@ ingenito limpiones:
   longitude: "-77.3833333"
 ingenito numero 1: 
   city: ingenito numero 1
-  accentcity: "Ingenito N\xC3\xBAmero 1"
+  accentcity: "Ingenito Número 1"
   region: "13"
   population: 
   latitude: "20.8833333"
@@ -20246,7 +20246,7 @@ jacomino:
   longitude: "-82.3336111"
 jagua ampliacion: 
   city: jagua ampliacion
-  accentcity: "Jagua Ampliaci\xC3\xB3n"
+  accentcity: "Jagua Ampliación"
   region: 09
   population: 
   latitude: "20.0083333"
@@ -20414,7 +20414,7 @@ jaguey nuevo:
   longitude: "-77.5833333"
 jagueyon: 
   city: jagueyon
-  accentcity: "Jaguey\xC3\xB3n"
+  accentcity: "Jagueyón"
   region: "10"
   population: 
   latitude: "20.4"
@@ -20442,7 +20442,7 @@ jaimanitas:
   longitude: "-82.4827778"
 jaime lopez: 
   city: jaime lopez
-  accentcity: "Jaime L\xC3\xB3pez"
+  accentcity: "Jaime López"
   region: "03"
   population: 
   latitude: "22.8038889"
@@ -20540,7 +20540,7 @@ jardin:
   longitude: "-78.05"
 jarico: 
   city: jarico
-  accentcity: "Jaric\xC3\xB3"
+  accentcity: "Jaricó"
   region: "16"
   population: 
   latitude: "22.6166667"
@@ -20554,7 +20554,7 @@ jarocuma:
   longitude: "-78.3038889"
 jaronu: 
   city: jaronu
-  accentcity: "Jaron\xC3\xBA"
+  accentcity: "Jaronú"
   region: "05"
   population: 
   latitude: "21.8"
@@ -20617,35 +20617,35 @@ jesucito:
   longitude: "-81.085"
 jesus del monte: 
   city: jesus del monte
-  accentcity: "Jes\xC3\xBAs del Monte"
+  accentcity: "Jesús del Monte"
   region: "02"
   population: 
   latitude: "23.1"
   longitude: "-82.3666667"
 jesus maria: 
   city: jesus maria
-  accentcity: "Jes\xC3\xBAs Mar\xC3\xADa"
+  accentcity: "Jesús Mar\xC3\xADa"
   region: "15"
   population: 
   latitude: "20.1005556"
   longitude: "-75.8136111"
 jesus menendez: 
   city: jesus menendez
-  accentcity: "Jes\xC3\xBAs Men\xC3\xA9ndez"
+  accentcity: "Jesús Men\xC3\xA9ndez"
   region: "13"
   population: 
   latitude: "21.16"
   longitude: "-76.4788889"
 jesus nazareno: 
   city: jesus nazareno
-  accentcity: "Jes\xC3\xBAs Nazareno"
+  accentcity: "Jesús Nazareno"
   region: "02"
   population: 
   latitude: "23.0069444"
   longitude: "-82.3944444"
 jesus rabi: 
   city: jesus rabi
-  accentcity: "Jes\xC3\xBAs Rab\xC3\xAD"
+  accentcity: "Jesús Rab\xC3\xAD"
   region: "03"
   population: 
   latitude: "22.5302778"
@@ -20687,7 +20687,7 @@ jibaros:
   longitude: "-77.1166667"
 jibaru: 
   city: jibaru
-  accentcity: "Jibar\xC3\xBA"
+  accentcity: "Jibarú"
   region: 08
   population: 
   latitude: "22.3166667"
@@ -20757,7 +20757,7 @@ jimaguas:
   longitude: "-81.7944444"
 jimaguayu: 
   city: jimaguayu
-  accentcity: "Jimaguay\xC3\xBA"
+  accentcity: "Jimaguayú"
   region: "05"
   population: 
   latitude: "21.2427778"
@@ -20771,7 +20771,7 @@ jimenez:
   longitude: "-80.5333333"
 jimiru: 
   city: jimiru
-  accentcity: "Jimir\xC3\xBA"
+  accentcity: "Jimirú"
   region: "05"
   population: 
   latitude: "21.0811111"
@@ -21142,7 +21142,7 @@ jose marti:
   longitude: "-76.1833333"
 jose mendeza: 
   city: jose mendeza
-  accentcity: "J\xC3\xB3se M\xC3\xA9ndeza"
+  accentcity: "Jóse M\xC3\xA9ndeza"
   region: "01"
   population: 
   latitude: "22.6"
@@ -21261,7 +21261,7 @@ juana ramirez:
   longitude: "-80.4666667"
 juan baron: 
   city: juan baron
-  accentcity: "Juan Bar\xC3\xB3n"
+  accentcity: "Juan Barón"
   region: "15"
   population: 
   latitude: "20.25"
@@ -21366,7 +21366,7 @@ juan garcia:
   longitude: "-80.6166667"
 juan gomez: 
   city: juan gomez
-  accentcity: "Juan G\xC3\xB3mez"
+  accentcity: "Juan Gómez"
   region: "01"
   population: 
   latitude: "22.2"
@@ -21380,7 +21380,7 @@ juan gonzalez:
   longitude: "-75.9952778"
 juan gualberto gomez: 
   city: juan gualberto gomez
-  accentcity: "Juan Gualberto G\xC3\xB3mez"
+  accentcity: "Juan Gualberto Gómez"
   region: "03"
   population: 
   latitude: "22.8625"
@@ -21457,7 +21457,7 @@ juan sanchez:
   longitude: "-77.3180556"
 juan simon: 
   city: juan simon
-  accentcity: "Juan Sim\xC3\xB3n"
+  accentcity: "Juan Simón"
   region: 09
   population: 
   latitude: "20.3166667"
@@ -21506,14 +21506,14 @@ jucaral:
   longitude: "-76.1975"
 jucarito: 
   city: jucarito
-  accentcity: "J\xC3\xBAcarito"
+  accentcity: "Júcarito"
   region: "15"
   population: 
   latitude: "19.9794444"
   longitude: "-75.8813889"
 jucaro 2: 
   city: jucaro 2
-  accentcity: "J\xC3\xBAcaro 2"
+  accentcity: "Júcaro 2"
   region: "13"
   population: 
   latitude: "21.0286111"
@@ -21527,14 +21527,14 @@ jucaro:
   longitude: "-75.7025"
 jucaro numero 2: 
   city: jucaro numero 2
-  accentcity: "J\xC3\xBAcaro N\xC3\xBAmero 2"
+  accentcity: "Júcaro Número 2"
   region: "13"
   population: 
   latitude: "21.0286111"
   longitude: "-76.7058333"
 jucaro numero dos: 
   city: jucaro numero dos
-  accentcity: "J\xC3\xBAcaro N\xC3\xBAmero Dos"
+  accentcity: "Júcaro Número Dos"
   region: "13"
   population: 
   latitude: "21.0286111"
@@ -21639,28 +21639,28 @@ junco:
   longitude: "-75.9922222"
 junta numero 1: 
   city: junta numero 1
-  accentcity: "Junta N\xC3\xBAmero 1"
+  accentcity: "Junta Número 1"
   region: "01"
   population: 
   latitude: "22.3"
   longitude: "-83.7833333"
 junta numero 2: 
   city: junta numero 2
-  accentcity: "Junta N\xC3\xBAmero 2"
+  accentcity: "Junta Número 2"
   region: "01"
   population: 
   latitude: "22.3"
   longitude: "-83.7833333"
 junta numero dos: 
   city: junta numero dos
-  accentcity: "Junta N\xC3\xBAmero Dos"
+  accentcity: "Junta Número Dos"
   region: "01"
   population: 
   latitude: "22.3"
   longitude: "-83.7833333"
 junta numero uno: 
   city: junta numero uno
-  accentcity: "Junta N\xC3\xBAmero Uno"
+  accentcity: "Junta Número Uno"
   region: "01"
   population: 
   latitude: "22.3"
@@ -21688,21 +21688,21 @@ juraguasito:
   longitude: "-75.6997222"
 jurisdiccion: 
   city: jurisdiccion
-  accentcity: "Jurisdicci\xC3\xB3n"
+  accentcity: "Jurisdicción"
   region: "15"
   population: 
   latitude: "20.1827778"
   longitude: "-75.5063889"
 jururu: 
   city: jururu
-  accentcity: "Jurur\xC3\xBA"
+  accentcity: "Jururú"
   region: "12"
   population: 
   latitude: "21.1"
   longitude: "-76.0833333"
 jutinicu: 
   city: jutinicu
-  accentcity: "Jutinic\xC3\xBA"
+  accentcity: "Jutinicú"
   region: "15"
   population: 
   latitude: "20.1833333"
@@ -22052,7 +22052,7 @@ la arboleda:
   longitude: "-81.0888889"
 la asuncion: 
   city: la asuncion
-  accentcity: "La Asunci\xC3\xB3n"
+  accentcity: "La Asunción"
   region: "16"
   population: 
   latitude: "22.35"
@@ -22073,7 +22073,7 @@ la aurora:
   longitude: "-79.95"
 la ayua: 
   city: la ayua
-  accentcity: "La Ay\xC3\xBAa"
+  accentcity: "La Ayúa"
   region: "15"
   population: 
   latitude: "20.2802778"
@@ -22654,7 +22654,7 @@ la colorada:
   longitude: "-78.6666667"
 la comeson: 
   city: la comeson
-  accentcity: "La Comes\xC3\xB3n"
+  accentcity: "La Comesón"
   region: "03"
   population: 
   latitude: "22.45"
@@ -22689,7 +22689,7 @@ lacona:
   longitude: "-84.05"
 la concepcion: 
   city: la concepcion
-  accentcity: "La Concepci\xC3\xB3n"
+  accentcity: "La Concepción"
   region: "16"
   population: 
   latitude: "22.45"
@@ -23095,7 +23095,7 @@ la empresa:
   longitude: "-82.6166667"
 la encarnacion: 
   city: la encarnacion
-  accentcity: "La Encarnaci\xC3\xB3n"
+  accentcity: "La Encarnación"
   region: "16"
   population: 
   latitude: "22.5333333"
@@ -23368,7 +23368,7 @@ la fruta:
   longitude: "-80.6927778"
 la fundicion: 
   city: la fundicion
-  accentcity: "La Fundici\xC3\xB3n"
+  accentcity: "La Fundición"
   region: "05"
   population: 
   latitude: "21.4166667"
@@ -25412,7 +25412,7 @@ la regente:
   longitude: "-31.6333333"
 la region: 
   city: la region
-  accentcity: "La Regi\xC3\xB3n"
+  accentcity: "La Región"
   region: "15"
   population: 
   latitude: "20.4333333"
@@ -25433,7 +25433,7 @@ la represa:
   longitude: "-75.8666667"
 la republica: 
   city: la republica
-  accentcity: "La Rep\xC3\xBAblica"
+  accentcity: "La República"
   region: "01"
   population: 
   latitude: "22.3"
@@ -25461,7 +25461,7 @@ la retenida:
   longitude: "-79.6666667"
 la reunion: 
   city: la reunion
-  accentcity: "La Reuni\xC3\xB3n"
+  accentcity: "La Reunión"
   region: "11"
   population: 
   latitude: "22.8666667"
@@ -25524,7 +25524,7 @@ la rosa de cancio:
   longitude: "-79.3333333"
 la rosa de mainicu: 
   city: la rosa de mainicu
-  accentcity: "La Rosa de Mainic\xC3\xBA"
+  accentcity: "La Rosa de Mainicú"
   region: "14"
   population: 
   latitude: "21.8333333"
@@ -26063,7 +26063,7 @@ las dolores:
   longitude: "-80.4"
 las dos gruas: 
   city: las dos gruas
-  accentcity: "Las Dos Gr\xC3\xBAas"
+  accentcity: "Las Dos Grúas"
   region: 09
   population: 
   latitude: "20.15"
@@ -26469,7 +26469,7 @@ las-mersedes:
   longitude: "-78.9622222"
 las minas del petroleo: 
   city: las minas del petroleo
-  accentcity: "Las Minas del Petr\xC3\xB3leo"
+  accentcity: "Las Minas del Petróleo"
   region: "02"
   population: 
   latitude: "23.1541667"
@@ -26679,7 +26679,7 @@ las pelonas:
   longitude: "-77.05"
 las peluas: 
   city: las peluas
-  accentcity: "Las Pel\xC3\xBAas"
+  accentcity: "Las Pelúas"
   region: "13"
   population: 
   latitude: "21.2225"
@@ -27218,7 +27218,7 @@ la tusa:
   longitude: "-78.1666667"
 la union: 
   city: la union
-  accentcity: "La Uni\xC3\xB3n"
+  accentcity: "La Unión"
   region: "16"
   population: 
   latitude: "22.4666667"
@@ -27554,7 +27554,7 @@ lazaro:
   longitude: "-78.2986111"
 lazaro lopez: 
   city: lazaro lopez
-  accentcity: "L\xC3\xA1zaro L\xC3\xB3pez"
+  accentcity: "L\xC3\xA1zaro López"
   region: "07"
   population: 
   latitude: "21.9511111"
@@ -27715,7 +27715,7 @@ leones:
   longitude: "-82.4333333"
 leon: 
   city: leon
-  accentcity: "Le\xC3\xB3n"
+  accentcity: "León"
   region: "03"
   population: 
   latitude: "22.7197222"
@@ -27848,7 +27848,7 @@ limones palmero:
   longitude: "-79.0788889"
 limon: 
   city: limon
-  accentcity: "Lim\xC3\xB3n"
+  accentcity: "Limón"
   region: "01"
   population: 
   latitude: "21.9680556"
@@ -28016,7 +28016,7 @@ loma del muerto:
   longitude: "-76.6166667"
 loma de pilon: 
   city: loma de pilon
-  accentcity: "Loma de Pil\xC3\xB3n"
+  accentcity: "Loma de Pilón"
   region: "12"
   population: 
   latitude: "20.9"
@@ -28121,14 +28121,14 @@ longa:
   longitude: "-80.3"
 lopez: 
   city: lopez
-  accentcity: "L\xC3\xB3pez"
+  accentcity: "López"
   region: "16"
   population: 
   latitude: "22.8333333"
   longitude: "-80.25"
 lopez pena: 
   city: lopez pena
-  accentcity: "L\xC3\xB3pez Pe\xC3\xB1a"
+  accentcity: "López Pe\xC3\xB1a"
   region: "12"
   population: 
   latitude: "20.7488889"
@@ -28513,7 +28513,7 @@ los cujes:
   longitude: "-80.1833333"
 los doce apostoles: 
   city: los doce apostoles
-  accentcity: "Los Doce Ap\xC3\xB3stoles"
+  accentcity: "Los Doce Apóstoles"
   region: "13"
   population: 
   latitude: "21.3666667"
@@ -28779,7 +28779,7 @@ los lobos:
   longitude: "-76.1666667"
 los lopez: 
   city: los lopez
-  accentcity: "Los L\xC3\xB3pez"
+  accentcity: "Los López"
   region: 09
   population: 
   latitude: "20.25"
@@ -28961,7 +28961,7 @@ los nuevos:
   longitude: "-79.1491667"
 los nunez: 
   city: los nunez
-  accentcity: "Los N\xC3\xBA\xC3\xB1ez"
+  accentcity: "Los Nú\xC3\xB1ez"
   region: "01"
   population: 
   latitude: "22.9244444"
@@ -29325,14 +29325,14 @@ lucrecia:
   longitude: "-75.6002778"
 lucrecia numero 4: 
   city: lucrecia numero 4
-  accentcity: "Lucrecia N\xC3\xBAmero 4"
+  accentcity: "Lucrecia Número 4"
   region: "12"
   population: 
   latitude: "21.0166667"
   longitude: "-75.6166667"
 lucrecia numero cuatro: 
   city: lucrecia numero cuatro
-  accentcity: "Lucrecia N\xC3\xBAmero Cuatro"
+  accentcity: "Lucrecia Número Cuatro"
   region: "12"
   population: 
   latitude: "21.0166667"
@@ -29416,14 +29416,14 @@ lutgardita:
   longitude: "-82.3833333"
 luyano: 
   city: luyano
-  accentcity: "Luyan\xC3\xB3"
+  accentcity: "Luyanó"
   region: "02"
   population: 
   latitude: "23.1063889"
   longitude: "-82.3536111"
 luyano moderno: 
   city: luyano moderno
-  accentcity: "Luyan\xC3\xB3 Moderno"
+  accentcity: "Luyanó Moderno"
   region: "02"
   population: 
   latitude: "23.0952778"
@@ -29535,14 +29535,14 @@ macagua:
   longitude: "-79.9497222"
 macagua numero 6: 
   city: macagua numero 6
-  accentcity: "Macagua N\xC3\xBAmero 6"
+  accentcity: "Macagua Número 6"
   region: "13"
   population: 
   latitude: "20.9666667"
   longitude: "-77.1666667"
 macagua numero seis: 
   city: macagua numero seis
-  accentcity: "Macagua N\xC3\xBAmero Seis"
+  accentcity: "Macagua Número Seis"
   region: "13"
   population: 
   latitude: "20.9666667"
@@ -29885,7 +29885,7 @@ makhayara:
   longitude: "-74.4652778"
 malaco: 
   city: malaco
-  accentcity: "Malac\xC3\xB3"
+  accentcity: "Malacó"
   region: 09
   population: 
   latitude: "20.4166667"
@@ -29934,7 +29934,7 @@ maldonado:
   longitude: "-75.4791667"
 malecon: 
   city: malecon
-  accentcity: "Malec\xC3\xB3n"
+  accentcity: "Malecón"
   region: "05"
   population: 
   latitude: "21.4166667"
@@ -30333,7 +30333,7 @@ manguitos:
   longitude: "-75.6438889"
 maniabon: 
   city: maniabon
-  accentcity: "Maniab\xC3\xB3n"
+  accentcity: "Maniabón"
   region: "13"
   population: 
   latitude: "21.0733333"
@@ -30375,7 +30375,7 @@ mankito:
   longitude: "-74.8508333"
 manon: 
   city: manon
-  accentcity: "Man\xC3\xB3n"
+  accentcity: "Manón"
   region: "15"
   population: 
   latitude: "20.3166667"
@@ -30459,7 +30459,7 @@ manuelillo:
   longitude: "-78.05"
 manuelita bolondron: 
   city: manuelita bolondron
-  accentcity: "Manuelita Bolondr\xC3\xB3n"
+  accentcity: "Manuelita Bolondrón"
   region: "03"
   population: 
   latitude: "22.8172222"
@@ -30585,21 +30585,21 @@ maquey:
   longitude: "-75.0833333"
 marabu: 
   city: marabu
-  accentcity: "Marab\xC3\xBA"
+  accentcity: "Marabú"
   region: "01"
   population: 
   latitude: "22.5"
   longitude: "-83.55"
 maranon: 
   city: maranon
-  accentcity: "Mara\xC3\xB1\xC3\xB3n"
+  accentcity: "Mara\xC3\xB1ón"
   region: "11"
   population: 
   latitude: "22.8252778"
   longitude: "-82.2008333"
 maranon uno: 
   city: maranon uno
-  accentcity: "Mara\xC3\xB1\xC3\xB3n Uno"
+  accentcity: "Mara\xC3\xB1ón Uno"
   region: "13"
   population: 
   latitude: "21.2491667"
@@ -31187,14 +31187,14 @@ matos:
   longitude: "-78.2333333"
 matun: 
   city: matun
-  accentcity: "Mat\xC3\xBAn"
+  accentcity: "Matún"
   region: 08
   population: 
   latitude: "22.1744444"
   longitude: "-80.7133333"
 maximo gomez: 
   city: maximo gomez
-  accentcity: "M\xC3\xA1ximo G\xC3\xB3mez"
+  accentcity: "M\xC3\xA1ximo Gómez"
   region: "07"
   population: 
   latitude: "22.3847222"
@@ -31257,7 +31257,7 @@ mayito:
   longitude: "-77.6333333"
 mayolica: 
   city: mayolica
-  accentcity: "May\xC3\xB3lica"
+  accentcity: "Mayólica"
   region: "01"
   population: 
   latitude: "22.45"
@@ -31957,7 +31957,7 @@ misericordia:
   longitude: "-78.6333333"
 mision: 
   city: mision
-  accentcity: "Misi\xC3\xB3n"
+  accentcity: "Misión"
   region: "07"
   population: 
   latitude: "21.7177778"
@@ -32335,7 +32335,7 @@ montolo:
   longitude: "-83.4933333"
 monton de piedras: 
   city: monton de piedras
-  accentcity: "Mont\xC3\xB3n de Piedras"
+  accentcity: "Montón de Piedras"
   region: "15"
   population: 
   latitude: "20.45"
@@ -32370,7 +32370,7 @@ monumento:
   longitude: "-81.5333333"
 monzon: 
   city: monzon
-  accentcity: "Monz\xC3\xB3n"
+  accentcity: "Monzón"
   region: "03"
   population: 
   latitude: "22.7241667"
@@ -32433,7 +32433,7 @@ moreira:
   longitude: "-80.6216667"
 morejon: 
   city: morejon
-  accentcity: "Morej\xC3\xB3n"
+  accentcity: "Morejón"
   region: "16"
   population: 
   latitude: "22.7833333"
@@ -32461,14 +32461,14 @@ moreno:
   longitude: "-78.8319444"
 moron de los palencia: 
   city: moron de los palencia
-  accentcity: "Mor\xC3\xB3n de los Palencia"
+  accentcity: "Morón de los Palencia"
   region: "15"
   population: 
   latitude: "20.1366667"
   longitude: "-75.7611111"
 moron: 
   city: moron
-  accentcity: "Mor\xC3\xB3n"
+  accentcity: "Morón"
   region: "15"
   population: 
   latitude: "20.1366667"
@@ -32657,7 +32657,7 @@ nacimiento:
   longitude: "-79.2297222"
 nalon: 
   city: nalon
-  accentcity: "Nal\xC3\xB3n"
+  accentcity: "Nalón"
   region: "02"
   population: 
   latitude: "23.1122222"
@@ -32692,7 +32692,7 @@ naranjo:
   longitude: "-76.8125"
 naranjo numero once: 
   city: naranjo numero once
-  accentcity: "Naranjo N\xC3\xBAmero Once"
+  accentcity: "Naranjo Número Once"
   region: "12"
   population: 
   latitude: "20.8666667"
@@ -32916,7 +32916,7 @@ niagara:
   longitude: "-83.5333333"
 nibujon: 
   city: nibujon
-  accentcity: "Nibuj\xC3\xB3n"
+  accentcity: "Nibujón"
   region: "10"
   population: 
   latitude: "20.5036111"
@@ -33301,28 +33301,28 @@ nuevo vedado:
   longitude: "-82.4"
 numero 4: 
   city: numero 4
-  accentcity: "N\xC3\xBAmero 4"
+  accentcity: "Número 4"
   region: "01"
   population: 
   latitude: "22.4833333"
   longitude: "-83.6"
 numero cuatro: 
   city: numero cuatro
-  accentcity: "N\xC3\xBAmero Cuatro"
+  accentcity: "Número Cuatro"
   region: "01"
   population: 
   latitude: "22.4833333"
   longitude: "-83.6"
 numero sesenta y ocho: 
   city: numero sesenta y ocho
-  accentcity: "N\xC3\xBAmero Sesenta y Ocho"
+  accentcity: "Número Sesenta y Ocho"
   region: "07"
   population: 
   latitude: "21.9605556"
   longitude: "-78.275"
 nunez: 
   city: nunez
-  accentcity: "N\xC3\xBA\xC3\xB1ez"
+  accentcity: "Nú\xC3\xB1ez"
   region: "01"
   population: 
   latitude: "22.5833333"
@@ -33763,14 +33763,14 @@ paciencia:
   longitude: "-81.5741667"
 padron de manos: 
   city: padron de manos
-  accentcity: "Padr\xC3\xB3n de Manos"
+  accentcity: "Padrón de Manos"
   region: "13"
   population: 
   latitude: "21.1158333"
   longitude: "-76.3686111"
 padron: 
   city: padron
-  accentcity: "Padr\xC3\xB3n"
+  accentcity: "Padrón"
   region: "16"
   population: 
   latitude: "22.8"
@@ -33854,7 +33854,7 @@ palizadas:
   longitude: "-78.6833333"
 palizon: 
   city: palizon
-  accentcity: "Paliz\xC3\xB3n"
+  accentcity: "Palizón"
   region: "05"
   population: 
   latitude: "21.0033333"
@@ -34274,7 +34274,7 @@ panchita:
   longitude: "-79.9666667"
 panchito gomez toro: 
   city: panchito gomez toro
-  accentcity: "Panchito G\xC3\xB3mez Toro"
+  accentcity: "Panchito Gómez Toro"
   region: "16"
   population: 
   latitude: "22.7833333"
@@ -34302,7 +34302,7 @@ pancho perez:
   longitude: "-83.8166667"
 pan de azucar: 
   city: pan de azucar
-  accentcity: "Pan de Az\xC3\xBAcar"
+  accentcity: "Pan de Azúcar"
   region: "10"
   population: 
   latitude: "20.35"
@@ -34323,7 +34323,7 @@ paneque:
   longitude: "-76.7166667"
 pantaleon: 
   city: pantaleon
-  accentcity: "Pantale\xC3\xB3n"
+  accentcity: "Pantaleón"
   region: "03"
   population: 
   latitude: "22.7511111"
@@ -34456,42 +34456,42 @@ parana:
   longitude: "-76.05"
 parcelacion aguero: 
   city: parcelacion aguero
-  accentcity: "Parcelaci\xC3\xB3n Aguero"
+  accentcity: "Parcelación Aguero"
   region: "15"
   population: 
   latitude: "20.0333333"
   longitude: "-75.85"
 parcelacion emilio mola: 
   city: parcelacion emilio mola
-  accentcity: "Parcelaci\xC3\xB3n Emilio Mola"
+  accentcity: "Parcelación Emilio Mola"
   region: "02"
   population: 
   latitude: "23.0666667"
   longitude: "-82.2833333"
 parcelacion lourdes: 
   city: parcelacion lourdes
-  accentcity: "Parcelaci\xC3\xB3n Lourdes"
+  accentcity: "Parcelación Lourdes"
   region: "02"
   population: 
   latitude: "23.0002778"
   longitude: "-82.4822222"
 parcelacion moderna: 
   city: parcelacion moderna
-  accentcity: "Parcelaci\xC3\xB3n Moderna"
+  accentcity: "Parcelación Moderna"
   region: "02"
   population: 
   latitude: "23.0425"
   longitude: "-82.3222222"
 parcelacion san agustin: 
   city: parcelacion san agustin
-  accentcity: "Parcelaci\xC3\xB3n San Agust\xC3\xADn"
+  accentcity: "Parcelación San Agust\xC3\xADn"
   region: "02"
   population: 
   latitude: "23.0544444"
   longitude: "-82.4647222"
 parcelacion zayas: 
   city: parcelacion zayas
-  accentcity: "Parcelaci\xC3\xB3n Zayas"
+  accentcity: "Parcelación Zayas"
   region: "02"
   population: 
   latitude: "23.0166667"
@@ -34575,14 +34575,14 @@ pasa de marin:
   longitude: "-84.0538889"
 pasion: 
   city: pasion
-  accentcity: "Pasi\xC3\xB3n"
+  accentcity: "Pasión"
   region: "16"
   population: 
   latitude: "22.5666667"
   longitude: "-80.15"
 paso bambu: 
   city: paso bambu
-  accentcity: "Paso Bamb\xC3\xBA"
+  accentcity: "Paso Bambú"
   region: "10"
   population: 
   latitude: "20.1002778"
@@ -34869,7 +34869,7 @@ paulita:
   longitude: "-81.55"
 pavon: 
   city: pavon
-  accentcity: "Pav\xC3\xB3n"
+  accentcity: "Pavón"
   region: "16"
   population: 
   latitude: "22.6"
@@ -34953,7 +34953,7 @@ pedro enriquez cafetal:
   longitude: "-79.4666667"
 pedro lopez: 
   city: pedro lopez
-  accentcity: "Pedro L\xC3\xB3pez"
+  accentcity: "Pedro López"
   region: "05"
   population: 
   latitude: "20.8"
@@ -35177,7 +35177,7 @@ perche:
   longitude: "-80.45"
 perdigon: 
   city: perdigon
-  accentcity: "Perdig\xC3\xB3n"
+  accentcity: "Perdigón"
   region: "14"
   population: 
   latitude: "21.9333333"
@@ -35282,7 +35282,7 @@ perucho faqueredo:
   longitude: "-79.8711111"
 peru: 
   city: peru
-  accentcity: "Per\xC3\xBA"
+  accentcity: "Perú"
   region: "15"
   population: 
   latitude: "20.1286111"
@@ -35415,14 +35415,14 @@ piedra iman:
   longitude: "-77.2333333"
 piedra numero dos: 
   city: piedra numero dos
-  accentcity: "Piedra N\xC3\xBAmero Dos"
+  accentcity: "Piedra Número Dos"
   region: "01"
   population: 
   latitude: "22.5986111"
   longitude: "-83.025"
 piedra numero uno: 
   city: piedra numero uno
-  accentcity: "Piedra N\xC3\xBAmero Uno"
+  accentcity: "Piedra Número Uno"
   region: "01"
   population: 
   latitude: "22.6127778"
@@ -35478,35 +35478,35 @@ pilar:
   longitude: "-77.065"
 pilon de cauto: 
   city: pilon de cauto
-  accentcity: "Pil\xC3\xB3n de Cauto"
+  accentcity: "Pilón de Cauto"
   region: "15"
   population: 
   latitude: "20.1"
   longitude: "-76.15"
 pilon del media: 
   city: pilon del media
-  accentcity: "Pil\xC3\xB3n del Media"
+  accentcity: "Pilón del Media"
   region: 09
   population: 
   latitude: "19.9"
   longitude: "-77.35"
 pilon del medio: 
   city: pilon del medio
-  accentcity: "Pil\xC3\xB3n del Medio"
+  accentcity: "Pilón del Medio"
   region: 09
   population: 
   latitude: "19.9"
   longitude: "-77.35"
 pilon: 
   city: pilon
-  accentcity: "Pil\xC3\xB3n"
+  accentcity: "Pilón"
   region: "15"
   population: 
   latitude: "20.1"
   longitude: "-76.15"
 pilon y palmar: 
   city: pilon y palmar
-  accentcity: "Pil\xC3\xB3n y Palmar"
+  accentcity: "Pilón y Palmar"
   region: "15"
   population: 
   latitude: "20.0941667"
@@ -35639,14 +35639,14 @@ pino gordo:
   longitude: "-84.3275"
 pinon numero 2: 
   city: pinon numero 2
-  accentcity: "Pi\xC3\xB1\xC3\xB3n N\xC3\xBAmero 2"
+  accentcity: "Pi\xC3\xB1ón Número 2"
   region: "16"
   population: 
   latitude: "22.8094444"
   longitude: "-79.9091667"
 pinon numero dos: 
   city: pinon numero dos
-  accentcity: "Pi\xC3\xB1\xC3\xB3n N\xC3\xBAmero Dos"
+  accentcity: "Pi\xC3\xB1ón Número Dos"
   region: "16"
   population: 
   latitude: "22.8094444"
@@ -35821,7 +35821,7 @@ playa aguadores:
   longitude: "-75.8322222"
 playa ancon: 
   city: playa ancon
-  accentcity: "Playa Anc\xC3\xB3n"
+  accentcity: "Playa Ancón"
   region: "14"
   population: 
   latitude: "21.7333333"
@@ -35863,7 +35863,7 @@ playa buena ventura:
   longitude: "-81.2191667"
 playabueycabon: 
   city: playabueycabon
-  accentcity: "PlayaBueycab\xC3\xB3n"
+  accentcity: "PlayaBueycabón"
   region: "15"
   population: 
   latitude: "19.9602778"
@@ -36017,7 +36017,7 @@ playa ganuza:
   longitude: "-80.5322222"
 playa giron: 
   city: playa giron
-  accentcity: "Playa Gir\xC3\xB3n"
+  accentcity: "Playa Girón"
   region: "03"
   population: 
   latitude: "22.0669444"
@@ -36122,7 +36122,7 @@ playa piloto:
   longitude: "-77.6833333"
 playa pinon: 
   city: playa pinon
-  accentcity: "Playa Pi\xC3\xB1\xC3\xB3n"
+  accentcity: "Playa Pi\xC3\xB1ón"
   region: "16"
   population: 
   latitude: "22.8333333"
@@ -36906,7 +36906,7 @@ pontezuela:
   longitude: "-78.0166667"
 ponton: 
   city: ponton
-  accentcity: "Pont\xC3\xB3n"
+  accentcity: "Pontón"
   region: 09
   population: 
   latitude: "20.65"
@@ -37312,7 +37312,7 @@ primavera:
   longitude: "-81.2233333"
 primera concepcion: 
   city: primera concepcion
-  accentcity: "Primera Concepci\xC3\xB3n"
+  accentcity: "Primera Concepción"
   region: "16"
   population: 
   latitude: "22.55"
@@ -37634,7 +37634,7 @@ puerto bufadero:
   longitude: "-77.2355556"
 puerto carupano: 
   city: puerto carupano
-  accentcity: "Puerto Car\xC3\xBApano"
+  accentcity: "Puerto Carúpano"
   region: "13"
   population: 
   latitude: "21.2166667"
@@ -37921,7 +37921,7 @@ punta gorda:
   longitude: "-75.8733333"
 punta hipolito: 
   city: punta hipolito
-  accentcity: "Punta Hip\xC3\xB3lito"
+  accentcity: "Punta Hipólito"
   region: "16"
   population: 
   latitude: "22.65"
@@ -38222,7 +38222,7 @@ quibijan:
   longitude: "-74.6577778"
 quibuu: 
   city: quibuu
-  accentcity: "Quib\xC3\xBAu"
+  accentcity: "Quibúu"
   region: "05"
   population: 
   latitude: "21.6"
@@ -38432,7 +38432,7 @@ ramirez:
   longitude: "-77.2"
 ramon alto: 
   city: ramon alto
-  accentcity: "Ram\xC3\xB3n Alto"
+  accentcity: "Ramón Alto"
   region: "14"
   population: 
   latitude: "21.8666667"
@@ -38446,14 +38446,14 @@ ramona:
   longitude: "-80.35"
 ramon conde: 
   city: ramon conde
-  accentcity: "Ram\xC3\xB3n Conde"
+  accentcity: "Ramón Conde"
   region: "15"
   population: 
   latitude: "20.0802778"
   longitude: "-75.4158333"
 ramon de cuaninao: 
   city: ramon de cuaninao
-  accentcity: "Ram\xC3\xB3n de Cuaninao"
+  accentcity: "Ramón de Cuaninao"
   region: "15"
   population: 
   latitude: "20.1833333"
@@ -38467,21 +38467,21 @@ ramon de guaninao:
   longitude: "-76.1333333"
 ramon de las yagua: 
   city: ramon de las yagua
-  accentcity: "Ram\xC3\xB3n de las Yagua"
+  accentcity: "Ramón de las Yagua"
   region: "15"
   population: 
   latitude: "20.0333333"
   longitude: "-75.4666667"
 ramon de las yaguas: 
   city: ramon de las yaguas
-  accentcity: "Ram\xC3\xB3n de las Yaguas"
+  accentcity: "Ramón de las Yaguas"
   region: "15"
   population: 
   latitude: "20.0333333"
   longitude: "-75.4666667"
 ramon de las yeguas: 
   city: ramon de las yeguas
-  accentcity: "Ram\xC3\xB3n de las Yeguas"
+  accentcity: "Ramón de las Yeguas"
   region: "15"
   population: 
   latitude: "20.0333333"
@@ -38495,14 +38495,14 @@ ramones:
   longitude: "-83.3166667"
 ramon lopez pena: 
   city: ramon lopez pena
-  accentcity: "Ram\xC3\xB3n L\xC3\xB3pez Pe\xC3\xB1a"
+  accentcity: "Ramón López Pe\xC3\xB1a"
   region: "05"
   population: 
   latitude: "21.2233333"
   longitude: "-78.2875"
 ramon san pelayo: 
   city: ramon san pelayo
-  accentcity: "Ram\xC3\xB3n San Pelayo"
+  accentcity: "Ramón San Pelayo"
   region: "05"
   population: 
   latitude: "20.8333333"
@@ -38642,7 +38642,7 @@ raul'-martines:
   longitude: "-78.84"
 raul martinez: 
   city: raul martinez
-  accentcity: "Ra\xC3\xBAl Mart\xC3\xADnez"
+  accentcity: "Raúl Mart\xC3\xADnez"
   region: "07"
   population: 
   latitude: "21.7894444"
@@ -38803,7 +38803,7 @@ recurso:
   longitude: "-81.0144444"
 redencion: 
   city: redencion
-  accentcity: "Redenci\xC3\xB3n"
+  accentcity: "Redención"
   region: "13"
   population: 
   latitude: "21.0594444"
@@ -38922,7 +38922,7 @@ reinoso:
   longitude: "-80.85"
 rejondon: 
   city: rejondon
-  accentcity: "Rejond\xC3\xB3n"
+  accentcity: "Rejondón"
   region: "12"
   population: 
   latitude: "20.7333333"
@@ -39244,7 +39244,7 @@ reparto kohly:
   longitude: "-82.4108333"
 reparto la asuncion: 
   city: reparto la asuncion
-  accentcity: "Reparto La Asunci\xC3\xB3n"
+  accentcity: "Reparto La Asunción"
   region: "15"
   population: 
   latitude: "20.0166667"
@@ -39545,7 +39545,7 @@ represa:
   longitude: "-80.3333333"
 republica: 
   city: republica
-  accentcity: "Rep\xC3\xBAblica"
+  accentcity: "República"
   region: "16"
   population: 
   latitude: "22.7666667"
@@ -39622,14 +39622,14 @@ residencial santa fe:
   longitude: "-82.7833333"
 residencial via tunel: 
   city: residencial via tunel
-  accentcity: "Residencial V\xC3\xADa T\xC3\xBAnel"
+  accentcity: "Residencial V\xC3\xADa Túnel"
   region: "02"
   population: 
   latitude: "23.1497222"
   longitude: "-82.3152778"
 resignacion: 
   city: resignacion
-  accentcity: "Resignaci\xC3\xB3n"
+  accentcity: "Resignación"
   region: "13"
   population: 
   latitude: "20.9333333"
@@ -39643,7 +39643,7 @@ resolladero:
   longitude: "-83.9333333"
 resolucion: 
   city: resolucion
-  accentcity: "Resoluci\xC3\xB3n"
+  accentcity: "Resolución"
   region: "16"
   population: 
   latitude: "22.8166667"
@@ -39692,7 +39692,7 @@ retrete:
   longitude: "-75.8163889"
 reunion: 
   city: reunion
-  accentcity: "Reuni\xC3\xB3n"
+  accentcity: "Reunión"
   region: "11"
   population: 
   latitude: "22.7833333"
@@ -39706,7 +39706,7 @@ revacadero:
   longitude: "-77.3833333"
 reventon: 
   city: reventon
-  accentcity: "Revent\xC3\xB3n"
+  accentcity: "Reventón"
   region: 09
   population: 
   latitude: "19.8833333"
@@ -39748,14 +39748,14 @@ reynold garcia:
   longitude: "-80.9425"
 rey numero 1 y amaro: 
   city: rey numero 1 y amaro
-  accentcity: "Rey N\xC3\xBAmero 1 y Amaro"
+  accentcity: "Rey Número 1 y Amaro"
   region: "12"
   population: 
   latitude: "20.6"
   longitude: "-76.15"
 rey numero uno y amaro: 
   city: rey numero uno y amaro
-  accentcity: "Rey N\xC3\xBAmero Uno y Amaro"
+  accentcity: "Rey Número Uno y Amaro"
   region: "12"
   population: 
   latitude: "20.6"
@@ -39839,35 +39839,35 @@ rinconada:
   longitude: "-79.4666667"
 rincon de la ceiba: 
   city: rincon de la ceiba
-  accentcity: "Rinc\xC3\xB3n de la Ceiba"
+  accentcity: "Rincón de la Ceiba"
   region: "01"
   population: 
   latitude: "22.3666667"
   longitude: "-83.8166667"
 rincon de la palma corojal: 
   city: rincon de la palma corojal
-  accentcity: "Rinc\xC3\xB3n de la Palma Corojal"
+  accentcity: "Rincón de la Palma Corojal"
   region: "12"
   population: 
   latitude: "20.9469444"
   longitude: "-76.0975"
 rincon de la plama: 
   city: rincon de la plama
-  accentcity: "Rinc\xC3\xB3n de la Plama"
+  accentcity: "Rincón de la Plama"
   region: "12"
   population: 
   latitude: "20.9469444"
   longitude: "-76.0975"
 rincon del gallo: 
   city: rincon del gallo
-  accentcity: "Rinc\xC3\xB3n del Gallo"
+  accentcity: "Rincón del Gallo"
   region: "03"
   population: 
   latitude: "22.5166667"
   longitude: "-80.8333333"
 rincon del toro: 
   city: rincon del toro
-  accentcity: "Rinc\xC3\xB3n del Toro"
+  accentcity: "Rincón del Toro"
   region: 08
   population: 
   latitude: "22.1333333"
@@ -39881,28 +39881,28 @@ rincones:
   longitude: "-79.015"
 rincon hondo: 
   city: rincon hondo
-  accentcity: "Rinc\xC3\xB3n Hondo"
+  accentcity: "Rincón Hondo"
   region: "05"
   population: 
   latitude: "21.62"
   longitude: "-78.4016667"
 rincon malo: 
   city: rincon malo
-  accentcity: "Rinc\xC3\xB3n Malo"
+  accentcity: "Rincón Malo"
   region: 08
   population: 
   latitude: "22.2166667"
   longitude: "-80.75"
 rincon mato: 
   city: rincon mato
-  accentcity: "Rinc\xC3\xB3n Mato"
+  accentcity: "Rincón Mato"
   region: 08
   population: 
   latitude: "22.2077778"
   longitude: "-80.7475"
 rincon: 
   city: rincon
-  accentcity: "Rinc\xC3\xB3n"
+  accentcity: "Rincón"
   region: "16"
   population: 
   latitude: "22.5666667"
@@ -40049,21 +40049,21 @@ rio seco numero 14:
   longitude: "-75.7166667"
 rio seco numero 17: 
   city: rio seco numero 17
-  accentcity: "R\xC3\xADo Seco N\xC3\xBAmero 17"
+  accentcity: "R\xC3\xADo Seco Número 17"
   region: "12"
   population: 
   latitude: "21.1"
   longitude: "-75.7"
 rio seco numero catorce: 
   city: rio seco numero catorce
-  accentcity: "R\xC3\xADo Seco N\xC3\xBAmero Catorce"
+  accentcity: "R\xC3\xADo Seco Número Catorce"
   region: "12"
   population: 
   latitude: "21.0666667"
   longitude: "-75.7166667"
 rio seco numero diecisiete: 
   city: rio seco numero diecisiete
-  accentcity: "R\xC3\xADo Seco N\xC3\xBAmero Diecisiete"
+  accentcity: "R\xC3\xADo Seco Número Diecisiete"
   region: "12"
   population: 
   latitude: "21.1"
@@ -40637,7 +40637,7 @@ sabana del camino:
   longitude: "-83.4"
 sabana del rincon de porcayo: 
   city: sabana del rincon de porcayo
-  accentcity: "Sabana del Rinc\xC3\xB3n de Porcayo"
+  accentcity: "Sabana del Rincón de Porcayo"
   region: "05"
   population: 
   latitude: "21.4"
@@ -40791,7 +40791,7 @@ sabaneta:
   longitude: "-74.45"
 sabaneton: 
   city: sabaneton
-  accentcity: "Sabanet\xC3\xB3n"
+  accentcity: "Sabanetón"
   region: "01"
   population: 
   latitude: "22.5666667"
@@ -40868,7 +40868,7 @@ sabelo:
   longitude: "-82.1"
 sabicu: 
   city: sabicu
-  accentcity: "Sabic\xC3\xBA"
+  accentcity: "Sabicú"
   region: "16"
   population: 
   latitude: "22.8333333"
@@ -41414,7 +41414,7 @@ san antonio:
   longitude: "-79.6"
 san anton: 
   city: san anton
-  accentcity: "San Ant\xC3\xB3n"
+  accentcity: "San Antón"
   region: 08
   population: 
   latitude: "22.1008333"
@@ -41575,7 +41575,7 @@ san clemente:
   longitude: "-78.3"
 san cristobal: 
   city: san cristobal
-  accentcity: "San Crist\xC3\xB3bal"
+  accentcity: "San Cristóbal"
   region: "14"
   population: 
   latitude: "22.3047222"
@@ -41610,7 +41610,7 @@ san diego del valle:
   longitude: "-80.0961111"
 san diego de nunez: 
   city: san diego de nunez
-  accentcity: "San Diego de N\xC3\xBA\xC3\xB1ez"
+  accentcity: "San Diego de Nú\xC3\xB1ez"
   region: "01"
   population: 
   latitude: "22.9041667"
@@ -41904,14 +41904,14 @@ san j. e. borro:
   longitude: "-80.8833333"
 san jeronimo de jarahueca: 
   city: san jeronimo de jarahueca
-  accentcity: "San Jer\xC3\xB3nimo de Jarahueca"
+  accentcity: "San Jerónimo de Jarahueca"
   region: "15"
   population: 
   latitude: "20.35"
   longitude: "-75.5833333"
 san jeronimo: 
   city: san jeronimo
-  accentcity: "San Jer\xC3\xB3nimo"
+  accentcity: "San Jerónimo"
   region: "16"
   population: 
   latitude: "22.8166667"
@@ -41939,7 +41939,7 @@ san jorge:
   longitude: "-76.15"
 san jose concepcion: 
   city: san jose concepcion
-  accentcity: "San Jos\xC3\xA9 Concepci\xC3\xB3n"
+  accentcity: "San Jos\xC3\xA9 Concepción"
   region: "12"
   population: 
   latitude: "21.0875"
@@ -42163,7 +42163,7 @@ san juan de buenavista:
   longitude: "-76.2333333"
 san juan de cabezon: 
   city: san juan de cabezon
-  accentcity: "San Juan de Cabez\xC3\xB3n"
+  accentcity: "San Juan de Cabezón"
   region: "03"
   population: 
   latitude: "22.9166667"
@@ -42394,7 +42394,7 @@ san luis de las deseadas:
   longitude: "-77.3666667"
 san luis del penon: 
   city: san luis del penon
-  accentcity: "San Luis del Pe\xC3\xB1\xC3\xB3n"
+  accentcity: "San Luis del Pe\xC3\xB1ón"
   region: "03"
   population: 
   latitude: "22.8833333"
@@ -42492,14 +42492,14 @@ san martin de aguarras:
   longitude: "-76.5416667"
 san martin numero 5: 
   city: san martin numero 5
-  accentcity: "San Mart\xC3\xADn N\xC3\xBAmero 5"
+  accentcity: "San Mart\xC3\xADn Número 5"
   region: "13"
   population: 
   latitude: "21.0041667"
   longitude: "-76.5713889"
 san martin numero cinco: 
   city: san martin numero cinco
-  accentcity: "San Mart\xC3\xADn N\xC3\xBAmero Cinco"
+  accentcity: "San Mart\xC3\xADn Número Cinco"
   region: "13"
   population: 
   latitude: "21.0041667"
@@ -42548,7 +42548,7 @@ san miguel de los banos:
   longitude: "-81.3333333"
 san miguel del padron: 
   city: san miguel del padron
-  accentcity: "San Miguel del Padr\xC3\xB3n"
+  accentcity: "San Miguel del Padrón"
   region: "02"
   population: 
   latitude: "23.0663889"
@@ -42597,7 +42597,7 @@ san miguel y las marias:
   longitude: "-79.8833333"
 san miquel: 
   city: san miquel
-  accentcity: "San Miq\xC3\xBAel"
+  accentcity: "San Miqúel"
   region: "16"
   population: 
   latitude: "22.8"
@@ -42695,14 +42695,14 @@ san pedro de cacocum:
   longitude: "-76.3263889"
 san pedro de maniabon: 
   city: san pedro de maniabon
-  accentcity: "San Pedro de Maniab\xC3\xB3n"
+  accentcity: "San Pedro de Maniabón"
   region: "13"
   population: 
   latitude: "21.0733333"
   longitude: "-76.5269444"
 san pedro de mayabon: 
   city: san pedro de mayabon
-  accentcity: "San Pedro de Mayab\xC3\xB3n"
+  accentcity: "San Pedro de Mayabón"
   region: "03"
   population: 
   latitude: "22.6952778"
@@ -42723,35 +42723,35 @@ san rafael:
   longitude: "-79.5833333"
 san ramon del yabunal: 
   city: san ramon del yabunal
-  accentcity: "San Ram\xC3\xB3n del Yabunal"
+  accentcity: "San Ramón del Yabunal"
   region: "05"
   population: 
   latitude: "21.0666667"
   longitude: "-78.2"
 san ramon de macagua: 
   city: san ramon de macagua
-  accentcity: "San Ram\xC3\xB3n de Macagua"
+  accentcity: "San Ramón de Macagua"
   region: "05"
   population: 
   latitude: "21.7177778"
   longitude: "-77.8916667"
 san ramon de palizon: 
   city: san ramon de palizon
-  accentcity: "San Ram\xC3\xB3n de Paliz\xC3\xB3n"
+  accentcity: "San Ramón de Palizón"
   region: "05"
   population: 
   latitude: "21.0666667"
   longitude: "-78.1666667"
 san ramon: 
   city: san ramon
-  accentcity: "San Ram\xC3\xB3n"
+  accentcity: "San Ramón"
   region: "16"
   population: 
   latitude: "22.3666667"
   longitude: "-79.6333333"
 san ramon uno: 
   city: san ramon uno
-  accentcity: "San Ram\xC3\xB3n Uno"
+  accentcity: "San Ramón Uno"
   region: "13"
   population: 
   latitude: "21.2561111"
@@ -43248,14 +43248,14 @@ santa isabel dos:
   longitude: "-83.5166667"
 santa isabel numero 1: 
   city: santa isabel numero 1
-  accentcity: "Santa Isabel N\xC3\xBAmero 1"
+  accentcity: "Santa Isabel Número 1"
   region: "01"
   population: 
   latitude: "22.4166667"
   longitude: "-83.5166667"
 santa isabel numero 2: 
   city: santa isabel numero 2
-  accentcity: "Santa Isabel N\xC3\xBAmero 2"
+  accentcity: "Santa Isabel Número 2"
   region: "01"
   population: 
   latitude: "22.4166667"
@@ -43388,49 +43388,49 @@ santa mariana:
   longitude: "-78.3333333"
 santa maria numero 13: 
   city: santa maria numero 13
-  accentcity: "Santa Mar\xC3\xADa N\xC3\xBAmero 13"
+  accentcity: "Santa Mar\xC3\xADa Número 13"
   region: "13"
   population: 
   latitude: "21.0086111"
   longitude: "-76.6583333"
 santa maria numero 15: 
   city: santa maria numero 15
-  accentcity: "Santa Mar\xC3\xADa N\xC3\xBAmero 15"
+  accentcity: "Santa Mar\xC3\xADa Número 15"
   region: "13"
   population: 
   latitude: "21.0041667"
   longitude: "-76.6983333"
 santa maria numero 4: 
   city: santa maria numero 4
-  accentcity: "Santa Mar\xC3\xADa N\xC3\xBAmero 4"
+  accentcity: "Santa Mar\xC3\xADa Número 4"
   region: "13"
   population: 
   latitude: "21.1166667"
   longitude: "-76.5833333"
 santa maria numero 6: 
   city: santa maria numero 6
-  accentcity: "Santa Mar\xC3\xADa N\xC3\xBAmero 6"
+  accentcity: "Santa Mar\xC3\xADa Número 6"
   region: "13"
   population: 
   latitude: "21.0788889"
   longitude: "-76.5722222"
 santa maria numero cuatro: 
   city: santa maria numero cuatro
-  accentcity: "Santa Mar\xC3\xADa N\xC3\xBAmero Cuatro"
+  accentcity: "Santa Mar\xC3\xADa Número Cuatro"
   region: "13"
   population: 
   latitude: "21.1166667"
   longitude: "-76.5833333"
 santa maria numero quince: 
   city: santa maria numero quince
-  accentcity: "Santa Mar\xC3\xADa N\xC3\xBAmero Quince"
+  accentcity: "Santa Mar\xC3\xADa Número Quince"
   region: "13"
   population: 
   latitude: "21.0041667"
   longitude: "-76.6983333"
 santa maria numero seis: 
   city: santa maria numero seis
-  accentcity: "Santa Mar\xC3\xADa N\xC3\xBAmero Seis"
+  accentcity: "Santa Mar\xC3\xADa Número Seis"
   region: "13"
   population: 
   latitude: "21.0788889"
@@ -43752,7 +43752,7 @@ santo domingo:
   longitude: "-80.2436111"
 santon: 
   city: santon
-  accentcity: "Sant\xC3\xB3n"
+  accentcity: "Santón"
   region: 08
   population: 
   latitude: "22.2"
@@ -43878,7 +43878,7 @@ sao hidalgo:
   longitude: "-75.9"
 sao jarron: 
   city: sao jarron
-  accentcity: "Sao Jarr\xC3\xB3n"
+  accentcity: "Sao Jarrón"
   region: "13"
   population: 
   latitude: "20.85"
@@ -44039,7 +44039,7 @@ segunda altura de luyano:
   longitude: "-82.3166667"
 segunda concepcion: 
   city: segunda concepcion
-  accentcity: "Segunda Concepci\xC3\xB3n"
+  accentcity: "Segunda Concepción"
   region: "16"
   population: 
   latitude: "22.5666667"
@@ -44053,7 +44053,7 @@ segunda palma:
   longitude: "-80.2666667"
 segundo concepcion: 
   city: segundo concepcion
-  accentcity: "Segundo Concepci\xC3\xB3n"
+  accentcity: "Segundo Concepción"
   region: "16"
   population: 
   latitude: "22.5666667"
@@ -44151,7 +44151,7 @@ senora del cobre:
   longitude: "-82.75"
 sepulveda: 
   city: sepulveda
-  accentcity: "Sep\xC3\xBAlveda"
+  accentcity: "Sepúlveda"
   region: "03"
   population: 
   latitude: "22.7294444"
@@ -44221,7 +44221,7 @@ sexta parte del purial:
   longitude: "-75.2666667"
 sibanicu: 
   city: sibanicu
-  accentcity: "Sibanic\xC3\xBA"
+  accentcity: "Sibanicú"
   region: "05"
   population: "16856"
   latitude: "21.235"
@@ -44452,7 +44452,7 @@ simona:
   longitude: "-80.8833333"
 simon bolivar: 
   city: simon bolivar
-  accentcity: "Sim\xC3\xB3n Bol\xC3\xADvar"
+  accentcity: "Simón Bol\xC3\xADvar"
   region: "14"
   population: 
   latitude: "22.3416667"
@@ -44522,7 +44522,7 @@ sitiecito:
   longitude: "-80.0855556"
 sitierias del rincon: 
   city: sitierias del rincon
-  accentcity: "Sitier\xC3\xADas del Rinc\xC3\xB3n"
+  accentcity: "Sitier\xC3\xADas del Rincón"
   region: "03"
   population: 
   latitude: "22.7125"
@@ -44893,21 +44893,21 @@ success:
   longitude: "-76.7"
 sucesion de cartaya: 
   city: sucesion de cartaya
-  accentcity: "Sucesi\xC3\xB3n de Cartaya"
+  accentcity: "Sucesión de Cartaya"
   region: 08
   population: 
   latitude: "22.2833333"
   longitude: "-80.55"
 sucesion de herrera: 
   city: sucesion de herrera
-  accentcity: "Sucesi\xC3\xB3n de Herrera"
+  accentcity: "Sucesión de Herrera"
   region: "03"
   population: 
   latitude: "22.5666667"
   longitude: "-80.55"
 sucesion de ruiz: 
   city: sucesion de ruiz
-  accentcity: "Sucesi\xC3\xB3n de Ruiz"
+  accentcity: "Sucesión de Ruiz"
   region: "16"
   population: 
   latitude: "22.7833333"
@@ -45012,7 +45012,7 @@ sumorriba:
   longitude: "-83.2333333"
 surgidero de batabano: 
   city: surgidero de batabano
-  accentcity: "Surgidero de Bataban\xC3\xB3"
+  accentcity: "Surgidero de Batabanó"
   region: "11"
   population: 
   latitude: "22.6869444"
@@ -45124,7 +45124,7 @@ taburete:
   longitude: "-77.9833333"
 tacajo: 
   city: tacajo
-  accentcity: "Tacaj\xC3\xB3"
+  accentcity: "Tacajó"
   region: "12"
   population: 
   latitude: "20.7666667"
@@ -45159,14 +45159,14 @@ taguasco:
   longitude: "-79.2633333"
 taguayabon: 
   city: taguayabon
-  accentcity: "Taguayab\xC3\xB3n"
+  accentcity: "Taguayabón"
   region: "16"
   population: 
   latitude: "22.4775"
   longitude: "-79.6511111"
 tahon: 
   city: tahon
-  accentcity: "Tah\xC3\xB3n"
+  accentcity: "Tahón"
   region: "16"
   population: 
   latitude: "22.35"
@@ -46195,7 +46195,7 @@ trompo:
   longitude: "-76.3622222"
 tropezon: 
   city: tropezon
-  accentcity: "Tropez\xC3\xB3n"
+  accentcity: "Tropezón"
   region: "16"
   population: 
   latitude: "22.9"
@@ -46209,7 +46209,7 @@ troya:
   longitude: "-77.2166667"
 trucutu: 
   city: trucutu
-  accentcity: "Trucut\xC3\xBA"
+  accentcity: "Trucutú"
   region: "07"
   population: 
   latitude: "21.8244444"
@@ -46230,14 +46230,14 @@ trujillo:
   longitude: "-82.0166667"
 tuinicu: 
   city: tuinicu
-  accentcity: "Tuinic\xC3\xBA"
+  accentcity: "Tuinicú"
   region: "14"
   population: 
   latitude: "22.0005556"
   longitude: "-79.4166667"
 tuinucu: 
   city: tuinucu
-  accentcity: "Tuinuc\xC3\xBA"
+  accentcity: "Tuinucú"
   region: "14"
   population: 
   latitude: "22.0005556"
@@ -46335,7 +46335,7 @@ turquino:
   longitude: "-80.5"
 turron: 
   city: turron
-  accentcity: "Turr\xC3\xB3n"
+  accentcity: "Turrón"
   region: "03"
   population: 
   latitude: "23.1"
@@ -46405,7 +46405,7 @@ unidad:
   longitude: "-80.0138889"
 union de reyes: 
   city: union de reyes
-  accentcity: "Uni\xC3\xB3n de Reyes"
+  accentcity: "Unión de Reyes"
   region: "03"
   population: "33647"
   latitude: "22.7952778"
@@ -46419,7 +46419,7 @@ union reyes:
   longitude: "-81.5375"
 union: 
   city: union
-  accentcity: "Uni\xC3\xB3n"
+  accentcity: "Unión"
   region: "15"
   population: 
   latitude: "20.2166667"
@@ -46727,7 +46727,7 @@ vega mariana:
   longitude: "-79.8166667"
 vega moron: 
   city: vega moron
-  accentcity: "Vega Mor\xC3\xB3n"
+  accentcity: "Vega Morón"
   region: "01"
   population: 
   latitude: "22.1333333"
@@ -47098,7 +47098,7 @@ viana:
   longitude: "-79.9933333"
 viaro: 
   city: viaro
-  accentcity: "Viar\xC3\xB3"
+  accentcity: "Viaró"
   region: "05"
   population: 
   latitude: "21.7833333"
@@ -47413,7 +47413,7 @@ villas nomar:
   longitude: "-82.2833333"
 villa teofila: 
   city: villa teofila
-  accentcity: "Villa Te\xC3\xB3fila"
+  accentcity: "Villa Teófila"
   region: "11"
   population: 
   latitude: "22.8833333"
@@ -47574,7 +47574,7 @@ virginia:
   longitude: "-80.1666667"
 visitacion: 
   city: visitacion
-  accentcity: "Visitaci\xC3\xB3n"
+  accentcity: "Visitación"
   region: "15"
   population: 
   latitude: "20.0666667"
@@ -47651,7 +47651,7 @@ vivian:
   longitude: "-76.5597222"
 vivo: 
   city: vivo
-  accentcity: "Viv\xC3\xB3"
+  accentcity: "Vivó"
   region: "11"
   population: 
   latitude: "22.7666667"
@@ -47791,14 +47791,14 @@ yaba:
   longitude: "-77.9166667"
 yabazon abajo: 
   city: yabazon abajo
-  accentcity: "Yabaz\xC3\xB3n Abajo"
+  accentcity: "Yabazón Abajo"
   region: "12"
   population: 
   latitude: "21.0333333"
   longitude: "-76.1833333"
 yabazon: 
   city: yabazon
-  accentcity: "Yabaz\xC3\xB3n"
+  accentcity: "Yabazón"
   region: "12"
   population: 
   latitude: "21.0333333"
@@ -48239,7 +48239,7 @@ zana batey:
   longitude: "-81.0166667"
 zanjon: 
   city: zanjon
-  accentcity: "Zanj\xC3\xB3n"
+  accentcity: "Zanjón"
   region: "05"
   population: 
   latitude: "21.2166667"

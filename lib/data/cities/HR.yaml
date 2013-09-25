@@ -338,28 +338,28 @@ almissa:
   longitude: "16.6886111"
 alsodaruvar: 
   city: alsodaruvar
-  accentcity: "Als\xC3\xB3daruv\xC3\xA1r"
+  accentcity: "Alsódaruv\xC3\xA1r"
   region: "01"
   population: 
   latitude: "45.6136111"
   longitude: "17.2308333"
 alsodomboru: 
   city: alsodomboru
-  accentcity: "Als\xC3\xB3domboru"
+  accentcity: "Alsódomboru"
   region: "16"
   population: 
   latitude: "46.3147222"
   longitude: "16.8119444"
 alsomiholjac: 
   city: alsomiholjac
-  accentcity: "Als\xC3\xB3miholj\xC3\xA1c"
+  accentcity: "Alsómiholj\xC3\xA1c"
   region: "10"
   population: 
   latitude: "45.7608333"
   longitude: "18.1672222"
 alsomiholjacz: 
   city: alsomiholjacz
-  accentcity: "Als\xC3\xB3miholj\xC3\xA1cz"
+  accentcity: "Alsómiholj\xC3\xA1cz"
   region: "10"
   population: 
   latitude: "45.7608333"
@@ -688,7 +688,7 @@ aqua viva:
   longitude: "16.3377778"
 aquilonia: 
   city: aquilonia
-  accentcity: "Aquil\xC3\xB3nia"
+  accentcity: "Aquilónia"
   region: "12"
   population: 
   latitude: "44.8822222"
@@ -5007,7 +5007,7 @@ borkovici:
   longitude: "16.6041667"
 boro: 
   city: boro
-  accentcity: "Bor\xC3\xB3"
+  accentcity: "Boró"
   region: "18"
   population: 
   latitude: "45.3763889"
@@ -22164,7 +22164,7 @@ gotalovo:
   longitude: "16.9830556"
 goto: 
   city: goto
-  accentcity: "Got\xC3\xB3"
+  accentcity: "Gotó"
   region: "11"
   population: 
   latitude: "45.4261111"
@@ -23977,7 +23977,7 @@ horvatska velika:
   longitude: "15.7333333"
 hosszu-hagymas: 
   city: hosszu-hagymas
-  accentcity: "Hossz\xC3\xBA-Hagym\xC3\xA1s"
+  accentcity: "Hosszú-Hagym\xC3\xA1s"
   region: "10"
   population: 
   latitude: "45.5288889"
@@ -25986,7 +25986,7 @@ jasenik:
   longitude: "17.05"
 jasenoc: 
   city: jasenoc
-  accentcity: "Jasen\xC3\xB3c"
+  accentcity: "Jasenóc"
   region: "14"
   population: 
   latitude: "45.2716667"
@@ -30529,7 +30529,7 @@ korog:
   longitude: "18.75"
 korogy: 
   city: korogy
-  accentcity: "K\xC3\xB3r\xC3\xB3gy"
+  accentcity: "Kórógy"
   region: "10"
   population: 
   latitude: "45.4091667"
@@ -34274,7 +34274,7 @@ lastovo:
   longitude: "16.9008333"
 laszlofalva: 
   city: laszlofalva
-  accentcity: "L\xC3\xA1szl\xC3\xB3falva"
+  accentcity: "L\xC3\xA1szlófalva"
   region: "10"
   population: 
   latitude: "45.415"
@@ -45859,7 +45859,7 @@ orlovnjak:
   longitude: "18.7625"
 ormos: 
   city: ormos
-  accentcity: "Orm\xC3\xB3s"
+  accentcity: "Ormós"
   region: 09
   population: 
   latitude: "46.5269444"
@@ -54147,7 +54147,7 @@ ragusa vecchia:
   longitude: "18.2180556"
 rahoca: 
   city: rahoca
-  accentcity: "Rah\xC3\xB3ca"
+  accentcity: "Rahóca"
   region: "17"
   population: 
   latitude: "45.54"
@@ -63149,14 +63149,14 @@ stridone:
   longitude: "13.8741667"
 strido: 
   city: strido
-  accentcity: "Strid\xC3\xB3"
+  accentcity: "Stridó"
   region: 09
   population: 
   latitude: "46.5022222"
   longitude: "16.2883333"
 stridovar: 
   city: stridovar
-  accentcity: "Strid\xC3\xB3v\xC3\xA1r"
+  accentcity: "Stridóv\xC3\xA1r"
   region: 09
   population: 
   latitude: "46.5022222"
@@ -65235,7 +65235,7 @@ szentivanzelina:
   longitude: "16.2461111"
 szentlaszlo: 
   city: szentlaszlo
-  accentcity: "Szentl\xC3\xA1szl\xC3\xB3"
+  accentcity: "Szentl\xC3\xA1szló"
   region: "10"
   population: 
   latitude: "45.415"
@@ -66383,7 +66383,7 @@ topusko:
   longitude: "15.9722222"
 topuszko: 
   city: topuszko
-  accentcity: "Topuszk\xC3\xB3"
+  accentcity: "Topuszkó"
   region: "14"
   population: 
   latitude: "45.2930556"
@@ -68581,14 +68581,14 @@ valkarin:
   longitude: "13.6438889"
 valko: 
   city: valko
-  accentcity: "Valk\xC3\xB3"
+  accentcity: "Valkó"
   region: "18"
   population: 
   latitude: "45.3433333"
   longitude: "18.9997222"
 valkovar: 
   city: valkovar
-  accentcity: "Valk\xC3\xB3v\xC3\xA1r"
+  accentcity: "Valkóv\xC3\xA1r"
   region: "18"
   population: 
   latitude: "45.3433333"
@@ -68658,7 +68658,7 @@ valpovacka gorica:
   longitude: "18.3536111"
 valpo: 
   city: valpo
-  accentcity: "Valp\xC3\xB3"
+  accentcity: "Valpó"
   region: "10"
   population: 
   latitude: "45.6608333"
@@ -70765,7 +70765,7 @@ ville d'icici:
   longitude: "14.28"
 villyo: 
   city: villyo
-  accentcity: "Villy\xC3\xB3"
+  accentcity: "Villyó"
   region: "10"
   population: 
   latitude: "45.7513889"

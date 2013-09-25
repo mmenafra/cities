@@ -198,7 +198,7 @@ depil:
   longitude: "-6.5166667"
 djupidalur: 
   city: djupidalur
-  accentcity: "Dj\xC3\xBApidalur"
+  accentcity: "Djúpidalur"
   region: "00"
   population: 
   latitude: "61.8"
@@ -457,14 +457,14 @@ gjerdum:
   longitude: "-6.7666667"
 gjogv: 
   city: gjogv
-  accentcity: "Gj\xC3\xB3gv"
+  accentcity: "Gjógv"
   region: "00"
   population: 
   latitude: "62.3166667"
   longitude: "-6.9333333"
 gjogvin: 
   city: gjogvin
-  accentcity: "Gj\xC3\xB3gvin"
+  accentcity: "Gjógvin"
   region: "00"
   population: 
   latitude: "62.1333333"
@@ -541,14 +541,14 @@ gote kirke:
   longitude: "-6.7666667"
 gotugjogv: 
   city: gotugjogv
-  accentcity: "G\xC3\xB8tugj\xC3\xB3gv"
+  accentcity: "G\xC3\xB8tugjógv"
   region: "00"
   population: "46"
   latitude: "62.1833333"
   longitude: "-6.7333333"
 grogv: 
   city: grogv
-  accentcity: "Gr\xC3\xB3gv"
+  accentcity: "Grógv"
   region: "00"
   population: 
   latitude: "62.15"
@@ -576,7 +576,7 @@ haldorsvig:
   longitude: "-7.0833333"
 haldorsvik: 
   city: haldorsvik
-  accentcity: "Hald\xC3\xB3rsv\xC3\xADk"
+  accentcity: "Haldórsv\xC3\xADk"
   region: "00"
   population: 
   latitude: "62.2833333"
@@ -737,7 +737,7 @@ hojvig:
   longitude: "-6.75"
 holar: 
   city: holar
-  accentcity: "H\xC3\xB3lar"
+  accentcity: "Hólar"
   region: "00"
   population: 
   latitude: "61.6"
@@ -751,7 +751,7 @@ horg:
   longitude: "-6.7166667"
 hosvik: 
   city: hosvik
-  accentcity: "H\xC3\xB3sv\xC3\xADk"
+  accentcity: "Hósv\xC3\xADk"
   region: "00"
   population: "344"
   latitude: "62.15"
@@ -786,14 +786,14 @@ hoyvik:
   longitude: "-6.75"
 husar: 
   city: husar
-  accentcity: "H\xC3\xBAsar"
+  accentcity: "Húsar"
   region: "00"
   population: "60"
   latitude: "62.2666667"
   longitude: "-6.6833333"
 husavik: 
   city: husavik
-  accentcity: "H\xC3\xBAsav\xC3\xADk"
+  accentcity: "Húsav\xC3\xADk"
   region: "00"
   population: "82"
   latitude: "61.8"
@@ -814,14 +814,14 @@ husevig:
   longitude: "-6.6666667"
 hus: 
   city: hus
-  accentcity: "H\xC3\xBAs"
+  accentcity: "Hús"
   region: "00"
   population: 
   latitude: "62.05"
   longitude: "-7.1666667"
 husi: 
   city: husi
-  accentcity: "H\xC3\xBAsi"
+  accentcity: "Húsi"
   region: "00"
   population: 
   latitude: "62.05"
@@ -905,7 +905,7 @@ i horg:
   longitude: "-6.7166667"
 i husi: 
   city: i husi
-  accentcity: "\xC3\x8D H\xC3\xBAsi"
+  accentcity: "\xC3\x8D Húsi"
   region: "00"
   population: 
   latitude: "62.05"
@@ -1038,7 +1038,7 @@ klaksvik:
   longitude: "-6.6"
 kolbanargjogv: 
   city: kolbanargjogv
-  accentcity: "Kolbanargj\xC3\xB3gv"
+  accentcity: "Kolbanargjógv"
   region: "00"
   population: 
   latitude: "62.1"
@@ -1332,7 +1332,7 @@ leynum:
   longitude: "-6.8333333"
 ljosa: 
   city: ljosa
-  accentcity: "Lj\xC3\xB3s\xC3\xA1"
+  accentcity: "Ljós\xC3\xA1"
   region: "00"
   population: "33"
   latitude: "62.2666667"
@@ -1451,7 +1451,7 @@ mule:
   longitude: "-6.5666667"
 muli: 
   city: muli
-  accentcity: "M\xC3\xBAli"
+  accentcity: "Múli"
   region: "00"
   population: 
   latitude: "62.35"
@@ -1556,14 +1556,14 @@ nolso:
   longitude: "-6.6666667"
 nolsoyarbygd: 
   city: nolsoyarbygd
-  accentcity: "N\xC3\xB3lsoyarbygd"
+  accentcity: "Nólsoyarbygd"
   region: "00"
   population: 
   latitude: "62.0166667"
   longitude: "-6.6666667"
 nolsoy: 
   city: nolsoy
-  accentcity: "N\xC3\xB3lsoy"
+  accentcity: "Nólsoy"
   region: "00"
   population: "283"
   latitude: "62.0166667"
@@ -1738,7 +1738,7 @@ oyrareingir:
   longitude: "-6.95"
 oyrargjogv: 
   city: oyrargjogv
-  accentcity: "Oyrargj\xC3\xB3gv"
+  accentcity: "Oyrargjógv"
   region: "00"
   population: 
   latitude: "62.1166667"
@@ -2018,21 +2018,21 @@ siov:
   longitude: "-6.75"
 sjogv: 
   city: sjogv
-  accentcity: "Sj\xC3\xB3gv"
+  accentcity: "Sjógv"
   region: "00"
   population: 
   latitude: "62.1166667"
   longitude: "-6.75"
 sjovar kirkja: 
   city: sjovar kirkja
-  accentcity: "Sj\xC3\xB3var Kirkja"
+  accentcity: "Sjóvar Kirkja"
   region: "00"
   population: 
   latitude: "62.1166667"
   longitude: "-6.75"
 sjovartoftir: 
   city: sjovartoftir
-  accentcity: "Sj\xC3\xB3vartoftir"
+  accentcity: "Sjóvartoftir"
   region: "00"
   population: 
   latitude: "61.4666667"
@@ -2221,7 +2221,7 @@ skopun:
   longitude: "-6.8666667"
 skuli: 
   city: skuli
-  accentcity: "Sk\xC3\xBAli"
+  accentcity: "Skúli"
   region: "00"
   population: 
   latitude: "61.85"
@@ -2242,14 +2242,14 @@ skuo:
   longitude: "-6.8"
 skuvoyarbygd: 
   city: skuvoyarbygd
-  accentcity: "Sk\xC3\xBAvoyarbygd"
+  accentcity: "Skúvoyarbygd"
   region: "00"
   population: 
   latitude: "61.7666667"
   longitude: "-6.8"
 skuvoy: 
   city: skuvoy
-  accentcity: "Sk\xC3\xBAvoy"
+  accentcity: "Skúvoy"
   region: "00"
   population: "53"
   latitude: "61.7666667"
@@ -2627,7 +2627,7 @@ torkilsheygur:
   longitude: "-6.7333333"
 torshavn: 
   city: torshavn
-  accentcity: "T\xC3\xB3rshavn"
+  accentcity: "Tórshavn"
   region: "00"
   population: "13200"
   latitude: "62.0166667"
@@ -2921,7 +2921,7 @@ viderejde:
   longitude: "-6.5333333"
 "vi\xC3\xB0 gjogv": 
   city: "vi\xC3\xB0 gjogv"
-  accentcity: "Vi\xC3\xB0 Gj\xC3\xB3gv"
+  accentcity: "Vi\xC3\xB0 Gjógv"
   region: "00"
   population: 
   latitude: "62.3166667"
@@ -2949,7 +2949,7 @@ viderejde:
   longitude: "-6.9333333"
 "vi\xC3\xB0 sjogv": 
   city: "vi\xC3\xB0 sjogv"
-  accentcity: "Vi\xC3\xB0 Sj\xC3\xB3gv"
+  accentcity: "Vi\xC3\xB0 Sjógv"
   region: "00"
   population: 
   latitude: "62.1166667"

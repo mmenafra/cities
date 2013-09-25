@@ -121,63 +121,63 @@ alber di sesana:
   longitude: "13.8722222"
 alsobeszterce: 
   city: alsobeszterce
-  accentcity: "Als\xC3\xB3beszterce"
+  accentcity: "Alsóbeszterce"
   region: 09
   population: 
   latitude: "46.54"
   longitude: "16.2886111"
 alsobesztercze: 
   city: alsobesztercze
-  accentcity: "Als\xC3\xB3besztercze"
+  accentcity: "Alsóbesztercze"
   region: 09
   population: 
   latitude: "46.54"
   longitude: "16.2886111"
 also-bisztricze: 
   city: also-bisztricze
-  accentcity: "Als\xC3\xB3-Bisztricze"
+  accentcity: "Alsó-Bisztricze"
   region: 09
   population: 
   latitude: "46.54"
   longitude: "16.2886111"
 alsocsalogany: 
   city: alsocsalogany
-  accentcity: "Als\xC3\xB3csalog\xC3\xA1ny"
+  accentcity: "Alsócsalog\xC3\xA1ny"
   region: 09
   population: 
   latitude: "46.7833333"
   longitude: "16.0666667"
 alsojanosfa: 
   city: alsojanosfa
-  accentcity: "Als\xC3\xB3j\xC3\xA1nosfa"
+  accentcity: "Alsój\xC3\xA1nosfa"
   region: 09
   population: 
   latitude: "46.7633333"
   longitude: "16.3008333"
 alsolakos: 
   city: alsolakos
-  accentcity: "Als\xC3\xB3lakos"
+  accentcity: "Alsólakos"
   region: 09
   population: 
   latitude: "46.5530556"
   longitude: "16.4180556"
 alsolendva: 
   city: alsolendva
-  accentcity: "Als\xC3\xB3lendva"
+  accentcity: "Alsólendva"
   region: 09
   population: 
   latitude: "46.5613889"
   longitude: "16.4505556"
 alsolendvalakos: 
   city: alsolendvalakos
-  accentcity: "Als\xC3\xB3lendvalakos"
+  accentcity: "Alsólendvalakos"
   region: 09
   population: 
   latitude: "46.5530556"
   longitude: "16.4180556"
 alsoszentbenedek: 
   city: alsoszentbenedek
-  accentcity: "Als\xC3\xB3szentbenedek"
+  accentcity: "Alsószentbenedek"
   region: 09
   population: 
   latitude: "46.7330556"
@@ -597,7 +597,7 @@ bajgot:
   longitude: "15.4494444"
 bakonak: 
   city: bakonak
-  accentcity: "Bak\xC3\xB3nak"
+  accentcity: "Bakónak"
   region: 09
   population: 
   latitude: "46.6936111"
@@ -681,14 +681,14 @@ barka:
   longitude: "14.0544444"
 barkoc: 
   city: barkoc
-  accentcity: "Bark\xC3\xB3c"
+  accentcity: "Barkóc"
   region: 09
   population: 
   latitude: "46.6188889"
   longitude: "16.1502778"
 barkocz: 
   city: barkocz
-  accentcity: "Bark\xC3\xB3cz"
+  accentcity: "Barkócz"
   region: 09
   population: 
   latitude: "46.6188889"
@@ -1136,7 +1136,7 @@ bircna vas:
   longitude: "15.15"
 biroszek: 
   city: biroszek
-  accentcity: "Bir\xC3\xB3sz\xC3\xA9k"
+  accentcity: "Birósz\xC3\xA9k"
   region: 09
   population: 
   latitude: "46.6744444"
@@ -1465,7 +1465,7 @@ bodislavci:
   longitude: "16.0666667"
 bodohegy: 
   city: bodohegy
-  accentcity: "Bod\xC3\xB3hegy"
+  accentcity: "Bodóhegy"
   region: 09
   population: 
   latitude: "46.7441667"
@@ -4076,7 +4076,7 @@ csentevolgy:
   longitude: "16.4975"
 cserencsocz: 
   city: cserencsocz
-  accentcity: "Cserencs\xC3\xB3cz"
+  accentcity: "Cserencsócz"
   region: 09
   population: 
   latitude: "46.5744444"
@@ -6400,14 +6400,14 @@ filippi:
   longitude: "13.8830556"
 filoc: 
   city: filoc
-  accentcity: "Fil\xC3\xB3c"
+  accentcity: "Filóc"
   region: 09
   population: 
   latitude: "46.6613889"
   longitude: "16.305"
 filocz: 
   city: filocz
-  accentcity: "Fil\xC3\xB3cz"
+  accentcity: "Filócz"
   region: 09
   population: 
   latitude: "46.6613889"
@@ -9172,7 +9172,7 @@ hosnica:
   longitude: "15.6166667"
 hosszufalu: 
   city: hosszufalu
-  accentcity: "Hossz\xC3\xBAfalu"
+  accentcity: "Hosszúfalu"
   region: 09
   population: 
   latitude: "46.5877778"
@@ -9921,7 +9921,7 @@ izola:
   longitude: "13.6619444"
 izsakocz: 
   city: izsakocz
-  accentcity: "Izsak\xC3\xB3cz"
+  accentcity: "Izsakócz"
   region: 09
   population: 
   latitude: "46.5888889"
@@ -13127,7 +13127,7 @@ lendvahidveg:
   longitude: "16.4333333"
 lendvahosszufalu: 
   city: lendvahosszufalu
-  accentcity: "Lendvahossz\xC3\xBAfalu"
+  accentcity: "Lendvahosszúfalu"
   region: 09
   population: 
   latitude: "46.5877778"
@@ -13169,14 +13169,14 @@ lendvanyires:
   longitude: "16.3333333"
 lendvarozsavolgy: 
   city: lendvarozsavolgy
-  accentcity: "Lendvar\xC3\xB3zsav\xC3\xB6lgy"
+  accentcity: "Lendvarózsav\xC3\xB6lgy"
   region: 09
   population: 
   latitude: "46.6325"
   longitude: "16.2511111"
 lendvaszentjozsef: 
   city: lendvaszentjozsef
-  accentcity: "Lendvaszentj\xC3\xB3zsef"
+  accentcity: "Lendvaszentjózsef"
   region: 09
   population: 
   latitude: "46.6033333"
@@ -13540,7 +13540,7 @@ lippahoc:
   longitude: "16.2280556"
 lippahocz: 
   city: lippahocz
-  accentcity: "Lippah\xC3\xB3cz"
+  accentcity: "Lippahócz"
   region: 09
   population: 
   latitude: "46.6283333"
@@ -13708,7 +13708,7 @@ lobnica:
   longitude: "15.5166667"
 locavizza di aidussina: 
   city: locavizza di aidussina
-  accentcity: "Locavizza di Aid\xC3\xBAssina"
+  accentcity: "Locavizza di Aidússina"
   region: "04"
   population: 
   latitude: "45.9016667"
@@ -16438,14 +16438,14 @@ muramelence:
   longitude: "16.2366667"
 murapetroc: 
   city: murapetroc
-  accentcity: "Murapetr\xC3\xB3c"
+  accentcity: "Murapetróc"
   region: 09
   population: 
   latitude: "46.6661111"
   longitude: "16.0555556"
 murapetrocz: 
   city: murapetrocz
-  accentcity: "Murapetr\xC3\xB3cz"
+  accentcity: "Murapetrócz"
   region: 09
   population: 
   latitude: "46.6661111"
@@ -16606,7 +16606,7 @@ nagypalina:
   longitude: "16.3469444"
 nagytotlak: 
   city: nagytotlak
-  accentcity: "Nagyt\xC3\xB3tlak"
+  accentcity: "Nagytótlak"
   region: 09
   population: 
   latitude: "46.7077778"
@@ -17936,7 +17936,7 @@ ottocco-piccolo:
   longitude: "14.1777778"
 ottohaza: 
   city: ottohaza
-  accentcity: "Ott\xC3\xB3h\xC3\xA1za"
+  accentcity: "Ottóh\xC3\xA1za"
   region: 09
   population: 
   latitude: "46.7966667"
@@ -19952,7 +19952,7 @@ postumia grotte:
   longitude: "14.2166667"
 postumia: 
   city: postumia
-  accentcity: "Post\xC3\xBAmia"
+  accentcity: "Postúmia"
   region: "04"
   population: 
   latitude: "45.7769444"
@@ -21219,14 +21219,14 @@ radmozanci:
   longitude: "16.3836111"
 radofalva: 
   city: radofalva
-  accentcity: "Rad\xC3\xB3falva"
+  accentcity: "Radófalva"
   region: 09
   population: 
   latitude: "46.7836111"
   longitude: "16.0977778"
 radofa: 
   city: radofa
-  accentcity: "Rad\xC3\xB3fa"
+  accentcity: "Radófa"
   region: 09
   population: 
   latitude: "46.7836111"
@@ -22710,7 +22710,7 @@ sagoria:
   longitude: "14.2244444"
 sagoria san martino: 
   city: sagoria san martino
-  accentcity: "Sag\xC3\xB3ria San Martino"
+  accentcity: "Sagória San Martino"
   region: "04"
   population: 
   latitude: "45.6397222"
@@ -25300,7 +25300,7 @@ solkan:
   longitude: "13.6494444"
 sonzia: 
   city: sonzia
-  accentcity: "S\xC3\xB3nzia"
+  accentcity: "Sónzia"
   region: "04"
   population: 
   latitude: "46.3433333"
@@ -27708,7 +27708,7 @@ szarvaslak:
   longitude: "16.0333333"
 szechenykut: 
   city: szechenykut
-  accentcity: "Sz\xC3\xA9ch\xC3\xA9nyk\xC3\xBAt"
+  accentcity: "Sz\xC3\xA9ch\xC3\xA9nykút"
   region: 09
   population: 
   latitude: "46.6533333"
@@ -27729,14 +27729,14 @@ szecsenyfa:
   longitude: "16.0511111"
 szecsenykut: 
   city: szecsenykut
-  accentcity: "Sz\xC3\xA9cs\xC3\xA9nyk\xC3\xBAt"
+  accentcity: "Sz\xC3\xA9cs\xC3\xA9nykút"
   region: 09
   population: 
   latitude: "46.6533333"
   longitude: "16.0661111"
 szecsiszentlaszlo: 
   city: szecsiszentlaszlo
-  accentcity: "Sz\xC3\xA9csiszentl\xC3\xA1szl\xC3\xB3"
+  accentcity: "Sz\xC3\xA9csiszentl\xC3\xA1szló"
   region: 09
   population: 
   latitude: "46.7069444"
@@ -27757,7 +27757,7 @@ szentbibor:
   longitude: "16.1991667"
 szentlaszlo: 
   city: szentlaszlo
-  accentcity: "Szentl\xC3\xA1szl\xC3\xB3"
+  accentcity: "Szentl\xC3\xA1szló"
   region: 09
   population: 
   latitude: "46.7069444"
@@ -28352,14 +28352,14 @@ tosko celo:
   longitude: "14.4166667"
 totkeresztur: 
   city: totkeresztur
-  accentcity: "T\xC3\xB3tkereszt\xC3\xBAr"
+  accentcity: "Tótkeresztúr"
   region: 09
   population: 
   latitude: "46.7888889"
   longitude: "16.2469444"
 totlak: 
   city: totlak
-  accentcity: "T\xC3\xB3tlak"
+  accentcity: "Tótlak"
   region: 09
   population: 
   latitude: "46.7077778"
@@ -29262,7 +29262,7 @@ varos:
   longitude: "15.7"
 vashidegkut: 
   city: vashidegkut
-  accentcity: "Vashidegk\xC3\xBAt"
+  accentcity: "Vashidegkút"
   region: 09
   population: 
   latitude: "46.7208333"
@@ -33091,7 +33091,7 @@ zoltanhaza:
   longitude: "16.0861111"
 zorkohaza: 
   city: zorkohaza
-  accentcity: "Zork\xC3\xB3h\xC3\xA1za"
+  accentcity: "Zorkóh\xC3\xA1za"
   region: 09
   population: 
   latitude: "46.6166667"
@@ -33147,14 +33147,14 @@ zsidahegy:
   longitude: "16.2561111"
 zsitkoc: 
   city: zsitkoc
-  accentcity: "Zsitk\xC3\xB3c"
+  accentcity: "Zsitkóc"
   region: 09
   population: 
   latitude: "46.6413889"
   longitude: "16.3763889"
 zsitkocz: 
   city: zsitkocz
-  accentcity: "Zsitk\xC3\xB3cz"
+  accentcity: "Zsitkócz"
   region: 09
   population: 
   latitude: "46.6413889"

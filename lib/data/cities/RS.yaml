@@ -660,28 +660,28 @@ almad:
   longitude: "21.392222"
 alsoaradi: 
   city: alsoaradi
-  accentcity: "Als\xC3\xB3aradi"
+  accentcity: "Alsóaradi"
   region: "00"
   population: 
   latitude: "45.383056"
   longitude: "20.301389"
 alsoittebe: 
   city: alsoittebe
-  accentcity: "Als\xC3\xB3ittebe"
+  accentcity: "Alsóittebe"
   region: "00"
   population: 
   latitude: "45.559444"
   longitude: "20.694444"
 alsokabol: 
   city: alsokabol
-  accentcity: "Als\xC3\xB3kabol"
+  accentcity: "Alsókabol"
   region: "00"
   population: 
   latitude: "45.227778"
   longitude: "20.021667"
 alsokovil: 
   city: alsokovil
-  accentcity: "Als\xC3\xB3kovil"
+  accentcity: "Alsókovil"
   region: "00"
   population: 
   latitude: "45.227778"
@@ -1402,14 +1402,14 @@ arnautska mahala:
   longitude: "22.448333"
 arpatarlo: 
   city: arpatarlo
-  accentcity: "\xC3\x81rpatarl\xC3\xB3"
+  accentcity: "\xC3\x81rpatarló"
   region: "00"
   population: 
   latitude: "45.008056"
   longitude: "19.822222"
 arpataro: 
   city: arpataro
-  accentcity: "\xC3\x81rpatar\xC3\xB3"
+  accentcity: "\xC3\x81rpataró"
   region: "00"
   population: 
   latitude: "45.008056"
@@ -2277,7 +2277,7 @@ bacs-cseb:
   longitude: "19.525278"
 bacsdoroszlo: 
   city: bacsdoroszlo
-  accentcity: "B\xC3\xA1csdoroszl\xC3\xB3"
+  accentcity: "B\xC3\xA1csdoroszló"
   region: "00"
   population: 
   latitude: "45.608611"
@@ -2312,7 +2312,7 @@ bacskahadikfalva:
   longitude: "19.698333"
 bacskeresztur: 
   city: bacskeresztur
-  accentcity: "B\xC3\xA1cskereszt\xC3\xBAr"
+  accentcity: "B\xC3\xA1cskeresztúr"
   region: "00"
   population: 
   latitude: "45.562778"
@@ -2396,21 +2396,21 @@ bacstopolya:
   longitude: "19.636111"
 bacstovaros: 
   city: bacstovaros
-  accentcity: "B\xC3\xA1cst\xC3\xB3v\xC3\xA1ros"
+  accentcity: "B\xC3\xA1cstóv\xC3\xA1ros"
   region: "00"
   population: 
   latitude: "45.353611"
   longitude: "19.325"
 bacsujfalu: 
   city: bacsujfalu
-  accentcity: "B\xC3\xA1cs\xC3\xBAjfalu"
+  accentcity: "B\xC3\xA1csújfalu"
   region: "00"
   population: 
   latitude: "45.409167"
   longitude: "19.298333"
 bacsujlak: 
   city: bacsujlak
-  accentcity: "B\xC3\xA1cs\xC3\xBAjlak"
+  accentcity: "B\xC3\xA1csújlak"
   region: "00"
   population: 
   latitude: "45.293333"
@@ -5784,14 +5784,14 @@ beregh:
   longitude: "18.928889"
 beresztoc: 
   city: beresztoc
-  accentcity: "Bereszt\xC3\xB3c"
+  accentcity: "Beresztóc"
   region: "00"
   population: 
   latitude: "44.727222"
   longitude: "20.805278"
 beresztocz: 
   city: beresztocz
-  accentcity: "Bereszt\xC3\xB3cz"
+  accentcity: "Beresztócz"
   region: "00"
   population: 
   latitude: "44.727222"
@@ -8346,7 +8346,7 @@ boroc:
   longitude: "19.350278"
 borocz: 
   city: borocz
-  accentcity: "Bor\xC3\xB3cz"
+  accentcity: "Borócz"
   region: "00"
   population: 
   latitude: "45.320278"
@@ -14884,7 +14884,7 @@ cseszterek:
   longitude: "20.531944"
 csoka: 
   city: csoka
-  accentcity: "Cs\xC3\xB3ka"
+  accentcity: "Csóka"
   region: "00"
   population: 
   latitude: "45.9425"
@@ -18818,7 +18818,7 @@ domaroci:
   longitude: "21.645278"
 dombo: 
   city: dombo
-  accentcity: "Domb\xC3\xB3"
+  accentcity: "Dombó"
   region: "00"
   population: 
   latitude: "44.795556"
@@ -21884,7 +21884,7 @@ doroslovo:
   longitude: "19.190556"
 doroszlo: 
   city: doroszlo
-  accentcity: "Doroszl\xC3\xB3"
+  accentcity: "Doroszló"
   region: "00"
   population: 
   latitude: "45.608611"
@@ -24383,7 +24383,7 @@ dunacseb:
   longitude: "19.525278"
 dunadombo: 
   city: dunadombo
-  accentcity: "Dunadomb\xC3\xB3"
+  accentcity: "Dunadombó"
   region: "00"
   population: 
   latitude: "44.795556"
@@ -25741,7 +25741,7 @@ fejeregyhaz:
   longitude: "21.417222"
 feketeto: 
   city: feketeto
-  accentcity: "Feketet\xC3\xB3"
+  accentcity: "Feketetó"
   region: "00"
   population: 
   latitude: "45.973056"
@@ -34995,7 +34995,7 @@ hereq:
   longitude: "20.3575"
 herkoca: 
   city: herkoca
-  accentcity: "Herk\xC3\xB3ca"
+  accentcity: "Herkóca"
   region: "00"
   population: 
   latitude: "44.878889"
@@ -35198,14 +35198,14 @@ hodefci:
   longitude: "21.566667"
 hodegyhaza: 
   city: hodegyhaza
-  accentcity: "H\xC3\xB3degyh\xC3\xA1za"
+  accentcity: "Hódegyh\xC3\xA1za"
   region: "00"
   population: 
   latitude: "45.9025"
   longitude: "20.216389"
 hodegyhaz: 
   city: hodegyhaz
-  accentcity: "H\xC3\xB3degyh\xC3\xA1z"
+  accentcity: "Hódegyh\xC3\xA1z"
   region: "00"
   population: 
   latitude: "45.9025"
@@ -35240,7 +35240,7 @@ hodonovci:
   longitude: "21.679444"
 hodsag: 
   city: hodsag
-  accentcity: "H\xC3\xB3ds\xC3\xA1g"
+  accentcity: "Hóds\xC3\xA1g"
   region: "00"
   population: 
   latitude: "45.506667"
@@ -35310,7 +35310,7 @@ homokbalvanyos:
   longitude: "20.875833"
 homokdiod: 
   city: homokdiod
-  accentcity: "Homokdi\xC3\xB3d"
+  accentcity: "Homokdiód"
   region: "00"
   population: 
   latitude: "44.957778"
@@ -40063,14 +40063,14 @@ kare:
   longitude: "21.726389"
 karloca: 
   city: karloca
-  accentcity: "Karl\xC3\xB3ca"
+  accentcity: "Karlóca"
   region: "00"
   population: 
   latitude: "45.2025"
   longitude: "19.934444"
 karlocza: 
   city: karlocza
-  accentcity: "Karl\xC3\xB3cza"
+  accentcity: "Karlócza"
   region: "00"
   population: 
   latitude: "45.2025"
@@ -40595,7 +40595,7 @@ kerestur:
   longitude: "19.415833"
 keresztur: 
   city: keresztur
-  accentcity: "Kereszt\xC3\xBAr"
+  accentcity: "Keresztúr"
   region: "00"
   population: 
   latitude: "45.562778"
@@ -40784,7 +40784,7 @@ kevedobra:
   longitude: "20.849444"
 kevepallos: 
   city: kevepallos
-  accentcity: "Kevepall\xC3\xB3s"
+  accentcity: "Kevepallós"
   region: "00"
   population: 
   latitude: "44.72"
@@ -41176,7 +41176,7 @@ kistorda:
   longitude: "20.4575"
 kistoszeg: 
   city: kistoszeg
-  accentcity: "Kist\xC3\xB3szeg"
+  accentcity: "Kistószeg"
   region: "00"
   population: 
   latitude: "45.781667"
@@ -51403,7 +51403,7 @@ lonjin:
   longitude: "19.355278"
 look: 
   city: look
-  accentcity: "Lo\xC3\xB3k"
+  accentcity: "Loók"
   region: "00"
   population: 
   latitude: "45.215833"
@@ -59243,7 +59243,7 @@ mocioci:
   longitude: "19.960556"
 modos: 
   city: modos
-  accentcity: "M\xC3\xB3dos"
+  accentcity: "Módos"
   region: "00"
   population: 
   latitude: "45.446944"
@@ -61070,7 +61070,7 @@ nagy-tarnok:
   longitude: "20.606389"
 nagy-toba: 
   city: nagy-toba
-  accentcity: "Nagy-T\xC3\xB3ba"
+  accentcity: "Nagy-Tóba"
   region: "00"
   population: 
   latitude: "45.687778"
@@ -61119,7 +61119,7 @@ nakodorf:
   longitude: "20.567222"
 nakofalva: 
   city: nakofalva
-  accentcity: "N\xC3\xA1k\xC3\xB3falva"
+  accentcity: "N\xC3\xA1kófalva"
   region: "00"
   population: 
   latitude: "45.873889"
@@ -61630,7 +61630,7 @@ nemet-gaj:
   longitude: "21.1725"
 nemet-modos: 
   city: nemet-modos
-  accentcity: "N\xC3\xA9met-M\xC3\xB3dos"
+  accentcity: "N\xC3\xA9met-Módos"
   region: "00"
   population: 
   latitude: "45.446944"
@@ -63842,7 +63842,7 @@ ojkovica:
   longitude: "19.89"
 okeresztur: 
   city: okeresztur
-  accentcity: "\xC3\x93kereszt\xC3\xBAr"
+  accentcity: "\xC3\x93keresztúr"
   region: "00"
   population: 
   latitude: "46.133333"
@@ -64010,7 +64010,7 @@ omladak:
   longitude: "19.258333"
 omlod: 
   city: omlod
-  accentcity: "Oml\xC3\xB3d"
+  accentcity: "Omlód"
   region: "00"
   population: 
   latitude: "44.760556"
@@ -64542,7 +64542,7 @@ orlocevo:
   longitude: "20.974722"
 orlod: 
   city: orlod
-  accentcity: "Orl\xC3\xB3d"
+  accentcity: "Orlód"
   region: "00"
   population: 
   latitude: "45.243333"
@@ -64983,7 +64983,7 @@ osonica:
   longitude: "20.338611"
 osove: 
   city: osove
-  accentcity: "\xC3\x93s\xC3\xB3v\xC3\xA9"
+  accentcity: "\xC3\x93sóv\xC3\xA9"
   region: "00"
   population: 
   latitude: "45.450278"
@@ -68245,7 +68245,7 @@ petrovo selo:
   longitude: "20.736111"
 petrovoszello: 
   city: petrovoszello
-  accentcity: "Petrovoszell\xC3\xB3"
+  accentcity: "Petrovoszelló"
   region: "00"
   population: 
   latitude: "45.708056"
@@ -73558,7 +73558,7 @@ racz-ittebe:
   longitude: "20.713611"
 racz-keresztur: 
   city: racz-keresztur
-  accentcity: "R\xC3\xA1cz-Kereszt\xC3\xBAr"
+  accentcity: "R\xC3\xA1cz-Keresztúr"
   region: "00"
   population: 
   latitude: "46.133333"
@@ -73572,7 +73572,7 @@ racz-militics:
   longitude: "19.207778"
 racz-modos: 
   city: racz-modos
-  accentcity: "R\xC3\xA1cz-M\xC3\xB3dos"
+  accentcity: "R\xC3\xA1cz-Módos"
   region: "00"
   population: 
   latitude: "45.446944"
@@ -76855,7 +76855,7 @@ revatske:
   longitude: "20.687222"
 revaujfalu: 
   city: revaujfalu
-  accentcity: "R\xC3\xA9va\xC3\xBAjfalu"
+  accentcity: "R\xC3\xA9vaújfalu"
   region: "00"
   population: 
   latitude: "44.989722"
@@ -89728,7 +89728,7 @@ szerbittebe:
   longitude: "20.713611"
 szerb-keresztur: 
   city: szerb-keresztur
-  accentcity: "Szerb-Kereszt\xC3\xBAr"
+  accentcity: "Szerb-Keresztúr"
   region: "00"
   population: 
   latitude: "46.133333"
@@ -89742,7 +89742,7 @@ szerbmilitics:
   longitude: "19.207778"
 szerb-modos: 
   city: szerb-modos
-  accentcity: "Szerb-M\xC3\xB3dos"
+  accentcity: "Szerb-Módos"
   region: "00"
   population: 
   latitude: "45.446944"
@@ -90204,7 +90204,7 @@ taraxhe:
   longitude: "20.903611"
 tarcso: 
   city: tarcso
-  accentcity: "T\xC3\xA1rcs\xC3\xB3"
+  accentcity: "T\xC3\xA1rcsó"
   region: "00"
   population: 
   latitude: "44.807222"
@@ -90477,7 +90477,7 @@ temes-kutas:
   longitude: "21.443056"
 temes-miklos: 
   city: temes-miklos
-  accentcity: "Temes-Mikl\xC3\xB3s"
+  accentcity: "Temes-Miklós"
   region: "00"
   population: 
   latitude: "45.049444"
@@ -90533,7 +90533,7 @@ temesszolos:
   longitude: "21.448333"
 temesvajkoc: 
   city: temesvajkoc
-  accentcity: "Temesvajk\xC3\xB3c"
+  accentcity: "Temesvajkóc"
   region: "00"
   population: 
   latitude: "45.074722"
@@ -91156,7 +91156,7 @@ tiszakalmanfalva:
   longitude: "19.993889"
 tiszaszentmiklos: 
   city: tiszaszentmiklos
-  accentcity: "Tiszaszentmikl\xC3\xB3s"
+  accentcity: "Tiszaszentmiklós"
   region: "00"
   population: 
   latitude: "45.890833"
@@ -91877,7 +91877,7 @@ torontalalmas:
   longitude: "20.599722"
 torontal-jozseffalva: 
   city: torontal-jozseffalva
-  accentcity: "Toront\xC3\xA1l-J\xC3\xB3zseffalva"
+  accentcity: "Toront\xC3\xA1l-Józseffalva"
   region: "00"
   population: 
   latitude: "46.05"
@@ -91926,7 +91926,7 @@ torontaludvar:
   longitude: "20.514167"
 torontalujfalu: 
   city: torontalujfalu
-  accentcity: "Toront\xC3\xA1l\xC3\xBAjfalu"
+  accentcity: "Toront\xC3\xA1lújfalu"
   region: "00"
   population: 
   latitude: "45.320278"
@@ -92017,28 +92017,28 @@ toskinci:
   longitude: "22.181667"
 toszeg: 
   city: toszeg
-  accentcity: "T\xC3\xB3szeg"
+  accentcity: "Tószeg"
   region: "00"
   population: 
   latitude: "45.781667"
   longitude: "20.622222"
 totaradacz: 
   city: totaradacz
-  accentcity: "T\xC3\xB3tarad\xC3\xA1cz"
+  accentcity: "Tótarad\xC3\xA1cz"
   region: "00"
   population: 
   latitude: "45.383056"
   longitude: "20.301389"
 tot-aradacz: 
   city: tot-aradacz
-  accentcity: "T\xC3\xB3t-Arad\xC3\xA1cz"
+  accentcity: "Tót-Arad\xC3\xA1cz"
   region: "00"
   population: 
   latitude: "45.383056"
   longitude: "20.301389"
 totfalu: 
   city: totfalu
-  accentcity: "T\xC3\xB3tfalu"
+  accentcity: "Tótfalu"
   region: "00"
   population: 
   latitude: "45.962222"
@@ -93382,7 +93382,7 @@ turekovc:
   longitude: "21.879722"
 turia: 
   city: turia
-  accentcity: "T\xC3\xBAria"
+  accentcity: "Túria"
   region: "00"
   population: 
   latitude: "45.5375"
@@ -93900,7 +93900,7 @@ ujfutak:
   longitude: "19.71"
 ujkarloca: 
   city: ujkarloca
-  accentcity: "\xC3\x9Ajkarl\xC3\xB3ca"
+  accentcity: "\xC3\x9Ajkarlóca"
   region: "00"
   population: 
   latitude: "45.080278"
@@ -93970,7 +93970,7 @@ ujsandorfalva:
   longitude: "21.008333"
 ujsove: 
   city: ujsove
-  accentcity: "\xC3\x9Ajs\xC3\xB3v\xC3\xA9"
+  accentcity: "\xC3\x9Ajsóv\xC3\xA9"
   region: "00"
   population: 
   latitude: "45.450278"
@@ -94593,7 +94593,7 @@ vajdalak:
   longitude: "21.346667"
 vajkoc: 
   city: vajkoc
-  accentcity: "Vajk\xC3\xB3c"
+  accentcity: "Vajkóc"
   region: "00"
   population: 
   latitude: "45.074722"

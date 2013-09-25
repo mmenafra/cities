@@ -2956,7 +2956,7 @@ antingham:
   longitude: "1.35"
 an tiur: 
   city: an tiur
-  accentcity: "An t\xC3\xAF\xC3\xBAr"
+  accentcity: "An t\xC3\xAFúr"
   region: S9
   population: 
   latitude: "54.183333"
@@ -3208,7 +3208,7 @@ ardbeg:
   longitude: "-6.1"
 ard bo: 
   city: ard bo
-  accentcity: "Ard B\xC3\xB3"
+  accentcity: "Ard Bó"
   region: R7
   population: 
   latitude: "54.633333"
@@ -26574,7 +26574,7 @@ cuil:
   longitude: "-5.3"
 cuil rathain: 
   city: cuil rathain
-  accentcity: "C\xC3\xBAil Rathain"
+  accentcity: "Cúil Rathain"
   region: R6
   population: 
   latitude: "55.133333"

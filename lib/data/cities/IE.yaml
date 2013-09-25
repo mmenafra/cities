@@ -121,7 +121,7 @@ abhainn an scail:
   longitude: "-10.0566667"
 abhoca: 
   city: abhoca
-  accentcity: "Abh\xC3\xB3ca"
+  accentcity: "Abhóca"
   region: "31"
   population: 
   latitude: "52.8527778"
@@ -142,7 +142,7 @@ accrour bridge:
   longitude: "-8.9066667"
 achadh an iuir: 
   city: achadh an iuir
-  accentcity: "Achadh an I\xC3\xBAir"
+  accentcity: "Achadh an Iúir"
   region: "02"
   population: 
   latitude: "53.8338889"
@@ -849,7 +849,7 @@ ailt an chorrain:
   longitude: "-8.4311111"
 aird mhor: 
   city: aird mhor
-  accentcity: "Aird Mh\xC3\xB3r"
+  accentcity: "Aird Mhór"
   region: "27"
   population: 
   latitude: "51.9491667"
@@ -1101,7 +1101,7 @@ an baile dubh:
   longitude: "-8.0536111"
 an baile mor: 
   city: an baile mor
-  accentcity: "An Baile M\xC3\xB3r"
+  accentcity: "An Baile Mór"
   region: "29"
   population: 
   latitude: "53.4833333"
@@ -1143,14 +1143,14 @@ an blaic:
   longitude: "-7.8752778"
 an bothar bui: 
   city: an bothar bui
-  accentcity: "An B\xC3\xB3thar Bu\xC3\xAD"
+  accentcity: "An Bóthar Bu\xC3\xAD"
   region: "21"
   population: 
   latitude: "53.4183333"
   longitude: "-6.8352778"
 an bru: 
   city: an bru
-  accentcity: "An Br\xC3\xBA"
+  accentcity: "An Brú"
   region: "16"
   population: 
   latitude: "52.4741667"
@@ -1227,21 +1227,21 @@ an cheapach:
   longitude: "-8.1636111"
 an cheapach mhor: 
   city: an cheapach mhor
-  accentcity: "An Cheapach Mh\xC3\xB3r"
+  accentcity: "An Cheapach Mhór"
   region: "16"
   population: 
   latitude: "52.6144444"
   longitude: "-8.3355556"
 an cheathru chaol: 
   city: an cheathru chaol
-  accentcity: "An Cheathr\xC3\xBA Chaol"
+  accentcity: "An Cheathrú Chaol"
   region: "06"
   population: 
   latitude: "55.1333333"
   longitude: "-7.65"
 an cheathru rua: 
   city: an cheathru rua
-  accentcity: "An Cheathr\xC3\xBA Rua"
+  accentcity: "An Cheathrú Rua"
   region: "10"
   population: 
   latitude: "53.2655556"
@@ -1290,7 +1290,7 @@ an chrois dhearg:
   longitude: "-6.1458333"
 an chuil: 
   city: an chuil
-  accentcity: "An Ch\xC3\xBAil"
+  accentcity: "An Chúil"
   region: "29"
   population: 
   latitude: "53.7"
@@ -1332,7 +1332,7 @@ an cnoc rua:
   longitude: "-7.3166667"
 an cobh: 
   city: an cobh
-  accentcity: "An C\xC3\xB3bh"
+  accentcity: "An Cóbh"
   region: "04"
   population: 
   latitude: "51.8572222"
@@ -1388,7 +1388,7 @@ an droichead nua:
   longitude: "-6.9947222"
 an duchoraidh: 
   city: an duchoraidh
-  accentcity: "An D\xC3\xBAchoraidh"
+  accentcity: "An Dúchoraidh"
   region: "06"
   population: 
   latitude: "54.9063889"
@@ -1458,7 +1458,7 @@ an geata ban:
   longitude: "-8.2297222"
 an geata mor: 
   city: an geata mor
-  accentcity: "An Geata M\xC3\xB3r"
+  accentcity: "An Geata Mór"
   region: "20"
   population: 
   latitude: "54.2038889"
@@ -1626,7 +1626,7 @@ an mhuirioch:
   longitude: "-10.3638889"
 an mota: 
   city: an mota
-  accentcity: "An M\xC3\xB3ta"
+  accentcity: "An Móta"
   region: "29"
   population: 
   latitude: "53.3938889"
@@ -1920,7 +1920,7 @@ an port rua:
   longitude: "-8.3502778"
 an rath mhor: 
   city: an rath mhor
-  accentcity: "An R\xC3\xA1th Mh\xC3\xB3r"
+  accentcity: "An R\xC3\xA1th Mhór"
   region: "12"
   population: 
   latitude: "53.2172222"
@@ -1955,7 +1955,7 @@ an scoil:
   longitude: "-9.5333333"
 an seanbhaile mor: 
   city: an seanbhaile mor
-  accentcity: "An Seanbhaile M\xC3\xB3r"
+  accentcity: "An Seanbhaile Mór"
   region: "04"
   population: 
   latitude: "52.2202778"
@@ -2004,21 +2004,21 @@ an taonach:
   longitude: "-8.1966667"
 an teampall mor: 
   city: an teampall mor
-  accentcity: "An Teampall M\xC3\xB3r"
+  accentcity: "An Teampall Mór"
   region: "26"
   population: 
   latitude: "52.7947222"
   longitude: "-7.8338889"
 an tinbhear mor: 
   city: an tinbhear mor
-  accentcity: "An tInbhear M\xC3\xB3r"
+  accentcity: "An tInbhear Mór"
   region: "31"
   population: 
   latitude: "52.7930556"
   longitude: "-6.1413889"
 an tochar: 
   city: an tochar
-  accentcity: "An T\xC3\xB3char"
+  accentcity: "An Tóchar"
   region: "31"
   population: 
   latitude: "53.0586111"
@@ -2788,7 +2788,7 @@ ath an chlair:
   longitude: "-8.9"
 ath an choiste: 
   city: ath an choiste
-  accentcity: "\xC3\x81th an Ch\xC3\xB3iste"
+  accentcity: "\xC3\x81th an Chóiste"
   region: "04"
   population: 
   latitude: "51.9"
@@ -3432,7 +3432,7 @@ baile an londraigh:
   longitude: "-8.3458333"
 baile an mhota: 
   city: baile an mhota
-  accentcity: "Baile an Mh\xC3\xB3ta"
+  accentcity: "Baile an Mhóta"
   region: "25"
   population: 
   latitude: "54.0833333"
@@ -3453,7 +3453,7 @@ baile an phoill:
   longitude: "-7.3402778"
 baile an roba: 
   city: baile an roba
-  accentcity: "Baile an R\xC3\xB3ba"
+  accentcity: "Baile an Róba"
   region: "20"
   population: 
   latitude: "53.6333333"
@@ -3481,7 +3481,7 @@ baile an teampail:
   longitude: "-8.7333333"
 baile an tochair: 
   city: baile an tochair
-  accentcity: "Baile an T\xC3\xB3chair"
+  accentcity: "Baile an Tóchair"
   region: "25"
   population: 
   latitude: "54.2"
@@ -3502,7 +3502,7 @@ baile atha an ri:
   longitude: "-8.7430556"
 baile atha an roine: 
   city: baile atha an roine
-  accentcity: "Baile \xC3\x81tha an R\xC3\xB3ine"
+  accentcity: "Baile \xC3\x81tha an Róine"
   region: "15"
   population: 
   latitude: "52.9455556"
@@ -3579,7 +3579,7 @@ baile brigin:
   longitude: "-6.1819444"
 baile chaisleain an roistigh: 
   city: baile chaisleain an roistigh
-  accentcity: "Baile Chaisle\xC3\xA1in an R\xC3\xB3istigh"
+  accentcity: "Baile Chaisle\xC3\xA1in an Róistigh"
   region: "04"
   population: 
   latitude: "52.1733333"
@@ -3642,7 +3642,7 @@ baile deasumhan:
   longitude: "-9.2333333"
 baile duill: 
   city: baile duill
-  accentcity: "Baile D\xC3\xBAill"
+  accentcity: "Baile Dúill"
   region: "07"
   population: 
   latitude: "53.3997222"
@@ -3747,7 +3747,7 @@ baile na coille:
   longitude: "-7.3080556"
 baile na cuirte: 
   city: baile na cuirte
-  accentcity: "Baile na C\xC3\xBAirte"
+  accentcity: "Baile na Cúirte"
   region: "30"
   population: 
   latitude: "52.6447222"
@@ -3782,7 +3782,7 @@ baile na martra:
   longitude: "-8.0538889"
 baile na ngalloglach: 
   city: baile na ngalloglach
-  accentcity: "Baile na nGall\xC3\xB3glach"
+  accentcity: "Baile na nGallóglach"
   region: "06"
   population: 
   latitude: "55.0880556"
@@ -3796,7 +3796,7 @@ baile nua sheandroma:
   longitude: "-8.7666667"
 baile phoil: 
   city: baile phoil
-  accentcity: "Baile Ph\xC3\xB3il"
+  accentcity: "Baile Phóil"
   region: "13"
   population: 
   latitude: "52.6811111"
@@ -9956,7 +9956,7 @@ beal an atha fada:
   longitude: "-8.3372222"
 beal an atha moir: 
   city: beal an atha moir
-  accentcity: "B\xC3\xA9al an \xC3\x81tha M\xC3\xB3ir"
+  accentcity: "B\xC3\xA9al an \xC3\x81tha Móir"
   region: "14"
   population: 
   latitude: "54.05"
@@ -10089,7 +10089,7 @@ beal atha longfoirt:
   longitude: "-9.4741667"
 beal atha mo: 
   city: beal atha mo
-  accentcity: "B\xC3\xA9al \xC3\x81tha M\xC3\xB3"
+  accentcity: "B\xC3\xA9al \xC3\x81tha Mó"
   region: "10"
   population: 
   latitude: "53.7"
@@ -10138,7 +10138,7 @@ beal atha na sluaighe:
   longitude: "-8.2194444"
 beal atha poirin: 
   city: beal atha poirin
-  accentcity: "B\xC3\xA9al \xC3\x81tha P\xC3\xB3irin"
+  accentcity: "B\xC3\xA9al \xC3\x81tha Póirin"
   region: "26"
   population: 
   latitude: "52.2691667"
@@ -12483,7 +12483,7 @@ bruree:
   longitude: "-8.6641667"
 bru ri: 
   city: bru ri
-  accentcity: "Br\xC3\xBA R\xC3\xAD"
+  accentcity: "Brú R\xC3\xAD"
   region: "16"
   population: 
   latitude: "52.4219444"
@@ -12560,7 +12560,7 @@ buiochar:
   longitude: "-7.0166667"
 buirios mor osrai: 
   city: buirios mor osrai
-  accentcity: "Buir\xC3\xADos M\xC3\xB3r Osra\xC3\xAD"
+  accentcity: "Buir\xC3\xADos Mór Osra\xC3\xAD"
   region: "15"
   population: 
   latitude: "52.9363889"
@@ -12714,7 +12714,7 @@ bunclody:
   longitude: "-6.6561111"
 bun cloidi: 
   city: bun cloidi
-  accentcity: "Bun Cl\xC3\xB3idi"
+  accentcity: "Bun Clóidi"
   region: "30"
   population: 
   latitude: "52.6552778"
@@ -14555,7 +14555,7 @@ carraig mhachaire rois:
   longitude: "-6.7188889"
 carraig na siuire: 
   city: carraig na siuire
-  accentcity: "Carraig na Si\xC3\xBAire"
+  accentcity: "Carraig na Siúire"
   region: "26"
   population: 
   latitude: "52.3491667"
@@ -15997,7 +15997,7 @@ cathair chinn lis:
   longitude: "-8.4702778"
 cathair donall: 
   city: cathair donall
-  accentcity: "Cathair D\xC3\xB3nall"
+  accentcity: "Cathair Dónall"
   region: "11"
   population: 
   latitude: "51.7666667"
@@ -16095,7 +16095,7 @@ ceanannas:
   longitude: "-6.8791667"
 ceanannus mor: 
   city: ceanannus mor
-  accentcity: "Ceanannus M\xC3\xB3r"
+  accentcity: "Ceanannus Mór"
   region: "21"
   population: 
   latitude: "53.7263889"
@@ -16172,7 +16172,7 @@ cellarstown:
   longitude: "-7.2138889"
 ce na cille moire: 
   city: ce na cille moire
-  accentcity: "C\xC3\xA9 na Cille M\xC3\xB3ire"
+  accentcity: "C\xC3\xA9 na Cille Móire"
   region: "30"
   population: 
   latitude: "52.1719444"
@@ -16522,7 +16522,7 @@ cill fhionain:
   longitude: "-8.4930556"
 cill fhionnurach: 
   city: cill fhionnurach
-  accentcity: "Cill Fhionn\xC3\xBArach"
+  accentcity: "Cill Fhionnúrach"
   region: "03"
   population: 
   latitude: "52.9938889"
@@ -16543,7 +16543,7 @@ cill ia:
   longitude: "-7.9977778"
 cillin an chronain: 
   city: cillin an chronain
-  accentcity: "Cill\xC3\xADn an Chr\xC3\xB3n\xC3\xA1in"
+  accentcity: "Cill\xC3\xADn an Chrón\xC3\xA1in"
   region: "04"
   population: 
   latitude: "52.2666667"
@@ -16578,7 +16578,7 @@ cill iomair:
   longitude: "-8.2847222"
 cill liucainne: 
   city: cill liucainne
-  accentcity: "Cill Li\xC3\xBAcainne"
+  accentcity: "Cill Liúcainne"
   region: "29"
   population: 
   latitude: "53.5119444"
@@ -16613,7 +16613,7 @@ cill mantan:
   longitude: "-6.0494444"
 cill maodhog: 
   city: cill maodhog
-  accentcity: "Cill Maodh\xC3\xB3g"
+  accentcity: "Cill Maodhóg"
   region: "12"
   population: 
   latitude: "53.2519444"
@@ -16634,7 +16634,7 @@ cill mhantain:
   longitude: "-6.0494444"
 cill mhic bhuith: 
   city: cill mhic bhuith
-  accentcity: "Cill Mhic Bh\xC3\xBAith"
+  accentcity: "Cill Mhic Bhúith"
   region: "13"
   population: 
   latitude: "52.3061111"
@@ -16690,7 +16690,7 @@ cill mide:
   longitude: "-8.9175"
 cill mocheallog: 
   city: cill mocheallog
-  accentcity: "Cill Mocheall\xC3\xB3g"
+  accentcity: "Cill Mocheallóg"
   region: "16"
   population: 
   latitude: "52.4"
@@ -16746,7 +16746,7 @@ cill rois:
   longitude: "-9.4833333"
 cill ronain: 
   city: cill ronain
-  accentcity: "Cill R\xC3\xB3n\xC3\xA1in"
+  accentcity: "Cill Rón\xC3\xA1in"
   region: "10"
   population: 
   latitude: "53.1247222"
@@ -16767,7 +16767,7 @@ cill tile:
   longitude: "-8.3991667"
 cill tormoir: 
   city: cill tormoir
-  accentcity: "Cill Torm\xC3\xB3ir"
+  accentcity: "Cill Tormóir"
   region: "10"
   population: 
   latitude: "53.2355556"
@@ -16886,7 +16886,7 @@ claire mount:
   longitude: "-6.3130556"
 clais mhor: 
   city: clais mhor
-  accentcity: "Clais Mh\xC3\xB3r"
+  accentcity: "Clais Mhór"
   region: "27"
   population: 
   latitude: "52.0030556"
@@ -17299,7 +17299,7 @@ cloch amainn:
   longitude: "-6.6169444"
 cloch na ron: 
   city: cloch na ron
-  accentcity: "Cloch na R\xC3\xB3n"
+  accentcity: "Cloch na Rón"
   region: "10"
   population: 
   latitude: "53.4"
@@ -17684,7 +17684,7 @@ cloich na coillte:
   longitude: "-8.8705556"
 cloirtheach: 
   city: cloirtheach
-  accentcity: "Cl\xC3\xB3irtheach"
+  accentcity: "Clóirtheach"
   region: "23"
   population: 
   latitude: "53.3425"
@@ -19056,7 +19056,7 @@ cloyne:
   longitude: "-8.1244444"
 cluain an roistigh: 
   city: cluain an roistigh
-  accentcity: "Cluain an R\xC3\xB3istigh"
+  accentcity: "Cluain an Róistigh"
   region: "30"
   population: 
   latitude: "52.4497222"
@@ -19140,7 +19140,7 @@ cluain meala:
   longitude: "-7.7038889"
 cluain mnic nois: 
   city: cluain mnic nois
-  accentcity: "Cluain Mnic N\xC3\xB3is"
+  accentcity: "Cluain Mnic Nóis"
   region: "23"
   population: 
   latitude: "53.3252778"
@@ -19238,7 +19238,7 @@ cnocan na biolrai:
   longitude: "-8.3441667"
 cnoc an tochair: 
   city: cnoc an tochair
-  accentcity: "Cnoc an T\xC3\xB3chair"
+  accentcity: "Cnoc an Tóchair"
   region: "13"
   population: 
   latitude: "52.4836111"
@@ -20400,7 +20400,7 @@ cora chaitlin:
   longitude: "-8.8955556"
 cora droma ruisc: 
   city: cora droma ruisc
-  accentcity: "Cora Droma R\xC3\xBAisc"
+  accentcity: "Cora Droma Rúisc"
   region: "14"
   population: 
   latitude: "53.9469444"
@@ -22318,14 +22318,14 @@ crutt:
   longitude: "-7.2080556"
 cuan bhaile na cuirte: 
   city: cuan bhaile na cuirte
-  accentcity: "Cuan Bhaile na C\xC3\xBAirte"
+  accentcity: "Cuan Bhaile na Cúirte"
   region: "30"
   population: 
   latitude: "52.6447222"
   longitude: "-6.2230556"
 cuan dor: 
   city: cuan dor
-  accentcity: "C\xC3\xBAan Dor"
+  accentcity: "Cúan Dor"
   region: "04"
   population: 
   latitude: "51.5730556"
@@ -22367,35 +22367,35 @@ cuherdaniel:
   longitude: "-10.1"
 cuil aine: 
   city: cuil aine
-  accentcity: "C\xC3\xBAil \xC3\x81ine"
+  accentcity: "Cúil \xC3\x81ine"
   region: "25"
   population: 
   latitude: "54.1780556"
   longitude: "-8.5997222"
 cuil an tsudaire: 
   city: cuil an tsudaire
-  accentcity: "C\xC3\xBAil an tS\xC3\xBAdaire"
+  accentcity: "Cúil an tSúdaire"
   region: "15"
   population: 
   latitude: "53.1622222"
   longitude: "-7.1911111"
 cuil dabhcha: 
   city: cuil dabhcha
-  accentcity: "C\xC3\xBAil Dabhcha"
+  accentcity: "Cúil Dabhcha"
   region: "06"
   population: 
   latitude: "55.2833333"
   longitude: "-7.1666667"
 cuil darach: 
   city: cuil darach
-  accentcity: "C\xC3\xBAil Darach"
+  accentcity: "Cúil Darach"
   region: "22"
   population: 
   latitude: "54.1563889"
   longitude: "-7.135"
 cuil ghreine: 
   city: cuil ghreine
-  accentcity: "C\xC3\xBAil Ghr\xC3\xA9ine"
+  accentcity: "Cúil Ghr\xC3\xA9ine"
   region: "30"
   population: 
   latitude: "52.7627778"
@@ -22416,7 +22416,7 @@ cuilleen:
   longitude: "-8.1583333"
 cuil mhuine: 
   city: cuil mhuine
-  accentcity: "C\xC3\xBAil Mhuine"
+  accentcity: "Cúil Mhuine"
   region: "25"
   population: 
   latitude: "54.1833333"
@@ -22437,7 +22437,7 @@ cuilmullagh:
   longitude: "-9.3"
 cuil na gcuirridin: 
   city: cuil na gcuirridin
-  accentcity: "C\xC3\xBAil na gCuirrid\xC3\xADn"
+  accentcity: "Cúil na gCuirrid\xC3\xADn"
   region: "06"
   population: 
   latitude: "54.8"
@@ -22451,7 +22451,7 @@ cuinche:
   longitude: "-8.8669444"
 cuirt mhic sheafraidh: 
   city: cuirt mhic sheafraidh
-  accentcity: "C\xC3\xBAirt Mhic Sh\xC3\xA9afraidh"
+  accentcity: "Cúirt Mhic Sh\xC3\xA9afraidh"
   region: "04"
   population: 
   latitude: "51.6319444"
@@ -23242,7 +23242,7 @@ dartan:
   longitude: "-7.6494444"
 daru: 
   city: daru
-  accentcity: "Dar\xC3\xBA"
+  accentcity: "Darú"
   region: "15"
   population: 
   latitude: "52.8441667"
@@ -25202,7 +25202,7 @@ droim lis:
   longitude: "-7.7666667"
 droim seanbho: 
   city: droim seanbho
-  accentcity: "Droim Seanbh\xC3\xB3"
+  accentcity: "Droim Seanbhó"
   region: "14"
   population: 
   latitude: "54.05"
@@ -26644,14 +26644,14 @@ dunaff:
   longitude: "-7.5"
 dun an ri: 
   city: dun an ri
-  accentcity: "D\xC3\xBAn An Ri"
+  accentcity: "Dún An Ri"
   region: "02"
   population: 
   latitude: "53.9080556"
   longitude: "-6.8055556"
 dun an uchta: 
   city: dun an uchta
-  accentcity: "D\xC3\xBAn an Uchta"
+  accentcity: "Dún an Uchta"
   region: "10"
   population: 
   latitude: "53.1975"
@@ -26665,14 +26665,14 @@ dunany:
   longitude: "-6.2791667"
 dun ar aill: 
   city: dun ar aill
-  accentcity: "D\xC3\xBAn ar Aill"
+  accentcity: "Dún ar Aill"
   region: "04"
   population: 
   latitude: "52.2166667"
   longitude: "-8.5833333"
 dun ard: 
   city: dun ard
-  accentcity: "D\xC3\xBAn Ard"
+  accentcity: "Dún Ard"
   region: "31"
   population: 
   latitude: "53.0191667"
@@ -26728,7 +26728,7 @@ dunbyrne:
   longitude: "-6.8580556"
 dun canann: 
   city: dun canann
-  accentcity: "D\xC3\xBAn Canann"
+  accentcity: "Dún Canann"
   region: "30"
   population: 
   latitude: "52.2202778"
@@ -26749,14 +26749,14 @@ duncannon:
   longitude: "-6.9169444"
 dun chaoin: 
   city: dun chaoin
-  accentcity: "D\xC3\xBAn Chaoin"
+  accentcity: "Dún Chaoin"
   region: "11"
   population: 
   latitude: "52.1313889"
   longitude: "-10.4572222"
 dun cionnaola: 
   city: dun cionnaola
-  accentcity: "D\xC3\xBAn Cionnaola"
+  accentcity: "Dún Cionnaola"
   region: "06"
   population: 
   latitude: "54.6308333"
@@ -26777,14 +26777,14 @@ dundalk:
   longitude: "-6.4166667"
 dun damh: 
   city: dun damh
-  accentcity: "D\xC3\xBAn Damh"
+  accentcity: "Dún Damh"
   region: "06"
   population: 
   latitude: "55.2666667"
   longitude: "-7.5"
 dun dealgan: 
   city: dun dealgan
-  accentcity: "D\xC3\xBAn Dealgan"
+  accentcity: "Dún Dealgan"
   region: "19"
   population: 
   latitude: "54.0"
@@ -26840,7 +26840,7 @@ dundrum:
   longitude: "-8.0422222"
 dun: 
   city: dun
-  accentcity: "D\xC3\xBAn"
+  accentcity: "Dún"
   region: "16"
   population: 
   latitude: "52.6036111"
@@ -26882,7 +26882,7 @@ dunfierth cross roads:
   longitude: "-6.8344444"
 dun fionnachaidh: 
   city: dun fionnachaidh
-  accentcity: "D\xC3\xBAn Fionnachaidh"
+  accentcity: "Dún Fionnachaidh"
   region: "06"
   population: 
   latitude: "55.1833333"
@@ -26896,14 +26896,14 @@ dunganstown:
   longitude: "-6.9744444"
 dun garbhan: 
   city: dun garbhan
-  accentcity: "D\xC3\xBAn Garbh\xC3\xA1n"
+  accentcity: "Dún Garbh\xC3\xA1n"
   region: "27"
   population: 
   latitude: "52.0880556"
   longitude: "-7.6252778"
 dun gar: 
   city: dun gar
-  accentcity: "D\xC3\xBAn Gar"
+  accentcity: "Dún Gar"
   region: "24"
   population: 
   latitude: "53.8666667"
@@ -27001,7 +27001,7 @@ dunkitt:
   longitude: "-7.1436111"
 dun laoghaire: 
   city: dun laoghaire
-  accentcity: "D\xC3\xBAn Laoghaire"
+  accentcity: "Dún Laoghaire"
   region: "07"
   population: 
   latitude: "53.2925"
@@ -27029,7 +27029,7 @@ dunleer:
   longitude: "-6.3961111"
 dun leire: 
   city: dun leire
-  accentcity: "D\xC3\xBAn L\xC3\xA9ire"
+  accentcity: "Dún L\xC3\xA9ire"
   region: "19"
   population: 
   latitude: "53.835"
@@ -27043,14 +27043,14 @@ dunlewy:
   longitude: "-8.1"
 dun luain: 
   city: dun luain
-  accentcity: "D\xC3\xBAn Lu\xC3\xA1in"
+  accentcity: "Dún Lu\xC3\xA1in"
   region: "31"
   population: 
   latitude: "53.0555556"
   longitude: "-6.7038889"
 dun luiche: 
   city: dun luiche
-  accentcity: "D\xC3\xBAn L\xC3\xBAiche"
+  accentcity: "Dún Lúiche"
   region: "06"
   population: 
   latitude: "55.0166667"
@@ -27064,7 +27064,7 @@ dunmain cross roads:
   longitude: "-6.8752778"
 dun manmhai: 
   city: dun manmhai
-  accentcity: "D\xC3\xBAn M\xC3\xA1nmha\xC3\xAD"
+  accentcity: "Dún M\xC3\xA1nmha\xC3\xAD"
   region: "04"
   population: 
   latitude: "51.7166667"
@@ -27106,7 +27106,7 @@ dunmoran:
   longitude: "-8.7222222"
 dun mor: 
   city: dun mor
-  accentcity: "D\xC3\xBAn M\xC3\xB3r"
+  accentcity: "Dún Mór"
   region: "27"
   population: 
   latitude: "52.1513889"
@@ -27148,14 +27148,14 @@ dunnamaggan:
   longitude: "-7.2972222"
 dun na ngall: 
   city: dun na ngall
-  accentcity: "D\xC3\xBAn na nGall"
+  accentcity: "Dún na nGall"
   region: "06"
   population: 
   latitude: "54.65"
   longitude: "-8.1166667"
 dun na sead: 
   city: dun na sead
-  accentcity: "D\xC3\xBAn na S\xC3\xA9ad"
+  accentcity: "Dún na S\xC3\xA9ad"
   region: "04"
   population: 
   latitude: "51.4833333"
@@ -27197,7 +27197,7 @@ dunraymond:
   longitude: "-6.9127778"
 dun seachlainn: 
   city: dun seachlainn
-  accentcity: "D\xC3\xBAn Seachlainn"
+  accentcity: "Dún Seachlainn"
   region: "21"
   population: 
   latitude: "53.5125"
@@ -27239,7 +27239,7 @@ duntryleague:
   longitude: "-8.3533333"
 duras: 
   city: duras
-  accentcity: "D\xC3\xBAras"
+  accentcity: "Dúras"
   region: "04"
   population: 
   latitude: "51.6166667"
@@ -27316,7 +27316,7 @@ eachroim:
   longitude: "-6.3275"
 eadargoil: 
   city: eadargoil
-  accentcity: "Eadarg\xC3\xB3il"
+  accentcity: "Eadargóil"
   region: "04"
   population: 
   latitude: "51.7008333"
@@ -28737,14 +28737,14 @@ fiodh ard:
   longitude: "-6.8516667"
 fiodh duin: 
   city: fiodh duin
-  accentcity: "Fiodh D\xC3\xBAin"
+  accentcity: "Fiodh Dúin"
   region: "13"
   population: 
   latitude: "52.33"
   longitude: "-7.3155556"
 fionnuig: 
   city: fionnuig
-  accentcity: "Fionn\xC3\xBAig"
+  accentcity: "Fionnúig"
   region: "11"
   population: 
   latitude: "52.4291667"
@@ -30522,7 +30522,7 @@ gleann na madadh:
   longitude: "-8.55"
 gleannuir: 
   city: gleannuir
-  accentcity: "Gleann\xC3\xBAir"
+  accentcity: "Gleannúir"
   region: "04"
   population: 
   latitude: "52.1866667"
@@ -33847,7 +33847,7 @@ inis cein:
   longitude: "-8.9380556"
 inis corthaidh: 
   city: inis corthaidh
-  accentcity: "Inis C\xC3\xB3rthaidh"
+  accentcity: "Inis Córthaidh"
   region: "30"
   population: 
   latitude: "52.5008333"
@@ -40728,35 +40728,35 @@ linsfort:
   longitude: "-7.4972222"
 lios ceannuir: 
   city: lios ceannuir
-  accentcity: "Lios Ceann\xC3\xBAir"
+  accentcity: "Lios Ceannúir"
   region: "03"
   population: 
   latitude: "52.9416667"
   longitude: "-9.3858333"
 lios cearuill: 
   city: lios cearuill
-  accentcity: "Lios Cear\xC3\xBAill"
+  accentcity: "Lios Cearúill"
   region: "04"
   population: 
   latitude: "52.25"
   longitude: "-8.8"
 lios duin bhearna: 
   city: lios duin bhearna
-  accentcity: "Lios D\xC3\xBAin Bhearna"
+  accentcity: "Lios Dúin Bhearna"
   region: "03"
   population: 
   latitude: "53.0327778"
   longitude: "-9.2883333"
 lios mor: 
   city: lios mor
-  accentcity: "Lios M\xC3\xB3r"
+  accentcity: "Lios Mór"
   region: "27"
   population: 
   latitude: "52.1366667"
   longitude: "-7.9308333"
 lios poil: 
   city: lios poil
-  accentcity: "Lios P\xC3\xB3il"
+  accentcity: "Lios Póil"
   region: "11"
   population: 
   latitude: "52.1425"
@@ -41617,7 +41617,7 @@ lobinstown:
   longitude: "-6.6480556"
 loch an iuir: 
   city: loch an iuir
-  accentcity: "Loch an I\xC3\xBAir"
+  accentcity: "Loch an Iúir"
   region: "06"
   population: 
   latitude: "54.9972222"
@@ -42191,7 +42191,7 @@ lullybeg:
   longitude: "-6.9688889"
 lu: 
   city: lu
-  accentcity: "L\xC3\xBA"
+  accentcity: "Lú"
   region: "19"
   population: 
   latitude: "53.9486111"
@@ -42730,7 +42730,7 @@ mainistir leathratha:
   longitude: "-7.45"
 mainistir na buille: 
   city: mainistir na buille
-  accentcity: "Mainistir na B\xC3\xBAille"
+  accentcity: "Mainistir na Búille"
   region: "24"
   population: 
   latitude: "53.9666667"
@@ -44067,7 +44067,7 @@ mohill:
   longitude: "-7.8666667"
 moin choinn: 
   city: moin choinn
-  accentcity: "M\xC3\xB3in Choinn"
+  accentcity: "Móin Choinn"
   region: "13"
   population: 
   latitude: "52.2894444"
@@ -44081,7 +44081,7 @@ moin searlas:
   longitude: "-8.1955556"
 mointeach milic: 
   city: mointeach milic
-  accentcity: "M\xC3\xB3inteach M\xC3\xADlic"
+  accentcity: "Móinteach M\xC3\xADlic"
   region: "15"
   population: 
   latitude: "53.1136111"
@@ -46034,7 +46034,7 @@ nad:
   longitude: "-8.8333333"
 na dunaibh: 
   city: na dunaibh
-  accentcity: "Na D\xC3\xBAnaibh"
+  accentcity: "Na Dúnaibh"
   region: "06"
   population: 
   latitude: "55.1969444"
@@ -47231,7 +47231,7 @@ oranmore:
   longitude: "-8.92"
 oran mor: 
   city: oran mor
-  accentcity: "\xC3\x93r\xC3\xA1n M\xC3\xB3r"
+  accentcity: "\xC3\x93r\xC3\xA1n Mór"
   region: "10"
   population: 
   latitude: "53.2683333"
@@ -47469,7 +47469,7 @@ painestown:
   longitude: "-6.3"
 paiteago: 
   city: paiteago
-  accentcity: "Paiteag\xC3\xB3"
+  accentcity: "Paiteagó"
   region: "06"
   population: 
   latitude: "54.55"
@@ -48183,7 +48183,7 @@ portmarnock:
   longitude: "-6.1375"
 port mearnog: 
   city: port mearnog
-  accentcity: "Port Mearn\xC3\xB3g"
+  accentcity: "Port Mearnóg"
   region: "07"
   population: 
   latitude: "53.4230556"
@@ -49198,7 +49198,7 @@ rathcoursey:
   longitude: "-8.1858333"
 rath cuil: 
   city: rath cuil
-  accentcity: "R\xC3\xA1th C\xC3\xBAil"
+  accentcity: "R\xC3\xA1th Cúil"
   region: "07"
   population: 
   latitude: "53.2827778"
@@ -49716,7 +49716,7 @@ rathtoole:
   longitude: "-6.7844444"
 rath to: 
   city: rath to
-  accentcity: "R\xC3\xA1th T\xC3\xB3"
+  accentcity: "R\xC3\xA1th Tó"
   region: "21"
   population: 
   latitude: "53.5080556"
@@ -50570,7 +50570,7 @@ rodena bridge:
   longitude: "-6.3333333"
 rod: 
   city: rod
-  accentcity: "R\xC3\xB3d"
+  accentcity: "Ród"
   region: "23"
   population: 
   latitude: "53.3522222"
@@ -50822,7 +50822,7 @@ ros lair:
   longitude: "-6.3844444"
 ros mhic thriuin: 
   city: ros mhic thriuin
-  accentcity: "Ros Mhic Thri\xC3\xBAin"
+  accentcity: "Ros Mhic Thriúin"
   region: "30"
   population: 
   latitude: "52.3966667"
@@ -51270,7 +51270,7 @@ runalunn:
   longitude: "-9.2655556"
 ruscaigh: 
   city: ruscaigh
-  accentcity: "R\xC3\xBAscaigh"
+  accentcity: "Rúscaigh"
   region: "24"
   population: 
   latitude: "53.8333333"
@@ -52019,7 +52019,7 @@ seanghualainn:
   longitude: "-9.1025"
 searcog: 
   city: searcog
-  accentcity: "Searc\xC3\xB3g"
+  accentcity: "Searcóg"
   region: "02"
   population: 
   latitude: "54.0"
@@ -54056,7 +54056,7 @@ subulter:
   longitude: "-8.8130556"
 sui an roin: 
   city: sui an roin
-  accentcity: "Su\xC3\xAD an R\xC3\xB3in"
+  accentcity: "Su\xC3\xAD an Róin"
   region: "23"
   population: 
   latitude: "52.9825"
@@ -56240,7 +56240,7 @@ tra li:
   longitude: "-9.7166667"
 tra mhor: 
   city: tra mhor
-  accentcity: "Tr\xC3\xA1 Mh\xC3\xB3r"
+  accentcity: "Tr\xC3\xA1 Mhór"
   region: "27"
   population: 
   latitude: "52.1588889"
@@ -56457,7 +56457,7 @@ tulach an iarainn:
   longitude: "-8.0080556"
 tulach mhor: 
   city: tulach mhor
-  accentcity: "Tulach Mh\xC3\xB3r"
+  accentcity: "Tulach Mhór"
   region: "23"
   population: 
   latitude: "53.2738889"

@@ -1311,7 +1311,7 @@ anisok:
   longitude: "11.1"
 annobon: 
   city: annobon
-  accentcity: "Annob\xC3\xB3n"
+  accentcity: "Annobón"
   region: "03"
   population: 
   latitude: "-1.4013889"
@@ -2004,7 +2004,7 @@ bacake pequeno:
   longitude: "8.8666667"
 bacipu: 
   city: bacipu
-  accentcity: "Bacip\xC3\xBA"
+  accentcity: "Bacipú"
   region: "04"
   population: 
   latitude: "3.7333333"
@@ -2032,7 +2032,7 @@ baho basuala:
   longitude: "8.9"
 baho grande: 
   city: baho grande
-  accentcity: "Bah\xC3\xB3 Grande"
+  accentcity: "Bahó Grande"
   region: "04"
   population: 
   latitude: "3.5166667"
@@ -2046,7 +2046,7 @@ baho-iko:
   longitude: "8.8166667"
 baho pequeno: 
   city: baho pequeno
-  accentcity: "Bah\xC3\xB3 Peque\xC3\xB1o"
+  accentcity: "Bahó Peque\xC3\xB1o"
   region: "04"
   population: 
   latitude: "3.5333333"
@@ -2074,7 +2074,7 @@ bakake pequeno:
   longitude: "8.8666667"
 balacha de concepcion: 
   city: balacha de concepcion
-  accentcity: "Balach\xC3\xA1 de Concepci\xC3\xB3n"
+  accentcity: "Balach\xC3\xA1 de Concepción"
   region: "05"
   population: 
   latitude: "3.4"
@@ -2228,28 +2228,28 @@ bany:
   longitude: "8.9166667"
 bao basuala: 
   city: bao basuala
-  accentcity: "Ba\xC3\xB3 Basuala"
+  accentcity: "Baó Basuala"
   region: "04"
   population: 
   latitude: "3.6333333"
   longitude: "8.9"
 bao grande: 
   city: bao grande
-  accentcity: "Ba\xC3\xB3 Grande"
+  accentcity: "Baó Grande"
   region: "04"
   population: 
   latitude: "3.5166667"
   longitude: "8.8166667"
 bao pequeno: 
   city: bao pequeno
-  accentcity: "Ba\xC3\xB3 Peque\xC3\xB1o"
+  accentcity: "Baó Peque\xC3\xB1o"
   region: "04"
   population: 
   latitude: "3.5333333"
   longitude: "8.8333333"
 bareso: 
   city: bareso
-  accentcity: "Bares\xC3\xB3"
+  accentcity: "Baresó"
   region: "04"
   population: 
   latitude: "3.65"
@@ -2382,7 +2382,7 @@ basuala:
   longitude: "8.9166667"
 basuala mision: 
   city: basuala mision
-  accentcity: "Basuala Misi\xC3\xB3n"
+  accentcity: "Basuala Misión"
   region: "04"
   population: 
   latitude: "3.6333333"
@@ -2396,14 +2396,14 @@ basupi fiston:
   longitude: "8.8166667"
 basupu: 
   city: basupu
-  accentcity: "Basup\xC3\xBA"
+  accentcity: "Basupú"
   region: "04"
   population: 
   latitude: "3.7166667"
   longitude: "8.6833333"
 basupu del oeste: 
   city: basupu del oeste
-  accentcity: "Basup\xC3\xBA del Oeste"
+  accentcity: "Basupú del Oeste"
   region: "04"
   population: 
   latitude: "3.7166667"
@@ -2550,7 +2550,7 @@ behopue:
   longitude: "9.3"
 belebu balacha: 
   city: belebu balacha
-  accentcity: "Beleb\xC3\xBA Balach\xC3\xA1"
+  accentcity: "Belebú Balach\xC3\xA1"
   region: "05"
   population: 
   latitude: "3.4"
@@ -2669,7 +2669,7 @@ besongo:
   longitude: "10.0833333"
 besu: 
   city: besu
-  accentcity: "Bes\xC3\xBA"
+  accentcity: "Besú"
   region: 08
   population: 
   latitude: "2.1666667"
@@ -3201,7 +3201,7 @@ bindola:
   longitude: "9.9333333"
 bindun: 
   city: bindun
-  accentcity: "Bind\xC3\xBAn"
+  accentcity: "Bindún"
   region: 08
   population: 
   latitude: "1.8666667"
@@ -3369,7 +3369,7 @@ bisega:
   longitude: "10.7"
 bisobinam: 
   city: bisobinam
-  accentcity: "Bis\xC3\xB3binam"
+  accentcity: "Bisóbinam"
   region: 09
   population: 
   latitude: "1.3166667"
@@ -3740,7 +3740,7 @@ bonyaambe:
   longitude: "9.75"
 boo: 
   city: boo
-  accentcity: "B\xC3\xB3o"
+  accentcity: "Bóo"
   region: 08
   population: 
   latitude: "1.8166667"
@@ -3761,7 +3761,7 @@ bososo:
   longitude: "8.8833333"
 botenos: 
   city: botenos
-  accentcity: "Boten\xC3\xB3s"
+  accentcity: "Botenós"
   region: "04"
   population: 
   latitude: "3.6666667"
@@ -4027,7 +4027,7 @@ compania:
   longitude: "10.3833333"
 concepcion: 
   city: concepcion
-  accentcity: "Concepci\xC3\xB3n"
+  accentcity: "Concepción"
   region: "05"
   population: 
   latitude: "3.3833333"
@@ -5182,7 +5182,7 @@ elonguambane:
   longitude: "9.3333333"
 elonguambani: 
   city: elonguambani
-  accentcity: "El\xC3\xB3nguamb\xC3\xA1ni"
+  accentcity: "Elónguamb\xC3\xA1ni"
   region: 08
   population: 
   latitude: "0.9333333"
@@ -5196,7 +5196,7 @@ elonsam:
   longitude: "10.6666667"
 elosoc: 
   city: elosoc
-  accentcity: "El\xC3\xB3soc"
+  accentcity: "Elósoc"
   region: 09
   population: 
   latitude: "1.5"
@@ -6484,7 +6484,7 @@ laca:
   longitude: "9.7166667"
 la concepcion: 
   city: la concepcion
-  accentcity: "La Concepci\xC3\xB3n"
+  accentcity: "La Concepción"
   region: "05"
   population: 
   latitude: "3.3833333"
@@ -8185,7 +8185,7 @@ mengui:
   longitude: "11.3"
 menvo: 
   city: menvo
-  accentcity: "Menv\xC3\xB3"
+  accentcity: "Menvó"
   region: 09
   population: 
   latitude: "1.8333333"
@@ -8325,7 +8325,7 @@ mfene:
   longitude: "11.05"
 mfua: 
   city: mfua
-  accentcity: "Mf\xC3\xBAa"
+  accentcity: "Mfúa"
   region: "07"
   population: 
   latitude: "1.8833333"
@@ -8668,7 +8668,7 @@ midyimitom:
   longitude: "10.6833333"
 midyimiton: 
   city: midyimiton
-  accentcity: "Midyimit\xC3\xB3n"
+  accentcity: "Midyimitón"
   region: "07"
   population: 
   latitude: "2.1333333"
@@ -9200,7 +9200,7 @@ molon:
   longitude: "10.55"
 momvo: 
   city: momvo
-  accentcity: "Momv\xC3\xB3"
+  accentcity: "Momvó"
   region: 09
   population: 
   latitude: "1.8333333"
@@ -9249,7 +9249,7 @@ mongomo:
   longitude: "11.3166667"
 mongo: 
   city: mongo
-  accentcity: "Mong\xC3\xB3"
+  accentcity: "Mongó"
   region: "07"
   population: 
   latitude: "1.8666667"
@@ -9298,7 +9298,7 @@ monung:
   longitude: "10.0833333"
 monyo: 
   city: monyo
-  accentcity: "Mony\xC3\xB3"
+  accentcity: "Monyó"
   region: "07"
   population: 
   latitude: "2.0833333"
@@ -9375,14 +9375,14 @@ moume:
   longitude: "9.6"
 movo: 
   city: movo
-  accentcity: "Mov\xC3\xB3"
+  accentcity: "Movó"
   region: 08
   population: 
   latitude: "1.15"
   longitude: "9.6166667"
 moyo: 
   city: moyo
-  accentcity: "Moy\xC3\xB3"
+  accentcity: "Moyó"
   region: "07"
   population: 
   latitude: "2.0833333"
@@ -10530,7 +10530,7 @@ ngang:
   longitude: "11.2"
 ngoacua: 
   city: ngoacua
-  accentcity: "Ngoac\xC3\xBAa"
+  accentcity: "Ngoacúa"
   region: "07"
   population: 
   latitude: "2.1333333"
@@ -10845,7 +10845,7 @@ nguotnsoc:
   longitude: "9.85"
 niabiguo: 
   city: niabiguo
-  accentcity: "Niabigu\xC3\xB3"
+  accentcity: "Niabiguó"
   region: 08
   population: 
   latitude: "1.8"
@@ -11230,7 +11230,7 @@ nkoro:
   longitude: "10.8333333"
 nkue mision: 
   city: nkue mision
-  accentcity: "Nkue Misi\xC3\xB3n"
+  accentcity: "Nkue Misión"
   region: "07"
   population: 
   latitude: "2.0166667"
@@ -12042,7 +12042,7 @@ ocuama:
   longitude: "10.4666667"
 ocua: 
   city: ocua
-  accentcity: "Oc\xC3\xBAa"
+  accentcity: "Ocúa"
   region: "07"
   population: 
   latitude: "2.1166667"
@@ -13043,7 +13043,7 @@ soue:
   longitude: "9.3"
 sua: 
   city: sua
-  accentcity: "S\xC3\xBAa"
+  accentcity: "Súa"
   region: "06"
   population: 
   latitude: "0.9833333"
@@ -13092,7 +13092,7 @@ tek:
   longitude: "10.0"
 temelon: 
   city: temelon
-  accentcity: "Temel\xC3\xB3n"
+  accentcity: "Temelón"
   region: "07"
   population: 
   latitude: "1.9333333"

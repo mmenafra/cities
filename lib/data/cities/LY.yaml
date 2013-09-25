@@ -3642,7 +3642,7 @@ bishr:
   longitude: "19.2166667"
 bordi sleman: 
   city: bordi sleman
-  accentcity: "B\xC3\xB3rdi Slem\xC3\xA1n"
+  accentcity: "Bórdi Slem\xC3\xA1n"
   region: "42"
   population: 
   latitude: "31.7666667"
@@ -3950,7 +3950,7 @@ caminus:
   longitude: "20.0155556"
 cammun: 
   city: cammun
-  accentcity: "Camm\xC3\xBAn"
+  accentcity: "Cammún"
   region: "57"
   population: 
   latitude: "32.1375"
@@ -3992,7 +3992,7 @@ chadra:
   longitude: "21.7833333"
 chalfun: 
   city: chalfun
-  accentcity: "Chalf\xC3\xBAn"
+  accentcity: "Chalfún"
   region: "50"
   population: 
   latitude: "32.6055556"
@@ -4216,7 +4216,7 @@ de martino:
   longitude: "21.9075"
 dennun: 
   city: dennun
-  accentcity: "Denn\xC3\xBAn"
+  accentcity: "Dennún"
   region: "57"
   population: 
   latitude: "32.1119444"
@@ -4692,7 +4692,7 @@ el-corratia:
   longitude: "13.9019444"
 el-croma: 
   city: el-croma
-  accentcity: "El-Cr\xC3\xB3ma"
+  accentcity: "El-Cróma"
   region: "62"
   population: 
   latitude: "31.8636111"
@@ -4755,7 +4755,7 @@ el-fogar:
   longitude: "13.1666667"
 el fogha: 
   city: el fogha
-  accentcity: "El F\xC3\xB3gha"
+  accentcity: "El Fógha"
   region: "18"
   population: 
   latitude: "31.7833333"
@@ -4930,14 +4930,14 @@ el giaafra:
   longitude: "13.2833333"
 el-giagbub: 
   city: el-giagbub
-  accentcity: "El-Giagb\xC3\xBAb"
+  accentcity: "El-Giagbúb"
   region: "42"
   population: 
   latitude: "29.75"
   longitude: "24.5166667"
 el-giof: 
   city: el-giof
-  accentcity: "El-Gi\xC3\xB3f"
+  accentcity: "El-Gióf"
   region: 08
   population: 
   latitude: "24.2"
@@ -4979,14 +4979,14 @@ el-gorda:
   longitude: "14.0166667"
 el gordah: 
   city: el gordah
-  accentcity: "El G\xC3\xB3rdah"
+  accentcity: "El Górdah"
   region: "13"
   population: 
   latitude: "27.4833333"
   longitude: "14.0166667"
 el-gotta: 
   city: el-gotta
-  accentcity: "El-G\xC3\xB3tta"
+  accentcity: "El-Gótta"
   region: "13"
   population: 
   latitude: "27.5333333"
@@ -5028,7 +5028,7 @@ el guasem:
   longitude: "12.2166667"
 el-gubba: 
   city: el-gubba
-  accentcity: "El-G\xC3\xBAbba"
+  accentcity: "El-Gúbba"
   region: "11"
   population: 
   latitude: "32.7666667"
@@ -5525,7 +5525,7 @@ esc sciueref:
   longitude: "14.2666667"
 esc-sciurruf: 
   city: esc-sciurruf
-  accentcity: "Esc-Sci\xC3\xBArruf"
+  accentcity: "Esc-Sciúrruf"
   region: "27"
   population: 
   latitude: "32.5833333"
@@ -5651,7 +5651,7 @@ et tassahma:
   longitude: "13.6333333"
 et-tobga: 
   city: et-tobga
-  accentcity: "Et-T\xC3\xB3bga"
+  accentcity: "Et-Tóbga"
   region: "29"
   population: 
   latitude: "30.4333333"
@@ -5798,42 +5798,42 @@ fiorita:
   longitude: "22.2833333"
 fogaha: 
   city: fogaha
-  accentcity: "F\xC3\xB3gaha"
+  accentcity: "Fógaha"
   region: "05"
   population: 
   latitude: "27.8333333"
   longitude: "16.35"
 fondugh ben gascir: 
   city: fondugh ben gascir
-  accentcity: "F\xC3\xB3ndugh Ben Gasc\xC3\xADr"
+  accentcity: "Fóndugh Ben Gasc\xC3\xADr"
   region: "61"
   population: 
   latitude: "32.6877778"
   longitude: "13.1738889"
 fondugh el-allus: 
   city: fondugh el-allus
-  accentcity: "F\xC3\xB3ndugh el-All\xC3\xBAs"
+  accentcity: "Fóndugh el-Allús"
   region: "50"
   population: 
   latitude: "32.7097222"
   longitude: "13.94"
 fondugh el-giahsc: 
   city: fondugh el-giahsc
-  accentcity: "F\xC3\xB3ndugh el-Giahsc"
+  accentcity: "Fóndugh el-Giahsc"
   region: "10"
   population: 
   latitude: "32.7333333"
   longitude: "13.8333333"
 fondugh en-naggaza: 
   city: fondugh en-naggaza
-  accentcity: "F\xC3\xB3ndugh en-Nagg\xC3\xA1za"
+  accentcity: "Fóndugh en-Nagg\xC3\xA1za"
   region: "50"
   population: 
   latitude: "32.7"
   longitude: "14.0666667"
 fondugh esc-scebani: 
   city: fondugh esc-scebani
-  accentcity: "F\xC3\xB3ndugh esc-Sceb\xC3\xA1ni"
+  accentcity: "Fóndugh esc-Sceb\xC3\xA1ni"
   region: "03"
   population: 
   latitude: "32.3833333"
@@ -6064,7 +6064,7 @@ gasr berruru:
   longitude: "13.75"
 gasr cambut: 
   city: gasr cambut
-  accentcity: "Gasr Camb\xC3\xBAt"
+  accentcity: "Gasr Cambút"
   region: "42"
   population: 
   latitude: "31.9"
@@ -6134,7 +6134,7 @@ gasr gambut:
   longitude: "24.4833333"
 gasr garabulli: 
   city: gasr garabulli
-  accentcity: "Gasr Garab\xC3\xBAlli"
+  accentcity: "Gasr Garabúlli"
   region: "10"
   population: 
   latitude: "32.75"
@@ -6183,7 +6183,7 @@ gasr tarhuna:
   longitude: "13.6333333"
 gasr tecut: 
   city: gasr tecut
-  accentcity: "Gasr Tec\xC3\xBAt"
+  accentcity: "Gasr Tecút"
   region: "56"
   population: 
   latitude: "31.9619444"
@@ -6498,7 +6498,7 @@ giarfet:
   longitude: "12.7038889"
 giarruta: 
   city: giarruta
-  accentcity: "Giarr\xC3\xBAta"
+  accentcity: "Giarrúta"
   region: "32"
   population: 
   latitude: "31.8166667"
@@ -6568,14 +6568,14 @@ gorda:
   longitude: "14.0166667"
 gotros: 
   city: gotros
-  accentcity: "G\xC3\xB3tros"
+  accentcity: "Gótros"
   region: "56"
   population: 
   latitude: "31.8569444"
   longitude: "11.7647222"
 gotta: 
   city: gotta
-  accentcity: "G\xC3\xB3tta"
+  accentcity: "Gótta"
   region: "13"
   population: 
   latitude: "27.5333333"
@@ -6673,14 +6673,14 @@ gureine:
   longitude: "21.8622222"
 gurghi: 
   city: gurghi
-  accentcity: "G\xC3\xBArghi"
+  accentcity: "Gúrghi"
   region: "61"
   population: 
   latitude: "32.8666667"
   longitude: "13.15"
 gurgi: 
   city: gurgi
-  accentcity: "G\xC3\xBArgi"
+  accentcity: "Gúrgi"
   region: "61"
   population: 
   latitude: "32.8666667"
@@ -7331,7 +7331,7 @@ lahmidiyah:
   longitude: "13.3908333"
 lalut: 
   city: lalut
-  accentcity: "Lal\xC3\xBAt"
+  accentcity: "Lalút"
   region: "56"
   population: 
   latitude: "31.8683333"
@@ -7730,7 +7730,7 @@ martubah:
   longitude: "22.7666667"
 martuba: 
   city: martuba
-  accentcity: "Mart\xC3\xBAba"
+  accentcity: "Martúba"
   region: "55"
   population: 
   latitude: "32.5833333"
@@ -11146,7 +11146,7 @@ sidi `ali:
   longitude: "13.7"
 sidi amed el magrun: 
   city: sidi amed el magrun
-  accentcity: "Sidi Am\xC3\xA9d el Magr\xC3\xBAn"
+  accentcity: "Sidi Am\xC3\xA9d el Magrún"
   region: "54"
   population: 
   latitude: "31.4416667"
@@ -11251,7 +11251,7 @@ sidi magrun:
   longitude: "20.1580556"
 sidi mahius: 
   city: sidi mahius
-  accentcity: "S\xC3\xADdi Mahi\xC3\xBAs"
+  accentcity: "S\xC3\xADdi Mahiús"
   region: "02"
   population: 
   latitude: "32.25"
@@ -11349,7 +11349,7 @@ slontah:
   longitude: "21.7158333"
 slonta: 
   city: slonta
-  accentcity: "Sl\xC3\xB3nta"
+  accentcity: "Slónta"
   region: "49"
   population: 
   latitude: "32.5902778"
@@ -11412,7 +11412,7 @@ suani ben adem:
   longitude: "13.0763889"
 suani gurgi: 
   city: suani gurgi
-  accentcity: "Su\xC3\xA1ni G\xC3\xBArgi"
+  accentcity: "Su\xC3\xA1ni Gúrgi"
   region: "61"
   population: 
   latitude: "32.8666667"
@@ -11447,7 +11447,7 @@ sugh el giumaa:
   longitude: "13.2333333"
 sugh el-giumaa: 
   city: sugh el-giumaa
-  accentcity: "Sugh el-Gi\xC3\xBAmaa"
+  accentcity: "Sugh el-Giúmaa"
   region: "45"
   population: 
   latitude: "32.4666667"
@@ -12070,7 +12070,7 @@ tbadut:
   longitude: "12.9619444"
 tebadut: 
   city: tebadut
-  accentcity: "Tebad\xC3\xBAt"
+  accentcity: "Tebadút"
   region: "57"
   population: 
   latitude: "32.0930556"
@@ -12378,7 +12378,7 @@ tobga:
   longitude: "13.3166667"
 tobruch: 
   city: tobruch
-  accentcity: "T\xC3\xB3bruch"
+  accentcity: "Tóbruch"
   region: "42"
   population: 
   latitude: "32.0836111"
@@ -12399,7 +12399,7 @@ tobruk:
   longitude: "23.9763889"
 tocra: 
   city: tocra
-  accentcity: "T\xC3\xB3cra"
+  accentcity: "Tócra"
   region: "43"
   population: 
   latitude: "32.5333333"
@@ -12553,14 +12553,14 @@ tuosc:
   longitude: "13.0833333"
 tuose: 
   city: tuose
-  accentcity: "Tu\xC3\xB3se"
+  accentcity: "Tuóse"
   region: "52"
   population: 
   latitude: "26.5333333"
   longitude: "13.0833333"
 tuschin: 
   city: tuschin
-  accentcity: "T\xC3\xBAschin"
+  accentcity: "Túschin"
   region: "52"
   population: 
   latitude: "26.5833333"
@@ -12658,7 +12658,7 @@ ulad abd el-gelil:
   longitude: "12.1333333"
 ulad abd el-mola: 
   city: ulad abd el-mola
-  accentcity: "Ulad Abd el-M\xC3\xB3la"
+  accentcity: "Ulad Abd el-Móla"
   region: "62"
   population: 
   latitude: "32.0838889"
@@ -12672,7 +12672,7 @@ ulad ali:
   longitude: "12.3738889"
 ulad amor: 
   city: ulad amor
-  accentcity: "Ulad Am\xC3\xB3r"
+  accentcity: "Ulad Amór"
   region: "57"
   population: 
   latitude: "32.1311111"
@@ -12756,14 +12756,14 @@ ulad isa:
   longitude: "12.6894444"
 ulad iusef: 
   city: ulad iusef
-  accentcity: "Ul\xC3\xA0d I\xC3\xBAsef"
+  accentcity: "Ul\xC3\xA0d Iúsef"
   region: "62"
   population: 
   latitude: "32.0705556"
   longitude: "12.6819444"
 ulad mahmud: 
   city: ulad mahmud
-  accentcity: "Ul\xC3\xA1d Mahm\xC3\xBAd"
+  accentcity: "Ul\xC3\xA1d Mahmúd"
   region: "56"
   population: 
   latitude: "31.8325"
@@ -13358,7 +13358,7 @@ zauiet umm hafein:
   longitude: "23.0833333"
 zauiet umm rucba: 
   city: zauiet umm rucba
-  accentcity: "Z\xC3\xA1uiet Umm R\xC3\xBAcba"
+  accentcity: "Z\xC3\xA1uiet Umm Rúcba"
   region: "42"
   population: 
   latitude: "31.9333333"

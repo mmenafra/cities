@@ -86,14 +86,14 @@ achinde:
   longitude: "-15.9666667"
 acnu: 
   city: acnu
-  accentcity: "Acn\xC3\xBA"
+  accentcity: "Acnú"
   region: "06"
   population: 
   latitude: "11.4833333"
   longitude: "-15.9166667"
 acoco: 
   city: acoco
-  accentcity: "Ac\xC3\xB4c\xC3\xB3"
+  accentcity: "Ac\xC3\xB4có"
   region: "06"
   population: 
   latitude: "11.4666667"
@@ -926,7 +926,7 @@ anonho:
   longitude: "-16.15"
 anora: 
   city: anora
-  accentcity: "An\xC3\xB3ra"
+  accentcity: "Anóra"
   region: "06"
   population: 
   latitude: "11.0666667"
@@ -1164,7 +1164,7 @@ bacar jau:
   longitude: "-14.45"
 bacar julere: 
   city: bacar julere
-  accentcity: "B\xC3\xA1car J\xC3\xBAler\xC3\xA8"
+  accentcity: "B\xC3\xA1car Júler\xC3\xA8"
   region: "10"
   population: 
   latitude: "12.2833333"
@@ -1815,7 +1815,7 @@ bangansia:
   longitude: "-14.6"
 bangomine: 
   city: bangomine
-  accentcity: "Bang\xC3\xB3min\xC3\xA8"
+  accentcity: "Bangómin\xC3\xA8"
   region: "06"
   population: 
   latitude: "12.2333333"
@@ -2060,7 +2060,7 @@ bantanto:
   longitude: "-14.15"
 bantanto bato: 
   city: bantanto bato
-  accentcity: "Bantanto Bat\xC3\xB3"
+  accentcity: "Bantanto Bató"
   region: "10"
   population: 
   latitude: "12.1833333"
@@ -2214,7 +2214,7 @@ barraca begoa:
   longitude: "-16.1322222"
 barraca biro: 
   city: barraca biro
-  accentcity: "Barraca Bir\xC3\xB3"
+  accentcity: "Barraca Biró"
   region: "06"
   population: 
   latitude: "12.4333333"
@@ -2410,7 +2410,7 @@ batio:
   longitude: "-16.1"
 batucar: 
   city: batucar
-  accentcity: "Bat\xC3\xBAcar"
+  accentcity: "Batúcar"
   region: "06"
   population: 
   latitude: "11.9833333"
@@ -2760,7 +2760,7 @@ beracobato:
   longitude: "-15.0536111"
 beraco: 
   city: beraco
-  accentcity: "Berac\xC3\xB3"
+  accentcity: "Beracó"
   region: "04"
   population: 
   latitude: "12.2333333"
@@ -2830,7 +2830,7 @@ berecobato:
   longitude: "-15.0536111"
 berecodim: 
   city: berecodim
-  accentcity: "Berec\xC3\xB3dim"
+  accentcity: "Berecódim"
   region: "04"
   population: 
   latitude: "12.3911111"
@@ -3257,7 +3257,7 @@ bilonque:
   longitude: "-14.2166667"
 binaco: 
   city: binaco
-  accentcity: "Binac\xC3\xB3"
+  accentcity: "Binacó"
   region: "04"
   population: 
   latitude: "12.4333333"
@@ -3432,7 +3432,7 @@ binte:
   longitude: "-16.2333333"
 biogate: 
   city: biogate
-  accentcity: "Bi\xC3\xB3gate"
+  accentcity: "Biógate"
   region: "06"
   population: 
   latitude: "12.1213889"
@@ -3684,7 +3684,7 @@ bissilao:
   longitude: "-14.8"
 bissoi: 
   city: bissoi
-  accentcity: "Biss\xC3\xB3i"
+  accentcity: "Bissói"
   region: "06"
   population: 
   latitude: "11.9666667"
@@ -4104,7 +4104,7 @@ bolel samba:
   longitude: "-15.0666667"
 bolo: 
   city: bolo
-  accentcity: "B\xC3\xB3l\xC3\xB4"
+  accentcity: "Ból\xC3\xB4"
   region: "04"
   population: 
   latitude: "11.9"
@@ -4223,7 +4223,7 @@ bora:
   longitude: "-14.6666667"
 bor: 
   city: bor
-  accentcity: "B\xC3\xB3r"
+  accentcity: "Bór"
   region: "11"
   population: 
   latitude: "11.85"
@@ -4258,7 +4258,7 @@ bote:
   longitude: "-16.3"
 boto: 
   city: boto
-  accentcity: "Bot\xC3\xB3"
+  accentcity: "Botó"
   region: "06"
   population: 
   latitude: "12.1833333"
@@ -4482,7 +4482,7 @@ bubaquer:
   longitude: "-15.8333333"
 buba tombo: 
   city: buba tombo
-  accentcity: "Buba Tomb\xC3\xB3"
+  accentcity: "Buba Tombó"
   region: "02"
   population: 
   latitude: "11.65"
@@ -4895,7 +4895,7 @@ bunglar:
   longitude: "-15.7166667"
 bungote: 
   city: bungote
-  accentcity: "Bung\xC3\xB3t\xC3\xA8"
+  accentcity: "Bungót\xC3\xA8"
   region: "04"
   population: 
   latitude: "11.5"
@@ -4944,7 +4944,7 @@ buntusum:
   longitude: "-14.7"
 buoli: 
   city: buoli
-  accentcity: "Bu\xC3\xB3li"
+  accentcity: "Buóli"
   region: "04"
   population: 
   latitude: "12.1333333"
@@ -5287,7 +5287,7 @@ cabele uale:
   longitude: "-14.95"
 cabelole nalu: 
   city: cabelole nalu
-  accentcity: "Cabelole Nal\xC3\xBA"
+  accentcity: "Cabelole Nalú"
   region: "07"
   population: 
   latitude: "11.35"
@@ -5749,7 +5749,7 @@ cacoca:
   longitude: "-14.9166667"
 cacondo: 
   city: cacondo
-  accentcity: "Cacond\xC3\xB3"
+  accentcity: "Cacondó"
   region: "04"
   population: 
   latitude: "11.3333333"
@@ -5875,7 +5875,7 @@ caduna:
   longitude: "-16.1833333"
 cadunco: 
   city: cadunco
-  accentcity: "Cadunc\xC3\xB3"
+  accentcity: "Caduncó"
   region: "10"
   population: 
   latitude: "12.15"
@@ -6036,7 +6036,7 @@ caianteco:
   longitude: "-14.9"
 caiantico: 
   city: caiantico
-  accentcity: "Caiantic\xC3\xB3"
+  accentcity: "Caianticó"
   region: "04"
   population: 
   latitude: "11.1166667"
@@ -6078,7 +6078,7 @@ ca iero sane:
   longitude: "-14.5833333"
 caio: 
   city: caio
-  accentcity: "Cai\xC3\xB3"
+  accentcity: "Caió"
   region: "06"
   population: 
   latitude: "11.9333333"
@@ -6183,7 +6183,7 @@ cajoque:
   longitude: "-16.2722222"
 ca julio: 
   city: ca julio
-  accentcity: "C\xC3\xA3 J\xC3\xBAlio"
+  accentcity: "C\xC3\xA3 Júlio"
   region: "04"
   population: 
   latitude: "11.7833333"
@@ -6351,7 +6351,7 @@ calicunda:
   longitude: "-14.3666667"
 california: 
   city: california
-  accentcity: "Calif\xC3\xB3rnia"
+  accentcity: "Califórnia"
   region: "06"
   population: 
   latitude: "11.9166667"
@@ -6484,7 +6484,7 @@ camalija:
   longitude: "-14.05"
 camalija so: 
   city: camalija so
-  accentcity: "Camalij\xC3\xA0 S\xC3\xB3"
+  accentcity: "Camalij\xC3\xA0 Só"
   region: "10"
   population: 
   latitude: "12.5333333"
@@ -6890,7 +6890,7 @@ cam fate:
   longitude: "-14.6833333"
 cam guiro: 
   city: cam guiro
-  accentcity: "Cam Guir\xC3\xB3"
+  accentcity: "Cam Guiró"
   region: "10"
   population: 
   latitude: "12.0333333"
@@ -7065,7 +7065,7 @@ campanhe bleque:
   longitude: "-16.1166667"
 campano: 
   city: campano
-  accentcity: "Campan\xC3\xB3"
+  accentcity: "Campanó"
   region: "01"
   population: 
   latitude: "12.2666667"
@@ -7408,7 +7408,7 @@ canconte:
   longitude: "-14.85"
 cancrico: 
   city: cancrico
-  accentcity: "Cancric\xC3\xB3"
+  accentcity: "Cancricó"
   region: "04"
   population: 
   latitude: "12.4141667"
@@ -7471,7 +7471,7 @@ cancuncal:
   longitude: "-15.9627778"
 cancunco: 
   city: cancunco
-  accentcity: "Cancunc\xC3\xB3"
+  accentcity: "Cancuncó"
   region: "04"
   population: 
   latitude: "12.355"
@@ -7667,7 +7667,7 @@ canefaque:
   longitude: "-15.0333333"
 canema bijago: 
   city: canema bijago
-  accentcity: "Canema Bijag\xC3\xB3"
+  accentcity: "Canema Bijagó"
   region: "05"
   population: 
   latitude: "11.5666667"
@@ -7765,14 +7765,14 @@ cangide:
   longitude: "-14.3333333"
 canguiro: 
   city: canguiro
-  accentcity: "Canguir\xC3\xB3"
+  accentcity: "Canguiró"
   region: "10"
   population: 
   latitude: "12.0333333"
   longitude: "-14.15"
 cangurdo: 
   city: cangurdo
-  accentcity: "Cangurd\xC3\xB3"
+  accentcity: "Cangurdó"
   region: "10"
   population: 
   latitude: "12.2166667"
@@ -7877,14 +7877,14 @@ cani:
   longitude: "-14.1166667"
 canico: 
   city: canico
-  accentcity: "Canic\xC3\xB3"
+  accentcity: "Canicó"
   region: "04"
   population: 
   latitude: "12.2716667"
   longitude: "-15.3675"
 canico tumana: 
   city: canico tumana
-  accentcity: "Canic\xC3\xB3 Tuman\xC3\xA1"
+  accentcity: "Canicó Tuman\xC3\xA1"
   region: "04"
   population: 
   latitude: "12.5222222"
@@ -8178,7 +8178,7 @@ cansambo:
   longitude: "-14.8666667"
 cansanco: 
   city: cansanco
-  accentcity: "Cansanc\xC3\xB3"
+  accentcity: "Cansancó"
   region: "04"
   population: 
   latitude: "12.3405556"
@@ -8220,7 +8220,7 @@ cansisse:
   longitude: "-14.3666667"
 cansoco mandinga: 
   city: cansoco mandinga
-  accentcity: "Cansoc\xC3\xB3 Mandinga"
+  accentcity: "Cansocó Mandinga"
   region: "04"
   population: 
   latitude: "12.3333333"
@@ -8241,7 +8241,7 @@ cansonco:
   longitude: "-15.3"
 cansonco fula: 
   city: cansonco fula
-  accentcity: "Cansonc\xC3\xB3 Fula"
+  accentcity: "Cansoncó Fula"
   region: "04"
   population: 
   latitude: "12.3405556"
@@ -8269,7 +8269,7 @@ cantabao segundo:
   longitude: "-15.3"
 cantaco: 
   city: cantaco
-  accentcity: "Cantac\xC3\xB3"
+  accentcity: "Cantacó"
   region: "04"
   population: 
   latitude: "12.3677778"
@@ -8507,7 +8507,7 @@ capetequite:
   longitude: "-15.0833333"
 capo: 
   city: capo
-  accentcity: "Cap\xC3\xB3"
+  accentcity: "Capó"
   region: "06"
   population: 
   latitude: "12.2227778"
@@ -8598,7 +8598,7 @@ carabeli:
   longitude: "-14.2166667"
 caramaco: 
   city: caramaco
-  accentcity: "Caramac\xC3\xB3"
+  accentcity: "Caramacó"
   region: "04"
   population: 
   latitude: "11.9166667"
@@ -8682,7 +8682,7 @@ caronca:
   longitude: "-16.0333333"
 carungal: 
   city: carungal
-  accentcity: "Car\xC3\xBAngal"
+  accentcity: "Carúngal"
   region: "06"
   population: 
   latitude: "11.95"
@@ -9179,7 +9179,7 @@ catifine:
   longitude: "-15.1666667"
 catio: 
   city: catio
-  accentcity: "Cati\xC3\xB3"
+  accentcity: "Catió"
   region: "07"
   population: "9898"
   latitude: "11.2833333"
@@ -9305,7 +9305,7 @@ caumechinque:
   longitude: "-15.1"
 cauna: 
   city: cauna
-  accentcity: "Ca\xC3\xBAna"
+  accentcity: "Caúna"
   region: "10"
   population: 
   latitude: "12.6666667"
@@ -9396,14 +9396,14 @@ causso:
   longitude: "-16.3041667"
 cenico: 
   city: cenico
-  accentcity: "Cenic\xC3\xB3"
+  accentcity: "Cenicó"
   region: "04"
   population: 
   latitude: "12.4566667"
   longitude: "-15.3511111"
 cepo: 
   city: cepo
-  accentcity: "Cep\xC3\xB3"
+  accentcity: "Cepó"
   region: "06"
   population: 
   latitude: "12.2227778"
@@ -9858,7 +9858,7 @@ chugue:
   longitude: "-15.1166667"
 chulame: 
   city: chulame
-  accentcity: "Ch\xC3\xBAlame"
+  accentcity: "Chúlame"
   region: "06"
   population: 
   latitude: "12.1055556"
@@ -9984,7 +9984,7 @@ cobete:
   longitude: "-14.5833333"
 cobeto: 
   city: cobeto
-  accentcity: "C\xC3\xB3bet\xC3\xB4"
+  accentcity: "Cóbet\xC3\xB4"
   region: "04"
   population: 
   latitude: "12.55"
@@ -10026,21 +10026,21 @@ cocari:
   longitude: "-14.2333333"
 co: 
   city: co
-  accentcity: "C\xC3\xB3"
+  accentcity: "Có"
   region: "06"
   population: 
   latitude: "12.0833333"
   longitude: "-15.8"
 coco: 
   city: coco
-  accentcity: "C\xC3\xB3c\xC3\xB2"
+  accentcity: "Cóc\xC3\xB2"
   region: "11"
   population: 
   latitude: "11.8833333"
   longitude: "-15.5833333"
 code: 
   city: code
-  accentcity: "C\xC3\xB3d\xC3\xA8"
+  accentcity: "Cód\xC3\xA8"
   region: "10"
   population: 
   latitude: "12.4333333"
@@ -10187,7 +10187,7 @@ colimansacunda:
   longitude: "-15.2275"
 colimolo: 
   city: colimolo
-  accentcity: "Colimol\xC3\xB3"
+  accentcity: "Colimoló"
   region: "01"
   population: 
   latitude: "12.0166667"
@@ -10257,14 +10257,14 @@ colonia:
   longitude: "-15.45"
 colonia de baixo: 
   city: colonia de baixo
-  accentcity: "Col\xC3\xB3nia de Baixo"
+  accentcity: "Colónia de Baixo"
   region: "05"
   population: 
   latitude: "11.5666667"
   longitude: "-15.45"
 colonia de cima: 
   city: colonia de cima
-  accentcity: "Col\xC3\xB3nia de Cima"
+  accentcity: "Colónia de Cima"
   region: "05"
   population: 
   latitude: "11.5833333"
@@ -10383,7 +10383,7 @@ conico:
   longitude: "-15.3675"
 consanco fula: 
   city: consanco fula
-  accentcity: "Consanc\xC3\xB3 Fula"
+  accentcity: "Consancó Fula"
   region: "04"
   population: 
   latitude: "12.3405556"
@@ -10432,7 +10432,7 @@ contuba el:
   longitude: "-14.5666667"
 contubo: 
   city: contubo
-  accentcity: "Contub\xC3\xB3"
+  accentcity: "Contubó"
   region: "04"
   population: 
   latitude: "12.0688889"
@@ -10474,21 +10474,21 @@ contumo:
   longitude: "-15.6166667"
 copa: 
   city: copa
-  accentcity: "C\xC3\xB3p\xC3\xA0"
+  accentcity: "Cóp\xC3\xA0"
   region: "10"
   population: 
   latitude: "12.55"
   longitude: "-14.2333333"
 copa sule: 
   city: copa sule
-  accentcity: "C\xC3\xB3p\xC3\xA0 Sul\xC3\xA8"
+  accentcity: "Cóp\xC3\xA0 Sul\xC3\xA8"
   region: "10"
   population: 
   latitude: "12.5166667"
   longitude: "-14.2166667"
 copiro: 
   city: copiro
-  accentcity: "Copir\xC3\xB3"
+  accentcity: "Copiró"
   region: "10"
   population: 
   latitude: "12.35"
@@ -10810,7 +10810,7 @@ cuiane:
   longitude: "-16.0166667"
 cuio: 
   city: cuio
-  accentcity: "Cui\xC3\xB3"
+  accentcity: "Cuió"
   region: "11"
   population: 
   latitude: "11.9"
@@ -10999,7 +10999,7 @@ cuncosita:
   longitude: "-14.5666667"
 cundara: 
   city: cundara
-  accentcity: "C\xC3\xBAndara"
+  accentcity: "Cúndara"
   region: "10"
   population: 
   latitude: "12.4833333"
@@ -11111,7 +11111,7 @@ curdia:
   longitude: "-14.9"
 curijago: 
   city: curijago
-  accentcity: "Curijag\xC3\xB3"
+  accentcity: "Curijagó"
   region: "07"
   population: 
   latitude: "11.2166667"
@@ -11531,7 +11531,7 @@ demba arabo:
   longitude: "-14.55"
 demba baio: 
   city: demba baio
-  accentcity: "Demba Bai\xC3\xB3"
+  accentcity: "Demba Baió"
   region: "04"
   population: 
   latitude: "12.5"
@@ -11559,7 +11559,7 @@ demba chaje:
   longitude: "-14.75"
 dembaco toba: 
   city: dembaco toba
-  accentcity: "Dembac\xC3\xB3 Tob\xC3\xA1"
+  accentcity: "Dembacó Tob\xC3\xA1"
   region: "04"
   population: 
   latitude: "11.9666667"
@@ -11699,14 +11699,14 @@ dembanje:
   longitude: "-14.75"
 demba so: 
   city: demba so
-  accentcity: "Demba S\xC3\xB3"
+  accentcity: "Demba Só"
   region: "04"
   population: 
   latitude: "12.3333333"
   longitude: "-15.1680556"
 dembasso: 
   city: dembasso
-  accentcity: "Dembass\xC3\xB3"
+  accentcity: "Dembassó"
   region: "04"
   population: 
   latitude: "12.3333333"
@@ -11755,7 +11755,7 @@ dembel jumpora:
   longitude: "-14.65"
 dembel molo: 
   city: dembel molo
-  accentcity: "Dembel M\xC3\xB3l\xC3\xB4"
+  accentcity: "Dembel Mól\xC3\xB4"
   region: "04"
   population: 
   latitude: "11.75"
@@ -11930,7 +11930,7 @@ djanha:
   longitude: "-14.7833333"
 djobico: 
   city: djobico
-  accentcity: "Djobic\xC3\xB3"
+  accentcity: "Djobicó"
   region: "04"
   population: 
   latitude: "12.5794444"
@@ -12098,7 +12098,7 @@ dumbogoi:
   longitude: "-15.05"
 dumbu: 
   city: dumbu
-  accentcity: "Dumb\xC3\xBA"
+  accentcity: "Dumbú"
   region: "04"
   population: 
   latitude: "12.6166667"
@@ -12168,7 +12168,7 @@ dutajara:
   longitude: "-14.3833333"
 dutato: 
   city: dutato
-  accentcity: "Dutat\xC3\xB3"
+  accentcity: "Dutató"
   region: "04"
   population: 
   latitude: "12.3347222"
@@ -12448,7 +12448,7 @@ ensalma:
   longitude: "-15.6333333"
 ensumete: 
   city: ensumete
-  accentcity: "Ens\xC3\xBAmete"
+  accentcity: "Ensúmete"
   region: "04"
   population: 
   latitude: "12.2111111"
@@ -12511,7 +12511,7 @@ equinar:
   longitude: "-16.3833333"
 erinhoco: 
   city: erinhoco
-  accentcity: "Erinh\xC3\xB3co"
+  accentcity: "Erinhóco"
   region: "06"
   population: 
   latitude: "11.0666667"
@@ -12623,7 +12623,7 @@ fa:
   longitude: "-14.8166667"
 fafaco: 
   city: fafaco
-  accentcity: "Fafac\xC3\xB3"
+  accentcity: "Fafacó"
   region: "10"
   population: 
   latitude: "12.35"
@@ -12896,21 +12896,21 @@ farina:
   longitude: "-14.2166667"
 farinco: 
   city: farinco
-  accentcity: "Farinc\xC3\xB3"
+  accentcity: "Farincó"
   region: "04"
   population: 
   latitude: "12.5166667"
   longitude: "-14.9333333"
 farinco fula: 
   city: farinco fula
-  accentcity: "Farinc\xC3\xB3 Fula"
+  accentcity: "Farincó Fula"
   region: "04"
   population: 
   latitude: "12.6005556"
   longitude: "-15.2247222"
 farinco mandinga: 
   city: farinco mandinga
-  accentcity: "Farinc\xC3\xB3 Mandinga"
+  accentcity: "Farincó Mandinga"
   region: "04"
   population: 
   latitude: "12.5922222"
@@ -12952,21 +12952,21 @@ fasse:
   longitude: "-14.3666667"
 fataco fula: 
   city: fataco fula
-  accentcity: "Fatac\xC3\xB3 Fula"
+  accentcity: "Fatacó Fula"
   region: "04"
   population: 
   latitude: "12.5"
   longitude: "-14.5833333"
 fataco fulbe: 
   city: fataco fulbe
-  accentcity: "Fatac\xC3\xB3 Fulbe"
+  accentcity: "Fatacó Fulbe"
   region: "04"
   population: 
   latitude: "12.5"
   longitude: "-14.5833333"
 fataco mandinga: 
   city: fataco mandinga
-  accentcity: "Fatac\xC3\xB3 Mandinga"
+  accentcity: "Fatacó Mandinga"
   region: "04"
   population: 
   latitude: "12.5"
@@ -13421,14 +13421,14 @@ gabissau:
   longitude: "-15.0"
 gabu: 
   city: gabu
-  accentcity: "Gab\xC3\xBA"
+  accentcity: "Gabú"
   region: "10"
   population: "14430"
   latitude: "12.2833333"
   longitude: "-14.2166667"
 gabu-sara: 
   city: gabu-sara
-  accentcity: "Gab\xC3\xBA-Sara"
+  accentcity: "Gabú-Sara"
   region: "10"
   population: 
   latitude: "12.2833333"
@@ -13456,7 +13456,7 @@ ga chiquinho mancanha:
   longitude: "-15.2666667"
 ga crico: 
   city: ga crico
-  accentcity: "G\xC3\xA3 Cric\xC3\xB3"
+  accentcity: "G\xC3\xA3 Cricó"
   region: "04"
   population: 
   latitude: "12.4141667"
@@ -13498,7 +13498,7 @@ gadamael porto:
   longitude: "-14.8833333"
 ga eugenia bijago: 
   city: ga eugenia bijago
-  accentcity: "G\xC3\xA3 Eug\xC3\xA9nia Bijag\xC3\xB3"
+  accentcity: "G\xC3\xA3 Eug\xC3\xA9nia Bijagó"
   region: "05"
   population: 
   latitude: "11.5166667"
@@ -13533,7 +13533,7 @@ ga gemeos:
   longitude: "-14.8833333"
 ga gregorio: 
   city: ga gregorio
-  accentcity: "G\xC3\xA3 Greg\xC3\xB3rio"
+  accentcity: "G\xC3\xA3 Gregório"
   region: "04"
   population: 
   latitude: "11.75"
@@ -13575,7 +13575,7 @@ ga juliana:
   longitude: "-15.4333333"
 ga julio: 
   city: ga julio
-  accentcity: "G\xC3\xA3 J\xC3\xBAlio"
+  accentcity: "G\xC3\xA3 Júlio"
   region: "04"
   population: 
   latitude: "11.7833333"
@@ -13932,7 +13932,7 @@ gam mamadu:
   longitude: "-14.7333333"
 gam mamudu: 
   city: gam mamudu
-  accentcity: "Gam Mam\xC3\xBAd\xC3\xBA"
+  accentcity: "Gam Mamúdú"
   region: "04"
   population: 
   latitude: "11.7666667"
@@ -14142,7 +14142,7 @@ gandembel:
   longitude: "-14.8"
 gandenos: 
   city: gandenos
-  accentcity: "Ganden\xC3\xB3s"
+  accentcity: "Gandenós"
   region: "05"
   population: 
   latitude: "11.4166667"
@@ -14387,7 +14387,7 @@ gantene:
   longitude: "-15.3666667"
 gantongo: 
   city: gantongo
-  accentcity: "Gantong\xC3\xB3"
+  accentcity: "Gantongó"
   region: "05"
   population: 
   latitude: "11.65"
@@ -14443,7 +14443,7 @@ garsene:
   longitude: "-15.1833333"
 ga saude: 
   city: ga saude
-  accentcity: "G\xC3\xA3 Sa\xC3\xBAde"
+  accentcity: "G\xC3\xA3 Saúde"
   region: "05"
   population: 
   latitude: "11.6666667"
@@ -14527,7 +14527,7 @@ gengelem:
   longitude: "-14.65"
 genico: 
   city: genico
-  accentcity: "Genic\xC3\xB3"
+  accentcity: "Genicó"
   region: "04"
   population: 
   latitude: "12.45"
@@ -14961,7 +14961,7 @@ gunal:
   longitude: "-15.7894444"
 gunco: 
   city: gunco
-  accentcity: "Gunc\xC3\xB3"
+  accentcity: "Guncó"
   region: "06"
   population: 
   latitude: "12.1833333"
@@ -15423,7 +15423,7 @@ imbunga:
   longitude: "-15.0833333"
 imilo: 
   city: imilo
-  accentcity: "Imil\xC3\xB3"
+  accentcity: "Imiló"
   region: "01"
   population: 
   latitude: "12.0833333"
@@ -15458,7 +15458,7 @@ impele:
   longitude: "-15.65"
 impungueda: 
   city: impungueda
-  accentcity: "Imp\xC3\xBAngueda"
+  accentcity: "Impúngueda"
   region: "07"
   population: 
   latitude: "11.2833333"
@@ -15969,7 +15969,7 @@ jabia:
   longitude: "-14.15"
 jabico: 
   city: jabico
-  accentcity: "Jabic\xC3\xB3"
+  accentcity: "Jabicó"
   region: "04"
   population: 
   latitude: "12.5794444"
@@ -16452,7 +16452,7 @@ jobonhama:
   longitude: "-14.7333333"
 jogro: 
   city: jogro
-  accentcity: "Jogr\xC3\xB3"
+  accentcity: "Jogró"
   region: "12"
   population: 
   latitude: "11.85"
@@ -16536,7 +16536,7 @@ jopa:
   longitude: "-15.9494444"
 joro: 
   city: joro
-  accentcity: "J\xC3\xB3r\xC3\xB2"
+  accentcity: "Jór\xC3\xB2"
   region: "02"
   population: 
   latitude: "11.6333333"
@@ -16690,7 +16690,7 @@ lala:
   longitude: "-16.4486111"
 lali buaro: 
   city: lali buaro
-  accentcity: "L\xC3\xA0li Bu\xC3\xA0r\xC3\xB3"
+  accentcity: "L\xC3\xA0li Bu\xC3\xA0ró"
   region: "04"
   population: 
   latitude: "11.7333333"
@@ -17131,7 +17131,7 @@ madina bacar:
   longitude: "-14.2"
 madina bailobe: 
   city: madina bailobe
-  accentcity: "Madina Bail\xC3\xB3b\xC3\xA8"
+  accentcity: "Madina Bailób\xC3\xA8"
   region: "10"
   population: 
   latitude: "12.2666667"
@@ -17187,7 +17187,7 @@ madina boe:
   longitude: "-14.3166667"
 madina budi: 
   city: madina budi
-  accentcity: "Madina B\xC3\xBAdi"
+  accentcity: "Madina Búdi"
   region: "10"
   population: 
   latitude: "12.5833333"
@@ -17691,7 +17691,7 @@ mamadi:
   longitude: "-14.65"
 mamadu molo: 
   city: mamadu molo
-  accentcity: "Mamadu M\xC3\xB3l\xC3\xB4"
+  accentcity: "Mamadu Mól\xC3\xB4"
   region: "10"
   population: 
   latitude: "12.35"
@@ -17754,7 +17754,7 @@ mampata bacirgo:
   longitude: "-14.6166667"
 mampata dulo: 
   city: mampata dulo
-  accentcity: "Mampat\xC3\xA1 Dul\xC3\xB3"
+  accentcity: "Mampat\xC3\xA1 Duló"
   region: "10"
   population: 
   latitude: "12.3"
@@ -18307,7 +18307,7 @@ massa:
   longitude: "-14.7833333"
 mata de uco: 
   city: mata de uco
-  accentcity: "Mata de Uc\xC3\xB3"
+  accentcity: "Mata de Ucó"
   region: "06"
   population: 
   latitude: "12.1516667"
@@ -18419,7 +18419,7 @@ maunde cande:
   longitude: "-14.3666667"
 maunde meta: 
   city: maunde meta
-  accentcity: "Ma\xC3\xBAnd\xC3\xA8 Meta"
+  accentcity: "Maúnd\xC3\xA8 Meta"
   region: "01"
   population: 
   latitude: "12.15"
@@ -18629,7 +18629,7 @@ missira de baixo:
   longitude: "-14.65"
 missira janco: 
   city: missira janco
-  accentcity: "Missir\xC3\xA1 Janc\xC3\xB3"
+  accentcity: "Missir\xC3\xA1 Jancó"
   region: "04"
   population: 
   latitude: "12.6166667"
@@ -18699,7 +18699,7 @@ mone:
   longitude: "-15.4577778"
 moni: 
   city: moni
-  accentcity: "M\xC3\xB3ni"
+  accentcity: "Móni"
   region: "04"
   population: 
   latitude: "12.2655556"
@@ -18916,7 +18916,7 @@ nauanhe:
   longitude: "-15.3333333"
 nemanaco: 
   city: nemanaco
-  accentcity: "Nemanac\xC3\xB3"
+  accentcity: "Nemanacó"
   region: "04"
   population: 
   latitude: "12.2708333"
@@ -18951,7 +18951,7 @@ nencama:
   longitude: "-15.1833333"
 neneco: 
   city: neneco
-  accentcity: "Nenec\xC3\xB3"
+  accentcity: "Nenecó"
   region: "06"
   population: 
   latitude: "12.4833333"
@@ -19469,7 +19469,7 @@ noni:
   longitude: "-14.6333333"
 nonodala: 
   city: nonodala
-  accentcity: "N\xC3\xB2n\xC3\xB3dala"
+  accentcity: "N\xC3\xB2nódala"
   region: "10"
   population: 
   latitude: "12.45"
@@ -19497,7 +19497,7 @@ norobantam:
   longitude: "-15.0527778"
 nova co: 
   city: nova co
-  accentcity: "Nova C\xC3\xB3"
+  accentcity: "Nova Có"
   region: "11"
   population: 
   latitude: "11.85"
@@ -19686,7 +19686,7 @@ ongore:
   longitude: "-15.7611111"
 ongoro: 
   city: ongoro
-  accentcity: "Ongor\xC3\xB3"
+  accentcity: "Ongoró"
   region: "06"
   population: 
   latitude: "12.3666667"
@@ -19756,7 +19756,7 @@ orobode:
   longitude: "-13.8833333"
 ossadu: 
   city: ossadu
-  accentcity: "Ossad\xC3\xBA"
+  accentcity: "Ossadú"
   region: "04"
   population: 
   latitude: "11.75"
@@ -20463,7 +20463,7 @@ pecnife:
   longitude: "-16.1844444"
 pecomale: 
   city: pecomale
-  accentcity: "Pec\xC3\xB3male"
+  accentcity: "Pecómale"
   region: "06"
   population: 
   latitude: "11.95"
@@ -20988,7 +20988,7 @@ pobreza:
   longitude: "-15.3333333"
 pofa: 
   city: pofa
-  accentcity: "P\xC3\xB3fa"
+  accentcity: "Pófa"
   region: "10"
   population: 
   latitude: "12.3166667"
@@ -21037,7 +21037,7 @@ polibaque:
   longitude: "-15.2833333"
 ponate: 
   city: ponate
-  accentcity: "P\xC3\xB3nate"
+  accentcity: "Pónate"
   region: "06"
   population: 
   latitude: "12.1691667"
@@ -21296,7 +21296,7 @@ ponta caetano teixeira:
   longitude: "-15.65"
 ponta california: 
   city: ponta california
-  accentcity: "Ponta Calif\xC3\xB3rnia"
+  accentcity: "Ponta Califórnia"
   region: "06"
   population: 
   latitude: "11.9166667"
@@ -21471,7 +21471,7 @@ ponta fortuna:
   longitude: "-15.7333333"
 ponta francisco araujo: 
   city: ponta francisco araujo
-  accentcity: "Ponta Francisco Ara\xC3\xBAjo"
+  accentcity: "Ponta Francisco Araújo"
   region: "06"
   population: 
   latitude: "12.05"
@@ -21534,7 +21534,7 @@ ponta guerra:
   longitude: "-14.5666667"
 ponta honorio: 
   city: ponta honorio
-  accentcity: "Ponta Hon\xC3\xB3rio"
+  accentcity: "Ponta Honório"
   region: "12"
   population: 
   latitude: "11.8166667"
@@ -21849,7 +21849,7 @@ ponta pinto:
   longitude: "-15.1833333"
 ponta ponate: 
   city: ponta ponate
-  accentcity: "Ponta P\xC3\xB3nate"
+  accentcity: "Ponta Pónate"
   region: "06"
   population: 
   latitude: "12.1833333"
@@ -21975,7 +21975,7 @@ ponta tinta:
   longitude: "-15.2666667"
 ponta tojo: 
   city: ponta tojo
-  accentcity: "Ponta Toj\xC3\xB3"
+  accentcity: "Ponta Tojó"
   region: "06"
   population: 
   latitude: "11.8333333"
@@ -22066,7 +22066,7 @@ ponte do corubal:
   longitude: "-14.85"
 ponte movel: 
   city: ponte movel
-  accentcity: "Ponte M\xC3\xB3vel"
+  accentcity: "Ponte Móvel"
   region: "04"
   population: 
   latitude: "11.9833333"
@@ -22094,7 +22094,7 @@ pontia:
   longitude: "-15.5833333"
 popoje: 
   city: popoje
-  accentcity: "Pop\xC3\xB3j\xC3\xA8"
+  accentcity: "Popój\xC3\xA8"
   region: "10"
   population: 
   latitude: "12.6666667"
@@ -22318,7 +22318,7 @@ purenha:
   longitude: "-14.6166667"
 puromala: 
   city: puromala
-  accentcity: "Pur\xC3\xB3mala"
+  accentcity: "Purómala"
   region: "04"
   population: 
   latitude: "11.5166667"
@@ -22339,7 +22339,7 @@ quebaca:
   longitude: "-16.0166667"
 quebaco: 
   city: quebaco
-  accentcity: "Quebac\xC3\xB3"
+  accentcity: "Quebacó"
   region: "04"
   population: 
   latitude: "12.6386111"
@@ -22521,14 +22521,14 @@ quenhequenheto:
   longitude: "-15.2166667"
 quenheto: 
   city: quenheto
-  accentcity: "Quenhet\xC3\xB3"
+  accentcity: "Quenhetó"
   region: "01"
   population: 
   latitude: "12.1166667"
   longitude: "-14.7666667"
 quentico: 
   city: quentico
-  accentcity: "Quentic\xC3\xB3"
+  accentcity: "Quenticó"
   region: "04"
   population: 
   latitude: "12.1"
@@ -23942,7 +23942,7 @@ same cuia:
   longitude: "-14.5666667"
 same maudo: 
   city: same maudo
-  accentcity: "Sam\xC3\xA9 Ma\xC3\xBAdo"
+  accentcity: "Sam\xC3\xA9 Maúdo"
   region: "01"
   population: 
   latitude: "12.2666667"
@@ -24075,7 +24075,7 @@ sancaba:
   longitude: "-14.1833333"
 sancalanco: 
   city: sancalanco
-  accentcity: "Sancalanc\xC3\xB3"
+  accentcity: "Sancalancó"
   region: "04"
   population: 
   latitude: "12.5266667"
@@ -24390,7 +24390,7 @@ santarem:
   longitude: "-15.69"
 santo antonio: 
   city: santo antonio
-  accentcity: "Santo Ant\xC3\xB3nio"
+  accentcity: "Santo António"
   region: "04"
   population: 
   latitude: "12.05"
@@ -24404,7 +24404,7 @@ sanuma:
   longitude: "-14.5333333"
 sanu: 
   city: sanu
-  accentcity: "San\xC3\xBA"
+  accentcity: "Sanú"
   region: "06"
   population: 
   latitude: "12.4383333"
@@ -24586,7 +24586,7 @@ sare alabato:
   longitude: "-14.95"
 sare alio: 
   city: sare alio
-  accentcity: "Sar\xC3\xA9 Ali\xC3\xB3"
+  accentcity: "Sar\xC3\xA9 Alió"
   region: "04"
   population: 
   latitude: "12.6666667"
@@ -24754,7 +24754,7 @@ sare biro:
   longitude: "-14.6333333"
 sare bobo: 
   city: sare bobo
-  accentcity: "Sare B\xC3\xB3bo"
+  accentcity: "Sare Bóbo"
   region: "10"
   population: 
   latitude: "12.65"
@@ -24936,7 +24936,7 @@ sare delo maunde:
   longitude: "-14.3"
 sare delo: 
   city: sare delo
-  accentcity: "S\xC3\xA1r\xC3\xA8 D\xC3\xA8l\xC3\xB3"
+  accentcity: "S\xC3\xA1r\xC3\xA8 D\xC3\xA8ló"
   region: "10"
   population: 
   latitude: "12.35"
@@ -25167,7 +25167,7 @@ sare ioba cande:
   longitude: "-14.95"
 sare ioba: 
   city: sare ioba
-  accentcity: "Sare I\xC3\xB3b\xC3\xA0"
+  accentcity: "Sare Iób\xC3\xA0"
   region: "10"
   population: 
   latitude: "12.5833333"
@@ -25230,7 +25230,7 @@ sare jambara:
   longitude: "-14.8166667"
 sare janco: 
   city: sare janco
-  accentcity: "Sare Janc\xC3\xB3"
+  accentcity: "Sare Jancó"
   region: "04"
   population: 
   latitude: "12.5166667"
@@ -25454,7 +25454,7 @@ sare mori:
   longitude: "-14.1166667"
 sare morso: 
   city: sare morso
-  accentcity: "Sare M\xC3\xB3rs\xC3\xB4"
+  accentcity: "Sare Mórs\xC3\xB4"
   region: "04"
   population: 
   latitude: "11.3666667"
@@ -25587,7 +25587,7 @@ sare saco:
   longitude: "-14.8666667"
 sare sago: 
   city: sare sago
-  accentcity: "Sare Sag\xC3\xB3"
+  accentcity: "Sare Sagó"
   region: "04"
   population: 
   latitude: "12.4833333"
@@ -26595,7 +26595,7 @@ sincha bojel:
   longitude: "-14.5666667"
 sincha bojo: 
   city: sincha bojo
-  accentcity: "Sinch\xC3\xA3 B\xC3\xB3j\xC3\xB2"
+  accentcity: "Sinch\xC3\xA3 Bój\xC3\xB2"
   region: "10"
   population: 
   latitude: "12.4166667"
@@ -26686,7 +26686,7 @@ sincha buco:
   longitude: "-15.0"
 sincha budi: 
   city: sincha budi
-  accentcity: "Sinch\xC3\xA3 B\xC3\xBAdi"
+  accentcity: "Sinch\xC3\xA3 Búdi"
   region: "10"
   population: 
   latitude: "12.5833333"
@@ -26714,7 +26714,7 @@ sincha bumi:
   longitude: "-14.7"
 sincha buquel: 
   city: sincha buquel
-  accentcity: "Sinch\xC3\xA3 B\xC3\xBAquel"
+  accentcity: "Sinch\xC3\xA3 Búquel"
   region: "01"
   population: 
   latitude: "12.2"
@@ -26798,7 +26798,7 @@ sincha campata:
   longitude: "-14.6666667"
 sincha camune: 
   city: sincha camune
-  accentcity: "Sinch\xC3\xA3 Cam\xC3\xBAn\xC3\xA8"
+  accentcity: "Sinch\xC3\xA3 Camún\xC3\xA8"
   region: "04"
   population: 
   latitude: "12.4666667"
@@ -26875,7 +26875,7 @@ sincha cibo:
   longitude: "-14.35"
 sincha coba: 
   city: sincha coba
-  accentcity: "Sinch\xC3\xA3 C\xC3\xB3b\xC3\xA0"
+  accentcity: "Sinch\xC3\xA3 Cób\xC3\xA0"
   region: "10"
   population: 
   latitude: "12.6"
@@ -27190,7 +27190,7 @@ sincha doma:
   longitude: "-14.35"
 sincha dua: 
   city: sincha dua
-  accentcity: "Sinch\xC3\xA3 D\xC3\xBA\xC3\xA0"
+  accentcity: "Sinch\xC3\xA3 Dú\xC3\xA0"
   region: "04"
   population: 
   latitude: "12.4666667"
@@ -27225,7 +27225,7 @@ sincha duloiel:
   longitude: "-14.55"
 sincha dulo: 
   city: sincha dulo
-  accentcity: "Sinch\xC3\xA3 D\xC3\xBAl\xC3\xB2"
+  accentcity: "Sinch\xC3\xA3 Dúl\xC3\xB2"
   region: "10"
   population: 
   latitude: "12.4833333"
@@ -27575,7 +27575,7 @@ sincha iero maro:
   longitude: "-14.8166667"
 sincha iero molo: 
   city: sincha iero molo
-  accentcity: "Sinch\xC3\xA3 Iero M\xC3\xB3l\xC3\xB4"
+  accentcity: "Sinch\xC3\xA3 Iero Mól\xC3\xB4"
   region: "10"
   population: 
   latitude: "12.3"
@@ -27617,7 +27617,7 @@ sincha infali:
   longitude: "-14.8333333"
 sincha ioba: 
   city: sincha ioba
-  accentcity: "Sinch\xC3\xA3 I\xC3\xB3b\xC3\xA0"
+  accentcity: "Sinch\xC3\xA3 Iób\xC3\xA0"
   region: "10"
   population: 
   latitude: "12.3666667"
@@ -27771,7 +27771,7 @@ sincha jome:
   longitude: "-13.9"
 sincha jote: 
   city: sincha jote
-  accentcity: "Sinch\xC3\xA3 J\xC3\xB3t\xC3\xA8"
+  accentcity: "Sinch\xC3\xA3 Jót\xC3\xA8"
   region: "10"
   population: 
   latitude: "12.5"
@@ -27855,7 +27855,7 @@ sincha lenque:
   longitude: "-14.5666667"
 sincha lenqueto: 
   city: sincha lenqueto
-  accentcity: "Sinch\xC3\xA3 Lenquet\xC3\xB3"
+  accentcity: "Sinch\xC3\xA3 Lenquetó"
   region: "10"
   population: 
   latitude: "12.4"
@@ -28051,7 +28051,7 @@ sincha massa:
   longitude: "-14.9"
 sincha maudo: 
   city: sincha maudo
-  accentcity: "Sinch\xC3\xA3 Ma\xC3\xBAdo"
+  accentcity: "Sinch\xC3\xA3 Maúdo"
   region: "01"
   population: 
   latitude: "12.2666667"
@@ -28128,7 +28128,7 @@ sincha molele:
   longitude: "-14.3"
 sincha molo: 
   city: sincha molo
-  accentcity: "Sinch\xC3\xA3 M\xC3\xB3l\xC3\xB2"
+  accentcity: "Sinch\xC3\xA3 Mól\xC3\xB2"
   region: "10"
   population: 
   latitude: "12.5666667"
@@ -28226,7 +28226,7 @@ sincha nhobo:
   longitude: "-14.6666667"
 sincha nhonco: 
   city: sincha nhonco
-  accentcity: "Sinch\xC3\xA3 Nhonc\xC3\xB3"
+  accentcity: "Sinch\xC3\xA3 Nhoncó"
   region: "10"
   population: 
   latitude: "12.5"
@@ -28534,7 +28534,7 @@ sincha samba ia:
   longitude: "-14.2166667"
 sincha samba ioba: 
   city: sincha samba ioba
-  accentcity: "Sinch\xC3\xA3 Samba I\xC3\xB3b\xC3\xA0"
+  accentcity: "Sinch\xC3\xA3 Samba Iób\xC3\xA0"
   region: "10"
   population: 
   latitude: "12.3333333"
@@ -28779,7 +28779,7 @@ sincha:
   longitude: "-15.2333333"
 sincha solo: 
   city: sincha solo
-  accentcity: "Sinch\xC3\xA3 S\xC3\xB3l\xC3\xB2"
+  accentcity: "Sinch\xC3\xA3 Sól\xC3\xB2"
   region: "04"
   population: 
   latitude: "12.55"
@@ -28989,7 +28989,7 @@ sincha ulo:
   longitude: "-14.3"
 sincha ulu: 
   city: sincha ulu
-  accentcity: "Sinch\xC3\xA3 Ul\xC3\xBA"
+  accentcity: "Sinch\xC3\xA3 Ulú"
   region: "10"
   population: 
   latitude: "12.4333333"
@@ -29479,7 +29479,7 @@ sudo legal:
   longitude: "-14.1333333"
 sudootro: 
   city: sudootro
-  accentcity: "Sudo\xC3\xB3tro"
+  accentcity: "Sudoótro"
   region: "04"
   population: 
   latitude: "11.7833333"
@@ -29514,7 +29514,7 @@ sulococo:
   longitude: "-14.85"
 suluco: 
   city: suluco
-  accentcity: "Suluc\xC3\xB3"
+  accentcity: "Sulucó"
   region: "04"
   population: 
   latitude: "12.5833333"
@@ -29640,7 +29640,7 @@ sutuba:
   longitude: "-14.3"
 sutuco: 
   city: sutuco
-  accentcity: "Sutuc\xC3\xB3"
+  accentcity: "Sutucó"
   region: "10"
   population: 
   latitude: "12.2666667"
@@ -29654,7 +29654,7 @@ sutumaca:
   longitude: "-14.0666667"
 suume: 
   city: suume
-  accentcity: "Su\xC3\xBAme"
+  accentcity: "Suúme"
   region: "04"
   population: 
   latitude: "12.0383333"
@@ -29675,7 +29675,7 @@ suzana:
   longitude: "-16.4744444"
 tabaco: 
   city: tabaco
-  accentcity: "Tabac\xC3\xB3"
+  accentcity: "Tabacó"
   region: "04"
   population: 
   latitude: "12.4333333"
@@ -29759,14 +29759,14 @@ tabassi:
   longitude: "-14.1166667"
 tabato: 
   city: tabato
-  accentcity: "Tabat\xC3\xB3"
+  accentcity: "Tabató"
   region: "04"
   population: 
   latitude: "11.5833333"
   longitude: "-14.6833333"
 tabauma: 
   city: tabauma
-  accentcity: "Taba\xC3\xBAma"
+  accentcity: "Tabaúma"
   region: "04"
   population: 
   latitude: "12.5166667"
@@ -29822,7 +29822,7 @@ talata:
   longitude: "-14.8"
 talico: 
   city: talico
-  accentcity: "Talic\xC3\xB3"
+  accentcity: "Talicó"
   region: "04"
   population: 
   latitude: "12.2113889"
@@ -29836,7 +29836,7 @@ taliuara:
   longitude: "-14.9333333"
 talto: 
   city: talto
-  accentcity: "Talt\xC3\xB3"
+  accentcity: "Taltó"
   region: "04"
   population: 
   latitude: "12.4833333"
@@ -29899,7 +29899,7 @@ tambaio:
   longitude: "-15.2588889"
 tambambofa: 
   city: tambambofa
-  accentcity: "Tambamb\xC3\xB3fa"
+  accentcity: "Tambambófa"
   region: "04"
   population: 
   latitude: "11.2"
@@ -29927,7 +29927,7 @@ tambato:
   longitude: "-15.2588889"
 tambico: 
   city: tambico
-  accentcity: "Tambic\xC3\xB3"
+  accentcity: "Tambicó"
   region: "04"
   population: 
   latitude: "12.4363889"
@@ -30102,7 +30102,7 @@ tel:
   longitude: "-15.9333333"
 temambu: 
   city: temambu
-  accentcity: "Temamb\xC3\xBA"
+  accentcity: "Temambú"
   region: "06"
   population: 
   latitude: "11.9666667"
@@ -30158,7 +30158,7 @@ tencolom:
   longitude: "-14.5833333"
 tenco: 
   city: tenco
-  accentcity: "Tenc\xC3\xB3"
+  accentcity: "Tencó"
   region: "04"
   population: 
   latitude: "12.45"
@@ -30270,7 +30270,7 @@ timbinto:
   longitude: "-14.5333333"
 timbo: 
   city: timbo
-  accentcity: "Timb\xC3\xB3"
+  accentcity: "Timbó"
   region: "07"
   population: 
   latitude: "11.4166667"
@@ -30382,7 +30382,7 @@ toroje:
   longitude: "-14.9166667"
 tor: 
   city: tor
-  accentcity: "T\xC3\xB3r"
+  accentcity: "Tór"
   region: "12"
   population: 
   latitude: "11.85"
@@ -30928,7 +30928,7 @@ uenquem:
   longitude: "-15.4280556"
 uensaco: 
   city: uensaco
-  accentcity: "Uensac\xC3\xB3"
+  accentcity: "Uensacó"
   region: "04"
   population: 
   latitude: "12.6316667"
@@ -31257,7 +31257,7 @@ uncire:
   longitude: "-14.3666667"
 uncomene: 
   city: uncomene
-  accentcity: "Unc\xC3\xB3men\xC3\xA8"
+  accentcity: "Uncómen\xC3\xA8"
   region: "07"
   population: 
   latitude: "11.2166667"
@@ -31551,7 +31551,7 @@ vendu leidi:
   longitude: "-13.7166667"
 vensaco: 
   city: vensaco
-  accentcity: "Vensac\xC3\xB3"
+  accentcity: "Vensacó"
   region: "04"
   population: 
   latitude: "12.6316667"
