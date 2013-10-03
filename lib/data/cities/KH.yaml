@@ -957,7 +957,7 @@ bat deng:
 bat dong: 
   city: "bat dong"
   accentcity: "Bat Dong"
-bat'eay: 
+bateay: 
   city: "bat'eay"
   accentcity: "Bat'eay"
 batheay: 
@@ -1005,7 +1005,7 @@ bek bak:
 bek chan: 
   city: "bek chan"
   accentcity: "Bek Chan"
-b'el: 
+bel: 
   city: "b'el"
   accentcity: "B'El"
 beng andeng: 
@@ -1203,7 +1203,7 @@ bu gieng:
 bu krong teh: 
   city: "bu krong teh"
   accentcity: "Bu Krong Teh"
-bu l'nghiem: 
+bu lnghiem: 
   city: "bu l'nghiem"
   accentcity: "Bu L'Nghiêm"
 bu ndrong: 
@@ -1686,7 +1686,7 @@ choeu teal:
 choeuteal kong: 
   city: "choeuteal kong"
   accentcity: "Choeuteal Kong"
-ch'o' kach: 
+cho kach: 
   city: "ch'o' kach"
   accentcity: "Ch'o' Kach"
 chombao rolum: 
@@ -1710,7 +1710,7 @@ chong cheach:
 chong kal: 
   city: "chong kal"
   accentcity: "Chong Kal"
-chong p'long: 
+chong plong: 
   city: "chong p'long"
   accentcity: "Ch\xC3\xB4ng P'l\xC3\xB4ng"
 chong prek: 
@@ -2175,7 +2175,7 @@ kakik:
 ka kos: 
   city: "ka kos"
   accentcity: "Ka Kos"
-k'alanh: 
+kalanh: 
   city: "k'alanh"
   accentcity: "K'alanh"
 kalapeas: 
@@ -2622,10 +2622,10 @@ kdak:
 "kda\xC2\x93ung": 
   city: "kda\xC2\x93ung"
   accentcity: "Kd\xC3\x85\xC2\x93ung"
-kdei k'vav: 
+kdei kvav: 
   city: "kdei k'vav"
   accentcity: "Kdei K'vav"
-kde k'vay: 
+kde kvay: 
   city: "kde k'vay"
   accentcity: "Kde K'vay"
 kdey dong: 
@@ -3012,7 +3012,7 @@ khum kampong chamlang:
 khum kampong os: 
   city: "khum kampong os"
   accentcity: "Khum Kampong Os"
-khum k'am samna kraom: 
+khum kam samna kraom: 
   city: "khum k'am samna kraom"
   accentcity: "Khum K'am Samna Kraom"
 khum kantouk: 
@@ -3645,7 +3645,7 @@ klong:
 kluon hac: 
   city: "kluon hac"
   accentcity: "Kluon Hac"
-k'mar: 
+kmar: 
   city: "k'mar"
   accentcity: "K'mar"
 kna: 
@@ -4044,7 +4044,7 @@ kompong preng:
 kompong prey proh: 
   city: "kompong prey proh"
   accentcity: "Kompong Prey Proh"
-kompong p'tong: 
+kompong ptong: 
   city: "kompong p'tong"
   accentcity: "Kompong P'tong"
 kompong-rau: 
@@ -5100,7 +5100,7 @@ oudong tramong:
 paao: 
   city: "paao"
   accentcity: "Paao"
-p'a av: 
+pa av: 
   city: "p'a av"
   accentcity: "P'a Av"
 pabos: 
@@ -5160,7 +5160,7 @@ pauleille:
 pay lay: 
   city: "pay lay"
   accentcity: "Pay Lay"
-p'dau chum: 
+pdau chum: 
   city: "p'dau chum"
   accentcity: "P'dau Chum"
 peak sneng chas: 
@@ -5286,7 +5286,7 @@ phar chambak:
 phat sanday: 
   city: "phat sanday"
   accentcity: "Phat Sanday"
-ph'av: 
+phav: 
   city: "ph'av"
   accentcity: "Ph'av"
 phek: 
@@ -7164,7 +7164,7 @@ phumi ampil krau:
 phumi ampil leu: 
   city: "phumi ampil leu"
   accentcity: "Phumi Ampil Leu"
-phumi ampil p'em: 
+phumi ampil pem: 
   city: "phumi ampil p'em"
   accentcity: "Phumi Ampil P'em"
 phumi ampil phaem: 
@@ -7413,7 +7413,7 @@ phumi angkaol:
 phumi angkar khmau: 
   city: "phumi angkar khmau"
   accentcity: "Phumi Angkar Khmau"
-phumi angk chang'er: 
+phumi angk changer: 
   city: "phumi angk chang'er"
   accentcity: "Phumi Angk Chang'er"
 phumi angk chey: 
@@ -7932,7 +7932,7 @@ phumi anlong thouon:
 phumi anlong thum: 
   city: "phumi anlong thum"
   accentcity: "Phumi Anlong Thum"
-phumi anlong th'uon: 
+phumi anlong thuon: 
   city: "phumi anlong th'uon"
   accentcity: "Phumi Anlong Th'uon"
 phumi anlong tien: 
@@ -8175,7 +8175,7 @@ phumi ansaom ak:
 phumi ansaom kaek: 
   city: "phumi ansaom kaek"
   accentcity: "Phumi Ansaom Kaek"
-phumi ansaom k'ek: 
+phumi ansaom kek: 
   city: "phumi ansaom k'ek"
   accentcity: "Phumi Ansaom K'ek"
 phumi ansaong: 
@@ -8937,7 +8937,7 @@ phumi banlach:
 phumi banla saet: 
   city: "phumi banla saet"
   accentcity: "Phumi Banla Saet"
-phumi banla s'et: 
+phumi banla set: 
   city: "phumi banla s'et"
   accentcity: "Phumi Banla S'et"
 phumi ban lay: 
@@ -9636,7 +9636,7 @@ phumi chambak kantrom:
 phumi chambak kaong: 
   city: "phumi chambak kaong"
   accentcity: "Phumi Chambak Kaong"
-phumi chambak k'e: 
+phumi chambak ke: 
   city: "phumi chambak k'e"
   accentcity: "Phumi Chambak K'e"
 phumi chambak khpoah: 
@@ -9657,7 +9657,7 @@ phumi chambak meas leu:
 phumi chambak meas: 
   city: "phumi chambak meas"
   accentcity: "Phumi Chambak Meas"
-phumi chambak p'em: 
+phumi chambak pem: 
   city: "phumi chambak p'em"
   accentcity: "Phumi Chambak P'em"
 phumi chambak phloah: 
@@ -9849,10 +9849,10 @@ phumi champuh kaek (2):
 phumi champuh kaek: 
   city: "phumi champuh kaek"
   accentcity: "Phumi Champuh Kaek"
-phumi champuh k'ek (1): 
+phumi champuh kek (1): 
   city: "phumi champuh k'ek (1)"
   accentcity: "Phumi Champuh K'ek (1)"
-phumi champuh k'ek (2): 
+phumi champuh kek (2): 
   city: "phumi champuh k'ek (2)"
   accentcity: "Phumi Champuh K'ek (2)"
 phumi chamrai: 
@@ -9885,7 +9885,7 @@ phumi cham yeam:
 phumi chanareang sei: 
   city: "phumi chanareang sei"
   accentcity: "Phumi Chanareang Sei"
-phumi chang'aeur leav: 
+phumi changaeur leav: 
   city: "phumi chang'aeur leav"
   accentcity: "Phumi Chang'aeur Leav"
 phumi chang chaeu: 
@@ -10167,7 +10167,7 @@ phumi cheay sbai (1):
 phumi cheay sbai: 
   city: "phumi cheay sbai"
   accentcity: "Phumi Cheay Sbai"
-phumi ch'eh: 
+phumi cheh: 
   city: "phumi ch'eh"
   accentcity: "Phumi Ch'eh"
 phumi chek (1): 
@@ -10332,7 +10332,7 @@ phumi chhaaeu thlan:
 phumi chhaeh: 
   city: "phumi chhaeh"
   accentcity: "Phumi Chhaeh"
-phumi chh'aeu thlan: 
+phumi chhaeu thlan: 
   city: "phumi chh'aeu thlan"
   accentcity: "Phumi Chh'aeu Thlan"
 "phumi chh'a\xC2\x93i\xC2\x86ng chumni": 
@@ -10368,13 +10368,13 @@ phumi chhay rumpoat:
 phumi chheb chas: 
   city: "phumi chheb chas"
   accentcity: "Phumi Chheb Chas"
-phumi chh'eh: 
+phumi chheh: 
   city: "phumi chh'eh"
   accentcity: "Phumi Chh'eh"
-phumi chh'en (1): 
+phumi chhen (1): 
   city: "phumi chh'en (1)"
   accentcity: "Phumi Chh'en (1)"
-phumi chh'en: 
+phumi chhen: 
   city: "phumi chh'en"
   accentcity: "Phumi Chh'en"
 phumi chhep chas: 
@@ -10695,7 +10695,7 @@ phumi choam molu:
 phumi choam: 
   city: "phumi choam"
   accentcity: "Phumi Choam"
-phumi choam pra'ab: 
+phumi choam praab: 
   city: "phumi choam pra'ab"
   accentcity: "Phumi Choam Pra'ab"
 phumi choam sla: 
@@ -10866,7 +10866,7 @@ phumi choury banteay:
 phumi choutreach: 
   city: "phumi choutreach"
   accentcity: "Phumi Choutreach"
-phumi chra'ak: 
+phumi chraak: 
   city: "phumi chra'ak"
   accentcity: "Phumi Chra'ak"
 phumi chrab kantuot: 
@@ -11430,7 +11430,7 @@ phumi damnak a ten:
 phumi damnak chang aeu: 
   city: "phumi damnak chang aeu"
   accentcity: "Phumi Damnak Chang Aeu"
-phumi damnak chang'aeur: 
+phumi damnak changaeur: 
   city: "phumi damnak chang'aeur"
   accentcity: "Phumi Damnak Chang'aeur"
 phumi damnak chasang: 
@@ -11892,7 +11892,7 @@ phumi don kev:
 "phumi don la\xC2\x93i\xC2\x86k (1)": 
   city: "phumi don la\xC2\x93i\xC2\x86k (1)"
   accentcity: "Phumi Don L\xC3\x85\xC2\x93\xC3\x8C\xC2\x86k (1)"
-phumi don l'a: 
+phumi don la: 
   city: "phumi don l'a"
   accentcity: "Phumi Don L'a"
 phumi don leb: 
@@ -12936,10 +12936,10 @@ phumi kamreng:
 phumi kamrieng: 
   city: "phumi kamrieng"
   accentcity: "Phumi Kamrieng"
-phumi k'am samna leu: 
+phumi kam samna leu: 
   city: "phumi k'am samna leu"
   accentcity: "Phumi K'am Samna Leu"
-phumi k'am samnar: 
+phumi kam samnar: 
   city: "phumi k'am samnar"
   accentcity: "Phumi K'am Samnar"
 phumi kamtech meas: 
@@ -13317,7 +13317,7 @@ phumi kaoh kapik:
 phumi kaoh kban: 
   city: "phumi kaoh kban"
   accentcity: "Phumi Kaoh Kban"
-phumi kaoh k'ek: 
+phumi kaoh kek: 
   city: "phumi kaoh k'ek"
   accentcity: "Phumi Kaoh K'ek"
 phumi kaoh ker: 
@@ -13635,7 +13635,7 @@ phumi kaol:
 phumi kaong kang: 
   city: "phumi kaong kang"
   accentcity: "Phumi Kaong Kang"
-phumi k'aong: 
+phumi kaong: 
   city: "phumi k'aong"
   accentcity: "Phumi K'aong"
 phumi kaong sre: 
@@ -13974,13 +13974,13 @@ phumi kean les:
 phumi kean romeat: 
   city: "phumi kean romeat"
   accentcity: "Phumi Kean Romeat"
-phumi k'ek: 
+phumi kek: 
   city: "phumi k'ek"
   accentcity: "Phumi K'ek"
-phumi k'ek pong: 
+phumi kek pong: 
   city: "phumi k'ek pong"
   accentcity: "Phumi K'ek Pong"
-phumi k'ek tum: 
+phumi kek tum: 
   city: "phumi k'ek tum"
   accentcity: "Phumi K'ek Tum"
 phumi kel: 
@@ -14007,7 +14007,7 @@ phumi kes chong nhai:
 phumi kes phaa: 
   city: "phumi kes phaa"
   accentcity: "Phumi Kes Phaa"
-phumi kes ph'ar: 
+phumi kes phar: 
   city: "phumi kes ph'ar"
   accentcity: "Phumi Kes Ph'ar"
 phumi ket chang: 
@@ -14442,7 +14442,7 @@ phumi khsach laet:
 phumi khsach leav: 
   city: "phumi khsach leav"
   accentcity: "Phumi Khsach Leav"
-phumi khsach l'et: 
+phumi khsach let: 
   city: "phumi khsach l'et"
   accentcity: "Phumi Khsach L'et"
 phumi khsach lob: 
@@ -14907,7 +14907,7 @@ phumi kong nang:
 phumi kong noy: 
   city: "phumi kong noy"
   accentcity: "Phumi Kong Noy"
-phumi kong p'a: 
+phumi kong pa: 
   city: "phumi kong p'a"
   accentcity: "Phumi Kong P'a"
 phumi kongpong: 
@@ -14931,7 +14931,7 @@ phumi konh pratong:
 phumi kon kaek: 
   city: "phumi kon kaek"
   accentcity: "Phumi Kon Kaek"
-phumi kon k'ek: 
+phumi kon kek: 
   city: "phumi kon k'ek"
   accentcity: "Phumi Kon K'ek"
 phumi kon koki: 
@@ -15072,7 +15072,7 @@ phumi kouk kanhchap:
 phumi kouk kduoch: 
   city: "phumi kouk kduoch"
   accentcity: "Phumi Kouk Kduoch"
-phumi kouk k'ek: 
+phumi kouk kek: 
   city: "phumi kouk k'ek"
   accentcity: "Phumi Kouk K'ek"
 phumi kouk khchak: 
@@ -15180,7 +15180,7 @@ phumi kouk nang:
 phumi kouk ngun: 
   city: "phumi kouk ngun"
   accentcity: "Phumi Kouk Ngun"
-phumi kouk ph'av: 
+phumi kouk phav: 
   city: "phumi kouk ph'av"
   accentcity: "Phumi Kouk Ph'av"
 "phumi kouk phcha\xC2\x93i\xC2\x86k": 
@@ -15855,7 +15855,7 @@ phumi krasang kruor:
 phumi krasang phaem: 
   city: "phumi krasang phaem"
   accentcity: "Phumi Krasang Phaem"
-phumi krasang ph'em: 
+phumi krasang phem: 
   city: "phumi krasang ph'em"
   accentcity: "Phumi Krasang Ph'em"
 phumi krasang: 
@@ -16089,7 +16089,7 @@ phumi laeung tuol:
 "phumi lak na\xC2\x93i\xC2\x86m": 
   city: "phumi lak na\xC2\x93i\xC2\x86m"
   accentcity: "Phumi Lak N\xC3\x85\xC2\x93\xC3\x8C\xC2\x86m"
-phumi l'ak: 
+phumi lak: 
   city: "phumi l'ak"
   accentcity: "Phumi L'ak"
 phumi lamdam: 
@@ -16110,7 +16110,7 @@ phumi lao tie:
 phumi la: 
   city: "phumi la"
   accentcity: "Phumi La"
-phumi l'a: 
+phumi la: 
   city: "phumi l'a"
   accentcity: "Phumi L'a"
 phumi lar edth: 
@@ -16206,7 +16206,7 @@ phumi lieb:
 phumi liep: 
   city: "phumi liep"
   accentcity: "Phumi Liep"
-phumi l'iet: 
+phumi liet: 
   city: "phumi l'iet"
   accentcity: "Phumi L'iet"
 phumi li nhun: 
@@ -16806,19 +16806,19 @@ phumi neak kruor:
 "phumi 'neak la\xC2\x93ang": 
   city: "phumi 'neak la\xC2\x93ang"
   accentcity: "Phumi 'Neak L\xC3\x85\xC2\x93ang"
-phumi 'neakta prachau: 
+phumi neakta prachau: 
   city: "phumi 'neakta prachau"
   accentcity: "Phumi 'Neakta Prachau"
-phumi 'neakta pramroy: 
+phumi neakta pramroy: 
   city: "phumi 'neakta pramroy"
   accentcity: "Phumi 'Neakta Pramroy"
 "phumi 'neakta sna\xC2\x93i\xC2\x86ng": 
   city: "phumi 'neakta sna\xC2\x93i\xC2\x86ng"
   accentcity: "Phumi 'Neakta Sn\xC3\x85\xC2\x93\xC3\x8C\xC2\x86ng"
-phumi 'neakta tvea: 
+phumi neakta tvea: 
   city: "phumi 'neakta tvea"
   accentcity: "Phumi 'Neakta Tvea"
-phumi 'neak veang: 
+phumi neak veang: 
   city: "phumi 'neak veang"
   accentcity: "Phumi 'Neak Veang"
 phumi neal: 
@@ -17691,13 +17691,13 @@ phumi phabang:
 phumi phaiu: 
   city: "phumi phaiu"
   accentcity: "Phumi Phaiu"
-phumi ph'ak: 
+phumi phak: 
   city: "phumi ph'ak"
   accentcity: "Phumi Ph'ak"
 phumi phanbang: 
   city: "phumi phanbang"
   accentcity: "Phumi Phanbang"
-phumi ph'ang: 
+phumi phang: 
   city: "phumi ph'ang"
   accentcity: "Phumi Ph'ang"
 phumi phanum leav: 
@@ -17718,7 +17718,7 @@ phumi phat sanday (1):
 phumi phat sanday (2): 
   city: "phumi phat sanday (2)"
   accentcity: "Phumi Phat Sanday (2)"
-phumi ph'av: 
+phumi phav: 
   city: "phumi ph'av"
   accentcity: "Phumi Ph'av"
 phumi phav: 
@@ -18069,7 +18069,7 @@ phumi phteah sdok:
 phumi phtoul: 
   city: "phumi phtoul"
   accentcity: "Phumi Phtoul"
-phumi ph'uo rolum: 
+phumi phuo rolum: 
   city: "phumi ph'uo rolum"
   accentcity: "Phumi Ph'uo Rolum"
 phumi phya lu: 
@@ -18078,7 +18078,7 @@ phumi phya lu:
 phumi phyuor chruk: 
   city: "phumi phyuor chruk"
   accentcity: "Phumi Phyuor Chruk"
-phumi p'ier: 
+phumi pier: 
   city: "phumi p'ier"
   accentcity: "Phumi P'ier"
 phumi pil pong: 
@@ -18531,7 +18531,7 @@ phumi pradak:
 phumi praeus kaak: 
   city: "phumi praeus kaak"
   accentcity: "Phumi Praeus Kaak"
-phumi praeus k'ak: 
+phumi praeus kak: 
   city: "phumi praeus k'ak"
   accentcity: "Phumi Praeus K'ak"
 phumi prahas kbal: 
@@ -19152,7 +19152,7 @@ phumi prek phaav:
 phumi prek phaong: 
   city: "phumi prek phaong"
   accentcity: "Phumi Prek Phaong"
-phumi prek ph'av: 
+phumi prek phav: 
   city: "phumi prek ph'av"
   accentcity: "Phumi Prek Ph'av"
 phumi prek phkoam: 
@@ -19161,7 +19161,7 @@ phumi prek phkoam:
 phumi prek phnou: 
   city: "phumi prek phnou"
   accentcity: "Phumi Prek Phnou"
-phumi prek ph'ong: 
+phumi prek phong: 
   city: "phumi prek ph'ong"
   accentcity: "Phumi Prek Ph'ong"
 phumi prek: 
@@ -19860,7 +19860,7 @@ phumi prey phae:
 phumi prey phanhoas: 
   city: "phumi prey phanhoas"
   accentcity: "Phumi Prey Phanhoas"
-phumi prey ph'av: 
+phumi prey phav: 
   city: "phumi prey ph'av"
   accentcity: "Phumi Prey Ph'av"
 "phumi prey phcha\xC2\x93i\xC2\x86k": 
@@ -19881,7 +19881,7 @@ phumi prey phdau:
 phumi prey phdiek: 
   city: "phumi prey phdiek"
   accentcity: "Phumi Prey Phdiek"
-phumi prey ph'e: 
+phumi prey phe: 
   city: "phumi prey ph'e"
   accentcity: "Phumi Prey Ph'e"
 phumi prey phkoam: 
@@ -20430,10 +20430,10 @@ phumi pu lang:
 phumi pu leng: 
   city: "phumi pu leng"
   accentcity: "Phumi Pu Leng"
-phumi pu l'nghiem (1): 
+phumi pu lnghiem (1): 
   city: "phumi pu l'nghiem (1)"
   accentcity: "Phumi Pu L'Nghiem (1)"
-phumi pu l'nghiem (2): 
+phumi pu lnghiem (2): 
   city: "phumi pu l'nghiem (2)"
   accentcity: "Phumi Pu L'Nghiem (2)"
 phumi pu lngiem (1): 
@@ -20784,10 +20784,10 @@ phumi riep:
 phumi riev: 
   city: "phumi riev"
   accentcity: "Phumi Riev"
-phumi r'mat: 
+phumi rmat: 
   city: "phumi r'mat"
   accentcity: "Phumi R'Mat"
-phumi ro'ang leu: 
+phumi roang leu: 
   city: "phumi ro'ang leu"
   accentcity: "Phumi Ro'ang Leu"
 phumi robaeuk: 
@@ -21597,7 +21597,7 @@ phumi sampear:
 phumi samphi: 
   city: "phumi samphi"
   accentcity: "Phumi Samphi"
-phumi s'am: 
+phumi sam: 
   city: "phumi s'am"
   accentcity: "Phumi S'am"
 phumi sampong chey: 
@@ -21645,7 +21645,7 @@ phumi samraong kandal:
 phumi samraong kanhchaoch: 
   city: "phumi samraong kanhchaoch"
   accentcity: "Phumi Samraong Kanhchaoch"
-phumi samraong k'e: 
+phumi samraong ke: 
   city: "phumi samraong k'e"
   accentcity: "Phumi Samraong K'e"
 phumi samraong krachak: 
@@ -21750,7 +21750,7 @@ phumi sandar leu:
 phumi sandol: 
   city: "phumi sandol"
   accentcity: "Phumi Sandol"
-phumi s'ang (1): 
+phumi sang (1): 
   city: "phumi s'ang (1)"
   accentcity: "Phumi S'ang (1)"
 phumi sangkaeub (1): 
@@ -21861,7 +21861,7 @@ phumi sangkum mean chey:
 phumi sang ngiek: 
   city: "phumi sang ngiek"
   accentcity: "Phumi Sang Ngiek"
-phumi s'ang: 
+phumi sang: 
   city: "phumi s'ang"
   accentcity: "Phumi S'ang"
 phumi sang: 
@@ -21966,7 +21966,7 @@ phumi saop kraom:
 phumi saop leu: 
   city: "phumi saop leu"
   accentcity: "Phumi Saop Leu"
-phumi s'aot: 
+phumi saot: 
   city: "phumi s'aot"
   accentcity: "Phumi S'aot"
 phumi saoy: 
@@ -22011,7 +22011,7 @@ phumi sathom:
 phumi sa thum: 
   city: "phumi sa thum"
   accentcity: "Phumi Sa Thum"
-phumi s'at: 
+phumi sat: 
   city: "phumi s'at"
   accentcity: "Phumi S'at"
 phumi sat pong: 
@@ -22284,7 +22284,7 @@ phumi siem reap:
 phumi sieng khveang: 
   city: "phumi sieng khveang"
   accentcity: "Phumi Sieng Khveang"
-phumi s'ie: 
+phumi sie: 
   city: "phumi s'ie"
   accentcity: "Phumi S'ie"
 phumi sikar (2): 
@@ -22464,7 +22464,7 @@ phumi snay (1):
 phumi snay kreang: 
   city: "phumi snay kreang"
   accentcity: "Phumi Snay Kreang"
-phumi snay l'a: 
+phumi snay la: 
   city: "phumi snay l'a"
   accentcity: "Phumi Snay L'a"
 phumi snay loa: 
@@ -22563,7 +22563,7 @@ phumi sopi:
 phumi soriya: 
   city: "phumi soriya"
   accentcity: "Phumi Soriya"
-phumi sor ph'ang: 
+phumi sor phang: 
   city: "phumi sor ph'ang"
   accentcity: "Phumi Sor Ph'ang"
 phumi sosen: 
@@ -22977,7 +22977,7 @@ phumi sre kruos:
 phumi sre kuy: 
   city: "phumi sre kuy"
   accentcity: "Phumi Sre Kuy"
-phumi sre l'a: 
+phumi sre la: 
   city: "phumi sre l'a"
   accentcity: "Phumi Sre L'a"
 phumi sre leu: 
@@ -22992,7 +22992,7 @@ phumi sre lovea:
 phumi sre lvea: 
   city: "phumi sre lvea"
   accentcity: "Phumi Sre Lvea"
-phumi sre m'am: 
+phumi sre mam: 
   city: "phumi sre m'am"
   accentcity: "Phumi Sre M'am"
 phumi sre mat: 
@@ -23448,7 +23448,7 @@ phumi svay chek:
 phumi svay chhaeh: 
   city: "phumi svay chhaeh"
   accentcity: "Phumi Svay Chhaeh"
-phumi svay chh'eh: 
+phumi svay chheh: 
   city: "phumi svay chh'eh"
   accentcity: "Phumi Svay Chh'eh"
 phumi svay chikray: 
@@ -23562,7 +23562,7 @@ phumi svay pear:
 phumi svay phaem: 
   city: "phumi svay phaem"
   accentcity: "Phumi Svay Phaem"
-phumi svay ph'em: 
+phumi svay phem: 
   city: "phumi svay ph'em"
   accentcity: "Phumi Svay Ph'em"
 phumi svay phleung: 
@@ -24690,7 +24690,7 @@ phumi tasal:
 phumi ta sam: 
   city: "phumi ta sam"
   accentcity: "Phumi Ta Sam"
-phumi ta s'ang: 
+phumi ta sang: 
   city: "phumi ta s'ang"
   accentcity: "Phumi Ta S'ang"
 phumi ta sanh: 
@@ -25950,7 +25950,7 @@ phumi trapeang chan:
 phumi trapeang chhaes: 
   city: "phumi trapeang chhaes"
   accentcity: "Phumi Trapeang Chhaes"
-phumi trapeang chh'eh: 
+phumi trapeang chheh: 
   city: "phumi trapeang chh'eh"
   accentcity: "Phumi Trapeang Chh'eh"
 phumi trapeang chhleung: 
@@ -26157,7 +26157,7 @@ phumi trapeang peuk:
 phumi trapeang phaav: 
   city: "phumi trapeang phaav"
   accentcity: "Phumi Trapeang Phaav"
-phumi trapeang ph'av: 
+phumi trapeang phav: 
   city: "phumi trapeang ph'av"
   accentcity: "Phumi Trapeang Ph'av"
 phumi trapeang phdau: 
@@ -26310,7 +26310,7 @@ phumi trapeang sala:
 phumi trapeang sangke: 
   city: "phumi trapeang sangke"
   accentcity: "Phumi Trapeang Sangke"
-phumi trapeang s'ang: 
+phumi trapeang sang: 
   city: "phumi trapeang s'ang"
   accentcity: "Phumi Trapeang S'ang"
 phumi trapeang santey: 
@@ -26361,10 +26361,10 @@ phumi trapeang snaor:
 phumi trapeang snuol: 
   city: "phumi trapeang snuol"
   accentcity: "Phumi Trapeang Snuol"
-phumi trapeang s'oy kraom: 
+phumi trapeang soy kraom: 
   city: "phumi trapeang s'oy kraom"
   accentcity: "Phumi Trapeang S'oy Kraom"
-phumi trapeang s'oy leu: 
+phumi trapeang soy leu: 
   city: "phumi trapeang s'oy leu"
   accentcity: "Phumi Trapeang S'oy Leu"
 phumi trapeang srange: 
@@ -26937,7 +26937,7 @@ phumi tuol pak:
 phumi tuol phaav: 
   city: "phumi tuol phaav"
   accentcity: "Phumi Tuol Phaav"
-phumi tuol ph'av: 
+phumi tuol phav: 
   city: "phumi tuol ph'av"
   accentcity: "Phumi Tuol Ph'av"
 phumi tuol: 
@@ -27570,7 +27570,7 @@ phumi yeang thum:
 phumi yeang vien: 
   city: "phumi yeang vien"
   accentcity: "Phumi Yeang Vien"
-phumi yea p'aeu: 
+phumi yea paeu: 
   city: "phumi yea p'aeu"
   accentcity: "Phumi Yea P'aeu"
 phumi yeay sen: 
@@ -32565,7 +32565,7 @@ phum trung andoeuk:
 phum tsael: 
   city: "phum tsael"
   accentcity: "Phum Tsael"
-phum t'sana ankrouon: 
+phum tsana ankrouon: 
   city: "phum t'sana ankrouon"
   accentcity: "Phum T'sana Ankrouon"
 phum tual pongro: 
@@ -32868,7 +32868,7 @@ plei kompong prey khpos:
 plei svai chrum: 
   city: "plei svai chrum"
   accentcity: "Plei Svai Chrum"
-p'lou mean: 
+plou mean: 
   city: "p'lou mean"
   accentcity: "P'lou Mean"
 pnom dey: 
@@ -33459,7 +33459,7 @@ prek thmei:
 prek thmey: 
   city: "prek thmey"
   accentcity: "Prek Thmey"
-prek t'mei: 
+prek tmei: 
   city: "prek t'mei"
   accentcity: "Prek T'mei"
 prek toal: 
@@ -33603,7 +33603,7 @@ prey nop:
 prey nup: 
   city: "prey nup"
   accentcity: "Prey Nup"
-prey-p'dau: 
+prey-pdau: 
   city: "prey-p'dau"
   accentcity: "Prey-P'dau"
 prey phchek: 
@@ -33777,43 +33777,43 @@ puk rusey:
 puk yuk: 
   city: "puk yuk"
   accentcity: "Puk Yuk"
-p'um andaung krasang: 
+pum andaung krasang: 
   city: "p'um andaung krasang"
   accentcity: "P'um \xC3\x82nd\xC3\xA2ung Kr\xC3\xA2s\xC3\xA2ng"
-p'um andaung samouor: 
+pum andaung samouor: 
   city: "p'um andaung samouor"
   accentcity: "P'um \xC3\x82ndaung S\xC3\xA2mouor"
-p'um andaung tamung: 
+pum andaung tamung: 
   city: "p'um andaung tamung"
   accentcity: "P'um \xC3\x82nd\xC3\xA2ung Tamung"
-p'um ang kanh: 
+pum ang kanh: 
   city: "p'um ang kanh"
   accentcity: "P'um Ang Kanh"
-p'um ankrouong: 
+pum ankrouong: 
   city: "p'um ankrouong"
   accentcity: "P'um Ankrouong"
-p'um anlong kop: 
+pum anlong kop: 
   city: "p'um anlong kop"
   accentcity: "P'um Anlong Kop"
-p'um anlong krai: 
+pum anlong krai: 
   city: "p'um anlong krai"
   accentcity: "P'um Anlong Krai"
-p'um anteak kuoy: 
+pum anteak kuoy: 
   city: "p'um anteak kuoy"
   accentcity: "P'um Anteak Kuoy"
-p'um au malis: 
+pum au malis: 
   city: "p'um au malis"
   accentcity: "P'um A\xC3\xBB Malis"
-p'um au preal: 
+pum au preal: 
   city: "p'um au preal"
   accentcity: "P'um Au Preal"
-p'um au: 
+pum au: 
   city: "p'um au"
   accentcity: "P'um \xC3\x82u"
-p'um au ta pong: 
+pum au ta pong: 
   city: "p'um au ta pong"
   accentcity: "P'um Au Ta Pong"
-p'um au tram pe: 
+pum au tram pe: 
   city: "p'um au tram pe"
   accentcity: "P'um Au Tram Pe"
 "p'um ba\xC2\x93i\xC2\x86ng ch'uk": 
@@ -33822,376 +33822,376 @@ p'um au tram pe:
 "p'um ba\xC2\x93i\xC2\x86ng k'nar": 
   city: "p'um ba\xC2\x93i\xC2\x86ng k'nar"
   accentcity: "P'um B\xC3\x85\xC2\x93\xC3\x8C\xC2\x86ng K'nar"
-p'um bak prinh: 
+pum bak prinh: 
   city: "p'um bak prinh"
   accentcity: "P'um Bak Prinh"
-p'um bak snar: 
+pum bak snar: 
   city: "p'um bak snar"
   accentcity: "P'um Bak Sn\xC3\xA2r"
-p'um bang bei: 
+pum bang bei: 
   city: "p'um bang bei"
   accentcity: "P'um Bang Bei"
 "p'um ba\xC2\x93ng cha teal": 
   city: "p'um ba\xC2\x93ng cha teal"
   accentcity: "P'um B\xC3\x85\xC2\x93ng Cha Teal"
-p'um banteai yuon: 
+pum banteai yuon: 
   city: "p'um banteai yuon"
   accentcity: "P'um B\xC3\xA2nteai Y\xC3\xBBon"
-p'um bat kandol: 
+pum bat kandol: 
   city: "p'um bat kandol"
   accentcity: "P'um B\xC3\xA2t K\xC3\xA2ndól"
-p'um beng chak: 
+pum beng chak: 
   city: "p'um beng chak"
   accentcity: "P'um Beng Ch\xC3\xA2k"
-p'um beng kranh: 
+pum beng kranh: 
   city: "p'um beng kranh"
   accentcity: "P'um Beng Kranh"
-p'um beng pompel: 
+pum beng pompel: 
   city: "p'um beng pompel"
   accentcity: "P'um Beng Pompel"
-p'um chambak meas: 
+pum chambak meas: 
   city: "p'um chambak meas"
   accentcity: "P'um Ch\xC3\xA2mbak Meas"
-p'um champeam-knong: 
+pum champeam-knong: 
   city: "p'um champeam-knong"
   accentcity: "P'um Ch\xC3\xA2mpéam-Knong"
-p'um charek: 
+pum charek: 
   city: "p'um charek"
   accentcity: "P'um Charek"
-p'um chay vay: 
+pum chay vay: 
   city: "p'um chay vay"
   accentcity: "P'um Chay Vay"
-p'um chikok: 
+pum chikok: 
   city: "p'um chikok"
   accentcity: "P'um Chikok"
-p'um chinik: 
+pum chinik: 
   city: "p'um chinik"
   accentcity: "P'um Chinik"
-p'um chong-por: 
+pum chong-por: 
   city: "p'um chong-por"
   accentcity: "P'um Chong-Por"
-p'um ch'o: 
+pum cho: 
   city: "p'um ch'o"
   accentcity: "P'um Ch'o"
-p'um chrap: 
+pum chrap: 
   city: "p'um chrap"
   accentcity: "P'um Chr\xC3\xA2p"
-p'um chruoy: 
+pum chruoy: 
   city: "p'um chruoy"
   accentcity: "P'um Chr\xC3\xBBoy"
 pum chrvoy: 
   city: "pum chrvoy"
   accentcity: "Pum Chrvoy"
-p'um damrei sar: 
+pum damrei sar: 
   city: "p'um damrei sar"
   accentcity: "P'um D\xC3\xA2mrei S\xC3\xA2r"
-p'um daung pul: 
+pum daung pul: 
   city: "p'um daung pul"
   accentcity: "P'um Daung Pul"
-p'um k'cheay: 
+pum kcheay: 
   city: "p'um k'cheay"
   accentcity: "P'um K'cheay"
 pum klang: 
   city: "pum klang"
   accentcity: "Pum Klang"
-p'um koh paa: 
+pum koh paa: 
   city: "p'um koh paa"
   accentcity: "P'um Kóh Paa"
-p'um koh: 
+pum koh: 
   city: "p'um koh"
   accentcity: "P'um Koh"
-p'um kok ch'lich: 
+pum kok chlich: 
   city: "p'um kok ch'lich"
   accentcity: "P'um Kok Ch'lich"
-p'um kok: 
+pum kok: 
   city: "p'um kok"
   accentcity: "P'um Kok"
-p'um komnom: 
+pum komnom: 
   city: "p'um komnom"
   accentcity: "P'um Komnom"
-p'um kompang: 
+pum kompang: 
   city: "p'um kompang"
   accentcity: "P'um Kompang"
-p'um kompong krasang: 
+pum kompong krasang: 
   city: "p'um kompong krasang"
   accentcity: "P'um Kompong Krasang"
-p'um kompong: 
+pum kompong: 
   city: "p'um kompong"
   accentcity: "P'um Kompong"
-p'um krachap: 
+pum krachap: 
   city: "p'um krachap"
   accentcity: "P'um Krachap"
-p'um ktieng ktia: 
+pum ktieng ktia: 
   city: "p'um ktieng ktia"
   accentcity: "P'um Ktieng Ktia"
-p'um lahang: 
+pum lahang: 
   city: "p'um lahang"
   accentcity: "P'um Lah\xC3\xA2ng"
-p'um leng teng: 
+pum leng teng: 
   city: "p'um leng teng"
   accentcity: "P'um Léng Teng"
 "p'um manea pra\xC2\x93u": 
   city: "p'um manea pra\xC2\x93u"
   accentcity: "P'um Manea Pr\xC3\x85\xC2\x93u"
-p'um mol: 
+pum mol: 
   city: "p'um mol"
   accentcity: "P'um Mol"
-p'um mong: 
+pum mong: 
   city: "p'um mong"
   accentcity: "P'um Mong"
-p'um neak ta thvea: 
+pum neak ta thvea: 
   city: "p'um neak ta thvea"
   accentcity: "P'um Neak Ta Thvéa"
-p'um ngo meng: 
+pum ngo meng: 
   city: "p'um ngo meng"
   accentcity: "P'um Ngo Meng"
 pum okodol: 
   city: "pum okodol"
   accentcity: "Pum Okodol"
-p'um o pril: 
+pum o pril: 
   city: "p'um o pril"
   accentcity: "P'um \xC3\x94 Pril"
-p'um paiay sadom: 
+pum paiay sadom: 
   city: "p'um paiay sadom"
   accentcity: "P'um Paiay Sadom"
 "p'um palay tha\xC2\x93i\xC2\x86ng": 
   city: "p'um palay tha\xC2\x93i\xC2\x86ng"
   accentcity: "P'um Palay Th\xC3\x85\xC2\x93\xC3\x8C\xC2\x86ng"
-p'um patrang: 
+pum patrang: 
   city: "p'um patrang"
   accentcity: "P'um Patr\xC3\xA2ng"
-p'um pen: 
+pum pen: 
   city: "p'um pen"
   accentcity: "P'um Pen"
-p'um phei kel: 
+pum phei kel: 
   city: "p'um phei kel"
   accentcity: "P'um Phei Kel"
-p'um phnau: 
+pum phnau: 
   city: "p'um phnau"
   accentcity: "P'um Phnau"
-p'um pnou: 
+pum pnou: 
   city: "p'um pnou"
   accentcity: "P'um Pnou"
-p'um pompel bankok: 
+pum pompel bankok: 
   city: "p'um pompel bankok"
   accentcity: "P'um Pompel Bankok"
-p'um pralay tadok: 
+pum pralay tadok: 
   city: "p'um pralay tadok"
   accentcity: "P'um Pralay Tadok"
-p'um prasat: 
+pum prasat: 
   city: "p'um prasat"
   accentcity: "P'um Pr\xC3\xA2sat"
-p'um preah ampil: 
+pum preah ampil: 
   city: "p'um preah ampil"
   accentcity: "P'um Preah Ampil"
-p'um preah molu: 
+pum preah molu: 
   city: "p'um preah molu"
   accentcity: "P'um Preah Molu"
-p'um prei ch'o teal: 
+pum prei cho teal: 
   city: "p'um prei ch'o teal"
   accentcity: "P'um Prei Ch'o Teal"
-pum prei k'mang: 
+pum prei kmang: 
   city: "pum prei k'mang"
   accentcity: "Pum Prei K'mang"
-p'um prei kpo: 
+pum prei kpo: 
   city: "p'um prei kpo"
   accentcity: "P'um Prei Kpo"
-p'um prei p'dau: 
+pum prei pdau: 
   city: "p'um prei p'dau"
   accentcity: "P'um Prei P'dau"
-p'um prei svay: 
+pum prei svay: 
   city: "p'um prei svay"
   accentcity: "P'um Prei Svay"
-p'um prek krabau: 
+pum prek krabau: 
   city: "p'um prek krabau"
   accentcity: "P'um Prek Kr\xC3\xA2bau"
-p'um prek tabek: 
+pum prek tabek: 
   city: "p'um prek tabek"
   accentcity: "P'um Prek Tabèk"
-p'um pren: 
+pum pren: 
   city: "p'um pren"
   accentcity: "P'um Pren"
-p'um prey totung: 
+pum prey totung: 
   city: "p'um prey totung"
   accentcity: "P'um Prey Totung"
-p'um priel: 
+pum priel: 
   city: "p'um priel"
   accentcity: "P'um Priel"
-p'um pring k'pos: 
+pum pring kpos: 
   city: "p'um pring k'pos"
   accentcity: "P'um Pring K'pos"
-p'um pteah ko: 
+pum pteah ko: 
   city: "p'um pteah ko"
   accentcity: "P'um Pteah Ko"
-p'um p'teah ko: 
+pum pteah ko: 
   city: "p'um p'teah ko"
   accentcity: "P'um P'teah Ko"
-p'um reang k'vav: 
+pum reang kvav: 
   city: "p'um reang k'vav"
   accentcity: "P'um Reang K'vav"
-p'um robos mokol: 
+pum robos mokol: 
   city: "p'um robos mokol"
   accentcity: "P'um Robos Mokol"
-p'um roleang: 
+pum roleang: 
   city: "p'um roleang"
   accentcity: "P'um Roleang"
-p'um rolum sake: 
+pum rolum sake: 
   city: "p'um rolum sake"
   accentcity: "P'um Rolum Sakè"
-p'um roneam prayol: 
+pum roneam prayol: 
   city: "p'um roneam prayol"
   accentcity: "P'um Roneam Prayol"
-p'um rung: 
+pum rung: 
   city: "p'um rung"
   accentcity: "P'um Rung"
-p'um run: 
+pum run: 
   city: "p'um run"
   accentcity: "P'um Run"
-p'um sakar tabech: 
+pum sakar tabech: 
   city: "p'um sakar tabech"
   accentcity: "P'um Sak\xC3\xA2r Tabech"
-p'um sakar trang: 
+pum sakar trang: 
   city: "p'um sakar trang"
   accentcity: "P'um Sak\xC3\xA2r Trang"
-p'um sala: 
+pum sala: 
   city: "p'um sala"
   accentcity: "P'um Sala"
 pum sambaur: 
   city: "pum sambaur"
   accentcity: "Pum S\xC3\xA2mb\xC3\xA2ur"
-p'um samrong: 
+pum samrong: 
   city: "p'um samrong"
   accentcity: "P'um Samrong"
-p'um sanleng: 
+pum sanleng: 
   city: "p'um sanleng"
   accentcity: "P'um Sanleng"
-p'um santre: 
+pum santre: 
   city: "p'um santre"
   accentcity: "P'um Santre"
-p'um satrav: 
+pum satrav: 
   city: "p'um satrav"
   accentcity: "P'um Satrav"
-p'um say: 
+pum say: 
   city: "p'um say"
   accentcity: "P'um Say"
-p'um sdey: 
+pum sdey: 
   city: "p'um sdey"
   accentcity: "P'um Sdey"
-p'um sdok svay: 
+pum sdok svay: 
   city: "p'um sdok svay"
   accentcity: "P'um Sd\xC3\xB4k Svay"
-p'um sdok trabek: 
+pum sdok trabek: 
   city: "p'um sdok trabek"
   accentcity: "P'um Sd\xC3\xB4k Tr\xC3\xA2bêk"
-p'um sen yeay: 
+pum sen yeay: 
   city: "p'um sen yeay"
   accentcity: "P'um Sên Yeay"
-p'um snay tol: 
+pum snay tol: 
   city: "p'um snay tol"
   accentcity: "P'um Snay Tol"
-p'um som trom: 
+pum som trom: 
   city: "p'um som trom"
   accentcity: "P'um Som Trom"
-p'um sras mokak: 
+pum sras mokak: 
   city: "p'um sras mokak"
   accentcity: "P'um Sras Mokak"
-p'um sre baraing: 
+pum sre baraing: 
   city: "p'um sre baraing"
   accentcity: "P'um Srê Baraing"
-p'um srei chak: 
+pum srei chak: 
   city: "p'um srei chak"
   accentcity: "P'um Srei Ch\xC3\xA2k"
-p'um stung kombot: 
+pum stung kombot: 
   city: "p'um stung kombot"
   accentcity: "P'um Stung Kombot"
-p'um svay sa: 
+pum svay sa: 
   city: "p'um svay sa"
   accentcity: "P'um Svay S\xC3\xA2"
-p'um svay sar: 
+pum svay sar: 
   city: "p'um svay sar"
   accentcity: "P'um Svay Sar"
-p'um svay yeang: 
+pum svay yeang: 
   city: "p'um svay yeang"
   accentcity: "P'um Svay Yeang"
-p'um ta chan: 
+pum ta chan: 
   city: "p'um ta chan"
   accentcity: "P'um Ta Chan"
-p'um tamok: 
+pum tamok: 
   city: "p'um tamok"
   accentcity: "P'um Tamok"
-p'um tamum: 
+pum tamum: 
   city: "p'um tamum"
   accentcity: "P'um Tamum"
-p'um tanon: 
+pum tanon: 
   city: "p'um tanon"
   accentcity: "P'um Tanon"
-p'um ta tranh: 
+pum ta tranh: 
   city: "p'um ta tranh"
   accentcity: "P'um Ta Tranh"
-p'um ta trao: 
+pum ta trao: 
   city: "p'um ta trao"
   accentcity: "P'um Ta Trao"
-p'um tchieung tuol: 
+pum tchieung tuol: 
   city: "p'um tchieung tuol"
   accentcity: "P'um Tchieung T\xC3\xBBol"
-p'um tei trav: 
+pum tei trav: 
   city: "p'um tei trav"
   accentcity: "P'um Têi Trav"
-p'um thmar kne: 
+pum thmar kne: 
   city: "p'um thmar kne"
   accentcity: "P'um Thm\xC3\xA2r Kné"
-p'um thnal bat: 
+pum thnal bat: 
   city: "p'um thnal bat"
   accentcity: "P'um Thnal Bat"
-p'um t'lah: 
+pum tlah: 
   city: "p'um t'lah"
   accentcity: "P'um T'lah"
-p'um t'me: 
+pum tme: 
   city: "p'um t'me"
   accentcity: "P'um T'me"
-p'um t'not: 
+pum tnot: 
   city: "p'um t'not"
   accentcity: "P'um T'not"
-p'um tram: 
+pum tram: 
   city: "p'um tram"
   accentcity: "P'um Tr\xC3\xA2m"
-p'um trang: 
+pum trang: 
   city: "p'um trang"
   accentcity: "P'um Trang"
-p'um trapeang k'tum: 
+pum trapeang ktum: 
   city: "p'um trapeang k'tum"
   accentcity: "P'um Trapeang K'tum"
-p'um tros: 
+pum tros: 
   city: "p'um tros"
   accentcity: "P'um Tros"
-p'um tuol chia: 
+pum tuol chia: 
   city: "p'um tuol chia"
   accentcity: "P'um Tuol Chia"
-p'um tuol kaok ktum: 
+pum tuol kaok ktum: 
   city: "p'um tuol kaok ktum"
   accentcity: "P'um T\xC3\xBBol Kaok Ktum"
-p'um tuol khmoch: 
+pum tuol khmoch: 
   city: "p'um tuol khmoch"
   accentcity: "P'um Tuol Khmoch"
-p'um tuol ko: 
+pum tuol ko: 
   city: "p'um tuol ko"
   accentcity: "P'um T\xC3\xBBol K\xC3\xB4"
-p'um tuol pompel: 
+pum tuol pompel: 
   city: "p'um tuol pompel"
   accentcity: "P'um T\xC3\xBBol Pompel"
-p'um tuol run: 
+pum tuol run: 
   city: "p'um tuol run"
   accentcity: "P'um T\xC3\xBBol Run"
-p'um tuol snoul: 
+pum tuol snoul: 
   city: "p'um tuol snoul"
   accentcity: "P'um T\xC3\xBBol Snoul"
-p'um tuol teahean: 
+pum tuol teahean: 
   city: "p'um tuol teahean"
   accentcity: "P'um Tuol Téahean"
-p'um tuol thnong: 
+pum tuol thnong: 
   city: "p'um tuol thnong"
   accentcity: "P'um Tuol Thnong"
-p'um tuol tria: 
+pum tuol tria: 
   city: "p'um tuol tria"
   accentcity: "P'um T\xC3\xBBol Tria"
 pun: 
@@ -36189,7 +36189,7 @@ top kbeng:
 top svai: 
   city: "top svai"
   accentcity: "Top Svai"
-totung t'ngai: 
+totung tngai: 
   city: "totung t'ngai"
   accentcity: "Totung T'ngai"
 touk meas: 
@@ -36228,7 +36228,7 @@ trach:
 traeung saek: 
   city: "traeung saek"
   accentcity: "Traeung Saêk"
-traeung s'ek: 
+traeung sek: 
   city: "traeung s'ek"
   accentcity: "Traeung S'êk"
 tra kiet: 
@@ -36273,7 +36273,7 @@ tram tasa:
 tranh: 
   city: "tranh"
   accentcity: "Tranh"
-traoeang k'lei: 
+traoeang klei: 
   city: "traoeang k'lei"
   accentcity: "Traoeang K'lei"
 trapang tim: 
@@ -37311,7 +37311,7 @@ voeune hoi:
 voeune sai: 
   city: "voeune sai"
   accentcity: "Voeune Sai"
-vott ampil s'ang: 
+vott ampil sang: 
   city: "vott ampil s'ang"
   accentcity: "Vott Ampil S'ang"
 vott amra: 
@@ -37326,7 +37326,7 @@ vott angk khlouk:
 vott angk khna: 
   city: "vott angk khna"
   accentcity: "V\xC3\xB4tt \xC3\x82ngk Khna"
-vott angk s'at: 
+vott angk sat: 
   city: "vott angk s'at"
   accentcity: "V\xC3\xB4tt \xC3\x82ngk S'at"
 vott aongkaram: 

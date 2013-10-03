@@ -447,7 +447,7 @@ bagan beting kepah:
 bagan buaya: 
   city: "bagan buaya"
   accentcity: "Bagan Buaya"
-bagan che' amar: 
+bagan che amar: 
   city: "bagan che' amar"
   accentcity: "Bagan Che' Amar"
 bagan dalam: 
@@ -921,7 +921,7 @@ baru:
 baru bazaar: 
   city: "baru bazaar"
   accentcity: "Baru Bazaar"
-baru'd: 
+barud: 
   city: "baru'd"
   accentcity: "Baru'D"
 baruh bazaar: 
@@ -2139,10 +2139,10 @@ cheroh village:
 cherok tok mat ali: 
   city: "cherok tok mat ali"
   accentcity: "Cherok Tok Mat Ali"
-cherok to' kun atlas: 
+cherok to kun atlas: 
   city: "cherok to' kun atlas"
   accentcity: "Cherok To' Kun Atlas"
-cherok to' kun bawah: 
+cherok to kun bawah: 
   city: "cherok to' kun bawah"
   accentcity: "Cherok To' Kun Bawah"
 chetok tok mat ali: 
@@ -2292,10 +2292,10 @@ dasaken:
 datang selamat: 
   city: "datang selamat"
   accentcity: "Datang Selamat"
-dato' keramat: 
+dato keramat: 
   city: "dato' keramat"
   accentcity: "Dato' Keramat"
-dato' kramat: 
+dato kramat: 
   city: "dato' kramat"
   accentcity: "Dato' Kramat"
 dawang: 
@@ -2868,10 +2868,10 @@ guala abang:
 gual kulim: 
   city: "gual kulim"
   accentcity: "Gual Kulim"
-gual to' chan: 
+gual to chan: 
   city: "gual to' chan"
   accentcity: "Gual To' Chan"
-gual to' pelandok: 
+gual to pelandok: 
   city: "gual to' pelandok"
   accentcity: "Gual To' Pelandok"
 gua musang: 
@@ -3087,7 +3087,7 @@ jaie:
 jaie pendam: 
   city: "jaie pendam"
   accentcity: "Jaie Pendam"
-ja'i: 
+jai: 
   city: "ja'i"
   accentcity: "Ja'i"
 jai: 
@@ -4218,7 +4218,7 @@ kampong ayer merah:
 kampong ayer molek: 
   city: "kampong ayer molek"
   accentcity: "Kampong Ayer Molek"
-kampong ayer pa'abas: 
+kampong ayer paabas: 
   city: "kampong ayer pa'abas"
   accentcity: "Kampong Ayer Pa'abas"
 kampong ayer panas: 
@@ -5145,7 +5145,7 @@ kampong baru ban foo:
 kampong baru bukit besi: 
   city: "kampong baru bukit besi"
   accentcity: "Kampong Baru Bukit Besi"
-kampong baru'd: 
+kampong barud: 
   city: "kampong baru'd"
   accentcity: "Kampong Baru'd"
 kampong baruh: 
@@ -5706,7 +5706,7 @@ kampong bechah menerong:
 kampong bechah mulong: 
   city: "kampong bechah mulong"
   accentcity: "Kampong Bechah Mulong"
-kampong bechah pa' baharu: 
+kampong bechah pa baharu: 
   city: "kampong bechah pa' baharu"
   accentcity: "Kampong Bechah Pa' Baharu"
 kampong bechah parang: 
@@ -6690,7 +6690,7 @@ kampong boyan:
 kampong braang bayur: 
   city: "kampong braang bayur"
   accentcity: "Kampong Braang Bayur"
-kampong bra'ang blimbin: 
+kampong braang blimbin: 
   city: "kampong bra'ang blimbin"
   accentcity: "Kampong Bra'ang Blimbin"
 kampong braang grumbing: 
@@ -6702,7 +6702,7 @@ kampong braang payang:
 kampong braang tebese: 
   city: "kampong braang tebese"
   accentcity: "Kampong Braang Tebese"
-kampong bra'ang tebesey: 
+kampong braang tebesey: 
   city: "kampong bra'ang tebesey"
   accentcity: "Kampong Bra'ang Tebesey"
 kampong braang wah: 
@@ -7299,7 +7299,7 @@ kampong bukit machang:
 kampong bukit maching: 
   city: "kampong bukit maching"
   accentcity: "Kampong Bukit Maching"
-kampong bukit ma'lipah: 
+kampong bukit malipah: 
   city: "kampong bukit ma'lipah"
   accentcity: "Kampong Bukit Ma'Lipah"
 kampong bukit mati: 
@@ -8253,10 +8253,10 @@ kampong chegar rambutan:
 kampong cheh: 
   city: "kampong cheh"
   accentcity: "Kampong Cheh"
-kampong che' hussin: 
+kampong che hussin: 
   city: "kampong che' hussin"
   accentcity: "Kampong Che' Hussin"
-kampong che' ibrahim daud: 
+kampong che ibrahim daud: 
   city: "kampong che' ibrahim daud"
   accentcity: "Kampong Che' Ibrahim Daud"
 kampong che ibrahim: 
@@ -8538,10 +8538,10 @@ kampong cherok makan:
 kampong cherok paloh: 
   city: "kampong cherok paloh"
   accentcity: "Kampong Cherok Paloh"
-kampong cherok to' kun atas: 
+kampong cherok to kun atas: 
   city: "kampong cherok to' kun atas"
   accentcity: "Kampong Cherok To' Kun Atas"
-kampong cherok to' kun bawah: 
+kampong cherok to kun bawah: 
   city: "kampong cherok to' kun bawah"
   accentcity: "Kampong Cherok To' Kun Bawah"
 kampong cherong baru: 
@@ -8880,7 +8880,7 @@ kampong daso:
 kampong datoh: 
   city: "kampong datoh"
   accentcity: "Kampong Datoh"
-kampong dato': 
+kampong dato: 
   city: "kampong dato'"
   accentcity: "Kampong Dato'"
 kampong datok haron: 
@@ -10188,10 +10188,10 @@ kampong gong terbak:
 kampong gong tinggi: 
   city: "kampong gong tinggi"
   accentcity: "Kampong Gong Tinggi"
-kampong gong to' din: 
+kampong gong to din: 
   city: "kampong gong to' din"
   accentcity: "Kampong Gong To' Din"
-kampong gong to' kapur: 
+kampong gong to kapur: 
   city: "kampong gong to' kapur"
   accentcity: "Kampong Gong To' Kapur"
 kampong gong tok haji: 
@@ -10305,7 +10305,7 @@ kampong gual petai:
 kampong gual rimau: 
   city: "kampong gual rimau"
   accentcity: "Kampong Gual Rimau"
-kampong gual to' eh deng: 
+kampong gual to eh deng: 
   city: "kampong gual to' eh deng"
   accentcity: "Kampong Gual To' Eh Deng"
 kampong gual tok limah: 
@@ -15642,7 +15642,7 @@ kampong lubok star:
 kampong lubok stol: 
   city: "kampong lubok stol"
   accentcity: "Kampong Lubok Stol"
-kampong lubok s'tua: 
+kampong lubok stua: 
   city: "kampong lubok s'tua"
   accentcity: "Kampong Lubok S'tua"
 kampong lubok takai: 
@@ -15750,7 +15750,7 @@ kampong lunying:
 kampong lusong: 
   city: "kampong lusong"
   accentcity: "Kampong Lusong"
-kampong ma'ang: 
+kampong maang: 
   city: "kampong ma'ang"
   accentcity: "Kampong Ma'ang"
 kampong maang lansat: 
@@ -16635,7 +16635,7 @@ kampong mengkasar:
 kampong mengkuang: 
   city: "kampong mengkuang"
   accentcity: "Kampong Mengkuang"
-kampong mengkuang pa' taha: 
+kampong mengkuang pa taha: 
   city: "kampong mengkuang pa' taha"
   accentcity: "Kampong Mengkuang Pa' Taha"
 kampong mengkuang tandop: 
@@ -17208,10 +17208,10 @@ kampong nagar:
 kampong nahabah: 
   city: "kampong nahabah"
   accentcity: "Kampong Nahabah"
-kampong naib pe'i: 
+kampong naib pei: 
   city: "kampong naib pe'i"
   accentcity: "Kampong Naib Pe'i"
-kampong naib pi'ee: 
+kampong naib piee: 
   city: "kampong naib pi'ee"
   accentcity: "Kampong Naib Pi'ee"
 kampong nail: 
@@ -18099,7 +18099,7 @@ kampong pak abu:
 kampong paka: 
   city: "kampong paka"
   accentcity: "Kampong Paka"
-kampong pa' kaleh: 
+kampong pa kaleh: 
   city: "kampong pa' kaleh"
   accentcity: "Kampong Pa' Kaleh"
 kampong paka paka: 
@@ -18204,7 +18204,7 @@ kampong paku:
 kampong pak wong: 
   city: "kampong pak wong"
   accentcity: "Kampong Pak Wong"
-kampong pak ya'akob: 
+kampong pak yaakob: 
   city: "kampong pak ya'akob"
   accentcity: "Kampong Pak Ya'akob"
 kampong pak yeb: 
@@ -18297,7 +18297,7 @@ kampong pamatadan:
 kampong paminan: 
   city: "kampong paminan"
   accentcity: "Kampong Paminan"
-kampong pa' mong: 
+kampong pa mong: 
   city: "kampong pa' mong"
   accentcity: "Kampong Pa' Mong"
 kampong pampang paring: 
@@ -18609,7 +18609,7 @@ kampong paoh penyo:
 kampong paon gahat: 
   city: "kampong paon gahat"
   accentcity: "Kampong Paon Gahat"
-kampong pa'on: 
+kampong paon: 
   city: "kampong pa'on"
   accentcity: "Kampong Pa'on"
 kampong paon: 
@@ -18819,13 +18819,13 @@ kampong parit tipi:
 kampong parit tok raja: 
   city: "kampong parit tok raja"
   accentcity: "Kampong Parit Tok Raja"
-kampong parit to'ngah: 
+kampong parit tongah: 
   city: "kampong parit to'ngah"
   accentcity: "Kampong Parit To'Ngah"
 kampong parit ulu: 
   city: "kampong parit ulu"
   accentcity: "Kampong Parit Ulu"
-kampong parit ya'ani: 
+kampong parit yaani: 
   city: "kampong parit ya'ani"
   accentcity: "Kampong Parit Ya'ani"
 kampong parit yani: 
@@ -20364,7 +20364,7 @@ kampong permatang tokdik:
 kampong permatang tok gelam: 
   city: "kampong permatang tok gelam"
   accentcity: "Kampong Permatang Tok Gelam"
-kampong permatang to' mahat: 
+kampong permatang to mahat: 
   city: "kampong permatang to' mahat"
   accentcity: "Kampong Permatang To' Mahat"
 kampong permatang tulang: 
@@ -20763,10 +20763,10 @@ kampong pong utara:
 kampong pontianak: 
   city: "kampong pontianak"
   accentcity: "Kampong Pontianak"
-kampong po'om: 
+kampong poom: 
   city: "kampong po'om"
   accentcity: "Kampong Po'om"
-kampong po'ot: 
+kampong poot: 
   city: "kampong po'ot"
   accentcity: "Kampong Po'ot"
 kampong poring: 
@@ -24060,7 +24060,7 @@ kampong spang loi:
 kampong spaoh: 
   city: "kampong spaoh"
   accentcity: "Kampong Spaoh"
-kampong spa'uh: 
+kampong spauh: 
   city: "kampong spa'uh"
   accentcity: "Kampong Spa'uh"
 kampong spri: 
@@ -25620,7 +25620,7 @@ kampong tagudon:
 kampong taguli: 
   city: "kampong taguli"
   accentcity: "Kampong Taguli"
-kampong ta'guna: 
+kampong taguna: 
   city: "kampong ta'guna"
   accentcity: "Kampong Ta'guna"
 kampong tagun: 
@@ -28215,13 +28215,13 @@ kampong tiwang:
 kampong tlaga batu: 
   city: "kampong tlaga batu"
   accentcity: "Kampong Tlaga Batu"
-kampong to' alang: 
+kampong to alang: 
   city: "kampong to' alang"
   accentcity: "Kampong To' Alang"
-kampong to' bedoh: 
+kampong to bedoh: 
   city: "kampong to' bedoh"
   accentcity: "Kampong To' Bedoh"
-kampong to' bedu: 
+kampong to bedu: 
   city: "kampong to' bedu"
   accentcity: "Kampong To' Bedu"
 kampong tobobon: 
@@ -28230,13 +28230,13 @@ kampong tobobon:
 kampong toboh: 
   city: "kampong toboh"
   accentcity: "Kampong Toboh"
-kampong to'dor: 
+kampong todor: 
   city: "kampong to'dor"
   accentcity: "Kampong To'Dor"
-kampong to' ebor: 
+kampong to ebor: 
   city: "kampong to' ebor"
   accentcity: "Kampong To' Ebor"
-kampong to' ganti: 
+kampong to ganti: 
   city: "kampong to' ganti"
   accentcity: "Kampong To' Ganti"
 kampong togob: 
@@ -28269,7 +28269,7 @@ kampong tok ajar:
 kampong to kamis: 
   city: "kampong to kamis"
   accentcity: "Kampong To Kamis"
-kampong to' kangar: 
+kampong to kangar: 
   city: "kampong to' kangar"
   accentcity: "Kampong To' Kangar"
 kampong tok arang: 
@@ -28368,7 +28368,7 @@ kampong tok hakim:
 kampong tok hala: 
   city: "kampong tok hala"
   accentcity: "Kampong Tok Hala"
-kampong to' khalifah: 
+kampong to khalifah: 
   city: "kampong to' khalifah"
   accentcity: "Kampong To' Khalifah"
 kampong tok hamid: 
@@ -28632,7 +28632,7 @@ kampong tonk:
 kampong tool: 
   city: "kampong tool"
   accentcity: "Kampong Tool"
-kampong to' panjang: 
+kampong to panjang: 
   city: "kampong to' panjang"
   accentcity: "Kampong To' Panjang"
 kampong topokon: 
@@ -28644,7 +28644,7 @@ kampong to saban:
 kampong tosong: 
   city: "kampong tosong"
   accentcity: "Kampong Tosong"
-kampong to' suboh: 
+kampong to suboh: 
   city: "kampong to' suboh"
   accentcity: "Kampong To' Suboh"
 kampong to uban: 
@@ -34914,7 +34914,7 @@ malinsong:
 malintatan: 
   city: "malintatan"
   accentcity: "Malintatan"
-ma'lipah: 
+malipah: 
   city: "ma'lipah"
   accentcity: "Ma'Lipah"
 maliu paliu: 
@@ -35382,7 +35382,7 @@ mengkuang tandop:
 mengkuang titi: 
   city: "mengkuang titi"
   accentcity: "Mengkuang Titi"
-mengkuang to' taha: 
+mengkuang to taha: 
   city: "mengkuang to' taha"
   accentcity: "Mengkuang To' Taha"
 menglembu: 
@@ -36318,7 +36318,7 @@ padang manora:
 padang masirat: 
   city: "padang masirat"
   accentcity: "Padang Masirat"
-padang pa'amat: 
+padang paamat: 
   city: "padang pa'amat"
   accentcity: "Padang Pa'amat"
 padang pelandok: 
@@ -36498,7 +36498,7 @@ pa mein:
 pamol: 
   city: "pamol"
   accentcity: "Pamol"
-pa' mong: 
+pa mong: 
   city: "pa' mong"
   accentcity: "Pa' Mong"
 pampang: 
@@ -36765,7 +36765,7 @@ parit tinggi:
 parit tok mandin: 
   city: "parit tok mandin"
   accentcity: "Parit Tok Mandin"
-parit to' mandin: 
+parit to mandin: 
   city: "parit to' mandin"
   accentcity: "Parit To' Mandin"
 paroi new village: 
@@ -37371,7 +37371,7 @@ permatang bongor:
 permatang buloh: 
   city: "permatang buloh"
   accentcity: "Permatang Buloh"
-permatang che' tak: 
+permatang che tak: 
   city: "permatang che' tak"
   accentcity: "Permatang Che' Tak"
 permatang damar laut: 
@@ -37437,10 +37437,10 @@ permatang manggis:
 permatang merbau: 
   city: "permatang merbau"
   accentcity: "Permatang Merbau"
-permatang pa'ilong: 
+permatang pailong: 
   city: "permatang pa'ilong"
   accentcity: "Permatang Pa'Ilong"
-permatang pa' maras: 
+permatang pa maras: 
   city: "permatang pa' maras"
   accentcity: "Permatang Pa' Maras"
 permatang pasir: 
@@ -37491,16 +37491,16 @@ permatang timbun:
 permatang tinggi: 
   city: "permatang tinggi"
   accentcity: "Permatang Tinggi"
-permatang to' bidan: 
+permatang to bidan: 
   city: "permatang to' bidan"
   accentcity: "Permatang To' Bidan"
-permatang to' jaya: 
+permatang to jaya: 
   city: "permatang to' jaya"
   accentcity: "Permatang To' Jaya"
-permatang to' kando: 
+permatang to kando: 
   city: "permatang to' kando"
   accentcity: "Permatang To' Kando"
-permatang to' kandu: 
+permatang to kandu: 
   city: "permatang to' kandu"
   accentcity: "Permatang To' Kandu"
 permatang tok bidan: 
@@ -37512,10 +37512,10 @@ permatang tok gelam:
 permatang tok jaya: 
   city: "permatang tok jaya"
   accentcity: "Permatang Tok Jaya"
-permatang to' labu: 
+permatang to labu: 
   city: "permatang to' labu"
   accentcity: "Permatang To' Labu"
-permatang to' mahat: 
+permatang to mahat: 
   city: "permatang to' mahat"
   accentcity: "Permatang To' Mahat"
 peropot: 
@@ -37614,7 +37614,7 @@ pitas:
 pituru: 
   city: "pituru"
   accentcity: "Pituru"
-pla'i: 
+plai: 
   city: "pla'i"
   accentcity: "Pla'i"
 plaman awak: 
@@ -41490,7 +41490,7 @@ saberang takir:
 sabetong: 
   city: "sabetong"
   accentcity: "Sabetong"
-sabib'i: 
+sabibi: 
   city: "sabib'i"
   accentcity: "Sabib'i"
 sabur: 
@@ -41529,7 +41529,7 @@ saiap:
 saiburu: 
   city: "saiburu"
   accentcity: "Saiburu"
-saint paul's hill: 
+saint pauls hill: 
   city: "saint paul's hill"
   accentcity: "Saint Paul's Hill"
 sai: 
@@ -43357,7 +43357,7 @@ sungai tinggi:
 sungai tipus: 
   city: "sungai tipus"
   accentcity: "Sungai Tipus"
-sungai to' tuntong: 
+sungai to tuntong: 
   city: "sungai to' tuntong"
   accentcity: "Sungai To' Tuntong"
 sungai tukang sedin: 
@@ -44722,7 +44722,7 @@ tiger:
 tikam batu: 
   city: "tikam batu"
   accentcity: "Tikam Batu"
-tikar pak ya'akob: 
+tikar pak yaakob: 
   city: "tikar pak ya'akob"
   accentcity: "Tikar Pak Ya'akob"
 tiko: 
@@ -44863,13 +44863,13 @@ togopon:
 togop: 
   city: "togop"
   accentcity: "Togop"
-to'jembai: 
+tojembai: 
   city: "to'jembai"
   accentcity: "To'Jembai"
 tokai: 
   city: "tokai"
   accentcity: "Tokai"
-to' kangar: 
+to kangar: 
   city: "to' kangar"
   accentcity: "To' Kangar"
 tok chin tong: 
@@ -44926,10 +44926,10 @@ tongot:
 topokon: 
   city: "topokon"
   accentcity: "Topokon"
-to' suboh: 
+to suboh: 
   city: "to' suboh"
   accentcity: "To' Suboh"
-to' uban: 
+to uban: 
   city: "to' uban"
   accentcity: "To' Uban"
 trai: 
@@ -45256,7 +45256,7 @@ utan melintang:
 utan nibong: 
   city: "utan nibong"
   accentcity: "Utan Nibong"
-val d'or: 
+val dor: 
   city: "val d'or"
   accentcity: "Val d'Or"
 victoria town: 

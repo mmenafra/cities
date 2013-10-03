@@ -282,10 +282,10 @@ anse-a-veau:
 anse canot: 
   city: "anse canot"
   accentcity: "Anse Canot"
-anse d'azur: 
+anse dazur: 
   city: "anse d'azur"
   accentcity: "Anse d'Azur"
-anse d'hainault: 
+anse dhainault: 
   city: "anse d'hainault"
   accentcity: "Anse d'Hainault"
 anse du clerc: 
@@ -585,7 +585,7 @@ babou:
 bacannan: 
   city: "bacannan"
   accentcity: "Bacannan"
-bacardere d'lom: 
+bacardere dlom: 
   city: "bacardere d'lom"
   accentcity: "Bacardère d'Lom"
 bac a soude: 
@@ -594,7 +594,7 @@ bac a soude:
 bac bois: 
   city: "bac bois"
   accentcity: "Bac Bois"
-bac d'aquin: 
+bac daquin: 
   city: "bac d'aquin"
   accentcity: "Bac d'Aquin"
 bachelier: 
@@ -666,7 +666,7 @@ baie de haine:
 baie de henne: 
   city: "baie de henne"
   accentcity: "Baie de Henne"
-baie d'orange: 
+baie dorange: 
   city: "baie d'orange"
   accentcity: "Baie d'Orange"
 baie du parc: 
@@ -2430,10 +2430,10 @@ bois coupet:
 bois crabe: 
   city: "bois crabe"
   accentcity: "Bois Crabe"
-bois d'avril: 
+bois davril: 
   city: "bois d'avril"
   accentcity: "Bois d'Avril"
-bois d'eau: 
+bois deau: 
   city: "bois d'eau"
   accentcity: "Bois d'Eau"
 bois debois: 
@@ -2469,10 +2469,10 @@ bois des hommes:
 bois detre: 
   city: "bois detre"
   accentcity: "Bois Dêtre"
-bois d'homme: 
+bois dhomme: 
   city: "bois d'homme"
   accentcity: "Bois d'Homme"
-bois d'huis: 
+bois dhuis: 
   city: "bois d'huis"
   accentcity: "Bois d'Huis"
 bois dimanche: 
@@ -2481,10 +2481,10 @@ bois dimanche:
 boisdine: 
   city: "boisdine"
   accentcity: "Boisdine"
-bois d'ohme: 
+bois dohme: 
   city: "bois d'ohme"
   accentcity: "Bois D'ohme"
-bois d'orme: 
+bois dorme: 
   city: "bois d'orme"
   accentcity: "Bois d'Orme"
 bois dumay: 
@@ -2559,7 +2559,7 @@ bois lance:
 bois landry: 
   city: "bois landry"
   accentcity: "Bois Landry"
-bois l'anse: 
+bois lanse: 
   city: "bois l'anse"
   accentcity: "Bois l'Anse"
 bois larue: 
@@ -2568,7 +2568,7 @@ bois larue:
 bois laurence: 
   city: "bois laurence"
   accentcity: "Bois Laurence"
-bois l'autre bord: 
+bois lautre bord: 
   city: "bois l'autre bord"
   accentcity: "Bois l'Autre Bord"
 bois la ville: 
@@ -2577,13 +2577,13 @@ bois la ville:
 bois leger: 
   city: "bois leger"
   accentcity: "Bois Léger"
-bois l'eglise: 
+bois leglise: 
   city: "bois l'eglise"
   accentcity: "Bois l'\xC3\x89glise"
 bois lere: 
   city: "bois lere"
   accentcity: "Bois Lére"
-bois l'etat: 
+bois letat: 
   city: "bois l'etat"
   accentcity: "Bois l'\xC3\x89tat"
 bois louroux: 
@@ -2703,7 +2703,7 @@ boispin guepe:
 bois pin jean noel: 
   city: "bois pin jean noel"
   accentcity: "Bois Pin Jean Noël"
-bois pin l'orage: 
+bois pin lorage: 
   city: "bois pin l'orage"
   accentcity: "Bois Pin L'Orage"
 bois pin marron: 
@@ -2973,7 +2973,7 @@ bordie:
 bordin: 
   city: "bordin"
   accentcity: "Bordin"
-bord l'etang: 
+bord letang: 
   city: "bord l'etang"
   accentcity: "Bord l'\xC3\x89tang"
 borel: 
@@ -3096,7 +3096,7 @@ boucan chatte:
 boucan chique: 
   city: "boucan chique"
   accentcity: "Boucan Chique"
-boucan d'anjou: 
+boucan danjou: 
   city: "boucan d'anjou"
   accentcity: "Boucan d'Anjou"
 boucan diane: 
@@ -3378,7 +3378,7 @@ bou parfait:
 bouquerome: 
   city: "bouquerome"
   accentcity: "Bouquerome"
-bouquet d'homme: 
+bouquet dhomme: 
   city: "bouquet d'homme"
   accentcity: "Bouquet d'Homme"
 bouquette: 
@@ -4308,7 +4308,7 @@ calema:
 ca leon: 
   city: "ca leon"
   accentcity: "Ca Léon"
-ca l'etang: 
+ca letang: 
   city: "ca l'etang"
   accentcity: "Ca l'\xC3\x89tang"
 calice: 
@@ -4872,7 +4872,7 @@ carrefour bete:
 carrefour bohoc: 
   city: "carrefour bohoc"
   accentcity: "Carrefour Bohoc"
-carrefour bois d'homme: 
+carrefour bois dhomme: 
   city: "carrefour bois d'homme"
   accentcity: "Carrefour Bois d'Homme"
 carrefour bon repos: 
@@ -5043,7 +5043,7 @@ carrefour la boule:
 carrefour la branle: 
   city: "carrefour la branle"
   accentcity: "Carrefour la Branle"
-carrefour l'acul: 
+carrefour lacul: 
   city: "carrefour l'acul"
   accentcity: "Carrefour l'Acul"
 carrefour lafiteau: 
@@ -5181,7 +5181,7 @@ carrefour saint medard:
 carrefour sanon: 
   city: "carrefour sanon"
   accentcity: "Carrefour Sanon"
-carrefour saut d'eau: 
+carrefour saut deau: 
   city: "carrefour saut d'eau"
   accentcity: "Carrefour Saut d'Eau"
 carrefour seize: 
@@ -5673,7 +5673,7 @@ chaine grande bois:
 chaine janvier: 
   city: "chaine janvier"
   accentcity: "Cha\xC3\xAEne Janvier"
-chaine l'etat: 
+chaine letat: 
   city: "chaine l'etat"
   accentcity: "Cha\xC3\xAEne l'\xC3\x89tat"
 chaine longue: 
@@ -6564,7 +6564,7 @@ colonie agricole de grand bassin:
 colonie agricole de savane zombi: 
   city: "colonie agricole de savane zombi"
   accentcity: "Colonie Agricole de Savane Zombi"
-colonie agricole d'oriani: 
+colonie agricole doriani: 
   city: "colonie agricole d'oriani"
   accentcity: "Colonie Agricole d'Oriani"
 colonie agricole dosmont: 
@@ -6741,7 +6741,7 @@ corail henry:
 corail jolibois: 
   city: "corail jolibois"
   accentcity: "Corail Jolibois"
-corail l'abbe: 
+corail labbe: 
   city: "corail l'abbe"
   accentcity: "Corail l'Abbé"
 corail lacora: 
@@ -7233,7 +7233,7 @@ dabon:
 dabouin: 
   city: "dabouin"
   accentcity: "Dabouin"
-d'acceuil: 
+dacceuil: 
   city: "d'acceuil"
   accentcity: "D'Acceuil"
 dacceull: 
@@ -7410,7 +7410,7 @@ danton:
 danty: 
   city: "danty"
   accentcity: "Danty"
-d'apres: 
+dapres: 
   city: "d'apres"
   accentcity: "D'Apres"
 daquin: 
@@ -7764,28 +7764,28 @@ delbreuil:
 delcourt: 
   city: "delcourt"
   accentcity: "Delcourt"
-de l'eau banquille: 
+de leau banquille: 
   city: "de l'eau banquille"
   accentcity: "De l'Eau Banquille"
-de l'eau bouillie: 
+de leau bouillie: 
   city: "de l'eau bouillie"
   accentcity: "De l'Eau Bouillie"
-de l'eau carlos: 
+de leau carlos: 
   city: "de l'eau carlos"
   accentcity: "De l'Eau Carlos"
-de l'eau contree: 
+de leau contree: 
   city: "de l'eau contree"
   accentcity: "De l'Eau Contrée"
-de l'eau coq: 
+de leau coq: 
   city: "de l'eau coq"
   accentcity: "De l'Eau Coq"
-de l'eau gaillee: 
+de leau gaillee: 
   city: "de l'eau gaillee"
   accentcity: "De l'Eau Gaillée"
-de l'eau janvier: 
+de leau janvier: 
   city: "de l'eau janvier"
   accentcity: "De l'Eau Janvier"
-de l'eau noire: 
+de leau noire: 
   city: "de l'eau noire"
   accentcity: "De l'Eau Noire"
 delede: 
@@ -8046,7 +8046,7 @@ derriere goyave:
 derriere lagon: 
   city: "derriere lagon"
   accentcity: "Derrière Lagon"
-derriere l'etang: 
+derriere letang: 
   city: "derriere l'etang"
   accentcity: "Derrière l'\xC3\x89tang"
 derriere marc: 
@@ -8250,7 +8250,7 @@ desormeaux:
 despagne: 
   city: "despagne"
   accentcity: "Despagne"
-d'espagne: 
+despagne: 
   city: "d'espagne"
   accentcity: "D'Espagne"
 despagnes: 
@@ -8412,7 +8412,7 @@ devot:
 dezeau: 
   city: "dezeau"
   accentcity: "Dezeau"
-d'haiti: 
+dhaiti: 
   city: "d'haiti"
   accentcity: "D'Ha\xC3\xAFti"
 diable aube: 
@@ -8652,31 +8652,31 @@ divineau:
 djon: 
   city: "djon"
   accentcity: "Djon"
-d'leau bouillie: 
+dleau bouillie: 
   city: "d'leau bouillie"
   accentcity: "D'Leau Bouillie"
-d'leau contree: 
+dleau contree: 
   city: "d'leau contree"
   accentcity: "D'Leau Contrée"
-d'lo banquille: 
+dlo banquille: 
   city: "d'lo banquille"
   accentcity: "D'lo Banquille"
 dlo carlos: 
   city: "dlo carlos"
   accentcity: "Dlo Carlos"
-d'lo contree: 
+dlo contree: 
   city: "d'lo contree"
   accentcity: "D'Lo Contrée"
-d'lo coq: 
+dlo coq: 
   city: "d'lo coq"
   accentcity: "D'Lo Coq"
-d'lo gaillee: 
+dlo gaillee: 
   city: "d'lo gaillee"
   accentcity: "D'lo Gaillée"
-d'lo janvier: 
+dlo janvier: 
   city: "d'lo janvier"
   accentcity: "D'lo Janvier"
-d'lo noire: 
+dlo noire: 
   city: "d'lo noire"
   accentcity: "D'Lo Noire"
 doca: 
@@ -8823,7 +8823,7 @@ donis:
 donjon: 
   city: "donjon"
   accentcity: "Donjon"
-don l'amitie: 
+don lamitie: 
   city: "don l'amitie"
   accentcity: "Don l'Amitié"
 donneau: 
@@ -8892,7 +8892,7 @@ dos blanc:
 dos bobo: 
   city: "dos bobo"
   accentcity: "Dos Bobo"
-dos bois d'orme: 
+dos bois dorme: 
   city: "dos bois d'orme"
   accentcity: "Dos Bois d'Orme"
 dos bois-pin: 
@@ -8925,7 +8925,7 @@ dos croix:
 dos dameau: 
   city: "dos dameau"
   accentcity: "Dos Dameau"
-dos d'ane: 
+dos dane: 
   city: "dos d'ane"
   accentcity: "Dos d'\xC3\x82ne"
 dos dimanche: 
@@ -8946,7 +8946,7 @@ dos la flor:
 dos lamarre: 
   city: "dos lamarre"
   accentcity: "Dos Lamarre"
-dos l'amour: 
+dos lamour: 
   city: "dos l'amour"
   accentcity: "Dos l'Amour"
 dos lanni: 
@@ -8970,13 +8970,13 @@ dos marotte:
 dos masse: 
   city: "dos masse"
   accentcity: "Dos Masse"
-d'osmond: 
+dosmond: 
   city: "d'osmond"
   accentcity: "D'Osmond"
 dosmont: 
   city: "dosmont"
   accentcity: "Dosmont"
-d'osmont: 
+dosmont: 
   city: "d'osmont"
   accentcity: "D'Osmont"
 dos morne: 
@@ -9741,10 +9741,10 @@ en bas caimite:
 en bas coudre: 
   city: "en bas coudre"
   accentcity: "En Bas Coudre"
-en bas de l'eau: 
+en bas de leau: 
   city: "en bas de l'eau"
   accentcity: "En Bas de l'Eau"
-en bas d'lo: 
+en bas dlo: 
   city: "en bas d'lo"
   accentcity: "En Bas d'lo"
 en bas: 
@@ -10266,10 +10266,10 @@ fond coupeau:
 fond cuivre: 
   city: "fond cuivre"
   accentcity: "Fond Cuivre"
-fond d'acaque: 
+fond dacaque: 
   city: "fond d'acaque"
   accentcity: "Fond d'Acaque"
-fond d'enfer: 
+fond denfer: 
   city: "fond d'enfer"
   accentcity: "Fond d'Enfer"
 fond dennas: 
@@ -10296,7 +10296,7 @@ fond des negres:
 fond diable: 
   city: "fond diable"
   accentcity: "Fond Diable"
-fond d'icaque: 
+fond dicaque: 
   city: "fond d'icaque"
   accentcity: "Fond d'Icaque"
 fond digo: 
@@ -10410,7 +10410,7 @@ fond lagrange:
 fond laporte: 
   city: "fond laporte"
   accentcity: "Fond Laporte"
-fond l'aurore: 
+fond laurore: 
   city: "fond l'aurore"
   accentcity: "Fond L'Aurore"
 fond league: 
@@ -11121,7 +11121,7 @@ garde joanem:
 garde jumeau: 
   city: "garde jumeau"
   accentcity: "Garde Jumeau"
-garde l'acul: 
+garde lacul: 
   city: "garde l'acul"
   accentcity: "Garde l'Acul"
 garde la victoire: 
@@ -11673,7 +11673,7 @@ grand acul:
 grand air: 
   city: "grand air"
   accentcity: "Grand Air"
-grand' anse: 
+grand anse: 
   city: "grand' anse"
   accentcity: "Grand' Anse"
 grand bangnin: 
@@ -11721,7 +11721,7 @@ grand croix:
 grand decor: 
   city: "grand decor"
   accentcity: "Grand Décor"
-grand de l'eau: 
+grand de leau: 
   city: "grand de l'eau"
   accentcity: "Grand de l'Eau"
 grand diable: 
@@ -11730,7 +11730,7 @@ grand diable:
 grand dieu: 
   city: "grand dieu"
   accentcity: "Grand Dieu"
-grand d'lo: 
+grand dlo: 
   city: "grand d'lo"
   accentcity: "Grand D'Lo"
 grand doco: 
@@ -11907,10 +11907,10 @@ grand jean:
 grand lagon: 
   city: "grand lagon"
   accentcity: "Grand Lagon"
-grand l'etang: 
+grand letang: 
   city: "grand l'etang"
   accentcity: "Grand l'\xC3\x89tang"
-grand l'islet: 
+grand lislet: 
   city: "grand l'islet"
   accentcity: "Grand L'Islet"
 grand loi: 
@@ -12012,7 +12012,7 @@ granger:
 granmote: 
   city: "granmote"
   accentcity: "Granmote"
-gras del'eau: 
+gras deleau: 
   city: "gras del'eau"
   accentcity: "Gras del'Eau"
 gras: 
@@ -12147,7 +12147,7 @@ gros gayac:
 gros goda: 
   city: "gros goda"
   accentcity: "Gros Goda"
-gros l'abime: 
+gros labime: 
   city: "gros l'abime"
   accentcity: "Gros l'Ab\xC3\xAEme"
 gros labine: 
@@ -12573,7 +12573,7 @@ haut bouc:
 haut dehene: 
   city: "haut dehene"
   accentcity: "Haut Déhène"
-haut de l'eau: 
+haut de leau: 
   city: "haut de l'eau"
   accentcity: "Haut de l'Eau"
 haut dos: 
@@ -12669,7 +12669,7 @@ haut platon:
 haut roche grand: 
   city: "haut roche grand"
   accentcity: "Haut Roche Grand"
-haut saut d'eau: 
+haut saut deau: 
   city: "haut saut d'eau"
   accentcity: "Haut Saut d'Eau"
 haut villote: 
@@ -13047,7 +13047,7 @@ jessin:
 jesus: 
   city: "jesus"
   accentcity: "Jésus"
-jet d'eau: 
+jet deau: 
   city: "jet d'eau"
   accentcity: "Jet d'Eau"
 jeudi: 
@@ -13497,10 +13497,10 @@ la baudry:
 labaye: 
   city: "labaye"
   accentcity: "Labaye"
-l'abbe: 
+labbe: 
   city: "l'abbe"
   accentcity: "L'Abbé"
-l'abbey: 
+labbey: 
   city: "l'abbey"
   accentcity: "L'Abbey"
 la begue: 
@@ -13509,7 +13509,7 @@ la begue:
 labeille: 
   city: "labeille"
   accentcity: "Labeille"
-l'abe: 
+labe: 
   city: "l'abe"
   accentcity: "L'Abe"
 labelle: 
@@ -13848,7 +13848,7 @@ la couture:
 la crete: 
   city: "la crete"
   accentcity: "La Crête"
-l'acrobate: 
+lacrobate: 
   city: "l'acrobate"
   accentcity: "L'Acrobate"
 lacroc: 
@@ -13866,7 +13866,7 @@ lacroix:
 la cuerbe: 
   city: "la cuerbe"
   accentcity: "La Cuerbe"
-l'acul: 
+lacul: 
   city: "l'acul"
   accentcity: "L'Acul"
 la cyplaine: 
@@ -14349,7 +14349,7 @@ lamentin:
 la mercie: 
   city: "la mercie"
   accentcity: "La Mercie"
-l'amerique: 
+lamerique: 
   city: "l'amerique"
   accentcity: "L'Amérique"
 la mer sept: 
@@ -14397,7 +14397,7 @@ lampre:
 lamy: 
   city: "lamy"
   accentcity: "Lamy"
-l'amy: 
+lamy: 
   city: "l'amy"
   accentcity: "L'Amy"
 lanacouinte: 
@@ -14481,7 +14481,7 @@ lan moleur:
 lan moye: 
   city: "lan moye"
   accentcity: "Lan Moye"
-l'anneau: 
+lanneau: 
   city: "l'anneau"
   accentcity: "L'Anneau"
 lanny: 
@@ -14511,7 +14511,7 @@ lan pose:
 lan quartier: 
   city: "lan quartier"
   accentcity: "Lan Quartier"
-l'anse colin: 
+lanse colin: 
   city: "l'anse colin"
   accentcity: "L'Anse Colin"
 lanson: 
@@ -14646,10 +14646,10 @@ la preville:
 laquete lamarre: 
   city: "laquete lamarre"
   accentcity: "Laquête Lamarre"
-l'aqui: 
+laqui: 
   city: "l'aqui"
   accentcity: "L'Aqui"
-l'arabe: 
+larabe: 
   city: "l'arabe"
   accentcity: "L'Arabe"
 laran: 
@@ -14667,13 +14667,13 @@ la ravine:
 la ray: 
   city: "la ray"
   accentcity: "La Ray"
-l'arbre: 
+larbre: 
   city: "l'arbre"
   accentcity: "L'Arbre"
-l'arcahaie: 
+larcahaie: 
   city: "l'arcahaie"
   accentcity: "L'Arcahaie"
-l'ardoise: 
+lardoise: 
   city: "l'ardoise"
   accentcity: "L'Ardoise"
 la regale: 
@@ -14853,7 +14853,7 @@ lasieme:
 la sienne: 
   city: "la sienne"
   accentcity: "La Sienne"
-l'asile: 
+lasile: 
   city: "l'asile"
   accentcity: "L'Asile"
 la sise: 
@@ -15045,13 +15045,13 @@ lauri:
 laury: 
   city: "laury"
   accentcity: "Laury"
-l'autre bord de l'eau: 
+lautre bord de leau: 
   city: "l'autre bord de l'eau"
   accentcity: "L'Autre Bord de l'Eau"
-l'autre bord d'l'eau: 
+lautre bord dleau: 
   city: "l'autre bord d'l'eau"
   accentcity: "L'autre Bord D'l'eau"
-l'autre bord riviere: 
+lautre bord riviere: 
   city: "l'autre bord riviere"
   accentcity: "L'Autre Bord Rivière"
 lauture: 
@@ -15102,7 +15102,7 @@ laveille:
 lavelanet: 
   city: "lavelanet"
   accentcity: "Lavelanet"
-l'avenir: 
+lavenir: 
   city: "l'avenir"
   accentcity: "L'Avenir"
 laventin: 
@@ -15177,10 +15177,10 @@ lazarre:
 leandre: 
   city: "leandre"
   accentcity: "Léandre"
-l'eau calme: 
+leau calme: 
   city: "l'eau calme"
   accentcity: "L'Eau Calme"
-l'eau gaillee: 
+leau gaillee: 
   city: "l'eau gaillee"
   accentcity: "L'Eau Gaillée"
 lebas: 
@@ -15204,7 +15204,7 @@ le brun:
 le cap: 
   city: "le cap"
   accentcity: "Le Cap"
-l'echange: 
+lechange: 
   city: "l'echange"
   accentcity: "L'\xC3\x89change"
 le chat: 
@@ -15219,7 +15219,7 @@ leclerc:
 le conta: 
   city: "le conta"
   accentcity: "Le Conta"
-l'ecuyer: 
+lecuyer: 
   city: "l'ecuyer"
   accentcity: "L'\xC3\x89cuyer"
 le dier: 
@@ -15327,7 +15327,7 @@ lepinad:
 le pina: 
   city: "le pina"
   accentcity: "Le Pina"
-l'epinard: 
+lepinard: 
   city: "l'epinard"
   accentcity: "L'\xC3\x89pinard"
 le pinay: 
@@ -15336,7 +15336,7 @@ le pinay:
 lepine: 
   city: "lepine"
   accentcity: "Lépine"
-l'epine: 
+lepine: 
   city: "l'epine"
   accentcity: "L'\xC3\x89pine"
 le pretre: 
@@ -15345,10 +15345,10 @@ le pretre:
 le revoir: 
   city: "le revoir"
   accentcity: "Le Revoir"
-l'ermitage: 
+lermitage: 
   city: "l'ermitage"
   accentcity: "L'Ermitage"
-l'ermite: 
+lermite: 
   city: "l'ermite"
   accentcity: "L'Ermite"
 le rochel: 
@@ -15396,7 +15396,7 @@ lescamotier:
 les cayes: 
   city: "les cayes"
   accentcity: "Les Cayes"
-l'esclave: 
+lesclave: 
   city: "l'esclave"
   accentcity: "L'Esclave"
 lesco: 
@@ -15447,7 +15447,7 @@ lesson:
 les sources chaudes: 
   city: "les sources chaudes"
   accentcity: "Les Sources Chaudes"
-l'estere large: 
+lestere large: 
   city: "l'estere large"
   accentcity: "L'Estère Large"
 les verettes: 
@@ -15456,16 +15456,16 @@ les verettes:
 les verrettes: 
   city: "les verrettes"
   accentcity: "Les Verrettes"
-l'etable: 
+letable: 
   city: "l'etable"
   accentcity: "L'\xC3\x89table"
 letance: 
   city: "letance"
   accentcity: "Létance"
-l'etang: 
+letang: 
   city: "l'etang"
   accentcity: "L'\xC3\x89tang"
-l'eternel: 
+leternel: 
   city: "l'eternel"
   accentcity: "L'\xC3\x89ternel"
 le tiro: 
@@ -15474,7 +15474,7 @@ le tiro:
 le trou: 
   city: "le trou"
   accentcity: "Le Trou"
-l'eveille: 
+leveille: 
   city: "l'eveille"
   accentcity: "L'\xC3\x89veillé"
 leveille: 
@@ -15483,7 +15483,7 @@ leveille:
 leveque: 
   city: "leveque"
   accentcity: "Lévêque"
-l'eveque: 
+leveque: 
   city: "l'eveque"
   accentcity: "L'\xC3\x89vêque"
 levy: 
@@ -15510,13 +15510,13 @@ lezinc:
 lherisson: 
   city: "lherisson"
   accentcity: "Lhérisson"
-l'hermitage: 
+lhermitage: 
   city: "l'hermitage"
   accentcity: "L'Hermitage"
-l'hermite: 
+lhermite: 
   city: "l'hermite"
   accentcity: "L'Hermite"
-l'homond: 
+lhomond: 
   city: "l'homond"
   accentcity: "L'Homond"
 lhomond: 
@@ -15525,7 +15525,7 @@ lhomond:
 lhomon: 
   city: "lhomon"
   accentcity: "Lhomon"
-l'hopital: 
+lhopital: 
   city: "l'hopital"
   accentcity: "L'H\xC3\xB4pital"
 liancourt: 
@@ -15609,7 +15609,7 @@ ligrin:
 lilas: 
   city: "lilas"
   accentcity: "Lilas"
-l'ilet: 
+lilet: 
   city: "l'ilet"
   accentcity: "L'\xC3\x8Elet"
 lilette: 
@@ -15663,7 +15663,7 @@ lisaille:
 lisainte: 
   city: "lisainte"
   accentcity: "Lisainte"
-l'islet: 
+lislet: 
   city: "l'islet"
   accentcity: "L'Islet"
 lissade: 
@@ -15678,13 +15678,13 @@ livrette:
 lizim: 
   city: "lizim"
   accentcity: "Lizim"
-l'llet: 
+lllet: 
   city: "l'llet"
   accentcity: "L'llet"
 loba: 
   city: "loba"
   accentcity: "Loba"
-l'obeissance: 
+lobeissance: 
   city: "l'obeissance"
   accentcity: "L'Obéissance"
 loby: 
@@ -15750,7 +15750,7 @@ lohobe:
 loirier: 
   city: "loirier"
   accentcity: "Loirier"
-l'oiseau: 
+loiseau: 
   city: "l'oiseau"
   accentcity: "L'Oiseau"
 loison: 
@@ -15807,7 +15807,7 @@ longueste:
 lopahon: 
   city: "lopahon"
   accentcity: "Lopahon"
-l'opinard: 
+lopinard: 
   city: "l'opinard"
   accentcity: "L'Opinard"
 lopino: 
@@ -15987,7 +15987,7 @@ loutour:
 lozier: 
   city: "lozier"
   accentcity: "Lozier"
-l'pine: 
+lpine: 
   city: "l'pine"
   accentcity: "L'Pine"
 lubin: 
@@ -16014,7 +16014,7 @@ lundy:
 lurette: 
   city: "lurette"
   accentcity: "Lurette"
-l'usine: 
+lusine: 
   city: "l'usine"
   accentcity: "L'Usine"
 maberger: 
@@ -16155,7 +16155,7 @@ madame lazarre:
 madame legros: 
   city: "madame legros"
   accentcity: "Madame Legros"
-madame l'estere: 
+madame lestere: 
   city: "madame l'estere"
   accentcity: "Madame l'Estere"
 madame louis: 
@@ -16734,7 +16734,7 @@ mare blanche:
 mare bleu: 
   city: "mare bleu"
   accentcity: "Mare Bleu"
-mare bois d'orme: 
+mare bois dorme: 
   city: "mare bois d'orme"
   accentcity: "Mare Bois d'Orme"
 mare bois pin: 
@@ -16827,7 +16827,7 @@ mare laurent:
 mare legu: 
   city: "mare legu"
   accentcity: "Mare Legu"
-mare l'etang: 
+mare letang: 
   city: "mare l'etang"
   accentcity: "Mare l'\xC3\x89tang"
 mare loranger: 
@@ -17196,7 +17196,7 @@ matelac:
 matelas: 
   city: "matelas"
   accentcity: "Matelas"
-mate l'ermite: 
+mate lermite: 
   city: "mate l'ermite"
   accentcity: "Mate L'ermite"
 matelgate: 
@@ -19413,16 +19413,16 @@ nan latanier:
 nan lavaud: 
   city: "nan lavaud"
   accentcity: "Nan Lavaud"
-nan l'bbe: 
+nan lbbe: 
   city: "nan l'bbe"
   accentcity: "Nan l'bbé"
-nan l'etang: 
+nan letang: 
   city: "nan l'etang"
   accentcity: "Nan l'\xC3\x89tang"
-nan l'etat: 
+nan letat: 
   city: "nan l'etat"
   accentcity: "Nan l'\xC3\x89tat"
-nan l'etoile: 
+nan letoile: 
   city: "nan l'etoile"
   accentcity: "Nan L'\xC3\x89toile"
 nan liane: 
@@ -20226,7 +20226,7 @@ obleon:
 obo: 
   city: "obo"
   accentcity: "Obo"
-o'brian: 
+obrian: 
   city: "o'brian"
   accentcity: "O'Brian"
 octon: 
@@ -20247,7 +20247,7 @@ odino:
 oge: 
   city: "oge"
   accentcity: "Ogé"
-o'gorman: 
+ogorman: 
   city: "o'gorman"
   accentcity: "O'Gorman"
 olive: 
@@ -20292,7 +20292,7 @@ oreste:
 oriani: 
   city: "oriani"
   accentcity: "Oriani"
-o'rouck: 
+orouck: 
   city: "o'rouck"
   accentcity: "O'Rouck"
 ostry: 
@@ -21066,7 +21066,7 @@ petite anse:
 petite-anse: 
   city: "petite-anse"
   accentcity: "Petite-Anse"
-petite bac d'aquin: 
+petite bac daquin: 
   city: "petite bac d'aquin"
   accentcity: "Petite Bac D'Aquin"
 petite bresilienne: 
@@ -21108,7 +21108,7 @@ petite riviere bayonnais:
 petite riviere de dame marie: 
   city: "petite riviere de dame marie"
   accentcity: "Petite Rivière de Dame Marie"
-petite riviere de l'artibonite: 
+petite riviere de lartibonite: 
   city: "petite riviere de l'artibonite"
   accentcity: "Petite Rivière de l'Artibonite"
 petite riviere de nippes: 
@@ -21252,7 +21252,7 @@ picoulet:
 pied cabrouette: 
   city: "pied cabrouette"
   accentcity: "Pied Cabrouette"
-pied d'or: 
+pied dor: 
   city: "pied d'or"
   accentcity: "Pied d'Or"
 pied ferme: 
@@ -21264,7 +21264,7 @@ pied louis:
 pie place: 
   city: "pie place"
   accentcity: "Pie Place"
-pierre d'eau: 
+pierre deau: 
   city: "pierre d'eau"
   accentcity: "Pierre d'Eau"
 pierre flie: 
@@ -21546,10 +21546,10 @@ plaine coursac:
 plaine des mapous: 
   city: "plaine des mapous"
   accentcity: "Plaine des Mapous"
-plaine d'olive: 
+plaine dolive: 
   city: "plaine d'olive"
   accentcity: "Plaine D'Olive"
-plaine d'orange: 
+plaine dorange: 
   city: "plaine d'orange"
   accentcity: "Plaine d'Orange"
 plaine du nord: 
@@ -21660,7 +21660,7 @@ platana:
 platarage: 
   city: "platarage"
   accentcity: "Platarage"
-plateau l'abbe: 
+plateau labbe: 
   city: "plateau l'abbe"
   accentcity: "Plateau l'Abbé"
 plateau: 
@@ -21762,10 +21762,10 @@ platon la pomme:
 platon laroudie: 
   city: "platon laroudie"
   accentcity: "Platon Laroudie"
-platon l'aurore: 
+platon laurore: 
   city: "platon l'aurore"
   accentcity: "Platon l'Aurore"
-platon l'etang: 
+platon letang: 
   city: "platon l'etang"
   accentcity: "Platon l'\xC3\x89tang"
 platon lourdie: 
@@ -21987,7 +21987,7 @@ polvo:
 poly: 
   city: "poly"
   accentcity: "Poly"
-pomme d'amour: 
+pomme damour: 
   city: "pomme d'amour"
   accentcity: "Pomme d'Amour"
 pomme gomme: 
@@ -22038,7 +22038,7 @@ pont coffieres:
 pont david: 
   city: "pont david"
   accentcity: "Pont David"
-pont de l'estere: 
+pont de lestere: 
   city: "pont de l'estere"
   accentcity: "Pont de l'Estère"
 pontgot: 
@@ -22050,7 +22050,7 @@ pont janvier:
 pont kenete: 
   city: "pont kenete"
   accentcity: "Pont Kenete"
-pont l'estere: 
+pont lestere: 
   city: "pont l'estere"
   accentcity: "Pont l'Estere"
 pont madame louis gapi: 
@@ -22104,7 +22104,7 @@ portail montrouis:
 portail: 
   city: "portail"
   accentcity: "Portail"
-port a l'ecu: 
+port a lecu: 
   city: "port a l'ecu"
   accentcity: "Port à l'\xC3\x89cu"
 port a nannette: 
@@ -22305,7 +22305,7 @@ presim:
 presina: 
   city: "presina"
   accentcity: "Présina"
-presqu'ile du mole: 
+presquile du mole: 
   city: "presqu'ile du mole"
   accentcity: "Presqu'\xC3\xAEle du M\xC3\xB4le"
 pressac: 
@@ -22659,7 +22659,7 @@ ravine cocoyer:
 ravine desroches: 
   city: "ravine desroches"
   accentcity: "Ravine Desroches"
-ravine d' haiti: 
+ravine d haiti: 
   city: "ravine d' haiti"
   accentcity: "Ravine d' Ha\xC3\xAFti"
 ravine dou: 
@@ -23478,10 +23478,10 @@ saint-medard:
 saint-mesmin: 
   city: "saint-mesmin"
   accentcity: "Saint-Mesmin"
-saint-michel de l'atalaye: 
+saint-michel de latalaye: 
   city: "saint-michel de l'atalaye"
   accentcity: "Saint-Michel de l'Atalaye"
-saint michel de l'attaiaye: 
+saint michel de lattaiaye: 
   city: "saint michel de l'attaiaye"
   accentcity: "Saint Michel de L'Attaiaye"
 saint-michel du sud: 
@@ -23712,13 +23712,13 @@ saut blanche:
 saut blanc: 
   city: "saut blanc"
   accentcity: "Saut Blanc"
-saut d'eau barada: 
+saut deau barada: 
   city: "saut d'eau barada"
   accentcity: "Saut d'Eau Barada"
-saut d'eau de ville bonheur: 
+saut deau de ville bonheur: 
   city: "saut d'eau de ville bonheur"
   accentcity: "Saut d'Eau de Ville Bonheur"
-saut d'eau: 
+saut deau: 
   city: "saut d'eau"
   accentcity: "Saut d'Eau"
 sauterre: 
@@ -24726,10 +24726,10 @@ testas:
 tetard: 
   city: "tetard"
   accentcity: "Têtard"
-tete a l'eau: 
+tete a leau: 
   city: "tete a l'eau"
   accentcity: "Tête à l'Eau"
-tete a l'ile: 
+tete a lile: 
   city: "tete a l'ile"
   accentcity: "Tête à l'\xC3\x8Ele"
 "tete ba\xC2\x93uf": 
@@ -24741,7 +24741,7 @@ tete canal:
 tete chadeau: 
   city: "tete chadeau"
   accentcity: "Tête Chadeau"
-tete de l'eau: 
+tete de leau: 
   city: "tete de l'eau"
   accentcity: "Tête de l'Eau"
 tete donasse: 
@@ -24753,7 +24753,7 @@ tete grande ravine:
 tete grand ravine: 
   city: "tete grand ravine"
   accentcity: "Tête Grand Ravine"
-tete l'abeille: 
+tete labeille: 
   city: "tete l'abeille"
   accentcity: "Tête l'Abeille"
 tete ligne: 
@@ -25056,7 +25056,7 @@ ti laurier:
 ti lauri: 
   city: "ti lauri"
   accentcity: "Ti Lauri"
-ti l'etang: 
+ti letang: 
   city: "ti l'etang"
   accentcity: "Ti l'\xC3\x89tang"
 tilory: 
@@ -25497,7 +25497,7 @@ trompette:
 trope: 
   city: "trope"
   accentcity: "Trope"
-trou a l'eau: 
+trou a leau: 
   city: "trou a l'eau"
   accentcity: "Trou à l'Eau"
 trou baguette: 
@@ -25545,13 +25545,13 @@ trou couvri:
 trou dauphin: 
   city: "trou dauphin"
   accentcity: "Trou Dauphin"
-trou d' eau: 
+trou d eau: 
   city: "trou d' eau"
   accentcity: "Trou d' Eau"
-trou d'eau: 
+trou deau: 
   city: "trou d'eau"
   accentcity: "Trou d'Eau"
-trou d'enfer: 
+trou denfer: 
   city: "trou d'enfer"
   accentcity: "Trou d'Enfer"
 trou des hommes: 
@@ -25605,10 +25605,10 @@ trou jules:
 trou laleau: 
   city: "trou laleau"
   accentcity: "Trou Laleau"
-trou l'embarras: 
+trou lembarras: 
   city: "trou l'embarras"
   accentcity: "Trou l'Embarras"
-trou l'etang: 
+trou letang: 
   city: "trou l'etang"
   accentcity: "Trou l'\xC3\x89tang"
 trou louis: 
@@ -25992,10 +25992,10 @@ vieu caille:
 vieux boucan: 
   city: "vieux boucan"
   accentcity: "Vieux Boucan"
-vieux bourg d'aguin: 
+vieux bourg daguin: 
   city: "vieux bourg d'aguin"
   accentcity: "Vieux Bourg d'Aguin"
-vieux bourg d'aquin: 
+vieux bourg daquin: 
   city: "vieux bourg d'aquin"
   accentcity: "Vieux Bourg d'Aquin"
 vieux bourg de jeremie: 
@@ -26103,7 +26103,7 @@ ville de anse a foleur:
 ville de anse a veau: 
   city: "ville de anse a veau"
   accentcity: "Ville de Anse à Veau"
-ville de anse d'hainault: 
+ville de anse dhainault: 
   city: "ville de anse d'hainault"
   accentcity: "Ville de Anse d'Hainault"
 ville de apricots: 
@@ -26136,16 +26136,16 @@ ville de jean rabel:
 ville de jeremie: 
   city: "ville de jeremie"
   accentcity: "Ville de Jérémie"
-ville de l'anse rouge: 
+ville de lanse rouge: 
   city: "ville de l'anse rouge"
   accentcity: "Ville de l'Anse Rouge"
-ville de l'arcahaie: 
+ville de larcahaie: 
   city: "ville de l'arcahaie"
   accentcity: "Ville de l'Arcahaie"
 ville de lascahobas: 
   city: "ville de lascahobas"
   accentcity: "Ville de Lascahobas"
-ville de l'asile: 
+ville de lasile: 
   city: "ville de l'asile"
   accentcity: "Ville de l'Asile"
 ville de leogane: 
@@ -26160,7 +26160,7 @@ ville de moron:
 ville de petion-ville: 
   city: "ville de petion-ville"
   accentcity: "Ville de Pétion-Ville"
-ville de petite riviere de l'artibonite: 
+ville de petite riviere de lartibonite: 
   city: "ville de petite riviere de l'artibonite"
   accentcity: "Ville de Petite Rivière de l'Artibonite"
 ville de petite riviere: 
@@ -26277,7 +26277,7 @@ volel:
 voltaire: 
   city: "voltaire"
   accentcity: "Voltaire"
-voute l'eglise: 
+voute leglise: 
   city: "voute l'eglise"
   accentcity: "Vo\xC3\xBBte l'\xC3\x89glise"
 voute rouge: 

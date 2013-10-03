@@ -561,10 +561,10 @@ aguada de cima:
 agua da figueira: 
   city: "agua da figueira"
   accentcity: "\xC3\x81gua da Figueira"
-agua d' alte: 
+agua d alte: 
   city: "agua d' alte"
   accentcity: "\xC3\x81gua d' Alte"
-agua d'alto: 
+agua dalto: 
   city: "agua d'alto"
   accentcity: "Agua d'Alto"
 agua das casas: 
@@ -3831,7 +3831,7 @@ barca:
 barca da amieira: 
   city: "barca da amieira"
   accentcity: "Barca da Amieira"
-barca d'alva: 
+barca dalva: 
   city: "barca d'alva"
   accentcity: "Barca d'Alva"
 barca do lago: 
@@ -4659,7 +4659,7 @@ boca da mata:
 boca da mindelo: 
   city: "boca da mindelo"
   accentcity: "B\xC3\xB4ca da Mindelo"
-boca d'homem: 
+boca dhomem: 
   city: "boca d'homem"
   accentcity: "Boca d'Homem"
 bocado: 
@@ -7509,7 +7509,7 @@ casais do ferreira:
 casais do giraldo: 
   city: "casais do giraldo"
   accentcity: "Casais do Giraldo"
-casais d' oliveira do cabo: 
+casais d oliveira do cabo: 
   city: "casais d' oliveira do cabo"
   accentcity: "Casais d' Oliveira do Cabo"
 casais do livramento: 
@@ -7683,7 +7683,7 @@ casal da igreja:
 casal da legua: 
   city: "casal da legua"
   accentcity: "Casal da Légua"
-casal d'alge: 
+casal dalge: 
   city: "casal d'alge"
   accentcity: "Casal d'Alge"
 casal da marinha: 
@@ -12048,7 +12048,7 @@ eucizia:
 eugaria: 
   city: "eugaria"
   accentcity: "Eugaria"
-evora d'alcobaca: 
+evora dalcobaca: 
   city: "evora d'alcobaca"
   accentcity: "\xC3\x89vora d'Alcobaça"
 evora: 
@@ -12474,10 +12474,10 @@ feliteira:
 felizes: 
   city: "felizes"
   accentcity: "Felizes"
-fenaes d'ajuda achadinha: 
+fenaes dajuda achadinha: 
   city: "fenaes d'ajuda achadinha"
   accentcity: "Fenaes d'Ajuda Achadinha"
-fenaes d'ajuda: 
+fenaes dajuda: 
   city: "fenaes d'ajuda"
   accentcity: "Fenaes d'Ajuda"
 fenaes da luz: 
@@ -12486,7 +12486,7 @@ fenaes da luz:
 fenais da ajuda: 
   city: "fenais da ajuda"
   accentcity: "Fenais da Ajuda"
-fenais d'ajuda: 
+fenais dajuda: 
   city: "fenais d'ajuda"
   accentcity: "Fenais d'Ajuda"
 fenais da luz: 
@@ -13335,7 +13335,7 @@ forno de cima:
 forno: 
   city: "forno"
   accentcity: "Forno"
-fornos d' algodres: 
+fornos d algodres: 
   city: "fornos d' algodres"
   accentcity: "Fornos d' Algodres"
 fornos de algodres: 
@@ -16695,7 +16695,7 @@ lugar da igreja:
 lugar da igreja paco: 
   city: "lugar da igreja paco"
   accentcity: "Lugar da Igreja Paço"
-lugar d' alem: 
+lugar d alem: 
   city: "lugar d' alem"
   accentcity: "Lugar d' Além"
 lugar das adegas: 
@@ -18282,7 +18282,7 @@ miomaes:
 mioma: 
   city: "mioma"
   accentcity: "Mioma"
-mira d'aire: 
+mira daire: 
   city: "mira d'aire"
   accentcity: "Mira d'Aire"
 miradeses: 
@@ -19278,7 +19278,7 @@ monte de valbom:
 monte de vale de barqueiros: 
   city: "monte de vale de barqueiros"
   accentcity: "Monte de Vale de Barqueiros"
-monte de vale d'el rei: 
+monte de vale del rei: 
   city: "monte de vale d'el rei"
   accentcity: "Monte de Vale d'El Rei"
 monte de vale do bispo de cima: 
@@ -20118,7 +20118,7 @@ motes:
 motrinos: 
   city: "motrinos"
   accentcity: "Motrinos"
-mouchao d'alfange: 
+mouchao dalfange: 
   city: "mouchao d'alfange"
   accentcity: "Mouchão d'Alfange"
 moucharia: 
@@ -21219,7 +21219,7 @@ pachecos:
 paco da quinta: 
   city: "paco da quinta"
   accentcity: "Paço da Quinta"
-paco d'arcos: 
+paco darcos: 
   city: "paco d'arcos"
   accentcity: "Paço d'Arcos"
 paco das ilhas: 
@@ -21378,7 +21378,7 @@ pai correia:
 pai das donas: 
   city: "pai das donas"
   accentcity: "Pai das Donas"
-pai d'aviz: 
+pai daviz: 
   city: "pai d'aviz"
   accentcity: "Pai d'Aviz"
 pailobo: 
@@ -23895,7 +23895,7 @@ porto ferreiro:
 porto formoso: 
   city: "porto formoso"
   accentcity: "Porto Formoso"
-porto godinho d'alem: 
+porto godinho dalem: 
   city: "porto godinho d'alem"
   accentcity: "Porto Godinho d'Além"
 porto godinho: 
@@ -24099,7 +24099,7 @@ povoa da igreja:
 povoa da isenta: 
   city: "povoa da isenta"
   accentcity: "Póvoa da Isenta"
-povoa d'alem: 
+povoa dalem: 
   city: "povoa d'alem"
   accentcity: "Póvoa d'Além"
 povoa da lomba: 
@@ -24186,7 +24186,7 @@ povoa de leiria:
 povoa de lisboa: 
   city: "povoa de lisboa"
   accentcity: "Póvoa de Lisboa"
-povoa d'el-rei: 
+povoa del-rei: 
   city: "povoa d'el-rei"
   accentcity: "Póvoa d'El-Rei"
 povoa de luzianes: 
@@ -24606,13 +24606,13 @@ quartas:
 quarteira: 
   city: "quarteira"
   accentcity: "Quarteira"
-quartos d'agem: 
+quartos dagem: 
   city: "quartos d'agem"
   accentcity: "Quartos d'Agem"
-quartos d'alem: 
+quartos dalem: 
   city: "quartos d'alem"
   accentcity: "Quartos d'Além"
-quartos d'aquem: 
+quartos daquem: 
   city: "quartos d'aquem"
   accentcity: "Quartos d'Aquém"
 quartos: 
@@ -25842,7 +25842,7 @@ regilde:
 regoa: 
   city: "regoa"
   accentcity: "Regoa"
-rego d' agua: 
+rego d agua: 
   city: "rego d' agua"
   accentcity: "Rego d' \xC3\x81gua"
 rego da leirosa: 
@@ -26193,7 +26193,7 @@ ribeira da isna:
 ribeira da janela: 
   city: "ribeira da janela"
   accentcity: "Ribeira da Janela"
-ribeira d'alem: 
+ribeira dalem: 
   city: "ribeira d'alem"
   accentcity: "Ribeira d'Além"
 ribeira da mata: 
@@ -26616,7 +26616,7 @@ rochina:
 rochoso: 
   city: "rochoso"
   accentcity: "Rochoso"
-rocio-d'abramtes: 
+rocio-dabramtes: 
   city: "rocio-d'abramtes"
   accentcity: "Rocio-d'Abramtes"
 roda cimeira: 
@@ -27393,7 +27393,7 @@ sanjurge:
 san martino de milhundas: 
   city: "san martino de milhundas"
   accentcity: "San Martino de Milhundas"
-san miguel d'ache: 
+san miguel dache: 
   city: "san miguel d'ache"
   accentcity: "San Miguel d'Ache"
 san miguel de arcos: 
@@ -27633,7 +27633,7 @@ santana do mato:
 santana: 
   city: "santana"
   accentcity: "Santana"
-sant'anna: 
+santanna: 
   city: "sant'anna"
   accentcity: "Sant'Anna"
 santa obaia: 
@@ -27942,7 +27942,7 @@ sao bras do regedouro:
 sao bras: 
   city: "sao bras"
   accentcity: "São Brás"
-sao braz d'alportel: 
+sao braz dalportel: 
   city: "sao braz d'alportel"
   accentcity: "São Braz d'Alportel"
 sao braz de aportel: 
@@ -28110,7 +28110,7 @@ sao joao da madeira:
 sao joao da madeiro: 
   city: "sao joao da madeiro"
   accentcity: "São João da Madeiro"
-sao joao d'antas: 
+sao joao dantas: 
   city: "sao joao d'antas"
   accentcity: "São João d'Antas"
 sao joao da pesqueira: 
@@ -28269,7 +28269,7 @@ sao martinho da cortica:
 sao martinho da gandara: 
   city: "sao martinho da gandara"
   accentcity: "São Martinho da G\xC3\xA2ndara"
-sao martinho d'arvore: 
+sao martinho darvore: 
   city: "sao martinho d'arvore"
   accentcity: "São Martinho d'Arvore"
 sao martinho das amoreiras: 
@@ -28380,7 +28380,7 @@ sao miguel:
 sao nicolau: 
   city: "sao nicolau"
   accentcity: "São Nicolau"
-sao paio d'antas: 
+sao paio dantas: 
   city: "sao paio d'antas"
   accentcity: "São Paio d'Antas"
 sao paio de cima: 
@@ -29055,7 +29055,7 @@ senhora da graca:
 senhora da hora: 
   city: "senhora da hora"
   accentcity: "Senhora da Hora"
-senhora d'ajuda: 
+senhora dajuda: 
   city: "senhora d'ajuda"
   accentcity: "Senhora d'Ajuda"
 senhora da luz: 
@@ -29328,7 +29328,7 @@ serra de janeanes:
 serradelo: 
   city: "serradelo"
   accentcity: "Serradelo"
-serra d'elrei: 
+serra delrei: 
   city: "serra d'elrei"
   accentcity: "Serra d'Elrei"
 serra de santa catarina: 
@@ -29760,10 +29760,10 @@ sobral da abilheira:
 sobral da adica: 
   city: "sobral da adica"
   accentcity: "Sobral da Adiça"
-sobral d'abilheira: 
+sobral dabilheira: 
   city: "sobral d'abilheira"
   accentcity: "Sobral d'Abilheira"
-sobral d'adica: 
+sobral dadica: 
   city: "sobral d'adica"
   accentcity: "Sobral d'Adiça"
 sobral da serra: 
@@ -32613,7 +32613,7 @@ vale joao domingos:
 vale longo: 
   city: "vale longo"
   accentcity: "Vale Longo"
-vale madeiros d'alem: 
+vale madeiros dalem: 
   city: "vale madeiros d'alem"
   accentcity: "Vale Madeiros d'Além"
 vale madeiros: 
@@ -33756,7 +33756,7 @@ vila nova da cereira:
 vila nova da cerveira: 
   city: "vila nova da cerveira"
   accentcity: "Vila Nova da Cerveira"
-vila nova d'ancos: 
+vila nova dancos: 
   city: "vila nova d'ancos"
   accentcity: "Vila Nova d'Anços"
 vila nova da rainha: 
@@ -33837,7 +33837,7 @@ vila nova do cerveira:
 vila nova do coito: 
   city: "vila nova do coito"
   accentcity: "Vila Nova do Coito"
-vila nova do souto d' el-rei: 
+vila nova do souto d el-rei: 
   city: "vila nova do souto d' el-rei"
   accentcity: "Vila Nova do Souto d' El-Rei"
 vila nova: 
@@ -34275,7 +34275,7 @@ villa franca do campo:
 villa nogueira: 
   city: "villa nogueira"
   accentcity: "Villa Nogueira"
-villa nova d'ancos: 
+villa nova dancos: 
   city: "villa nova d'ancos"
   accentcity: "Villa Nova d'Anços"
 villa nova de foscoa: 
@@ -34284,10 +34284,10 @@ villa nova de foscoa:
 villa nova: 
   city: "villa nova"
   accentcity: "Villa Nova"
-villar d'andorinha: 
+villar dandorinha: 
   city: "villar d'andorinha"
   accentcity: "Villar d'Andorinha"
-villar d'andorinho: 
+villar dandorinho: 
   city: "villar d'andorinho"
   accentcity: "Villar d'Andorinho"
 villa verde: 

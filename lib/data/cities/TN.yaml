@@ -66,7 +66,7 @@ aghir:
 ahmad al hakim: 
   city: "ahmad al hakim"
   accentcity: "Ahmad al Hakim"
-ahmad bin `ali: 
+ahmad bin ali: 
   city: "ahmad bin `ali"
   accentcity: "Ahmad Bin `Ali"
 ahmed ben ali: 
@@ -174,10 +174,10 @@ akouda:
 akuda: 
   city: "akuda"
   accentcity: "Akuda"
-al `abadiliyah: 
+al abadiliyah: 
   city: "al `abadiliyah"
   accentcity: "Al `Abadiliyah"
-al `abbasiyah: 
+al abbasiyah: 
   city: "al `abbasiyah"
   accentcity: "Al `Abbasiyah"
 al achem: 
@@ -195,46 +195,46 @@ al akhawayn:
 al akwash: 
   city: "al akwash"
   accentcity: "Al Akwash"
-al `ala': 
+al ala: 
   city: "al `ala'"
   accentcity: "Al `Ala'"
-al `alandayah: 
+al alandayah: 
   city: "al `alandayah"
   accentcity: "Al `Alandayah"
-al `alim: 
+al alim: 
   city: "al `alim"
   accentcity: "Al `Alim"
-al `aliyah: 
+al aliyah: 
   city: "al `aliyah"
   accentcity: "Al `Aliyah"
-al `alqamah: 
+al alqamah: 
   city: "al `alqamah"
   accentcity: "Al `Alqamah"
-al `aqarib: 
+al aqarib: 
   city: "al `aqarib"
   accentcity: "Al `Aqarib"
 alaqimah: 
   city: "`alaqimah"
   accentcity: "`Alaqimah"
-al `arusah: 
+al arusah: 
   city: "al `arusah"
   accentcity: "Al `Arusah"
 al aswad: 
   city: "al aswad"
   accentcity: "Al Aswad"
-al `ataya: 
+al ataya: 
   city: "al `ataya"
   accentcity: "Al `Ataya"
-al `attar: 
+al attar: 
   city: "al `attar"
   accentcity: "Al `Attar"
-al `ayayishah: 
+al ayayishah: 
   city: "al `ayayishah"
   accentcity: "Al `Ayayishah"
-al `ayn: 
+al ayn: 
   city: "al `ayn"
   accentcity: "Al `Ayn"
-al `azib: 
+al azib: 
   city: "al `azib"
   accentcity: "Al `Azib"
 al bakakishah: 
@@ -321,7 +321,7 @@ al hafsi:
 al hajj as saghir: 
   city: "al hajj as saghir"
   accentcity: "Al Hajj as Saghir"
-al hajj `umar: 
+al hajj umar: 
   city: "al hajj `umar"
   accentcity: "Al Hajj `Umar"
 al hamadah: 
@@ -342,7 +342,7 @@ al harah al kabirah:
 al harah as saghirah: 
   city: "al harah as saghirah"
   accentcity: "Al Harah as Saghirah"
-al hara'iq: 
+al haraiq: 
   city: "al hara'iq"
   accentcity: "Al Hara'iq"
 al hawmat: 
@@ -372,7 +372,7 @@ ali ben ez zine:
 ali lazreg: 
   city: "ali lazreg"
   accentcity: "Ali Lazreg"
-al `irq: 
+al irq: 
   city: "al `irq"
   accentcity: "Al `Irq"
 al jabal al abyad: 
@@ -390,7 +390,7 @@ al jamah:
 al jamm: 
   city: "al jamm"
   accentcity: "Al Jamm"
-al jana'in: 
+al janain: 
   city: "al jana'in"
   accentcity: "Al Jana'in"
 al jawawidah: 
@@ -414,7 +414,7 @@ al kaf:
 al kallabin: 
   city: "al kallabin"
   accentcity: "Al Kallabin"
-al kana'is: 
+al kanais: 
   city: "al kana'is"
   accentcity: "Al Kana'is"
 al karashiwah: 
@@ -438,7 +438,7 @@ al khadriyah:
 al khalij: 
   city: "al khalij"
   accentcity: "Al Khalij"
-al khara'ib: 
+al kharaib: 
   city: "al khara'ib"
   accentcity: "Al Khara'ib"
 al khawi: 
@@ -483,10 +483,10 @@ al mahdiyah:
 al mahras: 
   city: "al mahras"
   accentcity: "Al Mahras"
-al ma'i: 
+al mai: 
   city: "al ma'i"
   accentcity: "Al Ma'i"
-al ma'iyah: 
+al maiyah: 
   city: "al ma'iyah"
   accentcity: "Al Ma'iyah"
 al majlis: 
@@ -501,7 +501,7 @@ al makhzan:
 al malasin: 
   city: "al malasin"
   accentcity: "Al Malasin"
-al ma`murah: 
+al mamurah: 
   city: "al ma`murah"
   accentcity: "Al Ma`murah"
 al manarah: 
@@ -525,7 +525,7 @@ al marirah:
 al marsa: 
   city: "al marsa"
   accentcity: "Al Marsá"
-al mas`adin: 
+al masadin: 
   city: "al mas`adin"
   accentcity: "Al Mas`adin"
 al masdur: 
@@ -570,13 +570,13 @@ al miknasi:
 al minshar: 
   city: "al minshar"
   accentcity: "Al Minshar"
-al mi`sarah: 
+al misarah: 
   city: "al mi`sarah"
   accentcity: "Al Mi`sarah"
 al mstiri: 
   city: "al mstiri"
   accentcity: "Al Mstiri"
-al mu`allaqah: 
+al muallaqah: 
   city: "al mu`allaqah"
   accentcity: "Al Mu`allaqah"
 al muhammadiyah: 
@@ -597,19 +597,19 @@ al murnaqiyah:
 alouet el gounna: 
   city: "alouet el gounna"
   accentcity: "Alouet el Gounna"
-al qal`ah al kabirah: 
+al qalah al kabirah: 
   city: "al qal`ah al kabirah"
   accentcity: "Al Qal`ah al Kabirah"
-al qal`ah al kubra: 
+al qalah al kubra: 
   city: "al qal`ah al kubra"
   accentcity: "Al Qal`ah al Kubrá"
-al qal`ah: 
+al qalah: 
   city: "al qal`ah"
   accentcity: "Al Qal`ah"
-al qal`ah as saghirah: 
+al qalah as saghirah: 
   city: "al qal`ah as saghirah"
   accentcity: "Al Qal`ah as Saghirah"
-al qal`ah as sughra: 
+al qalah as sughra: 
   city: "al qal`ah as sughra"
   accentcity: "Al Qal`ah as Sughra"
 al qannarah: 
@@ -627,7 +627,7 @@ al qasr al jadid:
 al qasr: 
   city: "al qasr"
   accentcity: "Al Qasr"
-al qasr as sa`id: 
+al qasr as said: 
   city: "al qasr as sa`id"
   accentcity: "Al Qasr as Sa`id"
 al qasrayn: 
@@ -642,22 +642,22 @@ al qayrawan:
 al qaytanah: 
   city: "al qaytanah"
   accentcity: "Al Qaytanah"
-al qulay`ah: 
+al qulayah: 
   city: "al qulay`ah"
   accentcity: "Al Qulay`ah"
 al qusur: 
   city: "al qusur"
   accentcity: "Al Qusur"
-al `umran: 
+al umran: 
   city: "al `umran"
   accentcity: "Al `Umran"
-al `urqub: 
+al urqub: 
   city: "al `urqub"
   accentcity: "Al `Urqub"
-al `uwaynah: 
+al uwaynah: 
   city: "al `uwaynah"
   accentcity: "Al `Uwaynah"
-al `uwaynah raja: 
+al uwaynah raja: 
   city: "al `uwaynah raja"
   accentcity: "Al `Uwaynah Raja"
 al wardanin: 
@@ -804,7 +804,7 @@ as sahili:
 as sahilin: 
   city: "as sahilin"
   accentcity: "As Sahilin"
-as sa`idah: 
+as saidah: 
   city: "as sa`idah"
   accentcity: "As Sa`idah"
 as saluqiyah: 
@@ -819,10 +819,10 @@ as saqalibah:
 as sars: 
   city: "as sars"
   accentcity: "As Sars"
-as sawda': 
+as sawda: 
   city: "as sawda'"
   accentcity: "As Sawda'"
-as sawma`ah: 
+as sawmaah: 
   city: "as sawma`ah"
   accentcity: "As Sawma`ah"
 as sawwaf: 
@@ -858,7 +858,7 @@ at tawfiq:
 audja: 
   city: "audja"
   accentcity: "Audja"
-awlad al `abid: 
+awlad al abid: 
   city: "awlad al `abid"
   accentcity: "Awlad al `Abid"
 awlad al qasim: 
@@ -867,7 +867,7 @@ awlad al qasim:
 awlad ar rawajih: 
   city: "awlad ar rawajih"
   accentcity: "Awlad ar Rawajih"
-awlad bu `ali: 
+awlad bu ali: 
   city: "awlad bu `ali"
   accentcity: "Awlad Bu `Ali"
 awlad bu hadda: 
@@ -879,7 +879,7 @@ awlad majid:
 awlad marzuq: 
   city: "awlad marzuq"
   accentcity: "Awlad Marzuq"
-awlad `umar: 
+awlad umar: 
   city: "awlad `umar"
   accentcity: "Awlad `Umar"
 awlad yaniq: 
@@ -894,7 +894,7 @@ ayaicha:
 ayn ad darahim: 
   city: "`ayn ad darahim"
   accentcity: "`Ayn ad Darahim"
-ayn al `askar: 
+ayn al askar: 
   city: "`ayn al `askar"
   accentcity: "`Ayn al `Askar"
 ayn al farwah: 
@@ -909,7 +909,7 @@ ayn mastur:
 ayn ridwan: 
   city: "`ayn ridwan"
   accentcity: "`Ayn Ridwan"
-ayn sa`idan: 
+ayn saidan: 
   city: "`ayn sa`idan"
   accentcity: "`Ayn Sa`idan"
 ayn sallam: 
@@ -993,7 +993,7 @@ babouch:
 bab saadoun: 
   city: "bab saadoun"
   accentcity: "Bab Saadoun"
-bab sa`dun: 
+bab sadun: 
   city: "bab sa`dun"
   accentcity: "Bab Sa`dun"
 bab sidi kassem: 
@@ -1023,10 +1023,10 @@ baltah:
 banbalah: 
   city: "banbalah"
   accentcity: "Banbalah"
-bani `ata': 
+bani ata: 
   city: "bani `ata'"
   accentcity: "Bani `Ata'"
-bani `ayshun: 
+bani ayshun: 
   city: "bani `ayshun"
   accentcity: "Bani `Ayshun"
 bani barkah: 
@@ -1041,7 +1041,7 @@ bani hassan:
 bani hazaz: 
   city: "bani hazaz"
   accentcity: "Bani Hazaz"
-bani `isa: 
+bani isa: 
   city: "bani `isa"
   accentcity: "Bani `Isa"
 bani khaddash: 
@@ -1317,7 +1317,7 @@ biada:
 biar mafa: 
   city: "biar mafa"
   accentcity: "Biar Mafa"
-bi'ar msifa: 
+biar msifa: 
   city: "bi'ar msifa"
   accentcity: "Bi'ar Msifa"
 bidane: 
@@ -1329,13 +1329,13 @@ bijouville:
 bilad al hadar: 
   city: "bilad al hadar"
   accentcity: "Bilad al Hadar"
-bin `arus: 
+bin arus: 
   city: "bin `arus"
   accentcity: "Bin `Arus"
 bin bashir: 
   city: "bin bashir"
   accentcity: "Bin Bashir"
-bin fata'il: 
+bin fatail: 
   city: "bin fata'il"
   accentcity: "Bin Fata'il"
 bin hamid: 
@@ -1350,7 +1350,7 @@ bin qirdan:
 bin rhilouf: 
   city: "bin rhilouf"
   accentcity: "Bin Rhilouf"
-bi'r al hufayy: 
+bir al hufayy: 
   city: "bi'r al hufayy"
   accentcity: "Bi'r al Hufayy"
 bir ali ben khalifa: 
@@ -1359,22 +1359,22 @@ bir ali ben khalifa:
 bir ali ben khalifat: 
   city: "bir ali ben khalifat"
   accentcity: "Bir Ali Ben Khalifat"
-bi'r `ali bin khalifah: 
+bir ali bin khalifah: 
   city: "bi'r `ali bin khalifah"
   accentcity: "Bi'r `Ali Bin Khalifah"
-bi'r al kudayyat: 
+bir al kudayyat: 
   city: "bi'r al kudayyat"
   accentcity: "Bi'r al Kudayyat"
-bi'r al malluli: 
+bir al malluli: 
   city: "bi'r al malluli"
   accentcity: "Bi'r al Malluli"
-bi'r al mashariqah: 
+bir al mashariqah: 
   city: "bi'r al mashariqah"
   accentcity: "Bi'r al Mashariqah"
-bi'r al qas`ah: 
+bir al qasah: 
   city: "bi'r al qas`ah"
   accentcity: "Bi'r al Qas`ah"
-bi'r at tayyib: 
+bir at tayyib: 
   city: "bi'r at tayyib"
   accentcity: "Bi'r at Tayyib"
 bir-bou-reckba: 
@@ -1386,7 +1386,7 @@ bir-bou-regba:
 bir bou rekba: 
   city: "bir bou rekba"
   accentcity: "Bir Bou Rekba"
-bi'r bu ruqbah: 
+bir bu ruqbah: 
   city: "bi'r bu ruqbah"
   accentcity: "Bi'r Bu Ruqbah"
 bir chaaba: 
@@ -1428,7 +1428,7 @@ bir et taieb:
 bir halima: 
   city: "bir halima"
   accentcity: "Bir Halima"
-bi'r halimah: 
+bir halimah: 
   city: "bi'r halimah"
   accentcity: "Bi'r Halimah"
 birine: 
@@ -1437,16 +1437,16 @@ birine:
 bir kassa: 
   city: "bir kassa"
   accentcity: "Bir Kassa"
-bi'r khalifah: 
+bir khalifah: 
   city: "bi'r khalifah"
   accentcity: "Bi'r Khalifah"
 bir khelifa: 
   city: "bir khelifa"
   accentcity: "Bir Khelifa"
-bi'r marwah: 
+bir marwah: 
   city: "bi'r marwah"
   accentcity: "Bi'r Marwah"
-bir m'cherga: 
+bir mcherga: 
   city: "bir m'cherga"
   accentcity: "Bir M'cherga"
 bir meherga: 
@@ -1461,10 +1461,10 @@ bir meroua:
 bir morra: 
   city: "bir morra"
   accentcity: "Bir Morra"
-bi'r shalluf: 
+bir shalluf: 
   city: "bi'r shalluf"
   accentcity: "Bi'r Shalluf"
-bi'r shu`bah: 
+bir shubah: 
   city: "bi'r shu`bah"
   accentcity: "Bi'r Shu`bah"
 bir tabeug: 
@@ -1476,7 +1476,7 @@ bir taieb:
 bir tebeug: 
   city: "bir tebeug"
   accentcity: "Bir Tebeug"
-bi'r tebeuk: 
+bir tebeuk: 
   city: "bi'r tebeuk"
   accentcity: "Bi'r Tebeuk"
 bir tebeul: 
@@ -1569,7 +1569,7 @@ bordj cedria-potinville:
 bordj chakir: 
   city: "bordj chakir"
   accentcity: "Bordj Chakir"
-bordj d' arhir: 
+bordj d arhir: 
   city: "bordj d' arhir"
   accentcity: "Bordj d' Arhir"
 bordj ech cheikh belkassem: 
@@ -1971,13 +1971,13 @@ bu adjar:
 bu ali: 
   city: "bu ali"
   accentcity: "Bu Ali"
-bu `aradah: 
+bu aradah: 
   city: "bu `aradah"
   accentcity: "Bu `Aradah"
-bu ar rabi`ah: 
+bu ar rabiah: 
   city: "bu ar rabi`ah"
   accentcity: "Bu ar Rabi`ah"
-bu `attush: 
+bu attush: 
   city: "bu `attush"
   accentcity: "Bu `Attush"
 bu ballal: 
@@ -2016,13 +2016,13 @@ bu mirdas:
 burghuthiyah: 
   city: "burghuthiyah"
   accentcity: "Burghuthiyah"
-burj ahmad za'id: 
+burj ahmad zaid: 
   city: "burj ahmad za'id"
   accentcity: "Burj Ahmad Za'id"
 burj al amri: 
   city: "burj al amri"
   accentcity: "Burj al Amri"
-burj `alawiyin: 
+burj alawiyin: 
   city: "burj `alawiyin"
   accentcity: "Burj `Alawiyin"
 burj al bay: 
@@ -2037,7 +2037,7 @@ burj al hajj ibrahim:
 burj al hajj muhammad: 
   city: "burj al hajj muhammad"
   accentcity: "Burj al Hajj Muhammad"
-burj `ali bin `ammar: 
+burj ali bin ammar: 
   city: "burj `ali bin `ammar"
   accentcity: "Burj `Ali Bin `Ammar"
 burj al khirbah: 
@@ -2070,7 +2070,7 @@ burj frendj:
 burj fulayfil: 
   city: "burj fulayfil"
   accentcity: "Burj Fulayfil"
-burj majin bu al `abbas: 
+burj majin bu al abbas: 
   city: "burj majin bu al `abbas"
   accentcity: "Burj Majin Bu al `Abbas"
 burj qurbatah: 
@@ -2082,7 +2082,7 @@ burj sidi at tawi:
 bu sabah: 
   city: "bu sabah"
   accentcity: "Bu Sabah"
-bu sa`diyah: 
+bu sadiyah: 
   city: "bu sa`diyah"
   accentcity: "Bu Sa`diyah"
 bu salim: 
@@ -2100,7 +2100,7 @@ bu shema:
 bu thady: 
   city: "bu thady"
   accentcity: "Bu Thady"
-bu `urqub: 
+bu urqub: 
   city: "bu `urqub"
   accentcity: "Bu `Urqub"
 camp de la sante: 
@@ -2319,7 +2319,7 @@ daour amar ben ali saidani:
 daour haoussene: 
   city: "daour haoussene"
   accentcity: "Daour Haoussene"
-dar `abd al `aziz: 
+dar abd al aziz: 
   city: "dar `abd al `aziz"
   accentcity: "Dar `Abd al `Aziz"
 dar abdallah bel hadj: 
@@ -2352,7 +2352,7 @@ dar ahmed mohammed largueb:
 dar ahmed msakni: 
   city: "dar ahmed msakni"
   accentcity: "Dar Ahmed Msakni"
-dar al `arusi: 
+dar al arusi: 
   city: "dar al `arusi"
   accentcity: "Dar al `Arusi"
 dar al bay: 
@@ -2361,7 +2361,7 @@ dar al bay:
 dar al fallah: 
   city: "dar al fallah"
   accentcity: "Dar al Fallah"
-dar al hajj `ali bin sulayman: 
+dar al hajj ali bin sulayman: 
   city: "dar al hajj `ali bin sulayman"
   accentcity: "Dar al Hajj `Ali Bin Sulayman"
 dar al hajj hasan: 
@@ -2394,10 +2394,10 @@ dar ali ben mohammed:
 dar ali bey: 
   city: "dar ali bey"
   accentcity: "Dar Ali Bey"
-dar `ali bin hamidu: 
+dar ali bin hamidu: 
   city: "dar `ali bin hamidu"
   accentcity: "Dar `Ali Bin Hamidu"
-dar `ali bin hassan: 
+dar ali bin hassan: 
   city: "dar `ali bin hassan"
   accentcity: "Dar `Ali Bin Hassan"
 dar al jalalibah: 
@@ -2409,7 +2409,7 @@ dar al jundi:
 dar al misratiyah: 
   city: "dar al misratiyah"
   accentcity: "Dar al Misratiyah"
-dar al mu'adhdhin bin qasim: 
+dar al muadhdhin bin qasim: 
   city: "dar al mu'adhdhin bin qasim"
   accentcity: "Dar al Mu'adhdhin Bin Qasim"
 dar al qabisi: 
@@ -2430,7 +2430,7 @@ dar amor cherina:
 dar amrous: 
   city: "dar amrous"
   accentcity: "Dar Amrous"
-dar ash shawush `abd allah: 
+dar ash shawush abd allah: 
   city: "dar ash shawush `abd allah"
   accentcity: "Dar ash Shawush `Abd Allah"
 dar at talib hasan: 
@@ -2541,7 +2541,7 @@ dar brinissa:
 dar bu al qasim: 
   city: "dar bu al qasim"
   accentcity: "Dar Bu al Qasim"
-dar bu diya': 
+dar bu diya: 
   city: "dar bu diya'"
   accentcity: "Dar Bu Diya'"
 dar bu qattayah: 
@@ -2682,7 +2682,7 @@ dar el hadjri:
 dar el hadj salah ben emmbarek: 
   city: "dar el hadj salah ben emmbarek"
   accentcity: "Dar el Hadj Salah Ben Emmbarek"
-dar el hadj salah ben m'barek: 
+dar el hadj salah ben mbarek: 
   city: "dar el hadj salah ben m'barek"
   accentcity: "Dar el Hadj Salah Ben M'barek"
 dar el hadj taieb: 
@@ -2871,10 +2871,10 @@ dar hassine ben ameur:
 dar hessine ben amor: 
   city: "dar hessine ben amor"
   accentcity: "Dar Hessine Ben Amor"
-dar husayn bin `amir: 
+dar husayn bin amir: 
   city: "dar husayn bin `amir"
   accentcity: "Dar Husayn Bin `Amir"
-dar `izz ad din: 
+dar izz ad din: 
   city: "dar `izz ad din"
   accentcity: "Dar `Izz ad Din"
 dar jdida: 
@@ -2967,13 +2967,13 @@ dar mouaddene ben kassem:
 dar mouaddenne ben kassem: 
   city: "dar mouaddenne ben kassem"
   accentcity: "Dar Mouaddenne Ben Kassem"
-dar muhammad bin `abd allah: 
+dar muhammad bin abd allah: 
   city: "dar muhammad bin `abd allah"
   accentcity: "Dar Muhammad Bin `Abd Allah"
-dar muhammad bin mas`ud: 
+dar muhammad bin masud: 
   city: "dar muhammad bin mas`ud"
   accentcity: "Dar Muhammad Bin Mas`ud"
-dar muhammad bu al hajj `ali: 
+dar muhammad bu al hajj ali: 
   city: "dar muhammad bu al hajj `ali"
   accentcity: "Dar Muhammad Bu al Hajj `Ali"
 dar naheli: 
@@ -3030,10 +3030,10 @@ dar salih bey:
 dar sbiaete: 
   city: "dar sbiaete"
   accentcity: "Dar Sbiaete"
-dar sha`ban: 
+dar shaban: 
   city: "dar sha`ban"
   accentcity: "Dar Sha`ban"
-dar shawush `ali bin khalifah: 
+dar shawush ali bin khalifah: 
   city: "dar shawush `ali bin khalifah"
   accentcity: "Dar Shawush `Ali Bin Khalifah"
 dar sialah: 
@@ -3060,7 +3060,7 @@ dar sidi el moudjad:
 dar sidi el moujad: 
   city: "dar sidi el moujad"
   accentcity: "Dar Sidi el Moujad"
-dar sidi m'hamed ech cherif: 
+dar sidi mhamed ech cherif: 
   city: "dar sidi m'hamed ech cherif"
   accentcity: "Dar Sidi M'hamed ech Cherif"
 dar sidi muhammad ash sharif: 
@@ -3102,16 +3102,16 @@ dar titi:
 dar touibia: 
   city: "dar touibia"
   accentcity: "Dar Touibia"
-dar `umar bin ar rammah: 
+dar umar bin ar rammah: 
   city: "dar `umar bin ar rammah"
   accentcity: "Dar `Umar Bin ar Rammah"
-dar `umrus: 
+dar umrus: 
   city: "dar `umrus"
   accentcity: "Dar `Umrus"
 dashrat al aouach: 
   city: "dashrat al aouach"
   accentcity: "Dashrat al Aouach"
-dashrat al `ar`arah: 
+dashrat al ararah: 
   city: "dashrat al `ar`arah"
   accentcity: "Dashrat al `Ar`arah"
 dashrat al bahirine: 
@@ -3144,7 +3144,7 @@ dashrat al qannarah:
 dashrat al qaryah: 
   city: "dashrat al qaryah"
   accentcity: "Dashrat al Qaryah"
-dashrat al qulay`ah: 
+dashrat al qulayah: 
   city: "dashrat al qulay`ah"
   accentcity: "Dashrat al Qulay`ah"
 dashrat al waslatiyah: 
@@ -3156,13 +3156,13 @@ dashrat an nechad:
 dashrat as sarduk: 
   city: "dashrat as sarduk"
   accentcity: "Dashrat as Sarduk"
-dashrat at taw'amah: 
+dashrat at tawamah: 
   city: "dashrat at taw'amah"
   accentcity: "Dashrat at Taw'amah"
-dashrat awlad `isawi: 
+dashrat awlad isawi: 
   city: "dashrat awlad `isawi"
   accentcity: "Dashrat Awlad `Isawi"
-dashrat awlad muhammad bin sa`id: 
+dashrat awlad muhammad bin said: 
   city: "dashrat awlad muhammad bin sa`id"
   accentcity: "Dashrat Awlad Muhammad Bin Sa`id"
 dashrat az zaribah: 
@@ -3171,13 +3171,13 @@ dashrat az zaribah:
 dashrat ballutah: 
   city: "dashrat ballutah"
   accentcity: "Dashrat Ballutah"
-dashrat bin `abd allah: 
+dashrat bin abd allah: 
   city: "dashrat bin `abd allah"
   accentcity: "Dashrat Bin `Abd Allah"
-dashrat bin sa`idan: 
+dashrat bin saidan: 
   city: "dashrat bin sa`idan"
   accentcity: "Dashrat Bin Sa`idan"
-dashrat bu `abd allah: 
+dashrat bu abd allah: 
   city: "dashrat bu `abd allah"
   accentcity: "Dashrat Bu `Abd Allah"
 dashrat bu dabbus: 
@@ -3228,13 +3228,13 @@ dawwar ad duwayrah:
 dawwar al adhla: 
   city: "dawwar al adhla"
   accentcity: "Dawwar al Adhla"
-dawwar al `amamiriyah: 
+dawwar al amamiriyah: 
   city: "dawwar al `amamiriyah"
   accentcity: "Dawwar al `Amamiriyah"
 dawwar al aouata: 
   city: "dawwar al aouata"
   accentcity: "Dawwar al Aouata"
-dawwar al `arab: 
+dawwar al arab: 
   city: "dawwar al `arab"
   accentcity: "Dawwar al `Arab"
 dawwar al azaizia: 
@@ -3279,10 +3279,10 @@ dawwar al hofer:
 dawwar al huwayd: 
   city: "dawwar al huwayd"
   accentcity: "Dawwar al Huwayd"
-dawwar `ali bin az zayn: 
+dawwar ali bin az zayn: 
   city: "dawwar `ali bin az zayn"
   accentcity: "Dawwar `Ali Bin az Zayn"
-dawwar `ali bin khulut: 
+dawwar ali bin khulut: 
   city: "dawwar `ali bin khulut"
   accentcity: "Dawwar `Ali Bin Khulut"
 dawwar al jawawidah: 
@@ -3297,7 +3297,7 @@ dawwar al khaymah:
 dawwar al mabtuhah: 
   city: "dawwar al mabtuhah"
   accentcity: "Dawwar al Mabtuhah"
-dawwar al ma': 
+dawwar al ma: 
   city: "dawwar al ma'"
   accentcity: "Dawwar al Ma'"
 dawwar al majanin: 
@@ -3318,7 +3318,7 @@ dawwar al qusayr:
 dawwar al waslatiyah: 
   city: "dawwar al waslatiyah"
   accentcity: "Dawwar al Waslatiyah"
-dawwar ar ru`aynin: 
+dawwar ar ruaynin: 
   city: "dawwar ar ru`aynin"
   accentcity: "Dawwar ar Ru`aynin"
 dawwar ash cheniti: 
@@ -3336,31 +3336,31 @@ dawwar as sawalim:
 dawwar as sulah: 
   city: "dawwar as sulah"
   accentcity: "Dawwar as Sulah"
-dawwar at talib `ali: 
+dawwar at talib ali: 
   city: "dawwar at talib `ali"
   accentcity: "Dawwar at Talib `Ali"
 dawwar at tallah: 
   city: "dawwar at tallah"
   accentcity: "Dawwar at Tallah"
-dawwar awlad `abbas: 
+dawwar awlad abbas: 
   city: "dawwar awlad `abbas"
   accentcity: "Dawwar Awlad `Abbas"
 dawwar awlad al hajj ahmad: 
   city: "dawwar awlad al hajj ahmad"
   accentcity: "Dawwar Awlad al Hajj Ahmad"
-dawwar awlad `ali bin nasir: 
+dawwar awlad ali bin nasir: 
   city: "dawwar awlad `ali bin nasir"
   accentcity: "Dawwar Awlad `Ali Bin Nasir"
-dawwar awlad bu `aziz: 
+dawwar awlad bu aziz: 
   city: "dawwar awlad bu `aziz"
   accentcity: "Dawwar Awlad Bu `Aziz"
 dawwar awlad gana: 
   city: "dawwar awlad gana"
   accentcity: "Dawwar Awlad Gana"
-dawwar awlad mas`ud: 
+dawwar awlad masud: 
   city: "dawwar awlad mas`ud"
   accentcity: "Dawwar Awlad Mas`ud"
-dawwar awlad sidi `abid: 
+dawwar awlad sidi abid: 
   city: "dawwar awlad sidi `abid"
   accentcity: "Dawwar Awlad Sidi `Abid"
 dawwar awlad zaytun: 
@@ -3393,10 +3393,10 @@ dawwar bin mansur:
 dawwar bin misbah: 
   city: "dawwar bin misbah"
   accentcity: "Dawwar Bin Misbah"
-dawwar bi'r as sulah: 
+dawwar bir as sulah: 
   city: "dawwar bi'r as sulah"
   accentcity: "Dawwar Bi'r as Sulah"
-dawwar bu al `a'id: 
+dawwar bu al aid: 
   city: "dawwar bu al `a'id"
   accentcity: "Dawwar Bu al `A'id"
 dawwar bu nafil: 
@@ -3429,7 +3429,7 @@ dawwar hammadah:
 dawwar henna: 
   city: "dawwar henna"
   accentcity: "Dawwar Henna"
-dawwar ja`far: 
+dawwar jafar: 
   city: "dawwar ja`far"
   accentcity: "Dawwar Ja`far"
 dawwar jawwal: 
@@ -3438,7 +3438,7 @@ dawwar jawwal:
 dawwar lezdine: 
   city: "dawwar lezdine"
   accentcity: "Dawwar Lezdine"
-dawwar manzil `amir: 
+dawwar manzil amir: 
   city: "dawwar manzil `amir"
   accentcity: "Dawwar Manzil `Amir"
 dawwar messeftine: 
@@ -3456,16 +3456,16 @@ dawwar qamamisah:
 dawwar qarnatah: 
   city: "dawwar qarnatah"
   accentcity: "Dawwar Qarnatah"
-dawwar ra's al `ayn: 
+dawwar ras al ayn: 
   city: "dawwar ra's al `ayn"
   accentcity: "Dawwar Ra's al `Ayn"
-dawwar salih bin sa`d: 
+dawwar salih bin sad: 
   city: "dawwar salih bin sa`d"
   accentcity: "Dawwar Salih Bin Sa`d"
-dawwar sha`ib: 
+dawwar shaib: 
   city: "dawwar sha`ib"
   accentcity: "Dawwar Sha`ib"
-dawwar sidi `amir: 
+dawwar sidi amir: 
   city: "dawwar sidi `amir"
   accentcity: "Dawwar Sidi `Amir"
 dawwar sidi bu hanash: 
@@ -3477,7 +3477,7 @@ dawwar sidi muhammad bu al qurun:
 dawwar sidi salih bin husayn: 
   city: "dawwar sidi salih bin husayn"
   accentcity: "Dawwar Sidi Salih Bin Husayn"
-dawwar sidi `uthman: 
+dawwar sidi uthman: 
   city: "dawwar sidi `uthman"
   accentcity: "Dawwar Sidi `Uthman"
 dawwar suq al ithnayn: 
@@ -3486,16 +3486,16 @@ dawwar suq al ithnayn:
 dawwar tinjah: 
   city: "dawwar tinjah"
   accentcity: "Dawwar Tinjah"
-dawwar `umar cherina: 
+dawwar umar cherina: 
   city: "dawwar `umar cherina"
   accentcity: "Dawwar `Umar Cherina"
-dawwar `unq al jamal: 
+dawwar unq al jamal: 
   city: "dawwar `unq al jamal"
   accentcity: "Dawwar `Unq al Jamal"
-dawwar `uthman bin hasan: 
+dawwar uthman bin hasan: 
   city: "dawwar `uthman bin hasan"
   accentcity: "Dawwar `Uthman Bin Hasan"
-dawwar `uwayn al hajjaj: 
+dawwar uwayn al hajjaj: 
   city: "dawwar `uwayn al hajjaj"
   accentcity: "Dawwar `Uwayn al Hajjaj"
 dawwar yusuf bey: 
@@ -5619,7 +5619,7 @@ el hafsa:
 el hafsi: 
   city: "el hafsi"
   accentcity: "El Hafsi"
-el hahara k'bira: 
+el hahara kbira: 
   city: "el hahara k'bira"
   accentcity: "El Hahara K'bira"
 el hahara srira: 
@@ -5640,7 +5640,7 @@ el hamila:
 el hamissia: 
   city: "el hamissia"
   accentcity: "El Hamissia"
-el hamma de l'arad: 
+el hamma de larad: 
   city: "el hamma de l'arad"
   accentcity: "El Hamma de l'Arad"
 el-hamma-djerid: 
@@ -5895,13 +5895,13 @@ el mida:
 el midda: 
   city: "el midda"
   accentcity: "El Midda"
-el m'khalif: 
+el mkhalif: 
   city: "el m'khalif"
   accentcity: "El M'khalif"
 el mkralif: 
   city: "el mkralif"
   accentcity: "El Mkralif"
-el m'nagha: 
+el mnagha: 
   city: "el m'nagha"
   accentcity: "El M'nagha"
 el mouadjene: 
@@ -6099,7 +6099,7 @@ fahmine:
 fahs: 
   city: "fahs"
   accentcity: "Fahs"
-fa'id: 
+faid: 
   city: "fa'id"
   accentcity: "Fa'id"
 fajj at tamir: 
@@ -6225,7 +6225,7 @@ fumm tattauin:
 fum tatawin: 
   city: "fum tatawin"
   accentcity: "Fum Tatawin"
-funduq al `uqbi: 
+funduq al uqbi: 
   city: "funduq al `uqbi"
   accentcity: "Funduq al `Uqbi"
 funduq ash shushah: 
@@ -6303,7 +6303,7 @@ ghaialif:
 ghannush: 
   city: "ghannush"
   accentcity: "Ghannush"
-ghar ad dima': 
+ghar ad dima: 
   city: "ghar ad dima'"
   accentcity: "Ghar ad Dima'"
 ghar al fahs: 
@@ -6600,7 +6600,7 @@ hanout seridik:
 hanshir al fass: 
   city: "hanshir al fass"
   accentcity: "Hanshir al Fass"
-hanshir `ali bin rajab: 
+hanshir ali bin rajab: 
   city: "hanshir `ali bin rajab"
   accentcity: "Hanshir `Ali Bin Rajab"
 hanshir al maraziqiyah: 
@@ -6618,7 +6618,7 @@ hanshir al rhiria:
 hanshir as sawatir: 
   city: "hanshir as sawatir"
   accentcity: "Hanshir as Sawatir"
-hanshir bani `umar: 
+hanshir bani umar: 
   city: "hanshir bani `umar"
   accentcity: "Hanshir Bani `Umar"
 hanshir bin khalladiyah: 
@@ -6627,7 +6627,7 @@ hanshir bin khalladiyah:
 hanshir qasr ghallab: 
   city: "hanshir qasr ghallab"
   accentcity: "Hanshir Qasr Ghallab"
-hanshir sa`diyah: 
+hanshir sadiyah: 
   city: "hanshir sa`diyah"
   accentcity: "Hanshir Sa`diyah"
 hanshir sidi saadoum: 
@@ -6930,7 +6930,7 @@ jama er rih:
 jama: 
   city: "jama"
   accentcity: "Jama"
-jami` al guelloufi: 
+jami al guelloufi: 
   city: "jami` al guelloufi"
   accentcity: "Jami` al Guelloufi"
 jammal: 
@@ -6963,7 +6963,7 @@ jebarna:
 jebel jelloud: 
   city: "jebel jelloud"
   accentcity: "Jebel Jelloud"
-jebel m'dhilla: 
+jebel mdhilla: 
   city: "jebel m'dhilla"
   accentcity: "Jebel M'dhilla"
 jebel trozza: 
@@ -7062,7 +7062,7 @@ kalaa djerda:
 kalaa-es-senam: 
   city: "kalaa-es-senam"
   accentcity: "Kalaa-Es-Senam"
-kalaa k'bira: 
+kalaa kbira: 
   city: "kalaa k'bira"
   accentcity: "Kalaa K'bira"
 kalaa kebira: 
@@ -7323,7 +7323,7 @@ knaiss:
 kneis: 
   city: "kneis"
   accentcity: "Kne\xC3\xAFs"
-kobtine awlad `umar: 
+kobtine awlad umar: 
   city: "kobtine awlad `umar"
   accentcity: "Kobtine Awlad `Umar"
 kobtine oled amor: 
@@ -7734,7 +7734,7 @@ la laverie:
 lalla aicha mourakchia: 
   city: "lalla aicha mourakchia"
   accentcity: "Lalla Aicha Mourakchia"
-lallah `a'ishah al mourakchia: 
+lallah aishah al mourakchia: 
   city: "lallah `a'ishah al mourakchia"
   accentcity: "Lallah `A'ishah al Mourakchia"
 lallah: 
@@ -7815,7 +7815,7 @@ la pecherie:
 la rabta: 
   city: "la rabta"
   accentcity: "La Rabta"
-l'ariana: 
+lariana: 
   city: "l'ariana"
   accentcity: "L'Ariana"
 la sauvagere: 
@@ -8040,7 +8040,7 @@ mahrine:
 majaz al bab: 
   city: "majaz al bab"
   accentcity: "Majaz al Bab"
-majin bu al `abbas: 
+majin bu al abbas: 
   city: "majin bu al `abbas"
   accentcity: "Majin Bu al `Abbas"
 majjen bel abbes: 
@@ -8097,7 +8097,7 @@ mansoura:
 manubah: 
   city: "manubah"
   accentcity: "Manubah"
-manzil `abd ar rahman: 
+manzil abd ar rahman: 
   city: "manzil `abd ar rahman"
   accentcity: "Manzil `Abd ar Rahman"
 manzil bu ruqaybah: 
@@ -8172,7 +8172,7 @@ masakin:
 mashhad salih: 
   city: "mashhad salih"
   accentcity: "Mashhad Salih"
-mashta `abd allah bin sasi: 
+mashta abd allah bin sasi: 
   city: "mashta `abd allah bin sasi"
   accentcity: "Mashta `Abd Allah Bin Sasi"
 mashta al anad: 
@@ -8181,7 +8181,7 @@ mashta al anad:
 mashta ash shuwayshah: 
   city: "mashta ash shuwayshah"
   accentcity: "Mashtá ash Shuwayshah"
-masjid `isa: 
+masjid isa: 
   city: "masjid `isa"
   accentcity: "Masjid `Isa"
 massera: 
@@ -8235,7 +8235,7 @@ maxula-rades:
 mdeina: 
   city: "mdeina"
   accentcity: "Mde\xC3\xAFna"
-m'dhilla: 
+mdhilla: 
   city: "m'dhilla"
   accentcity: "M'dhilla"
 mdilla: 
@@ -8436,7 +8436,7 @@ menzel krir:
 menzel: 
   city: "menzel"
   accentcity: "Menzel"
-menzel m'heri: 
+menzel mheri: 
   city: "menzel m'heri"
   accentcity: "Menzel M'héri"
 menzel salem: 
@@ -8622,10 +8622,10 @@ msaker:
 mteurch: 
   city: "mteurch"
   accentcity: "Mteurch"
-m'tuia: 
+mtuia: 
   city: "m'tuia"
   accentcity: "M'tuia"
-mu`allaka: 
+muallaka: 
   city: "mu`allaka"
   accentcity: "Mu`allaka"
 muamla: 
@@ -8679,7 +8679,7 @@ nakta:
 naqqah: 
   city: "naqqah"
   accentcity: "Naqqah"
-na`san: 
+nasan: 
   city: "na`san"
   accentcity: "Na`san"
 nassene: 
@@ -9069,7 +9069,7 @@ qabis:
 qafsah: 
   city: "qafsah"
   accentcity: "Qafsah"
-qa`fur: 
+qafur: 
   city: "qa`fur"
   accentcity: "Qa`fur"
 qairouan: 
@@ -9081,10 +9081,10 @@ qairwan:
 qalaa kebira: 
   city: "qalaa kebira"
   accentcity: "Qalaa Kebira"
-qal`at al andalus: 
+qalat al andalus: 
   city: "qal`at al andalus"
   accentcity: "Qal`at al Andalus"
-qal`at as sanam: 
+qalat as sanam: 
   city: "qal`at as sanam"
   accentcity: "Qal`at as Sanam"
 qallalah: 
@@ -9120,13 +9120,13 @@ qasabat al agoum:
 qasabat al ghardaqi: 
   city: "qasabat al ghardaqi"
   accentcity: "Qasabat al Ghardaqi"
-qasabat `ammar: 
+qasabat ammar: 
   city: "qasabat `ammar"
   accentcity: "Qasabat `Ammar"
 qasabat as sabun: 
   city: "qasabat as sabun"
   accentcity: "Qasabat as Sabun"
-qasabat awlad sa`idan: 
+qasabat awlad saidan: 
   city: "qasabat awlad sa`idan"
   accentcity: "Qasabat Awlad Sa`idan"
 qasabat az zurqan: 
@@ -9141,7 +9141,7 @@ qasabat dafniyah:
 qasabat tannfoura: 
   city: "qasabat tannfoura"
   accentcity: "Qasabat Tannfoura"
-qasr al `ababisah: 
+qasr al ababisah: 
   city: "qasr al `ababisah"
   accentcity: "Qasr al `Ababisah"
 qasr al hadid: 
@@ -9150,7 +9150,7 @@ qasr al hadid:
 qasr al halluf: 
   city: "qasr al halluf"
   accentcity: "Qasr al Halluf"
-qasr al jawami`: 
+qasr al jawami: 
   city: "qasr al jawami`"
   accentcity: "Qasr al Jawami`"
 qasr al khadim: 
@@ -9162,7 +9162,7 @@ qasr al kharashifah:
 qasr al kibrit: 
   city: "qasr al kibrit"
   accentcity: "Qasr al Kibrit"
-qasr al mu'anasah: 
+qasr al muanasah: 
   city: "qasr al mu'anasah"
   accentcity: "Qasr al Mu'anasah"
 qasr al muqabilah: 
@@ -9195,10 +9195,10 @@ qasr ash shuhban:
 qasr at tayr: 
   city: "qasr at tayr"
   accentcity: "Qasr at Tayr"
-qasr awlad `awn: 
+qasr awlad awn: 
   city: "qasr awlad `awn"
   accentcity: "Qasr Awlad `Awn"
-qasr awlad bu `abid: 
+qasr awlad bu abid: 
   city: "qasr awlad bu `abid"
   accentcity: "Qasr Awlad Bu `Abid"
 qasr awlad dabbab: 
@@ -9207,13 +9207,13 @@ qasr awlad dabbab:
 qasr awlad mahmad: 
   city: "qasr awlad mahmad"
   accentcity: "Qasr Awlad Mahmad"
-qasr awlad sa`id: 
+qasr awlad said: 
   city: "qasr awlad sa`id"
   accentcity: "Qasr Awlad Sa`id"
 qasr awlad sultan: 
   city: "qasr awlad sultan"
   accentcity: "Qasr Awlad Sultan"
-qasr `ayyath: 
+qasr ayyath: 
   city: "qasr `ayyath"
   accentcity: "Qasr `Ayyath"
 qasr az zawiyah: 
@@ -9237,10 +9237,10 @@ qasr ghilan:
 qasr hallal: 
   city: "qasr hallal"
   accentcity: "Qasr Hallal"
-qasr `isa: 
+qasr isa: 
   city: "qasr `isa"
   accentcity: "Qasr `Isa"
-qasr `izz ad din: 
+qasr izz ad din: 
   city: "qasr `izz ad din"
   accentcity: "Qasr `Izz ad Din"
 qasr maned: 
@@ -9363,7 +9363,7 @@ qusur lireba:
 rabibah: 
   city: "rabibah"
   accentcity: "Rabibah"
-rab` silyanah: 
+rab silyanah: 
   city: "rab` silyanah"
   accentcity: "Rab` Silyanah"
 rabta: 
@@ -9393,16 +9393,16 @@ ramla:
 rar el melah: 
   city: "rar el melah"
   accentcity: "Rar el Melah"
-ra's al `ayn: 
+ras al ayn: 
   city: "ra's al `ayn"
   accentcity: "Ra's al `Ayn"
-ra's al jabal: 
+ras al jabal: 
   city: "ra's al jabal"
   accentcity: "Ra's al Jabal"
-ra's ar raml: 
+ras ar raml: 
   city: "ra's ar raml"
   accentcity: "Ra's ar Raml"
-ra's at tabiyah: 
+ras at tabiyah: 
   city: "ra's at tabiyah"
   accentcity: "Ra's at Tabiyah"
 ras djebel: 
@@ -9570,7 +9570,7 @@ saad:
 sabalat murnaq: 
   city: "sabalat murnaq"
   accentcity: "Sabalat Murnaq"
-sab` bi'ar: 
+sab biar: 
   city: "sab` bi'ar"
   accentcity: "Sab` Bi'ar"
 sabibah: 
@@ -9732,7 +9732,7 @@ saouaf:
 saqanis: 
   city: "saqanis"
   accentcity: "Saqanis"
-saqiyat ad da'ir: 
+saqiyat ad dair: 
   city: "saqiyat ad da'ir"
   accentcity: "Saqiyat ad Da'ir"
 saqiyat az zayt: 
@@ -9744,7 +9744,7 @@ saqiyat sidi yusuf:
 sawahil: 
   city: "sawahil"
   accentcity: "Sawahil"
-sawani al `adhari: 
+sawani al adhari: 
   city: "sawani al `adhari"
   accentcity: "Sawani al `Adhari"
 sbaia koubba: 
@@ -9855,7 +9855,7 @@ shimlali:
 shimtu: 
   city: "shimtu"
   accentcity: "Shimtu"
-shu`bat zamalah: 
+shubat zamalah: 
   city: "shu`bat zamalah"
   accentcity: "Shu`bat Zamalah"
 shurban: 
@@ -9867,7 +9867,7 @@ shuwat:
 sicca veneria: 
   city: "sicca veneria"
   accentcity: "Sicca Veneria"
-sidi `abbas: 
+sidi abbas: 
   city: "sidi `abbas"
   accentcity: "Sidi `Abbas"
 sidi abbes: 
@@ -9876,19 +9876,19 @@ sidi abbes:
 sidi abd allah ben saiden: 
   city: "sidi abd allah ben saiden"
   accentcity: "Sidi Abd Allah Ben Saiden"
-sidi `abd allah bin sa`idan: 
+sidi abd allah bin saidan: 
   city: "sidi `abd allah bin sa`idan"
   accentcity: "Sidi `Abd Allah Bin Sa`idan"
 sidi abd allah: 
   city: "sidi abd allah"
   accentcity: "Sidi Abd Allah"
-sidi `abd allah: 
+sidi abd allah: 
   city: "sidi `abd allah"
   accentcity: "Sidi `Abd Allah"
-sidi `abd al malik: 
+sidi abd al malik: 
   city: "sidi `abd al malik"
   accentcity: "Sidi `Abd al Malik"
-sidi `abd al qadir: 
+sidi abd al qadir: 
   city: "sidi `abd al qadir"
   accentcity: "Sidi `Abd al Qadir"
 sidi abd el kader el abidat: 
@@ -9903,7 +9903,7 @@ sidi abd el melek:
 sidi abid: 
   city: "sidi abid"
   accentcity: "Sidi Abid"
-sidi abi sa`id: 
+sidi abi said: 
   city: "sidi abi sa`id"
   accentcity: "Sidi Abi Sa`id"
 sidi ahmad: 
@@ -9924,19 +9924,19 @@ sidi aissa:
 sidi al ghudamisi: 
   city: "sidi al ghudamisi"
   accentcity: "Sidi al Ghudamisi"
-sidi al hani': 
+sidi al hani: 
   city: "sidi al hani'"
   accentcity: "Sidi al Hani'"
 sidi al harrath: 
   city: "sidi al harrath"
   accentcity: "Sidi al Harrath"
-sidi `ali al bahlul: 
+sidi ali al bahlul: 
   city: "sidi `ali al bahlul"
   accentcity: "Sidi `Ali al Bahlul"
-sidi `ali al hattab: 
+sidi ali al hattab: 
   city: "sidi `ali al hattab"
   accentcity: "Sidi `Ali al Hattab"
-sidi `ali ash shabab: 
+sidi ali ash shabab: 
   city: "sidi `ali ash shabab"
   accentcity: "Sidi `Ali ash Shabab"
 sidi ali bel hafsi: 
@@ -9948,10 +9948,10 @@ sidi ali ben abdallah:
 sidi ali ben nasr allah: 
   city: "sidi ali ben nasr allah"
   accentcity: "Sidi Ali Ben Nasr Allah"
-sidi `ali bin `abd allah: 
+sidi ali bin abd allah: 
   city: "sidi `ali bin `abd allah"
   accentcity: "Sidi `Ali Bin `Abd Allah"
-sidi `ali bin nasr allah: 
+sidi ali bin nasr allah: 
   city: "sidi `ali bin nasr allah"
   accentcity: "Sidi `Ali Bin Nasr Allah"
 sidi ali chebab: 
@@ -9990,10 +9990,10 @@ sidi al mujahid:
 sidi alouane: 
   city: "sidi alouane"
   accentcity: "Sidi Alouane"
-sidi al `uryan: 
+sidi al uryan: 
   city: "sidi al `uryan"
   accentcity: "Sidi al `Uryan"
-sidi `amarah: 
+sidi amarah: 
   city: "sidi `amarah"
   accentcity: "Sidi `Amarah"
 sidi amara: 
@@ -10005,7 +10005,7 @@ sidi ameur bou hadjla:
 sidi ameur: 
   city: "sidi ameur"
   accentcity: "Sidi Ameur"
-sidi `amir: 
+sidi amir: 
   city: "sidi `amir"
   accentcity: "Sidi `Amir"
 sidi amor ben salem: 
@@ -10038,13 +10038,13 @@ sidi amor:
 sidi an nasir: 
   city: "sidi an nasir"
   accentcity: "Sidi an Nasir"
-sidi an nu`ayjah: 
+sidi an nuayjah: 
   city: "sidi an nu`ayjah"
   accentcity: "Sidi an Nu`ayjah"
 sidi ash shammakh: 
   city: "sidi ash shammakh"
   accentcity: "Sidi ash Shammakh"
-sidi `askar: 
+sidi askar: 
   city: "sidi `askar"
   accentcity: "Sidi `Askar"
 sidi asker: 
@@ -10062,7 +10062,7 @@ sidi atmane el haddad:
 sidi at tarhuni: 
   city: "sidi at tarhuni"
   accentcity: "Sidi at Tarhuni"
-sidi `aysh: 
+sidi aysh: 
   city: "sidi `aysh"
   accentcity: "Sidi `Aysh"
 sidi az zaouem: 
@@ -10164,19 +10164,19 @@ sidi brahim:
 sidi bu al babah: 
   city: "sidi bu al babah"
   accentcity: "Sidi Bu al Babah"
-sidi bu `ali: 
+sidi bu ali: 
   city: "sidi bu `ali"
   accentcity: "Sidi Bu `Ali"
 sidi bu bakr: 
   city: "sidi bu bakr"
   accentcity: "Sidi Bu Bakr"
-sidi bu ja`far: 
+sidi bu jafar: 
   city: "sidi bu ja`far"
   accentcity: "Sidi Bu Ja`far"
 sidi bu qurayn: 
   city: "sidi bu qurayn"
   accentcity: "Sidi Bu Qurayn"
-sidi bu ru'ays: 
+sidi bu ruays: 
   city: "sidi bu ru'ays"
   accentcity: "Sidi Bu Ru'ays"
 sidi bu said: 
@@ -10185,7 +10185,7 @@ sidi bu said:
 sidi bu shushah: 
   city: "sidi bu shushah"
   accentcity: "Sidi Bu Shushah"
-sidi bu `uthman: 
+sidi bu uthman: 
   city: "sidi bu `uthman"
   accentcity: "Sidi Bu `Uthman"
 sidi bu zaqqumah: 
@@ -10206,7 +10206,7 @@ sidi chemmak:
 sidi daoud: 
   city: "sidi daoud"
   accentcity: "Sidi Daoud"
-sidi da'ud: 
+sidi daud: 
   city: "sidi da'ud"
   accentcity: "Sidi Da'ud"
 sidi daud: 
@@ -10299,7 +10299,7 @@ sidi mansour:
 sidi marchett: 
   city: "sidi marchett"
   accentcity: "Sidi Marchett"
-sidi mas`ud: 
+sidi masud: 
   city: "sidi mas`ud"
   accentcity: "Sidi Mas`ud"
 sidi messaid: 
@@ -10323,13 +10323,13 @@ sidi mohammed ben messaoud:
 sidi mubarak: 
   city: "sidi mubarak"
   accentcity: "Sidi Mubarak"
-sidi muhammad al `a'id: 
+sidi muhammad al aid: 
   city: "sidi muhammad al `a'id"
   accentcity: "Sidi Muhammad al `A'id"
 sidi muhammad bin mabruk: 
   city: "sidi muhammad bin mabruk"
   accentcity: "Sidi Muhammad Bin Mabruk"
-sidi muhammad bin mas`ud: 
+sidi muhammad bin masud: 
   city: "sidi muhammad bin mas`ud"
   accentcity: "Sidi Muhammad Bin Mas`ud"
 sidi naceur allah: 
@@ -10383,16 +10383,16 @@ sidi thabit:
 sidi touil: 
   city: "sidi touil"
   accentcity: "Sidi Touil"
-sidi `ulwan: 
+sidi ulwan: 
   city: "sidi `ulwan"
   accentcity: "Sidi `Ulwan"
-sidi `umar bin salim: 
+sidi umar bin salim: 
   city: "sidi `umar bin salim"
   accentcity: "Sidi `Umar Bin Salim"
-sidi `umar bu hajalah: 
+sidi umar bu hajalah: 
   city: "sidi `umar bu hajalah"
   accentcity: "Sidi `Umar Bu Hajalah"
-sidi `umar bu zaytunah: 
+sidi umar bu zaytunah: 
   city: "sidi `umar bu zaytunah"
   accentcity: "Sidi `Umar Bu Zaytunah"
 sidi youssef: 
@@ -10551,7 +10551,7 @@ srira:
 srireh: 
   city: "srireh"
   accentcity: "Srireh"
-station de menzel m'heri: 
+station de menzel mheri: 
   city: "station de menzel m'heri"
   accentcity: "Station de Menzel M'heri"
 steftimi: 
@@ -10575,10 +10575,10 @@ sukrah:
 sulayman: 
   city: "sulayman"
   accentcity: "Sulayman"
-suq al arba`a': 
+suq al arbaa: 
   city: "suq al arba`a'"
   accentcity: "Suq al Arba`a'"
-suq al jum`ah: 
+suq al jumah: 
   city: "suq al jum`ah"
   accentcity: "Suq al Jum`ah"
 suq al khamis: 
@@ -10965,10 +10965,10 @@ uled yanek:
 umm aissa: 
   city: "umm aissa"
   accentcity: "Umm A\xC3\xAFssa"
-umm al `ara'is: 
+umm al arais: 
   city: "umm al `ara'is"
   accentcity: "Umm al `Ara'is"
-umm as sawma`ah: 
+umm as sawmaah: 
   city: "umm as sawma`ah"
   accentcity: "Umm as Sawma`ah"
 umm dhuwayl: 
@@ -11007,7 +11007,7 @@ wadi al layl:
 wadi az zabib: 
   city: "wadi az zabib"
   accentcity: "Wadi az Zabib"
-wadi az zarqa': 
+wadi az zarqa: 
   city: "wadi az zarqa'"
   accentcity: "Wadi az Zarqa'"
 wadi maliz: 
@@ -11037,7 +11037,7 @@ zaafrane:
 zaafria: 
   city: "zaafria"
   accentcity: "Zaafria"
-za`faran: 
+zafaran: 
   city: "za`faran"
   accentcity: "Za`faran"
 zaghouane: 
@@ -11205,7 +11205,7 @@ zarzuna:
 zauiet el harth: 
   city: "zauiet el harth"
   accentcity: "Zauiet el Harth"
-zawiyat al `arab: 
+zawiyat al arab: 
   city: "zawiyat al `arab"
   accentcity: "Zawiyat al `Arab"
 zawiyat al harth: 
@@ -11214,7 +11214,7 @@ zawiyat al harth:
 zawiyat al jadidi: 
   city: "zawiyat al jadidi"
   accentcity: "Zawiyat al Jadidi"
-zawiyat al maqqa'iz: 
+zawiyat al maqqaiz: 
   city: "zawiyat al maqqa'iz"
   accentcity: "Zawiyat al Maqqa'iz"
 zawiyat as sadaqiyah: 
@@ -11232,13 +11232,13 @@ zawiyat madyan:
 zawiyat quntash: 
   city: "zawiyat quntash"
   accentcity: "Zawiyat Quntash"
-zawiyat sidi `abdalli: 
+zawiyat sidi abdalli: 
   city: "zawiyat sidi `abdalli"
   accentcity: "Zawiyat Sidi `Abdalli"
-zawiyat sidi `abd ar rahman al qarisi: 
+zawiyat sidi abd ar rahman al qarisi: 
   city: "zawiyat sidi `abd ar rahman al qarisi"
   accentcity: "Zawiyat Sidi `Abd ar Rahman al Qarisi"
-zawiyat sidi `amir: 
+zawiyat sidi amir: 
   city: "zawiyat sidi `amir"
   accentcity: "Zawiyat Sidi `Amir"
 zawiyat susah: 

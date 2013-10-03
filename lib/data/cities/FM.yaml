@@ -9,13 +9,13 @@ adibue:
 adibuee: 
   city: "adibuee"
   accentcity: "Adibuee"
-adibuwe': 
+adibuwe: 
   city: "adibuwe'"
   accentcity: "Adibuwe'"
 adibuwee: 
   city: "adibuwee"
   accentcity: "Adibuwee"
-adubuwe': 
+adubuwe: 
   city: "adubuwe'"
   accentcity: "Adubuwe'"
 af: 
@@ -192,10 +192,10 @@ baanmaut:
 balabat: 
   city: "balabat"
   accentcity: "Balabat"
-baleabaat': 
+baleabaat: 
   city: "baleabaat'"
   accentcity: "Baleabaat'"
-balebat': 
+balebat: 
   city: "balebat'"
   accentcity: "Balebat'"
 balebatt: 
@@ -576,7 +576,7 @@ fra:
 frigaau: 
   city: "frigaau"
   accentcity: "Frigaau"
-frig'aw: 
+frigaw: 
   city: "frig'aw"
   accentcity: "Frig'aw"
 gaanaun: 
@@ -603,7 +603,7 @@ gachpar:
 gadjebar: 
   city: "gadjebar"
   accentcity: "Gadjebar"
-gael': 
+gael: 
   city: "gael'"
   accentcity: "Gael'"
 gaeregei: 
@@ -906,7 +906,7 @@ maaloon:
 maa: 
   city: "maa"
   accentcity: "Maa"
-maap': 
+maap: 
   city: "maap'"
   accentcity: "Maap'"
 maaq: 
@@ -915,7 +915,7 @@ maaq:
 maawech: 
   city: "maawech"
   accentcity: "Maawech"
-mabu': 
+mabu: 
   city: "mabu'"
   accentcity: "Mabu'"
 mabuu: 
@@ -927,13 +927,13 @@ machon:
 madadjagil: 
   city: "madadjagil"
   accentcity: "Madadjagil"
-madalaay': 
+madalaay: 
   city: "madalaay'"
   accentcity: "Madalaay'"
 madalai: 
   city: "madalai"
   accentcity: "Madalai"
-madalay': 
+madalay: 
   city: "madalay'"
   accentcity: "Madalay'"
 madargil: 
@@ -987,7 +987,7 @@ maki:
 makiy: 
   city: "makiy"
   accentcity: "Makiy"
-mal'aay: 
+malaay: 
   city: "mal'aay"
   accentcity: "Mal'aay"
 malaf: 
@@ -1008,7 +1008,7 @@ malanaj:
 malawaay: 
   city: "malawaay"
   accentcity: "Malawaay"
-mal'ay: 
+malay: 
   city: "mal'ay"
   accentcity: "Mal'ay"
 malekun: 
@@ -1065,7 +1065,7 @@ marugrug:
 maruqruq: 
   city: "maruqruq"
   accentcity: "Maruqruq"
-maru'ru': 
+maruru: 
   city: "maru'ru'"
   accentcity: "Maru'ru'"
 maruuru: 
@@ -1185,7 +1185,7 @@ milai:
 mineef: 
   city: "mineef"
   accentcity: "Mineef"
-minei': 
+minei: 
   city: "minei'"
   accentcity: "Minei'"
 mini: 
@@ -1269,7 +1269,7 @@ mujun:
 muliefl: 
   city: "muliefl"
   accentcity: "Muliefl"
-mulro': 
+mulro: 
   city: "mulro'"
   accentcity: "Mulro'"
 mulroo: 
@@ -1284,7 +1284,7 @@ munien:
 murru: 
   city: "murru"
   accentcity: "Murru"
-muru'ru': 
+mururu: 
   city: "muru'ru'"
   accentcity: "Muru'ru'"
 muruu: 
@@ -1380,7 +1380,7 @@ nechocho:
 neecap: 
   city: "neecap"
   accentcity: "Neecap"
-n'eef: 
+neef: 
   city: "n'eef"
   accentcity: "N'eef"
 neel: 
@@ -1917,19 +1917,19 @@ rumuuq:
 runu: 
   city: "runu"
   accentcity: "Runu"
-run'uw: 
+runuw: 
   city: "run'uw"
   accentcity: "Run'uw"
-runu'w: 
+runuw: 
   city: "runu'w"
   accentcity: "Runu'w"
-ru': 
+ru: 
   city: "ru'"
   accentcity: "Ru'"
 ruugau: 
   city: "ruugau"
   accentcity: "Ruugau"
-ruun'uw: 
+ruunuw: 
   city: "ruun'uw"
   accentcity: "Ruun'uw"
 ruuq: 
@@ -2163,7 +2163,7 @@ tanepei:
 tapak: 
   city: "tapak"
   accentcity: "Tapak"
-tar' aw: 
+tar aw: 
   city: "tar' aw"
   accentcity: "Tar' aw"
 tarqaaw: 
@@ -2181,7 +2181,7 @@ tawoowaay:
 teab: 
   city: "teab"
   accentcity: "Teab"
-t'eanfaar: 
+teanfaar: 
   city: "t'eanfaar"
   accentcity: "T'eanfaar"
 tean: 
@@ -2205,7 +2205,7 @@ temwen:
 tenfar: 
   city: "tenfar"
   accentcity: "Tenfar"
-t'enifar: 
+tenifar: 
   city: "t'enifar"
   accentcity: "T'enifar"
 tepat: 
@@ -2541,13 +2541,13 @@ wuluuq:
 wuluu: 
   city: "wuluu"
   accentcity: "Wuluu"
-wulu': 
+wulu: 
   city: "wulu'"
   accentcity: "Wulu'"
 wununno: 
   city: "wununno"
   accentcity: "Wununno"
-wurwo': 
+wurwo: 
   city: "wurwo'"
   accentcity: "Wurwo'"
 yabach: 

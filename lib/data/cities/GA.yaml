@@ -2364,10 +2364,10 @@ dame:
 dangui: 
   city: "dangui"
   accentcity: "Dangui"
-debarcadere d'akondjo: 
+debarcadere dakondjo: 
   city: "debarcadere d'akondjo"
   accentcity: "Débarcadère d'Akondjo"
-debarcadere d'angouma: 
+debarcadere dangouma: 
   city: "debarcadere d'angouma"
   accentcity: "Debarcadère d'Angouma"
 debiang: 
@@ -2895,7 +2895,7 @@ doussoundzi:
 douzanza: 
   city: "douzanza"
   accentcity: "Douzanza"
-d'ovan: 
+dovan: 
   city: "d'ovan"
   accentcity: "D'Ovan"
 dovoyi: 
@@ -6261,7 +6261,7 @@ mazinga:
 mbadi: 
   city: "mbadi"
   accentcity: "Mbadi"
-m'bafane: 
+mbafane: 
   city: "m'bafane"
   accentcity: "M'Bafane"
 mbafane: 
@@ -6276,7 +6276,7 @@ mbalene:
 mbama: 
   city: "mbama"
   accentcity: "Mbama"
-m'bama: 
+mbama: 
   city: "m'bama"
   accentcity: "M'Bama"
 mbamayong: 
@@ -6354,7 +6354,7 @@ mbighou:
 mbigou: 
   city: "mbigou"
   accentcity: "Mbigou"
-m'bigou: 
+mbigou: 
   city: "m'bigou"
   accentcity: "M'bigou"
 mbila nzambi: 
@@ -6879,7 +6879,7 @@ mfoa:
 mfoua-avebe: 
   city: "mfoua-avebe"
   accentcity: "Mfoua-Avebé"
-m'foua: 
+mfoua: 
   city: "m'foua"
   accentcity: "M'Foua"
 mfoua: 
@@ -8061,7 +8061,7 @@ mpouma:
 mtom: 
   city: "mtom"
   accentcity: "Mtom"
-m'vaddi: 
+mvaddi: 
   city: "m'vaddi"
   accentcity: "M'Vaddi"
 mvadhi: 
@@ -8079,7 +8079,7 @@ mvagne:
 mvahdi: 
   city: "mvahdi"
   accentcity: "Mvahdi"
-m'vahdi ousye: 
+mvahdi ousye: 
   city: "m'vahdi ousye"
   accentcity: "M'Vahdi Ousye"
 mvam: 
@@ -8148,7 +8148,7 @@ mvomayop iii:
 mvomayop ii: 
   city: "mvomayop ii"
   accentcity: "Mvomayop II"
-m'vomayop i: 
+mvomayop i: 
   city: "m'vomayop i"
   accentcity: "M'Vomayop I"
 mvomayop: 
@@ -8214,13 +8214,13 @@ nango:
 nazareth: 
   city: "nazareth"
   accentcity: "Nazareth"
-n'boukou: 
+nboukou: 
   city: "n'boukou"
   accentcity: "N'Boukou"
 nchoulou: 
   city: "nchoulou"
   accentcity: "Nchoulou"
-n'dama: 
+ndama: 
   city: "n'dama"
   accentcity: "N'Dama"
 ndama: 
@@ -8277,7 +8277,7 @@ ndingui:
 ndjakonamoye: 
   city: "ndjakonamoye"
   accentcity: "Ndjakonamoyé"
-n'djakonamoyi: 
+ndjakonamoyi: 
   city: "n'djakonamoyi"
   accentcity: "N'Djakonamoyi"
 ndjambalika: 
@@ -8316,7 +8316,7 @@ ndong-guema:
 ndong: 
   city: "ndong"
   accentcity: "Ndong"
-n'douami: 
+ndouami: 
   city: "n'douami"
   accentcity: "N'Douami"
 ndoua: 
@@ -8496,7 +8496,7 @@ ngoua bikoka:
 ngouabilaga: 
   city: "ngouabilaga"
   accentcity: "Ngouabilaga"
-n'gouala: 
+ngouala: 
   city: "n'gouala"
   accentcity: "N'Gouala"
 ngouanie: 
@@ -8838,7 +8838,7 @@ nkomelene:
 nkomi: 
   city: "nkomi"
   accentcity: "Nkomi"
-n'komi: 
+nkomi: 
   city: "n'komi"
   accentcity: "N'Komi"
 nkomo: 
@@ -8988,7 +8988,7 @@ ntambe:
 ntanha-tele: 
   city: "ntanha-tele"
   accentcity: "Ntanha-Télé"
-n'tchago: 
+ntchago: 
   city: "n'tchago"
   accentcity: "N'Tchago"
 ntchatanga: 
@@ -9000,7 +9000,7 @@ ntchengue:
 ntchogo: 
   city: "ntchogo"
   accentcity: "Ntchogo"
-n'tchoua: 
+ntchoua: 
   city: "n'tchoua"
   accentcity: "N'Tchoua"
 ntian: 
@@ -9903,7 +9903,7 @@ pahilou:
 pahon-pira: 
   city: "pahon-pira"
   accentcity: "Pahon-Pira"
-pahou n'zambi: 
+pahou nzambi: 
   city: "pahou n'zambi"
   accentcity: "Pahou N'Zambi"
 pahou-youngou: 

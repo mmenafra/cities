@@ -96,7 +96,7 @@ albertinovac:
 albona: 
   city: "albona"
   accentcity: "Albona"
-albona d'istria: 
+albona distria: 
   city: "albona d'istria"
   accentcity: "Albona d'Istria"
 aleksandrovac: 
@@ -771,7 +771,7 @@ barat:
 baratto: 
   city: "baratto"
   accentcity: "Baratto"
-barbana d'istria: 
+barbana distria: 
   city: "barbana d'istria"
   accentcity: "Barbana d'Istria"
 barban: 
@@ -3144,7 +3144,7 @@ buici:
 buie: 
   city: "buie"
   accentcity: "Buie"
-buie d'istria: 
+buie distria: 
   city: "buie d'istria"
   accentcity: "Buie d'Istria"
 bujadnice: 
@@ -3621,7 +3621,7 @@ carmedo:
 carnizza: 
   city: "carnizza"
   accentcity: "Carnizza"
-carnizza d'arsa: 
+carnizza darsa: 
   city: "carnizza d'arsa"
   accentcity: "Carnizza d'Arsa"
 caroiba: 
@@ -3684,7 +3684,7 @@ castel monstinoso:
 castelmuschio: 
   city: "castelmuschio"
   accentcity: "Castelmuschio"
-castelnuovo d'arsa: 
+castelnuovo darsa: 
   city: "castelnuovo d'arsa"
   accentcity: "Castelnuovo d'Arsa"
 castel racizze: 
@@ -4260,7 +4260,7 @@ citluk:
 cittanova: 
   city: "cittanova"
   accentcity: "Cittanova"
-cittanova d'istria: 
+cittanova distria: 
   city: "cittanova d'istria"
   accentcity: "Cittanova d'Istria"
 cittavecchia: 
@@ -5253,7 +5253,7 @@ dicolo:
 dignano: 
   city: "dignano"
   accentcity: "Dignano"
-dignano d'istria: 
+dignano distria: 
   city: "dignano d'istria"
   accentcity: "Dignano d'Istria"
 dijanes: 
@@ -7593,7 +7593,7 @@ farkasevac:
 farkasic: 
   city: "farkasic"
   accentcity: "Farkasic"
-fasana d'istria: 
+fasana distria: 
   city: "fasana d'istria"
   accentcity: "Fasana d'Istria"
 fasana: 
@@ -7644,7 +7644,7 @@ ferovac:
 festinec: 
   city: "festinec"
   accentcity: "Festinec"
-fianona d'istria: 
+fianona distria: 
   city: "fianona d'istria"
   accentcity: "Fianona d'Istria"
 fianona: 
@@ -16941,7 +16941,7 @@ marusi:
 maruzini: 
   city: "maruzini"
   accentcity: "Maruzini"
-marzana d'istria: 
+marzana distria: 
   city: "marzana d'istria"
   accentcity: "Marzana d'Istria"
 marzana: 
@@ -17985,7 +17985,7 @@ monsalice:
 montana: 
   city: "montana"
   accentcity: "Montana"
-montemaggiore d'istria: 
+montemaggiore distria: 
   city: "montemaggiore d'istria"
   accentcity: "Montemaggiore d'Istria"
 montemillotti: 
@@ -23958,7 +23958,7 @@ roveria:
 roverija: 
   city: "roverija"
   accentcity: "Roverija"
-rovigno d'istria: 
+rovigno distria: 
   city: "rovigno d'istria"
   accentcity: "Rovigno d'Istria"
 rovigno: 
@@ -24006,7 +24006,7 @@ rozici:
 rozmajerovac: 
   city: "rozmajerovac"
   accentcity: "Rozmajerovac"
-rozzo d'istria: 
+rozzo distria: 
   city: "rozzo d'istria"
   accentcity: "Rozzo d'Istria"
 rozzo: 
@@ -24462,7 +24462,7 @@ sankt veit am flaum:
 sankt veit am pflaum: 
   city: "sankt veit am pflaum"
   accentcity: "Sankt Veit am Pflaum"
-san lorenzo d'albona: 
+san lorenzo dalbona: 
   city: "san lorenzo d'albona"
   accentcity: "San Lorenzo d'Albona"
 san lorenzo del pasenatico: 
@@ -24528,7 +24528,7 @@ santalezi:
 santa lucia kostrena: 
   city: "santa lucia kostrena"
   accentcity: "Santa Lucia Kostrena"
-sant'antonio: 
+santantonio: 
   city: "sant'antonio"
   accentcity: "Sant'Antonio"
 santi filippo e giacomo: 
@@ -24540,7 +24540,7 @@ santo filippo-giacomo:
 santo stefano: 
   city: "santo stefano"
   accentcity: "Santo Stefano"
-san vincenti d'istria: 
+san vincenti distria: 
   city: "san vincenti d'istria"
   accentcity: "San Vincenti d'Istria"
 sanvincenti: 
@@ -24771,7 +24771,7 @@ sebenico:
 sebisina: 
   city: "sebisina"
   accentcity: "Sebisina"
-sede com'le: 
+sede comle: 
   city: "sede com'le"
   accentcity: "Sede Com'le"
 sedlarica: 
@@ -29397,7 +29397,7 @@ valko:
 valkovar: 
   city: "valkovar"
   accentcity: "Valkóvár"
-valle d'istria: 
+valle distria: 
   city: "valle d'istria"
   accentcity: "Valle d'Istria"
 vallegrande: 
@@ -30297,7 +30297,7 @@ villa matterada:
 villania: 
   city: "villania"
   accentcity: "Villania"
-villanova d'arsa: 
+villanova darsa: 
   city: "villanova d'arsa"
   accentcity: "Villanova d'Arsa"
 villanova del quieto: 
@@ -30324,7 +30324,7 @@ villa turrini:
 villa vrana: 
   city: "villa vrana"
   accentcity: "Villa Vrana"
-ville d'icici: 
+ville dicici: 
   city: "ville d'icici"
   accentcity: "Ville d'Icici"
 villyo: 
@@ -30438,7 +30438,7 @@ viscovi:
 visic radeka: 
   city: "visic radeka"
   accentcity: "Visic Radeka"
-visignano d'istria: 
+visignano distria: 
   city: "visignano d'istria"
   accentcity: "Visignano d'Istria"
 visignano: 

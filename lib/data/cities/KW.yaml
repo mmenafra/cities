@@ -45,13 +45,13 @@ abu hulaifah:
 abu hulayfah: 
   city: "abu hulayfah"
   accentcity: "Abu Hulayfah"
-ad da`iyah: 
+ad daiyah: 
   city: "ad da`iyah"
   accentcity: "Ad Da`iyah"
 ad dasht: 
   city: "ad dasht"
   accentcity: "Ad Dasht"
-ad dasma': 
+ad dasma: 
   city: "ad dasma'"
   accentcity: "Ad Dasma'"
 ad dasmah: 
@@ -60,10 +60,10 @@ ad dasmah:
 ad dawhah: 
   city: "ad dawhah"
   accentcity: "Ad Dawhah"
-ad diba`iyah: 
+ad dibaiyah: 
   city: "ad diba`iyah"
   accentcity: "Ad Diba`iyah"
-ad duba`iyah: 
+ad dubaiyah: 
   city: "ad duba`iyah"
   accentcity: "Ad Duba`iyah"
 ad dumna: 
@@ -81,37 +81,37 @@ ahmadi:
 ahmedi: 
   city: "ahmedi"
   accentcity: "Ahmedi"
-al `abbasiyah: 
+al abbasiyah: 
   city: "al `abbasiyah"
   accentcity: "Al `Abbasiyah"
-al `abdaliyah: 
+al abdaliyah: 
   city: "al `abdaliyah"
   accentcity: "Al `Abdaliyah"
-al ad`ami: 
+al adami: 
   city: "al ad`ami"
   accentcity: "Al Ad`ami"
 al adhaba-iyah: 
   city: "al adhaba-iyah"
   accentcity: "Al Adhaba-iyah"
-al `adiliyah: 
+al adiliyah: 
   city: "al `adiliyah"
   accentcity: "Al `Adiliyah"
 al ahmadi: 
   city: "al ahmadi"
   accentcity: "Al Ahmadi"
-al-`alaimah: 
+al-alaimah: 
   city: "al-`alaimah"
   accentcity: "Al-`Alaimah"
-al `arfajiyah: 
+al arfajiyah: 
   city: "al `arfajiyah"
   accentcity: "Al `Arfajiyah"
-al `aridiyah: 
+al aridiyah: 
   city: "al `aridiyah"
   accentcity: "Al `Aridiyah"
 al aridiyah: 
   city: "al aridiyah"
   accentcity: "Al Aridiyah"
-al `awazim: 
+al awazim: 
   city: "al `awazim"
   accentcity: "Al `Awazim"
 al badawiyah: 
@@ -126,10 +126,10 @@ al bahrah:
 al bhar: 
   city: "al bhar"
   accentcity: "Al Bhar"
-al bida`: 
+al bida: 
   city: "al bida`"
   accentcity: "Al Bida`"
-al bid`: 
+al bid: 
   city: "al bid`"
   accentcity: "Al Bid`"
 al biddah: 
@@ -177,7 +177,7 @@ al farwaniyah:
 al-farwaniyyah: 
   city: "al-farwaniyyah"
   accentcity: "Al-Farwaniyyah"
-al fayha': 
+al fayha: 
   city: "al fayha'"
   accentcity: "Al Fayha'"
 al-finaitees: 
@@ -219,7 +219,7 @@ al jahara:
 al-jaharah: 
   city: "al-jaharah"
   accentcity: "Al-Jaharah"
-al jahra': 
+al jahra: 
   city: "al jahra'"
   accentcity: "Al Jahra'"
 al jahrah: 
@@ -264,7 +264,7 @@ al manqaf:
 al mansuriyah: 
   city: "al mansuriyah"
   accentcity: "Al Mansuriyah"
-al maqwa`: 
+al maqwa: 
   city: "al maqwa`"
   accentcity: "Al Maqwa`"
 al masilah: 
@@ -273,7 +273,7 @@ al masilah:
 al mijifa: 
   city: "al mijifa"
   accentcity: "Al Mijifa"
-al mina': 
+al mina: 
   city: "al mina'"
   accentcity: "Al Mina'"
 al muraytibah: 
@@ -297,7 +297,7 @@ al qadisiyah:
 al qiblah: 
   city: "al qiblah"
   accentcity: "Al Qiblah"
-al qulay`ah: 
+al qulayah: 
   city: "al qulay`ah"
   accentcity: "Al Qulay`ah"
 al-riqqah: 
@@ -318,19 +318,19 @@ al shuwaikh:
 al-sulaibikhat: 
   city: "al-sulaibikhat"
   accentcity: "Al-Sulaibikhat"
-al `udayliyah: 
+al udayliyah: 
   city: "al `udayliyah"
   accentcity: "Al `Udayliyah"
-al `ulaymiyah: 
+al ulaymiyah: 
   city: "al `ulaymiyah"
   accentcity: "Al `Ulaymiyah"
-al `umariyah: 
+al umariyah: 
   city: "al `umariyah"
   accentcity: "Al `Umariyah"
-al `uqaylah: 
+al uqaylah: 
   city: "al `uqaylah"
   accentcity: "Al `Uqaylah"
-al `uqlah: 
+al uqlah: 
   city: "al `uqlah"
   accentcity: "Al `Uqlah"
 al wafrah: 
@@ -351,7 +351,7 @@ an nijfah:
 an nugayyat: 
   city: "an nugayyat"
   accentcity: "An Nugayyat"
-an nuqay`at: 
+an nuqayat: 
   city: "an nuqay`at"
   accentcity: "An Nuqay`at"
 an nuqayyat: 
@@ -390,13 +390,13 @@ ar rumaythiyah:
 ashish ad dawhah: 
   city: "`ashish ad dawhah"
   accentcity: "`Ashish ad Dawhah"
-ashish al jahra': 
+ashish al jahra: 
   city: "`ashish al jahra'"
   accentcity: "`Ashish al Jahra'"
 ashish al jahrah: 
   city: "ashish al jahrah"
   accentcity: "Ashish al Jahrah"
-ash sha`b: 
+ash shab: 
   city: "ash sha`b"
   accentcity: "Ash Sha`b"
 ash shadadiyah: 
@@ -408,10 +408,10 @@ ash shamiyah:
 ash sharq: 
   city: "ash sharq"
   accentcity: "Ash Sharq"
-ash shu`aiba: 
+ash shuaiba: 
   city: "ash shu`aiba"
   accentcity: "Ash Shu`aiba"
-ash shu`aybah: 
+ash shuaybah: 
   city: "ash shu`aybah"
   accentcity: "Ash Shu`aybah"
 ash shubaykah: 
@@ -429,7 +429,7 @@ as salihiyah:
 as salimiyah: 
   city: "as salimiyah"
   accentcity: "As Salimiyah"
-as shu`aiba: 
+as shuaiba: 
   city: "as shu`aiba"
   accentcity: "As Shu`aiba"
 as sulaybikhat: 
@@ -450,7 +450,7 @@ az zawr:
 az zor: 
   city: "az zor"
   accentcity: "Az Zor"
-bad'ah: 
+badah: 
   city: "bad'ah"
   accentcity: "Bad'ah"
 bahra: 
@@ -477,7 +477,7 @@ bayan:
 bunayd al qar: 
   city: "bunayd al qar"
   accentcity: "Bunayd al Qar"
-dahiyat `abd allah as salim: 
+dahiyat abd allah as salim: 
   city: "dahiyat `abd allah as salim"
   accentcity: "Dahiyat `Abd Allah as Salim"
 dant: 
@@ -492,10 +492,10 @@ dasmah:
 dauha: 
   city: "dauha"
   accentcity: "Dauha"
-dhuba`iyah: 
+dhubaiyah: 
   city: "dhuba`iyah"
   accentcity: "Dhuba`iyah"
-dhulai` sa`ud: 
+dhulai saud: 
   city: "dhulai` sa`ud"
   accentcity: "Dhulai` Sa`ud"
 dimnah: 
@@ -507,10 +507,10 @@ doha:
 dubayeiha: 
   city: "dubayeiha"
   accentcity: "Dubayeiha"
-dulay` sa`ud: 
+dulay saud: 
   city: "dulay` sa`ud"
   accentcity: "Dulay` Sa`ud"
-dulay` su`ud: 
+dulay suud: 
   city: "dulay` su`ud"
   accentcity: "Dulay` Su`ud"
 duwaydat: 
@@ -624,7 +624,7 @@ jleeb al shuyoukh:
 juaidan: 
   city: "juaidan"
   accentcity: "Juaidan"
-ju`aydan: 
+juaydan: 
   city: "ju`aydan"
   accentcity: "Ju`aydan"
 kaifan: 
@@ -678,13 +678,13 @@ maqwah:
 maqwa: 
   city: "maqwa"
   accentcity: "Maqwa"
-mina' az zawr: 
+mina az zawr: 
   city: "mina' az zawr"
   accentcity: "Mina' az Zawr"
-mina' az-zor: 
+mina az-zor: 
   city: "mina' az-zor"
   accentcity: "Mina' az-Zor"
-mina' sa`ud: 
+mina saud: 
   city: "mina' sa`ud"
   accentcity: "Mina' Sa`ud"
 munifah: 
@@ -756,7 +756,7 @@ shaabah:
 shaab: 
   city: "shaab"
   accentcity: "Shaab"
-sha'iba: 
+shaiba: 
   city: "sha'iba"
   accentcity: "Sha'iba"
 shamiyah: 
@@ -777,16 +777,16 @@ sharq hawalli:
 shauiba: 
   city: "shauiba"
   accentcity: "Shauiba"
-shi'aibah: 
+shiaibah: 
   city: "shi'aibah"
   accentcity: "Shi'aibah"
-shua'ibah: 
+shuaibah: 
   city: "shua'ibah"
   accentcity: "Shua'ibah"
 shuaiba: 
   city: "shuaiba"
   accentcity: "Shuaiba"
-shu`aybah: 
+shuaybah: 
   city: "shu`aybah"
   accentcity: "Shu`aybah"
 shumaymah: 
@@ -837,7 +837,7 @@ uqlah:
 urayfijan: 
   city: "`urayfijan"
   accentcity: "`Urayfijan"
-ushaysh al jahra': 
+ushaysh al jahra: 
   city: "`ushaysh al jahra'"
   accentcity: "`Ushaysh al Jahra'"
 warah: 

@@ -1980,7 +1980,7 @@ chief muwezwa:
 chief nkana: 
   city: "chief nkana"
   accentcity: "Chief Nkana"
-chief nkana's court: 
+chief nkanas court: 
   city: "chief nkana's court"
   accentcity: "Chief Nkana's Court"
 chief sanje: 
@@ -6846,7 +6846,7 @@ imwaka:
 imwangala: 
   city: "imwangala"
   accentcity: "Imwangala"
-imwiko's kraal: 
+imwikos kraal: 
   city: "imwiko's kraal"
   accentcity: "Imwiko's Kraal"
 inambao: 
@@ -13122,7 +13122,7 @@ kitwe nkana:
 kiyumbi: 
   city: "kiyumbi"
   accentcity: "Kiyumbi"
-k'kalinga: 
+kkalinga: 
   city: "k'kalinga"
   accentcity: "K'Kalinga"
 klemba: 
@@ -13905,7 +13905,7 @@ levi:
 levi mwango: 
   city: "levi mwango"
   accentcity: "Levi Mwango"
-lewanika's grave: 
+lewanikas grave: 
   city: "lewanika's grave"
   accentcity: "Lewanika's Grave"
 lewis: 
@@ -19452,7 +19452,7 @@ mkwesa:
 mlalika: 
   city: "mlalika"
   accentcity: "Mlalika"
-m'lamba: 
+mlamba: 
   city: "m'lamba"
   accentcity: "M'Lamba"
 mlambe: 
@@ -19494,7 +19494,7 @@ mlyanungu:
 mmalengo: 
   city: "mmalengo"
   accentcity: "Mmalengo"
-m'mbezuma: 
+mmbezuma: 
   city: "m'mbezuma"
   accentcity: "M'mbezuma"
 mmpolunje: 
@@ -19533,7 +19533,7 @@ mnkotwe:
 mnkwinda: 
   city: "mnkwinda"
   accentcity: "Mnkwinda"
-m'nsovu: 
+mnsovu: 
   city: "m'nsovu"
   accentcity: "M'nsovu"
 mnthanzi: 
@@ -21450,7 +21450,7 @@ mukwae mboanjikana:
 mukwae mbwanjikana: 
   city: "mukwae mbwanjikana"
   accentcity: "Mukwae Mbwanjikana"
-mukwae's mafulo: 
+mukwaes mafulo: 
   city: "mukwae's mafulo"
   accentcity: "Mukwae's Mafulo"
 mukwakwa: 
@@ -24666,7 +24666,7 @@ mwanomei:
 mwanoota: 
   city: "mwanoota"
   accentcity: "Mwanoota"
-mwan'ota: 
+mwanota: 
   city: "mwan'ota"
   accentcity: "Mwan'ota"
 mwansakombe: 
@@ -24786,16 +24786,16 @@ mwayiba:
 mwayila: 
   city: "mwayila"
   accentcity: "Mwayila"
-mw'bunga: 
+mwbunga: 
   city: "mw'bunga"
   accentcity: "Mw'Bunga"
-mw'chilenga: 
+mwchilenga: 
   city: "mw'chilenga"
   accentcity: "Mw'Chilenga"
-mw'chima: 
+mwchima: 
   city: "mw'chima"
   accentcity: "Mw'Chima"
-mw'chunga: 
+mwchunga: 
   city: "mw'chunga"
   accentcity: "Mw'Chunga"
 mwebo: 
@@ -25254,19 +25254,19 @@ mwiyo:
 mwizara: 
   city: "mwizara"
   accentcity: "Mwizara"
-mw'lemba: 
+mwlemba: 
   city: "mw'lemba"
   accentcity: "Mw'lemba"
-mw'lialabi: 
+mwlialabi: 
   city: "mw'lialabi"
   accentcity: "Mw'lialabi"
-mw'lubinga: 
+mwlubinga: 
   city: "mw'lubinga"
   accentcity: "Mw'lubinga"
-mw'miyamba: 
+mwmiyamba: 
   city: "mw'miyamba"
   accentcity: "Mw'Miyamba"
-mw'mulando: 
+mwmulando: 
   city: "mw'mulando"
   accentcity: "Mw'Mulando"
 mwombishi: 
@@ -25281,7 +25281,7 @@ mwondela:
 mwono: 
   city: "mwono"
   accentcity: "Mwono"
-mw'shyanyumba: 
+mwshyanyumba: 
   city: "mw'shyanyumba"
   accentcity: "Mw'shyanyumba"
 mwuishi: 
@@ -26781,7 +26781,7 @@ nganga:
 ngangula: 
   city: "ngangula"
   accentcity: "Ngangula"
-ng'angu: 
+ngangu: 
   city: "ng'angu"
   accentcity: "Ng'angu"
 nganja: 
@@ -26979,7 +26979,7 @@ ngungula:
 nguni: 
   city: "nguni"
   accentcity: "Nguni"
-ng'uny: 
+nguny: 
   city: "ng'uny"
   accentcity: "Ng'uny"
 nguvo: 
@@ -27168,10 +27168,10 @@ njungu:
 nkabila: 
   city: "nkabila"
   accentcity: "Nkabila"
-n'kaka: 
+nkaka: 
   city: "n'kaka"
   accentcity: "N'Kaka"
-n'kakilwa: 
+nkakilwa: 
   city: "n'kakilwa"
   accentcity: "N'Kakilwa"
 nkalabanda: 
@@ -29268,19 +29268,19 @@ sailunga:
 saingwe: 
   city: "saingwe"
   accentcity: "Saingwe"
-saint anthony's: 
+saint anthonys: 
   city: "saint anthony's"
   accentcity: "Saint Anthony's"
 saint francis: 
   city: "saint francis"
   accentcity: "Saint Francis"
-saint joseph's: 
+saint josephs: 
   city: "saint joseph's"
   accentcity: "Saint Joseph's"
 saint lawrence: 
   city: "saint lawrence"
   accentcity: "Saint Lawrence"
-saint mary's: 
+saint marys: 
   city: "saint mary's"
   accentcity: "Saint Mary's"
 saioni chaia: 

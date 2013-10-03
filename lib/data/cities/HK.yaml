@@ -75,7 +75,7 @@ chai wan resettlement area:
 cha kwo ling: 
   city: "cha kwo ling"
   accentcity: "Cha Kwo Ling"
-ch'ang-sha: 
+chang-sha: 
   city: "ch'ang-sha"
   accentcity: "Ch'ang-sha"
 chan ji: 
@@ -204,7 +204,7 @@ chin lan chun:
 chiu-lung: 
   city: "chiu-lung"
   accentcity: "Chiu-lung"
-chiu-lung-ku-ch'eng: 
+chiu-lung-ku-cheng: 
   city: "chiu-lung-ku-ch'eng"
   accentcity: "Chiu-lung-ku-ch'eng"
 choi hung: 
@@ -213,7 +213,7 @@ choi hung:
 choong wan: 
   city: "choong wan"
   accentcity: "Choong Wan"
-ch'uan-wan: 
+chuan-wan: 
   city: "ch'uan-wan"
   accentcity: "Ch'\xC3\xBCan-wan"
 chuen lung: 
@@ -627,7 +627,7 @@ hung fa ngan:
 hung hom: 
   city: "hung hom"
   accentcity: "Hung Hom"
-hung-k'an: 
+hung-kan: 
   city: "hung-k'an"
   accentcity: "Hung-k'an"
 hung leng: 
@@ -894,10 +894,10 @@ kowloon:
 kowloon tong: 
   city: "kowloon tong"
   accentcity: "Kowloon Tong"
-k'uai-huo ku: 
+kuai-huo ku: 
   city: "k'uai-huo ku"
   accentcity: "K'uai-huo Ku"
-kuan t'ang: 
+kuan tang: 
   city: "kuan t'ang"
   accentcity: "Kuan T'ang"
 kuk liu: 
@@ -1842,7 +1842,7 @@ ping long wan:
 ping shan chai: 
   city: "ping shan chai"
   accentcity: "Ping Shan Chai"
-p'ing-shan-hsu: 
+ping-shan-hsu: 
   city: "p'ing-shan-hsu"
   accentcity: "P'ing-shan-hs\xC3\xBC"
 ping shan: 
@@ -1911,13 +1911,13 @@ pun uk tsuen:
 quarry bay: 
   city: "quarry bay"
   accentcity: "Quarry Bay"
-rennie's mill camp: 
+rennies mill camp: 
   city: "rennie's mill camp"
   accentcity: "Rennie's Mill Camp"
-rennie's mill: 
+rennies mill: 
   city: "rennie's mill"
   accentcity: "Rennie's Mill"
-rennie's mill village: 
+rennies mill village: 
   city: "rennie's mill village"
   accentcity: "Rennie's Mill Village"
 repulse bay: 
@@ -2259,7 +2259,7 @@ sha tin tau:
 sha tin wai: 
   city: "sha tin wai"
   accentcity: "Sha Tin Wai"
-sha-t'ou-chiao: 
+sha-tou-chiao: 
   city: "sha-t'ou-chiao"
   accentcity: "Sha-t'ou-chiao"
 shatoujiao: 
@@ -2976,7 +2976,7 @@ tap mun:
 ta shek wu: 
   city: "ta shek wu"
   accentcity: "Ta Shek Wu"
-ta-shui-k'eng: 
+ta-shui-keng: 
   city: "ta-shui-k'eng"
   accentcity: "Ta-shui-k'eng"
 ta tit yan: 

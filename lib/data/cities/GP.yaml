@@ -51,10 +51,10 @@ bananier:
 barbier: 
   city: "barbier"
   accentcity: "Barbier"
-barre de l'ile: 
+barre de lile: 
   city: "barre de l'ile"
   accentcity: "Barre de l'\xC3\x8Ele"
-barre de l'ile numero un: 
+barre de lile numero un: 
   city: "barre de l'ile numero un"
   accentcity: "Barre de l'\xC3\x8Ele Numéro Un"
 bas du fort: 
@@ -381,7 +381,7 @@ de pombiray:
 de poyen: 
   city: "de poyen"
   accentcity: "De Poyen"
-d' equainville: 
+d equainville: 
   city: "d' equainville"
   accentcity: "D' \xC3\x89quainville"
 desbonnes: 
@@ -405,7 +405,7 @@ desmarais:
 desplan: 
   city: "desplan"
   accentcity: "Desplan"
-d'esquainville: 
+desquainville: 
   city: "d'esquainville"
   accentcity: "D'Esquainville"
 desruisseaux: 
@@ -495,7 +495,7 @@ fond-caraibe:
 fonds cacao: 
   city: "fonds cacao"
   accentcity: "Fonds Cacao"
-fonds d' or: 
+fonds d or: 
   city: "fonds d' or"
   accentcity: "Fonds d' Or"
 fontaine: 
@@ -567,7 +567,7 @@ grand-bourg:
 grand case: 
   city: "grand case"
   accentcity: "Grand Case"
-grand' case: 
+grand case: 
   city: "grand' case"
   accentcity: "Grand' Case"
 grand-case: 
@@ -855,7 +855,7 @@ le marquis:
 lemercier: 
   city: "lemercier"
   accentcity: "Lemercier"
-le morne a l'eau: 
+le morne a leau: 
   city: "le morne a l'eau"
   accentcity: "Le Morne a l'Eau"
 le moule: 
@@ -864,7 +864,7 @@ le moule:
 le petit marigot: 
   city: "le petit marigot"
   accentcity: "Le Petit Marigot"
-l'ermitage: 
+lermitage: 
   city: "l'ermitage"
   accentcity: "L'Ermitage"
 les abymes: 
@@ -897,19 +897,19 @@ les trois rivieres:
 lesueur: 
   city: "lesueur"
   accentcity: "Lesueur"
-l'etang noir: 
+letang noir: 
   city: "l'etang noir"
   accentcity: "L'\xC3\x89tang Noir"
 lezarde: 
   city: "lezarde"
   accentcity: "Lézarde"
-l'habituee: 
+lhabituee: 
   city: "l'habituee"
   accentcity: "L'Habituée"
-l'hermitage: 
+lhermitage: 
   city: "l'hermitage"
   accentcity: "L'Hermitage"
-l'ilet: 
+lilet: 
   city: "l'ilet"
   accentcity: "L'\xC3\x8Elet"
 lise: 
@@ -930,7 +930,7 @@ lorient:
 louisiane: 
   city: "louisiane"
   accentcity: "Louisiane"
-l'union: 
+lunion: 
   city: "l'union"
   accentcity: "L'Union"
 lurin: 
@@ -1059,7 +1059,7 @@ montval:
 moringlane: 
   city: "moringlane"
   accentcity: "Moringlane"
-morne-a-l'eau: 
+morne-a-leau: 
   city: "morne-a-l'eau"
   accentcity: "Morne-à-l'Eau"
 morne bourg: 
@@ -1230,7 +1230,7 @@ pressac:
 pressec: 
   city: "pressec"
   accentcity: "Pressec"
-prise d'eau: 
+prise deau: 
   city: "prise d'eau"
   accentcity: "Prise d'Eau"
 public: 
@@ -1239,7 +1239,7 @@ public:
 quartier de colombier: 
   city: "quartier de colombier"
   accentcity: "Quartier de Colombier"
-quartier de grand' case: 
+quartier de grand case: 
   city: "quartier de grand' case"
   accentcity: "Quartier de Grand' Case"
 quartier de la grande case: 
@@ -1260,7 +1260,7 @@ quartier des flamands:
 quartier de toiny: 
   city: "quartier de toiny"
   accentcity: "Quartier de Toiny"
-quartier d'orleans: 
+quartier dorleans: 
   city: "quartier d'orleans"
   accentcity: "Quartier d'Orléans"
 quartier du colombier: 
@@ -1515,7 +1515,7 @@ trois-rivieres:
 valeau: 
   city: "valeau"
   accentcity: "Valeau"
-vallee d'or: 
+vallee dor: 
   city: "vallee d'or"
   accentcity: "Vallée d'Or"
 vallon vrimouth: 

@@ -54,7 +54,7 @@ abengnam:
 abeng-nam: 
   city: "abeng-nam"
   accentcity: "Abeng-Nam"
-abeng'nam: 
+abengnam: 
   city: "abeng'nam"
   accentcity: "Abeng'nam"
 abennam: 
@@ -279,16 +279,16 @@ afaabitom:
 afaanam: 
   city: "afaanam"
   accentcity: "Afaanam"
-afa'annam: 
+afaannam: 
   city: "afa'annam"
   accentcity: "Afa'annam"
 afaansoc: 
   city: "afaansoc"
   accentcity: "Afaansoc"
-afa'ansok: 
+afaansok: 
   city: "afa'ansok"
   accentcity: "Afa'ansok"
-afa`ansok-esong: 
+afaansok-esong: 
   city: "afa`ansok-esong"
   accentcity: "Afa`ansok-Esong"
 afabitom: 
@@ -318,7 +318,7 @@ afanengui:
 afansoc: 
   city: "afansoc"
   accentcity: "Afansoc"
-af'ansok-abenelang: 
+afansok-abenelang: 
   city: "af'ansok-abenelang"
   accentcity: "Af'ansok-Abenelang"
 afomadim: 
@@ -339,7 +339,7 @@ aguanam:
 ajene: 
   city: "ajene"
   accentcity: "Ajene"
-aka'asi: 
+akaasi: 
   city: "aka'asi"
   accentcity: "Aka'asi"
 akalayong: 
@@ -387,7 +387,7 @@ akonekie:
 akoo: 
   city: "akoo"
   accentcity: "Akoo"
-ako'osi: 
+akoosi: 
   city: "ako'osi"
   accentcity: "Ako'osi"
 akora: 
@@ -633,7 +633,7 @@ aseosi:
 asesoc: 
   city: "asesoc"
   accentcity: "Asesoc"
-ase'sok: 
+asesok: 
   city: "ase'sok"
   accentcity: "Ase'sok"
 asia: 
@@ -750,7 +750,7 @@ ayaaman:
 ayaamang: 
   city: "ayaamang"
   accentcity: "Ayaamang"
-aya'amvela: 
+ayaamvela: 
   city: "aya'amvela"
   accentcity: "Aya'amvela"
 ayaamvele: 
@@ -765,7 +765,7 @@ ayabifara:
 ayabilon: 
   city: "ayabilon"
   accentcity: "Ayabilon"
-aya'bivila: 
+ayabivila: 
   city: "aya'bivila"
   accentcity: "Aya'bivila"
 ayacbenvila: 
@@ -792,7 +792,7 @@ ayagfe:
 ayakmang: 
   city: "ayakmang"
   accentcity: "Ayakmang"
-aya'kue: 
+ayakue: 
   city: "aya'kue"
   accentcity: "Aya'kue"
 ayamboga: 
@@ -801,7 +801,7 @@ ayamboga:
 ayamiken: 
   city: "ayamiken"
   accentcity: "Ayamiken"
-aya'miteng: 
+ayamiteng: 
   city: "aya'miteng"
   accentcity: "Aya'miteng"
 ayana: 
@@ -813,10 +813,10 @@ ayan:
 ayanesala: 
   city: "ayanesala"
   accentcity: "Ayanesala"
-aya`ntang: 
+ayantang: 
   city: "aya`ntang"
   accentcity: "Aya`ntang"
-aya'ntang: 
+ayantang: 
   city: "aya'ntang"
   accentcity: "Aya'ntang"
 ayap: 
@@ -1581,7 +1581,7 @@ bonche:
 bondei: 
   city: "bondei"
   accentcity: "Bondei"
-bondya'amba: 
+bondyaamba: 
   city: "bondya'amba"
   accentcity: "Bondya'amba"
 bongo: 
@@ -2142,7 +2142,7 @@ ehoko:
 ekenikovi: 
   city: "ekenikovi"
   accentcity: "Ekenikovi"
-eko'guong: 
+ekoguong: 
   city: "eko'guong"
   accentcity: "Eko'guong"
 ekoguong: 
@@ -2157,7 +2157,7 @@ ekowong:
 ekuak: 
   city: "ekuak"
   accentcity: "Ekuak"
-ekua'mayene: 
+ekuamayene: 
   city: "ekua'mayene"
   accentcity: "Ekua'mayene"
 ekuk: 
@@ -2424,7 +2424,7 @@ eteoveng:
 etete: 
   city: "etete"
   accentcity: "Etete"
-etiani's: 
+etianis: 
   city: "etiani's"
   accentcity: "Etiani's"
 etiany: 
@@ -2541,7 +2541,7 @@ eyamayon:
 eyamayong: 
   city: "eyamayong"
   accentcity: "Eyamayong"
-eya'mayong: 
+eyamayong: 
   city: "eya'mayong"
   accentcity: "Eya'mayong"
 eyameyong: 
@@ -2916,7 +2916,7 @@ macac:
 macamensoc: 
   city: "macamensoc"
   accentcity: "Macamensoc"
-macha'mabe: 
+machamabe: 
   city: "macha'mabe"
   accentcity: "Macha'mabe"
 machaua: 
@@ -3735,7 +3735,7 @@ mikala:
 mikamesen: 
   city: "mikamesen"
   accentcity: "Mikamesen"
-mika'osi: 
+mikaosi: 
   city: "mika'osi"
   accentcity: "Mika'osi"
 mikomeseng: 
@@ -4116,7 +4116,7 @@ nboman:
 nbona: 
   city: "nbona"
   accentcity: "Nbona"
-n'bonda: 
+nbonda: 
   city: "n'bonda"
   accentcity: "N'Bonda"
 nbono: 
@@ -4728,13 +4728,13 @@ nkinfala:
 nkin: 
   city: "nkin"
   accentcity: "Nkin"
-nko'achap: 
+nkoachap: 
   city: "nko'achap"
   accentcity: "Nko'achap"
-nko'alom: 
+nkoalom: 
   city: "nko'alom"
   accentcity: "Nko'alom"
-nko'ambe: 
+nkoambe: 
   city: "nko'ambe"
   accentcity: "Nko'ambe"
 nko anem-manike: 
@@ -4743,34 +4743,34 @@ nko anem-manike:
 nko anem-manique: 
   city: "nko anem-manique"
   accentcity: "Nko Anem-Manique"
-nko'angala: 
+nkoangala: 
   city: "nko'angala"
   accentcity: "Nko'angala"
-nko'antona: 
+nkoantona: 
   city: "nko'antona"
   accentcity: "Nko'antona"
-nko'asas: 
+nkoasas: 
   city: "nko'asas"
   accentcity: "Nko'asas"
 nkoekie: 
   city: "nkoekie"
   accentcity: "Nkoekie"
-nko'ekuk: 
+nkoekuk: 
   city: "nko'ekuk"
   accentcity: "Nko'ekuk"
 nkoensok: 
   city: "nkoensok"
   accentcity: "Nkoensok"
-nko'esi: 
+nkoesi: 
   city: "nko'esi"
   accentcity: "Nko'esi"
 nkoete: 
   city: "nkoete"
   accentcity: "Nkoete"
-nkol'amvam: 
+nkolamvam: 
   city: "nkol'amvam"
   accentcity: "Nkol'Amvam"
-nkol 'amvam: 
+nkol amvam: 
   city: "nkol 'amvam"
   accentcity: "Nkol 'Amvam"
 nkol amvam: 
@@ -5115,7 +5115,7 @@ nyeche:
 nyong: 
   city: "nyong"
   accentcity: "Nyong"
-n'zork: 
+nzork: 
   city: "n'zork"
   accentcity: "N'Zork"
 obamicu: 

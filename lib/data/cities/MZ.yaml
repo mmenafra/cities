@@ -1,9 +1,9 @@
 # encoding: UTF-8
 --- 
-25 de junho 'a': 
+25 de junho a: 
   city: "25 de junho 'a'"
   accentcity: "25 de Junho 'A'"
-25 de junho 'b': 
+25 de junho b: 
   city: "25 de junho 'b'"
   accentcity: "25 de Junho 'B'"
 3 de fevereiro: 
@@ -234,10 +234,10 @@ adriano:
 adulumbuique: 
   city: "adulumbuique"
   accentcity: "Adulumbuique"
-aeroporto 'a': 
+aeroporto a: 
   city: "aeroporto 'a'"
   accentcity: "Aeroporto 'A'"
-aeroporto 'b': 
+aeroporto b: 
   city: "aeroporto 'b'"
   accentcity: "Aeroporto 'B'"
 afaina: 
@@ -1167,7 +1167,7 @@ aldeia mazogo:
 aldeia mazoi: 
   city: "aldeia mazoi"
   accentcity: "Aldeia Mazoi"
-aldeia m'bemba: 
+aldeia mbemba: 
   city: "aldeia m'bemba"
   accentcity: "Aldeia M'bemba"
 aldeia mbueca: 
@@ -1245,7 +1245,7 @@ aldeia mpeia:
 aldeia mphemba: 
   city: "aldeia mphemba"
   accentcity: "Aldeia Mphemba"
-aldeia m'pomba: 
+aldeia mpomba: 
   city: "aldeia m'pomba"
   accentcity: "Aldeia M'Pomba"
 aldeia mpuephue: 
@@ -1776,10 +1776,10 @@ alto ligonha:
 alto limpopo: 
   city: "alto limpopo"
   accentcity: "Alto Limpopo"
-alto mae 'a': 
+alto mae a: 
   city: "alto mae 'a'"
   accentcity: "Alto Maé 'A'"
-alto mae 'b': 
+alto mae b: 
   city: "alto mae 'b'"
   accentcity: "Alto Maé 'B'"
 alto molocue: 
@@ -2865,10 +2865,10 @@ bairro j. demitrov:
 bairro patricio lumumba: 
   city: "bairro patricio lumumba"
   accentcity: "Bairro Patricio Lumumba"
-bairro vinte e cinco de junho 'a': 
+bairro vinte e cinco de junho a: 
   city: "bairro vinte e cinco de junho 'a'"
   accentcity: "Bairro Vinte e Cinco de Junho 'A'"
-bairro vinte e cinco de junho 'b': 
+bairro vinte e cinco de junho b: 
   city: "bairro vinte e cinco de junho 'b'"
   accentcity: "Bairro Vinte e Cinco de Junho 'B'"
 baixo licungo: 
@@ -5217,7 +5217,7 @@ cabo nivira:
 cabo novela: 
   city: "cabo novela"
   accentcity: "Cabo Novela"
-cabo n' repo: 
+cabo n repo: 
   city: "cabo n' repo"
   accentcity: "Cabo N' Rêpo"
 cabo ongonhane: 
@@ -7788,13 +7788,13 @@ cefia:
 cemula: 
   city: "cemula"
   accentcity: "Cemula"
-central 'a': 
+central a: 
   city: "central 'a'"
   accentcity: "Central 'A'"
-central 'b': 
+central b: 
   city: "central 'b'"
   accentcity: "Central 'B'"
-central 'c': 
+central c: 
   city: "central 'c'"
   accentcity: "Central 'C'"
 cepo: 
@@ -8121,16 +8121,16 @@ chamadi:
 chamalane: 
   city: "chamalane"
   accentcity: "Chamalane"
-chamanculo 'a': 
+chamanculo a: 
   city: "chamanculo 'a'"
   accentcity: "Chamanculo 'A'"
-chamanculo 'b': 
+chamanculo b: 
   city: "chamanculo 'b'"
   accentcity: "Chamanculo 'B'"
-chamanculo 'c': 
+chamanculo c: 
   city: "chamanculo 'c'"
   accentcity: "Chamanculo 'C'"
-chamanculo 'd': 
+chamanculo d: 
   city: "chamanculo 'd'"
   accentcity: "Chamanculo 'D'"
 chamane: 
@@ -10809,7 +10809,7 @@ chefe mavuela:
 chefe mavuiane: 
   city: "chefe mavuiane"
   accentcity: "Chefe Mavuiane"
-chefe m'bocho: 
+chefe mbocho: 
   city: "chefe m'bocho"
   accentcity: "Chefe M'Bocho"
 chefe m. djovo: 
@@ -11112,7 +11112,7 @@ chefe moura:
 chefe movinzula: 
   city: "chefe movinzula"
   accentcity: "Chefe Movinzula"
-chefe m'rossia: 
+chefe mrossia: 
   city: "chefe m'rossia"
   accentcity: "Chefe M'Rossia"
 chefe muabua: 
@@ -14919,7 +14919,7 @@ chipajola:
 chipala: 
   city: "chipala"
   accentcity: "Chipala"
-chipala n'djira: 
+chipala ndjira: 
   city: "chipala n'djira"
   accentcity: "Chipala N'djira"
 chipambo: 
@@ -18435,7 +18435,7 @@ dezindezine:
 dezingo: 
   city: "dezingo"
   accentcity: "Dezingo"
-d'gine: 
+dgine: 
   city: "d'gine"
   accentcity: "D'gine"
 dhalman: 
@@ -18597,7 +18597,7 @@ djalo:
 djambe: 
   city: "djambe"
   accentcity: "Djambê"
-d'jambuti: 
+djambuti: 
   city: "d'jambuti"
   accentcity: "D'jambuti"
 djandje: 
@@ -18624,13 +18624,13 @@ djaquene:
 djasse: 
   city: "djasse"
   accentcity: "Djasse"
-d'jeca: 
+djeca: 
   city: "d'jeca"
   accentcity: "D'jeca"
 djenge: 
   city: "djenge"
   accentcity: "Djenge"
-d'jequi: 
+djequi: 
   city: "d'jequi"
   accentcity: "D'jéqui"
 djerace: 
@@ -18669,7 +18669,7 @@ djonjo:
 djuaia: 
   city: "djuaia"
   accentcity: "Djuaia"
-d'lhelo: 
+dlhelo: 
   city: "d'lhelo"
   accentcity: "D'lhelo"
 d. machongane: 
@@ -18783,7 +18783,7 @@ dongue:
 donguene: 
   city: "donguene"
   accentcity: "Donguene"
-don 'nana: 
+don nana: 
   city: "don 'nana"
   accentcity: "Don 'Nana"
 donsa: 
@@ -21732,7 +21732,7 @@ hilario:
 hirica: 
   city: "hirica"
   accentcity: "Hirica"
-h'lamalani: 
+hlamalani: 
   city: "h'lamalani"
   accentcity: "H'Lamalani"
 h. macovele: 
@@ -21795,10 +21795,10 @@ huehele:
 hugo: 
   city: "hugo"
   accentcity: "Hugo"
-hulene 'a': 
+hulene a: 
   city: "hulene 'a'"
   accentcity: "Hulene 'A'"
-hulene 'b': 
+hulene b: 
   city: "hulene 'b'"
   accentcity: "Hulene 'B'"
 humo acuecue: 
@@ -22527,10 +22527,10 @@ inhafenga:
 inhafuza: 
   city: "inhafuza"
   accentcity: "Inhafuza"
-inhagoia 'a': 
+inhagoia a: 
   city: "inhagoia 'a'"
   accentcity: "Inhagoia 'A'"
-inhagoia 'b': 
+inhagoia b: 
   city: "inhagoia 'b'"
   accentcity: "Inhagoia 'B'"
 inhagombe: 
@@ -28860,10 +28860,10 @@ malezane:
 malhaico: 
   city: "malhaico"
   accentcity: "Malhaiço"
-malhangalene 'a': 
+malhangalene a: 
   city: "malhangalene 'a'"
   accentcity: "Malhangalene 'A'"
-malhangalene 'b': 
+malhangalene b: 
   city: "malhangalene 'b'"
   accentcity: "Malhangalene 'B'"
 malhazine: 
@@ -32238,7 +32238,7 @@ mavaivane:
 mavala: 
   city: "mavala"
   accentcity: "Mavala"
-mavalane 'a': 
+mavalane a: 
   city: "mavalane 'a'"
   accentcity: "Mavalane 'A'"
 mavalane: 
@@ -32373,16 +32373,16 @@ maxanga:
 maxangula: 
   city: "maxangula"
   accentcity: "Maxangula"
-maxaquene 'a': 
+maxaquene a: 
   city: "maxaquene 'a'"
   accentcity: "Maxaquene 'A'"
-maxaquene 'b': 
+maxaquene b: 
   city: "maxaquene 'b'"
   accentcity: "Maxaquene 'B'"
-maxaquene 'c': 
+maxaquene c: 
   city: "maxaquene 'c'"
   accentcity: "Maxaquene 'C'"
-maxaquene 'd': 
+maxaquene d: 
   city: "maxaquene 'd'"
   accentcity: "Maxaquene 'D'"
 maxavela: 
@@ -32634,7 +32634,7 @@ mazuvucane:
 m. baeco: 
   city: "m. baeco"
   accentcity: "M. Baeco"
-m'bala: 
+mbala: 
   city: "m'bala"
   accentcity: "M'bala"
 mbamba: 
@@ -32646,13 +32646,13 @@ mbandece:
 m. batista: 
   city: "m. batista"
   accentcity: "M. Batista"
-m'baue: 
+mbaue: 
   city: "m'baue"
   accentcity: "M'Baue"
 mbau: 
   city: "mbau"
   accentcity: "Mbau"
-m'beda: 
+mbeda: 
   city: "m'beda"
   accentcity: "M'beda"
 mbetazicone: 
@@ -32664,16 +32664,16 @@ mbivia:
 mboi: 
   city: "mboi"
   accentcity: "Mboi"
-m'boi: 
+mboi: 
   city: "m'boi"
   accentcity: "M'boi"
 mbonge: 
   city: "mbonge"
   accentcity: "Mbonge"
-m'bongo: 
+mbongo: 
   city: "m'bongo"
   accentcity: "M'Bongo"
-m'boni: 
+mboni: 
   city: "m'boni"
   accentcity: "M'Boni"
 mbugue: 
@@ -32682,13 +32682,13 @@ mbugue:
 m. bule: 
   city: "m. bule"
   accentcity: "M. Bule"
-m'bute: 
+mbute: 
   city: "m'bute"
   accentcity: "M'bute"
-m'cacama: 
+mcacama: 
   city: "m'cacama"
   accentcity: "M'cacama"
-m'cali: 
+mcali: 
   city: "m'cali"
   accentcity: "M'cali"
 m. camboque: 
@@ -32703,31 +32703,31 @@ mcapurra:
 mcarrua: 
   city: "mcarrua"
   accentcity: "Mcarrua"
-m'caveia: 
+mcaveia: 
   city: "m'caveia"
   accentcity: "M'Caveia"
-m'cequia: 
+mcequia: 
   city: "m'cequia"
   accentcity: "M'cequia"
-m'chave: 
+mchave: 
   city: "m'chave"
   accentcity: "M'chave"
 mchenga: 
   city: "mchenga"
   accentcity: "Mchenga"
-m'chincula: 
+mchincula: 
   city: "m'chincula"
   accentcity: "M'chincula"
 m. chiramino: 
   city: "m. chiramino"
   accentcity: "M. Chiramino"
-m'cinza: 
+mcinza: 
   city: "m'cinza"
   accentcity: "M'Cinza"
 mcoco: 
   city: "mcoco"
   accentcity: "Mcócó"
-m'coe: 
+mcoe: 
   city: "m'coe"
   accentcity: "M'coe"
 mcooa: 
@@ -32751,7 +32751,7 @@ mcossoa:
 m. cumbi: 
   city: "m. cumbi"
   accentcity: "M. Cumbi"
-m'cume: 
+mcume: 
   city: "m'cume"
   accentcity: "M'cume"
 mcuna: 
@@ -32763,19 +32763,19 @@ mcungula:
 mcusualera: 
   city: "mcusualera"
   accentcity: "Mcusualera"
-m'cutia: 
+mcutia: 
   city: "m'cutia"
   accentcity: "M'cutia"
 m. dedevele: 
   city: "m. dedevele"
   accentcity: "M. Dedevele"
-m'dongondi: 
+mdongondi: 
   city: "m'dongondi"
   accentcity: "M'dong\xC3\xB4ndi"
 mdurre: 
   city: "mdurre"
   accentcity: "Mdurrê"
-m'dziuanga: 
+mdziuanga: 
   city: "m'dziuanga"
   accentcity: "M'dziuanga"
 meachule: 
@@ -34608,7 +34608,7 @@ metocutene:
 metodue: 
   city: "metodue"
   accentcity: "Metodué"
-m'etola: 
+metola: 
   city: "m'etola"
   accentcity: "M'etola"
 metolera: 
@@ -34884,10 +34884,10 @@ mezunguza:
 mfigo: 
   city: "mfigo"
   accentcity: "Mfigo"
-m'fio: 
+mfio: 
   city: "m'fio"
   accentcity: "M'fio"
-m'focue: 
+mfocue: 
   city: "m'focue"
   accentcity: "M'fócué"
 m. francisco: 
@@ -34896,10 +34896,10 @@ m. francisco:
 mfussi: 
   city: "mfussi"
   accentcity: "Mfussi"
-m'garula: 
+mgarula: 
   city: "m'garula"
   accentcity: "M'garula"
-m'gasi: 
+mgasi: 
   city: "m'gasi"
   accentcity: "M'gasi"
 mgoani: 
@@ -34914,7 +34914,7 @@ m. govene:
 m. guaimane: 
   city: "m. guaimane"
   accentcity: "M. Guaimane"
-m'guaja: 
+mguaja: 
   city: "m'guaja"
   accentcity: "M'guaja"
 m. guambe: 
@@ -35436,16 +35436,16 @@ mixixine:
 mizope: 
   city: "mizope"
   accentcity: "Mizope"
-m'janje: 
+mjanje: 
   city: "m'janje"
   accentcity: "M'janje"
 mkwinda: 
   city: "mkwinda"
   accentcity: "Mkwinda"
-m'lamo: 
+mlamo: 
   city: "m'lamo"
   accentcity: "M'lamo"
-m'landa: 
+mlanda: 
   city: "m'landa"
   accentcity: "M'landa"
 mlasamunda: 
@@ -35463,7 +35463,7 @@ m. lixanga:
 mloiua: 
   city: "mloiua"
   accentcity: "Ml\xC3\xB4iua"
-m'lolera: 
+mlolera: 
   city: "m'lolera"
   accentcity: "M'lolera"
 mloma: 
@@ -35559,7 +35559,7 @@ m. nhavotso:
 mnissa: 
   city: "mnissa"
   accentcity: "Mnissa"
-m'nunca: 
+mnunca: 
   city: "m'nunca"
   accentcity: "M'nunca"
 moabule: 
@@ -36465,31 +36465,31 @@ mozonde:
 mpacache: 
   city: "mpacache"
   accentcity: "Mpacache"
-m'pama: 
+mpama: 
   city: "m'pama"
   accentcity: "M'pama"
 mpamba: 
   city: "mpamba"
   accentcity: "Mpamba"
-m'panda: 
+mpanda: 
   city: "m'panda"
   accentcity: "M'panda"
 mpanda: 
   city: "mpanda"
   accentcity: "Mpanda"
-m'pane: 
+mpane: 
   city: "m'pane"
   accentcity: "M'pane"
 mpanga: 
   city: "mpanga"
   accentcity: "Mpanga"
-m'panga: 
+mpanga: 
   city: "m'panga"
   accentcity: "M'Panga"
-m'panza: 
+mpanza: 
   city: "m'panza"
   accentcity: "M'panza"
-m'panze: 
+mpanze: 
   city: "m'panze"
   accentcity: "M'panze"
 mpapa: 
@@ -36498,7 +36498,7 @@ mpapa:
 mparrane: 
   city: "mparrane"
   accentcity: "Mpárrane"
-m'passauane: 
+mpassauane: 
   city: "m'passauane"
   accentcity: "M'passaúane"
 mpatanguenha: 
@@ -36510,34 +36510,34 @@ mpatchocalo:
 m. pateque: 
   city: "m. pateque"
   accentcity: "M. Pateque"
-m'patssa: 
+mpatssa: 
   city: "m'patssa"
   accentcity: "M'patssa"
 m. pelile: 
   city: "m. pelile"
   accentcity: "M. Pelile"
-m'pembezo: 
+mpembezo: 
   city: "m'pembezo"
   accentcity: "M'pembezo"
-m'penha: 
+mpenha: 
   city: "m'penha"
   accentcity: "M'penha"
-m'pepe: 
+mpepe: 
   city: "m'pepe"
   accentcity: "M'pepe"
 mpeta: 
   city: "mpeta"
   accentcity: "Mpeta"
-m'peua: 
+mpeua: 
   city: "m'peua"
   accentcity: "M'peua"
-m'peue: 
+mpeue: 
   city: "m'peue"
   accentcity: "M'peue"
 mpingo: 
   city: "mpingo"
   accentcity: "Mpingo"
-m'pipa: 
+mpipa: 
   city: "m'pipa"
   accentcity: "M'Pipa"
 mpirra: 
@@ -36552,19 +36552,19 @@ m pita matuene:
 mpita: 
   city: "mpita"
   accentcity: "Mpita"
-m'pita: 
+mpita: 
   city: "m'pita"
   accentcity: "M'pita"
 m pita: 
   city: "m pita"
   accentcity: "M pita"
-m'ponhera: 
+mponhera: 
   city: "m'ponhera"
   accentcity: "M'ponhera"
-m'pua: 
+mpua: 
   city: "m'pua"
   accentcity: "M'pua"
-m'puiti: 
+mpuiti: 
   city: "m'puiti"
   accentcity: "M'Puiti"
 mpunga: 
@@ -36573,10 +36573,10 @@ mpunga:
 mputaero: 
   city: "mputaero"
   accentcity: "Mputaero"
-m'puze: 
+mpuze: 
   city: "m'puze"
   accentcity: "M'Puze"
-m'puzi: 
+mpuzi: 
   city: "m'puzi"
   accentcity: "M'Puzi"
 mquepere: 
@@ -36585,16 +36585,16 @@ mquepere:
 mquitchaculo: 
   city: "mquitchaculo"
   accentcity: "Mquitchaculo"
-m'sacassa: 
+msacassa: 
   city: "m'sacassa"
   accentcity: "M'sacassa"
-m'saire: 
+msaire: 
   city: "m'saire"
   accentcity: "M'Saire"
-m'sanize: 
+msanize: 
   city: "m'sanize"
   accentcity: "M'sanize"
-m'sativa: 
+msativa: 
   city: "m'sativa"
   accentcity: "M'sativa"
 msenza: 
@@ -36609,7 +36609,7 @@ m. simione:
 m. sitoi: 
   city: "m. sitoi"
   accentcity: "M. Sitoi"
-m'soma: 
+msoma: 
   city: "m'soma"
   accentcity: "M'soma"
 m. somboco: 
@@ -36618,46 +36618,46 @@ m. somboco:
 m. sopeia: 
   city: "m. sopeia"
   accentcity: "M. Sopeia"
-m'suasi: 
+msuasi: 
   city: "m'suasi"
   accentcity: "M'Suási"
-m'sucossa: 
+msucossa: 
   city: "m'sucossa"
   accentcity: "M'sucossa"
-m'sunza: 
+msunza: 
   city: "m'sunza"
   accentcity: "M'sunza"
-m'sunze: 
+msunze: 
   city: "m'sunze"
   accentcity: "M'sunze"
 mtacurro: 
   city: "mtacurro"
   accentcity: "Mtacurro"
-m'taia: 
+mtaia: 
   city: "m'taia"
   accentcity: "M'táia"
-m'tala: 
+mtala: 
   city: "m'tala"
   accentcity: "M'tala"
-m'talia: 
+mtalia: 
   city: "m'talia"
   accentcity: "M'talia"
 mtaliua: 
   city: "mtaliua"
   accentcity: "Mtaliua"
-m'tamba: 
+mtamba: 
   city: "m'tamba"
   accentcity: "M'Tamba"
-m'tangula: 
+mtangula: 
   city: "m'tangula"
   accentcity: "M'tangula"
 mtapaca: 
   city: "mtapaca"
   accentcity: "Mtapaça"
-m'tatia: 
+mtatia: 
   city: "m'tatia"
   accentcity: "M'tatia"
-m'taveia: 
+mtaveia: 
   city: "m'taveia"
   accentcity: "M'taveia"
 mtchatcha: 
@@ -36675,7 +36675,7 @@ mteme:
 mtengo-ua-balamb: 
   city: "mtengo-ua-balamb"
   accentcity: "Mtengo-ua-Balamb"
-m'tengo-ua-modsi: 
+mtengo-ua-modsi: 
   city: "m'tengo-ua-modsi"
   accentcity: "M'Tengo-Ua-Modsi"
 mtequelele: 
@@ -36687,10 +36687,10 @@ m. tibalene:
 mtipia: 
   city: "mtipia"
   accentcity: "Mtipia"
-m'toa: 
+mtoa: 
   city: "m'toa"
   accentcity: "M'toa"
-m'topa: 
+mtopa: 
   city: "m'topa"
   accentcity: "M'topa"
 m. touele: 
@@ -36699,10 +36699,10 @@ m. touele:
 mtumbi: 
   city: "mtumbi"
   accentcity: "Mtumbi"
-m'tunda: 
+mtunda: 
   city: "m'tunda"
   accentcity: "M'tunda"
-m'tungue: 
+mtungue: 
   city: "m'tungue"
   accentcity: "M'tungue"
 mtungumula: 
@@ -36714,7 +36714,7 @@ mtupa:
 mtupe: 
   city: "mtupe"
   accentcity: "Mtupe"
-m'txeula: 
+mtxeula: 
   city: "m'txeula"
   accentcity: "M'txé\xC3\xB9la"
 muabanana: 
@@ -40083,10 +40083,10 @@ muzumuia:
 muzuquete: 
   city: "muzuquete"
   accentcity: "Muzuquete"
-m'valane: 
+mvalane: 
   city: "m'valane"
   accentcity: "M'valane"
-m'vamba: 
+mvamba: 
   city: "m'vamba"
   accentcity: "M'vamba"
 mvigo: 
@@ -40101,19 +40101,19 @@ mvovo:
 mvunian: 
   city: "mvunian"
   accentcity: "Mvunian"
-m'xecuane: 
+mxecuane: 
   city: "m'xecuane"
   accentcity: "M'xecuane"
 mxeixela: 
   city: "mxeixela"
   accentcity: "Mxeixela"
-m'xongo: 
+mxongo: 
   city: "m'xongo"
   accentcity: "M'xongo"
-m'xulo: 
+mxulo: 
   city: "m'xulo"
   accentcity: "M'xulo"
-m'zozomera: 
+mzozomera: 
   city: "m'zozomera"
   accentcity: "M'zozomera"
 naaco: 
@@ -42936,7 +42936,7 @@ nazombe:
 nazulo: 
   city: "nazulo"
   accentcity: "Nazulo"
-n'cana: 
+ncana: 
   city: "n'cana"
   accentcity: "N'Cana"
 ncapunda: 
@@ -42945,10 +42945,10 @@ ncapunda:
 ncaquia: 
   city: "ncaquia"
   accentcity: "Ncaquia"
-n'cataia: 
+ncataia: 
   city: "n'cataia"
   accentcity: "N'Cataia"
-n'chilambo: 
+nchilambo: 
   city: "n'chilambo"
   accentcity: "N'chilambo"
 ncoe: 
@@ -42969,10 +42969,10 @@ nconga:
 ncore: 
   city: "ncore"
   accentcity: "Ncore"
-n'coripo: 
+ncoripo: 
   city: "n'coripo"
   accentcity: "N'coripo"
-n'cupa: 
+ncupa: 
   city: "n'cupa"
   accentcity: "N'cupa"
 ndala: 
@@ -42981,7 +42981,7 @@ ndala:
 n. dique: 
   city: "n. dique"
   accentcity: "N. Dique"
-n'djala m'djira: 
+ndjala mdjira: 
   city: "n'djala m'djira"
   accentcity: "N'djala M'djira"
 ndjavane: 
@@ -43443,7 +43443,7 @@ nezomba:
 nfabene: 
   city: "nfabene"
   accentcity: "Nfabene"
-n'fique: 
+nfique: 
   city: "n'fique"
   accentcity: "N'fique"
 n. foquico: 
@@ -43455,7 +43455,7 @@ nfunvo:
 ngalonga: 
   city: "ngalonga"
   accentcity: "Ngalonga"
-n'gana: 
+ngana: 
   city: "n'gana"
   accentcity: "N'Gana"
 ngapa: 
@@ -45018,7 +45018,7 @@ nkuda:
 nkwongwana: 
   city: "nkwongwana"
   accentcity: "Nkwongwana"
-n'lia: 
+nlia: 
   city: "n'lia"
   accentcity: "N'lia"
 nlipila: 
@@ -45291,7 +45291,7 @@ nsongote:
 n. souto: 
   city: "n. souto"
   accentcity: "N. Souto"
-n'tameda: 
+ntameda: 
   city: "n'tameda"
   accentcity: "N'támeda"
 n. tandamusse: 
@@ -45318,7 +45318,7 @@ ntembwe:
 ntendedzi: 
   city: "ntendedzi"
   accentcity: "Ntendedzi"
-n'tepe: 
+ntepe: 
   city: "n'tepe"
   accentcity: "N'tepe"
 ntete: 
@@ -46503,7 +46503,7 @@ pedreira:
 pedro changa: 
   city: "pedro changa"
   accentcity: "Pedro Changa"
-pedro m'dumba: 
+pedro mdumba: 
   city: "pedro m'dumba"
   accentcity: "Pedro M'dumba"
 pedro mugati: 
@@ -47070,16 +47070,16 @@ polacochane:
 polaina: 
   city: "polaina"
   accentcity: "Polaina"
-polana canico 'a': 
+polana canico a: 
   city: "polana canico 'a'"
   accentcity: "Polana Caniço 'A'"
-polana canico 'b': 
+polana canico b: 
   city: "polana canico 'b'"
   accentcity: "Polana Caniço 'B'"
-polana cimento 'a': 
+polana cimento a: 
   city: "polana cimento 'a'"
   accentcity: "Polana Cimento 'A'"
-polana cimento 'b': 
+polana cimento b: 
   city: "polana cimento 'b'"
   accentcity: "Polana Cimento 'B'"
 polasi: 
@@ -52728,7 +52728,7 @@ tchai-tchai:
 tchalamanda: 
   city: "tchalamanda"
   accentcity: "Tchalamanda"
-t'chale: 
+tchale: 
   city: "t'chale"
   accentcity: "T'chale"
 tchali: 
@@ -52773,7 +52773,7 @@ tchavani:
 tchave: 
   city: "tchave"
   accentcity: "Tchave"
-t'chaze: 
+tchaze: 
   city: "t'chaze"
   accentcity: "T'chaze"
 tchazica: 
@@ -52806,7 +52806,7 @@ tcheucha:
 tcheuere: 
   city: "tcheuere"
   accentcity: "Tcheuérè"
-t'chiadula: 
+tchiadula: 
   city: "t'chiadula"
   accentcity: "T'chiadula"
 tchicobera: 
@@ -52908,7 +52908,7 @@ tchiuarra:
 tchivala: 
   city: "tchivala"
   accentcity: "Tchivala"
-t'chivanga: 
+tchivanga: 
   city: "t'chivanga"
   accentcity: "T'chivanga"
 tchixonde: 
@@ -55266,7 +55266,7 @@ u. nhapulo:
 unhumbue: 
   city: "unhumbue"
   accentcity: "Unhumbue"
-unidade '7': 
+unidade 7: 
   city: "unidade '7'"
   accentcity: "Unidade '7'"
 unidade sete: 
@@ -55956,7 +55956,7 @@ vila gouveia:
 vila goveia: 
   city: "vila goveia"
   accentcity: "Vila Goveia"
-vila guilherme d'arriaga: 
+vila guilherme darriaga: 
   city: "vila guilherme d'arriaga"
   accentcity: "Vila Guilherme d'Arriaga"
 vila-joao-belo: 
@@ -56010,7 +56010,7 @@ vila nova da fronteira:
 vilanova: 
   city: "vilanova"
   accentcity: "Vilanova"
-vila paiva d'andrada: 
+vila paiva dandrada: 
   city: "vila paiva d'andrada"
   accentcity: "Vila Paiva d'Andrada"
 vila paiva de andada: 

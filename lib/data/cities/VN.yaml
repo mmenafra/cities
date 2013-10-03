@@ -1494,7 +1494,7 @@ ap bo lon:
 ap bon: 
   city: "ap bon"
   accentcity: "Ap Bon"
-ap bon b'sop: 
+ap bon bsop: 
   city: "ap bon b'sop"
   accentcity: "Ap Bon B'sop"
 ap bong gieng: 
@@ -3315,7 +3315,7 @@ ap mot:
 ap mo tin: 
   city: "ap mo tin"
   accentcity: "Ap Mo Tin"
-ap m'rang: 
+ap mrang: 
   city: "ap m'rang"
   accentcity: "Ap M'rang"
 ap mui con: 
@@ -3675,7 +3675,7 @@ ap nhon tho:
 ap nhon thuan: 
   city: "ap nhon thuan"
   accentcity: "Ap Nhon Thuan"
-ap n'houar: 
+ap nhouar: 
   city: "ap n'houar"
   accentcity: "Ap N'houar"
 ap nhuan oc: 
@@ -4281,7 +4281,7 @@ ap rat:
 ap ray: 
   city: "ap ray"
   accentcity: "Ap Ray"
-ap r'loum: 
+ap rloum: 
   city: "ap r'loum"
   accentcity: "Ap R'loum"
 ap rong ri: 
@@ -6711,7 +6711,7 @@ ban bam:
 ban ba mla: 
   city: "ban ba mla"
   accentcity: "Ban Ba Mla"
-ban ba m'la: 
+ban ba mla: 
   city: "ban ba m'la"
   accentcity: "Ban Ba M'La"
 ban ban: 
@@ -6732,7 +6732,7 @@ ban ban ngoai:
 ban bao: 
   city: "ban bao"
   accentcity: "Ban Bao"
-ban bao m'tu: 
+ban bao mtu: 
   city: "ban bao m'tu"
   accentcity: "Ban Bao M'tu"
 ban ba phom: 
@@ -6927,7 +6927,7 @@ ban boun:
 ban bou trang: 
   city: "ban bou trang"
   accentcity: "Ban Bou Trang"
-ban breh n'djre: 
+ban breh ndjre: 
   city: "ban breh n'djre"
   accentcity: "Ban Breh N'Djre"
 ban brieng: 
@@ -7260,7 +7260,7 @@ ban choah:
 ban cho ah: 
   city: "ban cho ah"
   accentcity: "Ban Cho Ah"
-ban choah k'plang: 
+ban choah kplang: 
   city: "ban choah k'plang"
   accentcity: "Ban Choah K'Plang"
 ban cho: 
@@ -7599,7 +7599,7 @@ ban da xi:
 ban day: 
   city: "ban day"
   accentcity: "Ban Day"
-ban d'de: 
+ban dde: 
   city: "ban d'de"
   accentcity: "Ban D'de"
 ban de: 
@@ -7974,7 +7974,7 @@ ban gia:
 ban giac: 
   city: "ban giac"
   accentcity: "Ban Giac"
-ban gia deung k'rneu: 
+ban gia deung krneu: 
   city: "ban gia deung k'rneu"
   accentcity: "Ban Gia Deung K'Rneu"
 ban giai: 
@@ -8997,7 +8997,7 @@ ban kdiel:
 ban kdrao: 
   city: "ban kdrao"
   accentcity: "Ban Kdrao"
-ban k'dro: 
+ban kdro: 
   city: "ban k'dro"
   accentcity: "Ban K'dro"
 ban ke giao: 
@@ -9417,7 +9417,7 @@ ban kram:
 ban krang: 
   city: "ban krang"
   accentcity: "Ban Krang"
-ban krang k'mar: 
+ban krang kmar: 
   city: "ban krang k'mar"
   accentcity: "Ban Krang K'mar"
 ban kray am: 
@@ -9936,22 +9936,22 @@ ban may:
 ban may mai: 
   city: "ban may mai"
   accentcity: "Ban May Mai"
-ban m'blot: 
+ban mblot: 
   city: "ban m'blot"
   accentcity: "Ban M'Blot"
-ban m'bun: 
+ban mbun: 
   city: "ban m'bun"
   accentcity: "Ban M'bun"
-ban m'diap: 
+ban mdiap: 
   city: "ban m'diap"
   accentcity: "Ban M'diap"
-ban m'don: 
+ban mdon: 
   city: "ban m'don"
   accentcity: "Ban M'Don"
-ban m'dout: 
+ban mdout: 
   city: "ban m'dout"
   accentcity: "Ban M'Dout"
-ban m'drack: 
+ban mdrack: 
   city: "ban m'drack"
   accentcity: "Ban M'drack"
 ban me: 
@@ -10008,7 +10008,7 @@ ban me tia thou:
 ban meu: 
   city: "ban meu"
   accentcity: "Ban Meu"
-ban m'gam: 
+ban mgam: 
   city: "ban m'gam"
   accentcity: "Ban M'g\xC3\xA2m"
 ban mghoe: 
@@ -10059,10 +10059,10 @@ ban miong:
 ban mit: 
   city: "ban mit"
   accentcity: "Ban Mit"
-ban m'jam: 
+ban mjam: 
   city: "ban m'jam"
   accentcity: "Ban M'jam"
-ban m'jui: 
+ban mjui: 
   city: "ban m'jui"
   accentcity: "Ban M'jui"
 ban mlaih: 
@@ -10074,34 +10074,34 @@ ban mlang:
 ban mle: 
   city: "ban mle"
   accentcity: "Ban Mle"
-ban m'liang: 
+ban mliang: 
   city: "ban m'liang"
   accentcity: "Ban M'liang"
-ban m'lieng: 
+ban mlieng: 
   city: "ban m'lieng"
   accentcity: "Ban M'Lieng"
-ban m'loch: 
+ban mloch: 
   city: "ban m'loch"
   accentcity: "Ban M'loch"
 ban mnang: 
   city: "ban mnang"
   accentcity: "Ban Mnang"
-ban m'nang: 
+ban mnang: 
   city: "ban m'nang"
   accentcity: "Ban M'nang"
-ban m'nar: 
+ban mnar: 
   city: "ban m'nar"
   accentcity: "Ban M'Nar"
-ban m'nien: 
+ban mnien: 
   city: "ban m'nien"
   accentcity: "Ban M'nien"
-ban m'nor: 
+ban mnor: 
   city: "ban m'nor"
   accentcity: "Ban M'Nor"
 ban mo: 
   city: "ban mo"
   accentcity: "Ban Mo"
-ban m'o: 
+ban mo: 
   city: "ban m'o"
   accentcity: "Ban M'o"
 ban mo cai: 
@@ -10143,13 +10143,13 @@ ban mouei:
 ban moun: 
   city: "ban moun"
   accentcity: "Ban Moun"
-ban m'rok: 
+ban mrok: 
   city: "ban m'rok"
   accentcity: "Ban M'rok"
-ban m'thi: 
+ban mthi: 
   city: "ban m'thi"
   accentcity: "Ban M'thi"
-ban m'trong: 
+ban mtrong: 
   city: "ban m'trong"
   accentcity: "Ban M'trong"
 ban mua: 
@@ -10881,13 +10881,13 @@ ban na xai:
 ban na xi: 
   city: "ban na xi"
   accentcity: "Ban Na Xi"
-ban n'doh: 
+ban ndoh: 
   city: "ban n'doh"
   accentcity: "Ban N'doh"
-ban n'dout dienkrac: 
+ban ndout dienkrac: 
   city: "ban n'dout dienkrac"
   accentcity: "Ban N'Dout Dienkrac"
-ban n'dut: 
+ban ndut: 
   city: "ban n'dut"
   accentcity: "Ban N'dut"
 ban nein: 
@@ -11925,7 +11925,7 @@ ban re he:
 ban reum: 
   city: "ban reum"
   accentcity: "Ban Reum"
-ban r'kul: 
+ban rkul: 
   city: "ban r'kul"
   accentcity: "Ban R'Kul"
 ban ron: 
@@ -12111,7 +12111,7 @@ ban soi peng:
 ban so mahang: 
   city: "ban so mahang"
   accentcity: "Ban S\xC3\xB4 Mahang"
-ban so ma m'long: 
+ban so ma mlong: 
   city: "ban so ma m'long"
   accentcity: "Ban S\xC3\xB4 Ma M'long"
 ban so ma sau: 
@@ -12195,7 +12195,7 @@ ban soui boue:
 ban soung thu: 
   city: "ban soung thu"
   accentcity: "Ban Soung Thu"
-ban sout m'bla: 
+ban sout mbla: 
   city: "ban sout m'bla"
   accentcity: "Ban Sout M'Bla"
 ban suc: 
@@ -13635,7 +13635,7 @@ ban yo:
 ban yon hat: 
   city: "ban yon hat"
   accentcity: "Ban Yon Hat"
-ban yon m'bra: 
+ban yon mbra: 
   city: "ban yon m'bra"
   accentcity: "Ban Yon M'Bra"
 ban young: 
@@ -14133,7 +14133,7 @@ bay sung:
 bay trai: 
   city: "bay trai"
   accentcity: "Bay Trai"
-ba yu m'peul: 
+ba yu mpeul: 
   city: "ba yu m'peul"
   accentcity: "Ba Yu M'peul"
 ba yu phu: 
@@ -14145,7 +14145,7 @@ ba yu raye:
 bay xau: 
   city: "bay xau"
   accentcity: "Bay Xau"
-b'bro de: 
+bbro de: 
   city: "b'bro de"
   accentcity: "B'Bro De"
 bda khang blang: 
@@ -14154,16 +14154,16 @@ bda khang blang:
 bda khang nho: 
   city: "bda khang nho"
   accentcity: "Bda Khang Nho"
-b'da rhan blan: 
+bda rhan blan: 
   city: "b'da rhan blan"
   accentcity: "B'Da Rhan Blan"
-b'da rhan blang: 
+bda rhan blang: 
   city: "b'da rhan blang"
   accentcity: "B'da Rhan Blang"
-b'da rhan ho: 
+bda rhan ho: 
   city: "b'da rhan ho"
   accentcity: "B'da Rhan Ho"
-b'da rhan no: 
+bda rhan no: 
   city: "b'da rhan no"
   accentcity: "B'da Rhan No"
 beau site: 
@@ -14949,46 +14949,46 @@ bio:
 bi ra: 
   city: "bi ra"
   accentcity: "Bi Ra"
-b'ja da noh: 
+bja da noh: 
   city: "b'ja da noh"
   accentcity: "B'ja Da Noh"
-b'ja lunom: 
+bja lunom: 
   city: "b'ja lunom"
   accentcity: "B'ja Lunom"
-b'ka deun: 
+bka deun: 
   city: "b'ka deun"
   accentcity: "B'Ka Deun"
-b'kai da: 
+bkai da: 
   city: "b'kai da"
   accentcity: "B'Kai Da"
-b'kai dan: 
+bkai dan: 
   city: "b'kai dan"
   accentcity: "B'Kai Dan"
-b'ke klour: 
+bke klour: 
   city: "b'ke klour"
   accentcity: "B'ké Klour"
-b'ke tan blan: 
+bke tan blan: 
   city: "b'ke tan blan"
   accentcity: "B'Ke Tan Blan"
-b'ke tan blang: 
+bke tan blang: 
   city: "b'ke tan blang"
   accentcity: "B'Ke Tan Blang"
-b'koi da: 
+bkoi da: 
   city: "b'koi da"
   accentcity: "B'koi Da"
-b'koi dang: 
+bkoi dang: 
   city: "b'koi dang"
   accentcity: "B'koi Dang"
-b'kol da muong: 
+bkol da muong: 
   city: "b'kol da muong"
   accentcity: "B'Kol Da Muong"
-b'kor: 
+bkor: 
   city: "b'kor"
   accentcity: "B'k\xC3\xB2r"
-b'kour: 
+bkour: 
   city: "b'kour"
   accentcity: "B'Kour"
-b'kuat: 
+bkuat: 
   city: "b'kuat"
   accentcity: "B'kuat"
 blac: 
@@ -14997,13 +14997,13 @@ blac:
 blac da dong: 
   city: "blac da dong"
   accentcity: "Blac Da D\xC3\xB6ng"
-blac dang r'mit: 
+blac dang rmit: 
   city: "blac dang r'mit"
   accentcity: "Blac Dang R'mit"
 blach: 
   city: "blach"
   accentcity: "Blach"
-b'lach: 
+blach: 
   city: "b'lach"
   accentcity: "B'lach"
 blach kon hin: 
@@ -15012,7 +15012,7 @@ blach kon hin:
 bla kong trao: 
   city: "bla kong trao"
   accentcity: "Bla Kong Trao"
-blang n'long: 
+blang nlong: 
   city: "blang n'long"
   accentcity: "Blang N'long"
 blao: 
@@ -15033,7 +15033,7 @@ blao mre:
 blao sre: 
   city: "blao sre"
   accentcity: "Blao Srê"
-b'latch kongsip: 
+blatch kongsip: 
   city: "b'latch kongsip"
   accentcity: "B'latch Kongsip"
 blei tanea kun: 
@@ -15048,16 +15048,16 @@ b. lo hir:
 b. muy: 
   city: "b. muy"
   accentcity: "B. Muy"
-b'nao: 
+bnao: 
   city: "b'nao"
   accentcity: "B'nao"
-b'neurr: 
+bneurr: 
   city: "b'neurr"
   accentcity: "B'Neurr"
-b'ngor blan: 
+bngor blan: 
   city: "b'ngor blan"
   accentcity: "B'ng\xC3\xB6r Blan"
-b'ning: 
+bning: 
   city: "b'ning"
   accentcity: "B'ning"
 bnom: 
@@ -15315,13 +15315,13 @@ bon ban:
 bon bi sop: 
   city: "bon bi sop"
   accentcity: "Bon Bi Sop"
-bon b'kol: 
+bon bkol: 
   city: "bon b'kol"
   accentcity: "Bon B'Kol"
-bon b'kol da myong: 
+bon bkol da myong: 
   city: "bon b'kol da myong"
   accentcity: "Bon B'kol Da Myong"
-bon b'kol du muong: 
+bon bkol du muong: 
   city: "bon b'kol du muong"
   accentcity: "Bon B'Kol Du Muong"
 bon blao kong trau: 
@@ -15339,19 +15339,19 @@ bon bou dop:
 "bon breh \xC3\x90ak dro": 
   city: "bon breh \xC3\x90ak dro"
   accentcity: "Bon Breh \xC3\x90ak Dr\xC3\xB4"
-bon breh n'djere: 
+bon breh ndjere: 
   city: "bon breh n'djere"
   accentcity: "Bon Breh N'djéré"
 bon bring dung: 
   city: "bon bring dung"
   accentcity: "Bon Bring Dung"
-bon b'sar darial: 
+bon bsar darial: 
   city: "bon b'sar darial"
   accentcity: "Bon B'sar Darial"
-bon b'sar nir: 
+bon bsar nir: 
   city: "bon b'sar nir"
   accentcity: "Bon B'sar Nir"
-bon b'sop: 
+bon bsop: 
   city: "bon b'sop"
   accentcity: "Bon B'Sop"
 bon bu bir: 
@@ -15384,10 +15384,10 @@ bon bu koh:
 bon bu krong kong: 
   city: "bon bu krong kong"
   accentcity: "Bon Bu Kr\xC3\xB4ng K\xC3\xB4ng"
-bon bu m'bre: 
+bon bu mbre: 
   city: "bon bu m'bre"
   accentcity: "Bon Bu M'Bre"
-bon bu n'dron: 
+bon bu ndron: 
   city: "bon bu n'dron"
   accentcity: "Bon Bu N'dron"
 bon bu pah: 
@@ -15399,7 +15399,7 @@ bon bu pri:
 bon bu rmle: 
   city: "bon bu rmle"
   accentcity: "Bon Bu Rmle"
-bon bu t'chop: 
+bon bu tchop: 
   city: "bon bu t'chop"
   accentcity: "Bon Bu T'chop"
 bon bu tong: 
@@ -15411,7 +15411,7 @@ bon bu tung:
 bon chiu ang: 
   city: "bon chiu ang"
   accentcity: "Bon Chiu Ang"
-bon choach k'plang: 
+bon choach kplang: 
   city: "bon choach k'plang"
   accentcity: "Bon Choach K'plang"
 bon da giran ditt: 
@@ -15420,25 +15420,25 @@ bon da giran ditt:
 bon dak mam: 
   city: "bon dak mam"
   accentcity: "Bon Dak Mam"
-bon dak n'drot: 
+bon dak ndrot: 
   city: "bon dak n'drot"
   accentcity: "Bon Dak N'drot"
-bon dak r'la: 
+bon dak rla: 
   city: "bon dak r'la"
   accentcity: "Bon Dak R'La"
-bon da m'rong: 
+bon da mrong: 
   city: "bon da m'rong"
   accentcity: "Bon Da M'rong"
 bon dang krien: 
   city: "bon dang krien"
   accentcity: "Bon Dang Krien"
-bon da n'rong: 
+bon da nrong: 
   city: "bon da n'rong"
   accentcity: "Bon Da N'Rong"
-bon da r'hau: 
+bon da rhau: 
   city: "bon da r'hau"
   accentcity: "Bon Da R'h\xC3\xA2u"
-bon da r'hun: 
+bon da rhun: 
   city: "bon da r'hun"
   accentcity: "Bon Da R'Hun"
 bon da si: 
@@ -15570,7 +15570,7 @@ bon guil woui:
 bon guil wouil: 
   city: "bon guil wouil"
   accentcity: "Bon Guil Wouil"
-bon h'drong: 
+bon hdrong: 
   city: "bon h'drong"
   accentcity: "Bon H'Drong"
 bon heo: 
@@ -15609,7 +15609,7 @@ bon koi dang:
 bon kon ha dang: 
   city: "bon kon ha dang"
   accentcity: "Bon Kon Ha Dang"
-bon ko r'pung: 
+bon ko rpung: 
   city: "bon ko r'pung"
   accentcity: "Bon Ko R'pung"
 bon kray am: 
@@ -15627,10 +15627,10 @@ bon krola yu:
 bon la hirr: 
   city: "bon la hirr"
   accentcity: "Bon La Hirr"
-bon lan m're: 
+bon lan mre: 
   city: "bon lan m're"
   accentcity: "Bon Lan M'Re"
-bon lao m're: 
+bon lao mre: 
   city: "bon lao m're"
   accentcity: "Bon Lao M'Re"
 bon leng: 
@@ -15648,13 +15648,13 @@ bon mera:
 bonn am: 
   city: "bonn am"
   accentcity: "Bonn Am"
-bon n'chieng: 
+bon nchieng: 
   city: "bon n'chieng"
   accentcity: "Bon N'chiêng"
-bon n'dah: 
+bon ndah: 
   city: "bon n'dah"
   accentcity: "Bon N'Dah"
-bon n'dot: 
+bon ndot: 
   city: "bon n'dot"
   accentcity: "Bon N'Dot"
 bo noc: 
@@ -15696,10 +15696,10 @@ bon phi ko:
 bon phi mour: 
   city: "bon phi mour"
   accentcity: "Bon Phi Mour"
-bon phu r'le: 
+bon phu rle: 
   city: "bon phu r'le"
   accentcity: "Bon Phu R'Le"
-bon phu r'lei: 
+bon phu rlei: 
   city: "bon phu r'lei"
   accentcity: "Bon Phu R'Lei"
 bon pi ko: 
@@ -15744,7 +15744,7 @@ bon pu pkham:
 bon pu thong: 
   city: "bon pu thong"
   accentcity: "Bon Pu Thong"
-bon r'kop: 
+bon rkop: 
   city: "bon r'kop"
   accentcity: "Bon R'kop"
 bon sar pa: 
@@ -15921,7 +15921,7 @@ bounhat:
 boun ke tan blan: 
   city: "boun ke tan blan"
   accentcity: "Boun Ke Tan Blan"
-boun m'chan: 
+boun mchan: 
   city: "boun m'chan"
   accentcity: "Boun M'Chan"
 boun sar pa: 
@@ -15954,13 +15954,13 @@ bo xuyen:
 bo youa: 
   city: "bo youa"
   accentcity: "Bo Youa"
-b'phi mour: 
+bphi mour: 
   city: "b'phi mour"
   accentcity: "B'Phi Mour"
-b'pi tach: 
+bpi tach: 
   city: "b'pi tach"
   accentcity: "B'pi Tach"
-b'pi tach da: 
+bpi tach da: 
   city: "b'pi tach da"
   accentcity: "B'pi Tach Da"
 brang brul: 
@@ -15975,7 +15975,7 @@ brela:
 brelah: 
   city: "brelah"
   accentcity: "Brelah"
-b'rla da nhar: 
+brla da nhar: 
   city: "b'rla da nhar"
   accentcity: "B'rla Da Nhar"
 brode: 
@@ -15984,7 +15984,7 @@ brode:
 bro lam peh: 
   city: "bro lam peh"
   accentcity: "Bro L\xC3\xA2m Peh"
-b'rong: 
+brong: 
   city: "b'rong"
   accentcity: "B'rong"
 bros dor: 
@@ -15999,7 +15999,7 @@ bross deur:
 broui han lian: 
   city: "broui han lian"
   accentcity: "Broui Han Lian"
-broui k'me: 
+broui kme: 
   city: "broui k'me"
   accentcity: "Broui K'mé"
 broui komay: 
@@ -16011,73 +16011,73 @@ brui hang liang:
 bsa da houai: 
   city: "bsa da houai"
   accentcity: "Bsa Da Houai"
-b'sar: 
+bsar: 
   city: "b'sar"
   accentcity: "B'sar"
-b'sar da houai: 
+bsar da houai: 
   city: "b'sar da houai"
   accentcity: "B'sar Da Houai"
-b'sar deung: 
+bsar deung: 
   city: "b'sar deung"
   accentcity: "B'sar Deung"
-b'sar dit: 
+bsar dit: 
   city: "b'sar dit"
   accentcity: "B'sar Dit"
-b'sar dong: 
+bsar dong: 
   city: "b'sar dong"
   accentcity: "B'Sar Dong"
-b'sar lou sieum: 
+bsar lou sieum: 
   city: "b'sar lou sieum"
   accentcity: "B'sar Lou Sieum"
-b'sar lou sieun: 
+bsar lou sieun: 
   city: "b'sar lou sieun"
   accentcity: "B'Sar Lou Sieun"
-b'sar l'sieun: 
+bsar lsieun: 
   city: "b'sar l'sieun"
   accentcity: "B'Sar L'Sieun"
 bsar lusieng: 
   city: "bsar lusieng"
   accentcity: "Bsar Lusieng"
-b'soul latch: 
+bsoul latch: 
   city: "b'soul latch"
   accentcity: "B'Soul Latch"
-b'sout latch: 
+bsout latch: 
   city: "b'sout latch"
   accentcity: "B'sout Latch"
-b'sout m'bla: 
+bsout mbla: 
   city: "b'sout m'bla"
   accentcity: "B'Sout M'Bla"
-b'sre: 
+bsre: 
   city: "b'sre"
   accentcity: "B'sre"
-b'su dalao: 
+bsu dalao: 
   city: "b'su dalao"
   accentcity: "B'Su Dalao"
-b'sul bil: 
+bsul bil: 
   city: "b'sul bil"
   accentcity: "B'Sul Bil"
-b'sum bla: 
+bsum bla: 
   city: "b'sum bla"
   accentcity: "B'sum Bla"
-b'su m'rac: 
+bsu mrac: 
   city: "b'su m'rac"
   accentcity: "B'su M'rac"
-b'su m'rao: 
+bsu mrao: 
   city: "b'su m'rao"
   accentcity: "B'Su M'Rao"
-b'sut bil: 
+bsut bil: 
   city: "b'sut bil"
   accentcity: "B'sut Bil"
-b'tong: 
+btong: 
   city: "b'tong"
   accentcity: "B'tong"
-b'ton klong-b: 
+bton klong-b: 
   city: "b'ton klong-b"
   accentcity: "B'T\xC3\xB6n Klong-B"
-b'tro: 
+btro: 
   city: "b'tro"
   accentcity: "B'tr\xC3\xB4"
-b'tron deun: 
+btron deun: 
   city: "b'tron deun"
   accentcity: "B'Tron Deun"
 bu bal kham: 
@@ -16206,7 +16206,7 @@ bu dang:
 "bu \xC3\x90ang": 
   city: "bu \xC3\x90ang"
   accentcity: "Bu \xC3\x90ang"
-bu dang n'grai: 
+bu dang ngrai: 
   city: "bu dang n'grai"
   accentcity: "Bu Dang N'grai"
 bu dapak: 
@@ -16230,10 +16230,10 @@ bu dieng krieng:
 bu dienn: 
   city: "bu dienn"
   accentcity: "Bu Dienn"
-bu dien r'ban: 
+bu dien rban: 
   city: "bu dien r'ban"
   accentcity: "Bu Dien R'ban"
-bu dien r'hat: 
+bu dien rhat: 
   city: "bu dien r'hat"
   accentcity: "Bu Dien R'hat"
 bu dien wir: 
@@ -16413,7 +16413,7 @@ bu lach:
 bu lat: 
   city: "bu lat"
   accentcity: "Bu Lat"
-bu l'nga: 
+bu lnga: 
   city: "bu l'nga"
   accentcity: "Bu L'Nga"
 bu lo: 
@@ -16431,16 +16431,16 @@ bu man ca lem:
 bu marlem: 
   city: "bu marlem"
   accentcity: "Bu Marlem"
-bu m'blum: 
+bu mblum: 
   city: "bu m'blum"
   accentcity: "Bu M'blum"
-bu m'bre: 
+bu mbre: 
   city: "bu m'bre"
   accentcity: "Bu M'bré"
 bu mir: 
   city: "bu mir"
   accentcity: "Bu Mir"
-bu m'lo: 
+bu mlo: 
   city: "bu m'lo"
   accentcity: "Bu M'Lo"
 bu mlo nheis: 
@@ -16461,7 +16461,7 @@ bu mo thiot:
 bu moul: 
   city: "bu moul"
   accentcity: "Bu Moul"
-bu m'rett: 
+bu mrett: 
   city: "bu m'rett"
   accentcity: "Bu M'rett"
 bu mun ca lem: 
@@ -16494,34 +16494,34 @@ bun ba ung:
 bun binh: 
   city: "bun binh"
   accentcity: "Bun Binh"
-bu n'bleing: 
+bu nbleing: 
   city: "bu n'bleing"
   accentcity: "Bu N'bleing"
 bun bo en: 
   city: "bun bo en"
   accentcity: "Bun Bo En"
-bu n'dac: 
+bu ndac: 
   city: "bu n'dac"
   accentcity: "Bu N'Dac"
 bu ndiar: 
   city: "bu ndiar"
   accentcity: "Bu Ndiar"
-bu n'doc: 
+bu ndoc: 
   city: "bu n'doc"
   accentcity: "Bu N'doc"
 bu ndok: 
   city: "bu ndok"
   accentcity: "Bu Ndok"
-bu n'dren: 
+bu ndren: 
   city: "bu n'dren"
   accentcity: "Bu N'dren"
-bu n'dreng: 
+bu ndreng: 
   city: "bu n'dreng"
   accentcity: "Bu N'dreng"
 bu ndrim: 
   city: "bu ndrim"
   accentcity: "Bu Ndrim"
-bu n'droung: 
+bu ndroung: 
   city: "bu n'droung"
   accentcity: "Bu N'Droung"
 bun duc: 
@@ -16530,13 +16530,13 @@ bun duc:
 bun duk: 
   city: "bun duk"
   accentcity: "Bun Duk"
-bu n'eirte: 
+bu neirte: 
   city: "bu n'eirte"
   accentcity: "Bu N'Eirte"
-bu n'firte: 
+bu nfirte: 
   city: "bu n'firte"
   accentcity: "Bu N'firte"
-bu n'gan: 
+bu ngan: 
   city: "bu n'gan"
   accentcity: "Bu N'Gan"
 bung bac: 
@@ -16560,7 +16560,7 @@ bung luong:
 bung pha long: 
   city: "bung pha long"
   accentcity: "Bung Pha Long"
-bu n'grayt: 
+bu ngrayt: 
   city: "bu n'grayt"
   accentcity: "Bu N'grayt"
 bung ro: 
@@ -16602,7 +16602,7 @@ bu nokel:
 bu non: 
   city: "bu non"
   accentcity: "Bu Non"
-bu n'roun: 
+bu nroun: 
   city: "bu n'roun"
   accentcity: "Bu N'roun"
 bun so ma mion: 
@@ -16728,10 +16728,10 @@ buon bi sop:
 buon bi thi: 
   city: "buon bi thi"
   accentcity: "Buon Bi Thi"
-buon b'ke: 
+buon bke: 
   city: "buon b'ke"
   accentcity: "Bu\xC3\xB4n B'ké"
-buon b'kol: 
+buon bkol: 
   city: "buon b'kol"
   accentcity: "Bu\xC3\xB4n B'kol"
 buon blang: 
@@ -16788,7 +16788,7 @@ buon brah:
 buon bran: 
   city: "buon bran"
   accentcity: "Buon Bran"
-buon br' de: 
+buon br de: 
   city: "buon br' de"
   accentcity: "Buon Br' De"
 buon brieng: 
@@ -16797,7 +16797,7 @@ buon brieng:
 buon brieng mdrang: 
   city: "buon brieng mdrang"
   accentcity: "Buon Briêng Mdrang"
-buon b'sop: 
+buon bsop: 
   city: "buon b'sop"
   accentcity: "Buon B'sop"
 buon bt pho: 
@@ -16827,16 +16827,16 @@ buon bu jrah:
 buon buk so: 
   city: "buon buk so"
   accentcity: "Bu\xC3\xB4n Buk So"
-buon bu m'bre: 
+buon bu mbre: 
   city: "buon bu m'bre"
   accentcity: "Bu\xC3\xB4n Bu M'bré"
-buon bu n'bleing: 
+buon bu nbleing: 
   city: "buon bu n'bleing"
   accentcity: "Buon Bu N'Bleing"
-buon bu n'doh: 
+buon bu ndoh: 
   city: "buon bu n'doh"
   accentcity: "Bu\xC3\xB4n Bu N'doh"
-buon bu n'jang: 
+buon bu njang: 
   city: "buon bu n'jang"
   accentcity: "Bu\xC3\xB4n Bu N'jang"
 buon buoch phok: 
@@ -16875,7 +16875,7 @@ buon chiet:
 buon chill deunn: 
   city: "buon chill deunn"
   accentcity: "Bu\xC3\xB4n Chill Deunn"
-buon choah k'plang: 
+buon choah kplang: 
   city: "buon choah k'plang"
   accentcity: "Bu\xC3\xB4n Choah K'plang"
 buon chreo panang: 
@@ -16896,7 +16896,7 @@ buon chu enun ngo:
 buon chu enun yu: 
   city: "buon chu enun yu"
   accentcity: "Buon Chu Enun Yu"
-buon chu k'pam: 
+buon chu kpam: 
   city: "buon chu k'pam"
   accentcity: "Buon Chu K'pam"
 buon chu mblim: 
@@ -16980,7 +16980,7 @@ buon da klot:
 buon dak mam: 
   city: "buon dak mam"
   accentcity: "Bu\xC3\xB4n Dak Mam"
-buon dak n'drong: 
+buon dak ndrong: 
   city: "buon dak n'drong"
   accentcity: "Buon Dak N'drong"
 "buon \xC3\x90ak tul": 
@@ -17007,7 +17007,7 @@ buon dar diou:
 buon darju: 
   city: "buon darju"
   accentcity: "Bu\xC3\xB4n Darju"
-buon d'de: 
+buon dde: 
   city: "buon d'de"
   accentcity: "Buon D'de"
 "buon \xC3\x90e": 
@@ -17028,7 +17028,7 @@ buon dha kmur:
 buon dham: 
   city: "buon dham"
   accentcity: "Bu\xC3\xB4n Dham"
-buon d'ham: 
+buon dham: 
   city: "buon d'ham"
   accentcity: "Bu\xC3\xB4n D'ham"
 buon dha prang: 
@@ -17103,7 +17103,7 @@ buon dong lap:
 buon dong yang: 
   city: "buon dong yang"
   accentcity: "Bu\xC3\xB4n D\xC3\xB4ng Yang"
-buon dou r'ma: 
+buon dou rma: 
   city: "buon dou r'ma"
   accentcity: "Bu\xC3\xB4n Dou R'ma"
 buon drah: 
@@ -17190,7 +17190,7 @@ buon ea chau:
 buon ea hding: 
   city: "buon ea hding"
   accentcity: "Bu\xC3\xB4n Ea Hding"
-buon ea h'drat: 
+buon ea hdrat: 
   city: "buon ea h'drat"
   accentcity: "Bu\xC3\xB4n Ea H'drat"
 buon ea hning: 
@@ -17235,7 +17235,7 @@ buon ea ktur:
 buon ea miap: 
   city: "buon ea miap"
   accentcity: "Buon Ea Miap"
-buon ea m'ta: 
+buon ea mta: 
   city: "buon ea m'ta"
   accentcity: "Buon Ea M'ta"
 buon ea mur: 
@@ -17349,10 +17349,10 @@ buon galoi:
 buong: 
   city: "buong"
   accentcity: "Buong"
-buon g'de: 
+buon gde: 
   city: "buon g'de"
   accentcity: "Buon G'Dé"
-buon gia deung k'rneu: 
+buon gia deung krneu: 
   city: "buon gia deung k'rneu"
   accentcity: "Buon Gia Deung K'Rneu"
 buon gir: 
@@ -17511,7 +17511,7 @@ buon kay:
 buon kbu: 
   city: "buon kbu"
   accentcity: "Bu\xC3\xB4n Kbu"
-buon k'die: 
+buon kdie: 
   city: "buon k'die"
   accentcity: "Bu\xC3\xB4n K'dié"
 buon kdiel: 
@@ -17622,7 +17622,7 @@ buon knac:
 buon knach: 
   city: "buon knach"
   accentcity: "Buon Knach"
-buon k'nane: 
+buon knane: 
   city: "buon k'nane"
   accentcity: "Buon K'nane"
 buon knier: 
@@ -17652,7 +17652,7 @@ buon ko ea dung:
 buon ko emong: 
   city: "buon ko emong"
   accentcity: "Bu\xC3\xB4n K\xC3\xB4 Em\xC3\xB4ng"
-buon ko m'leo: 
+buon ko mleo: 
   city: "buon ko m'leo"
   accentcity: "Bu\xC3\xB4n K\xC3\xB4 M'lêo"
 buon konho: 
@@ -17691,7 +17691,7 @@ buon kreh:
 buon kriu: 
   city: "buon kriu"
   accentcity: "Bu\xC3\xB4n Kriu"
-buon k'rla: 
+buon krla: 
   city: "buon k'rla"
   accentcity: "Bu\xC3\xB4n K'rla"
 buon kroa a.: 
@@ -17724,7 +17724,7 @@ buon krong buk:
 buon krong but: 
   city: "buon krong but"
   accentcity: "Buon Kr\xC3\xB4ng But"
-buon krong k'mar: 
+buon krong kmar: 
   city: "buon krong k'mar"
   accentcity: "Bu\xC3\xB4n Kr\xC3\xB4ng K'mar"
 buon krong pach: 
@@ -17733,7 +17733,7 @@ buon krong pach:
 buon krum: 
   city: "buon krum"
   accentcity: "Bu\xC3\xB4n Krum"
-buon k'tholl: 
+buon ktholl: 
   city: "buon k'tholl"
   accentcity: "Bu\xC3\xB4n K'tholl"
 buon kuang: 
@@ -17874,34 +17874,34 @@ buon ma thuot:
 buon matran: 
   city: "buon matran"
   accentcity: "Buon Matran"
-buon m'be: 
+buon mbe: 
   city: "buon m'be"
   accentcity: "Bu\xC3\xB4n M'be"
-buon m'blot: 
+buon mblot: 
   city: "buon m'blot"
   accentcity: "Bu\xC3\xB4n M'blot"
-buon m'bre: 
+buon mbre: 
   city: "buon m'bre"
   accentcity: "Bu\xC3\xB4n M'brê"
-buon m'briu: 
+buon mbriu: 
   city: "buon m'briu"
   accentcity: "Bu\xC3\xB4n M'briu"
 buon mbuinh yu: 
   city: "buon mbuinh yu"
   accentcity: "Buon Mbuinh Yu"
-buon m'bun: 
+buon mbun: 
   city: "buon m'bun"
   accentcity: "Buon M'Bun"
-buon m'diap: 
+buon mdiap: 
   city: "buon m'diap"
   accentcity: "Buon M'Diap"
-buon m'don: 
+buon mdon: 
   city: "buon m'don"
   accentcity: "Buon M'Don"
-buon m'dout: 
+buon mdout: 
   city: "buon m'dout"
   accentcity: "Bu\xC3\xB4n M'dout"
-buon m'dung: 
+buon mdung: 
   city: "buon m'dung"
   accentcity: "Bu\xC3\xB4n M'dung"
 buon me den: 
@@ -17919,16 +17919,16 @@ buon mera:
 buon me thuot: 
   city: "buon me thuot"
   accentcity: "Buon Me Thuot"
-buon m'ghan: 
+buon mghan: 
   city: "buon m'ghan"
   accentcity: "Bu\xC3\xB4n M'ghan"
-buon m'gom: 
+buon mgom: 
   city: "buon m'gom"
   accentcity: "Buon M'gom"
 buon mhang: 
   city: "buon mhang"
   accentcity: "Bu\xC3\xB4n Mhang"
-buon m'hap: 
+buon mhap: 
   city: "buon m'hap"
   accentcity: "Bu\xC3\xB4n M'hap"
 buon mi ga: 
@@ -17952,31 +17952,31 @@ buon mkhue diet:
 buon mlang: 
   city: "buon mlang"
   accentcity: "Bu\xC3\xB4n Mlang"
-buon m'leang: 
+buon mleang: 
   city: "buon m'leang"
   accentcity: "Buon M'Leang"
 buon mle: 
   city: "buon mle"
   accentcity: "Buon Mle"
-buon m'lia: 
+buon mlia: 
   city: "buon m'lia"
   accentcity: "Bu\xC3\xB4n M'lia"
-buon m'lieng: 
+buon mlieng: 
   city: "buon m'lieng"
   accentcity: "Bu\xC3\xB4n M'liêng"
-buon m'loch: 
+buon mloch: 
   city: "buon m'loch"
   accentcity: "Buon M'Loch"
 buon mnang: 
   city: "buon mnang"
   accentcity: "Bu\xC3\xB4n Mnang"
-buon m'nar: 
+buon mnar: 
   city: "buon m'nar"
   accentcity: "Bu\xC3\xB4n M'nar"
-buon m'nguan: 
+buon mnguan: 
   city: "buon m'nguan"
   accentcity: "Bu\xC3\xB4n M'nguan"
-buon m'nien: 
+buon mnien: 
   city: "buon m'nien"
   accentcity: "Buon M'Nien"
 buon moar: 
@@ -17985,13 +17985,13 @@ buon moar:
 buon mo: 
   city: "buon mo"
   accentcity: "Buon Mo"
-buon m'phong: 
+buon mphong: 
   city: "buon m'phong"
   accentcity: "Buon M'phong"
-buon m'prenh: 
+buon mprenh: 
   city: "buon m'prenh"
   accentcity: "Buon M'Prenh"
-buon m'rao: 
+buon mrao: 
   city: "buon m'rao"
   accentcity: "Bu\xC3\xB4n M'rao"
 buon mrong ae thu: 
@@ -18003,7 +18003,7 @@ buon mrong ay thu:
 buon mrong: 
   city: "buon mrong"
   accentcity: "Bu\xC3\xB4n Mr\xC3\xB4ng"
-buon m'rum: 
+buon mrum: 
   city: "buon m'rum"
   accentcity: "Buon M'Rum"
 buon mrum: 
@@ -18012,7 +18012,7 @@ buon mrum:
 buon mrung: 
   city: "buon mrung"
   accentcity: "Buon Mrung"
-buon m'trong: 
+buon mtrong: 
   city: "buon m'trong"
   accentcity: "Bu\xC3\xB4n M'trong"
 buon mui: 
@@ -18024,7 +18024,7 @@ buon mung:
 buon muy: 
   city: "buon muy"
   accentcity: "Buon Muy"
-buon m'yui: 
+buon myui: 
   city: "buon m'yui"
   accentcity: "Bu\xC3\xB4n M'yui"
 buon nang: 
@@ -18036,22 +18036,22 @@ buon nang kralang:
 buon na nlk: 
   city: "buon na nlk"
   accentcity: "Buon N\xC3\xA2 Nlk"
-buon n'dout dien krac: 
+buon ndout dien krac: 
   city: "buon n'dout dien krac"
   accentcity: "Buon N'Dout Dien Krac"
-buon n'drech: 
+buon ndrech: 
   city: "buon n'drech"
   accentcity: "Buon N'Drech"
 buon ndrecht: 
   city: "buon ndrecht"
   accentcity: "Bu\xC3\xB4n Ndrecht"
-buon n'drung: 
+buon ndrung: 
   city: "buon n'drung"
   accentcity: "Bu\xC3\xB4n N'drung"
-buon n'drung ja: 
+buon ndrung ja: 
   city: "buon n'drung ja"
   accentcity: "Bu\xC3\xB4n N'drung Ja"
-buon n'dut: 
+buon ndut: 
   city: "buon n'dut"
   accentcity: "Bu\xC3\xB4n N'dut"
 buon ne: 
@@ -18177,7 +18177,7 @@ buon pok kenh:
 buon pok penh: 
   city: "buon pok penh"
   accentcity: "Buon Pok Penh"
-buon por m'hu: 
+buon por mhu: 
   city: "buon por m'hu"
   accentcity: "Buon Por M'Hu"
 buon prong: 
@@ -18228,7 +18228,7 @@ buon re he:
 buon reum: 
   city: "buon reum"
   accentcity: "Bu\xC3\xB4n Reum"
-buon r'hang: 
+buon rhang: 
   city: "buon r'hang"
   accentcity: "Bu\xC3\xB4n R'hang"
 buon riang: 
@@ -18246,7 +18246,7 @@ buon riong deung:
 buon riong you: 
   city: "buon riong you"
   accentcity: "Bu\xC3\xB4n Riong You"
-buon r'lieng: 
+buon rlieng: 
   city: "buon r'lieng"
   accentcity: "Bu\xC3\xB4n R'liêng"
 buon rocai: 
@@ -18285,10 +18285,10 @@ buon so mahang:
 buon sor: 
   city: "buon sor"
   accentcity: "Buon Sor"
-buon s'ran: 
+buon sran: 
   city: "buon s'ran"
   accentcity: "Bu\xC3\xB4n S'ran"
-buon s'rang: 
+buon srang: 
   city: "buon s'rang"
   accentcity: "Buon S'Rang"
 buon sre u: 
@@ -18594,7 +18594,7 @@ buon yong hat:
 buon yon hat: 
   city: "buon yon hat"
   accentcity: "Buon Yon Hat"
-buon yon m'bra: 
+buon yon mbra: 
   city: "buon yon m'bra"
   accentcity: "Buon Yon M'bra"
 buon young: 
@@ -18639,13 +18639,13 @@ bu pul meub:
 bu rang: 
   city: "bu rang"
   accentcity: "Bu Rang"
-bu r'dang: 
+bu rdang: 
   city: "bu r'dang"
   accentcity: "Bu R'dang"
 bu rdang: 
   city: "bu rdang"
   accentcity: "Bu Rdang"
-bu r'du: 
+bu rdu: 
   city: "bu r'du"
   accentcity: "Bu R'du"
 bu rei: 
@@ -18657,7 +18657,7 @@ bu reil:
 bu rham: 
   city: "bu rham"
   accentcity: "Bu Rham"
-bu r'hat: 
+bu rhat: 
   city: "bu r'hat"
   accentcity: "Bu R'Hat"
 bu ridang: 
@@ -18666,34 +18666,34 @@ bu ridang:
 bu rkoul: 
   city: "bu rkoul"
   accentcity: "B\xC3\xB9 Rkoul"
-bu r'koul: 
+bu rkoul: 
   city: "bu r'koul"
   accentcity: "Bu R'koul"
 bu rkul: 
   city: "bu rkul"
   accentcity: "Bu Rkul"
-bu r'la: 
+bu rla: 
   city: "bu r'la"
   accentcity: "Bu R'la"
 bu rlah: 
   city: "bu rlah"
   accentcity: "Bu Rlah"
-bu r'le: 
+bu rle: 
   city: "bu r'le"
   accentcity: "Bu R'Le"
-bu r'leh: 
+bu rleh: 
   city: "bu r'leh"
   accentcity: "Bu R'leh"
-bu r'lieng: 
+bu rlieng: 
   city: "bu r'lieng"
   accentcity: "Bu R'liêng"
-bu r'matt: 
+bu rmatt: 
   city: "bu r'matt"
   accentcity: "Bu R'matt"
 bu rmie: 
   city: "bu rmie"
   accentcity: "Bu Rmie"
-bu r'mle: 
+bu rmle: 
   city: "bu r'mle"
   accentcity: "Bu R'mlé"
 bu rnard: 
@@ -18747,10 +18747,10 @@ bu tchao:
 bu tchao nho: 
   city: "bu tchao nho"
   accentcity: "Bu Tch\xC3\xA2o Nho"
-bu t'chop: 
+bu tchop: 
   city: "bu t'chop"
   accentcity: "Bu T'chop"
-bu t'chueng: 
+bu tchueng: 
   city: "bu t'chueng"
   accentcity: "Bu T'chueng"
 bu tek nho: 
@@ -18822,7 +18822,7 @@ buu long:
 buu son: 
   city: "buu son"
   accentcity: "Buu Son"
-bu vien r'hat: 
+bu vien rhat: 
   city: "bu vien r'hat"
   accentcity: "Bu Vien R'hat"
 bu xa bum: 
@@ -18882,10 +18882,10 @@ bu yu dok:
 bu yul: 
   city: "bu yul"
   accentcity: "B\xC3\xB9 Yul"
-bu yu m'pol: 
+bu yu mpol: 
   city: "bu yu m'pol"
   accentcity: "Bu Yu M'pol"
-b'ya: 
+bya: 
   city: "b'ya"
   accentcity: "B'Ya"
 b youa: 
@@ -19854,7 +19854,7 @@ cardong sesang:
 cardon sesang: 
   city: "cardon sesang"
   accentcity: "Cardon Sesang"
-cardon s'resang: 
+cardon sresang: 
   city: "cardon s'resang"
   accentcity: "Cardon S'resang"
 ca ria: 
@@ -21405,7 +21405,7 @@ cho xo:
 cho xuan dau: 
   city: "cho xuan dau"
   accentcity: "Cho Xuan Dau"
-chrlao da s'rang: 
+chrlao da srang: 
   city: "chrlao da s'rang"
   accentcity: "Chrlao Da S'Rang"
 chua cai su: 
@@ -21669,7 +21669,7 @@ cia tao:
 cirlao da kop: 
   city: "cirlao da kop"
   accentcity: "Cirlao Da Kop"
-cirlao da s'rang: 
+cirlao da srang: 
   city: "cirlao da s'rang"
   accentcity: "Cirlao Da S'rang"
 ciu tu fang: 
@@ -23130,7 +23130,7 @@ da:
 da dang: 
   city: "da dang"
   accentcity: "Da Dang"
-da d'de: 
+da dde: 
   city: "da d'de"
   accentcity: "Da D'de"
 daden: 
@@ -23514,7 +23514,7 @@ dai vi:
 dai-vy: 
   city: "dai-vy"
   accentcity: "Dai-Vy"
-d'ai xao: 
+dai xao: 
   city: "d'ai xao"
   accentcity: "D'ai Xao"
 dai yen: 
@@ -23580,7 +23580,7 @@ dak chat:
 dak cho: 
   city: "dak cho"
   accentcity: "Dak Cho"
-dak d'jak: 
+dak djak: 
   city: "dak d'jak"
   accentcity: "Dak D'jak"
 dak djro: 
@@ -23973,7 +23973,7 @@ dak ri peng:
 "\xC3\x90ak r'la": 
   city: "\xC3\x90ak r'la"
   accentcity: "\xC3\x90ak R'la"
-dak r'lan: 
+dak rlan: 
   city: "dak r'lan"
   accentcity: "Dak R'lan"
 dak robang: 
@@ -24207,7 +24207,7 @@ dam bai:
 "\xC3\x90am bong": 
   city: "\xC3\x90am bong"
   accentcity: "\xC3\x90\xC3\xA2m B\xC3\xB4ng"
-da m'bor: 
+da mbor: 
   city: "da m'bor"
   accentcity: "Da M'bor"
 "\xC3\x90a m'brim": 
@@ -24732,16 +24732,16 @@ dap van don:
 da que: 
   city: "da que"
   accentcity: "Da Que"
-da r'diabu: 
+da rdiabu: 
   city: "da r'diabu"
   accentcity: "Da R'diabu"
-da r'diaou: 
+da rdiaou: 
   city: "da r'diaou"
   accentcity: "Da R'diaou"
 da rhan blan: 
   city: "da rhan blan"
   accentcity: "Da Rhan Blan"
-da r'hau: 
+da rhau: 
   city: "da r'hau"
   accentcity: "Da R'Hau"
 darhon: 
@@ -24753,10 +24753,10 @@ dar longnam:
 dar longnan: 
   city: "dar longnan"
   accentcity: "Dar Longnan"
-da r'sas: 
+da rsas: 
   city: "da r'sas"
   accentcity: "Da R'sas"
-da r'soung: 
+da rsoung: 
   city: "da r'soung"
   accentcity: "Da R'soung"
 da rung: 
@@ -24909,7 +24909,7 @@ da yon:
 "\xC3\x90ay xoai": 
   city: "\xC3\x90ay xoai"
   accentcity: "\xC3\x90\xC3\xA2y Xoài"
-d'dham: 
+ddham: 
   city: "d'dham"
   accentcity: "D'Dham"
 de a kieng: 
@@ -25104,7 +25104,7 @@ de lok tro:
 de mang: 
   city: "de mang"
   accentcity: "De Mang"
-de m'dang: 
+de mdang: 
   city: "de m'dang"
   accentcity: "De M'dang"
 den: 
@@ -25833,7 +25833,7 @@ dji rott:
 djnan mblack: 
   city: "djnan mblack"
   accentcity: "Djnan Mblack"
-d'joe23: 
+djoe23: 
   city: "d'joe23"
   accentcity: "D'joe23"
 djor lanh: 
@@ -30267,7 +30267,7 @@ ha tia:
 ha tien: 
   city: "ha tien"
   accentcity: "Hà Tiên"
-ha tin': 
+ha tin: 
   city: "ha tin'"
   accentcity: "Ha Tin'"
 ha tinh: 
@@ -32565,7 +32565,7 @@ kao kang:
 kao kuil: 
   city: "kao kuil"
   accentcity: "Kao Kuil"
-kao r'thi: 
+kao rthi: 
   city: "kao r'thi"
   accentcity: "Kao R'thi"
 kao sun: 
@@ -32634,7 +32634,7 @@ kau tchou ping:
 kbu mai: 
   city: "kbu mai"
   accentcity: "Kbu Mai"
-k'diont: 
+kdiont: 
   city: "k'diont"
   accentcity: "K'diont"
 keau na: 
@@ -33240,7 +33240,7 @@ khanh my:
 khanh nhon: 
   city: "khanh nhon"
   accentcity: "Khanh Nhon"
-khan' hoa: 
+khan hoa: 
   city: "khan' hoa"
   accentcity: "Khan' Hoa"
 khanh phuoc: 
@@ -35199,7 +35199,7 @@ kinh xuyen:
 kin ki thang: 
   city: "kin ki thang"
   accentcity: "Kin Ki Thang"
-ki n'on: 
+ki non: 
   city: "ki n'on"
   accentcity: "Ki N'on"
 kin tchang ho: 
@@ -35490,7 +35490,7 @@ kondroum:
 kon drun: 
   city: "kon drun"
   accentcity: "Kon Drun"
-kon gang k'do: 
+kon gang kdo: 
   city: "kon gang k'do"
   accentcity: "Kon Gang K'do"
 kon gang: 
@@ -35532,7 +35532,7 @@ kong gum:
 kong gung: 
   city: "kong gung"
   accentcity: "Kong Gung"
-kong h'dang: 
+kong hdang: 
   city: "kong h'dang"
   accentcity: "Kong H'dang"
 kong ignon ron: 
@@ -35568,10 +35568,10 @@ kon gol:
 kong plong: 
   city: "kong plong"
   accentcity: "Kong Plong"
-kong r'ban: 
+kong rban: 
   city: "kong r'ban"
   accentcity: "Kong R'Ban"
-kong r'nang: 
+kong rnang: 
   city: "kong r'nang"
   accentcity: "Kong R'Nang"
 kong robang: 
@@ -36666,7 +36666,7 @@ krela ngai:
 krela nghai: 
   city: "krela nghai"
   accentcity: "Krela Nghai"
-krela n'hai: 
+krela nhai: 
   city: "krela n'hai"
   accentcity: "Krela N'hai"
 kreu hanh: 
@@ -36687,7 +36687,7 @@ krone:
 krong pha: 
   city: "krong pha"
   accentcity: "Krong Pha"
-kroot da r'gna: 
+kroot da rgna: 
   city: "kroot da r'gna"
   accentcity: "Kroot Da R'gna"
 krouets: 
@@ -40911,7 +40911,7 @@ le xa:
 le xuyen: 
   city: "le xuyen"
   accentcity: "Le Xuyen"
-liang r'sol: 
+liang rsol: 
   city: "liang r'sol"
   accentcity: "Liang R'sol"
 li bien: 
@@ -41331,7 +41331,7 @@ loc nguyen:
 loc ninh: 
   city: "loc ninh"
   accentcity: "Loc Ninh"
-loc nin': 
+loc nin: 
   city: "loc nin'"
   accentcity: "Loc Nin'"
 loco: 
@@ -41724,10 +41724,10 @@ long quei:
 long que: 
   city: "long que"
   accentcity: "Long Que"
-long r'nam: 
+long rnam: 
   city: "long r'nam"
   accentcity: "Long R'nam"
-long r'nan: 
+long rnan: 
   city: "long r'nan"
   accentcity: "Long R'Nan"
 long ruih: 
@@ -43776,25 +43776,25 @@ may thon:
 may vien: 
   city: "may vien"
   accentcity: "May Vien"
-m'boom sere naoi: 
+mboom sere naoi: 
   city: "m'boom sere naoi"
   accentcity: "M'Boom Sere Naoi"
-m'boum sere naou: 
+mboum sere naou: 
   city: "m'boum sere naou"
   accentcity: "M'Boum Sere Naou"
-m'boun dagle: 
+mboun dagle: 
   city: "m'boun dagle"
   accentcity: "M'Boun Dagle"
-m'boun sere naou: 
+mboun sere naou: 
   city: "m'boun sere naou"
   accentcity: "M'Boun Sere Naou"
-m'bung dagle: 
+mbung dagle: 
   city: "m'bung dagle"
   accentcity: "M'bung Dagle"
-m'bung r'hang ngong: 
+mbung rhang ngong: 
   city: "m'bung r'hang ngong"
   accentcity: "M'bung R'hang Ngong"
-m'bung sre nao: 
+mbung sre nao: 
   city: "m'bung sre nao"
   accentcity: "M'bung Sre Nao"
 me bien: 
@@ -43830,7 +43830,7 @@ me-pou:
 me pu clong du: 
   city: "me pu clong du"
   accentcity: "Me Pu Clong Du"
-mepu da r'nga: 
+mepu da rnga: 
   city: "mepu da r'nga"
   accentcity: "Mepu Da R'nga"
 mepu klong du: 
@@ -44010,16 +44010,16 @@ mit noi:
 miu co san chai: 
   city: "miu co san chai"
   accentcity: "Míu C\xC3\xB2 San Chai"
-m'kar da te: 
+mkar da te: 
   city: "m'kar da te"
   accentcity: "M'kar Da Te"
 m khuc: 
   city: "m khuc"
   accentcity: "M Khuc"
-m'lone: 
+mlone: 
   city: "m'lone"
   accentcity: "M'lone"
-m'lon: 
+mlon: 
   city: "m'lon"
   accentcity: "M'lon"
 mo am: 
@@ -44319,16 +44319,16 @@ mo xat:
 mo xuan: 
   city: "mo xuan"
   accentcity: "M\xC3\xB4 Xu\xC3\xA2n"
-m'ran: 
+mran: 
   city: "m'ran"
   accentcity: "M'Ran"
-m'rao: 
+mrao: 
   city: "m'rao"
   accentcity: "M'rao"
-m'rett: 
+mrett: 
   city: "m'rett"
   accentcity: "M'Rett"
-m'sra: 
+msra: 
   city: "m'sra"
   accentcity: "M'Sra"
 muahg chu: 
@@ -45993,7 +45993,7 @@ nam dinh:
 nam din: 
   city: "nam din"
   accentcity: "Nam Din"
-nam din': 
+nam din: 
   city: "nam din'"
   accentcity: "Nam Din'"
 nam dji: 
@@ -47505,16 +47505,16 @@ na zenh:
 na zuong: 
   city: "na zuong"
   accentcity: "Na Zuong"
-n'dong dar: 
+ndong dar: 
   city: "n'dong dar"
   accentcity: "N'Dong Dar"
-n'dong dor: 
+ndong dor: 
   city: "n'dong dor"
   accentcity: "N'dong Dor"
-n'dreng: 
+ndreng: 
   city: "n'dreng"
   accentcity: "N'Dreng"
-n'drou: 
+ndrou: 
   city: "n'drou"
   accentcity: "N'drou"
 ne ban: 
@@ -49080,7 +49080,7 @@ ni mou:
 ninbinh: 
   city: "ninbinh"
   accentcity: "Ninbinh"
-nin bin': 
+nin bin: 
   city: "nin bin'"
   accentcity: "Nin Bin'"
 ninh bac: 
@@ -49089,7 +49089,7 @@ ninh bac:
 ninh binh: 
   city: "ninh binh"
   accentcity: "Ninh B\xC3\xACnh"
-ninh'ch: 
+ninhch: 
   city: "ninh'ch"
   accentcity: "Ninh'ch"
 ninh chu: 
@@ -49146,7 +49146,7 @@ ninh hoa:
 ninh hung: 
   city: "ninh hung"
   accentcity: "Ninh Hung"
-ninh i'ch: 
+ninh ich: 
   city: "ninh i'ch"
   accentcity: "Ninh I'ch"
 ninh khanh: 
@@ -50460,7 +50460,7 @@ pa mi:
 pa mou: 
   city: "pa mou"
   accentcity: "Pa Mou"
-pampe da r'ging: 
+pampe da rging: 
   city: "pampe da r'ging"
   accentcity: "Pampe Da R'ging"
 pampei dan: 
@@ -50496,7 +50496,7 @@ pang deung:
 pang giong: 
   city: "pang giong"
   accentcity: "Pang Giong"
-pang phey dak r'guinn: 
+pang phey dak rguinn: 
   city: "pang phey dak r'guinn"
   accentcity: "Pang Phey Dak R'Guinn"
 pang phey dang: 
@@ -50505,7 +50505,7 @@ pang phey dang:
 pang phey dan: 
   city: "pang phey dan"
   accentcity: "Pang Phey Dan"
-pang phey p'neum: 
+pang phey pneum: 
   city: "pang phey p'neum"
   accentcity: "Pang Phey P'Neum"
 pang ra: 
@@ -50808,7 +50808,7 @@ pele kobay:
 pele kram: 
   city: "pele kram"
   accentcity: "Pele Kram"
-pele'kram: 
+pelekram: 
   city: "pele'kram"
   accentcity: "Pele'Kram"
 pele krong: 
@@ -53898,7 +53898,7 @@ pin chai:
 pin chang: 
   city: "pin chang"
   accentcity: "Pin Chang"
-p'ing-chai: 
+ping-chai: 
   city: "p'ing-chai"
   accentcity: "P'ing-chai"
 ping chan: 
@@ -54039,13 +54039,13 @@ ple brang brul:
 ple brang tonung: 
   city: "ple brang tonung"
   accentcity: "Plé Brang Tonung"
-ple brang t'pe: 
+ple brang tpe: 
   city: "ple brang t'pe"
   accentcity: "Ple Brang T'pe"
 ple co em: 
   city: "ple co em"
   accentcity: "Plé Co Em"
-ple dak r'beye: 
+ple dak rbeye: 
   city: "ple dak r'beye"
   accentcity: "Ple Dak R'Beye"
 ple dok lou: 
@@ -54123,10 +54123,10 @@ plei bloutte chorr:
 plei bloutte ngol: 
   city: "plei bloutte ngol"
   accentcity: "Plei Bloutte Ngol"
-plei b'nang ngol: 
+plei bnang ngol: 
   city: "plei b'nang ngol"
   accentcity: "Plei B'nang Ngol"
-plei b'nang serr: 
+plei bnang serr: 
   city: "plei b'nang serr"
   accentcity: "Plei B'nang Serr"
 plei boe: 
@@ -54285,7 +54285,7 @@ plei dak nou:
 plei dak: 
   city: "plei dak"
   accentcity: "Plei Dak"
-plei dak r'baye: 
+plei dak rbaye: 
   city: "plei dak r'baye"
   accentcity: "Plei Dak R'Baye"
 plei dak ria: 
@@ -54438,7 +54438,7 @@ plei girao kot:
 plei girao louk: 
   city: "plei girao louk"
   accentcity: "Plei Girao Louk"
-plei girao m'nou: 
+plei girao mnou: 
   city: "plei girao m'nou"
   accentcity: "Plei Girao M'nou"
 plei girao ya to: 
@@ -54489,7 +54489,7 @@ plei hale:
 plei hauay: 
   city: "plei hauay"
   accentcity: "Plei Hauay"
-plei h'dan: 
+plei hdan: 
   city: "plei h'dan"
   accentcity: "Plei H'Dan"
 plei hep: 
@@ -54546,7 +54546,7 @@ plei ho:
 plei ho teng lao: 
   city: "plei ho teng lao"
   accentcity: "Plei H\xC3\xB4 Teng Lao"
-plei h'reng: 
+plei hreng: 
   city: "plei h'reng"
   accentcity: "Plei H'reng"
 plei huele: 
@@ -54609,7 +54609,7 @@ plei katiouk:
 plei ke hau: 
   city: "plei ke hau"
   accentcity: "Plei Kê Hau"
-plei kenh ea h'dang: 
+plei kenh ea hdang: 
   city: "plei kenh ea h'dang"
   accentcity: "Plei Kenh Ea H'dang"
 plei kenh ea tong: 
@@ -54981,7 +54981,7 @@ plei me:
 plei mil: 
   city: "plei mil"
   accentcity: "Plei Mil"
-plei m'lon: 
+plei mlon: 
   city: "plei m'lon"
   accentcity: "Plei M'Lon"
 plei mlou: 
@@ -54990,7 +54990,7 @@ plei mlou:
 plei mnang: 
   city: "plei mnang"
   accentcity: "Plei Mnang"
-plei m'nang: 
+plei mnang: 
   city: "plei m'nang"
   accentcity: "Plei M'nang"
 plei mok den: 
@@ -55077,7 +55077,7 @@ plei ngleum:
 plei ngol ho: 
   city: "plei ngol ho"
   accentcity: "Plei Ngol Ho"
-plei n'gol le: 
+plei ngol le: 
   city: "plei n'gol le"
   accentcity: "Plei N'gol Le"
 plei ngoll: 
@@ -55176,10 +55176,10 @@ plei plo:
 plei plouh: 
   city: "plei plouh"
   accentcity: "Plei Plouh"
-plei p'nouk: 
+plei pnouk: 
   city: "plei p'nouk"
   accentcity: "Plei P'nouk"
-plei p'nouk ya gnen: 
+plei pnouk ya gnen: 
   city: "plei p'nouk ya gnen"
   accentcity: "Plei P'nouk Ya Gnen"
 plei poe: 
@@ -55221,13 +55221,13 @@ plei poui:
 plei preng het: 
   city: "plei preng het"
   accentcity: "Plei Preng Het"
-plei p'tao k'lai: 
+plei ptao klai: 
   city: "plei p'tao k'lai"
   accentcity: "Plei P'Tao K'lai"
-plei p'tao k'la: 
+plei ptao kla: 
   city: "plei p'tao k'la"
   accentcity: "Plei P'Tao K'la"
-plei p'tao: 
+plei ptao: 
   city: "plei p'tao"
   accentcity: "Plei P'tao"
 plei quak kla: 
@@ -55266,10 +55266,10 @@ plei ring do:
 plei rinh: 
   city: "plei rinh"
   accentcity: "Plei Rinh"
-plei r'ngol houp: 
+plei rngol houp: 
   city: "plei r'ngol houp"
   accentcity: "Plei R'Ngol Houp"
-plei r'ngol kop: 
+plei rngol kop: 
   city: "plei r'ngol kop"
   accentcity: "Plei R'ngol Kop"
 plei rodung: 
@@ -55515,10 +55515,10 @@ plei trop:
 plei trum: 
   city: "plei trum"
   accentcity: "Plei Trum"
-plei t'seo: 
+plei tseo: 
   city: "plei t'seo"
   accentcity: "Plei T'seo"
-plei t'seou: 
+plei tseou: 
   city: "plei t'seou"
   accentcity: "Plei T'seou"
 plei tuech: 
@@ -55734,7 +55734,7 @@ ple vi drin:
 ple vixeh: 
   city: "ple vixeh"
   accentcity: "Ple Vixeh"
-pley ngol ma ch'rong: 
+pley ngol ma chrong: 
   city: "pley ngol ma ch'rong"
   accentcity: "Pley Ngol Ma Ch'rong"
 pley ngol ma drung: 
@@ -56016,7 +56016,7 @@ polei lut:
 polei meo: 
   city: "polei meo"
   accentcity: "Polei Meo"
-polei m'nou: 
+polei mnou: 
   city: "polei m'nou"
   accentcity: "Polei M'Nou"
 polei mnu: 
@@ -57534,22 +57534,22 @@ rau xa:
 "r'bout \xC3\x90eung": 
   city: "r'bout \xC3\x90eung"
   accentcity: "R'bout \xC3\x90eung"
-r'bout yo: 
+rbout yo: 
   city: "r'bout yo"
   accentcity: "R'bout Y\xC3\xB4"
-r'chay dung: 
+rchay dung: 
   city: "r'chay dung"
   accentcity: "R'chay Dung"
-r'da: 
+rda: 
   city: "r'da"
   accentcity: "R'da"
 re nue: 
   city: "re nue"
   accentcity: "Re Nue"
-r'han blang: 
+rhan blang: 
   city: "r'han blang"
   accentcity: "R'han Blang"
-r'han blan: 
+rhan blan: 
   city: "r'han blan"
   accentcity: "R'Han Blan"
 rhang bott: 
@@ -57594,7 +57594,7 @@ ri hill:
 ring hao: 
   city: "ring hao"
   accentcity: "Ring Hao"
-riong b'neur: 
+riong bneur: 
   city: "riong b'neur"
   accentcity: "Riong B'neur"
 riong bolieng: 
@@ -57618,22 +57618,22 @@ riong tho:
 riu danarr: 
   city: "riu danarr"
   accentcity: "Riu Danarr"
-rlang n'long: 
+rlang nlong: 
   city: "rlang n'long"
   accentcity: "Rlang N'Long"
 rlang yuk nung: 
   city: "rlang yuk nung"
   accentcity: "Rlang Yuk Nung"
-r'lom: 
+rlom: 
   city: "r'lom"
   accentcity: "R'lom"
 rlom: 
   city: "rlom"
   accentcity: "Rlom"
-r'loum: 
+rloum: 
   city: "r'loum"
   accentcity: "R'loum"
-r'loun: 
+rloun: 
   city: "r'loun"
   accentcity: "R'Loun"
 roang pha: 
@@ -57669,7 +57669,7 @@ rom rom xa:
 rone: 
   city: "rone"
   accentcity: "Rone"
-rong b'neur: 
+rong bneur: 
   city: "rong b'neur"
   accentcity: "Rong B'Neur"
 rong can: 
@@ -57708,7 +57708,7 @@ rou rouey:
 r. rang: 
   city: "r. rang"
   accentcity: "R. Rang"
-r'souye: 
+rsouye: 
   city: "r'souye"
   accentcity: "R'Souye"
 ru cay: 
@@ -58410,7 +58410,7 @@ slein hap lan:
 s. manian: 
   city: "s. manian"
   accentcity: "S. Manian"
-s'manian: 
+smanian: 
   city: "s'manian"
   accentcity: "S'manian"
 snarr ett: 
@@ -59190,7 +59190,7 @@ srok bom bit:
 srok bo: 
   city: "srok bo"
   accentcity: "Srok Bo"
-srok bou m'lou: 
+srok bou mlou: 
   city: "srok bou m'lou"
   accentcity: "Srok Bou M'lou"
 srok bramang: 
@@ -61737,7 +61737,7 @@ thai bat:
 thai binh: 
   city: "thai binh"
   accentcity: "Thái B\xC3\xACnh"
-thai bin': 
+thai bin: 
   city: "thai bin'"
   accentcity: "Thai Bin'"
 thai dinh: 
@@ -62301,7 +62301,7 @@ thanh ninh:
 thanh oai: 
   city: "thanh oai"
   accentcity: "Thanh Oai"
-than' hoa: 
+than hoa: 
   city: "than' hoa"
   accentcity: "Than' Hoa"
 thanh pho ho chi minh: 
@@ -65640,7 +65640,7 @@ tie lan:
 tien an: 
   city: "tien an"
   accentcity: "Tien An"
-t'ienan: 
+tienan: 
   city: "t'ienan"
   accentcity: "T'ienan"
 tien bao: 
@@ -67425,7 +67425,7 @@ tra vang:
 tra vinh: 
   city: "tra vinh"
   accentcity: "Trà Vinh"
-tra vin': 
+tra vin: 
   city: "tra vin'"
   accentcity: "Tra Vin'"
 tra vi: 
@@ -71676,7 +71676,7 @@ xom ben oan:
 xom ben ra: 
   city: "xom ben ra"
   accentcity: "Xom Ben Ra"
-xom b'en rong: 
+xom ben rong: 
   city: "xom b'en rong"
   accentcity: "Xom B'en Rong"
 xom ben ruong: 
@@ -73932,7 +73932,7 @@ xom nom:
 xom nong: 
   city: "xom nong"
   accentcity: "Xóm Nong"
-xom n'sung: 
+xom nsung: 
   city: "xom n'sung"
   accentcity: "Xom N'sung"
 xom nuco: 

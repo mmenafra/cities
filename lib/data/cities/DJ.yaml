@@ -9,10 +9,10 @@ airolaf:
 airoli: 
   city: "airoli"
   accentcity: "Airoli"
-alaili dadda`: 
+alaili dadda: 
   city: "alaili dadda`"
   accentcity: "Alaili Dadda`"
-alayli dadda`: 
+alayli dadda: 
   city: "alayli dadda`"
   accentcity: "Alayli Dadda`"
 ali ada: 
@@ -24,7 +24,7 @@ ali adda:
 ali adda courant: 
   city: "ali adda courant"
   accentcity: "Ali Adda Courant"
-ali `adde: 
+ali adde: 
   city: "`ali `adde"
   accentcity: "`Ali `Addé"
 aliadh: 
@@ -63,7 +63,7 @@ anghar:
 arta: 
   city: "`arta"
   accentcity: "`Arta"
-as `ela: 
+as ela: 
   city: "`as `ela"
   accentcity: "`As `\xC3\x8Ala"
 assa-ela: 
@@ -72,7 +72,7 @@ assa-ela:
 assa gaila: 
   city: "`assa gaila"
   accentcity: "`Assa Ga\xC3\xAFla"
-ass'eyla: 
+asseyla: 
   city: "ass'eyla"
   accentcity: "Ass'èyla"
 balho: 
@@ -87,7 +87,7 @@ bankouwale:
 bissidiro: 
   city: "bissidiro"
   accentcity: "Biss\xC3\xAEdiro"
-boul'aos: 
+boulaos: 
   city: "boul'aos"
   accentcity: "Bo\xC3\xBBl'aos"
 boulaos camp: 
@@ -96,7 +96,7 @@ boulaos camp:
 boulas: 
   city: "boulas"
   accentcity: "Boulas"
-boul`aws: 
+boulaws: 
   city: "boul`aws"
   accentcity: "Bo\xC3\xBBl`aws"
 bulaos: 
@@ -105,7 +105,7 @@ bulaos:
 camp boulaos: 
   city: "camp boulaos"
   accentcity: "Camp Boulaos"
-dadda`to: 
+daddato: 
   city: "dadda`to"
   accentcity: "Dadda`to"
 damerdjog: 
@@ -183,7 +183,7 @@ jibouti:
 jibuti: 
   city: "jibuti"
   accentcity: "Jibuti"
-khor `angar: 
+khor angar: 
   city: "khor `angar"
   accentcity: "Kh\xC3\xB4r `Angar"
 khor-anghar: 
@@ -192,7 +192,7 @@ khor-anghar:
 kouta bouyya: 
   city: "kouta bouyya"
   accentcity: "Ko\xC3\xBBta Bo\xC3\xBByya"
-la`assa: 
+laassa: 
   city: "la`assa"
   accentcity: "L\xC3\xA2`assa"
 la plaine: 
@@ -228,10 +228,10 @@ obock:
 obok: 
   city: "obok"
   accentcity: "Obok"
-oue`a: 
+ouea: 
   city: "oue`a"
   accentcity: "Ouê`a"
-poste d' anghor: 
+poste d anghor: 
   city: "poste d' anghor"
   accentcity: "Poste d' Anghor"
 randa: 
@@ -258,10 +258,10 @@ teoao:
 tewao: 
   city: "tewao"
   accentcity: "Tewao"
-tew`o: 
+tewo: 
   city: "tew`o"
   accentcity: "Tew`o"
-we`a: 
+wea: 
   city: "we`a"
   accentcity: "Wê`a"
 yoboki: 

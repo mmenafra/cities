@@ -57,10 +57,10 @@ aan de vrenen:
 aan de wolfsberg: 
   city: "aan de wolfsberg"
   accentcity: "Aan de Wolfsberg"
-aan 't holven: 
+aan t holven: 
   city: "aan 't holven"
   accentcity: "Aan 't Holven"
-aan 't hoolven: 
+aan t hoolven: 
   city: "aan 't hoolven"
   accentcity: "Aan 't Hoolven"
 aard: 
@@ -108,13 +108,13 @@ aartshouw:
 aat: 
   city: "aat"
   accentcity: "Aat"
-abbaye d' aulne: 
+abbaye d aulne: 
   city: "abbaye d' aulne"
   accentcity: "Abbaye d' Aulne"
 abbaye de la trappe: 
   city: "abbaye de la trappe"
   accentcity: "Abbaye de la Trappe"
-abbaye d'orval: 
+abbaye dorval: 
   city: "abbaye d'orval"
   accentcity: "Abbaye d'Orval"
 abdeneyk: 
@@ -393,7 +393,7 @@ a la chaire:
 a-la-fange-botte: 
   city: "a-la-fange-botte"
   accentcity: "A-la-Fange-Botté"
-a l' assaint: 
+a l assaint: 
   city: "a l' assaint"
   accentcity: "A l' Assaint"
 a la vieille rochette: 
@@ -456,7 +456,7 @@ allierscheheide:
 allierseheide: 
   city: "allierseheide"
   accentcity: "Allierseheide"
-al' linguette: 
+al linguette: 
   city: "al' linguette"
   accentcity: "Al' Linguette"
 allmuhten: 
@@ -483,7 +483,7 @@ alphelaar:
 alphelaer: 
   city: "alphelaer"
   accentcity: "Alphelaer"
-al' saute: 
+al saute: 
   city: "al' saute"
   accentcity: "Al' Saute"
 alsberg: 
@@ -531,7 +531,7 @@ alveringem:
 alveringhem: 
   city: "alveringhem"
   accentcity: "Alveringhem"
-al'vove: 
+alvove: 
   city: "al'vove"
   accentcity: "Al'Vove"
 alzemont: 
@@ -615,7 +615,7 @@ amry:
 am stein: 
   city: "am stein"
   accentcity: "Am Stein"
-ancienne abbaye d'aulne: 
+ancienne abbaye daulne: 
   city: "ancienne abbaye d'aulne"
   accentcity: "Ancienne Abbaye d'Aulne"
 ancien vivier: 
@@ -1095,7 +1095,7 @@ au coucou:
 audegem: 
   city: "audegem"
   accentcity: "Audegem"
-au dela de l'eau: 
+au dela de leau: 
   city: "au dela de l'eau"
   accentcity: "Au dela de l'Eau"
 audemetz: 
@@ -1677,7 +1677,7 @@ bambrugge:
 banbuche: 
   city: "banbuche"
   accentcity: "Banbuche"
-ban d'alle: 
+ban dalle: 
   city: "ban d'alle"
   accentcity: "Ban d'Alle"
 bande: 
@@ -1779,16 +1779,16 @@ baronville:
 barouche: 
   city: "barouche"
   accentcity: "Barouche"
-barriere d'ecaussines: 
+barriere decaussines: 
   city: "barriere d'ecaussines"
   accentcity: "Barriere d'Ecaussines"
-barriere d'ecaussinnes: 
+barriere decaussinnes: 
   city: "barriere d'ecaussinnes"
   accentcity: "Barriere d'Ecaussinnes"
 barriere de champlon: 
   city: "barriere de champlon"
   accentcity: "Barrière de Champlon"
-barriere d'haubreux: 
+barriere dhaubreux: 
   city: "barriere d'haubreux"
   accentcity: "Barriere d'Haubreux"
 barry: 
@@ -2367,7 +2367,7 @@ begijne weide:
 begijnhof: 
   city: "begijnhof"
   accentcity: "Begijnhof"
-begijnhof 's wijk: 
+begijnhof s wijk: 
   city: "begijnhof 's wijk"
   accentcity: "Begijnhof 's Wijk"
 begijnnenborre: 
@@ -2877,7 +2877,7 @@ bernum:
 berrent: 
   city: "berrent"
   accentcity: "Berrent"
-bersillies-l'abbaye: 
+bersillies-labbaye: 
   city: "bersillies-l'abbaye"
   accentcity: "Bersillies-l'Abbaye"
 bertem: 
@@ -3186,7 +3186,7 @@ biernimont:
 bierset: 
   city: "bierset"
   accentcity: "Bierset"
-biert l'abbe: 
+biert labbe: 
   city: "biert l'abbe"
   accentcity: "Biert l'Abbe"
 biert le roi: 
@@ -3864,7 +3864,7 @@ bois bourdon:
 bois cahu: 
   city: "bois cahu"
   accentcity: "Bois Cahu"
-bois d'acren: 
+bois dacren: 
   city: "bois d'acren"
   accentcity: "Bois d'Acren"
 bois-de-boussu: 
@@ -3897,7 +3897,7 @@ bois de nauwe:
 bois de neuvilles: 
   city: "bois de neuvilles"
   accentcity: "Bois de Neuvilles"
-bois d'enghien: 
+bois denghien: 
   city: "bois d'enghien"
   accentcity: "Bois d'Enghien"
 bois de nivelles: 
@@ -3921,16 +3921,16 @@ bois de villers:
 bois-de-villers: 
   city: "bois-de-villers"
   accentcity: "Bois-de-Villers"
-bois d'evoz: 
+bois devoz: 
   city: "bois d'evoz"
   accentcity: "Bois d'Evoz"
-bois-d'haine: 
+bois-dhaine: 
   city: "bois-d'haine"
   accentcity: "Bois-d'Haine"
-bois d'horrues: 
+bois dhorrues: 
   city: "bois d'horrues"
   accentcity: "Bois d'Horrues"
-bois d'ohey: 
+bois dohey: 
   city: "bois d'ohey"
   accentcity: "Bois d'Ohey"
 bois du foyau: 
@@ -3960,7 +3960,7 @@ bois-jaquet:
 bois le duc: 
   city: "bois le duc"
   accentcity: "Bois le Duc"
-bois l'eveque: 
+bois leveque: 
   city: "bois l'eveque"
   accentcity: "Bois l'Eveque"
 bois robert: 
@@ -4815,7 +4815,7 @@ boustaine:
 bousval: 
   city: "bousval"
   accentcity: "Bousval"
-bout d'en haut: 
+bout den haut: 
   city: "bout d'en haut"
   accentcity: "Bout d'En Haut"
 boutersem: 
@@ -4980,7 +4980,7 @@ braibant:
 braidise: 
   city: "braidise"
   accentcity: "Braidise"
-braine-l'alleud: 
+braine-lalleud: 
   city: "braine-l'alleud"
   accentcity: "Braine-l'Alleud"
 braine-le-chateau: 
@@ -6453,7 +6453,7 @@ chanly:
 channy: 
   city: "channy"
   accentcity: "Channy"
-chant d'oiseaux: 
+chant doiseaux: 
   city: "chant d'oiseaux"
   accentcity: "Chant d'Oiseaux"
 chantemelle: 
@@ -7203,7 +7203,7 @@ coppenberg:
 coppernollehoek: 
   city: "coppernollehoek"
   accentcity: "Coppernollehoek"
-coq d'agache: 
+coq dagache: 
   city: "coq d'agache"
   accentcity: "Coq d'Agache"
 coquaimont: 
@@ -7305,7 +7305,7 @@ coro:
 coron: 
   city: "coron"
   accentcity: "Coron"
-coron d'en haut: 
+coron den haut: 
   city: "coron d'en haut"
   accentcity: "Coron d'en Haut"
 coronmeuse: 
@@ -7452,7 +7452,7 @@ courriere:
 courriere lez ville: 
   city: "courriere lez ville"
   accentcity: "Courrière lez Ville"
-cours d'eau: 
+cours deau: 
   city: "cours d'eau"
   accentcity: "Cours d'Eau"
 coursel: 
@@ -7743,7 +7743,7 @@ cul-des-sarts:
 cul du four: 
   city: "cul du four"
   accentcity: "Cul du Four"
-cul du q'vau: 
+cul du qvau: 
   city: "cul du q'vau"
   accentcity: "Cul du Q'vau"
 culo: 
@@ -7875,7 +7875,7 @@ dagsterre:
 dailly: 
   city: "dailly"
   accentcity: "Dailly"
-d'akkers: 
+dakkers: 
   city: "d'akkers"
   accentcity: "D'Akkers"
 daknam: 
@@ -7935,7 +7935,7 @@ darion:
 darisdonk: 
   city: "darisdonk"
   accentcity: "Darisdonk"
-d'arselshoeven: 
+darselshoeven: 
   city: "d'arselshoeven"
   accentcity: "D'Arselshoeven"
 dasselt: 
@@ -8376,7 +8376,7 @@ de loo:
 delpre: 
   city: "delpre"
   accentcity: "Delpré"
-d'elst: 
+delst: 
   city: "d'elst"
   accentcity: "D'Elst"
 delval: 
@@ -9123,22 +9123,22 @@ de zolken:
 de zwaantjes: 
   city: "de zwaantjes"
   accentcity: "De Zwaantjes"
-d'hebbe: 
+dhebbe: 
   city: "d'hebbe"
   accentcity: "D'Hebbe"
-d'hogelinden: 
+dhogelinden: 
   city: "d'hogelinden"
   accentcity: "D'Hogelinden"
-d'hoogelinden: 
+dhoogelinden: 
   city: "d'hoogelinden"
   accentcity: "D'Hoogelinden"
-d'hooge zwaan haart: 
+dhooge zwaan haart: 
   city: "d'hooge zwaan haart"
   accentcity: "D'Hooge Zwaan Haart"
-d'hoye: 
+dhoye: 
   city: "d'hoye"
   accentcity: "D'Hoye"
-d'hulst: 
+dhulst: 
   city: "d'hulst"
   accentcity: "D'Hulst"
 dhuy: 
@@ -9477,7 +9477,7 @@ dottenijs:
 dottignies: 
   city: "dottignies"
   accentcity: "Dottignies"
-d'oude hulst: 
+doude hulst: 
   city: "d'oude hulst"
   accentcity: "D'Oude Hulst"
 dourbes: 
@@ -9921,13 +9921,13 @@ ebly:
 ecacheries: 
   city: "ecacheries"
   accentcity: "\xC3\x89cacheries"
-ecaussines-d'enghien: 
+ecaussines-denghien: 
   city: "ecaussines-d'enghien"
   accentcity: "Ecaussines-d'Enghien"
 ecaussines-lalaing: 
   city: "ecaussines-lalaing"
   accentcity: "\xC3\x89caussines-Lalaing"
-ecaussinnes-d'enghien: 
+ecaussinnes-denghien: 
   city: "ecaussinnes-d'enghien"
   accentcity: "Ecaussinnes-d'Enghien"
 ecaussinnes-lalaing: 
@@ -11685,7 +11685,7 @@ fond de la justice:
 fond de la mathiote: 
   city: "fond de la mathiote"
   accentcity: "Fond de la Mathiote"
-fond de l'eau: 
+fond de leau: 
   city: "fond de l'eau"
   accentcity: "Fond de l'Eau"
 fond de lesve: 
@@ -11778,7 +11778,7 @@ fontaine:
 fontaine haute: 
   city: "fontaine haute"
   accentcity: "Fontaine Haute"
-fontaine-l'eveque: 
+fontaine-leveque: 
   city: "fontaine-l'eveque"
   accentcity: "Fontaine-l'Eveque"
 fontaine-valmont: 
@@ -11838,7 +11838,7 @@ forest:
 foret: 
   city: "foret"
   accentcity: "Forêt"
-forge d'en haut: 
+forge den haut: 
   city: "forge d'en haut"
   accentcity: "Forge d'en Haut"
 forge: 
@@ -13668,7 +13668,7 @@ grand camp:
 grandchamp: 
   city: "grandchamp"
   accentcity: "Grandchamp"
-grand chemin d'enghien: 
+grand chemin denghien: 
   city: "grand chemin d'enghien"
   accentcity: "Grand Chemin d'Enghien"
 grand coo: 
@@ -13683,7 +13683,7 @@ grand corty:
 grandcourt: 
   city: "grandcourt"
   accentcity: "Grandcourt"
-grand' croix: 
+grand croix: 
   city: "grand' croix"
   accentcity: "Grand' Croix"
 grande-aaz: 
@@ -13824,7 +13824,7 @@ grandmetz:
 grand mont: 
   city: "grand mont"
   accentcity: "Grand Mont"
-grand' peine: 
+grand peine: 
   city: "grand' peine"
   accentcity: "Grand' Peine"
 grand plaquay: 
@@ -18213,10 +18213,10 @@ houtain le mont:
 houtain-le-val: 
   city: "houtain-le-val"
   accentcity: "Houtain-le-Val"
-houtain-l' eveque: 
+houtain-l eveque: 
   city: "houtain-l' eveque"
   accentcity: "Houtain-l' Eveque"
-houtain-l'eveque: 
+houtain-leveque: 
   city: "houtain-l'eveque"
   accentcity: "Houtain-l'Eveque"
 houtain-saint-simeon: 
@@ -20130,7 +20130,7 @@ kleine heide:
 kleineheide: 
   city: "kleineheide"
   accentcity: "Kleineheide"
-kleine hoek van 't moertje: 
+kleine hoek van t moertje: 
   city: "kleine hoek van 't moertje"
   accentcity: "Kleine Hoek van 't Moertje"
 kleine horendonk: 
@@ -20202,7 +20202,7 @@ kleinen molenberg:
 kleinen-stichelen: 
   city: "kleinen-stichelen"
   accentcity: "Kleinen-Stichelen"
-kleinen 't moertje: 
+kleinen t moertje: 
   city: "kleinen 't moertje"
   accentcity: "Kleinen 't Moertje"
 kleinen winkel: 
@@ -21540,7 +21540,7 @@ la batte:
 labay: 
   city: "labay"
   accentcity: "Labay"
-l'abbaye: 
+labbaye: 
   city: "l'abbaye"
   accentcity: "L'Abbaye"
 la beguine: 
@@ -21984,10 +21984,10 @@ lage zon:
 lage zonne: 
   city: "lage zonne"
   accentcity: "Lage Zonne"
-l'aghmina: 
+laghmina: 
   city: "l'aghmina"
   accentcity: "L'Aghmina"
-l'aghminee: 
+laghminee: 
   city: "l'aghminee"
   accentcity: "L'Aghminee"
 la giletrie: 
@@ -22197,10 +22197,10 @@ laid trou:
 lainay: 
   city: "lainay"
   accentcity: "Lainay"
-l'air d'oiseaux: 
+lair doiseaux: 
   city: "l'air d'oiseaux"
   accentcity: "L'Air d'Oiseaux"
-l'air: 
+lair: 
   city: "l'air"
   accentcity: "L'Air"
 laisette: 
@@ -22230,7 +22230,7 @@ la levee:
 la livarde: 
   city: "la livarde"
   accentcity: "La Livarde"
-l'allue: 
+lallue: 
   city: "l'allue"
   accentcity: "L'Allue"
 la loge: 
@@ -22239,7 +22239,7 @@ la loge:
 la lonhienne: 
   city: "la lonhienne"
   accentcity: "La Lonhienne"
-l'alouette: 
+lalouette: 
   city: "l'alouette"
   accentcity: "L'Alouette"
 la louviere: 
@@ -22608,7 +22608,7 @@ la noire bouteille:
 la nouvresse haie: 
   city: "la nouvresse haie"
   accentcity: "La Nouvresse Haie"
-l'an quarante: 
+lan quarante: 
   city: "l'an quarante"
   accentcity: "L'An Quarante"
 lanquesaint: 
@@ -22635,7 +22635,7 @@ lanuerath:
 lanzerath: 
   city: "lanzerath"
   accentcity: "Lanzerath"
-l'aoye: 
+laoye: 
   city: "l'aoye"
   accentcity: "L'Aoye"
 la pairelle: 
@@ -22728,7 +22728,7 @@ la ramee:
 la ramonerie: 
   city: "la ramonerie"
   accentcity: "La Ramonerie"
-l'ardoisiere: 
+lardoisiere: 
   city: "l'ardoisiere"
   accentcity: "L'Ardoisiere"
 larebeek: 
@@ -22917,7 +22917,7 @@ laugrenee:
 lauk: 
   city: "lauk"
   accentcity: "Lauk"
-l'aulnois: 
+laulnois: 
   city: "l'aulnois"
   accentcity: "L'Aulnois"
 launaux: 
@@ -22983,7 +22983,7 @@ lavedelle:
 la venne: 
   city: "la venne"
   accentcity: "La Venne"
-l'aventure: 
+laventure: 
   city: "l'aventure"
   accentcity: "L'Aventure"
 la verrerie: 
@@ -23181,13 +23181,13 @@ le chete:
 lechten: 
   city: "lechten"
   accentcity: "Lechten"
-l'eclatiere: 
+leclatiere: 
   city: "l'eclatiere"
   accentcity: "L'Eclatiere"
 le cloitre: 
   city: "le cloitre"
   accentcity: "Le Clo\xC3\xAEtre"
-l'ecluse: 
+lecluse: 
   city: "l'ecluse"
   accentcity: "L'Ecluse"
 le clypot: 
@@ -23232,7 +23232,7 @@ le crinquet:
 le crouzet: 
   city: "le crouzet"
   accentcity: "Le Crouzet"
-l'ecuelle: 
+lecuelle: 
   city: "l'ecuelle"
   accentcity: "L'Ecuelle"
 le culot: 
@@ -23676,13 +23676,13 @@ lemmetrie:
 le mont: 
   city: "le mont"
   accentcity: "Le Mont"
-l'empereur: 
+lempereur: 
   city: "l'empereur"
   accentcity: "L'Empereur"
 lenclos: 
   city: "lenclos"
   accentcity: "Lenclos"
-l'enclume: 
+lenclume: 
   city: "l'enclume"
   accentcity: "L'Enclume"
 lendelede: 
@@ -23691,7 +23691,7 @@ lendelede:
 le neuville: 
   city: "le neuville"
   accentcity: "Le Neuville"
-l'enfer: 
+lenfer: 
   city: "l'enfer"
   accentcity: "L'Enfer"
 lengeler: 
@@ -23790,7 +23790,7 @@ le petit crepin:
 le pierry: 
   city: "le pierry"
   accentcity: "Le Pierry"
-l'epine: 
+lepine: 
   city: "l'epine"
   accentcity: "L'Epine"
 le piquet: 
@@ -23871,10 +23871,10 @@ lerinnes:
 le rivage: 
   city: "le rivage"
   accentcity: "Le Rivage"
-l'ermitage: 
+lermitage: 
   city: "l'ermitage"
   accentcity: "L'Ermitage"
-l'ermite: 
+lermite: 
   city: "l'ermite"
   accentcity: "L'Ermite"
 le rocheux: 
@@ -24036,7 +24036,7 @@ les burettes:
 les cahottes: 
   city: "les cahottes"
   accentcity: "Les Cahottes"
-l'escaillere: 
+lescaillere: 
   city: "l'escaillere"
   accentcity: "L'Escaillere"
 les cailloux: 
@@ -24372,7 +24372,7 @@ les pachis:
 les parsonniers: 
   city: "les parsonniers"
   accentcity: "Les Parsonniers"
-l'esperance: 
+lesperance: 
   city: "l'esperance"
   accentcity: "L'Esperance"
 les pietresses: 
@@ -24381,7 +24381,7 @@ les pietresses:
 le spinet: 
   city: "le spinet"
   accentcity: "Le Spinet"
-l'espinois: 
+lespinois: 
   city: "l'espinois"
   accentcity: "L'Espinois"
 les pipettes: 
@@ -24630,7 +24630,7 @@ lethen:
 le tilleul: 
   city: "le tilleul"
   accentcity: "Le Tilleul"
-l'etogne: 
+letogne: 
   city: "l'etogne"
   accentcity: "L'Etogne"
 le tombeau: 
@@ -24771,7 +24771,7 @@ le warichet:
 le wate: 
   city: "le wate"
   accentcity: "Le Wate"
-l'ewereville: 
+lewereville: 
   city: "l'ewereville"
   accentcity: "L'Ewereville"
 lexhy: 
@@ -24807,10 +24807,10 @@ lez fontaines:
 le zoute: 
   city: "le zoute"
   accentcity: "Le Zoute"
-l'hamais: 
+lhamais: 
   city: "l'hamais"
   accentcity: "L'Hamais"
-l'herse: 
+lherse: 
   city: "l'herse"
   accentcity: "L'Herse"
 lhoneux: 
@@ -25218,7 +25218,7 @@ lizin:
 lobbes: 
   city: "lobbes"
   accentcity: "Lobbes"
-l'obelisque: 
+lobelisque: 
   city: "l'obelisque"
   accentcity: "L'Obelisque"
 lobe: 
@@ -25317,7 +25317,7 @@ lokry:
 loksbergen: 
   city: "loksbergen"
   accentcity: "Loksbergen"
-l'olive: 
+lolive: 
   city: "l'olive"
   accentcity: "L'Olive"
 lo: 
@@ -25548,7 +25548,7 @@ lorette:
 loripette: 
   city: "loripette"
   accentcity: "Loripette"
-l'orlitain: 
+lorlitain: 
   city: "l'orlitain"
   accentcity: "L'Orlitain"
 lorroir: 
@@ -26310,7 +26310,7 @@ maraiche:
 marais a chardons: 
   city: "marais a chardons"
   accentcity: "Marais à Chardons"
-marais d'artimont: 
+marais dartimont: 
   city: "marais d'artimont"
   accentcity: "Marais d'Artimont"
 marais de crothiere: 
@@ -27366,7 +27366,7 @@ mery:
 mesen: 
   city: "mesen"
   accentcity: "Mesen"
-meslin-l'eveque: 
+meslin-leveque: 
   city: "meslin-l'eveque"
   accentcity: "Meslin-l'Eveque"
 mesnil-eglise: 
@@ -28161,7 +28161,7 @@ mont de houx:
 mont de la justice: 
   city: "mont de la justice"
   accentcity: "Mont de la Justice"
-mont d'ellezelles: 
+mont dellezelles: 
   city: "mont d'ellezelles"
   accentcity: "Mont d'Ellezelles"
 mont de mousny: 
@@ -29463,7 +29463,7 @@ niel-bij-sint-truiden:
 niel: 
   city: "niel"
   accentcity: "Niel"
-niel-pres-d'asch: 
+niel-pres-dasch: 
   city: "niel-pres-d'asch"
   accentcity: "Niel-pres-d'Asch"
 niel-saint-trond: 
@@ -30123,7 +30123,7 @@ offus:
 ognee: 
   city: "ognee"
   accentcity: "Ognée"
-ogn'e: 
+ogne: 
   city: "ogn'e"
   accentcity: "Ogn'e"
 ogy: 
@@ -31065,7 +31065,7 @@ outgaarden:
 outre dendre: 
   city: "outre dendre"
   accentcity: "Outre Dendre"
-outre l'eau: 
+outre leau: 
   city: "outre l'eau"
   accentcity: "Outre l'Eau"
 outrelouxhe: 
@@ -31182,10 +31182,10 @@ overlaar:
 overlaer: 
   city: "overlaer"
   accentcity: "Overlaer"
-overlede 't fort: 
+overlede t fort: 
   city: "overlede 't fort"
   accentcity: "Overlede 't Fort"
-overleede 't fort: 
+overleede t fort: 
   city: "overleede 't fort"
   accentcity: "Overleede 't Fort"
 overmeire: 
@@ -31296,7 +31296,7 @@ padde poelen:
 paddestraat: 
   city: "paddestraat"
   accentcity: "Paddestraat"
-pa d'la l'eau: 
+pa dla leau: 
   city: "pa d'la l'eau"
   accentcity: "Pa d'la l'Eau"
 padraye: 
@@ -31458,7 +31458,7 @@ parcq:
 pardassenhoek: 
   city: "pardassenhoek"
   accentcity: "Pardassenhoek"
-par de la l'eau: 
+par de la leau: 
   city: "par de la l'eau"
   accentcity: "Par de la l'Eau"
 parelsberg: 
@@ -32115,7 +32115,7 @@ petrieux:
 pettignies: 
   city: "pettignies"
   accentcity: "Pettignies"
-peu d'eau: 
+peu deau: 
   city: "peu d'eau"
   accentcity: "Peu d'Eau"
 peulis: 
@@ -32370,10 +32370,10 @@ plaat:
 plaatsbeke: 
   city: "plaatsbeke"
   accentcity: "Plaatsbeke"
-place a l'aulnoit: 
+place a laulnoit: 
   city: "place a l'aulnoit"
   accentcity: "Place a l'Aulnoit"
-place a l'aunois: 
+place a launois: 
   city: "place a l'aunois"
   accentcity: "Place A L'Aunois"
 plachette: 
@@ -32397,7 +32397,7 @@ plainevaux:
 plancenoit: 
   city: "plancenoit"
   accentcity: "Plancenoit"
-planche a l'aune: 
+planche a laune: 
   city: "planche a l'aune"
   accentcity: "Planche a l'Aune"
 planche au pecheur: 
@@ -32760,10 +32760,10 @@ pont-a-celles:
 pont a chin: 
   city: "pont a chin"
   accentcity: "Pont à Chin"
-pont-a-l'haie: 
+pont-a-lhaie: 
   city: "pont-a-l'haie"
   accentcity: "Pont-a-l'Haie"
-pont-a-l'haye: 
+pont-a-lhaye: 
   city: "pont-a-l'haye"
   accentcity: "Pont-A-L'Haye"
 pont a migneloux: 
@@ -32781,13 +32781,13 @@ pont aux rieux:
 pont-brule: 
   city: "pont-brule"
   accentcity: "Pont-Br\xC3\xBBlé"
-pont d'ancre: 
+pont dancre: 
   city: "pont d'ancre"
   accentcity: "Pont d'Ancre"
 pont d boesinghe: 
   city: "pont d boesinghe"
   accentcity: "Pont d Boesinghe"
-pont d'eau: 
+pont deau: 
   city: "pont d'eau"
   accentcity: "Pont d'Eau"
 pont de bonne: 
@@ -33057,10 +33057,10 @@ pre carnet:
 pre colot: 
   city: "pre colot"
   accentcity: "Pré Colot"
-pre d'amite: 
+pre damite: 
   city: "pre d'amite"
   accentcity: "Pre d'Amite"
-pre de l'oie: 
+pre de loie: 
   city: "pre de l'oie"
   accentcity: "Pre de l'Oie"
 pre des forges: 
@@ -33414,7 +33414,7 @@ quatre vents:
 quatre verges: 
   city: "quatre verges"
   accentcity: "Quatre Verges"
-quemanne d'atrin: 
+quemanne datrin: 
   city: "quemanne d'atrin"
   accentcity: "Quemanne d'Atrin"
 quenast: 
@@ -33453,7 +33453,7 @@ quesnoy:
 queue de lerche: 
   city: "queue de lerche"
   accentcity: "Queue de Lerche"
-queue de l'herze: 
+queue de lherze: 
   city: "queue de l'herze"
   accentcity: "Queue de l'Herze"
 queue de rance: 
@@ -34353,7 +34353,7 @@ rick:
 riconvert: 
   city: "riconvert"
   accentcity: "Riconvert"
-ri d'hez: 
+ri dhez: 
   city: "ri d'hez"
   accentcity: "Ri d'Hez"
 riek: 
@@ -34533,7 +34533,7 @@ riscoterie:
 riscotrie: 
   city: "riscotrie"
   accentcity: "Riscotrie"
-risqu'a-tout: 
+risqua-tout: 
   city: "risqu'a-tout"
   accentcity: "Risqu'a-Tout"
 risquons tout: 
@@ -34566,7 +34566,7 @@ rixhalle:
 rixingen: 
   city: "rixingen"
   accentcity: "Rixingen"
-riz d'hez: 
+riz dhez: 
   city: "riz d'hez"
   accentcity: "Riz d'Hez"
 rizoi: 
@@ -34629,7 +34629,7 @@ roche a frene:
 roche-a-fresne: 
   city: "roche-a-fresne"
   accentcity: "Roche-a-Fresne"
-roche a l'homme: 
+roche a lhomme: 
   city: "roche a l'homme"
   accentcity: "Roche a l'Homme"
 roche du chat: 
@@ -35505,10 +35505,10 @@ ruddervoorde:
 rue-au-bois: 
   city: "rue-au-bois"
   accentcity: "Rue-au-Bois"
-rue d'enfer: 
+rue denfer: 
   city: "rue d'enfer"
   accentcity: "Rue d'Enfer"
-rue d'en haut: 
+rue den haut: 
   city: "rue d'en haut"
   accentcity: "Rue d'en Haut"
 rue de viane: 
@@ -35958,7 +35958,7 @@ saint-jean:
 saint-jean sart: 
   city: "saint-jean sart"
   accentcity: "Saint-Jean Sart"
-saint-job-in 't-goor: 
+saint-job-in t-goor: 
   city: "saint-job-in 't-goor"
   accentcity: "Saint-Job-in 't-Goor"
 saint-job: 
@@ -36228,10 +36228,10 @@ sart-custinne:
 sart-dames-avelines: 
   city: "sart-dames-avelines"
   accentcity: "Sart-Dames-Avelines"
-sart d'avril: 
+sart davril: 
   city: "sart d'avril"
   accentcity: "Sart d'Avril"
-sart d'hainaut: 
+sart dhainaut: 
   city: "sart d'hainaut"
   accentcity: "Sart d'Hainaut"
 sart-en-fagne: 
@@ -36375,7 +36375,7 @@ savoie:
 savy: 
   city: "savy"
   accentcity: "Savy"
-s'berchamp: 
+sberchamp: 
   city: "s'berchamp"
   accentcity: "S'berchamp"
 sberchamps: 
@@ -37326,7 +37326,7 @@ seyshoek:
 shomberg: 
   city: "shomberg"
   accentcity: "Shomberg"
-s'hondshuffel: 
+shondshuffel: 
   city: "s'hondshuffel"
   accentcity: "S'hondshuffel"
 siberg: 
@@ -37593,7 +37593,7 @@ sint janswyk:
 sint-jan ter biezen: 
   city: "sint-jan ter biezen"
   accentcity: "Sint-Jan ter Biezen"
-sint-job-in-'t-goor: 
+sint-job-in-t-goor: 
   city: "sint-job-in-'t-goor"
   accentcity: "Sint-Job-in-'t-Goor"
 sint-job: 
@@ -38379,7 +38379,7 @@ sourdeau:
 souret: 
   city: "souret"
   accentcity: "Souret"
-sous l'abbaye: 
+sous labbaye: 
   city: "sous l'abbaye"
   accentcity: "Sous l'Abbaye"
 sous le bois: 
@@ -39528,7 +39528,7 @@ tacfesse:
 tahier: 
   city: "tahier"
   accentcity: "Tahier"
-taille a l'auniau: 
+taille a launiau: 
   city: "taille a l'auniau"
   accentcity: "Taille a l'Auniau"
 taille des bolles: 
@@ -40266,7 +40266,7 @@ thommen:
 thon: 
   city: "thon"
   accentcity: "Thon"
-t'hooge: 
+thooge: 
   city: "t'hooge"
   accentcity: "t'Hooge"
 "'t hooghe": 
@@ -40815,10 +40815,10 @@ trieu bouchaux:
 trieu cousme: 
   city: "trieu cousme"
   accentcity: "Trieu Cousme"
-trieu-d'avillon-fays: 
+trieu-davillon-fays: 
   city: "trieu-d'avillon-fays"
   accentcity: "Trieu-d'Avillon-Fays"
-trieu d'avillon: 
+trieu davillon: 
   city: "trieu d'avillon"
   accentcity: "Trieu d'Avillon"
 trieu de dinant: 
@@ -41058,7 +41058,7 @@ try-de-froye:
 try de froy: 
   city: "try de froy"
   accentcity: "Try de Froy"
-try d'haies: 
+try dhaies: 
   city: "try d'haies"
   accentcity: "Try d'Haies"
 try haut: 
@@ -42183,7 +42183,7 @@ villers-le-peuplier:
 villers-le-temple: 
   city: "villers-le-temple"
   accentcity: "Villers-le-Temple"
-villers-l'eveque: 
+villers-leveque: 
   city: "villers-l'eveque"
   accentcity: "Villers-l'Eveque"
 villers-lez-heest: 
@@ -42297,7 +42297,7 @@ vinrut:
 vi pays: 
   city: "vi pays"
   accentcity: "V\xC3\xAE Pays"
-viree a l'goufre: 
+viree a lgoufre: 
   city: "viree a l'goufre"
   accentcity: "Viree a l'Goufre"
 viree de la basse voie: 
@@ -42405,7 +42405,7 @@ vive-saint-eloi:
 vivier coulon: 
   city: "vivier coulon"
   accentcity: "Vivier Coulon"
-vivier d'oie: 
+vivier doie: 
   city: "vivier d'oie"
   accentcity: "Vivier d'Oie"
 vivier le duc: 
@@ -43476,7 +43476,7 @@ wareslag:
 waret-la-chaussee: 
   city: "waret-la-chaussee"
   accentcity: "Waret-la-Chaussée"
-waret-l'eveque: 
+waret-leveque: 
   city: "waret-l'eveque"
   accentcity: "Waret-l'Eveque"
 warfee: 

@@ -864,7 +864,7 @@ ashtaj:
 ashte: 
   city: "ashte"
   accentcity: "Ashtë"
-asht' e likajt: 
+asht e likajt: 
   city: "asht' e likajt"
   accentcity: "Asht' e Likajt"
 asim-zenel: 
@@ -879,7 +879,7 @@ asllanaj:
 asrizaj: 
   city: "asrizaj"
   accentcity: "Asrizaj"
-au'lon: 
+aulon: 
   city: "au'lon"
   accentcity: "Au'lon"
 "a\xC2\x90usaj": 
@@ -1047,7 +1047,7 @@ babunje e veter:
 (( babunje e vjeter )): 
   city: "(( babunje e vjeter ))"
   accentcity: "(( Babunjë e Vjetër ))"
-babunj'e vjeter: 
+babunje vjeter: 
   city: "babunj'e vjeter"
   accentcity: "Babunj'e Vjetër"
 bacalek: 
@@ -2973,7 +2973,7 @@ bizhuta:
 bizhute: 
   city: "bizhute"
   accentcity: "Bizhutë"
-bjeshk' e bregut: 
+bjeshk e bregut: 
   city: "bjeshk' e bregut"
   accentcity: "Bjeshk' e Bregut"
 bjeshova: 
@@ -5562,7 +5562,7 @@ cermena:
 cerme-pasha: 
   city: "cerme-pasha"
   accentcity: "\xC3\x87ermë-Pasha"
-cerm' e pashajt: 
+cerm e pashajt: 
   city: "cerm' e pashajt"
   accentcity: "\xC3\x87erm' e Pashajt"
 cerme proshk: 
@@ -9261,7 +9261,7 @@ frakulle:
 frakull e madhe: 
   city: "frakull e madhe"
   accentcity: "Frakull e Madhe"
-frakull' e pashajt: 
+frakull e pashajt: 
   city: "frakull' e pashajt"
   accentcity: "Frakull' e Pashajt"
 frakull e vogel: 
@@ -9516,7 +9516,7 @@ fushe-alie:
 fushe alija: 
   city: "fushe alija"
   accentcity: "Fushe Alija"
-fush' e alijajt: 
+fush e alijajt: 
   city: "fush' e alijajt"
   accentcity: "Fush' e Alijajt"
 fushe-ares: 
@@ -9531,7 +9531,7 @@ fushe-arezi:
 fushe-arezit: 
   city: "fushe-arezit"
   accentcity: "Fushë-Arëzit"
-fush' e arrasit: 
+fush e arrasit: 
   city: "fush' e arrasit"
   accentcity: "Fush' e Arrasit"
 fushe-arresi: 
@@ -9573,7 +9573,7 @@ fushe-bull:
 fushe-bulli: 
   city: "fushe-bulli"
   accentcity: "Fushë-Bulli"
-fush' e bullit: 
+fush e bullit: 
   city: "fush' e bullit"
   accentcity: "Fush' e Bullit"
 fushe-bulqiza: 
@@ -9615,7 +9615,7 @@ fushe e vogel:
 fushe: 
   city: "fushe"
   accentcity: "Fushë"
-(( fush' e gjate )): 
+(( fush e gjate )): 
   city: "(( fush' e gjate ))"
   accentcity: "(( Fush' e Gjate ))"
 fushe-kastriot: 
@@ -9630,7 +9630,7 @@ fushe kruja:
 fushe-kruje: 
   city: "fushe-kruje"
   accentcity: "Fushë-Krujë"
-fush' e krujes: 
+fush e krujes: 
   city: "fush' e krujes"
   accentcity: "Fush' e Krujës"
 fushekuqe: 
@@ -9651,7 +9651,7 @@ fushe-lura:
 fushe-lure: 
   city: "fushe-lure"
   accentcity: "Fushë-Lurë"
-fush' e lures: 
+fush e lures: 
   city: "fush' e lures"
   accentcity: "Fush' e Lurës"
 fushe-mamurasi: 
@@ -9663,7 +9663,7 @@ fushe-mamurras:
 fushe-mamurrasi: 
   city: "fushe-mamurrasi"
   accentcity: "Fushë-Mamurrasi"
-fush' e marlanajt: 
+fush e marlanajt: 
   city: "fush' e marlanajt"
   accentcity: "Fush' e Marlanajt"
 fushe-milot: 
@@ -9699,7 +9699,7 @@ fushe-peshtan:
 fushe-peshtani: 
   city: "fushe-peshtani"
   accentcity: "Fushë-Peshtani"
-fush' e peshtanit: 
+fush e peshtanit: 
   city: "fush' e peshtanit"
   accentcity: "Fush' e Peshtanit"
 fushe-pjeshka: 
@@ -9714,10 +9714,10 @@ fushe-preza:
 fushe-preze: 
   city: "fushe-preze"
   accentcity: "Fushë-Prezë"
-fush'e qarrit: 
+fushe qarrit: 
   city: "fush'e qarrit"
   accentcity: "Fush'e Qarrit"
-fush' e ranges: 
+fush e ranges: 
   city: "fush' e ranges"
   accentcity: "Fush' e Rangës"
 fushetana: 
@@ -9726,7 +9726,7 @@ fushetana:
 fushetane: 
   city: "fushetane"
   accentcity: "Fushetanë"
-fush' e thate: 
+fush e thate: 
   city: "fush' e thate"
   accentcity: "Fush' e Thatë"
 fushe-verija: 
@@ -11943,7 +11943,7 @@ gramez:
 gramish: 
   city: "gramish"
   accentcity: "Gramish"
-gramish'i lushnjes: 
+gramishi lushnjes: 
   city: "gramish'i lushnjes"
   accentcity: "Gramish'i Lushnjes"
 gramschi: 
@@ -12441,7 +12441,7 @@ gryke e vogel:
 gryke: 
   city: "gryke"
   accentcity: "Grykë"
-gryk' e kolshit: 
+gryk e kolshit: 
   city: "gryk' e kolshit"
   accentcity: "Gryk' e Kolshit"
 gryke lume: 
@@ -12450,7 +12450,7 @@ gryke lume:
 gryke lumi: 
   city: "gryke lumi"
   accentcity: "Grykë Lumi"
-gryk' e lumit: 
+gryk e lumit: 
   city: "gryk' e lumit"
   accentcity: "Gryk' e Lumit"
 gryke-manatia: 
@@ -12462,7 +12462,7 @@ gryke-manati:
 gryke-ndokaj: 
   city: "gryke-ndokaj"
   accentcity: "Grykë-Ndokaj"
-gryk' e ndokajt: 
+gryk e ndokajt: 
   city: "gryk' e ndokajt"
   accentcity: "Gryk' e Ndokajt"
 gryke-noka: 
@@ -12798,10 +12798,10 @@ gurre:
 gurreje: 
   city: "gurreje"
   accentcity: "Gurrejë"
-gurr' e madhe: 
+gurr e madhe: 
   city: "gurr' e madhe"
   accentcity: "Gurr' e Madhë"
-gurr' e recit: 
+gurr e recit: 
   city: "gurr' e recit"
   accentcity: "Gurr' e Reçit"
 gurres: 
@@ -12816,7 +12816,7 @@ gurresi:
 gurrespate: 
   city: "gurrespate"
   accentcity: "Gurrëspate"
-gurr' e vogel: 
+gurr e vogel: 
   city: "gurr' e vogel"
   accentcity: "Gurr' e Vogel"
 gurrez: 
@@ -15555,7 +15555,7 @@ karma eperme:
 karma: 
   city: "karma"
   accentcity: "Karma"
-karme' e eper: 
+karme e eper: 
   city: "karme' e eper"
   accentcity: "Karme' e Epër"
 karme e eperme: 
@@ -16308,7 +16308,7 @@ kishe-arre:
 kishe-kllogjen: 
   city: "kishe-kllogjen"
   accentcity: "Kishe-Kllogjen"
-kish' e shkrelit: 
+kish e shkrelit: 
   city: "kish' e shkrelit"
   accentcity: "Kish' e Shkrelit"
 kishta: 
@@ -18498,7 +18498,7 @@ kulle:
 kulleni: 
   city: "kulleni"
   accentcity: "Kulleni"
-kull' e paprit: 
+kull e paprit: 
   city: "kull' e paprit"
   accentcity: "Kull' e Paprit"
 kullesh: 
@@ -19848,10 +19848,10 @@ leshnice e siperme:
 leshnice: 
   city: "leshnice"
   accentcity: "Leshnicë"
-leshnic' e poshteme: 
+leshnic e poshteme: 
   city: "leshnic' e poshteme"
   accentcity: "Leshnic' e Poshtëme"
-leshnic' e siperme: 
+leshnic e siperme: 
   city: "leshnic' e siperme"
   accentcity: "Leshnic' e Sipërme"
 leshni: 
@@ -21306,7 +21306,7 @@ lure e eper:
 lure e vjeter: 
   city: "lure e vjeter"
   accentcity: "Lurë e Vjetër"
-lur' e vjeter: 
+lur e vjeter: 
   city: "lur' e vjeter"
   accentcity: "Lur' e Vjetër"
 lurja: 
@@ -21387,7 +21387,7 @@ luzi:
 luz i madh: 
   city: "luz i madh"
   accentcity: "Luz i Madh"
-luz'-i math: 
+luz-i math: 
   city: "luz'-i math"
   accentcity: "Luz'-i math"
 luz i vogel: 
@@ -21498,25 +21498,25 @@ mahalla e ures:
 mahalla viles: 
   city: "mahalla viles"
   accentcity: "Mahalla Vilës"
-mahall' e dervishajt: 
+mahall e dervishajt: 
   city: "mahall' e dervishajt"
   accentcity: "Mahall' e Dervishajt"
 mahalle e mucajt: 
   city: "mahalle e mucajt"
   accentcity: "Mahalle e Muçajt"
-mahall' e kryethuit: 
+mahall e kryethuit: 
   city: "mahall' e kryethuit"
   accentcity: "Mahall' e Kryethuit"
-mahall' e qafes: 
+mahall e qafes: 
   city: "mahall' e qafes"
   accentcity: "Mahall' e Qafës"
-mahall' e stenit: 
+mahall e stenit: 
   city: "mahall' e stenit"
   accentcity: "Mahall' e Stenit"
-mahall' e ures: 
+mahall e ures: 
   city: "mahall' e ures"
   accentcity: "Mahall' e Urës"
-mahall' e vnit: 
+mahall e vnit: 
   city: "mahall' e vnit"
   accentcity: "Mahall' e Vnit"
 mahje-e vogel: 
@@ -21723,7 +21723,7 @@ maleshov:
 mal-gjepal: 
   city: "mal-gjepal"
   accentcity: "Mal-Gjepal"
-mal' i barda: 
+mal i barda: 
   city: "mal' i barda"
   accentcity: "Mal' i Barda"
 (( mali-bardhe )): 
@@ -21798,10 +21798,10 @@ mal i kakarriqit:
 mali kolaj: 
   city: "mali kolaj"
   accentcity: "Mali Kolaj"
-mal' i kolajt: 
+mal i kolajt: 
   city: "mal' i kolajt"
   accentcity: "Mal' i Kolajt"
-mal' i kug: 
+mal i kug: 
   city: "mal' i kug"
   accentcity: "Mal' i Kug"
 mali-leza: 
@@ -22950,13 +22950,13 @@ mehalla qafes:
 mehall e llalles: 
   city: "mehall e llalles"
   accentcity: "Mëhall e Llallës"
-mehall' e merhojes: 
+mehall e merhojes: 
   city: "mehall' e merhojes"
   accentcity: "Mëhall' e Merhojës"
-mehall' e shkrambit: 
+mehall e shkrambit: 
   city: "mehall' e shkrambit"
   accentcity: "Mehall' e Shkrambit"
-mehall' e xhamis: 
+mehall e xhamis: 
   city: "mehall' e xhamis"
   accentcity: "Mëhall' e Xhamis"
 mehalleza: 
@@ -22998,7 +22998,7 @@ mekati i ii-te:
 mekati i ire: 
   city: "mekati i ire"
   accentcity: "Mëkati i Irë"
-mekat' i iite: 
+mekat i iite: 
   city: "mekat' i iite"
   accentcity: "Mekat' i IItë"
 mekati i pare: 
@@ -24117,7 +24117,7 @@ mollekuqja:
 (( molle )): 
   city: "(( molle ))"
   accentcity: "(( Mollë ))"
-moll' e shoshit: 
+moll e shoshit: 
   city: "moll' e shoshit"
   accentcity: "Moll' e Shoshit"
 mollkeq: 
@@ -25053,7 +25053,7 @@ ndermanasi:
 ndermarrja bujqesore maliq: 
   city: "ndermarrja bujqesore maliq"
   accentcity: "Ndërmarrja Bujqësore Maliq"
-ndermarrje bujqesore shteterore 'maliq': 
+ndermarrje bujqesore shteterore maliq: 
   city: "ndermarrje bujqesore shteterore 'maliq'"
   accentcity: "Ndermarrje Bujqësore Shtetërore 'Maliq'"
 ndermenaj: 
@@ -26580,7 +26580,7 @@ paravanas:
 parec: 
   city: "parec"
   accentcity: "Pareç"
-parpun'e: 
+parpune: 
   city: "parpun'e"
   accentcity: "Parpun'ë"
 parpunje: 
@@ -31923,7 +31923,7 @@ samrishti i siperm:
 samrisht i poshtem: 
   city: "samrisht i poshtem"
   accentcity: "Samrisht i Poshtëm"
-samrisht' i poshter: 
+samrisht i poshter: 
   city: "samrisht' i poshter"
   accentcity: "Samrisht' i Poshtër"
 samrisht i ri: 
@@ -31932,7 +31932,7 @@ samrisht i ri:
 samrishti: 
   city: "samrishti"
   accentcity: "Samrishti"
-samrisht' i siperme: 
+samrisht i siperme: 
   city: "samrisht' i siperme"
   accentcity: "Samrisht' i Sipërmë"
 samrisht i siperm: 
@@ -32322,19 +32322,19 @@ selce e poshtme:
 selce e siperme: 
   city: "selce e siperme"
   accentcity: "Selcë e Sipërme"
-selc' e gores: 
+selc e gores: 
   city: "selc' e gores"
   accentcity: "Selc' e Gorës"
 selc e poshteme: 
   city: "selc e poshteme"
   accentcity: "Selc e Poshtëme"
-selc' e poshtme: 
+selc e poshtme: 
   city: "selc' e poshtme"
   accentcity: "Selc' e Poshtme"
 selce: 
   city: "selce"
   accentcity: "Selcë"
-selc' e siperme: 
+selc e siperme: 
   city: "selc' e siperme"
   accentcity: "Selc' e Sipërme"
 selcet: 
@@ -32448,7 +32448,7 @@ selite e vogel:
 selit e kece: 
   city: "selit e kece"
   accentcity: "Selit e Kece"
-selit'e madhe: 
+selite madhe: 
   city: "selit'e madhe"
   accentcity: "Selit'e Madhë"
 selite mali: 
@@ -33984,7 +33984,7 @@ shmili:
 shmria: 
   city: "shmria"
   accentcity: "Shmria"
-sh'njini: 
+shnjini: 
   city: "sh'njini"
   accentcity: "Sh'njini"
 shopeli: 
@@ -34071,7 +34071,7 @@ shpat:
 shpatza e godoleshit: 
   city: "shpatza e godoleshit"
   accentcity: "Shpatza e Godoleshit"
-shpatz' e godoleshit: 
+shpatz e godoleshit: 
   city: "shpatz' e godoleshit"
   accentcity: "Shpatz' e Godoleshit"
 shpella: 
@@ -34125,7 +34125,7 @@ shpor:
 shpoza: 
   city: "shpoza"
   accentcity: "Shpoza"
-sh' prende: 
+sh prende: 
   city: "sh' prende"
   accentcity: "Sh' Prende"
 shqarthi: 
@@ -36978,10 +36978,10 @@ tozhari:
 tozhar: 
   city: "tozhar"
   accentcity: "Tozhar"
-t'plan-dushaj: 
+tplan-dushaj: 
   city: "t'plan-dushaj"
   accentcity: "T'plan-Dushaj"
-t'plani: 
+tplani: 
   city: "t'plani"
   accentcity: "T'plani"
 tplan: 
@@ -37785,13 +37785,13 @@ ura-vaygurore:
 ure e shtrenjte: 
   city: "ure e shtrenjte"
   accentcity: "Urë e Shtrenjtë"
-ur'e hasan beut: 
+ure hasan beut: 
   city: "ur'e hasan beut"
   accentcity: "Ur'e Hasan Beut"
-ur' e shtrejte: 
+ur e shtrejte: 
   city: "ur' e shtrejte"
   accentcity: "Ur' e Shtrejtë"
-ur' e shtrenjte: 
+ur e shtrenjte: 
   city: "ur' e shtrenjte"
   accentcity: "Ur' e Shtrenjtë"
 ure: 
@@ -40002,10 +40002,10 @@ vuksanaj:
 vuksanay: 
   city: "vuksanay"
   accentcity: "Vuksanay"
-vuk'yakay: 
+vukyakay: 
   city: "vuk'yakay"
   accentcity: "Vuk'yakay"
-vuk'yakkay-gegay: 
+vukyakkay-gegay: 
   city: "vuk'yakkay-gegay"
   accentcity: "Vuk'yakkay-Gegay"
 vukzanai: 

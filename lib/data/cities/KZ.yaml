@@ -12,7 +12,7 @@
 15 let kazakhstana: 
   city: "15 let kazakhstana"
   accentcity: "15 Let Kazakhstana"
-18 parts''yezd: 
+18 partsyezd: 
   city: "18 parts''yezd"
   accentcity: "18 Parts''yezd"
 1-e maya: 
@@ -60,7 +60,7 @@ abdem:
 abdem omar: 
   city: "abdem omar"
   accentcity: "Abdem Omar"
-abdrakhman-mechet': 
+abdrakhman-mechet: 
   city: "abdrakhman-mechet'"
   accentcity: "Abdrakhman-Mechet'"
 abdybulak: 
@@ -69,10 +69,10 @@ abdybulak:
 abdyem: 
   city: "abdyem"
   accentcity: "Abdyem"
-abeken': 
+abeken: 
   city: "abeken'"
   accentcity: "Abeken'"
-abel'-mula: 
+abel-mula: 
   city: "abel'-mula"
   accentcity: "Abel'-Mula"
 abinsk: 
@@ -168,7 +168,7 @@ adaytobe:
 adebiyet: 
   city: "adebiyet"
   accentcity: "Adebiyet"
-adel'bek: 
+adelbek: 
   city: "adel'bek"
   accentcity: "Adel'bek"
 adykbay: 
@@ -177,19 +177,19 @@ adykbay:
 adyr: 
   city: "adyr"
   accentcity: "Adyr"
-ad'zhan-adyrskiy: 
+adzhan-adyrskiy: 
   city: "ad'zhan-adyrskiy"
   accentcity: "Ad'zhan-adyrskiy"
-afanas'evka: 
+afanasevka: 
   city: "afanas'evka"
   accentcity: "Afanas'evka"
-afanas'yevka: 
+afanasyevka: 
   city: "afanas'yevka"
   accentcity: "Afanas'yevka"
-afon'kino: 
+afonkino: 
   city: "afon'kino"
   accentcity: "Afon'kino"
-agadyr': 
+agadyr: 
   city: "agadyr'"
   accentcity: "Agadyr'"
 aganas: 
@@ -216,10 +216,10 @@ agash-aryk:
 agashoryn: 
   city: "agashoryn"
   accentcity: "Agashoryn"
-agashtykol': 
+agashtykol: 
   city: "agashtykol'"
   accentcity: "Agashtykol'"
-agashty-kul': 
+agashty-kul: 
   city: "agashty-kul'"
   accentcity: "Agashty-Kul'"
 agatan: 
@@ -279,10 +279,10 @@ ain-kuduk-kazbek:
 ain-kuduk-kazbyek: 
   city: "ain-kuduk-kazbyek"
   accentcity: "Ain-Kuduk-Kazbyek"
-airkol': 
+airkol: 
   city: "airkol'"
   accentcity: "Airkol'"
-airkul'skiy: 
+airkulskiy: 
   city: "airkul'skiy"
   accentcity: "Airkul'skiy"
 airkum: 
@@ -345,7 +345,7 @@ akbeim:
 akbeit: 
   city: "akbeit"
   accentcity: "Akbeit"
-akbel': 
+akbel: 
   city: "akbel'"
   accentcity: "Akbel'"
 akbent: 
@@ -378,7 +378,7 @@ ak-chaganak:
 akchaganskiy: 
   city: "akchaganskiy"
   accentcity: "Akchaganskiy"
-akchakol': 
+akchakol: 
   city: "akchakol'"
   accentcity: "Akchakol'"
 akchatan: 
@@ -390,7 +390,7 @@ akchatau:
 akchataul: 
   city: "akchataul"
   accentcity: "Akchataul"
-ak chechen': 
+ak chechen: 
   city: "ak chechen'"
   accentcity: "Ak Chechen'"
 akchi: 
@@ -549,10 +549,10 @@ akkisi:
 akkiztogay: 
   city: "akkiztogay"
   accentcity: "Akkiztogay"
-akkol': 
+akkol: 
   city: "akkol'"
   accentcity: "Akkol'"
-akkol'skiy: 
+akkolskiy: 
   city: "akkol'skiy"
   accentcity: "Akkol'skiy"
 akkoltyk: 
@@ -588,19 +588,19 @@ ak-kuduk:
 akkudukskiy: 
   city: "akkudukskiy"
   accentcity: "Akkudukskiy"
-ak-kul': 
+ak-kul: 
   city: "ak-kul'"
   accentcity: "Ak-Kul'"
-akkul': 
+akkul: 
   city: "akkul'"
   accentcity: "Akkul'"
 akkulaksayskiy: 
   city: "akkulaksayskiy"
   accentcity: "Akkulaksayskiy"
-akkul'kystau: 
+akkulkystau: 
   city: "akkul'kystau"
   accentcity: "Akkul'kystau"
-akkul'skiy: 
+akkulskiy: 
   city: "akkul'skiy"
   accentcity: "Akkul'skiy"
 akkum: 
@@ -651,7 +651,7 @@ akmarka:
 akmaya: 
   city: "akmaya"
   accentcity: "Akmaya"
-ak-mechet': 
+ak-mechet: 
   city: "ak-mechet'"
   accentcity: "Ak-Mechet'"
 akmeshit: 
@@ -687,7 +687,7 @@ akmurza:
 akoba: 
   city: "akoba"
   accentcity: "Akoba"
-ak-otkel': 
+ak-otkel: 
   city: "ak-otkel'"
   accentcity: "Ak-Otkel'"
 akozek: 
@@ -768,7 +768,7 @@ aksha:
 akshaganak: 
   city: "akshaganak"
   accentcity: "Akshaganak"
-akshakol': 
+akshakol: 
   city: "akshakol'"
   accentcity: "Akshakol'"
 akshala: 
@@ -993,13 +993,13 @@ ak-tyubek:
 aktyubinsk: 
   city: "aktyubinsk"
   accentcity: "Aktyubinsk"
-akul'kstav: 
+akulkstav: 
   city: "akul'kstav"
   accentcity: "Akul'kstav"
 akulovka: 
   city: "akulovka"
   accentcity: "Akulovka"
-ak-utkel': 
+ak-utkel: 
   city: "ak-utkel'"
   accentcity: "Ak-Utkel'"
 ak-uzyak: 
@@ -1074,13 +1074,13 @@ alabiye:
 alabota: 
   city: "alabota"
   accentcity: "Alabota"
-alakol': 
+alakol: 
   city: "alakol'"
   accentcity: "Alakol'"
 alakol: 
   city: "alakol"
   accentcity: "Alak\xC3\xB6l"
-ala-kul': 
+ala-kul: 
   city: "ala-kul'"
   accentcity: "Ala-Kul'"
 alam: 
@@ -1113,10 +1113,10 @@ alautar:
 albar-bugut: 
   city: "albar-bugut"
   accentcity: "Albar-Bugut"
-al'by: 
+alby: 
   city: "al'by"
   accentcity: "Al'by"
-al'dzhan-adyrovskaya: 
+aldzhan-adyrovskaya: 
   city: "al'dzhan-adyrovskaya"
   accentcity: "Al'dzhan-adyrovskaya"
 alebastr: 
@@ -1269,7 +1269,7 @@ alma-atinskiy:
 almaly: 
   city: "almaly"
   accentcity: "Almaly"
-al'manbyuruk: 
+almanbyuruk: 
   city: "al'manbyuruk"
   accentcity: "Al'manbyuruk"
 almas: 
@@ -1293,10 +1293,10 @@ almazny:
 almaznyy: 
   city: "almaznyy"
   accentcity: "Almaznyy"
-al'mene: 
+almene: 
   city: "al'mene"
   accentcity: "Al'mene"
-al'paysay: 
+alpaysay: 
   city: "al'paysay"
   accentcity: "Al'paysay"
 alpsatar: 
@@ -1311,16 +1311,16 @@ alqaterek:
 alseid: 
   city: "alseid"
   accentcity: "Alseid"
-al'shanka: 
+alshanka: 
   city: "al'shanka"
   accentcity: "Al'shanka"
 alshimbay: 
   city: "alshimbay"
   accentcity: "Alshimbay"
-al'shin: 
+alshin: 
   city: "al'shin"
   accentcity: "Al'shin"
-al'-syt: 
+al-syt: 
   city: "al'-syt"
   accentcity: "Al'-Syt"
 alta-apan: 
@@ -1353,7 +1353,7 @@ alteke:
 altin-emel: 
   city: "altin-emel"
   accentcity: "Altin-Emel"
-alton-emel': 
+alton-emel: 
   city: "alton-emel'"
   accentcity: "Alton-Emel'"
 altyapan: 
@@ -1371,7 +1371,7 @@ altykarasu:
 altykiben: 
   city: "altykiben"
   accentcity: "Altykiben"
-altykol': 
+altykol: 
   city: "altykol'"
   accentcity: "Altykol'"
 altyn-aryk: 
@@ -1389,7 +1389,7 @@ altyndy:
 altynemel: 
   city: "altynemel"
   accentcity: "Altynemel"
-altyn-emel'skaya: 
+altyn-emelskaya: 
   city: "altyn-emel'skaya"
   accentcity: "Altyn-Emel'skaya"
 altynsarin: 
@@ -1413,25 +1413,25 @@ altyqarasu:
 alua: 
   city: "alua"
   accentcity: "Alua"
-al'va: 
+alva: 
   city: "al'va"
   accentcity: "Al'va"
 alyp: 
   city: "alyp"
   accentcity: "Alyp"
-alyskol': 
+alyskol: 
   city: "alyskol'"
   accentcity: "Alyskol'"
-al'zhan: 
+alzhan: 
   city: "al'zhan"
   accentcity: "Al'zhan"
-al'zhanka: 
+alzhanka: 
   city: "al'zhanka"
   accentcity: "Al'zhanka"
 alzhibay: 
   city: "alzhibay"
   accentcity: "Alzhibay"
-amakkol': 
+amakkol: 
   city: "amakkol'"
   accentcity: "Amakkol'"
 amancha-shalach: 
@@ -1455,13 +1455,13 @@ amangeldi:
 amangeldin: 
   city: "amangeldin"
   accentcity: "Amangeldin"
-amangel'dinskiy: 
+amangeldinskiy: 
   city: "amangel'dinskiy"
   accentcity: "Amangel'dinskiy"
-amangel'dinskoye: 
+amangeldinskoye: 
   city: "amangel'dinskoye"
   accentcity: "Amangel'dinskoye"
-amangel'dy: 
+amangeldy: 
   city: "amangel'dy"
   accentcity: "Amangel'dy"
 amangeldy: 
@@ -1476,13 +1476,13 @@ amankeldi:
 amankeldy: 
   city: "amankeldy"
   accentcity: "Amankeldy"
-amankol': 
+amankol: 
   city: "amankol'"
   accentcity: "Amankol'"
-amankul': 
+amankul: 
   city: "amankul'"
   accentcity: "Amankul'"
-amanotkel': 
+amanotkel: 
   city: "amanotkel'"
   accentcity: "Amanotkel'"
 amanotkel: 
@@ -1506,16 +1506,16 @@ amantogay:
 amantoghay: 
   city: "amantoghay"
   accentcity: "Amantoghay"
-amantokel': 
+amantokel: 
   city: "amantokel'"
   accentcity: "Amantokel'"
 aman-tyube: 
   city: "aman-tyube"
   accentcity: "Aman-Tyube"
-amanutkol': 
+amanutkol: 
   city: "amanutkol'"
   accentcity: "Amanutkol'"
-aman-utkul': 
+aman-utkul: 
   city: "aman-utkul'"
   accentcity: "Aman-Utkul'"
 amanzhol: 
@@ -1542,31 +1542,31 @@ anaas:
 ananovka: 
   city: "ananovka"
   accentcity: "Ananovka"
-anan'yevka: 
+ananyevka: 
   city: "anan'yevka"
   accentcity: "Anan'yevka"
-anan'yevskiy: 
+ananyevskiy: 
   city: "anan'yevskiy"
   accentcity: "Anan'yevskiy"
 anar: 
   city: "anar"
   accentcity: "Anar"
-anastas'evka: 
+anastasevka: 
   city: "anastas'evka"
   accentcity: "Anastas'evka"
-anastas'yevka: 
+anastasyevka: 
   city: "anastas'yevka"
   accentcity: "Anastas'yevka"
-anastas'yevskiy: 
+anastasyevskiy: 
   city: "anastas'yevskiy"
   accentcity: "Anastas'yevskiy"
 anatoliyevka: 
   city: "anatoliyevka"
   accentcity: "Anatoliyevka"
-anatol'yevka: 
+anatolyevka: 
   city: "anatol'yevka"
   accentcity: "Anatol'yevka"
-anatol'yevskoye: 
+anatolyevskoye: 
   city: "anatol'yevskoye"
   accentcity: "Anatol'yevskoye"
 andagay: 
@@ -1653,10 +1653,10 @@ annenskiy:
 annovka: 
   city: "annovka"
   accentcity: "Annovka"
-annul'skiy: 
+annulskiy: 
   city: "annul'skiy"
   accentcity: "Annul'skiy"
-antel'yetmola: 
+antelyetmola: 
   city: "antel'yetmola"
   accentcity: "Antel'yetmola"
 antonov: 
@@ -1683,7 +1683,7 @@ antovskiy:
 antropov: 
   city: "antropov"
   accentcity: "Antropov"
-apakul': 
+apakul: 
   city: "apakul'"
   accentcity: "Apakul'"
 apanovka: 
@@ -1866,7 +1866,7 @@ aralcha:
 aralda: 
   city: "aralda"
   accentcity: "Aralda"
-aralkol': 
+aralkol: 
   city: "aralkol'"
   accentcity: "Aralkol'"
 aralkol: 
@@ -1881,25 +1881,25 @@ aral sea:
 aralshiy: 
   city: "aralshiy"
   accentcity: "Aralshiy"
-aral'sk: 
+aralsk: 
   city: "aral'sk"
   accentcity: "Aral'sk"
-aral'skiy: 
+aralskiy: 
   city: "aral'skiy"
   accentcity: "Aral'skiy"
-aral'skoye: 
+aralskoye: 
   city: "aral'skoye"
   accentcity: "Aral'skoye"
-aral'skoye more: 
+aralskoye more: 
   city: "aral'skoye more"
   accentcity: "Aral'skoye More"
-aralsol': 
+aralsol: 
   city: "aralsol'"
   accentcity: "Aralsol'"
 aralsor: 
   city: "aralsor"
   accentcity: "Aralsor"
-aralsul'fat: 
+aralsulfat: 
   city: "aralsul'fat"
   accentcity: "Aralsul'fat"
 araltal: 
@@ -1944,7 +1944,7 @@ aranchi-besh-sary:
 aranchi nomer tretiy: 
   city: "aranchi nomer tretiy"
   accentcity: "Aranchi Nomer Tretiy"
-aranchi tret'i: 
+aranchi treti: 
   city: "aranchi tret'i"
   accentcity: "Aranchi Tret'i"
 aran-ketau: 
@@ -1962,7 +1962,7 @@ arasanskiy:
 arbakoldy: 
   city: "arbakoldy"
   accentcity: "Arbakoldy"
-arbigen': 
+arbigen: 
   city: "arbigen'"
   accentcity: "Arbigen'"
 arbuzovskaya baza: 
@@ -2028,13 +2028,13 @@ arkatskiy:
 arkhangelka: 
   city: "arkhangelka"
   accentcity: "Arkhangelka"
-arkhangel'skiy: 
+arkhangelskiy: 
   city: "arkhangel'skiy"
   accentcity: "Arkhangel'skiy"
-arkhangel'skoe: 
+arkhangelskoe: 
   city: "arkhangel'skoe"
   accentcity: "Arkhangel'skoe"
-arkhangel'skoye: 
+arkhangelskoye: 
   city: "arkhangel'skoye"
   accentcity: "Arkhangel'skoye"
 arkharly: 
@@ -2094,7 +2094,7 @@ arshinov:
 arspek-turspek: 
   city: "arspek-turspek"
   accentcity: "Arspek-Turspek"
-artel' vostok: 
+artel vostok: 
   city: "artel' vostok"
   accentcity: "Artel' Vostok"
 artemovka: 
@@ -2139,10 +2139,10 @@ aryqty:
 arys: 
   city: "arys"
   accentcity: "Arys"
-arys': 
+arys: 
   city: "arys'"
   accentcity: "Arys'"
-arystankol': 
+arystankol: 
   city: "arystankol'"
   accentcity: "Arystankol'"
 arzhan: 
@@ -2166,7 +2166,7 @@ asanovo:
 as-arsyk: 
   city: "as-arsyk"
   accentcity: "As-Arsyk"
-asel'bek: 
+aselbek: 
   city: "asel'bek"
   accentcity: "Asel'bek"
 asenkritovka: 
@@ -2196,13 +2196,13 @@ ashanino:
 ashche-butak: 
   city: "ashche-butak"
   accentcity: "Ashche-Butak"
-ashchekol': 
+ashchekol: 
   city: "ashchekol'"
   accentcity: "Ashchekol'"
 ashche-kuduk: 
   city: "ashche-kuduk"
   accentcity: "Ashche-Kuduk"
-ashche-kum-kul': 
+ashche-kum-kul: 
   city: "ashche-kum-kul'"
   accentcity: "Ashche-Kum-Kul'"
 ashchelisay: 
@@ -2235,7 +2235,7 @@ ashchi-kara-su:
 ashchikesen: 
   city: "ashchikesen"
   accentcity: "Ashchikesen"
-ashchikol': 
+ashchikol: 
   city: "ashchikol'"
   accentcity: "Ashchikol'"
 ashchikuduk: 
@@ -2247,10 +2247,10 @@ ashchi-kuduk:
 ashchi kuduk: 
   city: "ashchi kuduk"
   accentcity: "Ashchi Kuduk"
-ashchi-kul': 
+ashchi-kul: 
   city: "ashchi-kul'"
   accentcity: "Ashchi-Kul'"
-ashchikul'skiy: 
+ashchikulskiy: 
   city: "ashchikul'skiy"
   accentcity: "Ashchikul'skiy"
 ashchilysay: 
@@ -2277,7 +2277,7 @@ ashchiy:
 ashchybulak: 
   city: "ashchybulak"
   accentcity: "Ashchybulak"
-ashchykol': 
+ashchykol: 
   city: "ashchykol'"
   accentcity: "Ashchykol'"
 ashchykol: 
@@ -2316,7 +2316,7 @@ asiy-stan:
 askar: 
   city: "askar"
   accentcity: "Askar"
-askchi-kul': 
+askchi-kul: 
   city: "askchi-kul'"
   accentcity: "Askchi-Kul'"
 aspara: 
@@ -2337,7 +2337,7 @@ assan-mulla:
 assay: 
   city: "assay"
   accentcity: "Assay"
-astaf'yev: 
+astafyev: 
   city: "astaf'yev"
   accentcity: "Astaf'yev"
 astakhovka: 
@@ -2409,13 +2409,13 @@ atamanskiy:
 atambek: 
   city: "atambek"
   accentcity: "Atambek"
-atambek-kul': 
+atambek-kul: 
   city: "atambek-kul'"
   accentcity: "Atambek-Kul'"
 atambekovskiy: 
   city: "atambekovskiy"
   accentcity: "Atambekovskiy"
-atam-kul'mak: 
+atam-kulmak: 
   city: "atam-kul'mak"
   accentcity: "Atam-Kul'mak"
 atash: 
@@ -2502,7 +2502,7 @@ aul:
 aul ayt-kozha: 
   city: "aul ayt-kozha"
   accentcity: "Aul Ayt-Kozha"
-aul batyr' bek: 
+aul batyr bek: 
   city: "aul batyr' bek"
   accentcity: "Aul Batyr' Bek"
 aul baubek: 
@@ -2541,7 +2541,7 @@ aul dosmambet:
 aul dyurt-sart: 
   city: "aul dyurt-sart"
   accentcity: "Aul Dyurt-Sart"
-aul dzharly-kul': 
+aul dzharly-kul: 
   city: "aul dzharly-kul'"
   accentcity: "Aul Dzharly-Kul'"
 aul dzhunis: 
@@ -2577,10 +2577,10 @@ aul kindzharyk:
 aul kopobay: 
   city: "aul kopobay"
   accentcity: "Aul Kopobay"
-aul kul'-bay: 
+aul kul-bay: 
   city: "aul kul'-bay"
   accentcity: "Aul Kul'-Bay"
-aul kum-bel': 
+aul kum-bel: 
   city: "aul kum-bel'"
   accentcity: "Aul Kum-Bel'"
 aul-kutyrtas: 
@@ -2592,10 +2592,10 @@ aul nartpay:
 aul nomer devyatyy: 
   city: "aul nomer devyatyy"
   accentcity: "Aul Nomer Devyatyy"
-aul nomer sed'moy: 
+aul nomer sedmoy: 
   city: "aul nomer sed'moy"
   accentcity: "Aul Nomer Sed'moy"
-aul nomer tridtsat' sed'moy: 
+aul nomer tridtsat sedmoy: 
   city: "aul nomer tridtsat' sed'moy"
   accentcity: "Aul Nomer Tridtsat' Sed'moy"
 aul nur-uzek: 
@@ -2610,7 +2610,7 @@ aul rakhmbay:
 aulsay: 
   city: "aulsay"
   accentcity: "Aulsay"
-aul sed'moy: 
+aul sedmoy: 
   city: "aul sed'moy"
   accentcity: "Aul Sed'moy"
 aul seytagov: 
@@ -2637,10 +2637,10 @@ aul-tepa:
 aul topchak: 
   city: "aul topchak"
   accentcity: "Aul Topchak"
-aul tunguyukto-kul': 
+aul tunguyukto-kul: 
   city: "aul tunguyukto-kul'"
   accentcity: "Aul Tunguyukto-Kul'"
-aul tyumen': 
+aul tyumen: 
   city: "aul tyumen'"
   accentcity: "Aul Tyumen'"
 aul vtoroy: 
@@ -2700,7 +2700,7 @@ ayaguzskiy:
 ayak: 
   city: "ayak"
   accentcity: "Ayak"
-ayakkol': 
+ayakkol: 
   city: "ayakkol'"
   accentcity: "Ayakkol'"
 ayakkum: 
@@ -2754,13 +2754,13 @@ aydabol:
 aydabul: 
   city: "aydabul"
   accentcity: "Aydabul"
-aydabul'skiy: 
+aydabulskiy: 
   city: "aydabul'skiy"
   accentcity: "Aydabul'skiy"
 aydagarly: 
   city: "aydagarly"
   accentcity: "Aydagarly"
-aydakol': 
+aydakol: 
   city: "aydakol'"
   accentcity: "Aydakol'"
 aydansay: 
@@ -2790,7 +2790,7 @@ aydarlo:
 aydarly: 
   city: "aydarly"
   accentcity: "Aydarly"
-aydarlykol': 
+aydarlykol: 
   city: "aydarlykol'"
   accentcity: "Aydarlykol'"
 aydas: 
@@ -2823,7 +2823,7 @@ aygyz:
 aykal: 
   city: "aykal"
   accentcity: "Aykal"
-aykol': 
+aykol: 
   city: "aykol'"
   accentcity: "Aykol'"
 aykynkum: 
@@ -3045,7 +3045,7 @@ babeke:
 babinskiy: 
   city: "babinskiy"
   accentcity: "Babinskiy"
-babinskiy kar'yer: 
+babinskiy karyer: 
   city: "babinskiy kar'yer"
   accentcity: "Babinskiy Kar'yer"
 bachanas: 
@@ -3063,7 +3063,7 @@ badan:
 badane: 
   city: "badane"
   accentcity: "Badane"
-baday-kul': 
+baday-kul: 
   city: "baday-kul'"
   accentcity: "Baday-Kul'"
 baganashyl: 
@@ -3228,7 +3228,7 @@ baladyr:
 baladzhol: 
   city: "baladzhol"
   accentcity: "Baladzhol"
-baladzhol'skiy: 
+baladzholskiy: 
   city: "baladzhol'skiy"
   accentcity: "Baladzhol'skiy"
 balagan: 
@@ -3282,7 +3282,7 @@ balkashinskiy pervyy:
 balkashinskoye: 
   city: "balkashinskoye"
   accentcity: "Balkashinskoye"
-balk': 
+balk: 
   city: "balk'"
   accentcity: "Balk'"
 balkhash: 
@@ -3321,7 +3321,7 @@ baltabay:
 baltakol: 
   city: "baltakol"
   accentcity: "Baltak\xC3\xB6l"
-balta-kul': 
+balta-kul: 
   city: "balta-kul'"
   accentcity: "Balta-Kul'"
 baltaly: 
@@ -3354,10 +3354,10 @@ balykty:
 balykty-bulak: 
   city: "balykty-bulak"
   accentcity: "Balykty-Bulak"
-balyktykol': 
+balyktykol: 
   city: "balyktykol'"
   accentcity: "Balyktykol'"
-balykty-kul': 
+balykty-kul: 
   city: "balykty-kul'"
   accentcity: "Balykty-Kul'"
 balyqshy: 
@@ -3378,7 +3378,7 @@ bannovka:
 bannovskiy: 
   city: "bannovskiy"
   accentcity: "Bannovskiy"
-ban'yas: 
+banyas: 
   city: "ban'yas"
   accentcity: "Ban'yas"
 banzostroy: 
@@ -3405,10 +3405,10 @@ baqyrly:
 baraba: 
   city: "baraba"
   accentcity: "Baraba"
-barakkol': 
+barakkol: 
   city: "barakkol'"
   accentcity: "Barakkol'"
-barakkol'skiy: 
+barakkolskiy: 
   city: "barakkol'skiy"
   accentcity: "Barakkol'skiy"
 barakpay: 
@@ -3426,13 +3426,13 @@ barangkol:
 barangy: 
   city: "barangy"
   accentcity: "Barangy"
-barankol': 
+barankol: 
   city: "barankol'"
   accentcity: "Barankol'"
-barankul': 
+barankul: 
   city: "barankul'"
   accentcity: "Barankul'"
-barankul'skiy: 
+barankulskiy: 
   city: "barankul'skiy"
   accentcity: "Barankul'skiy"
 barannikovskoye: 
@@ -3486,7 +3486,7 @@ barnevka:
 baronskoye: 
   city: "baronskoye"
   accentcity: "Baronskoye"
-barpel': 
+barpel: 
   city: "barpel'"
   accentcity: "Barpel'"
 barrikady: 
@@ -3528,7 +3528,7 @@ bar-togay:
 barvinovka: 
   city: "barvinovka"
   accentcity: "Barvinovka"
-barykol': 
+barykol: 
   city: "barykol'"
   accentcity: "Barykol'"
 baryshevka: 
@@ -3564,7 +3564,7 @@ basentin:
 bashay: 
   city: "bashay"
   accentcity: "Bashay"
-bashenkol': 
+bashenkol: 
   city: "bashenkol'"
   accentcity: "Bashenkol'"
 basheny: 
@@ -3582,13 +3582,13 @@ bashkiyev-saty:
 bashkiyev-satyy: 
   city: "bashkiyev-satyy"
   accentcity: "Bashkiyev-Satyy"
-bashkol': 
+bashkol: 
   city: "bashkol'"
   accentcity: "Bashkol'"
-bashkul': 
+bashkul: 
   city: "bashkul'"
   accentcity: "Bashkul'"
-bashkul'skiy: 
+bashkulskiy: 
   city: "bashkul'skiy"
   accentcity: "Bashkul'skiy"
 bashmachnoe: 
@@ -3603,7 +3603,7 @@ bashmachny:
 bashmachnyy: 
   city: "bashmachnyy"
   accentcity: "Bashmachnyy"
-bashtul': 
+bashtul: 
   city: "bashtul'"
   accentcity: "Bashtul'"
 baskamys: 
@@ -3624,10 +3624,10 @@ baskarasu aul:
 baskarasu: 
   city: "baskarasu"
   accentcity: "Baskarasu"
-bask-kol': 
+bask-kol: 
   city: "bask-kol'"
   accentcity: "Bask-kol'"
-baskol': 
+baskol: 
   city: "baskol'"
   accentcity: "Baskol'"
 baskol: 
@@ -3663,7 +3663,7 @@ bassaga:
 basshiy: 
   city: "basshiy"
   accentcity: "Basshiy"
-basshomyshkol': 
+basshomyshkol: 
   city: "basshomyshkol'"
   accentcity: "Basshomyshkol'"
 bastagan: 
@@ -3723,7 +3723,7 @@ batmanovskiy:
 batpak: 
   city: "batpak"
   accentcity: "Batpak"
-batpakkol': 
+batpakkol: 
   city: "batpakkol'"
   accentcity: "Batpakkol'"
 batpaktinskoye: 
@@ -3732,7 +3732,7 @@ batpaktinskoye:
 batpakty: 
   city: "batpakty"
   accentcity: "Batpakty"
-batpakty-kul': 
+batpakty-kul: 
   city: "batpakty-kul'"
   accentcity: "Batpakty-Kul'"
 batpaq: 
@@ -3750,7 +3750,7 @@ batpayevskiy:
 batr: 
   city: "batr"
   accentcity: "Batr"
-battakkol': 
+battakkol: 
   city: "battakkol'"
   accentcity: "Battakkol'"
 battykty: 
@@ -3780,7 +3780,7 @@ batyr:
 batyrbek: 
   city: "batyrbek"
   accentcity: "Batyrbek"
-batyr'bek: 
+batyrbek: 
   city: "batyr'bek"
   accentcity: "Batyr'Bek"
 batyr galiy: 
@@ -3831,7 +3831,7 @@ bayanaul:
 bayan-aulskaya: 
   city: "bayan-aulskaya"
   accentcity: "Bayan-Aulskaya"
-bayan-aul'skoye: 
+bayan-aulskoye: 
   city: "bayan-aul'skoye"
   accentcity: "Bayan-Aul'skoye"
 bayanauyl: 
@@ -3930,7 +3930,7 @@ baygakum:
 bayganin: 
   city: "bayganin"
   accentcity: "Bayganin"
-baygankol': 
+baygankol: 
   city: "baygankol'"
   accentcity: "Baygankol'"
 baygara: 
@@ -3975,10 +3975,10 @@ baykadam:
 baykain: 
   city: "baykain"
   accentcity: "Baykain"
-baykal'skiy: 
+baykalskiy: 
   city: "baykal'skiy"
   accentcity: "Baykal'skiy"
-baykal'skoye: 
+baykalskoye: 
   city: "baykal'skoye"
   accentcity: "Baykal'skoye"
 baykana: 
@@ -4209,10 +4209,10 @@ bazarka:
 bazarkarzhan: 
   city: "bazarkarzhan"
   accentcity: "Bazarkarzhan"
-bazarkel'dy: 
+bazarkeldy: 
   city: "bazarkel'dy"
   accentcity: "Bazarkel'dy"
-bazarkol': 
+bazarkol: 
   city: "bazarkol'"
   accentcity: "Bazarkol'"
 bazarsholan: 
@@ -4230,13 +4230,13 @@ bazartobe:
 bazar-tyube: 
   city: "bazar-tyube"
   accentcity: "Bazar-Tyube"
-bazaskel'dy: 
+bazaskeldy: 
   city: "bazaskel'dy"
   accentcity: "Bazaskel'dy"
 baza zagotskot: 
   city: "baza zagotskot"
   accentcity: "Baza Zagotskot"
-bazhankol': 
+bazhankol: 
   city: "bazhankol'"
   accentcity: "Bazhankol'"
 bazhenovka: 
@@ -4275,7 +4275,7 @@ begaly:
 begaydar: 
   city: "begaydar"
   accentcity: "Begaydar"
-begen': 
+begen: 
   city: "begen'"
   accentcity: "Begen'"
 begen: 
@@ -4293,7 +4293,7 @@ begichevka:
 begichevskiy: 
   city: "begichevskiy"
   accentcity: "Begichevskiy"
-begil': 
+begil: 
   city: "begil'"
   accentcity: "Begil'"
 begimbet: 
@@ -4332,7 +4332,7 @@ bekete:
 bekettobe: 
   city: "bekettobe"
   accentcity: "Bekettobe"
-bekeykol': 
+bekeykol: 
   city: "bekeykol'"
   accentcity: "Bekeykol'"
 bekish: 
@@ -4341,7 +4341,7 @@ bekish:
 bekkaly: 
   city: "bekkaly"
   accentcity: "Bekkaly"
-bek-kar'yer: 
+bek-karyer: 
   city: "bek-kar'yer"
   accentcity: "Bek-Kar'yer"
 bekman: 
@@ -4380,22 +4380,22 @@ bekzhantobe:
 bekzhan-tyube: 
   city: "bekzhan-tyube"
   accentcity: "Bekzhan-Tyube"
-bel'-agach: 
+bel-agach: 
   city: "bel'-agach"
   accentcity: "Bel'-Agach"
-bel'agachskiy: 
+belagachskiy: 
   city: "bel'agachskiy"
   accentcity: "Bel'agachskiy"
-bel'agachskiy piket: 
+belagachskiy piket: 
   city: "bel'agachskiy piket"
   accentcity: "Bel'agachskiy Piket"
 belagash: 
   city: "belagash"
   accentcity: "Belagash"
-bel'agash: 
+belagash: 
   city: "bel'agash"
   accentcity: "Bel'agash"
-bel'-agash: 
+bel-agash: 
   city: "bel'-agash"
   accentcity: "Bel'-Agash"
 belagatchskoe zimovie: 
@@ -4404,7 +4404,7 @@ belagatchskoe zimovie:
 belaghash: 
   city: "belaghash"
   accentcity: "Belaghash"
-bel'aryk: 
+belaryk: 
   city: "bel'aryk"
   accentcity: "Bel'aryk"
 belashi: 
@@ -4422,19 +4422,19 @@ belaya shkola:
 belbasar: 
   city: "belbasar"
   accentcity: "Belbasar"
-bel'bulak: 
+belbulak: 
   city: "bel'bulak"
   accentcity: "Bel'bulak"
-bel'cher: 
+belcher: 
   city: "bel'cher"
   accentcity: "Bel'cher"
-bel'dos: 
+beldos: 
   city: "bel'dos"
   accentcity: "Bel'dos"
 beleksaz: 
   city: "beleksaz"
   accentcity: "Beleksaz"
-belen'kiy: 
+belenkiy: 
   city: "belen'kiy"
   accentcity: "Belen'kiy"
 beleshskoye: 
@@ -4452,13 +4452,13 @@ belibay:
 belkol: 
   city: "belkol"
   accentcity: "Belk\xC3\xB6l"
-bel'kopa: 
+belkopa: 
   city: "bel'kopa"
   accentcity: "Bel'kopa"
-belkul': 
+belkul: 
   city: "belkul'"
   accentcity: "Belkul'"
-bel'mes: 
+belmes: 
   city: "bel'mes"
   accentcity: "Bel'mes"
 beloe: 
@@ -4482,7 +4482,7 @@ belogorsk:
 belogorskiy: 
   city: "belogorskiy"
   accentcity: "Belogorskiy"
-belogor'ye: 
+belogorye: 
   city: "belogor'ye"
   accentcity: "Belogor'ye"
 belogradovka: 
@@ -4491,7 +4491,7 @@ belogradovka:
 belogrudovskiy: 
   city: "belogrudovskiy"
   accentcity: "Belogrudovskiy"
-belokamen': 
+belokamen: 
   city: "belokamen'"
   accentcity: "Belokamen'"
 belokamenka: 
@@ -4515,7 +4515,7 @@ beloozerka:
 beloozerovka: 
   city: "beloozerovka"
   accentcity: "Beloozërovka"
-belopol'ye: 
+belopolye: 
   city: "belopol'ye"
   accentcity: "Belopol'ye"
 belotserkovka: 
@@ -4608,10 +4608,10 @@ belyye gorki:
 belyye vody: 
   city: "belyye vody"
   accentcity: "Belyye Vody"
-belyy kamen': 
+belyy kamen: 
   city: "belyy kamen'"
   accentcity: "Belyy Kamen'"
-bel'zibay: 
+belzibay: 
   city: "bel'zibay"
   accentcity: "Bel'zibay"
 bemyrza: 
@@ -4671,7 +4671,7 @@ berezovskiy rudnik:
 berislavko: 
   city: "berislavko"
   accentcity: "Berislavko"
-berkazan': 
+berkazan: 
   city: "berkazan'"
   accentcity: "Berkazan'"
 berlektu: 
@@ -4764,7 +4764,7 @@ beskauga:
 beskol: 
   city: "beskol"
   accentcity: "Besk\xC3\xB6l"
-beskol': 
+beskol: 
   city: "beskol'"
   accentcity: "Beskol'"
 beskubur: 
@@ -4779,7 +4779,7 @@ beskuduk:
 beskutyr: 
   city: "beskutyr"
   accentcity: "Beskutyr"
-besnen': 
+besnen: 
   city: "besnen'"
   accentcity: "Besnen'"
 besoba: 
@@ -4899,7 +4899,7 @@ beysem:
 beysenbay: 
   city: "beysenbay"
   accentcity: "Beysenbay"
-beysen': 
+beysen: 
   city: "beysen'"
   accentcity: "Beysen'"
 bez-kuduk: 
@@ -4932,7 +4932,7 @@ bidaiyq:
 bidaychi: 
   city: "bidaychi"
   accentcity: "Bidaychi"
-bidaykol': 
+bidaykol: 
   city: "bidaykol'"
   accentcity: "Bidaykol'"
 bidayyk: 
@@ -4980,7 +4980,7 @@ biikzhal:
 bikbauli: 
   city: "bikbauli"
   accentcity: "Bikbauli"
-bikeykul': 
+bikeykul: 
   city: "bikeykul'"
   accentcity: "Bikeykul'"
 bikhaldakty: 
@@ -4998,7 +4998,7 @@ biklay:
 biksarayevskiy: 
   city: "biksarayevskiy"
   accentcity: "Biksarayevskiy"
-bikskul': 
+bikskul: 
   city: "bikskul'"
   accentcity: "Bikskul'"
 bik-tau: 
@@ -5013,7 +5013,7 @@ bimshagyl:
 bimyrza: 
   city: "bimyrza"
   accentcity: "Bimyrza"
-birakol': 
+birakol: 
   city: "birakol'"
   accentcity: "Birakol'"
 birkali: 
@@ -5034,7 +5034,7 @@ birlesu:
 birlik: 
   city: "birlik"
   accentcity: "Birlik"
-birlikshil': 
+birlikshil: 
   city: "birlikshil'"
   accentcity: "Birlikshil'"
 birlikskiy: 
@@ -5094,7 +5094,7 @@ bisenov:
 bish-chubinski: 
   city: "bish-chubinski"
   accentcity: "Bish-Chubinski"
-bishkul': 
+bishkul: 
   city: "bishkul'"
   accentcity: "Bishkul'"
 bish-tamak: 
@@ -5139,7 +5139,7 @@ biyektesyn:
 biyen: 
   city: "biyen"
   accentcity: "Biyen"
-biylikol': 
+biylikol: 
   city: "biylikol'"
   accentcity: "Biylikol'"
 biy-mirza: 
@@ -5238,7 +5238,7 @@ bogatoye:
 bogatskiy: 
   city: "bogatskiy"
   accentcity: "Bogatskiy"
-bogatyr': 
+bogatyr: 
   city: "bogatyr'"
   accentcity: "Bogatyr'"
 bogatyreva: 
@@ -5280,10 +5280,10 @@ bogen:
 boget: 
   city: "boget"
   accentcity: "Boget"
-bogetkol': 
+bogetkol: 
   city: "bogetkol'"
   accentcity: "Bogetkol'"
-boget-kul': 
+boget-kul: 
   city: "boget-kul'"
   accentcity: "Boget-Kul'"
 bogetsay: 
@@ -5400,223 +5400,223 @@ bolgarskiy:
 bolkundukskiy: 
   city: "bolkundukskiy"
   accentcity: "Bolkundukskiy"
-bol'shaya boken': 
+bolshaya boken: 
   city: "bol'shaya boken'"
   accentcity: "Bol'shaya Boken'"
-bol'shaya: 
+bolshaya: 
   city: "bol'shaya"
   accentcity: "Bol'shaya"
-bol'shaya bukon': 
+bolshaya bukon: 
   city: "bol'shaya bukon'"
   accentcity: "Bol'shaya Bukon'"
-bol'shaya churakovka: 
+bolshaya churakovka: 
   city: "bol'shaya churakovka"
   accentcity: "Bol'shaya Churakovka"
-bol'shaya damba: 
+bolshaya damba: 
   city: "bol'shaya damba"
   accentcity: "Bol'shaya Damba"
-bol'shaya dubrava: 
+bolshaya dubrava: 
   city: "bol'shaya dubrava"
   accentcity: "Bol'shaya Dubrava"
-bol'shaya ketmen': 
+bolshaya ketmen: 
   city: "bol'shaya ketmen'"
   accentcity: "Bol'shaya Ketmen'"
-bol'shaya kuz'-gora: 
+bolshaya kuz-gora: 
   city: "bol'shaya kuz'-gora"
   accentcity: "Bol'shaya Kuz'-Gora"
-bol'shaya malyshka: 
+bolshaya malyshka: 
   city: "bol'shaya malyshka"
   accentcity: "Bol'shaya Malyshka"
-bol'shaya mikhaylovka: 
+bolshaya mikhaylovka: 
   city: "bol'shaya mikhaylovka"
   accentcity: "Bol'shaya Mikhaylovka"
-bol'shaya panika: 
+bolshaya panika: 
   city: "bol'shaya panika"
   accentcity: "Bol'shaya Panika"
-bol'shaya rechka: 
+bolshaya rechka: 
   city: "bol'shaya rechka"
   accentcity: "Bol'shaya Rechka"
-bol'shaya rubrava: 
+bolshaya rubrava: 
   city: "bol'shaya rubrava"
   accentcity: "Bol'shaya Rubrava"
-bol'shaya safonovka: 
+bolshaya safonovka: 
   city: "bol'shaya safonovka"
   accentcity: "Bol'shaya Safonovka"
-bol'shaya shuga: 
+bolshaya shuga: 
   city: "bol'shaya shuga"
   accentcity: "Bol'shaya Shuga"
 bolshaya viktorovka: 
   city: "bolshaya viktorovka"
   accentcity: "Bolshaya Viktorovka"
-bol'shaya vladimirovka: 
+bolshaya vladimirovka: 
   city: "bol'shaya vladimirovka"
   accentcity: "Bol'shaya Vladimirovka"
-bol'she-churakevskiy: 
+bolshe-churakevskiy: 
   city: "bol'she-churakevskiy"
   accentcity: "Bol'she-Churakevskiy"
-bol'sheizyum: 
+bolsheizyum: 
   city: "bol'sheizyum"
   accentcity: "Bol'sheizyum"
-bol'she-izyumovka: 
+bolshe-izyumovka: 
   city: "bol'she-izyumovka"
   accentcity: "Bol'she-Izyumovka"
-bol'she-michaylovskiy: 
+bolshe-michaylovskiy: 
   city: "bol'she-michaylovskiy"
   accentcity: "Bol'she-Michaylovskiy"
-bol'she-mikhaylovskoye: 
+bolshe-mikhaylovskoye: 
   city: "bol'she-mikhaylovskoye"
   accentcity: "Bol'she-Mikhaylovskoye"
-bol'shenarym: 
+bolshenarym: 
   city: "bol'shenarym"
   accentcity: "Bol'shenarym"
-bol'shenarymskoye: 
+bolshenarymskoye: 
   city: "bol'shenarymskoye"
   accentcity: "Bol'shenarymskoye"
-bol'sherechenskiy: 
+bolsherechenskiy: 
   city: "bol'sherechenskiy"
   accentcity: "Bol'sherechenskiy"
-bol'she-rechenskoye: 
+bolshe-rechenskoye: 
   city: "bol'she-rechenskoye"
   accentcity: "Bol'she-Rechenskoye"
-bol'shevik: 
+bolshevik: 
   city: "bol'shevik"
   accentcity: "Bol'shevik"
-bol'shevistskiy: 
+bolshevistskiy: 
   city: "bol'shevistskiy"
   accentcity: "Bol'shevistskiy"
-bol'shiye dubravy: 
+bolshiye dubravy: 
   city: "bol'shiye dubravy"
   accentcity: "Bol'shiye Dubravy"
 bolshoy achinokho: 
   city: "bolshoy achinokho"
   accentcity: "Bolshoy Achinokho"
-bol'shoy aksu: 
+bolshoy aksu: 
   city: "bol'shoy aksu"
   accentcity: "Bol'shoy Aksu"
-bol'shoy akzhar: 
+bolshoy akzhar: 
   city: "bol'shoy akzhar"
   accentcity: "Bol'shoy Akzhar"
-bol'shoy alimbek: 
+bolshoy alimbek: 
   city: "bol'shoy alimbek"
   accentcity: "Bol'shoy Alimbek"
-bol'shoy boken: 
+bolshoy boken: 
   city: "bol'shoy boken"
   accentcity: "Bol'shoy Boken"
-bol'shoy: 
+bolshoy: 
   city: "bol'shoy"
   accentcity: "Bol'shoy"
-bol'shoy bukon': 
+bolshoy bukon: 
   city: "bol'shoy bukon'"
   accentcity: "Bol'shoy Bukon'"
-bol'shoy bystryy: 
+bolshoy bystryy: 
   city: "bol'shoy bystryy"
   accentcity: "Bol'shoy Bystryy"
-bol'shoy chagan: 
+bolshoy chagan: 
   city: "bol'shoy chagan"
   accentcity: "Bol'shoy Chagan"
-bol'shoy dashin: 
+bolshoy dashin: 
   city: "bol'shoy dashin"
   accentcity: "Bol'shoy Dashin"
-bol'shoy dengizyl: 
+bolshoy dengizyl: 
   city: "bol'shoy dengizyl"
   accentcity: "Bol'shoy Dengizyl"
-bol'shoy dynkezyl: 
+bolshoy dynkezyl: 
   city: "bol'shoy dynkezyl"
   accentcity: "Bol'shoy Dynkezyl"
-bol'shoy dzhemeney: 
+bolshoy dzhemeney: 
   city: "bol'shoy dzhemeney"
   accentcity: "Bol'shoy Dzhemeney"
-bol'shoy dzhezkazgan: 
+bolshoy dzhezkazgan: 
   city: "bol'shoy dzhezkazgan"
   accentcity: "Bol'shoy Dzhezkazgan"
-bol'shoye ashinakho: 
+bolshoye ashinakho: 
   city: "bol'shoye ashinakho"
   accentcity: "Bol'shoye Ashinakho"
-bol'shoye ashinokho: 
+bolshoye ashinokho: 
   city: "bol'shoye ashinokho"
   accentcity: "Bol'shoye Ashinokho"
-bol'shoye ganyushkino: 
+bolshoye ganyushkino: 
   city: "bol'shoye ganyushkino"
   accentcity: "Bol'shoye Ganyushkino"
-bol'shoye malyshkino: 
+bolshoye malyshkino: 
   city: "bol'shoye malyshkino"
   accentcity: "Bol'shoye Malyshkino"
-bol'shoye narymskoye: 
+bolshoye narymskoye: 
   city: "bol'shoye narymskoye"
   accentcity: "Bol'shoye Narymskoye"
-bol'shoye vladimirskoye: 
+bolshoye vladimirskoye: 
   city: "bol'shoye vladimirskoye"
   accentcity: "Bol'shoye Vladimirskoye"
-bol'shoy gorbunov: 
+bolshoy gorbunov: 
   city: "bol'shoy gorbunov"
   accentcity: "Bol'shoy Gorbunov"
-bol'shoy gorshkov: 
+bolshoy gorshkov: 
   city: "bol'shoy gorshkov"
   accentcity: "Bol'shoy Gorshkov"
-bol'shoy imen': 
+bolshoy imen: 
   city: "bol'shoy imen'"
   accentcity: "Bol'shoy Imen'"
-bol'shoy izyum: 
+bolshoy izyum: 
   city: "bol'shoy izyum"
   accentcity: "Bol'shoy Izyum"
-bol'shoy kandyk: 
+bolshoy kandyk: 
   city: "bol'shoy kandyk"
   accentcity: "Bol'shoy Kandyk"
-bol'shoy kaptagay: 
+bolshoy kaptagay: 
   city: "bol'shoy kaptagay"
   accentcity: "Bol'shoy Kaptagay"
-bol'shoy karakol': 
+bolshoy karakol: 
   city: "bol'shoy karakol'"
   accentcity: "Bol'shoy Karakol'"
-bol'shoy karakul': 
+bolshoy karakul: 
   city: "bol'shoy karakul'"
   accentcity: "Bol'shoy Karakul'"
-bol'shoy kara-ul': 
+bolshoy kara-ul: 
   city: "bol'shoy kara-ul'"
   accentcity: "Bol'shoy Kara-ul'"
-bol'shoy kart: 
+bolshoy kart: 
   city: "bol'shoy kart"
   accentcity: "Bol'shoy Kart"
-bol'shoy kar'yer: 
+bolshoy karyer: 
   city: "bol'shoy kar'yer"
   accentcity: "Bol'shoy Kar'yer"
-bolshoy ketmen': 
+bolshoy ketmen: 
   city: "bolshoy ketmen'"
   accentcity: "Bolshoy Ketmen'"
-bol'shoy krasilovskiy: 
+bolshoy krasilovskiy: 
   city: "bol'shoy krasilovskiy"
   accentcity: "Bol'shoy Krasilovskiy"
-bol'shoy kuygan: 
+bolshoy kuygan: 
   city: "bol'shoy kuygan"
   accentcity: "Bol'shoy Kuygan"
 bolshoy kuygon: 
   city: "bolshoy kuygon"
   accentcity: "Bolshoy Kuygon"
-bol'shoy liman: 
+bolshoy liman: 
   city: "bol'shoy liman"
   accentcity: "Bol'shoy Liman"
-bol'shoy moynak: 
+bolshoy moynak: 
   city: "bol'shoy moynak"
   accentcity: "Bol'shoy Moynak"
-bol'shoy narymskoye: 
+bolshoy narymskoye: 
   city: "bol'shoy narymskoye"
   accentcity: "Bol'shoy Narymskoye"
-bol'shoy sarykuduk: 
+bolshoy sarykuduk: 
   city: "bol'shoy sarykuduk"
   accentcity: "Bol'shoy Sarykuduk"
-bol'shoy shagan: 
+bolshoy shagan: 
   city: "bol'shoy shagan"
   accentcity: "Bol'shoy Shagan"
-bol'shoy talsay: 
+bolshoy talsay: 
   city: "bol'shoy talsay"
   accentcity: "Bol'shoy Talsay"
-bol'shoy vladimirovskiy: 
+bolshoy vladimirovskiy: 
   city: "bol'shoy vladimirovskiy"
   accentcity: "Bol'shoy Vladimirovskiy"
 boluan: 
   city: "boluan"
   accentcity: "Boluan"
-boluan-kol': 
+boluan-kol: 
   city: "boluan-kol'"
   accentcity: "Boluan-Kol'"
 bopay: 
@@ -5670,7 +5670,7 @@ borlo:
 borly: 
   city: "borly"
   accentcity: "Borly"
-borlykol': 
+borlykol: 
   city: "borlykol'"
   accentcity: "Borlykol'"
 borodine: 
@@ -5769,7 +5769,7 @@ boshkul:
 boskamys: 
   city: "boskamys"
   accentcity: "Boskamys"
-boskol': 
+boskol: 
   city: "boskol'"
   accentcity: "Boskol'"
 boskol: 
@@ -5868,7 +5868,7 @@ bozingen:
 bozinggen: 
   city: "bozinggen"
   accentcity: "Bozinggen"
-bozkol': 
+bozkol: 
   city: "bozkol'"
   accentcity: "Bozkol'"
 bozoba: 
@@ -5880,7 +5880,7 @@ bozoy:
 bozshakol: 
   city: "bozshakol"
   accentcity: "Bozshak\xC3\xB6l"
-bozshakul': 
+bozshakul: 
   city: "bozshakul'"
   accentcity: "Bozshakul'"
 boztal: 
@@ -5913,7 +5913,7 @@ brigada:
 brigada dvenadtsataya luch vostoka: 
   city: "brigada dvenadtsataya luch vostoka"
   accentcity: "Brigada Dvenadtsataya Luch Vostoka"
-brigada no. 7 kolkhoza imeni xx parts''yezda: 
+brigada no. 7 kolkhoza imeni xx partsyezda: 
   city: "brigada no. 7 kolkhoza imeni xx parts''yezda"
   accentcity: "Brigada No. 7 Kolkhoza Imeni XX Parts''yezda"
 brigada nomer chetyre kyzylkayrat: 
@@ -5922,16 +5922,16 @@ brigada nomer chetyre kyzylkayrat:
 brigada )) (( nomer dva kolkhoza kyzyltu: 
   city: "brigada )) (( nomer dva kolkhoza kyzyltu"
   accentcity: "Brigada )) (( Nomer Dva Kolkhoza Kyzyltu"
-brigada nomer dvenadtsat' kolkhoza luch vostoka: 
+brigada nomer dvenadtsat kolkhoza luch vostoka: 
   city: "brigada nomer dvenadtsat' kolkhoza luch vostoka"
   accentcity: "Brigada Nomer Dvenadtsat' Kolkhoza Luch Vostoka"
-brigada nomer odinnadtsat' kolkhoza luch vostoka: 
+brigada nomer odinnadtsat kolkhoza luch vostoka: 
   city: "brigada nomer odinnadtsat' kolkhoza luch vostoka"
   accentcity: "Brigada Nomer Odinnadtsat' Kolkhoza Luch Vostoka"
 brigada nomer odin sovkhoza imeni panfilova: 
   city: "brigada nomer odin sovkhoza imeni panfilova"
   accentcity: "Brigada Nomer Odin Sovkhoza Imeni Panfilova"
-brigada nomer sem' kolkhoza imeni dvadtsat' parts''yezda: 
+brigada nomer sem kolkhoza imeni dvadtsat partsyezda: 
   city: "brigada nomer sem' kolkhoza imeni dvadtsat' parts''yezda"
   accentcity: "Brigada Nomer Sem' Kolkhoza Imeni Dvadtsat' Parts''yezda"
 brigada nomer tri sovkhoza rassvet: 
@@ -5973,7 +5973,7 @@ budarinskiy:
 budene: 
   city: "budene"
   accentcity: "Budene"
-buden'ka: 
+budenka: 
   city: "buden'ka"
   accentcity: "Buden'ka"
 budennovka: 
@@ -6015,10 +6015,10 @@ bugaz:
 buget: 
   city: "buget"
   accentcity: "Buget"
-bugetkol': 
+bugetkol: 
   city: "bugetkol'"
   accentcity: "Bugetkol'"
-bugetkul'skiy: 
+bugetkulskiy: 
   city: "bugetkul'skiy"
   accentcity: "Bugetkul'skiy"
 bugetsay: 
@@ -6045,13 +6045,13 @@ buguchalpek:
 bugudzhuli: 
   city: "bugudzhuli"
   accentcity: "Bugudzhuli"
-bugul': 
+bugul: 
   city: "bugul'"
   accentcity: "Bugul'"
-bugun': 
+bugun: 
   city: "bugun'"
   accentcity: "Bugun'"
-bugun'skiy: 
+bugunskiy: 
   city: "bugun'skiy"
   accentcity: "Bugun'skiy"
 bugush: 
@@ -6090,7 +6090,7 @@ bukhar-tobe:
 bukhtarma: 
   city: "bukhtarma"
   accentcity: "Bukhtarma"
-bukon': 
+bukon: 
   city: "bukon'"
   accentcity: "Bukon'"
 bukunchi: 
@@ -6180,16 +6180,16 @@ bulumbay:
 bulyuk-bay: 
   city: "bulyuk-bay"
   accentcity: "Bulyuk-Bay"
-bulyunkol': 
+bulyunkol: 
   city: "bulyunkol'"
   accentcity: "Bulyunkol'"
 buma: 
   city: "buma"
   accentcity: "Buma"
-bumakol': 
+bumakol: 
   city: "bumakol'"
   accentcity: "Bumakol'"
-bumakul'skiy: 
+bumakulskiy: 
   city: "bumakul'skiy"
   accentcity: "Bumakul'skiy"
 burabay: 
@@ -6198,7 +6198,7 @@ burabay:
 burak: 
   city: "burak"
   accentcity: "Burak"
-burakol': 
+burakol: 
   city: "burakol'"
   accentcity: "Burakol'"
 burakpay: 
@@ -6210,7 +6210,7 @@ buranbek:
 buran: 
   city: "buran"
   accentcity: "Buran"
-burankol': 
+burankol: 
   city: "burankol'"
   accentcity: "Burankol'"
 buranovka: 
@@ -6306,7 +6306,7 @@ burluk:
 burly-agach: 
   city: "burly-agach"
   accentcity: "Burly-Agach"
-burly-kol': 
+burly-kol: 
   city: "burly-kol'"
   accentcity: "Burly-Kol'"
 burlyu-baytal: 
@@ -6324,10 +6324,10 @@ burma:
 burnashevo: 
   city: "burnashevo"
   accentcity: "Burnashëvo"
-burnooktyabr'skoe: 
+burnooktyabrskoe: 
   city: "burnooktyabr'skoe"
   accentcity: "Burnooktyabr'skoe"
-burnooktyabr'skoye: 
+burnooktyabrskoye: 
   city: "burnooktyabr'skoye"
   accentcity: "Burnooktyabr'skoye"
 burnoye: 
@@ -6372,10 +6372,10 @@ burynshik:
 bushali: 
   city: "bushali"
   accentcity: "Bushali"
-buskul': 
+buskul: 
   city: "buskul'"
   accentcity: "Buskul'"
-buskul'skiy: 
+buskulskiy: 
   city: "buskul'skiy"
   accentcity: "Buskul'skiy"
 bustandyk: 
@@ -6399,7 +6399,7 @@ buyrek:
 buyrektal: 
   city: "buyrektal"
   accentcity: "Buyrektal"
-buyrektal'skiy: 
+buyrektalskiy: 
   city: "buyrektal'skiy"
   accentcity: "Buyrektal'skiy"
 buzan: 
@@ -6420,7 +6420,7 @@ buzulukskiy:
 buzulukskoye: 
   city: "buzulukskoye"
   accentcity: "Buzulukskoye"
-byelogor'ye: 
+byelogorye: 
   city: "byelogor'ye"
   accentcity: "Byelogor'ye"
 bykov: 
@@ -6663,7 +6663,7 @@ chebakova:
 chebakov: 
   city: "chebakov"
   accentcity: "Chebakov"
-chebarkul'skiy: 
+chebarkulskiy: 
   city: "chebarkul'skiy"
   accentcity: "Chebarkul'skiy"
 chebatarev: 
@@ -6741,7 +6741,7 @@ chemalgan:
 chemolgan: 
   city: "chemolgan"
   accentcity: "Chemolgan"
-chengel'dy: 
+chengeldy: 
   city: "chengel'dy"
   accentcity: "Chengel'dy"
 cherdoyak: 
@@ -6993,10 +6993,10 @@ chikunchi:
 chilakty: 
   city: "chilakty"
   accentcity: "Chilakty"
-chil'bastau: 
+chilbastau: 
   city: "chil'bastau"
   accentcity: "Chil'bastau"
-chil'cha: 
+chilcha: 
   city: "chil'cha"
   accentcity: "Chil'cha"
 chilek: 
@@ -7065,16 +7065,16 @@ chindiquatui:
 chingali: 
   city: "chingali"
   accentcity: "Chingali"
-chingel'dy: 
+chingeldy: 
   city: "chingel'dy"
   accentcity: "Chingel'dy"
-chingil'dinskiy: 
+chingildinskiy: 
   city: "chingil'dinskiy"
   accentcity: "Chingil'dinskiy"
 chingildo: 
   city: "chingildo"
   accentcity: "Chingild\xC3\xB6"
-chingil'dy: 
+chingildy: 
   city: "chingil'dy"
   accentcity: "Chingil'dy"
 chingirlau: 
@@ -7083,7 +7083,7 @@ chingirlau:
 chingistay: 
   city: "chingistay"
   accentcity: "Chingistay"
-chingyl'dy: 
+chingyldy: 
   city: "chingyl'dy"
   accentcity: "Chingyl'dy"
 chinorau: 
@@ -7116,16 +7116,16 @@ chirov:
 chistoe: 
   city: "chistoe"
   accentcity: "Chistoe"
-chistopol'e: 
+chistopole: 
   city: "chistopol'e"
   accentcity: "Chistopol'e"
-chistopol'ka: 
+chistopolka: 
   city: "chistopol'ka"
   accentcity: "Chistopol'ka"
-chistopol'skoye: 
+chistopolskoye: 
   city: "chistopol'skoye"
   accentcity: "Chistopol'skoye"
-chistopol'ye: 
+chistopolye: 
   city: "chistopol'ye"
   accentcity: "Chistopol'ye"
 chistovskiy: 
@@ -7260,7 +7260,7 @@ chubar:
 chubar kuduk: 
   city: "chubar kuduk"
   accentcity: "Chubar Kuduk"
-chubarkul': 
+chubarkul: 
   city: "chubarkul'"
   accentcity: "Chubarkul'"
 chubarovka: 
@@ -7365,7 +7365,7 @@ chushanay:
 chushenay: 
   city: "chushenay"
   accentcity: "Chushenay"
-chushka-kul': 
+chushka-kul: 
   city: "chushka-kul'"
   accentcity: "Chushka-Kul'"
 chuvashinskiy: 
@@ -7416,19 +7416,19 @@ dalakaynar:
 dalbun: 
   city: "dalbun"
   accentcity: "Dalbun"
-dal'nee: 
+dalnee: 
   city: "dal'nee"
   accentcity: "Dal'nee"
-dal'neye: 
+dalneye: 
   city: "dal'neye"
   accentcity: "Dal'neye"
-dal'niy: 
+dalniy: 
   city: "dal'niy"
   accentcity: "Dal'niy"
-dal'niy vostok: 
+dalniy vostok: 
   city: "dal'niy vostok"
   accentcity: "Dal'niy Vostok"
-dal'noye: 
+dalnoye: 
   city: "dal'noye"
   accentcity: "Dal'noye"
 dalpakbas: 
@@ -7455,7 +7455,7 @@ dangeleksor:
 dangerbay: 
   city: "dangerbay"
   accentcity: "Dangerbay"
-danilekol': 
+danilekol: 
   city: "danilekol'"
   accentcity: "Danilekol'"
 danilka: 
@@ -7467,7 +7467,7 @@ danilovka:
 danilovskoye: 
   city: "danilovskoye"
   accentcity: "Danilovskoye"
-danilyakol': 
+danilyakol: 
   city: "danilyakol'"
   accentcity: "Danilyakol'"
 daratab: 
@@ -7488,13 +7488,13 @@ darelsai:
 darelsay: 
   city: "darelsay"
   accentcity: "Darelsay"
-dar'inskiy: 
+darinskiy: 
   city: "dar'inskiy"
   accentcity: "Dar'inskiy"
-dar'inskoe: 
+darinskoe: 
   city: "dar'inskoe"
   accentcity: "Dar'inskoe"
-dar'inskoye: 
+darinskoye: 
   city: "dar'inskoye"
   accentcity: "Dar'inskoye"
 dariya: 
@@ -7524,7 +7524,7 @@ darvasa:
 darvaza: 
   city: "darvaza"
   accentcity: "Darvaza"
-dar'ya: 
+darya: 
   city: "dar'ya"
   accentcity: "Dar'ya"
 dashin: 
@@ -7536,7 +7536,7 @@ dashkovo-nikolayevka:
 dass: 
   city: "dass"
   accentcity: "Dass"
-dat-mechet': 
+dat-mechet: 
   city: "dat-mechet'"
   accentcity: "Dat-Mechet'"
 daubay: 
@@ -7605,7 +7605,7 @@ degelen:
 degeres: 
   city: "degeres"
   accentcity: "Degeres"
-degilen': 
+degilen: 
   city: "degilen'"
   accentcity: "Degilen'"
 dekhkan: 
@@ -7614,10 +7614,10 @@ dekhkan:
 dembiy: 
   city: "dembiy"
   accentcity: "Dembiy"
-dem'yanovka: 
+demyanovka: 
   city: "dem'yanovka"
   accentcity: "Dem'yanovka"
-dem'yanovskoye: 
+demyanovskoye: 
   city: "dem'yanovskoye"
   accentcity: "Dem'yanovskoye"
 denezhnoye: 
@@ -7653,10 +7653,10 @@ derzhavinskiy:
 derzhavinskoye: 
   city: "derzhavinskoye"
   accentcity: "Derzhavinskoye"
-desyat' let kazakhskoy sovetskoy sotsialisticheskoy respubliki: 
+desyat let kazakhskoy sovetskoy sotsialisticheskoy respubliki: 
   city: "desyat' let kazakhskoy sovetskoy sotsialisticheskoy respubliki"
   accentcity: "Desyat' Let Kazakhskoy Sovetskoy Sotsialisticheskoy Respubliki"
-desyat' let kazakhstana: 
+desyat let kazakhstana: 
   city: "desyat' let kazakhstana"
   accentcity: "Desyat' Let Kazakhstana"
 detdom: 
@@ -7677,7 +7677,7 @@ dievka:
 digerman: 
   city: "digerman"
   accentcity: "Digerman"
-digermen': 
+digermen: 
   city: "digermen'"
   accentcity: "Digermen'"
 diirmentobe: 
@@ -7695,7 +7695,7 @@ dimitrova:
 dimitrovo: 
   city: "dimitrovo"
   accentcity: "Dimitrovo"
-dirizhaol': 
+dirizhaol: 
   city: "dirizhaol'"
   accentcity: "Dirizhaol'"
 dirkekuduk: 
@@ -7770,10 +7770,10 @@ dobromyslovka:
 dobrov: 
   city: "dobrov"
   accentcity: "Dobrov"
-dobrovol'noye: 
+dobrovolnoye: 
   city: "dobrovol'noye"
   accentcity: "Dobrovol'noye"
-dobrovol'skoye: 
+dobrovolskoye: 
   city: "dobrovol'skoye"
   accentcity: "Dobrovol'skoye"
 dobrozhanovka: 
@@ -7896,7 +7896,7 @@ dongelek:
 dongolek: 
   city: "dongolek"
   accentcity: "Dongolek"
-dongul'agash: 
+dongulagash: 
   city: "dongul'agash"
   accentcity: "Dongul'agash"
 donguztau: 
@@ -8049,10 +8049,10 @@ dukhovnitskoye:
 dulaty: 
   city: "dulaty"
   accentcity: "Dulaty"
-dul'dul': 
+duldul: 
   city: "dul'dul'"
   accentcity: "Dul'dul'"
-dulygalinskaya mechet': 
+dulygalinskaya mechet: 
   city: "dulygalinskaya mechet'"
   accentcity: "Dulygalinskaya Mechet'"
 dunanbay: 
@@ -8079,16 +8079,16 @@ duzgali:
 duzgaly: 
   city: "duzgaly"
   accentcity: "Duzgaly"
-dvadtsat' let velikogo oktyabrya: 
+dvadtsat let velikogo oktyabrya: 
   city: "dvadtsat' let velikogo oktyabrya"
   accentcity: "Dvadtsat' Let Velikogo Oktyabrya"
-dvadtsat' pyat' let oktyabrya: 
+dvadtsat pyat let oktyabrya: 
   city: "dvadtsat' pyat' let oktyabrya"
   accentcity: "Dvadtsat' Pyat' Let Oktyabrya"
-dvadtsat' vtoroy parts'yezd: 
+dvadtsat vtoroy partsyezd: 
   city: "dvadtsat' vtoroy parts'yezd"
   accentcity: "Dvadtsat' Vtoroy Parts'yezd"
-dvenadtsatogo dekabr': 
+dvenadtsatogo dekabr: 
   city: "dvenadtsatogo dekabr'"
   accentcity: "Dvenadtsatogo Dekabr'"
 dvenadtsatogo dekabrya: 
@@ -8103,13 +8103,13 @@ dvoyniki:
 dvurechnyy: 
   city: "dvurechnyy"
   accentcity: "Dvurechnyy"
-d'yakov: 
+dyakov: 
   city: "d'yakov"
   accentcity: "D'yakov"
 dyerzhavinskoye: 
   city: "dyerzhavinskoye"
   accentcity: "Dyerzhavinskoye"
-dygermen': 
+dygermen: 
   city: "dygermen'"
   accentcity: "Dygermen'"
 dymar: 
@@ -8151,7 +8151,7 @@ dyuseke:
 dyusekenevskiy: 
   city: "dyusekenevskiy"
   accentcity: "Dyusekenevskiy"
-dyusen': 
+dyusen: 
   city: "dyusen'"
   accentcity: "Dyusen'"
 dyuskaragan: 
@@ -8199,7 +8199,7 @@ dzhagar:
 dzhaidan: 
   city: "dzhaidan"
   accentcity: "Dzhaidan"
-dzhail'ma: 
+dzhailma: 
   city: "dzhail'ma"
   accentcity: "Dzhail'ma"
 dzhaindy: 
@@ -8292,7 +8292,7 @@ dzhamantau:
 dzhaman-tuz: 
   city: "dzhaman-tuz"
   accentcity: "Dzhaman-Tuz"
-dzhama-yegen': 
+dzhama-yegen: 
   city: "dzhama-yegen'"
   accentcity: "Dzhama-Yegen'"
 dzhambala: 
@@ -8334,7 +8334,7 @@ dzhana-aryk:
 dzhana-aul: 
   city: "dzhana-aul"
   accentcity: "Dzhana-Aul"
-dzhana-aul'ye: 
+dzhana-aulye: 
   city: "dzhana-aul'ye"
   accentcity: "Dzhana-Aul'ye"
 dzhanabay: 
@@ -8343,7 +8343,7 @@ dzhanabay:
 dzhanadala: 
   city: "dzhanadala"
   accentcity: "Dzhanadala"
-dzhana-dar'ya: 
+dzhana-darya: 
   city: "dzhana-dar'ya"
   accentcity: "Dzhana-Dar'ya"
 dzhana-dzhol: 
@@ -8394,7 +8394,7 @@ dzhana-urus:
 dzhana-utku: 
   city: "dzhana-utku"
   accentcity: "Dzhana-Utku"
-dzhana-utkul': 
+dzhana-utkul: 
   city: "dzhana-utkul'"
   accentcity: "Dzhana-Utkul'"
 dzhanbay: 
@@ -8427,13 +8427,13 @@ dzhangala:
 dzhangana: 
   city: "dzhangana"
   accentcity: "Dzhangana"
-dzhangel'dina: 
+dzhangeldina: 
   city: "dzhangel'dina"
   accentcity: "Dzhangel'dina"
 dzhan-gendyr: 
   city: "dzhan-gendyr"
   accentcity: "Dzhan-Gendyr"
-dzhangil'dino: 
+dzhangildino: 
   city: "dzhangil'dino"
   accentcity: "Dzhangil'dino"
 dzhangisaz: 
@@ -8508,13 +8508,13 @@ dzharkent:
 dzharkomys: 
   city: "dzharkomys"
   accentcity: "Dzharkomys"
-dzharkul': 
+dzharkul: 
   city: "dzharkul'"
   accentcity: "Dzharkul'"
 dzharly: 
   city: "dzharly"
   accentcity: "Dzharly"
-dzharly-kul': 
+dzharly-kul: 
   city: "dzharly-kul'"
   accentcity: "Dzharly-Kul'"
 dzharmukhambet: 
@@ -8535,7 +8535,7 @@ dzhartasskiy:
 dzhar-togay: 
   city: "dzhar-togay"
   accentcity: "Dzhar-Togay"
-dzhasary-kul': 
+dzhasary-kul: 
   city: "dzhasary-kul'"
   accentcity: "Dzhasary-Kul'"
 dzhasbuyn: 
@@ -8547,7 +8547,7 @@ dzhas-enbek:
 dzhas-kayrat: 
   city: "dzhas-kayrat"
   accentcity: "Dzhas-Kayrat"
-dzhasnkol': 
+dzhasnkol: 
   city: "dzhasnkol'"
   accentcity: "Dzhasnkol'"
 dzhas talal: 
@@ -8625,7 +8625,7 @@ dzhetygora:
 dzhetygorinskiy sovkhoz: 
   city: "dzhetygorinskiy sovkhoz"
   accentcity: "Dzhetygorinskiy Sovkhoz"
-dzhety-kul': 
+dzhety-kul: 
   city: "dzhety-kul'"
   accentcity: "Dzhety-Kul'"
 dzhetysay: 
@@ -8646,7 +8646,7 @@ dzhezdy:
 dzhezkazgan: 
   city: "dzhezkazgan"
   accentcity: "Dzhezkazgan"
-dzhez-kul': 
+dzhez-kul: 
   city: "dzhez-kul'"
   accentcity: "Dzhez-Kul'"
 dzhger: 
@@ -8664,7 +8664,7 @@ dzhigalgan:
 dzhilandy: 
   city: "dzhilandy"
   accentcity: "Dzhilandy"
-dzhil'bastau: 
+dzhilbastau: 
   city: "dzhil'bastau"
   accentcity: "Dzhil'bastau"
 dzhilga: 
@@ -8679,22 +8679,22 @@ dzhimugale:
 dzhimugale-karambayev: 
   city: "dzhimugale-karambayev"
   accentcity: "Dzhimugale-Karambayev"
-dzhingel'dy: 
+dzhingeldy: 
   city: "dzhingel'dy"
   accentcity: "Dzhingel'dy"
-dzhingil'd-kul: 
+dzhingild-kul: 
   city: "dzhingil'd-kul"
   accentcity: "Dzhingil'd-Kul"
-dzhingil': 
+dzhingil: 
   city: "dzhingil'"
   accentcity: "Dzhingil'"
-dzhingyld-kul': 
+dzhingyld-kul: 
   city: "dzhingyld-kul'"
   accentcity: "Dzhingyld-Kul'"
-dzhiren'-aygyr: 
+dzhiren-aygyr: 
   city: "dzhiren'-aygyr"
   accentcity: "Dzhiren'-Aygyr"
-dzhiren'-kupa: 
+dzhiren-kupa: 
   city: "dzhiren'-kupa"
   accentcity: "Dzhiren'-Kupa"
 dzhiyembet: 
@@ -8727,7 +8727,7 @@ dzhu:
 dzhulan: 
   city: "dzhulan"
   accentcity: "Dzhulan"
-dzhul'-bars: 
+dzhul-bars: 
   city: "dzhul'-bars"
   accentcity: "Dzhul'-Bars"
 dzhuldbayev: 
@@ -8811,7 +8811,7 @@ dzhuvantobe:
 dzhuvan-tyube: 
   city: "dzhuvan-tyube"
   accentcity: "Dzhuvan-Tyube"
-dzhuvanysh-kul': 
+dzhuvanysh-kul: 
   city: "dzhuvanysh-kul'"
   accentcity: "Dzhuvanysh-Kul'"
 dzhuynek: 
@@ -8847,7 +8847,7 @@ ekibastuz:
 ekibastuzskiy: 
   city: "ekibastuzskiy"
   accentcity: "Ekibastuzskiy"
-ekibastuzugol': 
+ekibastuzugol: 
   city: "ekibastuzugol'"
   accentcity: "Ekibastuzugol'"
 ekidin: 
@@ -8880,7 +8880,7 @@ ekpyn:
 elaman: 
   city: "elaman"
   accentcity: "Elaman"
-el'bay: 
+elbay: 
   city: "el'bay"
   accentcity: "El'bay"
 elenovka: 
@@ -8892,16 +8892,16 @@ elitnoye:
 elizavetinka: 
   city: "elizavetinka"
   accentcity: "Elizavetinka"
-el'tay: 
+eltay: 
   city: "el'tay"
   accentcity: "El'tay"
 eltay: 
   city: "eltay"
   accentcity: "Eltay"
-el'tonskiy: 
+eltonskiy: 
   city: "el'tonskiy"
   accentcity: "El'tonskiy"
-el'tyndy: 
+eltyndy: 
   city: "el'tyndy"
   accentcity: "El'tyndy"
 embaaul: 
@@ -8922,7 +8922,7 @@ embenskiy:
 embi: 
   city: "embi"
   accentcity: "Embi"
-emel'tau: 
+emeltau: 
   city: "emel'tau"
   accentcity: "Emel'tau"
 emiltau: 
@@ -8940,16 +8940,16 @@ enbeksh:
 enbekshi: 
   city: "enbekshi"
   accentcity: "Enbekshi"
-enbekshil'der: 
+enbekshilder: 
   city: "enbekshil'der"
   accentcity: "Enbekshil'der"
 enbekshilderski: 
   city: "enbekshilderski"
   accentcity: "Enbekshilderski"
-enbekshil'derskiy: 
+enbekshilderskiy: 
   city: "enbekshil'derskiy"
   accentcity: "Enbekshil'derskiy"
-enbekshil'derskoye: 
+enbekshilderskoye: 
   city: "enbekshil'derskoye"
   accentcity: "Enbekshil'derskoye"
 enbekty: 
@@ -9027,7 +9027,7 @@ esil:
 eskene: 
   city: "eskene"
   accentcity: "Eskene"
-eski-bugun': 
+eski-bugun: 
   city: "eski-bugun'"
   accentcity: "Eski-Bugun'"
 eskiikan: 
@@ -9102,10 +9102,10 @@ ferma nomer chetyre sovkhoza chardara:
 ferma nomer dva sovkhoza bersuatskiy: 
   city: "ferma nomer dva sovkhoza bersuatskiy"
   accentcity: "Ferma Nomer Dva Sovkhoza Bersuatskiy"
-ferma nomer dva sovkhoza marzhankol'skiy: 
+ferma nomer dva sovkhoza marzhankolskiy: 
   city: "ferma nomer dva sovkhoza marzhankol'skiy"
   accentcity: "Ferma Nomer Dva Sovkhoza Marzhankol'skiy"
-ferma nomer odin sovkhoza marzhankol'skiy: 
+ferma nomer odin sovkhoza marzhankolskiy: 
   city: "ferma nomer odin sovkhoza marzhankol'skiy"
   accentcity: "Ferma Nomer Odin Sovkhoza Marzhankol'skiy"
 ferma nomer tri sovkhoza akkansay: 
@@ -9135,7 +9135,7 @@ filinka:
 filippovka: 
   city: "filippovka"
   accentcity: "Filippovka"
-fil'kin: 
+filkin: 
   city: "fil'kin"
   accentcity: "Fil'kin"
 fogelevka: 
@@ -9180,16 +9180,16 @@ fort uritskogo:
 frontovoy: 
   city: "frontovoy"
   accentcity: "Frontovoy"
-frument'evka: 
+frumentevka: 
   city: "frument'evka"
   accentcity: "Frument'evka"
-frument'yevka: 
+frumentyevka: 
   city: "frument'yevka"
   accentcity: "Frument'yevka"
-frument'yevskiy: 
+frumentyevskiy: 
   city: "frument'yevskiy"
   accentcity: "Frument'yevskiy"
-frument'yevskoye: 
+frumentyevskoye: 
   city: "frument'yevskoye"
   accentcity: "Frument'yevskoye"
 frunze: 
@@ -9246,7 +9246,7 @@ galkinskoye:
 gangyushkino: 
   city: "gangyushkino"
   accentcity: "Gangyushkino"
-gan'kino: 
+gankino: 
   city: "gan'kino"
   accentcity: "Gan'kino"
 ganyushkino: 
@@ -9375,7 +9375,7 @@ gniloy:
 gogolevskiy: 
   city: "gogolevskiy"
   accentcity: "Gogolevskiy"
-gogol'skiy: 
+gogolskiy: 
   city: "gogol'skiy"
   accentcity: "Gogol'skiy"
 goloshchekin: 
@@ -9462,16 +9462,16 @@ gordeyevka:
 goristyy: 
   city: "goristyy"
   accentcity: "Goristyy"
-gor'kovskiy: 
+gorkovskiy: 
   city: "gor'kovskiy"
   accentcity: "Gor'kovskiy"
-gor'kovskoe: 
+gorkovskoe: 
   city: "gor'kovskoe"
   accentcity: "Gor'kovskoe"
-gor'kovskoye: 
+gorkovskoye: 
   city: "gor'kovskoye"
   accentcity: "Gor'kovskoye"
-gor'koye: 
+gorkoye: 
   city: "gor'koye"
   accentcity: "Gor'koye"
 gorkunovo: 
@@ -9483,16 +9483,16 @@ gornoe:
 gorno-klyuchevoye: 
   city: "gorno-klyuchevoye"
   accentcity: "Gorno-Klyuchevoye"
-gorno-nikol'skiy: 
+gorno-nikolskiy: 
   city: "gorno-nikol'skiy"
   accentcity: "Gorno-Nikol'skiy"
-gornonikol'skoye: 
+gornonikolskoye: 
   city: "gornonikol'skoye"
   accentcity: "Gornonikol'skoye"
 gornostayevka: 
   city: "gornostayevka"
   accentcity: "Gornostayevka"
-gorno-ul'binka: 
+gorno-ulbinka: 
   city: "gorno-ul'binka"
   accentcity: "Gorno-Ul'binka"
 gornovodskiy: 
@@ -9615,13 +9615,13 @@ grekhovka:
 gremyachiy: 
   city: "gremyachiy"
   accentcity: "Gremyachiy"
-grigor'evka: 
+grigorevka: 
   city: "grigor'evka"
   accentcity: "Grigor'evka"
-grigor'yevka: 
+grigoryevka: 
   city: "grigor'yevka"
   accentcity: "Grigor'yevka"
-grigor'yevskiy: 
+grigoryevskiy: 
   city: "grigor'yevskiy"
   accentcity: "Grigor'yevskiy"
 grinevka: 
@@ -9657,7 +9657,7 @@ gromovka:
 gromovskiy: 
   city: "gromovskiy"
   accentcity: "Gromovskiy"
-grozd': 
+grozd: 
   city: "grozd'"
   accentcity: "Grozd'"
 gruzdevka: 
@@ -9675,7 +9675,7 @@ gryaznovka:
 gubernatorovka: 
   city: "gubernatorovka"
   accentcity: "Gubernatorovka"
-gul'shad: 
+gulshad: 
   city: "gul'shad"
   accentcity: "Gul'shad"
 gulshat: 
@@ -9687,7 +9687,7 @@ gulyayevka:
 gulyaypole: 
   city: "gulyaypole"
   accentcity: "Gulyaypole"
-gurbchen': 
+gurbchen: 
   city: "gurbchen'"
   accentcity: "Gurbchen'"
 gurbshchen: 
@@ -9699,13 +9699,13 @@ gurev:
 guriev: 
   city: "guriev"
   accentcity: "Guriev"
-gur'yanovka: 
+guryanovka: 
   city: "gur'yanovka"
   accentcity: "Gur'yanovka"
-gur'yev: 
+guryev: 
   city: "gur'yev"
   accentcity: "Gur'yev"
-gur'yevskoye: 
+guryevskoye: 
   city: "gur'yevskoye"
   accentcity: "Gur'yevskoye"
 gusakovka: 
@@ -9720,7 +9720,7 @@ gusarskoye:
 gusinaya: 
   city: "gusinaya"
   accentcity: "Gusinaya"
-gusinaya-pristan': 
+gusinaya-pristan: 
   city: "gusinaya-pristan'"
   accentcity: "Gusinaya-Pristan'"
 gvardeyets: 
@@ -9729,7 +9729,7 @@ gvardeyets:
 gvardeyskiy: 
   city: "gvardeyskiy"
   accentcity: "Gvardeyskiy"
-gyul'kubas: 
+gyulkubas: 
   city: "gyul'kubas"
   accentcity: "Gyul'kubas"
 ibata: 
@@ -9780,16 +9780,16 @@ iksbay:
 ilekshar: 
   city: "ilekshar"
   accentcity: "Ilekshar"
-il'geribas: 
+ilgeribas: 
   city: "il'geribas"
   accentcity: "Il'geribas"
-il'ichevka: 
+ilichevka: 
   city: "il'ichevka"
   accentcity: "Il'ichevka"
-il'ichevsk: 
+ilichevsk: 
   city: "il'ichevsk"
   accentcity: "Il'ichevsk"
-il'ich: 
+ilich: 
   city: "il'ich"
   accentcity: "Il'ich"
 ili: 
@@ -9801,13 +9801,13 @@ iliisk:
 ilijek: 
   city: "ilijek"
   accentcity: "Ilijek"
-il'inka: 
+ilinka: 
   city: "il'inka"
   accentcity: "Il'inka"
-il'inskiy: 
+ilinskiy: 
   city: "il'inskiy"
   accentcity: "Il'inskiy"
-il'inskoye: 
+ilinskoye: 
   city: "il'inskoye"
   accentcity: "Il'inskoye"
 iliysk: 
@@ -9822,10 +9822,10 @@ iliyskoye:
 iltay: 
   city: "iltay"
   accentcity: "Iltay"
-il'tay: 
+iltay: 
   city: "il'tay"
   accentcity: "Il'tay"
-il'yasovo: 
+ilyasovo: 
   city: "il'yasovo"
   accentcity: "Il'yasovo"
 ilyich: 
@@ -9861,7 +9861,7 @@ imeni akzhunaye:
 imeni altynsarina: 
   city: "imeni altynsarina"
   accentcity: "Imeni Altynsarina"
-imeni amangel'dy: 
+imeni amangeldy: 
   city: "imeni amangel'dy"
   accentcity: "Imeni Amangel'dy"
 imeni andreyeva: 
@@ -9906,7 +9906,7 @@ imeni diny nurpeisovoy:
 imeni dokuchayeva: 
   city: "imeni dokuchayeva"
   accentcity: "Imeni Dokuchayeva"
-imeni dvadtsat' pervogo parts'yezda: 
+imeni dvadtsat pervogo partsyezda: 
   city: "imeni dvadtsat' pervogo parts'yezda"
   accentcity: "Imeni Dvadtsat' Pervogo Parts'yezda"
 imeni dzerzhinskogo: 
@@ -9915,10 +9915,10 @@ imeni dzerzhinskogo:
 imeni dzhambula: 
   city: "imeni dzhambula"
   accentcity: "Imeni Dzhambula"
-imeni dzhangil'dina: 
+imeni dzhangildina: 
   city: "imeni dzhangil'dina"
   accentcity: "Imeni Dzhangil'dina"
-imeni engel'sa: 
+imeni engelsa: 
   city: "imeni engel'sa"
   accentcity: "Imeni Engel'sa"
 imeni frunze: 
@@ -9936,10 +9936,10 @@ imeni gazety pravda:
 imeni gertsena: 
   city: "imeni gertsena"
   accentcity: "Imeni Gertsena"
-imeni gor'kogo: 
+imeni gorkogo: 
   city: "imeni gor'kogo"
   accentcity: "Imeni Gor'kogo"
-imeni il'icha: 
+imeni ilicha: 
   city: "imeni il'icha"
   accentcity: "Imeni Il'icha"
 imeni kaganovicha: 
@@ -9954,7 +9954,7 @@ imeni karla marksa:
 imeni kazakhskogo tsika: 
   city: "imeni kazakhskogo tsika"
   accentcity: "Imeni Kazakhskogo TSIKa"
-imeni khmel'nitskogo: 
+imeni khmelnitskogo: 
   city: "imeni khmel'nitskogo"
   accentcity: "Imeni Khmel'nitskogo"
 imeni khrushcheva: 
@@ -10005,7 +10005,7 @@ imeni lermontova:
 imeni lomonosova: 
   city: "imeni lomonosova"
   accentcity: "Imeni Lomonosova"
-imeni maksima gor'kogo: 
+imeni maksima gorkogo: 
   city: "imeni maksima gor'kogo"
   accentcity: "Imeni Maksima Gor'kogo"
 imeni malenkova: 
@@ -10065,13 +10065,13 @@ imeni pervaya maya:
 imeni pervogo maya: 
   city: "imeni pervogo maya"
   accentcity: "Imeni Pervogo Maya"
-imeni przheval'skogo: 
+imeni przhevalskogo: 
   city: "imeni przheval'skogo"
   accentcity: "Imeni Przheval'skogo"
 imeni pushkina: 
   city: "imeni pushkina"
   accentcity: "Imeni Pushkina"
-imeni pyat'desyatiletiya kazakhskoy sovetskoy sotsialisticheskoy respubliki: 
+imeni pyatdesyatiletiya kazakhskoy sovetskoy sotsialisticheskoy respubliki: 
   city: "imeni pyat'desyatiletiya kazakhskoy sovetskoy sotsialisticheskoy respubliki"
   accentcity: "Imeni Pyat'desyatiletiya Kazakhskoy Sovetskoy Sotsialisticheskoy Respubliki"
 imeni pyatnadtsati let kazakhstana: 
@@ -10110,10 +10110,10 @@ imeni tamanskoy divizii:
 imeni tarana: 
   city: "imeni tarana"
   accentcity: "Imeni Tarana"
-imeni tel'mana: 
+imeni telmana: 
   city: "imeni tel'mana"
   accentcity: "Imeni Tel'mana"
-imeni tel'mana nomer tretiy: 
+imeni telmana nomer tretiy: 
   city: "imeni tel'mana nomer tretiy"
   accentcity: "Imeni Tel'mana Nomer Tretiy"
 imeni timiryazeva: 
@@ -10128,10 +10128,10 @@ imeni tokhtarova:
 imeni tolbukhina: 
   city: "imeni tolbukhina"
   accentcity: "Imeni Tolbukhina"
-imeni tret'yego internatsionala: 
+imeni tretyego internatsionala: 
   city: "imeni tret'yego internatsionala"
   accentcity: "Imeni Tret'yego Internatsionala"
-imeni tret'yey pyatiletki: 
+imeni tretyey pyatiletki: 
   city: "imeni tret'yey pyatiletki"
   accentcity: "Imeni Tret'yey Pyatiletki"
 imeni tridtsati semi let oktyabrya: 
@@ -10146,7 +10146,7 @@ imeni ushakova:
 imeni varoshilova: 
   city: "imeni varoshilova"
   accentcity: "Imeni Varoshilova"
-imeni vil'yamsa: 
+imeni vilyamsa: 
   city: "imeni vil'yamsa"
   accentcity: "Imeni Vil'yamsa"
 imeni volodarskogo: 
@@ -10158,7 +10158,7 @@ imeni voroshilova:
 imeni vorshilova: 
   city: "imeni vorshilova"
   accentcity: "Imeni Vorshilova"
-imeni vos'mogo marta: 
+imeni vosmogo marta: 
   city: "imeni vos'mogo marta"
   accentcity: "Imeni Vos'mogo Marta"
 imeni vtoroy pyatiletki: 
@@ -10170,7 +10170,7 @@ imeni yanko:
 imeni zhdanova: 
   city: "imeni zhdanova"
   accentcity: "Imeni Zhdanova"
-imen' kuduk: 
+imen kuduk: 
   city: "imen' kuduk"
   accentcity: "Imen' Kuduk"
 inbek: 
@@ -10215,16 +10215,16 @@ intemak:
 internatsional: 
   city: "internatsional"
   accentcity: "Internatsional"
-internatsional'naya: 
+internatsionalnaya: 
   city: "internatsional'naya"
   accentcity: "Internatsional'naya"
-internatsional'noe: 
+internatsionalnoe: 
   city: "internatsional'noe"
   accentcity: "Internatsional'noe"
-internatsional'noye: 
+internatsionalnoye: 
   city: "internatsional'noye"
   accentcity: "Internatsional'noye"
-internatsional'nyy: 
+internatsionalnyy: 
   city: "internatsional'nyy"
   accentcity: "Internatsional'nyy"
 intimok: 
@@ -10269,7 +10269,7 @@ irkatan:
 ir-kindyk: 
   city: "ir-kindyk"
   accentcity: "Ir-Kindyk"
-irkol': 
+irkol: 
   city: "irkol'"
   accentcity: "Irkol'"
 irmek: 
@@ -10323,10 +10323,10 @@ isayevo:
 isembay: 
   city: "isembay"
   accentcity: "Isembay"
-isen'gel'dy: 
+isengeldy: 
   city: "isen'gel'dy"
   accentcity: "Isen'gel'dy"
-isen': 
+isen: 
   city: "isen'"
   accentcity: "Isen'"
 ishanbau: 
@@ -10338,7 +10338,7 @@ ishan-bazar:
 ishan: 
   city: "ishan"
   accentcity: "Ishan"
-ishantym': 
+ishantym: 
   city: "ishantym'"
   accentcity: "Ishantym'"
 ishchan-kub: 
@@ -10374,7 +10374,7 @@ iskene:
 iski-dzhanzhal: 
   city: "iski-dzhanzhal"
   accentcity: "Iski-Dzhanzhal"
-iskil'dy: 
+iskildy: 
   city: "iskil'dy"
   accentcity: "Iskil'dy"
 iskine: 
@@ -10389,7 +10389,7 @@ iskinskiy:
 iskra: 
   city: "iskra"
   accentcity: "Iskra"
-islam-kutyr': 
+islam-kutyr: 
   city: "islam-kutyr'"
   accentcity: "Islam-Kutyr'"
 ispaybulak: 
@@ -10398,7 +10398,7 @@ ispaybulak:
 ispulay: 
   city: "ispulay"
   accentcity: "Ispulay"
-ispul': 
+ispul: 
   city: "ispul'"
   accentcity: "Ispul'"
 ispulsy: 
@@ -10431,7 +10431,7 @@ italy:
 itkarlygan: 
   city: "itkarlygan"
   accentcity: "Itkarlygan"
-itmen': 
+itmen: 
   city: "itmen'"
   accentcity: "Itmen'"
 itsary: 
@@ -10530,13 +10530,13 @@ izmaylovskiy:
 izmaylovskoye: 
   city: "izmaylovskoye"
   accentcity: "Izmaylovskoye"
-izobil'noe: 
+izobilnoe: 
   city: "izobil'noe"
   accentcity: "Izobil'noe"
-izobil'noye: 
+izobilnoye: 
   city: "izobil'noye"
   accentcity: "Izobil'noye"
-izobil'nyy: 
+izobilnyy: 
   city: "izobil'nyy"
   accentcity: "Izobil'nyy"
 izumrudnyy: 
@@ -10563,7 +10563,7 @@ jabor-kaynar:
 jabyr-kaynar: 
   city: "jabyr-kaynar"
   accentcity: "Jabyr-Kaynar"
-jail'ma: 
+jailma: 
   city: "jail'ma"
   accentcity: "Jail'ma"
 jakso jartasskiy: 
@@ -10596,7 +10596,7 @@ jana-talak:
 jana-talap: 
   city: "jana-talap"
   accentcity: "Jana-talap"
-jana-utkul': 
+jana-utkul: 
   city: "jana-utkul'"
   accentcity: "Jana-Utkul'"
 jangoz-agachskiy: 
@@ -10659,7 +10659,7 @@ kabaniy:
 kaban: 
   city: "kaban"
   accentcity: "Kaban"
-kaban': 
+kaban: 
   city: "kaban'"
   accentcity: "Kaban'"
 kabankin: 
@@ -10740,10 +10740,10 @@ kaindy:
 kaindy-kara-su: 
   city: "kaindy-kara-su"
   accentcity: "Kaindy-Kara-Su"
-kaindykol': 
+kaindykol: 
   city: "kaindykol'"
   accentcity: "Kaindykol'"
-kaingel'dy: 
+kaingeldy: 
   city: "kaingel'dy"
   accentcity: "Kaingel'dy"
 kaip: 
@@ -10779,7 +10779,7 @@ kakpak:
 kaksalskoe: 
   city: "kaksalskoe"
   accentcity: "Kaksalskoe"
-kaksal'skoye: 
+kaksalskoye: 
   city: "kaksal'skoye"
   accentcity: "Kaksal'skoye"
 kak taylyak-dyuzgun: 
@@ -10794,7 +10794,7 @@ kalachevskiy:
 kalachi: 
   city: "kalachi"
   accentcity: "Kalachi"
-kalagul': 
+kalagul: 
   city: "kalagul'"
   accentcity: "Kalagul'"
 kala: 
@@ -10812,7 +10812,7 @@ kaldybay:
 kaldygayty: 
   city: "kaldygayty"
   accentcity: "Kaldygayty"
-kal'dzhat: 
+kaldzhat: 
   city: "kal'dzhat"
   accentcity: "Kal'dzhat"
 kalenovskiy: 
@@ -10821,7 +10821,7 @@ kalenovskiy:
 kalenyy: 
   city: "kalenyy"
   accentcity: "Kalënyy"
-kalgandar'ya: 
+kalgandarya: 
   city: "kalgandar'ya"
   accentcity: "Kalgandar'ya"
 kalgansyr: 
@@ -10875,7 +10875,7 @@ kalkamak:
 kalkaman: 
   city: "kalkaman"
   accentcity: "Kalkaman"
-kalkhan-kul': 
+kalkhan-kul: 
   city: "kalkhan-kul'"
   accentcity: "Kalkhan-Kul'"
 kalmachikha: 
@@ -10890,10 +10890,10 @@ kalmak:
 kalmakkara: 
   city: "kalmakkara"
   accentcity: "Kalmakkara"
-kalmakkol': 
+kalmakkol: 
   city: "kalmakkol'"
   accentcity: "Kalmakkol'"
-kalmakkol'skiy: 
+kalmakkolskiy: 
   city: "kalmakkol'skiy"
   accentcity: "Kalmakkol'skiy"
 kalmak-kopa: 
@@ -10905,7 +10905,7 @@ kalmak-kora:
 kalmakshabyn: 
   city: "kalmakshabyn"
   accentcity: "Kalmakshabyn"
-kalma-kul': 
+kalma-kul: 
   city: "kalma-kul'"
   accentcity: "Kalma-Kul'"
 kalman: 
@@ -10929,10 +10929,10 @@ kalmyki:
 kalmyk: 
   city: "kalmyk"
   accentcity: "Kalmyk"
-kalmyk-kol': 
+kalmyk-kol: 
   city: "kalmyk-kol'"
   accentcity: "Kalmyk-Kol'"
-kalmykkol': 
+kalmykkol: 
   city: "kalmykkol'"
   accentcity: "Kalmykkol'"
 kalmykova: 
@@ -10944,7 +10944,7 @@ kalmykovo:
 kalmykshaban: 
   city: "kalmykshaban"
   accentcity: "Kalmykshaban"
-kalmy-kul'skiy: 
+kalmy-kulskiy: 
   city: "kalmy-kul'skiy"
   accentcity: "Kalmy-Kul'skiy"
 kalmyky: 
@@ -10953,7 +10953,7 @@ kalmyky:
 kalpak-tyube: 
   city: "kalpak-tyube"
   accentcity: "Kalpak-Tyube"
-kal'shi: 
+kalshi: 
   city: "kal'shi"
   accentcity: "Kal'shi"
 kaltadyrskiy: 
@@ -10962,7 +10962,7 @@ kaltadyrskiy:
 kalugino: 
   city: "kalugino"
   accentcity: "Kalugino"
-kal'zhat: 
+kalzhat: 
   city: "kal'zhat"
   accentcity: "Kal'zhat"
 kamal: 
@@ -11013,7 +11013,7 @@ kamenskiy:
 kamenskoye plato: 
   city: "kamenskoye plato"
   accentcity: "Kamenskoye Plato"
-kamensk-ural'skiy: 
+kamensk-uralskiy: 
   city: "kamensk-ural'skiy"
   accentcity: "Kamensk-Ural'skiy"
 kamerashchi: 
@@ -11025,7 +11025,7 @@ kamerbastau:
 kamkaly: 
   city: "kamkaly"
   accentcity: "Kamkaly"
-kamokol': 
+kamokol: 
   city: "kamokol'"
   accentcity: "Kamokol'"
 kamoshanovskoye: 
@@ -11034,19 +11034,19 @@ kamoshanovskoye:
 kamper-say: 
   city: "kamper-say"
   accentcity: "Kamper-Say"
-kamskol': 
+kamskol: 
   city: "kamskol'"
   accentcity: "Kamskol'"
 kamstaral: 
   city: "kamstaral"
   accentcity: "Kamstaral"
-kamst-kul': 
+kamst-kul: 
   city: "kamst-kul'"
   accentcity: "Kamst-Kul'"
-kamstkul': 
+kamstkul: 
   city: "kamstkul'"
   accentcity: "Kamstkul'"
-kamstnul': 
+kamstnul: 
   city: "kamstnul'"
   accentcity: "Kamstnul'"
 kamynin: 
@@ -11091,7 +11091,7 @@ kamyshnoye:
 kamyshnyy: 
   city: "kamyshnyy"
   accentcity: "Kamyshnyy"
-kamyskol': 
+kamyskol: 
   city: "kamyskol'"
   accentcity: "Kamyskol'"
 kamyslybas: 
@@ -11103,7 +11103,7 @@ kamysta:
 kamysty: 
   city: "kamysty"
   accentcity: "Kamysty"
-kamysty-kul': 
+kamysty-kul: 
   city: "kamysty-kul'"
   accentcity: "Kamysty-Kul'"
 kanabayev: 
@@ -11142,7 +11142,7 @@ kandarskiy:
 kandaurovo: 
   city: "kandaurovo"
   accentcity: "Kandaurovo"
-kandogul': 
+kandogul: 
   city: "kandogul'"
   accentcity: "Kandogul'"
 kandos: 
@@ -11154,7 +11154,7 @@ kandoz:
 kandyagash: 
   city: "kandyagash"
   accentcity: "Kandyagash"
-kandygul': 
+kandygul: 
   city: "kandygul'"
   accentcity: "Kandygul'"
 kandyk: 
@@ -11199,7 +11199,7 @@ kanonerka:
 kanonerskiy: 
   city: "kanonerskiy"
   accentcity: "Kanonerskiy"
-kanshengel': 
+kanshengel: 
   city: "kanshengel'"
   accentcity: "Kanshengel'"
 kansor: 
@@ -11502,7 +11502,7 @@ karagandinskoye:
 karagandy: 
   city: "karagandy"
   accentcity: "Karagandy"
-karagandykol': 
+karagandykol: 
   city: "karagandykol'"
   accentcity: "Karagandykol'"
 karagandyozek: 
@@ -11544,7 +11544,7 @@ karagayl:
 karagayly: 
   city: "karagayly"
   accentcity: "Karagayly"
-karagaylykol': 
+karagaylykol: 
   city: "karagaylykol'"
   accentcity: "Karagaylykol'"
 karagay-terek: 
@@ -11568,7 +11568,7 @@ karagos:
 kara-guga: 
   city: "kara-guga"
   accentcity: "Kara-Guga"
-karagul': 
+karagul: 
   city: "karagul'"
   accentcity: "Karagul'"
 karagun: 
@@ -11682,7 +11682,7 @@ karakoga pervaya:
 karakoga vtoraya: 
   city: "karakoga vtoraya"
   accentcity: "Karakoga Vtoraya"
-karakol': 
+karakol: 
   city: "karakol'"
   accentcity: "Karakol'"
 karakol: 
@@ -11697,10 +11697,10 @@ kara-kolpak:
 karakolski: 
   city: "karakolski"
   accentcity: "Karakolski"
-karakol'skiy: 
+karakolskiy: 
   city: "karakol'skiy"
   accentcity: "Karakol'skiy"
-karakol'sk: 
+karakolsk: 
   city: "karakol'sk"
   accentcity: "Karakol'sk"
 karakomys: 
@@ -11751,10 +11751,10 @@ karakuga:
 karakula: 
   city: "karakula"
   accentcity: "Karakula"
-kara-kul': 
+kara-kul: 
   city: "kara-kul'"
   accentcity: "Kara-Kul'"
-karakul': 
+karakul: 
   city: "karakul'"
   accentcity: "Karakul'"
 karakum: 
@@ -11835,7 +11835,7 @@ karamyshevka:
 karamys: 
   city: "karamys"
   accentcity: "Karamys"
-karamysykkol': 
+karamysykkol: 
   city: "karamysykkol'"
   accentcity: "Karamysykkol'"
 karanogay: 
@@ -11844,7 +11844,7 @@ karanogay:
 karaoba: 
   city: "karaoba"
   accentcity: "Karaoba"
-karaotkel': 
+karaotkel: 
   city: "karaotkel'"
   accentcity: "Karaotkel'"
 karaoy: 
@@ -11928,10 +11928,10 @@ karashchi:
 karasheganak: 
   city: "karasheganak"
   accentcity: "Karasheganak"
-karashengel': 
+karashengel: 
   city: "karashengel'"
   accentcity: "Karashengel'"
-karashenzel': 
+karashenzel: 
   city: "karashenzel'"
   accentcity: "Karashenzel'"
 karashev: 
@@ -11997,7 +11997,7 @@ kara-su:
 karasuk: 
   city: "karasuk"
   accentcity: "Karasuk"
-karasul': 
+karasul: 
   city: "karasul'"
   accentcity: "Karasul'"
 karasuskiy pyatyy: 
@@ -12018,10 +12018,10 @@ karataldy:
 karatal: 
   city: "karatal"
   accentcity: "Karatal"
-karatal'skiy: 
+karatalskiy: 
   city: "karatal'skiy"
   accentcity: "Karatal'skiy"
-karatal'skoye: 
+karatalskoye: 
   city: "karatal'skoye"
   accentcity: "Karatal'skoye"
 karatam: 
@@ -12075,7 +12075,7 @@ karateren:
 kara-tkhum: 
   city: "kara-tkhum"
   accentcity: "Kara-Tkhum"
-karatkul': 
+karatkul: 
   city: "karatkul'"
   accentcity: "Karatkul'"
 karatobe: 
@@ -12153,7 +12153,7 @@ kara-ulen:
 karaul: 
   city: "karaul"
   accentcity: "Karaul"
-karaulkel'dy: 
+karaulkeldy: 
   city: "karaulkel'dy"
   accentcity: "Karaulkel'dy"
 karaultobe: 
@@ -12171,10 +12171,10 @@ karaungur:
 kara-urus: 
   city: "kara-urus"
   accentcity: "Kara-Urus"
-kara-utkol': 
+kara-utkol: 
   city: "kara-utkol'"
   accentcity: "Kara-Utkol'"
-kara-ut-kul': 
+kara-ut-kul: 
   city: "kara-ut-kul'"
   accentcity: "Kara-Ut-Kul'"
 karauya: 
@@ -12186,7 +12186,7 @@ karauyltobe:
 kara-uzek: 
   city: "kara-uzek"
   accentcity: "Kara-Uzek"
-karauzen': 
+karauzen: 
   city: "karauzen'"
   accentcity: "Karauzen'"
 kara-uzyak: 
@@ -12249,7 +12249,7 @@ karazhartas:
 kara-zharz: 
   city: "kara-zharz"
   accentcity: "Kara-Zharz"
-karazhengel': 
+karazhengel: 
   city: "karazhengel'"
   accentcity: "Karazhengel'"
 karazherik: 
@@ -12333,7 +12333,7 @@ karluga:
 karlyk: 
   city: "karlyk"
   accentcity: "Karlyk"
-karlykol': 
+karlykol: 
   city: "karlykol'"
   accentcity: "Karlykol'"
 karmakchi: 
@@ -12432,7 +12432,7 @@ kartashovo:
 kartaspa: 
   city: "kartaspa"
   accentcity: "Kartaspa"
-kartchegen': 
+kartchegen: 
   city: "kartchegen'"
   accentcity: "Kartchegen'"
 kartuz tssyp: 
@@ -12441,10 +12441,10 @@ kartuz tssyp:
 kartym: 
   city: "kartym"
   accentcity: "Kartym"
-kar'yer bala-murun: 
+karyer bala-murun: 
   city: "kar'yer bala-murun"
   accentcity: "Kar'yer Bala-murun"
-kar'yer: 
+karyer: 
   city: "kar'yer"
   accentcity: "Kar'yer"
 karykuduk: 
@@ -12462,7 +12462,7 @@ karynsaldy:
 kary-tomar: 
   city: "kary-tomar"
   accentcity: "Kary-Tomar"
-karzhan': 
+karzhan: 
   city: "karzhan'"
   accentcity: "Karzhan'"
 karzhan: 
@@ -12555,13 +12555,13 @@ kaspan:
 kasparkin: 
   city: "kasparkin"
   accentcity: "Kasparkin"
-kastek-burgun': 
+kastek-burgun: 
   city: "kastek-burgun'"
   accentcity: "Kastek-Burgun'"
 kastek: 
   city: "kastek"
   accentcity: "Kastek"
-kas'yanovka: 
+kasyanovka: 
   city: "kas'yanovka"
   accentcity: "Kas'yanovka"
 kasyk: 
@@ -12639,7 +12639,7 @@ kautayevskiy:
 kavak: 
   city: "kavak"
   accentcity: "Kavak"
-kavkoskol': 
+kavkoskol: 
   city: "kavkoskol'"
   accentcity: "Kavkoskol'"
 kaybagar: 
@@ -12648,7 +12648,7 @@ kaybagar:
 kaychi: 
   city: "kaychi"
   accentcity: "Kaychi"
-kaydaul'skiy: 
+kaydaulskiy: 
   city: "kaydaul'skiy"
   accentcity: "Kaydaul'skiy"
 kaydyk: 
@@ -12693,7 +12693,7 @@ kaynuk:
 kayp: 
   city: "kayp"
   accentcity: "Kayp"
-kayrachkol': 
+kayrachkol: 
   city: "kayrachkol'"
   accentcity: "Kayrachkol'"
 kayrakty: 
@@ -12705,10 +12705,10 @@ kayraktysay:
 kayran: 
   city: "kayran"
   accentcity: "Kayran"
-kayrankol': 
+kayrankol: 
   city: "kayrankol'"
   accentcity: "Kayrankol'"
-kayrankul': 
+kayrankul: 
   city: "kayrankul'"
   accentcity: "Kayrankul'"
 kayrat: 
@@ -12744,10 +12744,10 @@ kayshi:
 kaysuat: 
   city: "kaysuat"
   accentcity: "Kaysuat"
-kayyndykol': 
+kayyndykol: 
   city: "kayyndykol'"
   accentcity: "Kayyndykol'"
-kazach'ye: 
+kazachye: 
   city: "kazach'ye"
   accentcity: "Kazach'ye"
 kazakhaul: 
@@ -12918,10 +12918,10 @@ kekenbay:
 kekey: 
   city: "kekey"
   accentcity: "Kekey"
-kel'batr: 
+kelbatr: 
   city: "kel'batr"
   accentcity: "Kel'batr"
-kel'batyr: 
+kelbatyr: 
   city: "kel'batyr"
   accentcity: "Kel'batyr"
 keles: 
@@ -12933,10 +12933,10 @@ kelintobe:
 kel-kedey: 
   city: "kel-kedey"
   accentcity: "Kel-Kedey"
-kel'kedey: 
+kelkedey: 
   city: "kel'kedey"
   accentcity: "Kel'kedey"
-kel'-kerey: 
+kel-kerey: 
   city: "kel'-kerey"
   accentcity: "Kel'-Kerey"
 kellerevo: 
@@ -12960,7 +12960,7 @@ keltemshet:
 kembayev: 
   city: "kembayev"
   accentcity: "Kembayev"
-kemel': 
+kemel: 
   city: "kemel'"
   accentcity: "Kemel'"
 kemer: 
@@ -12981,7 +12981,7 @@ kempyrsay:
 kenaral: 
   city: "kenaral"
   accentcity: "Kenaral"
-ken'aral'skiy: 
+kenaralskiy: 
   city: "ken'aral'skiy"
   accentcity: "Ken'aral'skiy"
 kenashchi: 
@@ -13032,7 +13032,7 @@ kenes:
 keneskiy: 
   city: "keneskiy"
   accentcity: "Keneskiy"
-kenesshil': 
+kenesshil: 
   city: "kenesshil'"
   accentcity: "Kenesshil'"
 kenes-tobe: 
@@ -13053,10 +13053,10 @@ kenes-tyube:
 kenetay: 
   city: "kenetay"
   accentcity: "Kenetay"
-kenetkol': 
+kenetkol: 
   city: "kenetkol'"
   accentcity: "Kenetkol'"
-kenetkul': 
+kenetkul: 
   city: "kenetkul'"
   accentcity: "Kenetkul'"
 kenez-aryk: 
@@ -13071,10 +13071,10 @@ kengbidayyq:
 kenges: 
   city: "kenges"
   accentcity: "Kenges"
-kengishil': 
+kengishil: 
   city: "kengishil'"
   accentcity: "Kengishil'"
-kengutkol': 
+kengutkol: 
   city: "kengutkol'"
   accentcity: "Kengutkol'"
 kengzhaly: 
@@ -13089,10 +13089,10 @@ kengzhyra:
 kenkiyak: 
   city: "kenkiyak"
   accentcity: "Kenkiyak"
-kenotkel': 
+kenotkel: 
   city: "kenotkel'"
   accentcity: "Kenotkel'"
-kenotkol': 
+kenotkol: 
   city: "kenotkol'"
   accentcity: "Kenotkol'"
 kenoy: 
@@ -13185,7 +13185,7 @@ kerik:
 keriz: 
   city: "keriz"
   accentcity: "Keriz"
-kerkel'mes: 
+kerkelmes: 
   city: "kerkel'mes"
   accentcity: "Kerkel'mes"
 kermek: 
@@ -13212,7 +13212,7 @@ kete-shagil:
 keteshagyl: 
   city: "keteshagyl"
   accentcity: "Keteshagyl"
-ketmen': 
+ketmen: 
   city: "ketmen'"
   accentcity: "Ketmen'"
 ketpen: 
@@ -13257,10 +13257,10 @@ khanatalap:
 khanga: 
   city: "khanga"
   accentcity: "Khanga"
-khankol': 
+khankol: 
   city: "khankol'"
   accentcity: "Khankol'"
-khankul': 
+khankul: 
   city: "khankul'"
   accentcity: "Khankul'"
 khanskiy: 
@@ -13281,28 +13281,28 @@ kharbayskiy:
 kharchev: 
   city: "kharchev"
   accentcity: "Kharchëv"
-khar'kin: 
+kharkin: 
   city: "khar'kin"
   accentcity: "Khar'kin"
 kharkinski: 
   city: "kharkinski"
   accentcity: "Kharkinski"
-khar'kinskiy: 
+kharkinskiy: 
   city: "khar'kinskiy"
   accentcity: "Khar'kinskiy"
-khar'kovalkovka: 
+kharkovalkovka: 
   city: "khar'kovalkovka"
   accentcity: "Khar'kovalkovka"
-khar'kovalovka: 
+kharkovalovka: 
   city: "khar'kovalovka"
   accentcity: "Khar'kovalovka"
-khar'kovka: 
+kharkovka: 
   city: "khar'kovka"
   accentcity: "Khar'kovka"
-khar'kovskiy: 
+kharkovskiy: 
   city: "khar'kovskiy"
   accentcity: "Khar'kovskiy"
-khar'kovskoye: 
+kharkovskoye: 
   city: "khar'kovskoye"
   accentcity: "Khar'kovskoye"
 khasan: 
@@ -13380,10 +13380,10 @@ khleborodnyy:
 khmelevka: 
   city: "khmelevka"
   accentcity: "Khmelëvka"
-khmel'nitskoe: 
+khmelnitskoe: 
   city: "khmel'nitskoe"
   accentcity: "Khmel'nitskoe"
-khmel'nitskoye: 
+khmelnitskoye: 
   city: "khmel'nitskoye"
   accentcity: "Khmel'nitskoye"
 khobda: 
@@ -13449,7 +13449,7 @@ khryashchevskoye:
 khudayar: 
   city: "khudayar"
   accentcity: "Khudayar"
-khuday-kul': 
+khuday-kul: 
   city: "khuday-kul'"
   accentcity: "Khuday-Kul'"
 khudey-bergen: 
@@ -13461,13 +13461,13 @@ khutor asan-kuduk:
 khutor aytishev: 
   city: "khutor aytishev"
   accentcity: "Khutor Aytishev"
-khutor belen'kiy: 
+khutor belenkiy: 
   city: "khutor belen'kiy"
   accentcity: "Khutor Belen'kiy"
 khutor bully: 
   city: "khutor bully"
   accentcity: "Khutor Bully"
-khutor fedos'yev: 
+khutor fedosyev: 
   city: "khutor fedos'yev"
   accentcity: "Khutor Fedos'yev"
 khutor grishin: 
@@ -13512,7 +13512,7 @@ khutor sunali:
 khutor ushenino: 
   city: "khutor ushenino"
   accentcity: "Khutor Ushenino"
-khutor vas'kin-kuduk: 
+khutor vaskin-kuduk: 
   city: "khutor vas'kin-kuduk"
   accentcity: "Khutor Vas'kin-Kuduk"
 khutor zhegulevtsev: 
@@ -13551,7 +13551,7 @@ kiikkashkan:
 kiik: 
   city: "kiik"
   accentcity: "Kiik"
-kiik-mechet': 
+kiik-mechet: 
   city: "kiik-mechet'"
   accentcity: "Kiik-Mechet'"
 kiikqashqan: 
@@ -13569,19 +13569,19 @@ kiizhibayeva:
 kilbagyr: 
   city: "kilbagyr"
   accentcity: "Kilbagyr"
-kil'basyr: 
+kilbasyr: 
   city: "kil'basyr"
   accentcity: "Kil'basyr"
-kil': 
+kil: 
   city: "kil'"
   accentcity: "Kil'"
-kil'zhat: 
+kilzhat: 
   city: "kil'zhat"
   accentcity: "Kil'zhat"
 kimbay: 
   city: "kimbay"
   accentcity: "Kimbay"
-kimer-sayek-kul': 
+kimer-sayek-kul: 
   city: "kimer-sayek-kul'"
   accentcity: "Kimer-Sayek-Kul'"
 kim: 
@@ -13617,10 +13617,10 @@ kindzhali:
 kindzharyk: 
   city: "kindzharyk"
   accentcity: "Kindzharyk"
-kindzhi-kul': 
+kindzhi-kul: 
   city: "kindzhi-kul'"
   accentcity: "Kindzhi-Kul'"
-kinel': 
+kinel: 
   city: "kinel'"
   accentcity: "Kinel'"
 kinshalgin: 
@@ -13704,7 +13704,7 @@ kishaul:
 kishikiik: 
   city: "kishikiik"
   accentcity: "Kishikiik"
-kishikol': 
+kishikol: 
   city: "kishikol'"
   accentcity: "Kishikol'"
 kishikol: 
@@ -13731,13 +13731,13 @@ kishiyespe:
 kishkantay chal: 
   city: "kishkantay chal"
   accentcity: "Kishkantay Chal"
-kishkenekol': 
+kishkenekol: 
   city: "kishkenekol'"
   accentcity: "Kishkenekol'"
 kishkenekopa: 
   city: "kishkenekopa"
   accentcity: "Kishkenekopa"
-kishkene-kul': 
+kishkene-kul: 
   city: "kishkene-kul'"
   accentcity: "Kishkene-Kul'"
 kishkeneshal: 
@@ -13797,7 +13797,7 @@ kiyaly:
 kiyan: 
   city: "kiyan"
   accentcity: "Kiyan"
-kiya-otkel': 
+kiya-otkel: 
   city: "kiya-otkel'"
   accentcity: "Kiya-Otkel'"
 kiyat: 
@@ -13875,7 +13875,7 @@ kizyl-koigan:
 kizyl-kuga: 
   city: "kizyl-kuga"
   accentcity: "Kizyl-Kuga"
-kizyl-mechet': 
+kizyl-mechet: 
   city: "kizyl-mechet'"
   accentcity: "Kizyl-Mechet'"
 kizyltau: 
@@ -13896,19 +13896,19 @@ kladbinka:
 klak: 
   city: "klak"
   accentcity: "Klak"
-klement'evka: 
+klementevka: 
   city: "klement'evka"
   accentcity: "Klement'evka"
-klement'yevka: 
+klementyevka: 
   city: "klement'yevka"
   accentcity: "Klement'yevka"
-klement'yevskiy: 
+klementyevskiy: 
   city: "klement'yevskiy"
   accentcity: "Klement'yevskiy"
 kleshchenka: 
   city: "kleshchenka"
   accentcity: "Kleshchenka"
-kliment'yevka: 
+klimentyevka: 
   city: "kliment'yevka"
   accentcity: "Kliment'yevka"
 klim: 
@@ -13995,10 +13995,10 @@ kocherzhinovka:
 kochetayev: 
   city: "kochetayev"
   accentcity: "Kochetayev"
-kochev'ye saga-kuduk: 
+kochevye saga-kuduk: 
   city: "kochev'ye saga-kuduk"
   accentcity: "Kochev'ye Saga-Kuduk"
-kochev'ye udyuk: 
+kochevye udyuk: 
   city: "kochev'ye udyuk"
   accentcity: "Kochev'ye Udyuk"
 kochkar: 
@@ -14034,7 +14034,7 @@ kogalo:
 kogaly: 
   city: "kogaly"
   accentcity: "Kogaly"
-kogalykol': 
+kogalykol: 
   city: "kogalykol'"
   accentcity: "Kogalykol'"
 kogam: 
@@ -14046,7 +14046,7 @@ kogertu:
 kogoday: 
   city: "kogoday"
   accentcity: "Kogoday"
-kogol'-kul': 
+kogol-kul: 
   city: "kogol'-kul'"
   accentcity: "Kogol'-Kul'"
 kogozek: 
@@ -14118,10 +14118,10 @@ kokkatyn:
 kokkaynar: 
   city: "kokkaynar"
   accentcity: "Kokkaynar"
-kokkol': 
+kokkol: 
   city: "kokkol'"
   accentcity: "Kokkol'"
-kokkul': 
+kokkul: 
   city: "kokkul'"
   accentcity: "Kokkul'"
 koklekty: 
@@ -14130,16 +14130,16 @@ koklekty:
 kokmardan: 
   city: "kokmardan"
   accentcity: "Kokmardan"
-kokmechet': 
+kokmechet: 
   city: "kokmechet'"
   accentcity: "Kokmechet'"
 kokmeshit: 
   city: "kokmeshit"
   accentcity: "Kokmeshit"
-kokmol'der: 
+kokmolder: 
   city: "kokmol'der"
   accentcity: "Kokmol'der"
-kokmol'dir: 
+kokmoldir: 
   city: "kokmol'dir"
   accentcity: "Kokmol'dir"
 kokozek: 
@@ -14154,7 +14154,7 @@ kokpek:
 kokpekti: 
   city: "kokpekti"
   accentcity: "K\xC3\xB6kpekti"
-kokpektikol': 
+kokpektikol: 
   city: "kokpektikol'"
   accentcity: "Kokpektikol'"
 kokpektinskiy: 
@@ -14169,7 +14169,7 @@ kokryuk:
 koksal: 
   city: "koksal"
   accentcity: "Koksal"
-koksal'skoye: 
+koksalskoye: 
   city: "koksal'skoye"
   accentcity: "Koksal'skoye"
 kok-sarai: 
@@ -14220,7 +14220,7 @@ koktau:
 koktem: 
   city: "koktem"
   accentcity: "Koktem"
-koktenkol': 
+koktenkol: 
   city: "koktenkol'"
   accentcity: "Koktenkol'"
 kok-tepe: 
@@ -14247,7 +14247,7 @@ kok-tul:
 koktuma: 
   city: "koktuma"
   accentcity: "Koktuma"
-koktun-kul': 
+koktun-kul: 
   city: "koktun-kul'"
   accentcity: "Koktun-Kul'"
 kokty: 
@@ -14286,28 +14286,28 @@ kokzhota:
 kokzhyra: 
   city: "kokzhyra"
   accentcity: "K\xC3\xB6kzhyra"
-kol'aryk: 
+kolaryk: 
   city: "kol'aryk"
   accentcity: "Kol'aryk"
-kol'ashchi: 
+kolashchi: 
   city: "kol'ashchi"
   accentcity: "Kol'ashchi"
 kolasor: 
   city: "kolasor"
   accentcity: "Kolasor"
-kol'bastau: 
+kolbastau: 
   city: "kol'bastau"
   accentcity: "Kol'bastau"
-kol'basy: 
+kolbasy: 
   city: "kol'basy"
   accentcity: "Kol'basy"
-kolbaykol': 
+kolbaykol: 
   city: "kolbaykol'"
   accentcity: "Kolbaykol'"
-kol'bike: 
+kolbike: 
   city: "kol'bike"
   accentcity: "Kol'bike"
-kol'-blak: 
+kol-blak: 
   city: "kol'-blak"
   accentcity: "Kol'-Blak"
 kolchoznoye: 
@@ -14322,7 +14322,7 @@ koldygayty:
 koldynensay: 
   city: "koldynensay"
   accentcity: "Koldynensay"
-kol'dzhat: 
+koldzhat: 
   city: "kol'dzhat"
   accentcity: "Kol'dzhat"
 kolenovski: 
@@ -14334,10 +14334,10 @@ kolesnikovka:
 kolesov: 
   city: "kolesov"
   accentcity: "Kolësov"
-kol'jat: 
+koljat: 
   city: "kol'jat"
   accentcity: "Kol'jat"
-kol'kamys: 
+kolkamys: 
   city: "kol'kamys"
   accentcity: "Kol'kamys"
 kolkamys: 
@@ -14352,7 +14352,7 @@ kolkhoz imeni amangeldy:
 kolkhoz imeni chapayeva: 
   city: "kolkhoz imeni chapayeva"
   accentcity: "Kolkhoz Imeni Chapayeva"
-kolkhoz imeni engel'sa: 
+kolkhoz imeni engelsa: 
   city: "kolkhoz imeni engel'sa"
   accentcity: "Kolkhoz Imeni Engel'sa"
 kolkhoz imeni kalinina: 
@@ -14394,7 +14394,7 @@ kolkhoznoye:
 kolkhoz sutkent: 
   city: "kolkhoz sutkent"
   accentcity: "Kolkhoz Sutkent"
-kol'-koman: 
+kol-koman: 
   city: "kol'-koman"
   accentcity: "Kol'-Koman"
 kollektivnoye: 
@@ -14406,13 +14406,13 @@ kollektivnyy:
 kolmak aral: 
   city: "kolmak aral"
   accentcity: "Kolmak Aral"
-kolmakkol': 
+kolmakkol: 
   city: "kolmakkol'"
   accentcity: "Kolmakkol'"
 kolmysh: 
   city: "kolmysh"
   accentcity: "Kolmysh"
-kolodez chingil'dy: 
+kolodez chingildy: 
   city: "kolodez chingil'dy"
   accentcity: "Kolodez Chingil'dy"
 kolokolovka: 
@@ -14442,37 +14442,37 @@ kolovertnyy:
 kolpakovskoye: 
   city: "kolpakovskoye"
   accentcity: "Kolpakovskoye"
-kol'sary: 
+kolsary: 
   city: "kol'sary"
   accentcity: "Kol'sary"
-kol'sheman: 
+kolsheman: 
   city: "kol'sheman"
   accentcity: "Kol'sheman"
-kol'shengel': 
+kolshengel: 
   city: "kol'shengel'"
   accentcity: "Kol'shengel'"
-kol'shik: 
+kolshik: 
   city: "kol'shik"
   accentcity: "Kol'shik"
 kolshyengyel: 
   city: "kolshyengyel"
   accentcity: "Kolshyengyel"
-kol'tabak: 
+koltabak: 
   city: "kol'tabak"
   accentcity: "Kol'tabak"
-kol'taban: 
+koltaban: 
   city: "kol'taban"
   accentcity: "Kol'taban"
 koltoban: 
   city: "koltoban"
   accentcity: "Koltoban"
-kol'tobe: 
+koltobe: 
   city: "kol'tobe"
   accentcity: "Kol'tobe"
-kol'togan: 
+koltogan: 
   city: "kol'togan"
   accentcity: "Kol'togan"
-kol'tsovka: 
+koltsovka: 
   city: "kol'tsovka"
   accentcity: "Kol'tsovka"
 koltupa: 
@@ -14481,10 +14481,10 @@ koltupa:
 koluton: 
   city: "koluton"
   accentcity: "Koluton"
-kol'zhat: 
+kolzhat: 
   city: "kol'zhat"
   accentcity: "Kol'zhat"
-komar-mechet': 
+komar-mechet: 
   city: "komar-mechet'"
   accentcity: "Komar-Mechet'"
 komarovka: 
@@ -14520,7 +14520,7 @@ kommucha:
 kommuna: 
   city: "kommuna"
   accentcity: "Kommuna"
-kommunal'naya: 
+kommunalnaya: 
   city: "kommunal'naya"
   accentcity: "Kommunal'naya"
 kommunar: 
@@ -14553,19 +14553,19 @@ komsomolets:
 komsomol: 
   city: "komsomol"
   accentcity: "Komsomol"
-komsomol'skaya: 
+komsomolskaya: 
   city: "komsomol'skaya"
   accentcity: "Komsomol'skaya"
-komsomol'skiy: 
+komsomolskiy: 
   city: "komsomol'skiy"
   accentcity: "Komsomol'skiy"
-komsomol'skoe: 
+komsomolskoe: 
   city: "komsomol'skoe"
   accentcity: "Komsomol'skoe"
-komsomol'skoye: 
+komsomolskoye: 
   city: "komsomol'skoye"
   accentcity: "Komsomol'skoye"
-komyskol': 
+komyskol: 
   city: "komyskol'"
   accentcity: "Komyskol'"
 konayevskiy: 
@@ -14595,19 +14595,19 @@ kondra:
 kondratovka: 
   city: "kondratovka"
   accentcity: "Kondratovka"
-kondrat'yeva: 
+kondratyeva: 
   city: "kondrat'yeva"
   accentcity: "Kondrat'yeva"
-kondrat'yevka: 
+kondratyevka: 
   city: "kondrat'yevka"
   accentcity: "Kondrat'yevka"
-kondrat'yevo: 
+kondratyevo: 
   city: "kondrat'yevo"
   accentcity: "Kondrat'yevo"
-kondrat'yevskiy: 
+kondratyevskiy: 
   city: "kondrat'yevskiy"
   accentcity: "Kondrat'yevskiy"
-kondrat'yevskoye: 
+kondratyevskoye: 
   city: "kondrat'yevskoye"
   accentcity: "Kondrat'yevskoye"
 kondubay: 
@@ -14712,7 +14712,7 @@ konturz:
 kontyubinskaya: 
   city: "kontyubinskaya"
   accentcity: "Kontyubinskaya"
-konurkol': 
+konurkol: 
   city: "konurkol'"
   accentcity: "Konurkol'"
 konur: 
@@ -14805,7 +14805,7 @@ kopanbulak:
 kopaninskaya: 
   city: "kopaninskaya"
   accentcity: "Kopaninskaya"
-kopan' karpova: 
+kopan karpova: 
   city: "kopan' karpova"
   accentcity: "Kopan' Karpova"
 kopapan: 
@@ -14826,7 +14826,7 @@ kop-bala:
 kopbaykal: 
   city: "kopbaykal"
   accentcity: "Kopbaykal"
-kopbaykol': 
+kopbaykol: 
   city: "kopbaykol'"
   accentcity: "Kopbaykol'"
 kopbirlik: 
@@ -14868,7 +14868,7 @@ kopobay:
 koptadyrskiy: 
   city: "koptadyrskiy"
   accentcity: "Koptadyrskiy"
-koptemkol': 
+koptemkol: 
   city: "koptemkol'"
   accentcity: "Koptemkol'"
 koptogay: 
@@ -15027,7 +15027,7 @@ korykshar:
 korys: 
   city: "korys"
   accentcity: "Korys"
-korzhinkol': 
+korzhinkol: 
   city: "korzhinkol'"
   accentcity: "Korzhinkol'"
 korzhin: 
@@ -15036,16 +15036,16 @@ korzhin:
 korzhov: 
   city: "korzhov"
   accentcity: "Korzhov"
-korzhunkol': 
+korzhunkol: 
   city: "korzhunkol'"
   accentcity: "Korzhunkol'"
 korzhun: 
   city: "korzhun"
   accentcity: "Korzhun"
-korzhunkul': 
+korzhunkul: 
   city: "korzhunkul'"
   accentcity: "Korzhunkul'"
-korzhynkol': 
+korzhynkol: 
   city: "korzhynkol'"
   accentcity: "Korzhynkol'"
 korzhyn: 
@@ -15102,7 +15102,7 @@ kosboz:
 kosbulak: 
   city: "kosbulak"
   accentcity: "Kosbulak"
-koschagil': 
+koschagil: 
   city: "koschagil'"
   accentcity: "Koschagil'"
 koschagyl: 
@@ -15117,10 +15117,10 @@ kosem:
 koshalak: 
   city: "koshalak"
   accentcity: "Koshalak"
-koshankol': 
+koshankol: 
   city: "koshankol'"
   accentcity: "Koshankol'"
-koshchagil': 
+koshchagil: 
   city: "koshchagil'"
   accentcity: "Koshchagil'"
 kosh-chag: 
@@ -15129,7 +15129,7 @@ kosh-chag:
 kosh-chagyl: 
   city: "kosh-chagyl"
   accentcity: "Kosh-Chagyl"
-koshchekol': 
+koshchekol: 
   city: "koshchekol'"
   accentcity: "Koshchekol'"
 koshchi: 
@@ -15147,7 +15147,7 @@ koshevoe:
 koshevoye: 
   city: "koshevoye"
   accentcity: "Koshevoye"
-koshigul'skiy: 
+koshigulskiy: 
   city: "koshigul'skiy"
   accentcity: "Koshigul'skiy"
 koshi: 
@@ -15177,10 +15177,10 @@ koshkurgan:
 koshmambet: 
   city: "koshmambet"
   accentcity: "Koshmambet"
-kosh-mazgil': 
+kosh-mazgil: 
   city: "kosh-mazgil'"
   accentcity: "Kosh-Mazgil'"
-kosh-mizgil': 
+kosh-mizgil: 
   city: "kosh-mizgil'"
   accentcity: "Kosh-Mizgil'"
 koshnar: 
@@ -15213,7 +15213,7 @@ kos-khutor:
 kos-kochiy: 
   city: "kos-kochiy"
   accentcity: "Kos-Kochiy"
-koskol': 
+koskol: 
   city: "koskol'"
   accentcity: "Koskol'"
 koskopa: 
@@ -15231,13 +15231,13 @@ koskora:
 koskuduk: 
   city: "koskuduk"
   accentcity: "Koskuduk"
-koskul': 
+koskul: 
   city: "koskul'"
   accentcity: "Koskul'"
-koskul'skiy: 
+koskulskiy: 
   city: "koskul'skiy"
   accentcity: "Koskul'skiy"
-kosmezgil': 
+kosmezgil: 
   city: "kosmezgil'"
   accentcity: "Kosmezgil'"
 kosmoldyk: 
@@ -15309,7 +15309,7 @@ kostomarovka:
 kostomarovskoye: 
   city: "kostomarovskoye"
   accentcity: "Kostomarovskoye"
-kostombal'skiy: 
+kostombalskiy: 
   city: "kostombal'skiy"
   accentcity: "Kostombal'skiy"
 kostrikovka: 
@@ -15348,7 +15348,7 @@ kos-uba:
 kos-uyunke: 
   city: "kos-uyunke"
   accentcity: "Kos-Uyunke"
-kosyl': 
+kosyl: 
   city: "kosyl'"
   accentcity: "Kosyl'"
 kos-yunku: 
@@ -15363,13 +15363,13 @@ koszhar:
 kotau-kurshum: 
   city: "kotau-kurshum"
   accentcity: "Kotau-Kurshum"
-kotel'nikov: 
+kotelnikov: 
   city: "kotel'nikov"
   accentcity: "Kotel'nikov"
-kotel'nikovo: 
+kotelnikovo: 
   city: "kotel'nikovo"
   accentcity: "Kotel'nikovo"
-kotel'nyy: 
+kotelnyy: 
   city: "kotel'nyy"
   accentcity: "Kotel'nyy"
 kotovskoye: 
@@ -15384,7 +15384,7 @@ koturgan:
 kotur: 
   city: "kotur"
   accentcity: "Kotur"
-koturkul'skoye: 
+koturkulskoye: 
   city: "koturkul'skoye"
   accentcity: "Koturkul'skoye"
 kotyaevka: 
@@ -15393,7 +15393,7 @@ kotyaevka:
 kotyayevka: 
   city: "kotyayevka"
   accentcity: "Kotyayevka"
-kotyrkol': 
+kotyrkol: 
   city: "kotyrkol'"
   accentcity: "Kotyrkol'"
 kotyr: 
@@ -15420,7 +15420,7 @@ kovalev:
 kovalevskoye: 
   city: "kovalevskoye"
   accentcity: "Kovalevskoye"
-koval': 
+koval: 
   city: "koval'"
   accentcity: "Koval'"
 kovet: 
@@ -15429,13 +15429,13 @@ kovet:
 kovylenka: 
   city: "kovylenka"
   accentcity: "Kovylenka"
-kovyl'naya: 
+kovylnaya: 
   city: "kovyl'naya"
   accentcity: "Kovyl'naya"
-kovyl'noye: 
+kovylnoye: 
   city: "kovyl'noye"
   accentcity: "Kovyl'noye"
-kovyl'nyy: 
+kovylnyy: 
   city: "kovyl'nyy"
   accentcity: "Kovyl'nyy"
 koyambay: 
@@ -15498,7 +15498,7 @@ koybyn:
 koybyy: 
   city: "koybyy"
   accentcity: "Koybyy"
-koygel'dy: 
+koygeldy: 
   city: "koygel'dy"
   accentcity: "Koygel'dy"
 koy-gunzhar: 
@@ -15564,16 +15564,16 @@ kozhakhmet:
 kozhak: 
   city: "kozhak"
   accentcity: "Kozhak"
-kozhakol': 
+kozhakol: 
   city: "kozhakol'"
   accentcity: "Kozhakol'"
 kozha: 
   city: "kozha"
   accentcity: "Kozha"
-kozha-kul': 
+kozha-kul: 
   city: "kozha-kul'"
   accentcity: "Kozha-Kul'"
-kozhakul': 
+kozhakul: 
   city: "kozhakul'"
   accentcity: "Kozhakul'"
 kozhambay: 
@@ -15615,7 +15615,7 @@ kozhekharovskiy:
 kozhevnikov: 
   city: "kozhevnikov"
   accentcity: "Kozhevnikov"
-kozhgul': 
+kozhgul: 
   city: "kozhgul'"
   accentcity: "Kozhgul'"
 kozhigaly: 
@@ -15627,7 +15627,7 @@ kozhukhov:
 kozlushka: 
   city: "kozlushka"
   accentcity: "Kozlushka"
-koz'mo-dem'yanovskiy zavod: 
+kozmo-demyanovskiy zavod: 
   city: "koz'mo-dem'yanovskiy zavod"
   accentcity: "Koz'mo-Dem'yanovskiy Zavod"
 kozol kesen: 
@@ -15687,7 +15687,7 @@ krasnaya zarya:
 krasnaya zvezda: 
   city: "krasnaya zvezda"
   accentcity: "Krasnaya Zvezda"
-krasnen'kiy: 
+krasnenkiy: 
   city: "krasnen'kiy"
   accentcity: "Krasnen'kiy"
 krasnoarmeyskiy: 
@@ -15699,10 +15699,10 @@ krasnoarmeysk:
 krasnoarmeyskoye: 
   city: "krasnoarmeyskoye"
   accentcity: "Krasnoarmeyskoye"
-krasnodol'sk: 
+krasnodolsk: 
   city: "krasnodol'sk"
   accentcity: "Krasnodol'sk"
-krasnodol'skoye: 
+krasnodolskoye: 
   city: "krasnodol'skoye"
   accentcity: "Krasnodol'skoye"
 krasnodonskiy: 
@@ -15747,7 +15747,7 @@ krasnokutskoye:
 krasnokyevka: 
   city: "krasnokyevka"
   accentcity: "Krasnokyevka"
-krasnooktyabr'skiy: 
+krasnooktyabrskiy: 
   city: "krasnooktyabr'skiy"
   accentcity: "Krasnooktyabr'skiy"
 krasnoozerki: 
@@ -15774,10 +15774,10 @@ krasnopreskenskiy:
 krasnopresnenskiy: 
   city: "krasnopresnenskiy"
   accentcity: "Krasnopresnenskiy"
-krasnosel'skiy: 
+krasnoselskiy: 
   city: "krasnosel'skiy"
   accentcity: "Krasnosel'skiy"
-krasnosel'skoye: 
+krasnoselskoye: 
   city: "krasnosel'skoye"
   accentcity: "Krasnosel'skoye"
 krasnovka: 
@@ -15855,7 +15855,7 @@ krasny:
 krasny kut: 
   city: "krasny kut"
   accentcity: "Krasny Kut"
-krasny oktyabr' rybny promysel': 
+krasny oktyabr rybny promysel: 
   city: "krasny oktyabr' rybny promysel'"
   accentcity: "Krasny Oktyabr' Rybny Promysel'"
 krasnyy altay: 
@@ -15906,13 +15906,13 @@ krasnyy most:
 krasnyy okhotnik: 
   city: "krasnyy okhotnik"
   accentcity: "Krasnyy Okhotnik"
-krasnyy oktyabr': 
+krasnyy oktyabr: 
   city: "krasnyy oktyabr'"
   accentcity: "Krasnyy Oktyabr'"
 krasnyy orel: 
   city: "krasnyy orel"
   accentcity: "Krasnyy Orël"
-krasnyy pakhar': 
+krasnyy pakhar: 
   city: "krasnyy pakhar'"
   accentcity: "Krasnyy Pakhar'"
 krasnyy partizan: 
@@ -16041,7 +16041,7 @@ krugloye:
 kruglyy: 
   city: "kruglyy"
   accentcity: "Kruglyy"
-krum-kul': 
+krum-kul: 
   city: "krum-kul'"
   accentcity: "Krum-Kul'"
 krupovskoye: 
@@ -16095,10 +16095,10 @@ krylovka:
 krymskiy: 
   city: "krymskiy"
   accentcity: "Krymskiy"
-ksen': 
+ksen: 
   city: "ksen'"
   accentcity: "Ksen'"
-ksen'yevka: 
+ksenyevka: 
   city: "ksen'yevka"
   accentcity: "Ksen'yevka"
 kshinen: 
@@ -16146,7 +16146,7 @@ kuanysh:
 kuat: 
   city: "kuat"
   accentcity: "Kuat"
-kubakol': 
+kubakol: 
   city: "kubakol'"
   accentcity: "Kubakol'"
 kuba: 
@@ -16155,7 +16155,7 @@ kuba:
 kubal: 
   city: "kubal"
   accentcity: "Kubal"
-kuban': 
+kuban: 
   city: "kuban'"
   accentcity: "Kuban'"
 kubanskiy: 
@@ -16191,7 +16191,7 @@ kudabas:
 kudaimendy winter quarters: 
   city: "kudaimendy winter quarters"
   accentcity: "Kudaimendy Winter Quarters"
-kudaykol': 
+kudaykol: 
   city: "kudaykol'"
   accentcity: "Kudaykol'"
 kuday-mendo winter camp: 
@@ -16230,7 +16230,7 @@ kugaly:
 kugaral: 
   city: "kugaral"
   accentcity: "Kugaral"
-kugenkol': 
+kugenkol: 
   city: "kugenkol'"
   accentcity: "Kugenkol'"
 kugolinskaya: 
@@ -16263,7 +16263,7 @@ kulagino:
 kulaginskaya: 
   city: "kulaginskaya"
   accentcity: "Kulaginskaya"
-kulakol': 
+kulakol: 
   city: "kulakol'"
   accentcity: "Kulakol'"
 kulakova: 
@@ -16305,7 +16305,7 @@ kulan-utpesskiy:
 kularyk: 
   city: "kularyk"
   accentcity: "Kularyk"
-kul'-aryk: 
+kul-aryk: 
   city: "kul'-aryk"
   accentcity: "Kul'-Aryk"
 kulat: 
@@ -16317,16 +16317,16 @@ kulaygyr:
 kulbay: 
   city: "kulbay"
   accentcity: "Kulbay"
-kul'chukay: 
+kulchukay: 
   city: "kul'chukay"
   accentcity: "Kul'chukay"
-kul'chuk: 
+kulchuk: 
   city: "kul'chuk"
   accentcity: "Kul'chuk"
-kul'chum: 
+kulchum: 
   city: "kul'chum"
   accentcity: "Kul'chum"
-kul'denen-say: 
+kuldenen-say: 
   city: "kul'denen-say"
   accentcity: "Kul'denen-Say"
 kuldygul: 
@@ -16344,10 +16344,10 @@ kulik:
 kulikovka: 
   city: "kulikovka"
   accentcity: "Kulikovka"
-kul'kamys: 
+kulkamys: 
   city: "kul'kamys"
   accentcity: "Kul'kamys"
-kul'-kuduk: 
+kul-kuduk: 
   city: "kul'-kuduk"
   accentcity: "Kul'-Kuduk"
 kulmysh: 
@@ -16356,31 +16356,31 @@ kulmysh:
 kulomzino: 
   city: "kulomzino"
   accentcity: "Kulomzino"
-kul'sari: 
+kulsari: 
   city: "kul'sari"
   accentcity: "Kul'sari"
-kul'sary: 
+kulsary: 
   city: "kul'sary"
   accentcity: "Kul'sary"
-kul'tabak: 
+kultabak: 
   city: "kul'tabak"
   accentcity: "Kul'tabak"
-kul'taban: 
+kultaban: 
   city: "kul'taban"
   accentcity: "Kul'taban"
 kultay: 
   city: "kultay"
   accentcity: "Kultay"
-kul'-toban: 
+kul-toban: 
   city: "kul'-toban"
   accentcity: "Kul'-Toban"
-kul'tobe: 
+kultobe: 
   city: "kul'tobe"
   accentcity: "Kul'tobe"
-kul'tura: 
+kultura: 
   city: "kul'tura"
   accentcity: "Kul'tura"
-kul'tushnov: 
+kultushnov: 
   city: "kul'tushnov"
   accentcity: "Kul'tushnov"
 kuludzhun: 
@@ -16395,10 +16395,10 @@ kulun:
 kulyk: 
   city: "kulyk"
   accentcity: "Kulyk"
-kulykol': 
+kulykol: 
   city: "kulykol'"
   accentcity: "Kulykol'"
-kul'zhanbay: 
+kulzhanbay: 
   city: "kul'zhanbay"
   accentcity: "Kul'zhanbay"
 kumak: 
@@ -16425,7 +16425,7 @@ kumay:
 kumbarlyk: 
   city: "kumbarlyk"
   accentcity: "Kumbarlyk"
-kum-bel': 
+kum-bel: 
   city: "kum-bel'"
   accentcity: "Kum-Bel'"
 kum-chaganak: 
@@ -16434,10 +16434,10 @@ kum-chaganak:
 kumchokat: 
   city: "kumchokat"
   accentcity: "Kumchokat"
-kumdykol': 
+kumdykol: 
   city: "kumdykol'"
   accentcity: "Kumdykol'"
-kumdy-kul': 
+kumdy-kul: 
   city: "kumdy-kul'"
   accentcity: "Kumdy-Kul'"
 kumek: 
@@ -16455,7 +16455,7 @@ kumgent:
 kumir-oba: 
   city: "kumir-oba"
   accentcity: "Kumir-Oba"
-kumkal': 
+kumkal: 
   city: "kumkal'"
   accentcity: "Kumkal'"
 kumkent: 
@@ -16467,7 +16467,7 @@ kumkeshu:
 kumkez: 
   city: "kumkez"
   accentcity: "Kumkez"
-kumkol': 
+kumkol: 
   city: "kumkol'"
   accentcity: "Kumkol'"
 kumkuduk: 
@@ -16476,7 +16476,7 @@ kumkuduk:
 kumkyz: 
   city: "kumkyz"
   accentcity: "Kumkyz"
-kumotkel': 
+kumotkel: 
   city: "kumotkel'"
   accentcity: "Kumotkel'"
 kumsagyz: 
@@ -16557,10 +16557,10 @@ kunduzdy:
 kundybay: 
   city: "kundybay"
   accentcity: "Kundybay"
-kundy-kol': 
+kundy-kol: 
   city: "kundy-kol'"
   accentcity: "Kundy-Kol'"
-kundykol': 
+kundykol: 
   city: "kundykol'"
   accentcity: "Kundykol'"
 kundyzdy: 
@@ -16692,10 +16692,10 @@ kurday-pavlovka:
 kurengbel: 
   city: "kurengbel"
   accentcity: "K\xC3\xBCrengbel"
-kurgal'dzhino: 
+kurgaldzhino: 
   city: "kurgal'dzhino"
   accentcity: "Kurgal'dzhino"
-kurgal'dzhinskiy: 
+kurgaldzhinskiy: 
   city: "kurgal'dzhinskiy"
   accentcity: "Kurgal'dzhinskiy"
 kurgan island: 
@@ -16710,13 +16710,13 @@ kurgantas:
 kurgasyn: 
   city: "kurgasyn"
   accentcity: "Kurgasyn"
-kurgul': 
+kurgul: 
   city: "kurgul'"
   accentcity: "Kurgul'"
 kurkem: 
   city: "kurkem"
   accentcity: "Kurkem"
-kurkol': 
+kurkol: 
   city: "kurkol'"
   accentcity: "Kurkol'"
 kurkopa: 
@@ -16830,7 +16830,7 @@ kurty:
 kuruksay: 
   city: "kuruksay"
   accentcity: "Kuruksay"
-kur'ya: 
+kurya: 
   city: "kur'ya"
   accentcity: "Kur'ya"
 kuryk: 
@@ -16848,10 +16848,10 @@ kurylysshy:
 kurzhum: 
   city: "kurzhum"
   accentcity: "Kurzhum"
-kurzhunkul': 
+kurzhunkul: 
   city: "kurzhunkul'"
   accentcity: "Kurzhunkul'"
-kurzhunkul'skiy: 
+kurzhunkulskiy: 
   city: "kurzhunkul'skiy"
   accentcity: "Kurzhunkul'skiy"
 kusagal: 
@@ -16953,7 +16953,7 @@ kustumsuk:
 kustumsyk: 
   city: "kustumsyk"
   accentcity: "Kustumsyk"
-kusutkol': 
+kusutkol: 
   city: "kusutkol'"
   accentcity: "Kusutkol'"
 kutebey: 
@@ -16980,7 +16980,7 @@ kutikha:
 kut: 
   city: "kut"
   accentcity: "Kut"
-kuton-kul': 
+kuton-kul: 
   city: "kuton-kul'"
   accentcity: "Kuton-Kul'"
 kutur-barbatyr: 
@@ -16995,7 +16995,7 @@ kutuzovka:
 kutuzovskiy: 
   city: "kutuzovskiy"
   accentcity: "Kutuzovskiy"
-kutymkol': 
+kutymkol: 
   city: "kutymkol'"
   accentcity: "Kutymkol'"
 kutyrtas: 
@@ -17055,16 +17055,16 @@ kuybyshevskoe:
 kuybyshevskoye: 
   city: "kuybyshevskoye"
   accentcity: "Kuybyshevskoye"
-kuydaul'skiy: 
+kuydaulskiy: 
   city: "kuydaul'skiy"
   accentcity: "Kuydaul'skiy"
 kuygan: 
   city: "kuygan"
   accentcity: "Kuygan"
-kuygenkol': 
+kuygenkol: 
   city: "kuygenkol'"
   accentcity: "Kuygenkol'"
-kuygen-kul': 
+kuygen-kul: 
   city: "kuygen-kul'"
   accentcity: "Kuygen-Kul'"
 kuygenzhar: 
@@ -17106,10 +17106,10 @@ kuzbasskoye:
 kuzbass: 
   city: "kuzbass"
   accentcity: "Kuzbass"
-kuzdygarakol': 
+kuzdygarakol: 
   city: "kuzdygarakol'"
   accentcity: "Kuzdygarakol'"
-kuzdykarakol': 
+kuzdykarakol: 
   city: "kuzdykarakol'"
   accentcity: "Kuzdykarakol'"
 kuzdykara: 
@@ -17124,7 +17124,7 @@ kuzekadyr:
 kuzembay: 
   city: "kuzembay"
   accentcity: "Kuzembay"
-kuzeun': 
+kuzeun: 
   city: "kuzeun'"
   accentcity: "Kuzeun'"
 kuzeusay: 
@@ -17139,16 +17139,16 @@ kuzha-takhty:
 kuzmichevka: 
   city: "kuzmichevka"
   accentcity: "Kuzmichëvka"
-kuz'minka: 
+kuzminka: 
   city: "kuz'minka"
   accentcity: "Kuz'minka"
-kuz'mino: 
+kuzmino: 
   city: "kuz'mino"
   accentcity: "Kuz'mino"
-kuz'minskiy: 
+kuzminskiy: 
   city: "kuz'minskiy"
   accentcity: "Kuz'minskiy"
-kuz'minskoye: 
+kuzminskoye: 
   city: "kuz'minskoye"
   accentcity: "Kuz'minskoye"
 kuznechnaya: 
@@ -17175,7 +17175,7 @@ kuzyltu:
 kvin: 
   city: "kvin"
   accentcity: "Kvin"
-kyam-amengel'd: 
+kyam-amengeld: 
   city: "kyam-amengel'd"
   accentcity: "Kyam-Amengel'd"
 kyam amergen: 
@@ -17268,7 +17268,7 @@ kyushe:
 kyyakty: 
   city: "kyyakty"
   accentcity: "Kyyakty"
-kyya-otkel': 
+kyya-otkel: 
   city: "kyya-otkel'"
   accentcity: "Kyya-Otkel'"
 kyysykkamys: 
@@ -17280,10 +17280,10 @@ kyzan:
 kyzay: 
   city: "kyzay"
   accentcity: "Kyzay"
-kyzbel': 
+kyzbel: 
   city: "kyzbel'"
   accentcity: "Kyzbel'"
-kyzkol': 
+kyzkol: 
   city: "kyzkol'"
   accentcity: "Kyzkol'"
 kyzkuduk: 
@@ -17367,7 +17367,7 @@ kyzylbayrak:
 kyzylbayran: 
   city: "kyzylbayran"
   accentcity: "Kyzylbayran"
-kyzyl-bel': 
+kyzyl-bel: 
   city: "kyzyl-bel'"
   accentcity: "Kyzyl-Bel'"
 kyzylbulak: 
@@ -17481,7 +17481,7 @@ kyzylkoga:
 kyzylkogam: 
   city: "kyzylkogam"
   accentcity: "Kyzylkogam"
-kyzylkol': 
+kyzylkol: 
   city: "kyzylkol'"
   accentcity: "Kyzylkol'"
 kyzyl-kommuna: 
@@ -17523,7 +17523,7 @@ kyzyl:
 kyzyl-maktash: 
   city: "kyzyl-maktash"
   accentcity: "Kyzyl-Maktash"
-kyzyl-mechet': 
+kyzyl-mechet: 
   city: "kyzyl-mechet'"
   accentcity: "Kyzyl-Mechet'"
 kyzylmeshit: 
@@ -17538,7 +17538,7 @@ kyzylogiz:
 kyzyloguz: 
   city: "kyzyloguz"
   accentcity: "Kyzyloguz"
-kyzyloktyabr': 
+kyzyloktyabr: 
   city: "kyzyloktyabr'"
   accentcity: "Kyzyloktyabr'"
 kyzylorak: 
@@ -17646,7 +17646,7 @@ kyzyluim:
 kyzyluy: 
   city: "kyzyluy"
   accentcity: "Kyzyluy"
-kyzyl-uzen': 
+kyzyl-uzen: 
   city: "kyzyl-uzen'"
   accentcity: "Kyzyl-Uzen'"
 kyzylvykhan: 
@@ -17706,7 +17706,7 @@ kzyl-asker:
 kzyl-balyk: 
   city: "kzyl-balyk"
   accentcity: "Kzyl-Balyk"
-kzyl-bel': 
+kzyl-bel: 
   city: "kzyl-bel'"
   accentcity: "Kzyl-Bel'"
 kzyl-choke: 
@@ -17841,13 +17841,13 @@ lashka-masyanov:
 lasty: 
   city: "lasty"
   accentcity: "Lasty"
-lavrent'evka: 
+lavrentevka: 
   city: "lavrent'evka"
   accentcity: "Lavrent'evka"
-lavrent'yevka: 
+lavrentyevka: 
   city: "lavrent'yevka"
   accentcity: "Lavrent'yevka"
-lavrent'yevskiy: 
+lavrentyevskiy: 
   city: "lavrent'yevskiy"
   accentcity: "Lavrent'yevskiy"
 lavrovka: 
@@ -17880,7 +17880,7 @@ lbishchenskoye:
 lbuzunskiy: 
   city: "lbuzunskiy"
   accentcity: "Lbuzunskiy"
-l'dobaza: 
+ldobaza: 
   city: "l'dobaza"
   accentcity: "L'dobaza"
 ldy: 
@@ -17901,7 +17901,7 @@ lebedok:
 lebezhenski: 
   city: "lebezhenski"
   accentcity: "Lebezhenski"
-lebyazh'e: 
+lebyazhe: 
   city: "lebyazh'e"
   accentcity: "Lebyazh'e"
 lebyazhenka: 
@@ -17913,7 +17913,7 @@ lebyazhenskiy:
 lebyazhiy: 
   city: "lebyazhiy"
   accentcity: "Lebyazhiy"
-lebyazh'ye: 
+lebyazhye: 
   city: "lebyazh'ye"
   accentcity: "Lebyazh'ye"
 ledenevo: 
@@ -17934,7 +17934,7 @@ lengerskij:
 lengerskiy: 
   city: "lengerskiy"
   accentcity: "Lengerskiy"
-lenger-ugol': 
+lenger-ugol: 
   city: "lenger-ugol'"
   accentcity: "Lenger-Ugol'"
 lenina: 
@@ -18018,7 +18018,7 @@ leonidovka:
 leonidovskiy: 
   city: "leonidovskiy"
   accentcity: "Leonidovskiy"
-leont'yevka: 
+leontyevka: 
   city: "leont'yevka"
   accentcity: "Leont'yevka"
 leprozoriy: 
@@ -18042,7 +18042,7 @@ leskhoz arykbalykskiy:
 leskhoz krasnyy kordon: 
   city: "leskhoz krasnyy kordon"
   accentcity: "Leskhoz Krasnyy Kordon"
-lesnaya pristan': 
+lesnaya pristan: 
   city: "lesnaya pristan'"
   accentcity: "Lesnaya Pristan'"
 lesnoe: 
@@ -18186,7 +18186,7 @@ loresh:
 losevka: 
   city: "losevka"
   accentcity: "Losevka"
-los': 
+los: 
   city: "los'"
   accentcity: "Los'"
 lovar: 
@@ -18264,13 +18264,13 @@ luzenka:
 luzinka: 
   city: "luzinka"
   accentcity: "Luzinka"
-l'vovka: 
+lvovka: 
   city: "l'vovka"
   accentcity: "L'vovka"
-l'vovskiy: 
+lvovskiy: 
   city: "l'vovskiy"
   accentcity: "L'vovskiy"
-l'vovskoye: 
+lvovskoye: 
   city: "l'vovskoye"
   accentcity: "L'vovskoye"
 lyagoshin: 
@@ -18330,7 +18330,7 @@ madaniyat:
 madaniyet: 
   city: "madaniyet"
   accentcity: "Madaniyet"
-madan'yat: 
+madanyat: 
   city: "madan'yat"
   accentcity: "Madan'yat"
 madanyyat: 
@@ -18402,10 +18402,10 @@ makarov:
 makarovo: 
   city: "makarovo"
   accentcity: "Makarovo"
-makar'yevka: 
+makaryevka: 
   city: "makar'yevka"
   accentcity: "Makar'yevka"
-makar'yevskiy zavod: 
+makaryevskiy zavod: 
   city: "makar'yevskiy zavod"
   accentcity: "Makar'yevskiy Zavod"
 makashevka: 
@@ -18477,7 +18477,7 @@ makinskoye:
 makish: 
   city: "makish"
   accentcity: "Makish"
-maklakkol': 
+maklakkol: 
   city: "maklakkol'"
   accentcity: "Maklakkol'"
 makovka: 
@@ -18486,10 +18486,10 @@ makovka:
 makovskiy: 
   city: "makovskiy"
   accentcity: "Makovskiy"
-makpalkol': 
+makpalkol: 
   city: "makpalkol'"
   accentcity: "Makpalkol'"
-makpal-ul': 
+makpal-ul: 
   city: "makpal-ul'"
   accentcity: "Makpal-Ul'"
 makpan: 
@@ -18525,7 +18525,7 @@ maktaly:
 maktashi: 
   city: "maktashi"
   accentcity: "Maktashi"
-maktykul'skiy: 
+maktykulskiy: 
   city: "maktykul'skiy"
   accentcity: "Maktykul'skiy"
 mala-blak: 
@@ -18588,7 +18588,7 @@ malaykuduk:
 malay: 
   city: "malay"
   accentcity: "Malay"
-mal'chura: 
+malchura: 
   city: "mal'chura"
   accentcity: "Mal'chura"
 maldar: 
@@ -18615,7 +18615,7 @@ malkara:
 maloaleksandrovka: 
   city: "maloaleksandrovka"
   accentcity: "Maloaleksandrovka"
-maloarkhangel'skoye: 
+maloarkhangelskoye: 
   city: "maloarkhangel'skoye"
   accentcity: "Maloarkhangel'skoye"
 malo-ayaguzskiy: 
@@ -18711,10 +18711,10 @@ malshat:
 malshora: 
   city: "malshora"
   accentcity: "Malshora"
-mal'tsevka: 
+maltsevka: 
   city: "mal'tsevka"
   accentcity: "Mal'tsevka"
-mal'tsevo: 
+maltsevo: 
   city: "mal'tsevo"
   accentcity: "Mal'tsevo"
 maly ayaguzskiy: 
@@ -18735,7 +18735,7 @@ maly vladimirovskiy:
 malyy akzhar: 
   city: "malyy akzhar"
   accentcity: "Malyy Akzhar"
-malyy arikhangel'shiy: 
+malyy arikhangelshiy: 
   city: "malyy arikhangel'shiy"
   accentcity: "Malyy Arikhangel'shiy"
 malyy aydarkhan: 
@@ -18744,7 +18744,7 @@ malyy aydarkhan:
 malyy bereznyaki: 
   city: "malyy bereznyaki"
   accentcity: "Malyy Bereznyaki"
-malyy bukon': 
+malyy bukon: 
   city: "malyy bukon'"
   accentcity: "Malyy Bukon'"
 malyy bystryy: 
@@ -18780,7 +18780,7 @@ malyy sarykuduk:
 malyy sherbakov: 
   city: "malyy sherbakov"
   accentcity: "Malyy Sherbakov"
-malyy sudar': 
+malyy sudar: 
   city: "malyy sudar'"
   accentcity: "Malyy Sudar'"
 malyy taldykuduk: 
@@ -18993,7 +18993,7 @@ martuk:
 martu: 
   city: "martu"
   accentcity: "Martu"
-martyk-kul': 
+martyk-kul: 
   city: "martyk-kul'"
   accentcity: "Martyk-Kul'"
 martynovka: 
@@ -19005,13 +19005,13 @@ martynov:
 martynovo: 
   city: "martynovo"
   accentcity: "Martynovo"
-mar'ya: 
+marya: 
   city: "mar'ya"
   accentcity: "Mar'ya"
-mar'yanovka: 
+maryanovka: 
   city: "mar'yanovka"
   accentcity: "Mar'yanovka"
-mar'yanovskiy: 
+maryanovskiy: 
   city: "mar'yanovskiy"
   accentcity: "Mar'yanovskiy"
 masakbay: 
@@ -19074,7 +19074,7 @@ mastek:
 masteksay: 
   city: "masteksay"
   accentcity: "Masteksay"
-mas'yanovka: 
+masyanovka: 
   city: "mas'yanovka"
   accentcity: "Mas'yanovka"
 masyanov: 
@@ -19155,7 +19155,7 @@ maybazar:
 maybulak: 
   city: "maybulak"
   accentcity: "Maybulak"
-maydakol': 
+maydakol: 
   city: "maydakol'"
   accentcity: "Maydakol'"
 maydan: 
@@ -19194,7 +19194,7 @@ maykaragay:
 mayke: 
   city: "mayke"
   accentcity: "Mayke"
-maykol': 
+maykol: 
   city: "maykol'"
   accentcity: "Maykol'"
 maykomgen: 
@@ -19209,16 +19209,16 @@ maykuben:
 maykuduk: 
   city: "maykuduk"
   accentcity: "Maykuduk"
-may-kul': 
+may-kul: 
   city: "may-kul'"
   accentcity: "May-Kul'"
-maykul'skiy: 
+maykulskiy: 
   city: "maykul'skiy"
   accentcity: "Maykul'skiy"
 maykumgen: 
   city: "maykumgen"
   accentcity: "Maykumgen"
-maylekol': 
+maylekol: 
   city: "maylekol'"
   accentcity: "Maylekol'"
 maylibash: 
@@ -19320,7 +19320,7 @@ maytyubek:
 may-tyube: 
   city: "may-tyube"
   accentcity: "May-Tyube"
-may-usen': 
+may-usen: 
   city: "may-usen'"
   accentcity: "May-Usen'"
 may-uzen: 
@@ -19332,7 +19332,7 @@ mazarka:
 mazgyan: 
   city: "mazgyan"
   accentcity: "Mazgyan"
-mechet': 
+mechet: 
   city: "mechet'"
   accentcity: "Mechet'"
 mechetny: 
@@ -19341,7 +19341,7 @@ mechetny:
 mechetnyy: 
   city: "mechetnyy"
   accentcity: "Mechetnyy"
-mechet'-zhadyk: 
+mechet-zhadyk: 
   city: "mechet'-zhadyk"
   accentcity: "Mechet'-Zhadyk"
 medetbay: 
@@ -19353,7 +19353,7 @@ medine:
 mednyy rudnik: 
   city: "mednyy rudnik"
   accentcity: "Mednyy Rudnik"
-medrezh'ye: 
+medrezhye: 
   city: "medrezh'ye"
   accentcity: "Medrezh'ye"
 medvedevka: 
@@ -19374,7 +19374,7 @@ medvezhinskiy:
 medvezhka: 
   city: "medvezhka"
   accentcity: "Medvezhka"
-medvezh'ye: 
+medvezhye: 
   city: "medvezh'ye"
   accentcity: "Medvezh'ye"
 mekan: 
@@ -19383,16 +19383,16 @@ mekan:
 mektep: 
   city: "mektep"
   accentcity: "Mektep"
-melitopol': 
+melitopol: 
   city: "melitopol'"
   accentcity: "Melitopol'"
 melovoye: 
   city: "melovoye"
   accentcity: "Melovoye"
-mel'zavod desyatyy: 
+melzavod desyatyy: 
   city: "mel'zavod desyatyy"
   accentcity: "Mel'zavod Desyatyy"
-mem'gdvay: 
+memgdvay: 
   city: "mem'gdvay"
   accentcity: "Mem'gdvay"
 mendesh: 
@@ -19401,16 +19401,16 @@ mendesh:
 meney: 
   city: "meney"
   accentcity: "Meney"
-men'gdvay: 
+mengdvay: 
   city: "men'gdvay"
   accentcity: "Men'gdvay"
 menovnoye: 
   city: "menovnoye"
   accentcity: "Menovnoye"
-men'shchikovka: 
+menshchikovka: 
   city: "men'shchikovka"
   accentcity: "Men'shchikovka"
-men'shikovka: 
+menshikovka: 
   city: "men'shikovka"
   accentcity: "Men'shikovka"
 mentek-karasu: 
@@ -19458,7 +19458,7 @@ meshchanka:
 meshchanskiy: 
   city: "meshchanskiy"
   accentcity: "Meshchanskiy"
-meshitkol': 
+meshitkol: 
   city: "meshitkol'"
   accentcity: "Meshitkol'"
 meshitkum: 
@@ -19560,7 +19560,7 @@ milyutinskiy:
 mimlyak: 
   city: "mimlyak"
   accentcity: "Mimlyak"
-mineral'nyye vody: 
+mineralnyye vody: 
   city: "mineral'nyye vody"
   accentcity: "Mineral'nyye Vody"
 miney: 
@@ -19569,16 +19569,16 @@ miney:
 minkeser: 
   city: "minkeser"
   accentcity: "Minkeser"
-min'kovka: 
+minkovka: 
   city: "min'kovka"
   accentcity: "Min'kovka"
-min'kovo: 
+minkovo: 
   city: "min'kovo"
   accentcity: "Min'kovo"
-min'kovskiy: 
+minkovskiy: 
   city: "min'kovskiy"
   accentcity: "Min'kovskiy"
-min'kovskoye: 
+minkovskoye: 
   city: "min'kovskoye"
   accentcity: "Min'kovskoye"
 minovka: 
@@ -19671,7 +19671,7 @@ mnogotsvetnoye:
 modanbat: 
   city: "modanbat"
   accentcity: "Modanbat"
-modyn'yat: 
+modynyat: 
   city: "modyn'yat"
   accentcity: "Modyn'yat"
 mogzyan: 
@@ -19680,7 +19680,7 @@ mogzyan:
 moildy: 
   city: "moildy"
   accentcity: "Moildy"
-moinkul': 
+moinkul: 
   city: "moinkul'"
   accentcity: "Moinkul'"
 moinkum: 
@@ -19791,7 +19791,7 @@ molotovo:
 monach: 
   city: "monach"
   accentcity: "Monach"
-monadyr': 
+monadyr: 
   city: "monadyr'"
   accentcity: "Monadyr'"
 monan-bulak: 
@@ -19893,7 +19893,7 @@ motay:
 motogul: 
   city: "motogul"
   accentcity: "Motogul"
-moyaldy-kupal'naya: 
+moyaldy-kupalnaya: 
   city: "moyaldy-kupal'naya"
   accentcity: "Moyaldy-Kupal'naya"
 moykuduk: 
@@ -19962,7 +19962,7 @@ mukro:
 mukry: 
   city: "mukry"
   accentcity: "Mukry"
-muktikol': 
+muktikol: 
   city: "muktikol'"
   accentcity: "Muktikol'"
 muktikol: 
@@ -19989,7 +19989,7 @@ mulda-shigen:
 muldashkin: 
   city: "muldashkin"
   accentcity: "Muldashkin"
-mul'das: 
+muldas: 
   city: "mul'das"
   accentcity: "Mul'das"
 mulla-asan: 
@@ -20163,10 +20163,10 @@ myastek:
 mykan: 
   city: "mykan"
   accentcity: "Mykan"
-myktykol': 
+myktykol: 
   city: "myktykol'"
   accentcity: "Myktykol'"
-myktykol'skiy: 
+myktykolskiy: 
   city: "myktykol'skiy"
   accentcity: "Myktykol'skiy"
 mynaral: 
@@ -20187,7 +20187,7 @@ myn-chunkur:
 myngbulaq: 
   city: "myngbulaq"
   accentcity: "Myngbulaq"
-mynkol': 
+mynkol: 
   city: "mynkol'"
   accentcity: "Mynkol'"
 myn-shunkur: 
@@ -20226,7 +20226,7 @@ mys topoley:
 mytanov: 
   city: "mytanov"
   accentcity: "Mytanov"
-myuktykol': 
+myuktykol: 
   city: "myuktykol'"
   accentcity: "Myuktykol'"
 myylybulak: 
@@ -20313,7 +20313,7 @@ naronskiy:
 narshu-kunya: 
   city: "narshu-kunya"
   accentcity: "Narshu-Kunya"
-narungul': 
+narungul: 
   city: "narungul'"
   accentcity: "Narungul'"
 narygey: 
@@ -20343,7 +20343,7 @@ natalovka:
 natalovki: 
   city: "natalovki"
   accentcity: "Natalovki"
-natal'yevka: 
+natalyevka: 
   city: "natal'yevka"
   accentcity: "Natal'yevka"
 natashino: 
@@ -20475,7 +20475,7 @@ nikanorovka:
 nikashkin: 
   city: "nikashkin"
   accentcity: "Nikashkin"
-nikel'tau: 
+nikeltau: 
   city: "nikel'tau"
   accentcity: "Nikel'tau"
 nikiforovka: 
@@ -20517,19 +20517,19 @@ nikolayevskiy:
 nikolayevskoye: 
   city: "nikolayevskoye"
   accentcity: "Nikolayevskoye"
-nikol'skiy: 
+nikolskiy: 
   city: "nikol'skiy"
   accentcity: "Nikol'skiy"
-nikol'sk: 
+nikolsk: 
   city: "nikol'sk"
   accentcity: "Nikol'sk"
-nikol'sko-burlukskoye: 
+nikolsko-burlukskoye: 
   city: "nikol'sko-burlukskoye"
   accentcity: "Nikol'sko-Burlukskoye"
-nikol'skoe: 
+nikolskoe: 
   city: "nikol'skoe"
   accentcity: "Nikol'skoe"
-nikol'skoye: 
+nikolskoye: 
   city: "nikol'skoye"
   accentcity: "Nikol'skoye"
 nikonor: 
@@ -20538,7 +20538,7 @@ nikonor:
 nikylevskoe: 
   city: "nikylevskoe"
   accentcity: "Nikylevskoe"
-ninol'skiy: 
+ninolskiy: 
   city: "ninol'skiy"
   accentcity: "Ninol'skiy"
 niva: 
@@ -20643,7 +20643,7 @@ noforeshchanskiy:
 nogaybay: 
   city: "nogaybay"
   accentcity: "Nogaybay"
-nogaykol': 
+nogaykol: 
   city: "nogaykol'"
   accentcity: "Nogaykol'"
 nogay: 
@@ -20658,7 +20658,7 @@ nogibay:
 nogoybay: 
   city: "nogoybay"
   accentcity: "Nogoybay"
-noksal'skoye: 
+noksalskoye: 
   city: "noksal'skoye"
   accentcity: "Noksal'skoye"
 nokush: 
@@ -20694,7 +20694,7 @@ novaya bukhtarma:
 novaya derevnya: 
   city: "novaya derevnya"
   accentcity: "Novaya Derevnya"
-novaya gavan': 
+novaya gavan: 
   city: "novaya gavan'"
   accentcity: "Novaya Gavan'"
 novaya kalinovka: 
@@ -20712,7 +20712,7 @@ novaya khayruzovka:
 novaya pavlovka: 
   city: "novaya pavlovka"
   accentcity: "Novaya Pavlovka"
-novaya shul'ba: 
+novaya shulba: 
   city: "novaya shul'ba"
   accentcity: "Novaya Shul'ba"
 novaya taubinka: 
@@ -20733,10 +20733,10 @@ novaya vladimirovka:
 novaya yermakovka: 
   city: "novaya yermakovka"
   accentcity: "Novaya Yermakovka"
-novaya zhizn': 
+novaya zhizn: 
   city: "novaya zhizn'"
   accentcity: "Novaya Zhizn'"
-noven'kiy: 
+novenkiy: 
   city: "noven'kiy"
   accentcity: "Noven'kiy"
 novi bogatinski: 
@@ -20793,7 +20793,7 @@ novoandreyevka:
 novo-andreyevskiy: 
   city: "novo-andreyevskiy"
   accentcity: "Novo-Andreyevskiy"
-novo-arkhangel'skiy: 
+novo-arkhangelskiy: 
   city: "novo-arkhangel'skiy"
   accentcity: "Novo-Arkhangel'skiy"
 novo-astrakhanskiy: 
@@ -20892,31 +20892,31 @@ novografskoye:
 novogrechanovka: 
   city: "novogrechanovka"
   accentcity: "Novogrechanovka"
-novogrigor'yevskiy: 
+novogrigoryevskiy: 
   city: "novogrigor'yevskiy"
   accentcity: "Novogrigor'yevskiy"
-novo-grigor'yevskiy: 
+novo-grigoryevskiy: 
   city: "novo-grigor'yevskiy"
   accentcity: "Novo-Grigor'yevskiy"
-novoignat'yevskoye: 
+novoignatyevskoye: 
   city: "novoignat'yevskoye"
   accentcity: "Novoignat'yevskoye"
-novoil'inka: 
+novoilinka: 
   city: "novoil'inka"
   accentcity: "Novoil'inka"
-novoil'inovka: 
+novoilinovka: 
   city: "novoil'inovka"
   accentcity: "Novoil'inovka"
-novoil'inskiy: 
+novoilinskiy: 
   city: "novoil'inskiy"
   accentcity: "Novoil'inskiy"
-novo-il'inskiy: 
+novo-ilinskiy: 
   city: "novo-il'inskiy"
   accentcity: "Novo-Il'inskiy"
-novoil'inskoye: 
+novoilinskoye: 
   city: "novoil'inskoye"
   accentcity: "Novoil'inskoye"
-novo-il'inskoye: 
+novo-ilinskoye: 
   city: "novo-il'inskoye"
   accentcity: "Novo-Il'inskoye"
 novoiliysk: 
@@ -20982,7 +20982,7 @@ novokrasnovskoye:
 novokreshchenskoye: 
   city: "novokreshchenskoye"
   accentcity: "Novokreshchenskoye"
-novokrest'yanka: 
+novokrestyanka: 
   city: "novokrest'yanka"
   accentcity: "Novokrest'yanka"
 novokronshtadskoye: 
@@ -20994,7 +20994,7 @@ novo kronshtadtskoye:
 novokubanka: 
   city: "novokubanka"
   accentcity: "Novokubanka"
-novokuz'minka: 
+novokuzminka: 
   city: "novokuz'minka"
   accentcity: "Novokuz'minka"
 novoladimirovka: 
@@ -21045,16 +21045,16 @@ novonikolaevka:
 novonikolayevka: 
   city: "novonikolayevka"
   accentcity: "Novonikolayevka"
-novonikol'skiy: 
+novonikolskiy: 
   city: "novonikol'skiy"
   accentcity: "Novonikol'skiy"
-novonikol'sk: 
+novonikolsk: 
   city: "novonikol'sk"
   accentcity: "Novonikol'sk"
-novonikol'skoe: 
+novonikolskoe: 
   city: "novonikol'skoe"
   accentcity: "Novonikol'skoe"
-novonikol'skoye: 
+novonikolskoye: 
   city: "novonikol'skoye"
   accentcity: "Novonikol'skoye"
 novoodesskiy: 
@@ -21156,16 +21156,16 @@ novo-rybinskoye:
 novosamarka: 
   city: "novosamarka"
   accentcity: "Novosamarka"
-novosel'nyy: 
+novoselnyy: 
   city: "novosel'nyy"
   accentcity: "Novosel'nyy"
 novoselovka: 
   city: "novoselovka"
   accentcity: "Novoselovka"
-novosel'skoe: 
+novoselskoe: 
   city: "novosel'skoe"
   accentcity: "Novosel'skoe"
-novosel'skoye: 
+novoselskoye: 
   city: "novosel'skoye"
   accentcity: "Novosel'skoye"
 novosemenovka: 
@@ -21174,13 +21174,13 @@ novosemenovka:
 novosergeyevka: 
   city: "novosergeyevka"
   accentcity: "Novosergeyevka"
-novo-shul'ba: 
+novo-shulba: 
   city: "novo-shul'ba"
   accentcity: "Novo-Shul'ba"
-novo-shul'binka: 
+novo-shulbinka: 
   city: "novo-shul'binka"
   accentcity: "Novo-Shul'binka"
-novo-shul'binskoye: 
+novo-shulbinskoye: 
   city: "novo-shul'binskoye"
   accentcity: "Novo-Shul'binskoye"
 novoshumnoe: 
@@ -21192,7 +21192,7 @@ novoshumnoye:
 novoshumnyy: 
   city: "novoshumnyy"
   accentcity: "Novoshumnyy"
-novosokol'sk: 
+novosokolsk: 
   city: "novosokol'sk"
   accentcity: "Novosokol'sk"
 novospasovka: 
@@ -21303,7 +21303,7 @@ novoye:
 novozhuravlevka: 
   city: "novozhuravlevka"
   accentcity: "Novozhuravlëvka"
-novy-grigor'yevskiy: 
+novy-grigoryevskiy: 
   city: "novy-grigor'yevskiy"
   accentcity: "Novy-Grigor'yevskiy"
 novy mikhailovski: 
@@ -21354,7 +21354,7 @@ novyy:
 novyy polestinsk: 
   city: "novyy polestinsk"
   accentcity: "Novyy Polestinsk"
-novyy put': 
+novyy put: 
   city: "novyy put'"
   accentcity: "Novyy Put'"
 novyy sauran: 
@@ -21363,10 +21363,10 @@ novyy sauran:
 novyy ushtagan: 
   city: "novyy ushtagan"
   accentcity: "Novyy Ushtagan"
-novyy ust'-kamenogorsk: 
+novyy ust-kamenogorsk: 
   city: "novyy ust'-kamenogorsk"
   accentcity: "Novyy Ust'-Kamenogorsk"
-novyy uzen': 
+novyy uzen: 
   city: "novyy uzen'"
   accentcity: "Novyy Uzen'"
 nowo-kasanka: 
@@ -21453,7 +21453,7 @@ nur-uzek:
 nuryye: 
   city: "nuryye"
   accentcity: "Nuryye"
-nurzhan-kul': 
+nurzhan-kul: 
   city: "nurzhan-kul'"
   accentcity: "Nurzhan-Kul'"
 nurzhan: 
@@ -21549,13 +21549,13 @@ oik:
 oimaut: 
   city: "oimaut"
   accentcity: "Oimaut"
-okhonkol': 
+okhonkol: 
   city: "okhonkol'"
   accentcity: "Okhonkol'"
-okhon-kul': 
+okhon-kul: 
   city: "okhon-kul'"
   accentcity: "Okhon-kul'"
-okhon-kul' vtoroy: 
+okhon-kul vtoroy: 
   city: "okhon-kul' vtoroy"
   accentcity: "Okhon-Kul' Vtoroy"
 okhotnichi: 
@@ -21564,10 +21564,10 @@ okhotnichi:
 okhotnichiy: 
   city: "okhotnichiy"
   accentcity: "Okhotnichiy"
-okol'noye: 
+okolnoye: 
   city: "okol'noye"
   accentcity: "Okol'noye"
-okol'nyy: 
+okolnyy: 
   city: "okol'nyy"
   accentcity: "Okol'nyy"
 okrainka: 
@@ -21585,34 +21585,34 @@ oksanovskiy:
 oksanovskoye: 
   city: "oksanovskoye"
   accentcity: "Oksanovskoye"
-oktryabr': 
+oktryabr: 
   city: "oktryabr'"
   accentcity: "Oktryabr'"
-oktyabr': 
+oktyabr: 
   city: "oktyabr'"
   accentcity: "Oktyabr'"
-oktyabr' pervyy: 
+oktyabr pervyy: 
   city: "oktyabr' pervyy"
   accentcity: "Oktyabr' Pervyy"
-oktyabr'skiy leskhoz: 
+oktyabrskiy leskhoz: 
   city: "oktyabr'skiy leskhoz"
   accentcity: "Oktyabr'skiy Leskhoz"
-oktyabr'skiy: 
+oktyabrskiy: 
   city: "oktyabr'skiy"
   accentcity: "Oktyabr'skiy"
-oktyabr'skoe: 
+oktyabrskoe: 
   city: "oktyabr'skoe"
   accentcity: "Oktyabr'skoe"
-oktyabr'sk: 
+oktyabrsk: 
   city: "oktyabr'sk"
   accentcity: "Oktyabr'sk"
-oktyabr'skoye desyatoye: 
+oktyabrskoye desyatoye: 
   city: "oktyabr'skoye desyatoye"
   accentcity: "Oktyabr'skoye Desyatoye"
-oktyabr'skoye: 
+oktyabrskoye: 
   city: "oktyabr'skoye"
   accentcity: "Oktyabr'skoye"
-oktyabr' vtoroy: 
+oktyabr vtoroy: 
   city: "oktyabr' vtoroy"
   accentcity: "Oktyabr' Vtoroy"
 oku: 
@@ -21636,19 +21636,19 @@ olenti:
 olenty: 
   city: "olenty"
   accentcity: "Olenty"
-ol'ginka: 
+olginka: 
   city: "ol'ginka"
   accentcity: "Ol'ginka"
-ol'gino: 
+olgino: 
   city: "ol'gino"
   accentcity: "Ol'gino"
-ol'ginskiy: 
+olginskiy: 
   city: "ol'ginskiy"
   accentcity: "Ol'ginskiy"
-ol'ginskoye: 
+olginskoye: 
   city: "ol'ginskoye"
   accentcity: "Ol'ginskoye"
-ol'govka: 
+olgovka: 
   city: "ol'govka"
   accentcity: "Ol'govka"
 olke: 
@@ -21657,28 +21657,28 @@ olke:
 olke pervoye: 
   city: "olke pervoye"
   accentcity: "Olke Pervoye"
-ol'khovka: 
+olkhovka: 
   city: "ol'khovka"
   accentcity: "Ol'khovka"
-ol'khovskoye: 
+olkhovskoye: 
   city: "ol'khovskoye"
   accentcity: "Ol'khovskoye"
-ol'shanka: 
+olshanka: 
   city: "ol'shanka"
   accentcity: "Ol'shanka"
-ol'shanskiy: 
+olshanskiy: 
   city: "ol'shanskiy"
   accentcity: "Ol'shanskiy"
-ol'zhabay: 
+olzhabay: 
   city: "ol'zhabay"
   accentcity: "Ol'zhabay"
 olzhabay: 
   city: "olzhabay"
   accentcity: "Olzhabay"
-ol'zhansk: 
+olzhansk: 
   city: "ol'zhansk"
   accentcity: "Ol'zhansk"
-ol'zha: 
+olzha: 
   city: "ol'zha"
   accentcity: "Ol'zha"
 olzhoboy: 
@@ -21843,7 +21843,7 @@ ortakagash:
 ortakhzhol: 
   city: "ortakhzhol"
   accentcity: "Ortakhzhol"
-ortakol': 
+ortakol: 
   city: "ortakol'"
   accentcity: "Ortakol'"
 ortak: 
@@ -21870,10 +21870,10 @@ ortasha:
 ortashil: 
   city: "ortashil"
   accentcity: "Ortashil"
-ortashumishkol': 
+ortashumishkol: 
   city: "ortashumishkol'"
   accentcity: "Ortashumishkol'"
-orta-shumishkul': 
+orta-shumishkul: 
   city: "orta-shumishkul'"
   accentcity: "Orta-Shumishkul'"
 ortau: 
@@ -21897,7 +21897,7 @@ osedloye:
 osembay: 
   city: "osembay"
   accentcity: "Osembay"
-osemenitel': 
+osemenitel: 
   city: "osemenitel'"
   accentcity: "Osemenitel'"
 oshagandy: 
@@ -21942,10 +21942,10 @@ oslykhodzha:
 osman-khozya: 
   city: "osman-khozya"
   accentcity: "Osman-Khozya"
-os'meryzhsk: 
+osmeryzhsk: 
   city: "os'meryzhsk"
   accentcity: "Os'meryzhsk"
-os'moryzhskiy: 
+osmoryzhskiy: 
   city: "os'moryzhskiy"
   accentcity: "Os'moryzhskiy"
 osoaviakhim: 
@@ -21993,19 +21993,19 @@ otar-rgayty:
 otdeleniye besaryk: 
   city: "otdeleniye besaryk"
   accentcity: "Otdeleniye Besaryk"
-otdeleniye imeni dvadtsat vtorogo parts'yezda: 
+otdeleniye imeni dvadtsat vtorogo partsyezda: 
   city: "otdeleniye imeni dvadtsat vtorogo parts'yezda"
   accentcity: "Otdeleniye Imeni Dvadtsat Vtorogo Parts'yezda"
-otdeleniye imeni dvadtsat' vtorogo parts'yezda: 
+otdeleniye imeni dvadtsat vtorogo partsyezda: 
   city: "otdeleniye imeni dvadtsat' vtorogo parts'yezda"
   accentcity: "Otdeleniye Imeni Dvadtsat' Vtorogo Parts'yezda"
-otdeleniye imeni dvadtsat vtorogo parts'yezda sovkhoza imeni abaya: 
+otdeleniye imeni dvadtsat vtorogo partsyezda sovkhoza imeni abaya: 
   city: "otdeleniye imeni dvadtsat vtorogo parts'yezda sovkhoza imeni abaya"
   accentcity: "Otdeleniye Imeni Dvadtsat Vtorogo Parts'yezda Sovkhoza Imeni Abaya"
 otdeleniye imeni karla marksa: 
   city: "otdeleniye imeni karla marksa"
   accentcity: "Otdeleniye Imeni Karla Marksa"
-otdeleniye imeni maksim gor'kogo: 
+otdeleniye imeni maksim gorkogo: 
   city: "otdeleniye imeni maksim gor'kogo"
   accentcity: "Otdeleniye Imeni Maksim Gor'kogo"
 otdeleniye kommuna sovkhoza kelesskiy: 
@@ -22017,13 +22017,13 @@ otdeleniye nomer 1 sovkhoza imeni abaya:
 otdeleniye nomer 1 sovkhoza kuyuk: 
   city: "otdeleniye nomer 1 sovkhoza kuyuk"
   accentcity: "Otdeleniye Nomer 1 Sovkhoza Kuyuk"
-otdeleniye nomer 2 sovkhoza imeni engel'sa: 
+otdeleniye nomer 2 sovkhoza imeni engelsa: 
   city: "otdeleniye nomer 2 sovkhoza imeni engel'sa"
   accentcity: "Otdeleniye Nomer 2 Sovkhoza Imeni Engel'sa"
 otdeleniye nomer dva sovkhoza imeni dzhambula: 
   city: "otdeleniye nomer dva sovkhoza imeni dzhambula"
   accentcity: "Otdeleniye Nomer Dva Sovkhoza Imeni Dzhambula"
-otdeleniye nomer dva sovkhoza imeni engel'sa: 
+otdeleniye nomer dva sovkhoza imeni engelsa: 
   city: "otdeleniye nomer dva sovkhoza imeni engel'sa"
   accentcity: "Otdeleniye Nomer Dva Sovkhoza Imeni Engel'sa"
 otdeleniye nomer dva sovkhoza imeni lenina: 
@@ -22041,10 +22041,10 @@ otdeleniye nomer odin sovkhoza imeni dzhambula:
 otdeleniye nomer odin sovkhoza kuyuk: 
   city: "otdeleniye nomer odin sovkhoza kuyuk"
   accentcity: "Otdeleniye Nomer Odin Sovkhoza Kuyuk"
-otdeleniye nomer shest' sovkhoza birlik: 
+otdeleniye nomer shest sovkhoza birlik: 
   city: "otdeleniye nomer shest' sovkhoza birlik"
   accentcity: "Otdeleniye Nomer Shest' Sovkhoza Birlik"
-otdeleniye nomer shest' sovkhoza darbaza: 
+otdeleniye nomer shest sovkhoza darbaza: 
   city: "otdeleniye nomer shest' sovkhoza darbaza"
   accentcity: "Otdeleniye Nomer Shest' Sovkhoza Darbaza"
 otdeleniye nomer tri sovkhoza zhetygenskiy: 
@@ -22173,7 +22173,7 @@ ozernyy:
 ozero baysary: 
   city: "ozero baysary"
   accentcity: "Ozero Baysary"
-ozero begen': 
+ozero begen: 
   city: "ozero begen'"
   accentcity: "Ozero Begen'"
 ozero dvadtsatoye: 
@@ -22191,7 +22191,7 @@ ozhet:
 ozkent: 
   city: "ozkent"
   accentcity: "\xC3\x96zkent"
-pakhar': 
+pakhar: 
   city: "pakhar'"
   accentcity: "Pakhar'"
 pakhomovka: 
@@ -22215,10 +22215,10 @@ pakhotuvinskiy:
 palattsy: 
   city: "palattsy"
   accentcity: "Palattsy"
-palvankol': 
+palvankol: 
   city: "palvankol'"
   accentcity: "Palvankol'"
-pamyat' il'icha: 
+pamyat ilicha: 
   city: "pamyat' il'icha"
   accentcity: "Pamyat' Il'icha"
 panfilova: 
@@ -22239,7 +22239,7 @@ panfilovskiy:
 panika: 
   city: "panika"
   accentcity: "Panika"
-pan'kin: 
+pankin: 
   city: "pan'kin"
   accentcity: "Pan'kin"
 panovskiy: 
@@ -22350,7 +22350,7 @@ pendzhim:
 penjim: 
   city: "penjim"
   accentcity: "Penjim"
-pen'kovo: 
+penkovo: 
   city: "pen'kovo"
   accentcity: "Pen'kovo"
 peredovik: 
@@ -22398,7 +22398,7 @@ peremonovka:
 peretaska: 
   city: "peretaska"
   accentcity: "Peretaska"
-pereval'noye: 
+perevalnoye: 
   city: "pereval'noye"
   accentcity: "Pereval'noye"
 perevalovskaya: 
@@ -22512,13 +22512,13 @@ peski:
 pesochnaya: 
   city: "pesochnaya"
   accentcity: "Pesochnaya"
-pes'yany blizhniye: 
+pesyany blizhniye: 
   city: "pes'yany blizhniye"
   accentcity: "Pes'yany Blizhniye"
-pes'yany dal'niye: 
+pesyany dalniye: 
   city: "pes'yany dal'niye"
   accentcity: "Pes'yany Dal'niye"
-peterfel'd: 
+peterfeld: 
   city: "peterfel'd"
   accentcity: "Peterfel'd"
 petropavloka: 
@@ -22578,7 +22578,7 @@ piket arkalyskiy:
 piket ay: 
   city: "piket ay"
   accentcity: "Piket Ay"
-piket byel'agachskiy: 
+piket byelagachskiy: 
   city: "piket byel'agachskiy"
   accentcity: "Piket Byel'agachskiy"
 piket dzhartasskiy: 
@@ -22617,7 +22617,7 @@ pisarevka:
 pisarevskiy: 
   city: "pisarevskiy"
   accentcity: "Pisarevskiy"
-pit ashikul'skiy: 
+pit ashikulskiy: 
   city: "pit ashikul'skiy"
   accentcity: "Pit Ashikul'skiy"
 piterskiy: 
@@ -22698,7 +22698,7 @@ podlesnyy:
 podnebesnyy: 
   city: "podnebesnyy"
   accentcity: "Podnebesnyy"
-podol'skoye: 
+podolskoye: 
   city: "podol'skoye"
   accentcity: "Podol'skoye"
 podorlenok: 
@@ -22878,10 +22878,10 @@ poputnoye:
 poputnyy: 
   city: "poputnyy"
   accentcity: "Poputnyy"
-porfir'yevskiy: 
+porfiryevskiy: 
   city: "porfir'yevskiy"
   accentcity: "Porfir'yevskiy"
-porfir'yevskoye: 
+porfiryevskoye: 
   city: "porfir'yevskoye"
   accentcity: "Porfir'yevskoye"
 port-artur: 
@@ -22893,7 +22893,7 @@ portnov:
 portnoye: 
   city: "portnoye"
   accentcity: "Portnoye"
-poselok dvadtsat' vtoroy: 
+poselok dvadtsat vtoroy: 
   city: "poselok dvadtsat' vtoroy"
   accentcity: "Poselok Dvadtsat' Vtoroy"
 poselok imeni dzhambula: 
@@ -22905,7 +22905,7 @@ poselok imeni krasina:
 poselok imeni krupskoy: 
   city: "poselok imeni krupskoy"
   accentcity: "Posëlok Imeni Krupskoy"
-poselok ol'dzhibayevskiy: 
+poselok oldzhibayevskiy: 
   city: "poselok ol'dzhibayevskiy"
   accentcity: "Poselok Ol'dzhibayevskiy"
 poselok trekhbratinskiy: 
@@ -22914,7 +22914,7 @@ poselok trekhbratinskiy:
 post mukhorski: 
   city: "post mukhorski"
   accentcity: "Post Mukhorski"
-pos'yet: 
+posyet: 
   city: "pos'yet"
   accentcity: "Pos'yet"
 potanino: 
@@ -22932,7 +22932,7 @@ potapenkovskiy:
 povnoye: 
   city: "povnoye"
   accentcity: "Povnoye"
-povolzh'ye i muravey: 
+povolzhye i muravey: 
   city: "povolzh'ye i muravey"
   accentcity: "Povolzh'ye i Muravey"
 povozochnoye: 
@@ -22986,19 +22986,19 @@ preobrazhenskoye:
 preobrazhensk: 
   city: "preobrazhensk"
   accentcity: "Preobrazhensk"
-presnegor'kovka: 
+presnegorkovka: 
   city: "presnegor'kovka"
   accentcity: "Presnegor'kovka"
-presnogor'kovka: 
+presnogorkovka: 
   city: "presnogor'kovka"
   accentcity: "Presnogor'kovka"
-presnogor'kovskiy: 
+presnogorkovskiy: 
   city: "presnogor'kovskiy"
   accentcity: "Presnogor'kovskiy"
-presnoredul': 
+presnoredul: 
   city: "presnoredul'"
   accentcity: "Presnoredul'"
-presnoredut': 
+presnoredut: 
   city: "presnoredut'"
   accentcity: "Presnoredut'"
 presnoredutskiy: 
@@ -23121,10 +23121,10 @@ prirodorozhny:
 prirodorozhnyy: 
   city: "prirodorozhnyy"
   accentcity: "Prirodorozhnyy"
-pristan' bertys: 
+pristan bertys: 
   city: "pristan' bertys"
   accentcity: "Pristan' Bertys"
-pristan' gusinaya: 
+pristan gusinaya: 
   city: "pristan' gusinaya"
   accentcity: "Pristan' Gusinaya"
 pritraklovoye: 
@@ -23142,25 +23142,25 @@ pritugayny:
 pritugaynyy: 
   city: "pritugaynyy"
   accentcity: "Pritugaynyy"
-priural'noye: 
+priuralnoye: 
   city: "priural'noye"
   accentcity: "Priural'noye"
-priural'nyy: 
+priuralnyy: 
   city: "priural'nyy"
   accentcity: "Priural'nyy"
-priural'skiy: 
+priuralskiy: 
   city: "priural'skiy"
   accentcity: "Priural'skiy"
-privol'noe: 
+privolnoe: 
   city: "privol'noe"
   accentcity: "Privol'noe"
-privol'noye: 
+privolnoye: 
   city: "privol'noye"
   accentcity: "Privol'noye"
-privol'ny: 
+privolny: 
   city: "privol'ny"
   accentcity: "Privol'ny"
-privol'nyy: 
+privolnyy: 
   city: "privol'nyy"
   accentcity: "Privol'nyy"
 probuzhdeniye: 
@@ -23205,7 +23205,7 @@ proletarskoye:
 promyshlennyy: 
   city: "promyshlennyy"
   accentcity: "Promyshlennyy"
-pron'kino: 
+pronkino: 
   city: "pron'kino"
   accentcity: "Pron'kino"
 prorva: 
@@ -23235,13 +23235,13 @@ prudy:
 pryamoye: 
   city: "pryamoye"
   accentcity: "Pryamoye"
-pryamoy put': 
+pryamoy put: 
   city: "pryamoy put'"
   accentcity: "Pryamoy Put'"
-przheval'skoe: 
+przhevalskoe: 
   city: "przheval'skoe"
   accentcity: "Przheval'skoe"
-przheval'skoye: 
+przhevalskoye: 
   city: "przheval'skoye"
   accentcity: "Przheval'skoye"
 pshentobe: 
@@ -23262,10 +23262,10 @@ pugachevo:
 pugachevskiy: 
   city: "pugachevskiy"
   accentcity: "Pugachëvskiy"
-pukhal'skoe: 
+pukhalskoe: 
   city: "pukhal'skoe"
   accentcity: "Pukhal'skoe"
-pukhal'skoye: 
+pukhalskoye: 
   city: "pukhal'skoye"
   accentcity: "Pukhal'skoye"
 pulemetovka: 
@@ -23307,31 +23307,31 @@ pustobayev:
 pustovalovskiy: 
   city: "pustovalovskiy"
   accentcity: "Pustovalovskiy"
-put' il'icha: 
+put ilicha: 
   city: "put' il'icha"
   accentcity: "Put' Il'icha"
 putintsevo: 
   city: "putintsevo"
   accentcity: "Putintsevo"
-put' k kommunizmu: 
+put k kommunizmu: 
   city: "put' k kommunizmu"
   accentcity: "Put' k Kommunizmu"
-put' k sotsialismu: 
+put k sotsialismu: 
   city: "put' k sotsialismu"
   accentcity: "Put' k Sotsialismu"
-put' k sotsializmu: 
+put k sotsializmu: 
   city: "put' k sotsializmu"
   accentcity: "Put' k Sotsializmu"
-put' oktyabrya: 
+put oktyabrya: 
   city: "put' oktyabrya"
   accentcity: "Put' Oktyabrya"
 puzatkin: 
   city: "puzatkin"
   accentcity: "Puzatkin"
-p'yanoyarskiy: 
+pyanoyarskiy: 
   city: "p'yanoyarskiy"
   accentcity: "P'yanoyarskiy"
-p'yanyy yar: 
+pyanyy yar: 
   city: "p'yanyy yar"
   accentcity: "P'yanyy Yar"
 pyateryzhsk: 
@@ -23364,7 +23364,7 @@ pyatiryzhsk:
 pyatnadtsatiletiye kazakhstana: 
   city: "pyatnadtsatiletiye kazakhstana"
   accentcity: "Pyatnadtsatiletiye Kazakhstana"
-pyatnadtsat' let kazakhstana: 
+pyatnadtsat let kazakhstana: 
   city: "pyatnadtsat' let kazakhstana"
   accentcity: "Pyatnadtsat' Let Kazakhstana"
 pyatoryzhskiy: 
@@ -23790,7 +23790,7 @@ qyzylengbek:
 qyzylkesek: 
   city: "qyzylkesek"
   accentcity: "Qyzylkesek"
-qyzyl oktyabr': 
+qyzyl oktyabr: 
   city: "qyzyl oktyabr'"
   accentcity: "Qyzyl Oktyabr'"
 qyzylorda: 
@@ -23934,10 +23934,10 @@ rassypnoye:
 rastoshskiy: 
   city: "rastoshskiy"
   accentcity: "Rastoshskiy"
-ravnopol': 
+ravnopol: 
   city: "ravnopol'"
   accentcity: "Ravnopol'"
-ravnopol'ye: 
+ravnopolye: 
   city: "ravnopol'ye"
   accentcity: "Ravnopol'ye"
 rayevka: 
@@ -23955,19 +23955,19 @@ raygora:
 raygorodok: 
   city: "raygorodok"
   accentcity: "Raygorodok"
-razdel'noye: 
+razdelnoye: 
   city: "razdel'noye"
   accentcity: "Razdel'noye"
-razdol'noe: 
+razdolnoe: 
   city: "razdol'noe"
   accentcity: "Razdol'noe"
-razdol'noye: 
+razdolnoye: 
   city: "razdol'noye"
   accentcity: "Razdol'noye"
-razdol'nyy: 
+razdolnyy: 
   city: "razdol'nyy"
   accentcity: "Razdol'nyy"
-razgul'noye: 
+razgulnoye: 
   city: "razgul'noye"
   accentcity: "Razgul'noye"
 razino: 
@@ -23982,13 +23982,13 @@ razvaliny arkat:
 razvedka: 
   city: "razvedka"
   accentcity: "Razvedka"
-razvil'noye: 
+razvilnoye: 
   city: "razvil'noye"
   accentcity: "Razvil'noye"
-raz''yezd 71: 
+razyezd 71: 
   city: "raz''yezd 71"
   accentcity: "Raz''yezd 71"
-raz''yezd sem'desyat: 
+razyezd semdesyat: 
   city: "raz''yezd sem'desyat"
   accentcity: "Raz''yezd Sem'desyat"
 rebrovka: 
@@ -24015,7 +24015,7 @@ rembaza:
 remki: 
   city: "remki"
   accentcity: "Remki"
-rentabel'nyy: 
+rentabelnyy: 
   city: "rentabel'nyy"
   accentcity: "Rentabel'nyy"
 repinka: 
@@ -24039,7 +24039,7 @@ ridderskiy:
 rikulova: 
   city: "rikulova"
   accentcity: "Rikulova"
-robach'ye: 
+robachye: 
   city: "robach'ye"
   accentcity: "Robach'ye"
 rodina: 
@@ -24120,10 +24120,10 @@ roshchinskoye:
 roshkovo: 
   city: "roshkovo"
   accentcity: "Roshkovo"
-roslavl': 
+roslavl: 
   city: "roslavl'"
   accentcity: "Roslavl'"
-roslavl'skiy: 
+roslavlskiy: 
   city: "roslavl'skiy"
   accentcity: "Roslavl'skiy"
 rostoshi: 
@@ -24255,13 +24255,13 @@ ryazantsevskiy:
 ryazhskoye: 
   city: "ryazhskoye"
   accentcity: "Ryazhskoye"
-rybach'e: 
+rybache: 
   city: "rybach'e"
   accentcity: "Rybach'e"
 rybachiy: 
   city: "rybachiy"
   accentcity: "Rybachiy"
-rybach'ye: 
+rybachye: 
   city: "rybach'ye"
   accentcity: "Rybach'ye"
 rybakovka: 
@@ -24276,7 +24276,7 @@ rybalka myk-aral:
 rybalka sary-tumsuk: 
   city: "rybalka sary-tumsuk"
   accentcity: "Rybalka Sary-tumsuk"
-rybalka semiz-kul': 
+rybalka semiz-kul: 
   city: "rybalka semiz-kul'"
   accentcity: "Rybalka Semiz-Kul'"
 rybalka tas-aral: 
@@ -24324,7 +24324,7 @@ sabakty:
 sabandy: 
   city: "sabandy"
   accentcity: "Sabandy"
-sabankol': 
+sabankol: 
   city: "sabankol'"
   accentcity: "Sabankol'"
 sabit: 
@@ -24426,7 +24426,7 @@ sagha:
 saghyz: 
   city: "saghyz"
   accentcity: "Saghyz"
-sagiz-mechet': 
+sagiz-mechet: 
   city: "sagiz-mechet'"
   accentcity: "Sagiz-Mechet'"
 sagizmeshit: 
@@ -24510,10 +24510,10 @@ sakryl:
 saksaulskaya: 
   city: "saksaulskaya"
   accentcity: "Saksaulskaya"
-saksaul'skiy: 
+saksaulskiy: 
   city: "saksaul'skiy"
   accentcity: "Saksaul'skiy"
-saksaul'skoye: 
+saksaulskoye: 
   city: "saksaul'skoye"
   accentcity: "Saksaul'skoye"
 saksauly: 
@@ -24534,22 +24534,22 @@ saldama:
 saldy-piket: 
   city: "saldy-piket"
   accentcity: "Saldy-Piket"
-sal'kha: 
+salkha: 
   city: "sal'kha"
   accentcity: "Sal'kha"
-salkynkol': 
+salkynkol: 
   city: "salkynkol'"
   accentcity: "Salkynkol'"
-salkynkul': 
+salkynkul: 
   city: "salkynkul'"
   accentcity: "Salkynkul'"
-salkynkul'skiy: 
+salkynkulskiy: 
   city: "salkynkul'skiy"
   accentcity: "Salkynkul'skiy"
 salokay: 
   city: "salokay"
   accentcity: "Salokay"
-sal'skiy: 
+salskiy: 
   city: "sal'skiy"
   accentcity: "Sal'skiy"
 saltam: 
@@ -24606,7 +24606,7 @@ sambay:
 samey: 
   city: "samey"
   accentcity: "Samey"
-samorgul'd: 
+samorguld: 
   city: "samorgul'd"
   accentcity: "Samorgul'd"
 sam pervyy: 
@@ -24675,10 +24675,10 @@ santash:
 sanyrau: 
   city: "sanyrau"
   accentcity: "Sanyrau"
-sapakkol': 
+sapakkol: 
   city: "sapakkol'"
   accentcity: "Sapakkol'"
-sapak-kul': 
+sapak-kul: 
   city: "sapak-kul'"
   accentcity: "Sapak-Kul'"
 sapak: 
@@ -24705,7 +24705,7 @@ saraba:
 saradyr: 
   city: "saradyr"
   accentcity: "Saradyr"
-saradzhan-kul': 
+saradzhan-kul: 
   city: "saradzhan-kul'"
   accentcity: "Saradzhan-Kul'"
 saradzhin: 
@@ -24717,7 +24717,7 @@ saraichikovuskaya:
 sarak-kuduk: 
   city: "sarak-kuduk"
   accentcity: "Sarak-Kuduk"
-saral'khayu: 
+saralkhayu: 
   city: "saral'khayu"
   accentcity: "Saral'khayu"
 saralshin: 
@@ -24726,7 +24726,7 @@ saralshin:
 saraly: 
   city: "saraly"
   accentcity: "Saraly"
-saralzhinkol': 
+saralzhinkol: 
   city: "saralzhinkol'"
   accentcity: "Saralzhinkol'"
 saralzhin: 
@@ -24744,10 +24744,10 @@ saralzhyn:
 saranke: 
   city: "saranke"
   accentcity: "Saranke"
-saran': 
+saran: 
   city: "saran'"
   accentcity: "Saran'"
-saranzhinkol': 
+saranzhinkol: 
   city: "saranzhinkol'"
   accentcity: "Saranzhinkol'"
 saranzhin: 
@@ -24831,7 +24831,7 @@ sargargay:
 sarga: 
   city: "sarga"
   accentcity: "Sarga"
-sargel': 
+sargel: 
   city: "sargel'"
   accentcity: "Sargel'"
 sargiz: 
@@ -24864,7 +24864,7 @@ sarkrama:
 sarkulas: 
   city: "sarkulas"
   accentcity: "Sarkulas"
-sar-kul': 
+sar-kul: 
   city: "sar-kul'"
   accentcity: "Sar-Kul'"
 sarkumak: 
@@ -24954,7 +24954,7 @@ sartobe:
 sartogay: 
   city: "sartogay"
   accentcity: "Sartogay"
-sartol'gen: 
+sartolgen: 
   city: "sartol'gen"
   accentcity: "Sartol'gen"
 sartomak: 
@@ -24972,7 +24972,7 @@ sartugai:
 sartugay: 
   city: "sartugay"
   accentcity: "Sartugay"
-sartul'gen: 
+sartulgen: 
   city: "sartul'gen"
   accentcity: "Sartul'gen"
 sartumsuk: 
@@ -25035,7 +25035,7 @@ sarybas:
 sarybastau: 
   city: "sarybastau"
   accentcity: "Sarybastau"
-sarybaykol': 
+sarybaykol: 
   city: "sarybaykol'"
   accentcity: "Sarybaykol'"
 sarybay: 
@@ -25074,10 +25074,10 @@ sary-dzhas:
 sarydzhaz: 
   city: "sarydzhaz"
   accentcity: "Sarydzhaz"
-sarygol': 
+sarygol: 
   city: "sarygol'"
   accentcity: "Sarygol'"
-sarygyul': 
+sarygyul: 
   city: "sarygyul'"
   accentcity: "Sarygyul'"
 sary-isyun: 
@@ -25104,7 +25104,7 @@ sarykemer:
 sarykobda: 
   city: "sarykobda"
   accentcity: "Sarykobda"
-sarykol': 
+sarykol: 
   city: "sarykol'"
   accentcity: "Sarykol'"
 sarykomey: 
@@ -25122,7 +25122,7 @@ sary-kuduk:
 sarykuduk: 
   city: "sarykuduk"
   accentcity: "Sarykuduk"
-sary-kul': 
+sary-kul: 
   city: "sary-kul'"
   accentcity: "Sary-Kul'"
 sary-kuz: 
@@ -25263,7 +25263,7 @@ sary-uzek:
 sary-uzekskiy: 
   city: "sary-uzekskiy"
   accentcity: "Sary-Uzekskiy"
-sary-uzen': 
+sary-uzen: 
   city: "sary-uzen'"
   accentcity: "Sary-Uzen'"
 sary-uzenskiy: 
@@ -25314,10 +25314,10 @@ sastyvbe:
 sasykbayevskiy: 
   city: "sasykbayevskiy"
   accentcity: "Sasykbayevskiy"
-sasykkol': 
+sasykkol: 
   city: "sasykkol'"
   accentcity: "Sasykkol'"
-sasyk-kul': 
+sasyk-kul: 
   city: "sasyk-kul'"
   accentcity: "Sasyk-Kul'"
 sasykkum: 
@@ -25377,7 +25377,7 @@ saule:
 sauly: 
   city: "sauly"
   accentcity: "Sauly"
-saumalkol': 
+saumalkol: 
   city: "saumalkol'"
   accentcity: "Saumalkol'"
 saunke: 
@@ -25395,10 +25395,10 @@ sauro:
 savankhana: 
   city: "savankhana"
   accentcity: "Savankhana"
-savel'yevka: 
+savelyevka: 
   city: "savel'yevka"
   accentcity: "Savel'yevka"
-saven'kovskoye: 
+savenkovskoye: 
   city: "saven'kovskoye"
   accentcity: "Saven'kovskoye"
 savichev: 
@@ -25428,7 +25428,7 @@ savsi:
 sayak: 
   city: "sayak"
   accentcity: "Sayak"
-sayakskaya pristan': 
+sayakskaya pristan: 
   city: "sayakskaya pristan'"
   accentcity: "Sayakskaya Pristan'"
 sayaq: 
@@ -25494,7 +25494,7 @@ saz:
 sbornyy: 
   city: "sbornyy"
   accentcity: "Sbornyy"
-sed'moy aul: 
+sedmoy aul: 
   city: "sed'moy aul"
   accentcity: "Sed'moy Aul"
 sedov: 
@@ -25563,7 +25563,7 @@ seletinskoye:
 selety: 
   city: "selety"
   accentcity: "Selety"
-sel'khozkoloniya: 
+selkhozkoloniya: 
   city: "sel'khozkoloniya"
   accentcity: "Sel'khozkoloniya"
 sembi: 
@@ -25629,7 +25629,7 @@ semipalatynsk:
 semipolka: 
   city: "semipolka"
   accentcity: "Semipolka"
-semipol'skoye: 
+semipolskoye: 
   city: "semipol'skoye"
   accentcity: "Semipol'skoye"
 semiyarka: 
@@ -25662,10 +25662,10 @@ semiz-bugu:
 semizbugy: 
   city: "semizbugy"
   accentcity: "Semizbugy"
-semiz-kul': 
+semiz-kul: 
   city: "semiz-kul'"
   accentcity: "Semiz-Kul'"
-semnadtsat' let oktyabrya chetvertyy: 
+semnadtsat let oktyabrya chetvertyy: 
   city: "semnadtsat' let oktyabrya chetvertyy"
   accentcity: "Semnadtsat' Let Oktyabrya Chetvertyy"
 senek: 
@@ -25743,7 +25743,7 @@ sergeyevskiy:
 sergino: 
   city: "sergino"
   accentcity: "Sergino"
-sergiopol': 
+sergiopol: 
   city: "sergiopol'"
   accentcity: "Sergiopol'"
 sergiyevka: 
@@ -25776,10 +25776,10 @@ seslavino:
 setkali: 
   city: "setkali"
   accentcity: "Setkali"
-sevastopol': 
+sevastopol: 
   city: "sevastopol'"
   accentcity: "Sevastopol'"
-sevastopol'skiy: 
+sevastopolskiy: 
   city: "sevastopol'skiy"
   accentcity: "Sevastopol'skiy"
 severkino: 
@@ -25821,7 +25821,7 @@ seytagov:
 seytaryk: 
   city: "seytaryk"
   accentcity: "Seytaryk"
-seyten': 
+seyten: 
   city: "seyten'"
   accentcity: "Seyten'"
 seytenskoye: 
@@ -25980,10 +25980,10 @@ shalaksa:
 shalaksay: 
   city: "shalaksay"
   accentcity: "Shalaksay"
-shalbarkol': 
+shalbarkol: 
   city: "shalbarkol'"
   accentcity: "Shalbarkol'"
-shalbar-kul': 
+shalbar-kul: 
   city: "shalbar-kul'"
   accentcity: "Shalbar-Kul'"
 shalbar: 
@@ -26028,7 +26028,7 @@ shalkiya:
 shalkudysu: 
   city: "shalkudysu"
   accentcity: "Shalkudysu"
-shal'men: 
+shalmen: 
   city: "shal'men"
   accentcity: "Shal'men"
 shalny: 
@@ -26055,7 +26055,7 @@ shamak:
 shamalgan: 
   city: "shamalgan"
   accentcity: "Shamalgan"
-shamankol': 
+shamankol: 
   city: "shamankol'"
   accentcity: "Shamankol'"
 shamaudin: 
@@ -26070,7 +26070,7 @@ shamlattobe:
 shamshudin: 
   city: "shamshudin"
   accentcity: "Shamshudin"
-shamyshkol': 
+shamyshkol: 
   city: "shamyshkol'"
   accentcity: "Shamyshkol'"
 shana-ilek: 
@@ -26088,7 +26088,7 @@ shana-ui:
 shandak: 
   city: "shandak"
   accentcity: "Shandak"
-shandaykol': 
+shandaykol: 
   city: "shandaykol'"
   accentcity: "Shandaykol'"
 shandy-bidayek: 
@@ -26130,7 +26130,7 @@ shapovalovka:
 sharakkop: 
   city: "sharakkop"
   accentcity: "Sharakkop"
-sharakol': 
+sharakol: 
   city: "sharakol'"
   accentcity: "Sharakol'"
 sharal: 
@@ -26217,10 +26217,10 @@ shatyrbay:
 shauildir: 
   city: "shauildir"
   accentcity: "Shauildir"
-shaul'der: 
+shaulder: 
   city: "shaul'der"
   accentcity: "Shaul'der"
-shaul'derskiy: 
+shaulderskiy: 
   city: "shaul'derskiy"
   accentcity: "Shaul'derskiy"
 shaupten: 
@@ -26244,7 +26244,7 @@ shaytankarasu:
 shaytuk: 
   city: "shaytuk"
   accentcity: "Shaytuk"
-shayyndykol': 
+shayyndykol: 
   city: "shayyndykol'"
   accentcity: "Shayyndykol'"
 shchadyr: 
@@ -26292,7 +26292,7 @@ shchorsovskiy:
 shchors: 
   city: "shchors"
   accentcity: "Shchors"
-shchuch'e: 
+shchuche: 
   city: "shchuch'e"
   accentcity: "Shchuch'e"
 shchuchinskiy: 
@@ -26304,7 +26304,7 @@ shchuchinsk:
 shchuchkin: 
   city: "shchuchkin"
   accentcity: "Shchuchkin"
-shchuch'ye: 
+shchuchye: 
   city: "shchuch'ye"
   accentcity: "Shchuch'ye"
 shebdarat: 
@@ -26352,7 +26352,7 @@ shelekhovskiy:
 shelek: 
   city: "shelek"
   accentcity: "Shelek"
-shel'kuduk: 
+shelkuduk: 
   city: "shel'kuduk"
   accentcity: "Shel'kuduk"
 shember: 
@@ -26379,10 +26379,10 @@ shenbertal:
 shenet: 
   city: "shenet"
   accentcity: "Shenet"
-shengel'di: 
+shengeldi: 
   city: "shengel'di"
   accentcity: "Shengel'di"
-shengel'dy: 
+shengeldy: 
   city: "shengel'dy"
   accentcity: "Shengel'dy"
 shenggeldi: 
@@ -26394,10 +26394,10 @@ shepti:
 sheptygak: 
   city: "sheptygak"
   accentcity: "Sheptygak"
-sheptykol'skiy: 
+sheptykolskiy: 
   city: "sheptykol'skiy"
   accentcity: "Sheptykol'skiy"
-sheptykul'skiy: 
+sheptykulskiy: 
   city: "sheptykul'skiy"
   accentcity: "Sheptykul'skiy"
 sherbakovka: 
@@ -26418,10 +26418,10 @@ sherdoyak:
 sherembetsay: 
   city: "sherembetsay"
   accentcity: "Sherembetsay"
-sheremet'evka: 
+sheremetevka: 
   city: "sheremet'evka"
   accentcity: "Sheremet'evka"
-sheremet'yevka: 
+sheremetyevka: 
   city: "sheremet'yevka"
   accentcity: "Sheremet'yevka"
 sherin: 
@@ -26439,7 +26439,7 @@ shert:
 sheshenqara: 
   city: "sheshenqara"
   accentcity: "Sheshenqara"
-shest'desyat let oktyabrya: 
+shestdesyat let oktyabrya: 
   city: "shest'desyat let oktyabrya"
   accentcity: "Shest'desyat Let Oktyabrya"
 shesterin: 
@@ -26520,7 +26520,7 @@ shieli:
 shiganak: 
   city: "shiganak"
   accentcity: "Shiganak"
-shigankol': 
+shigankol: 
   city: "shigankol'"
   accentcity: "Shigankol'"
 shigan: 
@@ -26577,13 +26577,13 @@ shili:
 shiliz: 
   city: "shiliz"
   accentcity: "Shiliz"
-shil'naya balka: 
+shilnaya balka: 
   city: "shil'naya balka"
   accentcity: "Shil'naya Balka"
-shil'-toay: 
+shil-toay: 
   city: "shil'-toay"
   accentcity: "Shil'-Toay"
-shil'togay: 
+shiltogay: 
   city: "shil'togay"
   accentcity: "Shil'togay"
 shimboget: 
@@ -26604,7 +26604,7 @@ shimyrbay:
 shinet: 
   city: "shinet"
   accentcity: "Shinet"
-shingil': 
+shingil: 
   city: "shingil'"
   accentcity: "Shingil'"
 shingozha: 
@@ -26625,7 +26625,7 @@ shinyrau:
 shinzhaly: 
   city: "shinzhaly"
   accentcity: "Shinzhaly"
-shipkul': 
+shipkul: 
   city: "shipkul'"
   accentcity: "Shipkul'"
 shipovo: 
@@ -26718,10 +26718,10 @@ shkola:
 shkol basy: 
   city: "shkol basy"
   accentcity: "Shkol Basy"
-shkol'nyy aul: 
+shkolnyy aul: 
   city: "shkol'nyy aul"
   accentcity: "Shkol'nyy Aul"
-shkol'nyy: 
+shkolnyy: 
   city: "shkol'nyy"
   accentcity: "Shkol'nyy"
 shkonur: 
@@ -26784,7 +26784,7 @@ shokpar:
 shokpartogay: 
   city: "shokpartogay"
   accentcity: "Shokpartogay"
-shoktal': 
+shoktal: 
   city: "shoktal'"
   accentcity: "Shoktal'"
 shoktas: 
@@ -26862,19 +26862,19 @@ sholaqqopa:
 sholaqsay: 
   city: "sholaqsay"
   accentcity: "Sholaqsay"
-shol'kuduk: 
+sholkuduk: 
   city: "shol'kuduk"
   accentcity: "Shol'kuduk"
-shomankol': 
+shomankol: 
   city: "shomankol'"
   accentcity: "Shomankol'"
 shomishkol: 
   city: "shomishkol"
   accentcity: "Sh\xC3\xB6mishk\xC3\xB6l"
-shomshikol': 
+shomshikol: 
   city: "shomshikol'"
   accentcity: "Shomshikol'"
-shomyshkol': 
+shomyshkol: 
   city: "shomyshkol'"
   accentcity: "Shomyshkol'"
 shomysh: 
@@ -26883,7 +26883,7 @@ shomysh:
 shonay: 
   city: "shonay"
   accentcity: "Shonay"
-shondykol': 
+shondykol: 
   city: "shondykol'"
   accentcity: "Shondykol'"
 shonzhy: 
@@ -26892,7 +26892,7 @@ shonzhy:
 shoptikol: 
   city: "shoptikol"
   accentcity: "Sh\xC3\xB6ptik\xC3\xB6l"
-shoptikol': 
+shoptikol: 
   city: "shoptikol'"
   accentcity: "Shoptikol'"
 shoptygak: 
@@ -26901,13 +26901,13 @@ shoptygak:
 shoptykhak: 
   city: "shoptykhak"
   accentcity: "Shoptykhak"
-shoptykol': 
+shoptykol: 
   city: "shoptykol'"
   accentcity: "Shoptykol'"
-shoptykul': 
+shoptykul: 
   city: "shoptykul'"
   accentcity: "Shoptykul'"
-shoptykul'skiy: 
+shoptykulskiy: 
   city: "shoptykul'skiy"
   accentcity: "Shoptykul'skiy"
 shoqpar: 
@@ -26919,7 +26919,7 @@ shorasay:
 shora: 
   city: "shora"
   accentcity: "Shora"
-shor-kur-kul': 
+shor-kur-kul: 
   city: "shor-kur-kul'"
   accentcity: "Shor-Kur-Kul'"
 shornak: 
@@ -26943,7 +26943,7 @@ shortay:
 shoshanay: 
   city: "shoshanay"
   accentcity: "Shoshanay"
-shoshkakol': 
+shoshkakol: 
   city: "shoshkakol'"
   accentcity: "Shoshkakol'"
 shoshkaly: 
@@ -26964,7 +26964,7 @@ shoytyk:
 shoyyndykol: 
   city: "shoyyndykol"
   accentcity: "Shoyyndyk\xC3\xB6l"
-shtral': 
+shtral: 
   city: "shtral'"
   accentcity: "Shtral'"
 shtyrovka: 
@@ -26985,7 +26985,7 @@ shubalang:
 shubalan: 
   city: "shubalan"
   accentcity: "Shubalan"
-shubankol': 
+shubankol: 
   city: "shubankol'"
   accentcity: "Shubankol'"
 shubarkol: 
@@ -27027,19 +27027,19 @@ shuga:
 shugyla: 
   city: "shugyla"
   accentcity: "Shugyla"
-shukugul'd: 
+shukuguld: 
   city: "shukugul'd"
   accentcity: "Shukugul'd"
-shukul'bay: 
+shukulbay: 
   city: "shukul'bay"
   accentcity: "Shukul'bay"
 shukurchiy: 
   city: "shukurchiy"
   accentcity: "Shukurchiy"
-shukurgul'd: 
+shukurguld: 
   city: "shukurgul'd"
   accentcity: "Shukurgul'd"
-shukurgul': 
+shukurgul: 
   city: "shukurgul'"
   accentcity: "Shukurgul'"
 shukurlyuk: 
@@ -27051,7 +27051,7 @@ shukurshi:
 shukur: 
   city: "shukur"
   accentcity: "Shukur"
-shukyrkol': 
+shukyrkol: 
   city: "shukyrkol'"
   accentcity: "Shukyrkol'"
 shukyr: 
@@ -27066,19 +27066,19 @@ shulaksay:
 shulak: 
   city: "shulak"
   accentcity: "Shulak"
-shul'ba: 
+shulba: 
   city: "shul'ba"
   accentcity: "Shul'ba"
-shul'binskiy: 
+shulbinskiy: 
   city: "shul'binskiy"
   accentcity: "Shul'binskiy"
-shul'binsk: 
+shulbinsk: 
   city: "shul'binsk"
   accentcity: "Shul'binsk"
-shul'kuduk: 
+shulkuduk: 
   city: "shul'kuduk"
   accentcity: "Shul'kuduk"
-shul'shubar: 
+shulshubar: 
   city: "shul'shubar"
   accentcity: "Shul'shubar"
 shumek: 
@@ -27117,16 +27117,16 @@ shunkar:
 shunkor: 
   city: "shunkor"
   accentcity: "Shunkor"
-shunkurkol': 
+shunkurkol: 
   city: "shunkurkol'"
   accentcity: "Shunkurkol'"
-shunkurkul': 
+shunkurkul: 
   city: "shunkurkul'"
   accentcity: "Shunkurkul'"
-shunkurkul'skiy: 
+shunkurkulskiy: 
   city: "shunkurkul'skiy"
   accentcity: "Shunkurkul'skiy"
-shunkyrkol': 
+shunkyrkol: 
   city: "shunkyrkol'"
   accentcity: "Shunkyrkol'"
 shuokbay: 
@@ -27180,7 +27180,7 @@ shuyskiy:
 shyganak: 
   city: "shyganak"
   accentcity: "Shyganak"
-shygankol': 
+shygankol: 
   city: "shygankol'"
   accentcity: "Shygankol'"
 shyghanaq: 
@@ -27234,7 +27234,7 @@ siirlinskiy:
 siksimbay: 
   city: "siksimbay"
   accentcity: "Siksimbay"
-silant'yevka: 
+silantyevka: 
   city: "silant'yevka"
   accentcity: "Silant'yevka"
 sileti: 
@@ -27246,16 +27246,16 @@ simaki:
 simakovskiy: 
   city: "simakovskiy"
   accentcity: "Simakovskiy"
-simferopol': 
+simferopol: 
   city: "simferopol'"
   accentcity: "Simferopol'"
-simferopol'skiy: 
+simferopolskiy: 
   city: "simferopol'skiy"
   accentcity: "Simferopol'skiy"
-simferopol'skoe: 
+simferopolskoe: 
   city: "simferopol'skoe"
   accentcity: "Simferopol'skoe"
-simferopol'skoye: 
+simferopolskoye: 
   city: "simferopol'skoye"
   accentcity: "Simferopol'skoye"
 simonovka: 
@@ -27276,7 +27276,7 @@ sinitsino:
 sinitsyno: 
   city: "sinitsyno"
   accentcity: "Sinitsyno"
-sin'kovo: 
+sinkovo: 
   city: "sin'kovo"
   accentcity: "Sin'kovo"
 sinkurbayevskiy: 
@@ -27426,7 +27426,7 @@ sochinskoye:
 sofievka: 
   city: "sofievka"
   accentcity: "Sofievka"
-sof'inskoye: 
+sofinskoye: 
   city: "sof'inskoye"
   accentcity: "Sof'inskoye"
 sofiyevka: 
@@ -27435,7 +27435,7 @@ sofiyevka:
 sofiyevskiy: 
   city: "sofiyevskiy"
   accentcity: "Sofiyevskiy"
-sogabiyen': 
+sogabiyen: 
   city: "sogabiyen'"
   accentcity: "Sogabiyen'"
 sogakurus: 
@@ -27471,7 +27471,7 @@ sokolovskoye:
 sokolov: 
   city: "sokolov"
   accentcity: "Sokolov"
-sokol'skoye: 
+sokolskoye: 
   city: "sokol'skoye"
   accentcity: "Sokol'skoye"
 sokol: 
@@ -27531,16 +27531,16 @@ solotobe:
 solo-tyube: 
   city: "solo-tyube"
   accentcity: "Solo-Tyube"
-solov'eva: 
+soloveva: 
   city: "solov'eva"
   accentcity: "Solov'eva"
-solov'yeva: 
+solovyeva: 
   city: "solov'yeva"
   accentcity: "Solov'yeva"
-solov'yevo: 
+solovyevo: 
   city: "solov'yevo"
   accentcity: "Solov'yevo"
-sol'prom: 
+solprom: 
   city: "sol'prom"
   accentcity: "Sol'prom"
 soltkay: 
@@ -27582,13 +27582,13 @@ sorbulaq:
 sorkamysh: 
   city: "sorkamysh"
   accentcity: "Sorkamysh"
-sorkol': 
+sorkol: 
   city: "sorkol'"
   accentcity: "Sorkol'"
 sorkulak: 
   city: "sorkulak"
   accentcity: "Sorkulak"
-sor-kul': 
+sor-kul: 
   city: "sor-kul'"
   accentcity: "Sor-Kul'"
 sorochinka: 
@@ -27723,10 +27723,10 @@ sovkhoz imeni abaya:
 sovkhoz imeni akhunbayeva: 
   city: "sovkhoz imeni akhunbayeva"
   accentcity: "Sovkhoz Imeni Akhunbayeva"
-sovkhoz imeni dvadtat' pervogo parts'yezda: 
+sovkhoz imeni dvadtat pervogo partsyezda: 
   city: "sovkhoz imeni dvadtat' pervogo parts'yezda"
   accentcity: "Sovkhoz Imeni Dvadtat' Pervogo Parts'yezda"
-sovkhoz imeni dvadtsatyy part'syezda: 
+sovkhoz imeni dvadtsatyy partsyezda: 
   city: "sovkhoz imeni dvadtsatyy part'syezda"
   accentcity: "Sovkhoz Imeni Dvadtsatyy Part'syezda"
 sovkhoz imeni dzhambula: 
@@ -27741,13 +27741,13 @@ sovkhoz imeni karla marksa:
 sovkhoz imeni kirova: 
   city: "sovkhoz imeni kirova"
   accentcity: "Sovkhoz Imeni Kirova"
-sovkhoz imeni przheval'skogo: 
+sovkhoz imeni przhevalskogo: 
   city: "sovkhoz imeni przheval'skogo"
   accentcity: "Sovkhoz Imeni Przheval'skogo"
-sovkhoz imeni pyat'desyat let oktyabrya: 
+sovkhoz imeni pyatdesyat let oktyabrya: 
   city: "sovkhoz imeni pyat'desyat let oktyabrya"
   accentcity: "Sovkhoz Imeni Pyat'desyat Let Oktyabrya"
-sovkhoz imeni tridtsat' let kazakhstana: 
+sovkhoz imeni tridtsat let kazakhstana: 
   city: "sovkhoz imeni tridtsat' let kazakhstana"
   accentcity: "Sovkhoz Imeni Tridtsat' Let Kazakhstana"
 sovkhoz imeni zhdanova: 
@@ -27786,7 +27786,7 @@ sovkhoz molodezhnyy:
 sovkhoznoe: 
   city: "sovkhoznoe"
   accentcity: "Sovkhoznoe"
-sovkhoz novonikol'skiy: 
+sovkhoz novonikolskiy: 
   city: "sovkhoz novonikol'skiy"
   accentcity: "Sovkhoz Novonikol'skiy"
 sovkhoznoye: 
@@ -27798,10 +27798,10 @@ sovkhoz otradnyy:
 sovkhoz poltavskiy: 
   city: "sovkhoz poltavskiy"
   accentcity: "Sovkhoz Poltavskiy"
-sovkhoz pukhal'skiy: 
+sovkhoz pukhalskiy: 
   city: "sovkhoz pukhal'skiy"
   accentcity: "Sovkhoz Pukhal'skiy"
-sovkhoz rentabel'nyy: 
+sovkhoz rentabelnyy: 
   city: "sovkhoz rentabel'nyy"
   accentcity: "Sovkhoz Rentabel'nyy"
 sovkhoz shakhter: 
@@ -27933,7 +27933,7 @@ staraya belokamenka:
 staraya masra: 
   city: "staraya masra"
   accentcity: "Staraya Masra"
-staraya shul'ba: 
+staraya shulba: 
   city: "staraya shul'ba"
   accentcity: "Staraya Shul'ba"
 staraya tikhonovka: 
@@ -27993,7 +27993,7 @@ staryy algabas:
 staryy batpak: 
   city: "staryy batpak"
   accentcity: "Staryy Batpak"
-staryy bugun': 
+staryy bugun: 
   city: "staryy bugun'"
   accentcity: "Staryy Bugun'"
 staryy chanak: 
@@ -28041,10 +28041,10 @@ staryy otar:
 stavropolka: 
   city: "stavropolka"
   accentcity: "Stavropolka"
-stavropol'skiy: 
+stavropolskiy: 
   city: "stavropol'skiy"
   accentcity: "Stavropol'skiy"
-stavropol'skoye: 
+stavropolskoye: 
   city: "stavropol'skoye"
   accentcity: "Stavropol'skoye"
 steklyanka: 
@@ -28101,7 +28101,7 @@ sterlitamak:
 stolboukha: 
   city: "stolboukha"
   accentcity: "Stolboukha"
-stol'nikov: 
+stolnikov: 
   city: "stol'nikov"
   accentcity: "Stol'nikov"
 stoyanovka: 
@@ -28113,13 +28113,13 @@ stoyanovskoye:
 strazhnaya: 
   city: "strazhnaya"
   accentcity: "Strazhnaya"
-strel'nikovka: 
+strelnikovka: 
   city: "strel'nikovka"
   accentcity: "Strel'nikovka"
-strel'nikovskoye: 
+strelnikovskoye: 
   city: "strel'nikovskoye"
   accentcity: "Strel'nikovskoye"
-strel'nikov: 
+strelnikov: 
   city: "strel'nikov"
   accentcity: "Strel'nikov"
 stretenka: 
@@ -28134,7 +28134,7 @@ stroganovo:
 strogonovka: 
   city: "strogonovka"
   accentcity: "Strogonovka"
-stroitel'nyy: 
+stroitelnyy: 
   city: "stroitel'nyy"
   accentcity: "Stroitel'nyy"
 studencheskiy: 
@@ -28155,10 +28155,10 @@ stupinka:
 styepnoye: 
   city: "styepnoye"
   accentcity: "Styepnoye"
-suatkol': 
+suatkol: 
   city: "suatkol'"
   accentcity: "Suatkol'"
-suat-kul': 
+suat-kul: 
   city: "suat-kul'"
   accentcity: "Suat-Kul'"
 suat: 
@@ -28254,16 +28254,16 @@ suluagash:
 sulukamys: 
   city: "sulukamys"
   accentcity: "Sulukamys"
-sulukol': 
+sulukol: 
   city: "sulukol'"
   accentcity: "Sulukol'"
 sulukty: 
   city: "sulukty"
   accentcity: "Sulukty"
-sulukul'skiy: 
+sulukulskiy: 
   city: "sulukul'skiy"
   accentcity: "Sulukul'skiy"
-sulu-kul': 
+sulu-kul: 
   city: "sulu-kul'"
   accentcity: "Sulu-Kul'"
 sulusary: 
@@ -28281,7 +28281,7 @@ sulutobe:
 sulutor: 
   city: "sulutor"
   accentcity: "Sulutor"
-sulykol': 
+sulykol: 
   city: "sulykol'"
   accentcity: "Sulykol'"
 sulymetesh: 
@@ -28311,7 +28311,7 @@ sunau:
 sunum: 
   city: "sunum"
   accentcity: "Sunum"
-supil': 
+supil: 
   city: "supil'"
   accentcity: "Supil'"
 suptay: 
@@ -28329,7 +28329,7 @@ surgol:
 surkhan: 
   city: "surkhan"
   accentcity: "Surkhan"
-surkol': 
+surkol: 
   city: "surkol'"
   accentcity: "Surkol'"
 surkov: 
@@ -28410,7 +28410,7 @@ suyyndyk:
 suzak: 
   city: "suzak"
   accentcity: "Suzak"
-suzdal'skiy: 
+suzdalskiy: 
   city: "suzdal'skiy"
   accentcity: "Suzdal'skiy"
 suzhargan: 
@@ -28440,7 +28440,7 @@ svetloye:
 svetlyye klyuchi: 
   city: "svetlyye klyuchi"
   accentcity: "Svetlyye Klyuchi"
-svetlyy zharkol': 
+svetlyy zharkol: 
   city: "svetlyy zharkol'"
   accentcity: "Svetlyy Zharkol'"
 svinchatka: 
@@ -28488,22 +28488,22 @@ sypsyn:
 syrcha: 
   city: "syrcha"
   accentcity: "Syrcha"
-syrdar'inskiy: 
+syrdarinskiy: 
   city: "syrdar'inskiy"
   accentcity: "Syrdar'inskiy"
-syr-dar'inskiy: 
+syr-darinskiy: 
   city: "syr-dar'inskiy"
   accentcity: "Syr-Dar'inskiy"
-syrdar'inskoye: 
+syrdarinskoye: 
   city: "syrdar'inskoye"
   accentcity: "Syrdar'inskoye"
 syrdariya: 
   city: "syrdariya"
   accentcity: "Syrdariya"
-syr-dar'ya: 
+syr-darya: 
   city: "syr-dar'ya"
   accentcity: "Syr-Dar'ya"
-syrdar'ynskoye: 
+syrdarynskoye: 
   city: "syrdar'ynskoye"
   accentcity: "Syrdar'ynskoye"
 syrlybay: 
@@ -28563,7 +28563,7 @@ tabor-baygabul:
 tabotayskiy: 
   city: "tabotayskiy"
   accentcity: "Tabotayskiy"
-tabul'dy: 
+tabuldy: 
   city: "tabul'dy"
   accentcity: "Tabul'dy"
 tabun: 
@@ -28581,10 +28581,10 @@ taganrog:
 tagdinskiy: 
   city: "tagdinskiy"
   accentcity: "Tagdinskiy"
-tagil'skiy komsomolets: 
+tagilskiy komsomolets: 
   city: "tagil'skiy komsomolets"
   accentcity: "Tagil'skiy Komsomolets"
-tagil'skiy: 
+tagilskiy: 
   city: "tagil'skiy"
   accentcity: "Tagil'skiy"
 tagyzbay: 
@@ -28602,7 +28602,7 @@ taiynsha:
 takar kul: 
   city: "takar kul"
   accentcity: "Takar Kul"
-takhr-kul': 
+takhr-kul: 
   city: "takhr-kul'"
   accentcity: "Takhr-Kul'"
 takhtabrod: 
@@ -28635,7 +28635,7 @@ taktaykopir:
 taktaykopyr: 
   city: "taktaykopyr"
   accentcity: "Taktaykopyr"
-takyrkol': 
+takyrkol: 
   city: "takyrkol'"
   accentcity: "Takyrkol'"
 takyr-shaksay: 
@@ -28686,7 +28686,7 @@ tala:
 talav: 
   city: "talav"
   accentcity: "Talav"
-tal'chik: 
+talchik: 
   city: "tal'chik"
   accentcity: "Tal'chik"
 taldanak: 
@@ -28725,7 +28725,7 @@ taldybulaq:
 taldyk-kuduk: 
   city: "taldyk-kuduk"
   accentcity: "Taldyk-Kuduk"
-taldykol': 
+taldykol: 
   city: "taldykol'"
   accentcity: "Taldykol'"
 taldykorgan: 
@@ -28740,7 +28740,7 @@ taldy-kudukskiy:
 taldykuduk: 
   city: "taldykuduk"
   accentcity: "Taldykuduk"
-taldy-kul': 
+taldy-kul: 
   city: "taldy-kul'"
   accentcity: "Taldy-Kul'"
 taldykum: 
@@ -28800,7 +28800,7 @@ talgyy:
 talkayran: 
   city: "talkayran"
   accentcity: "Talkayran"
-tal'nov: 
+talnov: 
   city: "tal'nov"
   accentcity: "Tal'nov"
 talovaya: 
@@ -28830,7 +28830,7 @@ talpyn:
 talpzhi: 
   city: "talpzhi"
   accentcity: "Talpzhi"
-tal'shchik: 
+talshchik: 
   city: "tal'shchik"
   accentcity: "Tal'shchik"
 talshik: 
@@ -28884,10 +28884,10 @@ tamdinskiy:
 tamdi: 
   city: "tamdi"
   accentcity: "Tamdi"
-tamdykol': 
+tamdykol: 
   city: "tamdykol'"
   accentcity: "Tamdykol'"
-tamdy-kul': 
+tamdy-kul: 
   city: "tamdy-kul'"
   accentcity: "Tamdy-Kul'"
 tamdy: 
@@ -28911,10 +28911,10 @@ tamon:
 tanabayevskiy: 
   city: "tanabayevskiy"
   accentcity: "Tanabayevskiy"
-tanagul': 
+tanagul: 
   city: "tanagul'"
   accentcity: "Tanagul'"
-tanakol': 
+tanakol: 
   city: "tanakol'"
   accentcity: "Tanakol'"
 tanasskiy: 
@@ -28983,7 +28983,7 @@ tarakanovo:
 tarakty: 
   city: "tarakty"
   accentcity: "Tarakty"
-tarangul'skiy: 
+tarangulskiy: 
   city: "tarangul'skiy"
   accentcity: "Tarangul'skiy"
 tarangul: 
@@ -29040,7 +29040,7 @@ targyn:
 targyz: 
   city: "targyz"
   accentcity: "Targyz"
-tarkakol': 
+tarkakol: 
   city: "tarkakol'"
   accentcity: "Tarkakol'"
 tarkhanka: 
@@ -29106,7 +29106,7 @@ taschagil:
 tas-cheky: 
   city: "tas-cheky"
   accentcity: "Tas-Cheky"
-tas-chigen': 
+tas-chigen: 
   city: "tas-chigen'"
   accentcity: "Tas-Chigen'"
 tasenbek: 
@@ -29193,7 +29193,7 @@ tas-oba:
 tasotkel: 
   city: "tasotkel"
   accentcity: "Tas\xC3\xB6tkel"
-tasotkel': 
+tasotkel: 
   city: "tasotkel'"
   accentcity: "Tasotkel'"
 tasotkol: 
@@ -29247,7 +29247,7 @@ tasty-butak:
 tastykara: 
   city: "tastykara"
   accentcity: "Tastykara"
-tastyn': 
+tastyn: 
   city: "tastyn'"
   accentcity: "Tastyn'"
 tastyozek: 
@@ -29268,16 +29268,16 @@ tastyube:
 tas-uba: 
   city: "tas-uba"
   accentcity: "Tas-uba"
-tasutkol': 
+tasutkol: 
   city: "tasutkol'"
   accentcity: "Tasutkol'"
-tas-utkul': 
+tas-utkul: 
   city: "tas-utkul'"
   accentcity: "Tas-Utkul'"
 tasybay: 
   city: "tasybay"
   accentcity: "Tasybay"
-tasyskul': 
+tasyskul: 
   city: "tasyskul'"
   accentcity: "Tasyskul'"
 tatan: 
@@ -29298,13 +29298,13 @@ tatti:
 tatty: 
   city: "tatty"
   accentcity: "Tatty"
-tat'yaninskaya: 
+tatyaninskaya: 
   city: "tat'yaninskaya"
   accentcity: "Tat'yaninskaya"
-tat'yanovka: 
+tatyanovka: 
   city: "tat'yanovka"
   accentcity: "Tat'yanovka"
-tat'ya: 
+tatya: 
   city: "tat'ya"
   accentcity: "Tat'ya"
 taty: 
@@ -29451,7 +29451,7 @@ taypaq:
 tayqongyr: 
   city: "tayqongyr"
   accentcity: "Tayqongyr"
-tayshagil': 
+tayshagil: 
   city: "tayshagil'"
   accentcity: "Tayshagil'"
 taysogan: 
@@ -29472,7 +29472,7 @@ taytobe:
 tay-tyube: 
   city: "tay-tyube"
   accentcity: "Tay-Tyube"
-tayzhuzgen': 
+tayzhuzgen: 
   city: "tayzhuzgen'"
   accentcity: "Tayzhuzgen'"
 taz: 
@@ -29484,7 +29484,7 @@ tchelkar:
 tebet: 
   city: "tebet"
   accentcity: "Tebet"
-tegermen': 
+tegermen: 
   city: "tegermen'"
   accentcity: "Tegermen'"
 tegisshildik: 
@@ -29493,7 +29493,7 @@ tegisshildik:
 tegisshil: 
   city: "tegisshil"
   accentcity: "Tegisshil"
-tegisshil': 
+tegisshil: 
   city: "tegisshil'"
   accentcity: "Tegisshil'"
 tegistik: 
@@ -29544,22 +29544,22 @@ telengutovskaya:
 telep: 
   city: "telep"
   accentcity: "Telep"
-tel'mana: 
+telmana: 
   city: "tel'mana"
   accentcity: "Tel'mana"
-tel'manovo: 
+telmanovo: 
   city: "tel'manovo"
   accentcity: "Tel'manovo"
-tel'manovskiy: 
+telmanovskiy: 
   city: "tel'manovskiy"
   accentcity: "Tel'manovskiy"
-tel'manskoye: 
+telmanskoye: 
   city: "tel'manskoye"
   accentcity: "Tel'manskoye"
-tel'nov: 
+telnov: 
   city: "tel'nov"
   accentcity: "Tel'nov"
-telyach'ye: 
+telyachye: 
   city: "telyach'ye"
   accentcity: "Telyach'ye"
 telyatovo: 
@@ -29706,7 +29706,7 @@ terektybulak:
 terekty: 
   city: "terekty"
   accentcity: "Terekty"
-terekul': 
+terekul: 
   city: "terekul'"
   accentcity: "Terekul'"
 terek-uzyakskaya: 
@@ -29715,7 +29715,7 @@ terek-uzyakskaya:
 terengozek: 
   city: "terengozek"
   accentcity: "Tereng\xC3\xB6zek"
-terenkol': 
+terenkol: 
   city: "terenkol'"
   accentcity: "Terenkol'"
 terenkuduk: 
@@ -29733,7 +29733,7 @@ terenshi:
 teren: 
   city: "teren"
   accentcity: "Teren"
-terent'yevka: 
+terentyevka: 
   city: "terent'yevka"
   accentcity: "Terent'yevka"
 terenuzek: 
@@ -29742,10 +29742,10 @@ terenuzek:
 teren-uzyakskaya: 
   city: "teren-uzyakskaya"
   accentcity: "Teren-Uzyakskaya"
-teren'-uzyak: 
+teren-uzyak: 
   city: "teren'-uzyak"
   accentcity: "Teren'-Uzyak"
-tereol'yevka: 
+tereolyevka: 
   city: "tereol'yevka"
   accentcity: "Tereol'yevka"
 tereskan: 
@@ -29769,7 +29769,7 @@ teristangbaly:
 terkaznya: 
   city: "terkaznya"
   accentcity: "Terkaznya"
-terkezen': 
+terkezen: 
   city: "terkezen'"
   accentcity: "Terkezen'"
 terkezyk: 
@@ -29802,7 +29802,7 @@ tersbulak:
 tersekan: 
   city: "tersekan"
   accentcity: "Tersekan"
-terseken'-baly: 
+terseken-baly: 
   city: "terseken'-baly"
   accentcity: "Terseken'-Baly"
 terstanbaly: 
@@ -29832,7 +29832,7 @@ tespakan:
 tessek-tasskiy: 
   city: "tessek-tasskiy"
   accentcity: "Tessek-tasskiy"
-testen'-balyk: 
+testen-balyk: 
   city: "testen'-balyk"
   accentcity: "Testen'-Balyk"
 teterevinka: 
@@ -29874,7 +29874,7 @@ tiktogay:
 tilektes: 
   city: "tilektes"
   accentcity: "Tilektes"
-tileulikol': 
+tileulikol: 
   city: "tileulikol'"
   accentcity: "Tileulikol'"
 timashevka: 
@@ -29970,7 +29970,7 @@ tles:
 tleubay: 
   city: "tleubay"
   accentcity: "Tleubay"
-tlevlekol': 
+tlevlekol: 
   city: "tlevlekol'"
   accentcity: "Tlevlekol'"
 tlinshe: 
@@ -29991,7 +29991,7 @@ tobolga:
 tobolino: 
   city: "tobolino"
   accentcity: "Tobolino"
-tobol'skiy: 
+tobolskiy: 
   city: "tobol'skiy"
   accentcity: "Tobol'skiy"
 tobol: 
@@ -30120,13 +30120,13 @@ tole bi:
 tolen: 
   city: "tolen"
   accentcity: "Tolen"
-tolkunkol': 
+tolkunkol: 
   city: "tolkunkol'"
   accentcity: "Tolkunkol'"
-tolkun-kul': 
+tolkun-kul: 
   city: "tolkun-kul'"
   accentcity: "Tolkun-Kul'"
-tolkynkol': 
+tolkynkol: 
   city: "tolkynkol'"
   accentcity: "Tolkynkol'"
 tolkyn: 
@@ -30219,10 +30219,10 @@ topolinskiy:
 topoli: 
   city: "topoli"
   accentcity: "Topoli"
-topol'ka: 
+topolka: 
   city: "topol'ka"
   accentcity: "Topol'ka"
-topol'naya: 
+topolnaya: 
   city: "topol'naya"
   accentcity: "Topol'naya"
 topolni: 
@@ -30231,10 +30231,10 @@ topolni:
 topolnoy: 
   city: "topolnoy"
   accentcity: "Topoln\xC3\xB6y"
-topol'ny: 
+topolny: 
   city: "topol'ny"
   accentcity: "Topol'ny"
-topol'nyy: 
+topolnyy: 
   city: "topol'nyy"
   accentcity: "Topol'nyy"
 toporki: 
@@ -30264,19 +30264,19 @@ torgay:
 torghay: 
   city: "torghay"
   accentcity: "Torghay"
-torkezen': 
+torkezen: 
   city: "torkezen'"
   accentcity: "Torkezen'"
 torlun: 
   city: "torlun"
   accentcity: "Torlun"
-tortkoll': 
+tortkoll: 
   city: "tortkoll'"
   accentcity: "Tortkoll'"
 tortkol: 
   city: "tortkol"
   accentcity: "T\xC3\xB6rtk\xC3\xB6l"
-tortkol': 
+tortkol: 
   city: "tortkol'"
   accentcity: "Tortkol'"
 tortkon: 
@@ -30291,7 +30291,7 @@ tort-kuduk:
 tortkulak: 
   city: "tortkulak"
   accentcity: "Tortkulak"
-tortkul': 
+tortkul: 
   city: "tortkul'"
   accentcity: "Tortkul'"
 tortpishen: 
@@ -30312,7 +30312,7 @@ toschiy:
 toskopa: 
   city: "toskopa"
   accentcity: "Toskopa"
-tos'-kuduk: 
+tos-kuduk: 
   city: "tos'-kuduk"
   accentcity: "Tos'-Kuduk"
 toskuduk: 
@@ -30384,25 +30384,25 @@ tretiy internatsional:
 tretiy kasyksay: 
   city: "tretiy kasyksay"
   accentcity: "Tretiy Kasyksay"
-tret'yakovka: 
+tretyakovka: 
   city: "tret'yakovka"
   accentcity: "Tret'yakovka"
-tret'yakovskoye: 
+tretyakovskoye: 
   city: "tret'yakovskoye"
   accentcity: "Tret'yakovskoye"
-tret'ya pyatiletka: 
+tretya pyatiletka: 
   city: "tret'ya pyatiletka"
   accentcity: "Tret'ya Pyatiletka"
-tridtsat' let kazakhskoy ssr: 
+tridtsat let kazakhskoy ssr: 
   city: "tridtsat' let kazakhskoy ssr"
   accentcity: "Tridtsat' Let Kazakhskoy SSR"
-tridtsat' let kazakhstana: 
+tridtsat let kazakhstana: 
   city: "tridtsat' let kazakhstana"
   accentcity: "Tridtsat' Let Kazakhstana"
-tridtsat' sem' let oktyabrya: 
+tridtsat sem let oktyabrya: 
   city: "tridtsat' sem' let oktyabrya"
   accentcity: "Tridtsat' Sem' Let Oktyabrya"
-trinadtsat' let oktyabrya: 
+trinadtsat let oktyabrya: 
   city: "trinadtsat' let oktyabrya"
   accentcity: "Trinadtsat' Let Oktyabrya"
 troebratskiy: 
@@ -30462,7 +30462,7 @@ trudovostok:
 trudovoye: 
   city: "trudovoye"
   accentcity: "Trudovoye"
-trudovoy krest'yanin: 
+trudovoy krestyanin: 
   city: "trudovoy krest'yanin"
   accentcity: "Trudovoy Krest'yanin"
 trudovoy: 
@@ -30528,16 +30528,16 @@ tselinnyy:
 tselinograd: 
   city: "tselinograd"
   accentcity: "Tselinograd"
-tsentral'noye: 
+tsentralnoye: 
   city: "tsentral'noye"
   accentcity: "Tsentral'noye"
-tsentral'nyy ispolnitel'nyy komitet kazakhskoy sovetskoy sotsialisticheskoy respubliky: 
+tsentralnyy ispolnitelnyy komitet kazakhskoy sovetskoy sotsialisticheskoy respubliky: 
   city: "tsentral'nyy ispolnitel'nyy komitet kazakhskoy sovetskoy sotsialisticheskoy respubliky"
   accentcity: "Tsentral'nyy Ispolnitel'nyy Komitet Kazakhskoy Sovetskoy Sotsialisticheskoy Respubliky"
-tsentral'nyy khutor: 
+tsentralnyy khutor: 
   city: "tsentral'nyy khutor"
   accentcity: "Tsentral'nyy Khutor"
-tsentral'nyy: 
+tsentralnyy: 
   city: "tsentral'nyy"
   accentcity: "Tsentral'nyy"
 tserkovnoe: 
@@ -30615,7 +30615,7 @@ tuksan:
 tuksay: 
   city: "tuksay"
   accentcity: "Tuksay"
-tukul': 
+tukul: 
   city: "tukul'"
   accentcity: "Tukul'"
 tukustayev: 
@@ -30645,13 +30645,13 @@ tulims-aul:
 tulkibas: 
   city: "tulkibas"
   accentcity: "T\xC3\xBClkibas"
-tul'kili: 
+tulkili: 
   city: "tul'kili"
   accentcity: "Tul'kili"
-tul'kuli: 
+tulkuli: 
   city: "tul'kuli"
   accentcity: "Tul'kuli"
-tul'skiy: 
+tulskiy: 
   city: "tul'skiy"
   accentcity: "Tul'skiy"
 tulyuktyube: 
@@ -30672,10 +30672,10 @@ tuma:
 tungush: 
   city: "tungush"
   accentcity: "Tungush"
-tunguyukta-kul': 
+tunguyukta-kul: 
   city: "tunguyukta-kul'"
   accentcity: "Tunguyukta-Kul'"
-tunguyukto-kul': 
+tunguyukto-kul: 
   city: "tunguyukto-kul'"
   accentcity: "Tunguyukto-Kul'"
 tungyik: 
@@ -30732,7 +30732,7 @@ turbat:
 turbaykarasu: 
   city: "turbaykarasu"
   accentcity: "Turbaykarasu"
-turdugul'skiy: 
+turdugulskiy: 
   city: "turdugul'skiy"
   accentcity: "Turdugul'skiy"
 turetobe: 
@@ -30756,7 +30756,7 @@ turgenevka:
 turgenevskoye: 
   city: "turgenevskoye"
   accentcity: "Turgenevskoye"
-turgen': 
+turgen: 
   city: "turgen'"
   accentcity: "Turgen'"
 turgen: 
@@ -30786,7 +30786,7 @@ turkistan:
 turksiba: 
   city: "turksiba"
   accentcity: "Turksiba"
-turksib sed'moy: 
+turksib sedmoy: 
   city: "turksib sed'moy"
   accentcity: "Turksib Sed'moy"
 turksib: 
@@ -30807,10 +30807,10 @@ tursenin:
 turt-kuduk: 
   city: "turt-kuduk"
   accentcity: "Turt-Kuduk"
-turtkul': 
+turtkul: 
   city: "turtkul'"
   accentcity: "Turtkul'"
-turt-kul': 
+turt-kul: 
   city: "turt-kul'"
   accentcity: "Turt-Kul'"
 turum: 
@@ -30906,7 +30906,7 @@ tuz-agach:
 tuzagash: 
   city: "tuzagash"
   accentcity: "Tuzagash"
-tuzdukul': 
+tuzdukul: 
   city: "tuzdukul'"
   accentcity: "Tuzdukul'"
 tuzkain: 
@@ -30918,7 +30918,7 @@ tuz:
 tuzusay: 
   city: "tuzusay"
   accentcity: "Tuzusay"
-tyagishchil': 
+tyagishchil: 
   city: "tyagishchil'"
   accentcity: "Tyagishchil'"
 tyay-tyay: 
@@ -30933,7 +30933,7 @@ tygish:
 tyksay: 
   city: "tyksay"
   accentcity: "Tyksay"
-tykyrkol': 
+tykyrkol: 
   city: "tykyrkol'"
   accentcity: "Tykyrkol'"
 tyngylykty: 
@@ -30969,16 +30969,16 @@ tyulegen:
 tyulengut: 
   city: "tyulengut"
   accentcity: "Tyulengut"
-tyul'kili: 
+tyulkili: 
   city: "tyul'kili"
   accentcity: "Tyul'kili"
-tyul'kubasskiy: 
+tyulkubasskiy: 
   city: "tyul'kubasskiy"
   accentcity: "Tyul'kubasskiy"
-tyul'kubas: 
+tyulkubas: 
   city: "tyul'kubas"
   accentcity: "Tyul'kubas"
-tyul'kubay: 
+tyulkubay: 
   city: "tyul'kubay"
   accentcity: "Tyul'kubay"
 tyulyugen: 
@@ -30993,13 +30993,13 @@ tyulyuktemirskiy:
 tyulyus: 
   city: "tyulyus"
   accentcity: "Tyulyus"
-tyumen'-aryk: 
+tyumen-aryk: 
   city: "tyumen'-aryk"
   accentcity: "Tyumen'-Aryk"
 tyumenka: 
   city: "tyumenka"
   accentcity: "Tyumenka"
-tyumen': 
+tyumen: 
   city: "tyumen'"
   accentcity: "Tyumen'"
 tyunde: 
@@ -31020,7 +31020,7 @@ tyuratam:
 tyur-bay: 
   city: "tyur-bay"
   accentcity: "Tyur-Bay"
-tyurdygyul': 
+tyurdygyul: 
   city: "tyurdygyul'"
   accentcity: "Tyurdygyul'"
 tyurgay: 
@@ -31107,7 +31107,7 @@ ucharal:
 uch-aral: 
   city: "uch-aral"
   accentcity: "Uch-Aral"
-uchastkovoyye khozyaystvo sel'skokhozyaystvennyy institut: 
+uchastkovoyye khozyaystvo selskokhozyaystvennyy institut: 
   city: "uchastkovoyye khozyaystvo sel'skokhozyaystvennyy institut"
   accentcity: "Uchastkovoyye Khozyaystvo Sel'skokhozyaystvennyy Institut"
 uchastkovoyye khozyaystvo skhi: 
@@ -31128,22 +31128,22 @@ uchbulak:
 uch-bulak: 
   city: "uch-bulak"
   accentcity: "Uch-Bulak"
-uchitel': 
+uchitel: 
   city: "uchitel'"
   accentcity: "Uchitel'"
 uch-kara-su: 
   city: "uch-kara-su"
   accentcity: "Uch-Kara-Su"
-uch-kul': 
+uch-kul: 
   city: "uch-kul'"
   accentcity: "Uch-Kul'"
 uchtyube: 
   city: "uchtyube"
   accentcity: "Uchtyube"
-uch-usen': 
+uch-usen: 
   city: "uch-usen'"
   accentcity: "Uch-Usen'"
-uch-uzen': 
+uch-uzen: 
   city: "uch-uzen'"
   accentcity: "Uch-Uzen'"
 uduar: 
@@ -31167,7 +31167,7 @@ uglovoy:
 ugolki: 
   city: "ugolki"
   accentcity: "Ugolki"
-ugol'nyy: 
+ugolnyy: 
   city: "ugol'nyy"
   accentcity: "Ugol'nyy"
 uidrus: 
@@ -31224,25 +31224,25 @@ ulasto:
 ulasty: 
   city: "ulasty"
   accentcity: "Ulasty"
-ul'ba-perevalochnaya: 
+ulba-perevalochnaya: 
   city: "ul'ba-perevalochnaya"
   accentcity: "Ul'ba-Perevalochnaya"
-ul'bastroy: 
+ulbastroy: 
   city: "ul'bastroy"
   accentcity: "Ul'bastroy"
-ul'ba: 
+ulba: 
   city: "ul'ba"
   accentcity: "Ul'ba"
-ul'bibnskiy: 
+ulbibnskiy: 
   city: "ul'bibnskiy"
   accentcity: "Ul'bibnskiy"
-ul'binskoye: 
+ulbinskoye: 
   city: "ul'binskoye"
   accentcity: "Ul'binskoye"
 ulbi: 
   city: "ulbi"
   accentcity: "\xC3\x9Clbi"
-ul'cho: 
+ulcho: 
   city: "ul'cho"
   accentcity: "Ul'cho"
 ulendy: 
@@ -31260,19 +31260,19 @@ ulette:
 uletty: 
   city: "uletty"
   accentcity: "Uletty"
-ul'ga: 
+ulga: 
   city: "ul'ga"
   accentcity: "Ul'ga"
-ul'ge-algan: 
+ulge-algan: 
   city: "ul'ge-algan"
   accentcity: "Ul'ge-Algan"
-ul'gilimali: 
+ulgilimali: 
   city: "ul'gilimali"
   accentcity: "Ul'gilimali"
-ul'gilimalshi: 
+ulgilimalshi: 
   city: "ul'gilimalshi"
   accentcity: "Ul'gilimalshi"
-ul'gili: 
+ulgili: 
   city: "ul'gili"
   accentcity: "Ul'gili"
 ulgi: 
@@ -31281,52 +31281,52 @@ ulgi:
 ulgo: 
   city: "ulgo"
   accentcity: "Ulg\xC3\xB6"
-ul'go: 
+ulgo: 
   city: "ul'go"
   accentcity: "Ul'go"
-ul'gulimalshi: 
+ulgulimalshi: 
   city: "ul'gulimalshi"
   accentcity: "Ul'gulimalshi"
-ul'guli: 
+ulguli: 
   city: "ul'guli"
   accentcity: "Ul'guli"
-ul'guly: 
+ulguly: 
   city: "ul'guly"
   accentcity: "Ul'guly"
-ul'gy: 
+ulgy: 
   city: "ul'gy"
   accentcity: "Ul'gy"
-ul'kekaratal: 
+ulkekaratal: 
   city: "ul'kekaratal"
   accentcity: "Ul'kekaratal"
-ul'ken-aksu: 
+ulken-aksu: 
   city: "ul'ken-aksu"
   accentcity: "Ul'ken-Aksu"
 ulken aqsu: 
   city: "ulken aqsu"
   accentcity: "Ulken Aqsu"
-ul'kenbarak: 
+ulkenbarak: 
   city: "ul'kenbarak"
   accentcity: "Ul'kenbarak"
 ulken boken: 
   city: "ulken boken"
   accentcity: "\xC3\x9Clken B\xC3\xB6ken"
-ul'kenenbek: 
+ulkenenbek: 
   city: "ul'kenenbek"
   accentcity: "Ul'kenenbek"
-ul'ken-gurt: 
+ulken-gurt: 
   city: "ul'ken-gurt"
   accentcity: "Ul'ken-Gurt"
 ulken izyum: 
   city: "ulken izyum"
   accentcity: "Ulken Izyum"
-ul'kenkandyk: 
+ulkenkandyk: 
   city: "ul'kenkandyk"
   accentcity: "Ul'kenkandyk"
-ul'ken-karatal: 
+ulken-karatal: 
   city: "ul'ken-karatal"
   accentcity: "Ul'ken-Karatal"
-ul'kenkopa: 
+ulkenkopa: 
   city: "ul'kenkopa"
   accentcity: "Ul'kenkopa"
 ulken malyshka: 
@@ -31338,7 +31338,7 @@ ulkennaryn:
 ulken shaghan: 
   city: "ulken shaghan"
   accentcity: "\xC3\x9Clken Shaghan"
-ul'kensor: 
+ulkensor: 
   city: "ul'kensor"
   accentcity: "Ul'kensor"
 ulken sulutor: 
@@ -31350,25 +31350,25 @@ ulken:
 ulken vladimirovka: 
   city: "ulken vladimirovka"
   accentcity: "Ulken Vladimirovka"
-ul'ke pervoye: 
+ulke pervoye: 
   city: "ul'ke pervoye"
   accentcity: "Ul'ke Pervoye"
-ul'ke: 
+ulke: 
   city: "ul'ke"
   accentcity: "Ul'ke"
-ul'kun-ak-su: 
+ulkun-ak-su: 
   city: "ul'kun-ak-su"
   accentcity: "Ul'kun-Ak-Su"
-ul'kun-kok-apan: 
+ulkun-kok-apan: 
   city: "ul'kun-kok-apan"
   accentcity: "Ul'kun-Kok-Apan"
-ul'kun-kopa: 
+ulkun-kopa: 
   city: "ul'kun-kopa"
   accentcity: "Ul'kun-Kopa"
-ul'-oba: 
+ul-oba: 
   city: "ul'-oba"
   accentcity: "Ul'-Oba"
-ul'tabak: 
+ultabak: 
   city: "ul'tabak"
   accentcity: "Ul'tabak"
 uluguzki: 
@@ -31395,13 +31395,13 @@ ulutavski:
 ulutavskiy: 
   city: "ulutavskiy"
   accentcity: "Ulutavskiy"
-ul'yanovka: 
+ulyanovka: 
   city: "ul'yanovka"
   accentcity: "Ul'yanovka"
-ul'yanovskiy: 
+ulyanovskiy: 
   city: "ul'yanovskiy"
   accentcity: "Ul'yanovskiy"
-ul'yanovskoye: 
+ulyanovskoye: 
   city: "ul'yanovskoye"
   accentcity: "Ul'yanovskoye"
 ulygyz: 
@@ -31455,13 +31455,13 @@ unguyrlyu:
 unrek: 
   city: "unrek"
   accentcity: "Unrek"
-ural'skiy prigorodnyy: 
+uralskiy prigorodnyy: 
   city: "ural'skiy prigorodnyy"
   accentcity: "Ural'skiy Prigorodnyy"
-ural'skiy: 
+uralskiy: 
   city: "ural'skiy"
   accentcity: "Ural'skiy"
-ural'sk: 
+uralsk: 
   city: "ural'sk"
   accentcity: "Ural'sk"
 urambet: 
@@ -31569,10 +31569,10 @@ urochishche aytbay:
 urochishche karakuduk: 
   city: "urochishche karakuduk"
   accentcity: "Urochishche Karakuduk"
-urochishche okhotnich'ye: 
+urochishche okhotnichye: 
   city: "urochishche okhotnich'ye"
   accentcity: "Urochishche Okhotnich'ye"
-ur-otkel': 
+ur-otkel: 
   city: "ur-otkel'"
   accentcity: "Ur-Otkel'"
 urozhaynoye: 
@@ -31629,7 +31629,7 @@ urunkhay:
 urusay: 
   city: "urusay"
   accentcity: "Urusay"
-uryl': 
+uryl: 
   city: "uryl'"
   accentcity: "Uryl'"
 urymqay: 
@@ -31740,7 +31740,7 @@ ushkamys:
 ushkarasu: 
   city: "ushkarasu"
   accentcity: "Ushkarasu"
-ushkol': 
+ushkol: 
   city: "ushkol'"
   accentcity: "Ushkol'"
 ushkol: 
@@ -31752,7 +31752,7 @@ ushkomey:
 ushkuduk: 
   city: "ushkuduk"
   accentcity: "Ushkuduk"
-ushkul': 
+ushkul: 
   city: "ushkul'"
   accentcity: "Ushkul'"
 ushkumey: 
@@ -31824,10 +31824,10 @@ uspenovka:
 uspenovskiy: 
   city: "uspenovskiy"
   accentcity: "Uspenovskiy"
-uspeno-yur'evka: 
+uspeno-yurevka: 
   city: "uspeno-yur'evka"
   accentcity: "Uspeno-Yur'evka"
-uspenoyur'yevka: 
+uspenoyuryevka: 
   city: "uspenoyur'yevka"
   accentcity: "Uspenoyur'yevka"
 uspenski: 
@@ -31842,46 +31842,46 @@ uspenskoye:
 uspensk: 
   city: "uspensk"
   accentcity: "Uspensk"
-ust'-bezymyanka: 
+ust-bezymyanka: 
   city: "ust'-bezymyanka"
   accentcity: "Ust'-Bezymyanka"
-ust'-bukhtarma: 
+ust-bukhtarma: 
   city: "ust'-bukhtarma"
   accentcity: "Ust'-Bukhtarma"
-ust'-bukhtarmiskaya: 
+ust-bukhtarmiskaya: 
   city: "ust'-bukhtarmiskaya"
   accentcity: "Ust'-Bukhtarmiskaya"
-ust'-bukon': 
+ust-bukon: 
   city: "ust'-bukon'"
   accentcity: "Ust'-Bukon'"
-ust'-chernovaya: 
+ust-chernovaya: 
   city: "ust'-chernovaya"
   accentcity: "Ust'-Chernovaya"
-ust'-chindagatuy: 
+ust-chindagatuy: 
   city: "ust'-chindagatuy"
   accentcity: "Ust'-Chindagatuy"
-ust'-ignashikha: 
+ust-ignashikha: 
   city: "ust'-ignashikha"
   accentcity: "Ust'-Ignashikha"
-ust'-kamenogorskiy: 
+ust-kamenogorskiy: 
   city: "ust'-kamenogorskiy"
   accentcity: "Ust'-Kamenogorskiy"
-ust'-kamenogorsk: 
+ust-kamenogorsk: 
   city: "ust'-kamenogorsk"
   accentcity: "Ust'-Kamenogorsk"
-ust'-kurchum: 
+ust-kurchum: 
   city: "ust'-kurchum"
   accentcity: "Ust'-Kurchum"
-ust'-morozikha: 
+ust-morozikha: 
   city: "ust'-morozikha"
   accentcity: "Ust'-Morozikha"
-ust'-shindagatuy: 
+ust-shindagatuy: 
   city: "ust'-shindagatuy"
   accentcity: "Ust'-Shindagatuy"
-ust'-talovka: 
+ust-talovka: 
   city: "ust'-talovka"
   accentcity: "Ust'-Talovka"
-ust'-yazovaya: 
+ust-yazovaya: 
   city: "ust'-yazovaya"
   accentcity: "Ust'-Yazovaya"
 usumlik: 
@@ -31923,10 +31923,10 @@ utyuchegen:
 uvakovskoye: 
   city: "uvakovskoye"
   accentcity: "Uvakovskoye"
-uval'noye: 
+uvalnoye: 
   city: "uval'noye"
   accentcity: "Uval'noye"
-uval'nyy: 
+uvalnyy: 
   city: "uval'nyy"
   accentcity: "Uval'nyy"
 uvarovka: 
@@ -31968,16 +31968,16 @@ uyteke:
 uyuk: 
   city: "uyuk"
   accentcity: "Uyuk"
-uyumchel': 
+uyumchel: 
   city: "uyumchel'"
   accentcity: "Uyumchel'"
-uyumshel': 
+uyumshel: 
   city: "uyumshel'"
   accentcity: "Uyumshel'"
 uyumshil: 
   city: "uyumshil"
   accentcity: "Uyumshil"
-uyumshil': 
+uyumshil: 
   city: "uyumshil'"
   accentcity: "Uyumshil'"
 uyzbay: 
@@ -31989,7 +31989,7 @@ uzekh:
 uzek: 
   city: "uzek"
   accentcity: "Uzek"
-uzen': 
+uzen: 
   city: "uzen'"
   accentcity: "Uzen'"
 uzhenino: 
@@ -32031,16 +32031,16 @@ uzun-bulak:
 uzunkair: 
   city: "uzunkair"
   accentcity: "Uzunkair"
-uzun-kol': 
+uzun-kol: 
   city: "uzun-kol'"
   accentcity: "Uzun-Kol'"
-uzunkol': 
+uzunkol: 
   city: "uzunkol'"
   accentcity: "Uzunkol'"
-uzunkul'skiy: 
+uzunkulskiy: 
   city: "uzunkul'skiy"
   accentcity: "Uzunkul'skiy"
-uzun-kul': 
+uzun-kul: 
   city: "uzun-kul'"
   accentcity: "Uzun-Kul'"
 uzun-sor: 
@@ -32088,16 +32088,16 @@ uzynkarasu:
 uzynkoga: 
   city: "uzynkoga"
   accentcity: "Uzynkoga"
-uzynkol'skiy: 
+uzynkolskiy: 
   city: "uzynkol'skiy"
   accentcity: "Uzynkol'skiy"
-uzynkol': 
+uzynkol: 
   city: "uzynkol'"
   accentcity: "Uzynkol'"
 uzynkol: 
   city: "uzynkol"
   accentcity: "Uzynk\xC3\xB6l"
-uzynkul': 
+uzynkul: 
   city: "uzynkul'"
   accentcity: "Uzynkul'"
 uzyn-tortba: 
@@ -32115,10 +32115,10 @@ valdan:
 valentinovka: 
   city: "valentinovka"
   accentcity: "Valentinovka"
-valer'yanovka: 
+valeryanovka: 
   city: "valer'yanovka"
   accentcity: "Valer'yanovka"
-valer'yanovskiy: 
+valeryanovskiy: 
   city: "valer'yanovskiy"
   accentcity: "Valer'yanovskiy"
 valikhanovo: 
@@ -32148,25 +32148,25 @@ varvarinskoye:
 varvarovka: 
   city: "varvarovka"
   accentcity: "Varvarovka"
-vasil'evka: 
+vasilevka: 
   city: "vasil'evka"
   accentcity: "Vasil'evka"
-vasil'kovka: 
+vasilkovka: 
   city: "vasil'kovka"
   accentcity: "Vasil'kovka"
-vasil'yevka: 
+vasilyevka: 
   city: "vasil'yevka"
   accentcity: "Vasil'yevka"
-vasil'yevskiy: 
+vasilyevskiy: 
   city: "vasil'yevskiy"
   accentcity: "Vasil'yevskiy"
-vasil'yevskoye: 
+vasilyevskoye: 
   city: "vasil'yevskoye"
   accentcity: "Vasil'yevskoye"
-vas'kin-kuduk: 
+vaskin-kuduk: 
   city: "vas'kin-kuduk"
   accentcity: "Vas'kin-Kuduk"
-vas'kovka: 
+vaskovka: 
   city: "vas'kovka"
   accentcity: "Vas'kovka"
 vataga zhilinskaya: 
@@ -32238,10 +32238,10 @@ verkhneorskaya:
 verkhne-ubinskoye: 
   city: "verkhne-ubinskoye"
   accentcity: "Verkhne-Ubinskoye"
-verkhne-ul'binka: 
+verkhne-ulbinka: 
   city: "verkhne-ul'binka"
   accentcity: "Verkhne-Ul'binka"
-verkhne-ul'binskoye: 
+verkhne-ulbinskoye: 
   city: "verkhne-ul'binskoye"
   accentcity: "Verkhne-Ul'binskoye"
 verkhniy bistau: 
@@ -32343,13 +32343,13 @@ vesyoloye:
 vetelki: 
   city: "vetelki"
   accentcity: "Vetelki"
-vetka lengerugol': 
+vetka lengerugol: 
   city: "vetka lengerugol'"
   accentcity: "Vetka Lengerugol'"
-vikent'yevka: 
+vikentyevka: 
   city: "vikent'yevka"
   accentcity: "Vikent'yevka"
-vikent'yevskiy: 
+vikentyevskiy: 
   city: "vikent'yevskiy"
   accentcity: "Vikent'yevskiy"
 viksariyevskiy: 
@@ -32361,16 +32361,16 @@ viktorovka:
 viktorovskiy: 
   city: "viktorovskiy"
   accentcity: "Viktorovskiy"
-vil'yams atyndaghy: 
+vilyams atyndaghy: 
   city: "vil'yams atyndaghy"
   accentcity: "Vil'yams Atyndaghy"
-vil'yamsa: 
+vilyamsa: 
   city: "vil'yamsa"
   accentcity: "Vil'yamsa"
-vil'yamskiy: 
+vilyamskiy: 
   city: "vil'yamskiy"
   accentcity: "Vil'yamskiy"
-vil'yamsskiy: 
+vilyamsskiy: 
   city: "vil'yamsskiy"
   accentcity: "Vil'yamsskiy"
 vinnyy: 
@@ -32454,7 +32454,7 @@ vodinka:
 vodnoye: 
   city: "vodnoye"
   accentcity: "Vodnoye"
-vodop'yanovka: 
+vodopyanovka: 
   city: "vodop'yanovka"
   accentcity: "Vodop'yanovka"
 vogatyrevka: 
@@ -32469,7 +32469,7 @@ volchevka:
 volchikha: 
   city: "volchikha"
   accentcity: "Volchikha"
-vol'fram: 
+volfram: 
   city: "vol'fram"
   accentcity: "Vol'fram"
 volgin: 
@@ -32490,10 +32490,10 @@ volkovskoye:
 volna: 
   city: "volna"
   accentcity: "Volna"
-vol'noye: 
+volnoye: 
   city: "vol'noye"
   accentcity: "Vol'noye"
-vol'nyy: 
+volnyy: 
   city: "vol'nyy"
   accentcity: "Vol'nyy"
 volodarskiy: 
@@ -32514,10 +32514,10 @@ vologin:
 voloshinka: 
   city: "voloshinka"
   accentcity: "Voloshinka"
-vol'skoye: 
+volskoye: 
   city: "vol'skoye"
   accentcity: "Vol'skoye"
-vol'sk: 
+volsk: 
   city: "vol'sk"
   accentcity: "Vol'sk"
 volynskoye: 
@@ -32526,13 +32526,13 @@ volynskoye:
 volynsk: 
   city: "volynsk"
   accentcity: "Volynsk"
-vorob'yevka: 
+vorobyevka: 
   city: "vorob'yevka"
   accentcity: "Vorob'yevka"
-vorob'yevskiy: 
+vorobyevskiy: 
   city: "vorob'yevskiy"
   accentcity: "Vorob'yevskiy"
-vorob'yev: 
+vorobyev: 
   city: "vorob'yev"
   accentcity: "Vorob'yev"
 voronenskiy: 
@@ -32568,7 +32568,7 @@ voroshilovskiy:
 voroshilovskoye: 
   city: "voroshilovskoye"
   accentcity: "Voroshilovskoye"
-vosemnadtsat' parts''yezd: 
+vosemnadtsat partsyezd: 
   city: "vosemnadtsat' parts''yezd"
   accentcity: "Vosemnadtsat' Parts''yezd"
 voskhodskoe: 
@@ -32589,7 +32589,7 @@ voskresenovka:
 voskresenskiy: 
   city: "voskresenskiy"
   accentcity: "Voskresenskiy"
-vos'moye marta: 
+vosmoye marta: 
   city: "vos'moye marta"
   accentcity: "Vos'moye Marta"
 vostandek: 
@@ -32694,7 +32694,7 @@ wyssokoje:
 xix partsezd atyndaghy: 
   city: "xix partsezd atyndaghy"
   accentcity: "XIX Partsezd Atyndaghy"
-xxii parts'yezd: 
+xxii partsyezd: 
   city: "xxii parts'yezd"
   accentcity: "XXII Parts'yezd"
 yablonovka: 
@@ -32721,7 +32721,7 @@ yaisan:
 yakipetskogo: 
   city: "yakipetskogo"
   accentcity: "Yakipetskogo"
-yakor': 
+yakor: 
   city: "yakor'"
   accentcity: "Yakor'"
 yakovlevka: 
@@ -32937,13 +32937,13 @@ yefremovskiy:
 yefremovskoye: 
   city: "yefremovskoye"
   accentcity: "Yefremovskoye"
-yegandykol': 
+yegandykol: 
   city: "yegandykol'"
   accentcity: "Yegandykol'"
 yegendybulak: 
   city: "yegendybulak"
   accentcity: "Yegendybulak"
-yegendy-kol': 
+yegendy-kol: 
   city: "yegendy-kol'"
   accentcity: "Yegendy-Kol'"
 yegendy: 
@@ -32973,10 +32973,10 @@ yegindy-agash:
 yegindybulak: 
   city: "yegindybulak"
   accentcity: "Yegindybulak"
-yegindykol': 
+yegindykol: 
   city: "yegindykol'"
   accentcity: "Yegindykol'"
-yegindykul': 
+yegindykul: 
   city: "yegindykul'"
   accentcity: "Yegindykul'"
 yegindy: 
@@ -33000,7 +33000,7 @@ yegyn-bulak:
 yekaterininskiy: 
   city: "yekaterininskiy"
   accentcity: "Yekaterininskiy"
-yekaterinopol'ka: 
+yekaterinopolka: 
   city: "yekaterinopol'ka"
   accentcity: "Yekaterinopol'ka"
 yekaterinoslavskiy: 
@@ -33114,16 +33114,16 @@ yeltai:
 yeltay: 
   city: "yeltay"
   accentcity: "Yeltay"
-yel'tay: 
+yeltay: 
   city: "yel'tay"
   accentcity: "Yel'tay"
-yemel'yanovka: 
+yemelyanovka: 
   city: "yemel'yanovka"
   accentcity: "Yemel'yanovka"
 yemukhali: 
   city: "yemukhali"
   accentcity: "Yemukhali"
-yenbekshil'derskiy: 
+yenbekshilderskiy: 
   city: "yenbekshil'derskiy"
   accentcity: "Yenbekshil'derskiy"
 yenbekshi: 
@@ -33243,10 +33243,10 @@ yerminay:
 yermolayevka: 
   city: "yermolayevka"
   accentcity: "Yermolayevka"
-yermol'chevo: 
+yermolchevo: 
   city: "yermol'chevo"
   accentcity: "Yermol'chevo"
-yermol'chev: 
+yermolchev: 
   city: "yermol'chev"
   accentcity: "Yermol'chev"
 yermolichev: 
@@ -33285,7 +33285,7 @@ yesekartkan:
 yesekin: 
   city: "yesekin"
   accentcity: "Yesekin"
-yesel'bay: 
+yeselbay: 
   city: "yesel'bay"
   accentcity: "Yesel'bay"
 yesembay: 
@@ -33294,16 +33294,16 @@ yesembay:
 yesendyk: 
   city: "yesendyk"
   accentcity: "Yesendyk"
-yesengel'dy: 
+yesengeldy: 
   city: "yesengel'dy"
   accentcity: "Yesengel'dy"
-yesen'-gil'dy: 
+yesen-gildy: 
   city: "yesen'-gil'dy"
   accentcity: "Yesen'-Gil'dy"
-yesenkol': 
+yesenkol: 
   city: "yesenkol'"
   accentcity: "Yesenkol'"
-yesenkul'skiy: 
+yesenkulskiy: 
   city: "yesenkul'skiy"
   accentcity: "Yesenkul'skiy"
 yesensayskiy: 
@@ -33318,7 +33318,7 @@ yesentay:
 yesenterek: 
   city: "yesenterek"
   accentcity: "Yesenterek"
-yesen': 
+yesen: 
   city: "yesen'"
   accentcity: "Yesen'"
 yeseraspa: 
@@ -33336,22 +33336,22 @@ yeshkilikurday:
 yesik: 
   city: "yesik"
   accentcity: "Yesik"
-yesil'bay: 
+yesilbay: 
   city: "yesil'bay"
   accentcity: "Yesil'bay"
-yesil'skiy pervyy: 
+yesilskiy pervyy: 
   city: "yesil'skiy pervyy"
   accentcity: "Yesil'skiy Pervyy"
-yesil'skiy tretiy: 
+yesilskiy tretiy: 
   city: "yesil'skiy tretiy"
   accentcity: "Yesil'skiy Tretiy"
-yesil'skiy: 
+yesilskiy: 
   city: "yesil'skiy"
   accentcity: "Yesil'skiy"
-yesil'skoye: 
+yesilskoye: 
   city: "yesil'skoye"
   accentcity: "Yesil'skoye"
-yesil': 
+yesil: 
   city: "yesil'"
   accentcity: "Yesil'"
 yesimbay: 
@@ -33372,7 +33372,7 @@ yeskera:
 yeskiakan: 
   city: "yeskiakan"
   accentcity: "Yeskiakan"
-yeski-bugun': 
+yeski-bugun: 
   city: "yeski-bugun'"
   accentcity: "Yeski-Bugun'"
 yeskiikan: 
@@ -33417,10 +33417,10 @@ yevgenevka:
 yevgenovka: 
   city: "yevgenovka"
   accentcity: "Yevgenovka"
-yevgen'yevka: 
+yevgenyevka: 
   city: "yevgen'yevka"
   accentcity: "Yevgen'yevka"
-yevgen'yevskiy: 
+yevgenyevskiy: 
   city: "yevgen'yevskiy"
   accentcity: "Yevgen'yevskiy"
 yevlashkan: 
@@ -33465,10 +33465,10 @@ yuldabay:
 yuldybay: 
   city: "yuldybay"
   accentcity: "Yuldybay"
-yul'evka: 
+yulevka: 
   city: "yul'evka"
   accentcity: "Yul'evka"
-yul'yevka: 
+yulyevka: 
   city: "yul'yevka"
   accentcity: "Yul'yevka"
 yunashevka: 
@@ -33477,7 +33477,7 @@ yunashevka:
 yunyy: 
   city: "yunyy"
   accentcity: "Yunyy"
-yur'inskiy: 
+yurinskiy: 
   city: "yur'inskiy"
   accentcity: "Yur'inskiy"
 yussup: 
@@ -33537,19 +33537,19 @@ zabrodin:
 zaburan: 
   city: "zaburan"
   accentcity: "Zaburan"
-zaburun'e: 
+zaburune: 
   city: "zaburun'e"
   accentcity: "Zaburun'e"
-zaburun'ye: 
+zaburunye: 
   city: "zaburun'ye"
   accentcity: "Zaburun'ye"
 zachagansk: 
   city: "zachagansk"
   accentcity: "Zachagansk"
-zadar'inskiy: 
+zadarinskiy: 
   city: "zadar'inskiy"
   accentcity: "Zadar'inskiy"
-zadar'ya: 
+zadarya: 
   city: "zadar'ya"
   accentcity: "Zadar'ya"
 zadonskiy: 
@@ -33582,7 +33582,7 @@ zaimka:
 zaisan: 
   city: "zaisan"
   accentcity: "Zaisan"
-zakar'ya: 
+zakarya: 
   city: "zakar'ya"
   accentcity: "Zakar'ya"
 zakharovka: 
@@ -33636,16 +33636,16 @@ zapasnoye:
 zapasnyy: 
   city: "zapasnyy"
   accentcity: "Zapasnyy"
-zapol'skoye: 
+zapolskoye: 
   city: "zapol'skoye"
   accentcity: "Zapol'skoye"
-zaporozh'e: 
+zaporozhe: 
   city: "zaporozh'e"
   accentcity: "Zaporozh'e"
 zaporozhskoye: 
   city: "zaporozhskoye"
   accentcity: "Zaporozhskoye"
-zaporozh'ye: 
+zaporozhye: 
   city: "zaporozh'ye"
   accentcity: "Zaporozh'ye"
 zara: 
@@ -33690,16 +33690,16 @@ zashaghan:
 zashchita: 
   city: "zashchita"
   accentcity: "Zashchita"
-zatobel'skoye: 
+zatobelskoye: 
   city: "zatobel'skoye"
   accentcity: "Zatobel'skoye"
-zatobol'skiy: 
+zatobolskiy: 
   city: "zatobol'skiy"
   accentcity: "Zatobol'skiy"
-zatobol'skoye: 
+zatobolskoye: 
   city: "zatobol'skoye"
   accentcity: "Zatobol'skoye"
-zatobol'sk: 
+zatobolsk: 
   city: "zatobol'sk"
   accentcity: "Zatobol'sk"
 zatobyl: 
@@ -33708,7 +33708,7 @@ zatobyl:
 zaton: 
   city: "zaton"
   accentcity: "Zaton"
-zaul'binskoye: 
+zaulbinskoye: 
   city: "zaul'binskoye"
   accentcity: "Zaul'binskoye"
 zauralovka: 
@@ -33717,7 +33717,7 @@ zauralovka:
 zavadskiy: 
   city: "zavadskiy"
   accentcity: "Zavadskiy"
-zavety il'icha: 
+zavety ilicha: 
   city: "zavety il'icha"
   accentcity: "Zavety Il'icha"
 zavety lenina: 
@@ -33735,7 +33735,7 @@ zavodskiy:
 zavodskoy: 
   city: "zavodskoy"
   accentcity: "Zavodskoy"
-zav'yalovka: 
+zavyalovka: 
   city: "zav'yalovka"
   accentcity: "Zav'yalovka"
 zaysan: 
@@ -33786,7 +33786,7 @@ zelenyy gay:
 zelenyy: 
   city: "zelenyy"
   accentcity: "Zelenyy"
-zemledel'cheskoye: 
+zemledelcheskoye: 
   city: "zemledel'cheskoye"
   accentcity: "Zemledel'cheskoye"
 zemlyanov: 
@@ -33852,7 +33852,7 @@ zhabaykezek:
 zhabaykin: 
   city: "zhabaykin"
   accentcity: "Zhabaykin"
-zhabegal': 
+zhabegal: 
   city: "zhabegal'"
   accentcity: "Zhabegal'"
 zhabyrkaynar: 
@@ -33870,7 +33870,7 @@ zhaghabulaq:
 zhaik: 
   city: "zhaik"
   accentcity: "Zhaik"
-zhail'ma: 
+zhailma: 
   city: "zhail'ma"
   accentcity: "Zhail'ma"
 zhailma: 
@@ -33885,7 +33885,7 @@ zhaiylma:
 zhaka-arka: 
   city: "zhaka-arka"
   accentcity: "Zhaka-Arka"
-zhakankol': 
+zhakankol: 
   city: "zhakankol'"
   accentcity: "Zhakankol'"
 zhakay: 
@@ -33909,7 +33909,7 @@ zhaksalyks:
 zhaksalyk: 
   city: "zhaksalyk"
   accentcity: "Zhaksalyk"
-zhaksen': 
+zhaksen: 
   city: "zhaksen'"
   accentcity: "Zhaksen'"
 zhaksy-balakty: 
@@ -33918,7 +33918,7 @@ zhaksy-balakty:
 zhaksybay: 
   city: "zhaksybay"
   accentcity: "Zhaksybay"
-zhaksykol': 
+zhaksykol: 
   city: "zhaksykol'"
   accentcity: "Zhaksykol'"
 zhaksylyk: 
@@ -33963,7 +33963,7 @@ zhalakash:
 zhalaman aul: 
   city: "zhalaman aul"
   accentcity: "Zhalaman Aul"
-zhalanashkol': 
+zhalanashkol: 
   city: "zhalanashkol'"
   accentcity: "Zhalanashkol'"
 zhalanash: 
@@ -34074,7 +34074,7 @@ zhalpaqtal:
 zhalshuma: 
   city: "zhalshuma"
   accentcity: "Zhalshuma"
-zhaltyrkol': 
+zhaltyrkol: 
   city: "zhaltyrkol'"
   accentcity: "Zhaltyrkol'"
 zhaltyrsha: 
@@ -34131,7 +34131,7 @@ zhaman:
 zhamanzhol: 
   city: "zhamanzhol"
   accentcity: "Zhamanzhol"
-zhambaskol': 
+zhambaskol: 
   city: "zhambaskol'"
   accentcity: "Zhambaskol'"
 zhambas: 
@@ -34197,7 +34197,7 @@ zhanabozsha:
 zhanadala: 
   city: "zhanadala"
   accentcity: "Zhanadala"
-zhanadar'ya: 
+zhanadarya: 
   city: "zhanadar'ya"
   accentcity: "Zhanadar'ya"
 zhanadaur: 
@@ -34398,7 +34398,7 @@ zhanaturmys:
 zhana-turmys: 
   city: "zhana-turmys"
   accentcity: "Zhana-Turmys"
-zhanaul'ga: 
+zhanaulga: 
   city: "zhanaul'ga"
   accentcity: "Zhanaul'ga"
 zhanaul: 
@@ -34410,7 +34410,7 @@ zhana-urnek:
 zhana-ushm: 
   city: "zhana-ushm"
   accentcity: "Zhana-Ushm"
-zhana-utkul': 
+zhana-utkul: 
   city: "zhana-utkul'"
   accentcity: "Zhana-Utkul'"
 zhana-uyum: 
@@ -34452,7 +34452,7 @@ zhanbobek:
 zhandak-ory: 
   city: "zhandak-ory"
   accentcity: "Zhandak-Ory"
-zhandar'ya: 
+zhandarya: 
   city: "zhandar'ya"
   accentcity: "Zhandar'ya"
 zhandosovo: 
@@ -34527,10 +34527,10 @@ zhangaturmys:
 zhangazhol: 
   city: "zhangazhol"
   accentcity: "Zhangazhol"
-zhangel'dina: 
+zhangeldina: 
   city: "zhangel'dina"
   accentcity: "Zhangel'dina"
-zhangel'dy: 
+zhangeldy: 
   city: "zhangel'dy"
   accentcity: "Zhangel'dy"
 zhangiv-kuduk: 
@@ -34683,16 +34683,16 @@ zharke:
 zharkin: 
   city: "zharkin"
   accentcity: "Zharkin"
-zharkol': 
+zharkol: 
   city: "zharkol'"
   accentcity: "Zharkol'"
 zharkulak: 
   city: "zharkulak"
   accentcity: "Zharkulak"
-zharkul'skiy: 
+zharkulskiy: 
   city: "zharkul'skiy"
   accentcity: "Zharkul'skiy"
-zhar-kul': 
+zhar-kul: 
   city: "zhar-kul'"
   accentcity: "Zhar-Kul'"
 zharkyn: 
@@ -34707,7 +34707,7 @@ zharlygan:
 zharlykamys: 
   city: "zharlykamys"
   accentcity: "Zharlykamys"
-zharlykol': 
+zharlykol: 
   city: "zharlykol'"
   accentcity: "Zharlykol'"
 zharly: 
@@ -34785,7 +34785,7 @@ zharysbay:
 zharyspay: 
   city: "zharyspay"
   accentcity: "Zharyspay"
-zhasankol': 
+zhasankol: 
   city: "zhasankol'"
   accentcity: "Zhasankol'"
 zhasa: 
@@ -34875,19 +34875,19 @@ zhaylaubay:
 zhaylaukol: 
   city: "zhaylaukol"
   accentcity: "Zhaylaukol"
-zhayl'bay: 
+zhaylbay: 
   city: "zhayl'bay"
   accentcity: "Zhayl'bay"
 zhaylibay: 
   city: "zhaylibay"
   accentcity: "Zhaylibay"
-zhaylyakol': 
+zhaylyakol: 
   city: "zhaylyakol'"
   accentcity: "Zhaylyakol'"
 zhaylyauagach: 
   city: "zhaylyauagach"
   accentcity: "Zhaylyauagach"
-zhaylyaukol': 
+zhaylyaukol: 
   city: "zhaylyaukol'"
   accentcity: "Zhaylyaukol'"
 zhayma: 
@@ -34944,22 +34944,22 @@ zhegirgen:
 zhegulevtsev: 
   city: "zhegulevtsev"
   accentcity: "Zhegulëvtsev"
-zhekekol'skiy: 
+zhekekolskiy: 
   city: "zhekekol'skiy"
   accentcity: "Zhekekol'skiy"
 zhekekol: 
   city: "zhekekol"
   accentcity: "Zhekek\xC3\xB6l"
-zhekekol': 
+zhekekol: 
   city: "zhekekol'"
   accentcity: "Zhekekol'"
-zhekekul'skiy: 
+zhekekulskiy: 
   city: "zhekekul'skiy"
   accentcity: "Zhekekul'skiy"
 zhelandy: 
   city: "zhelandy"
   accentcity: "Zhelandy"
-zhel'bulak: 
+zhelbulak: 
   city: "zhel'bulak"
   accentcity: "Zhel'bulak"
 zheldyadyr: 
@@ -35025,13 +35025,13 @@ zheltorongy:
 zhelturanga: 
   city: "zhelturanga"
   accentcity: "Zhelturanga"
-zhelturangil': 
+zhelturangil: 
   city: "zhelturangil'"
   accentcity: "Zhelturangil'"
 zhelyakovo: 
   city: "zhelyakovo"
   accentcity: "Zhelyakovo"
-zhel'zhargan: 
+zhelzhargan: 
   city: "zhel'zhargan"
   accentcity: "Zhel'zhargan"
 zhembeytinskiy: 
@@ -35067,7 +35067,7 @@ zhenis:
 zherinskiy: 
   city: "zherinskiy"
   accentcity: "Zherinskiy"
-zherkol': 
+zherkol: 
   city: "zherkol'"
   accentcity: "Zherkol'"
 zhernovka: 
@@ -35100,7 +35100,7 @@ zhetybay:
 zhetygen: 
   city: "zhetygen"
   accentcity: "Zhetygen"
-zhetykol': 
+zhetykol: 
   city: "zhetykol'"
   accentcity: "Zhetykol'"
 zhetykshi: 
@@ -35211,7 +35211,7 @@ zhilybulak:
 zhilysay: 
   city: "zhilysay"
   accentcity: "Zhilysay"
-zhingyldykol': 
+zhingyldykol: 
   city: "zhingyldykol'"
   accentcity: "Zhingyldykol'"
 zhingyldy: 
@@ -35238,7 +35238,7 @@ zhirenaygyr:
 zhirenkopa: 
   city: "zhirenkopa"
   accentcity: "Zhirenkopa"
-zhiren'kupa: 
+zhirenkupa: 
   city: "zhiren'kupa"
   accentcity: "Zhiren'kupa"
 zhirenqopa: 
@@ -35307,7 +35307,7 @@ zholkuduk:
 zholoba: 
   city: "zholoba"
   accentcity: "Zholoba"
-zholotkel': 
+zholotkel: 
   city: "zholotkel'"
   accentcity: "Zholotkel'"
 zholtaptyk: 
@@ -35364,7 +35364,7 @@ zhuanbalyk:
 zhuantobe: 
   city: "zhuantobe"
   accentcity: "Zhuantobe"
-zhubanyshkol': 
+zhubanyshkol: 
   city: "zhubanyshkol'"
   accentcity: "Zhubanyshkol'"
 zhuban: 
@@ -35544,7 +35544,7 @@ zhympity:
 zhyngghyldy: 
   city: "zhyngghyldy"
   accentcity: "Zhyngghyldy"
-zhyngyldykol': 
+zhyngyldykol: 
   city: "zhyngyldykol'"
   accentcity: "Zhyngyldykol'"
 zhyngyldy: 
@@ -35556,7 +35556,7 @@ zhyrakuduk:
 zhyrgansay: 
   city: "zhyrgansay"
   accentcity: "Zhyrgansay"
-zhytykol': 
+zhytykol: 
   city: "zhytykol'"
   accentcity: "Zhytykol'"
 zhyuzym: 
@@ -35589,7 +35589,7 @@ zimovka mendzhapan:
 zimovka syurguta: 
   city: "zimovka syurguta"
   accentcity: "Zimovka Syurguta"
-zimovka tabul'dy: 
+zimovka tabuldy: 
   city: "zimovka tabul'dy"
   accentcity: "Zimovka Tabul'dy"
 zimovka tizek: 
@@ -35598,7 +35598,7 @@ zimovka tizek:
 zimovki syurguta: 
   city: "zimovki syurguta"
   accentcity: "Zimovki Syurguta"
-zimovki tabul'dy: 
+zimovki tabuldy: 
   city: "zimovki tabul'dy"
   accentcity: "Zimovki Tabul'dy"
 zimovnik kudaimendy: 
@@ -35625,10 +35625,10 @@ zlatogorka:
 zlatogorsk: 
   city: "zlatogorsk"
   accentcity: "Zlatogorsk"
-zlatopol'e: 
+zlatopole: 
   city: "zlatopol'e"
   accentcity: "Zlatopol'e"
-zlatopol'ye: 
+zlatopolye: 
   city: "zlatopol'ye"
   accentcity: "Zlatopol'ye"
 zlatoustovskiy: 

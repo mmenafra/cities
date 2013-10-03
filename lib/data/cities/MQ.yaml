@@ -39,10 +39,10 @@ anse figuiers:
 anse madame: 
   city: "anse madame"
   accentcity: "Anse Madame"
-anses d'arlet: 
+anses darlet: 
   city: "anses d'arlet"
   accentcity: "Anses d'Arlet"
-anses d'arlets: 
+anses darlets: 
   city: "anses d'arlets"
   accentcity: "Anses d'Arlets"
 augrain: 
@@ -129,7 +129,7 @@ birot:
 bois carre: 
   city: "bois carre"
   accentcity: "Bois Carré"
-bois d'inde: 
+bois dinde: 
   city: "bois d'inde"
   accentcity: "Bois d'Inde"
 bois du parc: 
@@ -180,7 +180,7 @@ boutaud:
 brevette: 
   city: "brevette"
   accentcity: "Brevette"
-brin d'amour: 
+brin damour: 
   city: "brin d'amour"
   accentcity: "Brin d'Amour"
 cadette: 
@@ -279,7 +279,7 @@ courbaril:
 croisee decius: 
   city: "croisee decius"
   accentcity: "Croisée Décius"
-croisee jeanne d'arc: 
+croisee jeanne darc: 
   city: "croisee jeanne d'arc"
   accentcity: "Croisée Jeanne d'Arc"
 croisee manioc: 
@@ -489,7 +489,7 @@ fonds brules:
 fonds capot: 
   city: "fonds capot"
   accentcity: "Fonds Capot"
-fonds d'or: 
+fonds dor: 
   city: "fonds d'or"
   accentcity: "Fonds d'Or"
 fonds-lahaye: 
@@ -564,7 +564,7 @@ grande riviere:
 grande savane: 
   city: "grande savane"
   accentcity: "Grande Savane"
-grand' riviere: 
+grand riviere: 
   city: "grand' riviere"
   accentcity: "Grand' Rivière"
 gros-morne: 
@@ -591,7 +591,7 @@ hyacinthe:
 jean-baptiste: 
   city: "jean-baptiste"
   accentcity: "Jean-Baptiste"
-jeanne d'arc: 
+jeanne darc: 
   city: "jeanne d'arc"
   accentcity: "Jeanne d'Arc"
 josseaud: 
@@ -696,13 +696,13 @@ la haut:
 la huvet: 
   city: "la huvet"
   accentcity: "La Huvet"
-l'ajoupa-bouillon: 
+lajoupa-bouillon: 
   city: "l'ajoupa-bouillon"
   accentcity: "L'Ajoupa-Bouillon"
 lajus: 
   city: "lajus"
   accentcity: "Lajus"
-l'alma: 
+lalma: 
   city: "l'alma"
   accentcity: "L'Alma"
 la malevaut: 
@@ -729,13 +729,13 @@ la moise:
 la monnerot: 
   city: "la monnerot"
   accentcity: "La Monnerot"
-l'anse caffar: 
+lanse caffar: 
   city: "l'anse caffar"
   accentcity: "L'Anse Caffar"
-l'anse mitan: 
+lanse mitan: 
   city: "l'anse mitan"
   accentcity: "L'Anse Mitan"
-l'anse noire: 
+lanse noire: 
   city: "l'anse noire"
   accentcity: "L'Anse Noire"
 la pagerie: 
@@ -843,7 +843,7 @@ le morne-vert:
 le mouillage: 
   city: "le mouillage"
   accentcity: "Le Mouillage"
-l'enclos: 
+lenclos: 
   city: "l'enclos"
   accentcity: "L'Enclos"
 le parnasse: 
@@ -864,7 +864,7 @@ le poteau:
 le precheur: 
   city: "le precheur"
   accentcity: "Le Prêcheur"
-l'ermitage: 
+lermitage: 
   city: "l'ermitage"
   accentcity: "L'Ermitage"
 le robert: 
@@ -879,10 +879,10 @@ les abymes:
 le saint-esprit: 
   city: "le saint-esprit"
   accentcity: "Le Saint-Esprit"
-les anses d'arlet: 
+les anses darlet: 
   city: "les anses d'arlet"
   accentcity: "Les Anses d'Arlet"
-les anses-d'arlets: 
+les anses-darlets: 
   city: "les anses-d'arlets"
   accentcity: "Les Anses-d'Arlets"
 les boucaniers: 
@@ -900,7 +900,7 @@ les deux-terres:
 les flamboyants: 
   city: "les flamboyants"
   accentcity: "Les Flamboyants"
-l'esperance: 
+lesperance: 
   city: "l'esperance"
   accentcity: "L'Espérance"
 les quatre chemins: 
@@ -1194,7 +1194,7 @@ prechur:
 prefontaine: 
   city: "prefontaine"
   accentcity: "Préfontaine"
-presqu'ile: 
+presquile: 
   city: "presqu'ile"
   accentcity: "Presqu'\xC3\xAEle"
 proprete: 
@@ -1305,7 +1305,7 @@ quartier birot:
 quartier bocage: 
   city: "quartier bocage"
   accentcity: "Quartier Bocage"
-quartier bois d'inde: 
+quartier bois dinde: 
   city: "quartier bois d'inde"
   accentcity: "Quartier Bois d'Inde"
 quartier bois la charles: 
@@ -1392,7 +1392,7 @@ quartier concorde:
 quartier corps de garde: 
   city: "quartier corps de garde"
   accentcity: "Quartier Corps de Garde"
-quartier coulee d'or: 
+quartier coulee dor: 
   city: "quartier coulee d'or"
   accentcity: "Quartier Coulée d'Or"
 quartier courbaril: 
@@ -1428,19 +1428,19 @@ quartier de la chapelle:
 quartier de la petite anse: 
   city: "quartier de la petite anse"
   accentcity: "Quartier de la Petite Anse"
-quartier de la presqu'ile: 
+quartier de la presquile: 
   city: "quartier de la presqu'ile"
   accentcity: "Quartier de la Presqu'\xC3\xAEle"
 quartier de la t. s. f.: 
   city: "quartier de la t. s. f."
   accentcity: "Quartier de la T. S. F."
-quartier de l'ex-voto: 
+quartier de lex-voto: 
   city: "quartier de l'ex-voto"
   accentcity: "Quartier de l'Ex-voto"
 quartier delivry: 
   city: "quartier delivry"
   accentcity: "Quartier Delivry"
-quartier de l'orangerie: 
+quartier de lorangerie: 
   city: "quartier de l'orangerie"
   accentcity: "Quartier de l'Orangerie"
 quartier demare: 
@@ -1749,7 +1749,7 @@ quartier la garanne:
 quartier la-haut: 
   city: "quartier la-haut"
   accentcity: "Quartier Là-Haut"
-quartier l'allee: 
+quartier lallee: 
   city: "quartier l'allee"
   accentcity: "Quartier l'Allée"
 quartier la manzo: 
@@ -1788,7 +1788,7 @@ quartier la rene:
 quartier la richard: 
   city: "quartier la richard"
   accentcity: "Quartier la Richard"
-quartier la riviere d'or: 
+quartier la riviere dor: 
   city: "quartier la riviere d'or"
   accentcity: "Quartier la Rivière d'Or"
 quartier la sabine: 
@@ -1839,7 +1839,7 @@ quartier lepinoy:
 quartier le raisin: 
   city: "quartier le raisin"
   accentcity: "Quartier le Raisin"
-quartier l'ermitage: 
+quartier lermitage: 
   city: "quartier l'ermitage"
   accentcity: "Quartier l'Ermitage"
 quartier lero: 
@@ -2130,7 +2130,7 @@ quartier saint-roche:
 quartier saint-vincent: 
   city: "quartier saint-vincent"
   accentcity: "Quartier Saint-Vincent"
-quartiers anse a l'ane: 
+quartiers anse a lane: 
   city: "quartiers anse a l'ane"
   accentcity: "Quartiers Anse à l'\xC3\x82ne"
 quartier sans pareil: 
@@ -2238,10 +2238,10 @@ riviere cacao:
 riviere calecon: 
   city: "riviere calecon"
   accentcity: "Rivière Caleçon"
-riviere d'or: 
+riviere dor: 
   city: "riviere d'or"
   accentcity: "Rivière d'Or"
-riviere l'or: 
+riviere lor: 
   city: "riviere l'or"
   accentcity: "Rivière l'Or"
 riviere monsieur: 
@@ -2343,7 +2343,7 @@ tartane:
 taupiniere: 
   city: "taupiniere"
   accentcity: "Taupinière"
-terres d'absalon: 
+terres dabsalon: 
   city: "terres d'absalon"
   accentcity: "Terres d'Absalon"
 terres sainville: 
@@ -2382,7 +2382,7 @@ urion:
 valatte: 
   city: "valatte"
   accentcity: "Valatte"
-val d'or: 
+val dor: 
   city: "val d'or"
   accentcity: "Val d'Or"
 vauclin: 

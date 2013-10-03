@@ -102,10 +102,10 @@ baia di san paolo:
 balzan: 
   city: "balzan"
   accentcity: "Balzan"
-b'buga: 
+bbuga: 
   city: "b'buga"
   accentcity: "B'Buga"
-b'bugia: 
+bbugia: 
   city: "b'bugia"
   accentcity: "B'Bugia"
 "benga\xC2\xA7ajsa": 
@@ -165,7 +165,7 @@ birzebuggia:
 biskra: 
   city: "biskra"
   accentcity: "Biskra"
-b'kara: 
+bkara: 
   city: "b'kara"
   accentcity: "B'Kara"
 borg in-nadur: 
@@ -312,7 +312,7 @@ el mghatap:
 "'emieri": 
   city: "'emieri"
   accentcity: "'Emieri"
-erba' mwiezeb: 
+erba mwiezeb: 
   city: "erba' mwiezeb"
   accentcity: "Erba' Mwiezeb"
 fgura: 
@@ -396,7 +396,7 @@ ghain dwieli:
 ghain il cbira: 
   city: "ghain il cbira"
   accentcity: "Ghain Il Cbira"
-ghain il k'bira: 
+ghain il kbira: 
   city: "ghain il k'bira"
   accentcity: "Ghain il K'bira"
 ghain kaiet: 
@@ -588,7 +588,7 @@ il kattara:
 il kortin ta ghain zeituna: 
   city: "il kortin ta ghain zeituna"
   accentcity: "Il Kortin ta Ghain Zeituna"
-il kortin ta' ghain zejtuna: 
+il kortin ta ghain zejtuna: 
   city: "il kortin ta' ghain zejtuna"
   accentcity: "Il Kortin ta' Ghain Zejtuna"
 "il-maa\xC2\xA7sel": 
@@ -846,7 +846,7 @@ krendi:
 "l-aa\xC2\xA7rax tal-ga\xC2\xA7ajn": 
   city: "l-aa\xC2\xA7rax tal-ga\xC2\xA7ajn"
   accentcity: "L-A\xC3\x84\xC2\xA7rax tal-G\xC3\x84\xC2\xA7ajn"
-l`andrijet: 
+landrijet: 
   city: "l`andrijet"
   accentcity: "L`Andrijet"
 l-andrijiet: 
@@ -912,7 +912,7 @@ l-ingiered:
 l-ingieret: 
   city: "l-ingieret"
   accentcity: "L-Ingieret"
-l'inglin: 
+linglin: 
   city: "l'inglin"
   accentcity: "L'Inglin"
 liscolba: 
@@ -1050,7 +1050,7 @@ msida:
 "msieraa\xC2\xA7": 
   city: "msieraa\xC2\xA7"
   accentcity: "Msiera\xC3\x84\xC2\xA7"
-m'skala: 
+mskala: 
   city: "m'skala"
   accentcity: "M'Skala"
 mtarfa: 
@@ -1065,7 +1065,7 @@ munxar:
 musta: 
   city: "musta"
   accentcity: "Musta"
-m'xloxx: 
+mxloxx: 
   city: "m'xloxx"
   accentcity: "M'Xloxx"
 nadur: 
@@ -1143,10 +1143,10 @@ safi:
 saint julian: 
   city: "saint julian"
   accentcity: "Saint Julian"
-saint julian's: 
+saint julians: 
   city: "saint julian's"
   accentcity: "Saint Julian's"
-saint paul's bay: 
+saint pauls bay: 
   city: "saint paul's bay"
   accentcity: "Saint Paul's Bay"
 san annard: 
@@ -1236,10 +1236,10 @@ shaghra:
 shaghra tal iskof: 
   city: "shaghra tal iskof"
   accentcity: "Shaghra tal Iskof"
-sha'ra tal iskof: 
+shara tal iskof: 
   city: "sha'ra tal iskof"
   accentcity: "Sha'ra tal Iskof"
-sh'ayra: 
+shayra: 
   city: "sh'ayra"
   accentcity: "Sh'ayra"
 shghaira: 
@@ -1275,7 +1275,7 @@ sliema:
 "ta' a\xC2\xA6axxluq": 
   city: "ta' a\xC2\xA6axxluq"
   accentcity: "Ta' \xC3\x84\xC2\xA6axxluq"
-ta' abram: 
+ta abram: 
   city: "ta' abram"
   accentcity: "Ta' Abram"
 "ta' a\xC2\xA6ida": 
@@ -1290,37 +1290,37 @@ ta birbuba:
 "ta' bir miftua\xC2\xA7": 
   city: "ta' bir miftua\xC2\xA7"
   accentcity: "Ta' Bir Miftu\xC3\x84\xC2\xA7"
-ta' brared: 
+ta brared: 
   city: "ta' brared"
   accentcity: "Ta' Brared"
 ta braret: 
   city: "ta braret"
   accentcity: "Ta Braret"
-ta' bullara: 
+ta bullara: 
   city: "ta' bullara"
   accentcity: "Ta' Bullara"
 ta candia: 
   city: "ta candia"
   accentcity: "Ta Candia"
-ta' cantar: 
+ta cantar: 
   city: "ta' cantar"
   accentcity: "Ta' Cantar"
 tac-cawla: 
   city: "tac-cawla"
   accentcity: "Tac-Cawla"
-ta' ceppuna: 
+ta ceppuna: 
   city: "ta' ceppuna"
   accentcity: "Ta' Ceppuna"
-ta' ciantar: 
+ta ciantar: 
   city: "ta' ciantar"
   accentcity: "Ta' Ciantar"
-ta' cikkun: 
+ta cikkun: 
   city: "ta' cikkun"
   accentcity: "Ta' Cikkun"
 ta cordin: 
   city: "ta cordin"
   accentcity: "Ta Cordin"
-ta' danieli: 
+ta danieli: 
   city: "ta' danieli"
   accentcity: "Ta' Danieli"
 tad-dawl: 
@@ -1335,19 +1335,19 @@ tad-dwieli:
 ta erba muiezep: 
   city: "ta erba muiezep"
   accentcity: "Ta Erba Muiezep"
-ta'fleur-de-lis: 
+tafleur-de-lis: 
   city: "ta'fleur-de-lis"
   accentcity: "Ta'Fleur-De-Lis"
 ta giocondu: 
   city: "ta giocondu"
   accentcity: "Ta Giocondu"
-ta' giorni: 
+ta giorni: 
   city: "ta' giorni"
   accentcity: "Ta' Giorni"
-ta' gokondu: 
+ta gokondu: 
   city: "ta' gokondu"
   accentcity: "Ta' Gokondu"
-ta' gorgun: 
+ta gorgun: 
   city: "ta' gorgun"
   accentcity: "Ta' Gorgun"
 ta guardamangia: 
@@ -1368,13 +1368,13 @@ ta kali:
 ta kandia: 
   city: "ta kandia"
   accentcity: "Ta Kandia"
-ta' kandja: 
+ta kandja: 
   city: "ta' kandja"
   accentcity: "Ta' Kandja"
-ta' kappara: 
+ta kappara: 
   city: "ta' kappara"
   accentcity: "Ta' Kappara"
-ta' kordin: 
+ta kordin: 
   city: "ta' kordin"
   accentcity: "Ta' Kordin"
 "tal-a\xC2\xA6amra": 
@@ -1392,13 +1392,13 @@ ta' kordin:
 ta l-abatia: 
   city: "ta l-abatia"
   accentcity: "Ta L-Abatia"
-ta' l-abatija: 
+ta l-abatija: 
   city: "ta' l-abatija"
   accentcity: "Ta' l-Abatija"
 "tal-a\xC2\xA6las": 
   city: "tal-a\xC2\xA6las"
   accentcity: "Tal-\xC3\x84\xC2\xA6las"
-ta' lampuka: 
+ta lampuka: 
   city: "ta' lampuka"
   accentcity: "Ta' Lampuka"
 "tal-a\xC2\xA6riereb": 
@@ -1467,7 +1467,7 @@ tal handak:
 tal haulija: 
   city: "tal haulija"
   accentcity: "Tal Haulija"
-ta' l-ibrag: 
+ta l-ibrag: 
   city: "ta' l-ibrag"
   accentcity: "Ta' l-Ibrag"
 tal-imbordin: 
@@ -1476,7 +1476,7 @@ tal-imbordin:
 "ta' l-imga\xC2\xA7ajjen": 
   city: "ta' l-imga\xC2\xA7ajjen"
   accentcity: "Ta' l-Img\xC3\x84\xC2\xA7ajjen"
-ta' l-infetti: 
+ta l-infetti: 
   city: "ta' l-infetti"
   accentcity: "Ta' l-Infetti"
 tal iscorvit: 
@@ -1485,7 +1485,7 @@ tal iscorvit:
 ta liscurvit: 
   city: "ta liscurvit"
   accentcity: "Ta Liscurvit"
-ta' l-iskirvit: 
+ta l-iskirvit: 
   city: "ta' l-iskirvit"
   accentcity: "Ta' L-Iskirvit"
 tal iskolviet: 
@@ -1548,7 +1548,7 @@ tal-pitkal:
 tal-qtates: 
   city: "tal-qtates"
   accentcity: "Tal-Qtates"
-tal' uai: 
+tal uai: 
   city: "tal' uai"
   accentcity: "Tal' Uai"
 tal-vecca: 
@@ -1563,16 +1563,16 @@ tal vechia:
 ta misrah lewza: 
   city: "ta misrah lewza"
   accentcity: "Ta Misrah Lewza"
-ta' mlit: 
+ta mlit: 
   city: "ta' mlit"
   accentcity: "Ta' Mlit"
-ta' monita: 
+ta monita: 
   city: "ta' monita"
   accentcity: "Ta' Monita"
-ta' penza: 
+ta penza: 
   city: "ta' penza"
   accentcity: "Ta' Penza"
-ta' qali: 
+ta qali: 
   city: "ta' qali"
   accentcity: "Ta' Qali"
 tarshin: 
@@ -1587,7 +1587,7 @@ ta salvatur:
 ta san ghirgor: 
   city: "ta san ghirgor"
   accentcity: "Ta San Ghirgor"
-ta' san girgor: 
+ta san girgor: 
   city: "ta' san girgor"
   accentcity: "Ta' San Girgor"
 ta san giuacchin: 
@@ -1596,16 +1596,16 @@ ta san giuacchin:
 ta san guann tal ghorghar: 
   city: "ta san guann tal ghorghar"
   accentcity: "Ta San Guann Tal Ghorghar"
-ta' san gwakkin: 
+ta san gwakkin: 
   city: "ta' san gwakkin"
   accentcity: "Ta' San Gwakkin"
 ta san niclau: 
   city: "ta san niclau"
   accentcity: "Ta San Niclau"
-ta' san niklaw: 
+ta san niklaw: 
   city: "ta' san niklaw"
   accentcity: "Ta' San Niklaw"
-ta' sardina: 
+ta sardina: 
   city: "ta' sardina"
   accentcity: "Ta' Sardina"
 tasbiesch: 
@@ -1614,10 +1614,10 @@ tasbiesch:
 tas biesh: 
   city: "tas biesh"
   accentcity: "Tas Biesh"
-ta' shbiesh: 
+ta shbiesh: 
   city: "ta' shbiesh"
   accentcity: "Ta' Shbiesh"
-ta' srina: 
+ta srina: 
   city: "ta' srina"
   accentcity: "Ta' Srina"
 tas-salib: 
@@ -1650,7 +1650,7 @@ tas-sliema:
 ta wied ghammiek: 
   city: "ta wied ghammiek"
   accentcity: "Ta Wied Ghammiek"
-ta' xbiex: 
+ta xbiex: 
   city: "ta' xbiex"
   accentcity: "Ta' Xbiex"
 ta xlejli: 

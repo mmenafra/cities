@@ -168,10 +168,10 @@ albligen:
 alchenstorf: 
   city: "alchenstorf"
   accentcity: "Alchenstorf"
-all'acqua: 
+allacqua: 
   city: "all'acqua"
   accentcity: "All'Acqua"
-all'acqua ospizio: 
+allacqua ospizio: 
   city: "all'acqua ospizio"
   accentcity: "All'Acqua Ospizio"
 allaman: 
@@ -1809,7 +1809,7 @@ charrat-les-chenes:
 chateau de bonmont: 
   city: "chateau de bonmont"
   accentcity: "Ch\xC3\xA2teau de Bonmont"
-chateau-d'oex: 
+chateau-doex: 
   city: "chateau-d'oex"
   accentcity: "Chateau-d'Oex"
 chateauneuf: 
@@ -1866,10 +1866,10 @@ chene-paquier:
 chermignon: 
   city: "chermignon"
   accentcity: "Chermignon"
-chermignon-d'en bas: 
+chermignon-den bas: 
   city: "chermignon-d'en bas"
   accentcity: "Chermignon-d'en Bas"
-chermignon-d'en haut: 
+chermignon-den haut: 
   city: "chermignon-d'en haut"
   accentcity: "Chermignon-d'en Haut"
 cheseaux: 
@@ -4668,7 +4668,7 @@ la barma:
 la barmaz: 
   city: "la barmaz"
   accentcity: "La Barmaz"
-l'abbaye: 
+labbaye: 
   city: "l'abbaye"
   accentcity: "L'Abbaye"
 la brevine: 
@@ -4872,7 +4872,7 @@ la rosa:
 larsi: 
   city: "larsi"
   accentcity: "Larsi"
-l'arzo: 
+larzo: 
   city: "l'arzo"
   accentcity: "l'Arzo"
 la sagne: 
@@ -5283,7 +5283,7 @@ liplisbuhl:
 lipplisbuhl: 
   city: "lipplisbuhl"
   accentcity: "Lipplisb\xC3\xBChl"
-l'isle: 
+lisle: 
   city: "l'isle"
   accentcity: "L'Isle"
 littau: 
@@ -8133,7 +8133,7 @@ santa maria in cama:
 santa maria: 
   city: "santa maria"
   accentcity: "Santa Maria"
-sant'antonio: 
+santantonio: 
   city: "sant'antonio"
   accentcity: "Sant'Antonio"
 san vittore: 
@@ -9633,10 +9633,10 @@ valbella:
 valcava: 
   city: "valcava"
   accentcity: "Valcava"
-val-d'iliez: 
+val-diliez: 
   city: "val-d'iliez"
   accentcity: "Val-d'Iliez"
-val d'illiez: 
+val dilliez: 
   city: "val d'illiez"
   accentcity: "Val d'Illiez"
 valendas: 
@@ -9828,7 +9828,7 @@ villa:
 villaz-saint-pierre: 
   city: "villaz-saint-pierre"
   accentcity: "Villaz-Saint-Pierre"
-ville d'issert: 
+ville dissert: 
   city: "ville d'issert"
   accentcity: "Ville d'Issert"
 villeneuve: 

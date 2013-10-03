@@ -294,7 +294,7 @@ bacuch:
 bacurov: 
   city: "bacurov"
   accentcity: "Bacúrov"
-bad'an: 
+badan: 
   city: "bad'an"
   accentcity: "Bad'an"
 badice: 
@@ -1353,7 +1353,7 @@ briestie:
 brnice: 
   city: "brnice"
   accentcity: "Brnice"
-brod'any: 
+brodany: 
   city: "brod'any"
   accentcity: "Brod'any"
 brodno: 
@@ -1923,7 +1923,7 @@ chaynorany:
 cherna: 
   city: "cherna"
   accentcity: "Cherna"
-chl'aba: 
+chlaba: 
   city: "chl'aba"
   accentcity: "Chl'aba"
 chladna studna: 
@@ -3582,13 +3582,13 @@ durad:
 durcina: 
   city: "durcina"
   accentcity: "Durcina"
-durd'os: 
+durdos: 
   city: "durd'os"
   accentcity: "Durd'os"
-durd'osik: 
+durdosik: 
   city: "durd'osik"
   accentcity: "Durd'osik"
-durd'ove: 
+durdove: 
   city: "durd'ove"
   accentcity: "Durd'ove"
 durenda pusta: 
@@ -4815,7 +4815,7 @@ gruzovce:
 guban: 
   city: "guban"
   accentcity: "Guban"
-gul'vas: 
+gulvas: 
   city: "gul'vas"
   accentcity: "Gul'vas"
 gunda: 
@@ -5526,7 +5526,7 @@ horne kostoliste:
 horne krskany: 
   city: "horne krskany"
   accentcity: "Horne Krskany"
-horne kurt'any: 
+horne kurtany: 
   city: "horne kurt'any"
   accentcity: "Horné Kurt'any"
 horne lefantovce: 
@@ -5592,7 +5592,7 @@ horne semerovce:
 horne sipice: 
   city: "horne sipice"
   accentcity: "Horne Sipice"
-horne sl'azany: 
+horne slazany: 
   city: "horne sl'azany"
   accentcity: "Horne Sl'azany"
 horne srnie: 
@@ -5643,7 +5643,7 @@ horne zemberovce:
 hornia bzova: 
   city: "hornia bzova"
   accentcity: "Hornia Bzová"
-hornia kral'ova: 
+hornia kralova: 
   city: "hornia kral'ova"
   accentcity: "Hornia Král'ová"
 hornia krupa: 
@@ -5916,7 +5916,7 @@ horny cizovec:
 horny dacov lom: 
   city: "horny dacov lom"
   accentcity: "Horny Dacov Lom"
-horny d'ur: 
+horny dur: 
   city: "horny d'ur"
   accentcity: "Horn\xC3\xBD D'ur"
 horny dvor: 
@@ -6141,7 +6141,7 @@ hradna:
 hradok: 
   city: "hradok"
   accentcity: "Hrádok"
-hradova mol'va: 
+hradova molva: 
   city: "hradova mol'va"
   accentcity: "Hradova Mol'va"
 hran: 
@@ -7278,7 +7278,7 @@ kecerovske kostolany:
 kecerovske pavlovce: 
   city: "kecerovske pavlovce"
   accentcity: "Kecerovské Pavlovce"
-kecerovske pekl'any: 
+kecerovske peklany: 
   city: "kecerovske pekl'any"
   accentcity: "Kecerovské Pekl'any"
 kecerovsky lipovec: 
@@ -7626,7 +7626,7 @@ klubinsky dvor:
 kluciarove kracany: 
   city: "kluciarove kracany"
   accentcity: "Kluciarove Kracany"
-kl'ucovec: 
+klucovec: 
   city: "kl'ucovec"
   accentcity: "Kl'ucovec"
 klucove: 
@@ -7644,7 +7644,7 @@ klukovia:
 klusov: 
   city: "klusov"
   accentcity: "Klusov"
-kl'usov-zabava: 
+klusov-zabava: 
   city: "kl'usov-zabava"
   accentcity: "Kl'usov-Zabava"
 klvace: 
@@ -8178,7 +8178,7 @@ krajek:
 krajna bystra: 
   city: "krajna bystra"
   accentcity: "Krajná Bystrá"
-krajna pol'ana: 
+krajna polana: 
   city: "krajna pol'ana"
   accentcity: "Krajná Pol'ana"
 krajna porubka: 
@@ -8205,7 +8205,7 @@ kraliky:
 kralova: 
   city: "kralova"
   accentcity: "Kralova"
-kral'ova: 
+kralova: 
   city: "kral'ova"
   accentcity: "Král'ová"
 kralova lehota: 
@@ -8919,7 +8919,7 @@ leklinec:
 lekyr: 
   city: "lekyr"
   accentcity: "Lek\xC3\xBDr"
-lel'a: 
+lela: 
   city: "lel'a"
   accentcity: "Lel'a"
 lelasi: 
@@ -8976,7 +8976,7 @@ lesnica:
 lestiny: 
   city: "lestiny"
   accentcity: "Lestiny"
-lest': 
+lest: 
   city: "lest'"
   accentcity: "Lest'"
 letanovce: 
@@ -11334,7 +11334,7 @@ nizna hutka:
 nizna jablonka: 
   city: "nizna jablonka"
   accentcity: "Nizna Jablonka"
-nizna jedl'ova: 
+nizna jedlova: 
   city: "nizna jedl'ova"
   accentcity: "Nizna Jedl'ova"
 nizna kalosa: 
@@ -13713,7 +13713,7 @@ rarbok:
 rarospuszta: 
   city: "rarospuszta"
   accentcity: "Rárospuszta"
-rarosska mul'ad: 
+rarosska mulad: 
   city: "rarosska mul'ad"
   accentcity: "Rarosska Mul'ad"
 rasice: 
@@ -14391,13 +14391,13 @@ sarisske luky:
 sarisske luzianky: 
   city: "sarisske luzianky"
   accentcity: "Sarisske Luzianky"
-sarisske michal'any: 
+sarisske michalany: 
   city: "sarisske michal'any"
   accentcity: "Sarisske Michal'any"
 sarisske sokolovce: 
   city: "sarisske sokolovce"
   accentcity: "Sarisske Sokolovce"
-sarissky st'avnik: 
+sarissky stavnik: 
   city: "sarissky st'avnik"
   accentcity: "Sarissky St'avnik"
 sarissky stiavnik: 
@@ -14460,7 +14460,7 @@ satina:
 savcina: 
   city: "savcina"
   accentcity: "Savcina"
-savol': 
+savol: 
   city: "savol'"
   accentcity: "Savol'"
 savoly: 
@@ -14508,7 +14508,7 @@ sebedruzka mokrisarie:
 sebeslavce: 
   city: "sebeslavce"
   accentcity: "Sebeslavce"
-sebest'anova: 
+sebestanova: 
   city: "sebest'anova"
   accentcity: "Sebest'anova"
 secianky: 
@@ -14520,7 +14520,7 @@ secnova:
 secovce: 
   city: "secovce"
   accentcity: "Secovce"
-secovska pol'anka: 
+secovska polanka: 
   city: "secovska pol'anka"
   accentcity: "Secovska Pol'anka"
 secovska polianka: 
@@ -14586,7 +14586,7 @@ seleska:
 selice: 
   city: "selice"
   accentcity: "Selice"
-selist'any: 
+selistany: 
   city: "selist'any"
   accentcity: "Selist'any"
 sellye: 
@@ -14652,7 +14652,7 @@ sentus:
 senviz: 
   city: "senviz"
   accentcity: "Senviz"
-sered': 
+sered: 
   city: "sered'"
   accentcity: "Sered'"
 seregakolitanyak: 
@@ -14730,7 +14730,7 @@ simonyi:
 simova samota: 
   city: "simova samota"
   accentcity: "Simova Samota"
-sindel'ne: 
+sindelne: 
   city: "sindel'ne"
   accentcity: "Sindel'né"
 sindliar: 

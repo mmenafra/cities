@@ -102,10 +102,10 @@ bois court:
 bois de nefles: 
   city: "bois de nefles"
   accentcity: "Bois de Nèfles"
-bois d'olive: 
+bois dolive: 
   city: "bois d'olive"
   accentcity: "Bois d'Olive"
-bois d'olives: 
+bois dolives: 
   city: "bois d'olives"
   accentcity: "Bois d'Olives"
 bois-rouge: 
@@ -120,7 +120,7 @@ boucan canot:
 bourbier: 
   city: "bourbier"
   accentcity: "Bourbier"
-bout de l'etang: 
+bout de letang: 
   city: "bout de l'etang"
   accentcity: "Bout de l'\xC3\x89tang"
 bras canot: 
@@ -237,7 +237,7 @@ dimitile:
 domenjod: 
   city: "domenjod"
   accentcity: "Domenjod"
-dos d'ane: 
+dos dane: 
   city: "dos d'ane"
   accentcity: "Dos d'\xC3\x82ne"
 entre-deux: 
@@ -543,7 +543,7 @@ le besave:
 le bois de nefles: 
   city: "le bois de nefles"
   accentcity: "Le Bois de Nèfles"
-le bois d'olive: 
+le bois dolive: 
   city: "le bois d'olive"
   accentcity: "Le Bois d'Olive"
 le bras creux: 
@@ -609,7 +609,7 @@ le lambert:
 le maniron: 
   city: "le maniron"
   accentcity: "Le Maniron"
-l'entre-deux: 
+lentre-deux: 
   city: "l'entre-deux"
   accentcity: "L'Entre-Deux"
 le onzieme: 
@@ -624,7 +624,7 @@ le patelin:
 le pavillon: 
   city: "le pavillon"
   accentcity: "Le Pavillon"
-l'eperon: 
+leperon: 
   city: "l'eperon"
   accentcity: "L'\xC3\x89peron"
 le petit brule: 
@@ -651,7 +651,7 @@ le quatorzieme:
 le ramier: 
   city: "le ramier"
   accentcity: "Le Ramier"
-l'ermitage-les bas: 
+lermitage-les bas: 
   city: "l'ermitage-les bas"
   accentcity: "L'Ermitage-les Bas"
 le rond: 
@@ -666,7 +666,7 @@ les aigrettes:
 les avirons: 
   city: "les avirons"
   accentcity: "Les Avirons"
-l'escalier: 
+lescalier: 
   city: "l'escalier"
   accentcity: "L'Escalier"
 les camelias: 
@@ -720,10 +720,10 @@ les vacoas:
 le tampon: 
   city: "le tampon"
   accentcity: "Le Tampon"
-l'etang: 
+letang: 
   city: "l'etang"
   accentcity: "L'\xC3\x89tang"
-l'etang-sale: 
+letang-sale: 
   city: "l'etang-sale"
   accentcity: "L'\xC3\x89tang-Salé"
 le tevelave: 
@@ -735,22 +735,22 @@ le titan:
 le waki: 
   city: "le waki"
   accentcity: "Le Waki"
-l'hermitage-les bas: 
+lhermitage-les bas: 
   city: "l'hermitage-les bas"
   accentcity: "L'Hermitage-les Bas"
-l'hermitage: 
+lhermitage: 
   city: "l'hermitage"
   accentcity: "L'Hermitage"
 ligne des bambous: 
   city: "ligne des bambous"
   accentcity: "Ligne des Bambous"
-l'ilet aux palmistes: 
+lilet aux palmistes: 
   city: "l'ilet aux palmistes"
   accentcity: "L'\xC3\x8Elet aux Palmistes"
-l'ilet: 
+lilet: 
   city: "l'ilet"
   accentcity: "L'\xC3\x8Elet"
-l'oasis: 
+loasis: 
   city: "l'oasis"
   accentcity: "L'Oasis"
 mafatte: 
@@ -759,7 +759,7 @@ mafatte:
 mahavel: 
   city: "mahavel"
   accentcity: "Mahavel"
-maison de l'enfance: 
+maison de lenfance: 
   city: "maison de l'enfance"
   accentcity: "Maison de l'Enfance"
 maison henou: 
@@ -945,7 +945,7 @@ ravine blanche:
 ravine creuse: 
   city: "ravine creuse"
   accentcity: "Ravine Creuse"
-ravine d'ango: 
+ravine dango: 
   city: "ravine d'ango"
   accentcity: "Ravine d'Ango"
 ravine des cabris: 
@@ -996,7 +996,7 @@ reunion:
 revolution: 
   city: "revolution"
   accentcity: "Révolution"
-riviere de l'est: 
+riviere de lest: 
   city: "riviere de l'est"
   accentcity: "Rivière de l'Est"
 riviere des pluies: 
@@ -1176,7 +1176,7 @@ vallee orre:
 verger hemery: 
   city: "verger hemery"
   accentcity: "Verger Hemery"
-village de l'anse: 
+village de lanse: 
   city: "village de l'anse"
   accentcity: "Village de l'Anse"
 village de la petite ile: 
