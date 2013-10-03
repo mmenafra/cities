@@ -1,941 +1,941 @@
 # encoding: UTF-8
 --- 
 achada baleia: 
-  city: achada baleia
-  accentcity: Achada Baleia
+  city: "achada baleia"
+  accentcity: "Achada Baleia"
 achada grande: 
-  city: achada grande
-  accentcity: Achada Grande
+  city: "achada grande"
+  accentcity: "Achada Grande"
 achada monte: 
-  city: achada monte
-  accentcity: Achada Monte
+  city: "achada monte"
+  accentcity: "Achada Monte"
 achadinha: 
-  city: achadinha
-  accentcity: Achadinha
+  city: "achadinha"
+  accentcity: "Achadinha"
 agua das fortes: 
-  city: agua das fortes
+  city: "agua das fortes"
   accentcity: "\xC3\x81gua das Fortes"
 agua dos fortes: 
-  city: agua dos fortes
+  city: "agua dos fortes"
   accentcity: "\xC3\x81gua dos Fortes"
 alcatraz: 
-  city: alcatraz
-  accentcity: Alcatraz
+  city: "alcatraz"
+  accentcity: "Alcatraz"
 amador: 
-  city: amador
-  accentcity: Amador
+  city: "amador"
+  accentcity: "Amador"
 areia branca: 
-  city: areia branca
-  accentcity: Areia Branca
+  city: "areia branca"
+  accentcity: "Areia Branca"
 assomada: 
-  city: assomada
-  accentcity: Assomada
+  city: "assomada"
+  accentcity: "Assomada"
 assumada: 
-  city: assumada
-  accentcity: Assumada
+  city: "assumada"
+  accentcity: "Assumada"
 atalaia: 
-  city: atalaia
-  accentcity: Atalaia
+  city: "atalaia"
+  accentcity: "Atalaia"
 baboso: 
-  city: baboso
-  accentcity: Baboso
+  city: "baboso"
+  accentcity: "Baboso"
 bafareira: 
-  city: bafareira
-  accentcity: Bafareira
+  city: "bafareira"
+  accentcity: "Bafareira"
 bafureira: 
-  city: bafureira
-  accentcity: Bafureira
+  city: "bafureira"
+  accentcity: "Bafureira"
 baleia: 
-  city: baleia
-  accentcity: Baleia
+  city: "baleia"
+  accentcity: "Baleia"
 baluarte: 
-  city: baluarte
-  accentcity: Baluarte
+  city: "baluarte"
+  accentcity: "Baluarte"
 barbasco: 
-  city: barbasco
-  accentcity: Barbasco
+  city: "barbasco"
+  accentcity: "Barbasco"
 barreiro: 
-  city: barreiro
-  accentcity: Barreiro
+  city: "barreiro"
+  accentcity: "Barreiro"
 beirona: 
-  city: beirona
-  accentcity: Beirona
+  city: "beirona"
+  accentcity: "Beirona"
 bela vista: 
-  city: bela vista
-  accentcity: Bela Vista
+  city: "bela vista"
+  accentcity: "Bela Vista"
 biscainhos: 
-  city: biscainhos
-  accentcity: Biscainhos
+  city: "biscainhos"
+  accentcity: "Biscainhos"
 boa ventura: 
-  city: boa ventura
-  accentcity: Boa Ventura
+  city: "boa ventura"
+  accentcity: "Boa Ventura"
 bofareira: 
-  city: bofareira
-  accentcity: Bofareira
+  city: "bofareira"
+  accentcity: "Bofareira"
 bomfim: 
-  city: bomfim
-  accentcity: Bomfim
+  city: "bomfim"
+  accentcity: "Bomfim"
 bonita: 
-  city: bonita
-  accentcity: Bonita
+  city: "bonita"
+  accentcity: "Bonita"
 botija: 
-  city: botija
-  accentcity: Botija
+  city: "botija"
+  accentcity: "Botija"
 buracona: 
-  city: buracona
-  accentcity: Buracona
+  city: "buracona"
+  accentcity: "Buracona"
 cabecadas: 
-  city: cabecadas
-  accentcity: "Cabe\xC3\xA7adas"
+  city: "cabecadas"
+  accentcity: "Cabeçadas"
 cabecalinho: 
-  city: cabecalinho
-  accentcity: "Cabe\xC3\xA7alinho"
+  city: "cabecalinho"
+  accentcity: "Cabeçalinho"
 cabeco de tarafes: 
-  city: cabeco de tarafes
-  accentcity: "Cabe\xC3\xA7o de Tarafes"
+  city: "cabeco de tarafes"
+  accentcity: "Cabeço de Tarafes"
 cabeco dos tarafes: 
-  city: cabeco dos tarafes
-  accentcity: "Cabe\xC3\xA7o dos Tarafes"
+  city: "cabeco dos tarafes"
+  accentcity: "Cabeço dos Tarafes"
 cachacinho: 
-  city: cachacinho
-  accentcity: Cachacinho
+  city: "cachacinho"
+  accentcity: "Cachacinho"
 cachaco: 
-  city: cachaco
-  accentcity: "Cacha\xC3\xA7o"
+  city: "cachaco"
+  accentcity: "Cachaço"
 cachoca: 
-  city: cachoca
-  accentcity: Cachoca
+  city: "cachoca"
+  accentcity: "Cachoca"
 caculi: 
-  city: caculi
-  accentcity: Caculi
+  city: "caculi"
+  accentcity: "Caculi"
 caleijao: 
-  city: caleijao
-  accentcity: "Caleij\xC3\xA3o"
+  city: "caleijao"
+  accentcity: "Caleijão"
 calejao: 
-  city: calejao
-  accentcity: "Calej\xC3\xA3o"
+  city: "calejao"
+  accentcity: "Calejão"
 calhau: 
-  city: calhau
-  accentcity: Calhau
+  city: "calhau"
+  accentcity: "Calhau"
 calheta: 
-  city: calheta
-  accentcity: Calheta
+  city: "calheta"
+  accentcity: "Calheta"
 camaroes: 
-  city: camaroes
+  city: "camaroes"
   accentcity: "Camar\xC3\xB5es"
 carrical: 
-  city: carrical
-  accentcity: "Carri\xC3\xA7al"
+  city: "carrical"
+  accentcity: "Carriçal"
 carvoeiros: 
-  city: carvoeiros
-  accentcity: Carvoeiros
+  city: "carvoeiros"
+  accentcity: "Carvoeiros"
 casa do cabo submarino: 
-  city: casa do cabo submarino
-  accentcity: Casa do Cabo Submarino
+  city: "casa do cabo submarino"
+  accentcity: "Casa do Cabo Submarino"
 cascabulho: 
-  city: cascabulho
-  accentcity: Cascabulho
+  city: "cascabulho"
+  accentcity: "Cascabulho"
 castilhiano: 
-  city: castilhiano
-  accentcity: Castilhiano
+  city: "castilhiano"
+  accentcity: "Castilhiano"
 chacha: 
-  city: chacha
-  accentcity: Chacha
+  city: "chacha"
+  accentcity: "Chacha"
 cha da egreja: 
-  city: cha da egreja
-  accentcity: "Ch\xC3\xA3 da Egreja"
+  city: "cha da egreja"
+  accentcity: "Chã da Egreja"
 cha da igreja: 
-  city: cha da igreja
-  accentcity: "Ch\xC3\xA3 da Igreja"
+  city: "cha da igreja"
+  accentcity: "Chã da Igreja"
 cha da ribeira: 
-  city: cha da ribeira
-  accentcity: "Ch\xC3\xA3 da Ribeira"
+  city: "cha da ribeira"
+  accentcity: "Chã da Ribeira"
 cha de dentro: 
-  city: cha de dentro
-  accentcity: "Ch\xC3\xA3 de Dentro"
+  city: "cha de dentro"
+  accentcity: "Chã de Dentro"
 cha de figueiras: 
-  city: cha de figueiras
-  accentcity: "Ch\xC3\xA3 de Figueiras"
+  city: "cha de figueiras"
+  accentcity: "Chã de Figueiras"
 cha de igreja: 
-  city: cha de igreja
-  accentcity: "Ch\xC3\xA3 de Igreja"
+  city: "cha de igreja"
+  accentcity: "Chã de Igreja"
 cha de morte: 
-  city: cha de morte
-  accentcity: "Ch\xC3\xA3 de Morte"
+  city: "cha de morte"
+  accentcity: "Chã de Morte"
 cha de paulo: 
-  city: cha de paulo
-  accentcity: "Ch\xC3\xA3 de Paulo"
+  city: "cha de paulo"
+  accentcity: "Chã de Paulo"
 cha de queimada: 
-  city: cha de queimada
-  accentcity: "Ch\xC3\xA3 de Queimada"
+  city: "cha de queimada"
+  accentcity: "Chã de Queimada"
 cha de queimado: 
-  city: cha de queimado
-  accentcity: "Ch\xC3\xA3 de Queimado"
+  city: "cha de queimado"
+  accentcity: "Chã de Queimado"
 cha de vazinha: 
-  city: cha de vazinha
-  accentcity: "Ch\xC3\xA3 de Vazinha"
+  city: "cha de vazinha"
+  accentcity: "Chã de Vazinha"
 cha do morto: 
-  city: cha do morto
-  accentcity: "Ch\xC3\xA3 do Morto"
+  city: "cha do morto"
+  accentcity: "Chã do Morto"
 cha do norte: 
-  city: cha do norte
-  accentcity: "Ch\xC3\xA3 do Norte"
+  city: "cha do norte"
+  accentcity: "Chã do Norte"
 chao queimado: 
-  city: chao queimado
-  accentcity: "Ch\xC3\xA3o Queimado"
+  city: "chao queimado"
+  accentcity: "Chão Queimado"
 cha queimada: 
-  city: cha queimada
-  accentcity: "Ch\xC3\xA3 Queimada"
+  city: "cha queimada"
+  accentcity: "Chã Queimada"
 charco: 
-  city: charco
-  accentcity: Charco
+  city: "charco"
+  accentcity: "Charco"
 cha varzinha: 
-  city: cha varzinha
-  accentcity: "Ch\xC3\xA3 Varzinha"
+  city: "cha varzinha"
+  accentcity: "Chã Varzinha"
 cidade velha: 
-  city: cidade velha
-  accentcity: Cidade Velha
+  city: "cidade velha"
+  accentcity: "Cidade Velha"
 cirio: 
-  city: cirio
+  city: "cirio"
   accentcity: "Círio"
 corvo: 
-  city: corvo
-  accentcity: Corvo
+  city: "corvo"
+  accentcity: "Corvo"
 cova figueira: 
-  city: cova figueira
-  accentcity: Cova Figueira
+  city: "cova figueira"
+  accentcity: "Cova Figueira"
 covoada: 
-  city: covoada
-  accentcity: Covoada
+  city: "covoada"
+  accentcity: "Covoada"
 cruz do pe do verde: 
-  city: cruz do pe do verde
+  city: "cruz do pe do verde"
   accentcity: "Cruz do Pé do Verde"
 cruzinha: 
-  city: cruzinha
-  accentcity: Cruzinha
+  city: "cruzinha"
+  accentcity: "Cruzinha"
 curral branco: 
-  city: curral branco
-  accentcity: Curral Branco
+  city: "curral branco"
+  accentcity: "Curral Branco"
 curral: 
-  city: curral
-  accentcity: Curral
+  city: "curral"
+  accentcity: "Curral"
 curral das vacas: 
-  city: curral das vacas
-  accentcity: Curral das Vacas
+  city: "curral das vacas"
+  accentcity: "Curral das Vacas"
 curral velho: 
-  city: curral velho
-  accentcity: Curral Velho
+  city: "curral velho"
+  accentcity: "Curral Velho"
 dacabalaio: 
-  city: dacabalaio
-  accentcity: Dacabalaio
+  city: "dacabalaio"
+  accentcity: "Dacabalaio"
 dacalabaio: 
-  city: dacalabaio
-  accentcity: Dacalabaio
+  city: "dacalabaio"
+  accentcity: "Dacalabaio"
 derrubado: 
-  city: derrubado
-  accentcity: Derrubado
+  city: "derrubado"
+  accentcity: "Derrubado"
 egreja: 
-  city: egreja
-  accentcity: Egreja
+  city: "egreja"
+  accentcity: "Egreja"
 endriano: 
-  city: endriano
-  accentcity: Endriano
+  city: "endriano"
+  accentcity: "Endriano"
 ereja: 
-  city: ereja
-  accentcity: Ereja
+  city: "ereja"
+  accentcity: "Ereja"
 escabecada de baixo: 
-  city: escabecada de baixo
-  accentcity: "Escabe\xC3\xA7ada de Baixo"
+  city: "escabecada de baixo"
+  accentcity: "Escabeçada de Baixo"
 escabecada: 
-  city: escabecada
-  accentcity: "Escabe\xC3\xA7ada"
+  city: "escabecada"
+  accentcity: "Escabeçada"
 escada: 
-  city: escada
-  accentcity: Escada
+  city: "escada"
+  accentcity: "Escada"
 esgamaleiro: 
-  city: esgamaleiro
-  accentcity: Esgamaleiro
+  city: "esgamaleiro"
+  accentcity: "Esgamaleiro"
 espadana: 
-  city: espadana
-  accentcity: "Espadan\xC3\xA3"
+  city: "espadana"
+  accentcity: "Espadanã"
 espingueira: 
-  city: espingueira
-  accentcity: Espingueira
+  city: "espingueira"
+  accentcity: "Espingueira"
 estancia bras: 
-  city: estancia bras
+  city: "estancia bras"
   accentcity: "Est\xC3\xA2ncia Brás"
 estancia braz: 
-  city: estancia braz
-  accentcity: Estancia Braz
+  city: "estancia braz"
+  accentcity: "Estancia Braz"
 faja: 
-  city: faja
-  accentcity: "Faj\xC3\xA3"
+  city: "faja"
+  accentcity: "Fajã"
 fajansinha: 
-  city: fajansinha
-  accentcity: Fajansinha
+  city: "fajansinha"
+  accentcity: "Fajansinha"
 fajasinha: 
-  city: fajasinha
-  accentcity: "Faj\xC3\xA3sinha"
+  city: "fajasinha"
+  accentcity: "Fajãsinha"
 fajasinhas: 
-  city: fajasinhas
-  accentcity: Fajasinhas
+  city: "fajasinhas"
+  accentcity: "Fajasinhas"
 fajazinha: 
-  city: fajazinha
-  accentcity: "Faj\xC3\xA3zinha"
+  city: "fajazinha"
+  accentcity: "Fajãzinha"
 fanade: 
-  city: fanade
-  accentcity: Fanade
+  city: "fanade"
+  accentcity: "Fanade"
 fazenda real: 
-  city: fazenda real
-  accentcity: Fazenda Real
+  city: "fazenda real"
+  accentcity: "Fazenda Real"
 feijoal: 
-  city: feijoal
-  accentcity: Feijoal
+  city: "feijoal"
+  accentcity: "Feijoal"
 figueira da horta: 
-  city: figueira da horta
-  accentcity: Figueira da Horta
+  city: "figueira da horta"
+  accentcity: "Figueira da Horta"
 figueira da naus: 
-  city: figueira da naus
-  accentcity: Figueira da Naus
+  city: "figueira da naus"
+  accentcity: "Figueira da Naus"
 figueira das naus: 
-  city: figueira das naus
-  accentcity: Figueira das Naus
+  city: "figueira das naus"
+  accentcity: "Figueira das Naus"
 figueira de coxe: 
-  city: figueira de coxe
-  accentcity: Figueira de Coxe
+  city: "figueira de coxe"
+  accentcity: "Figueira de Coxe"
 figueira pavao: 
-  city: figueira pavao
-  accentcity: "Figueira Pav\xC3\xA3o"
+  city: "figueira pavao"
+  accentcity: "Figueira Pavão"
 figueiras de baixo: 
-  city: figueiras de baixo
-  accentcity: Figueiras de Baixo
+  city: "figueiras de baixo"
+  accentcity: "Figueiras de Baixo"
 figueiras de cimas: 
-  city: figueiras de cimas
-  accentcity: Figueiras de Cimas
+  city: "figueiras de cimas"
+  accentcity: "Figueiras de Cimas"
 figueira seca: 
-  city: figueira seca
-  accentcity: Figueira Seca
+  city: "figueira seca"
+  accentcity: "Figueira Seca"
 fiura: 
-  city: fiura
-  accentcity: Fiura
+  city: "fiura"
+  accentcity: "Fiura"
 fogao: 
-  city: fogao
-  accentcity: "Fog\xC3\xA3o"
+  city: "fogao"
+  accentcity: "Fogão"
 fontainhas: 
-  city: fontainhas
-  accentcity: Fontainhas
+  city: "fontainhas"
+  accentcity: "Fontainhas"
 fonte aleixo: 
-  city: fonte aleixo
-  accentcity: Fonte Aleixo
+  city: "fonte aleixo"
+  accentcity: "Fonte Aleixo"
 forno: 
-  city: forno
-  accentcity: Forno
+  city: "forno"
+  accentcity: "Forno"
 fundo das figueiras: 
-  city: fundo das figueiras
-  accentcity: Fundo das Figueiras
+  city: "fundo das figueiras"
+  accentcity: "Fundo das Figueiras"
 fundo de figueias: 
-  city: fundo de figueias
-  accentcity: Fundo de Figueias
+  city: "fundo de figueias"
+  accentcity: "Fundo de Figueias"
 fundo de figueiras: 
-  city: fundo de figueiras
-  accentcity: Fundo de Figueiras
+  city: "fundo de figueiras"
+  accentcity: "Fundo de Figueiras"
 fundura: 
-  city: fundura
-  accentcity: Fundura
+  city: "fundura"
+  accentcity: "Fundura"
 furna: 
-  city: furna
-  accentcity: Furna
+  city: "furna"
+  accentcity: "Furna"
 furno: 
-  city: furno
-  accentcity: Furno
+  city: "furno"
+  accentcity: "Furno"
 gala: 
-  city: gala
-  accentcity: Gala
+  city: "gala"
+  accentcity: "Gala"
 galinheiro: 
-  city: galinheiro
-  accentcity: Galinheiro
+  city: "galinheiro"
+  accentcity: "Galinheiro"
 galinheiros: 
-  city: galinheiros
-  accentcity: Galinheiros
+  city: "galinheiros"
+  accentcity: "Galinheiros"
 garca: 
-  city: garca
-  accentcity: "Gar\xC3\xA7a"
+  city: "garca"
+  accentcity: "Garça"
 gata: 
-  city: gata
-  accentcity: Gata
+  city: "gata"
+  accentcity: "Gata"
 gouveia: 
-  city: gouveia
-  accentcity: Gouveia
+  city: "gouveia"
+  accentcity: "Gouveia"
 igreja: 
-  city: igreja
-  accentcity: Igreja
+  city: "igreja"
+  accentcity: "Igreja"
 ilheu: 
-  city: ilheu
+  city: "ilheu"
   accentcity: "Ilhéu"
 inhuco: 
-  city: inhuco
-  accentcity: Inhuco
+  city: "inhuco"
+  accentcity: "Inhuco"
 italiano: 
-  city: italiano
-  accentcity: Italiano
+  city: "italiano"
+  accentcity: "Italiano"
 janela: 
-  city: janela
-  accentcity: Janela
+  city: "janela"
+  accentcity: "Janela"
 janelas: 
-  city: janelas
-  accentcity: Janelas
+  city: "janelas"
+  accentcity: "Janelas"
 joao barrosa: 
-  city: joao barrosa
-  accentcity: "Jo\xC3\xA3o Barrosa"
+  city: "joao barrosa"
+  accentcity: "João Barrosa"
 joao barroza: 
-  city: joao barroza
-  accentcity: "Jo\xC3\xA3o Barroza"
+  city: "joao barroza"
+  accentcity: "João Barroza"
 joao daninha: 
-  city: joao daninha
-  accentcity: "Jo\xC3\xA3o Daninha"
+  city: "joao daninha"
+  accentcity: "João Daninha"
 joao galego: 
-  city: joao galego
-  accentcity: "Jo\xC3\xA3o Galego"
+  city: "joao galego"
+  accentcity: "João Galego"
 juncalinho: 
-  city: juncalinho
-  accentcity: Juncalinho
+  city: "juncalinho"
+  accentcity: "Juncalinho"
 lagarica: 
-  city: lagarica
-  accentcity: "Lagari\xC3\xA7a"
+  city: "lagarica"
+  accentcity: "Lagariça"
 lagoa atras: 
-  city: lagoa atras
+  city: "lagoa atras"
   accentcity: "Lagoa Atrás"
 lagoa atraz: 
-  city: lagoa atraz
-  accentcity: Lagoa Atraz
+  city: "lagoa atraz"
+  accentcity: "Lagoa Atraz"
 lagoa: 
-  city: lagoa
-  accentcity: Lagoa
+  city: "lagoa"
+  accentcity: "Lagoa"
 lapa cachorro: 
-  city: lapa cachorro
-  accentcity: Lapa Cachorro
+  city: "lapa cachorro"
+  accentcity: "Lapa Cachorro"
 lazareto: 
-  city: lazareto
-  accentcity: Lazareto
+  city: "lazareto"
+  accentcity: "Lazareto"
 lazaretto: 
-  city: lazaretto
-  accentcity: Lazaretto
+  city: "lazaretto"
+  accentcity: "Lazaretto"
 leiro: 
-  city: leiro
-  accentcity: Leiro
+  city: "leiro"
+  accentcity: "Leiro"
 logar novo: 
-  city: logar novo
-  accentcity: Logar Novo
+  city: "logar novo"
+  accentcity: "Logar Novo"
 lombo das dancas: 
-  city: lombo das dancas
-  accentcity: "Lombo das Dan\xC3\xA7as"
+  city: "lombo das dancas"
+  accentcity: "Lombo das Danças"
 lombo da torre: 
-  city: lombo da torre
-  accentcity: Lombo da Torre
+  city: "lombo da torre"
+  accentcity: "Lombo da Torre"
 lombo de figueira: 
-  city: lombo de figueira
-  accentcity: Lombo de Figueira
+  city: "lombo de figueira"
+  accentcity: "Lombo de Figueira"
 lombo de galinha: 
-  city: lombo de galinha
-  accentcity: Lombo de Galinha
+  city: "lombo de galinha"
+  accentcity: "Lombo de Galinha"
 lombo do mar: 
-  city: lombo do mar
-  accentcity: Lombo do Mar
+  city: "lombo do mar"
+  accentcity: "Lombo do Mar"
 lombo galinha: 
-  city: lombo galinha
-  accentcity: Lombo Galinha
+  city: "lombo galinha"
+  accentcity: "Lombo Galinha"
 lugar novo: 
-  city: lugar novo
-  accentcity: Lugar Novo
+  city: "lugar novo"
+  accentcity: "Lugar Novo"
 luzia nunes: 
-  city: luzia nunes
-  accentcity: Luzia Nunes
+  city: "luzia nunes"
+  accentcity: "Luzia Nunes"
 madeiral: 
-  city: madeiral
-  accentcity: Madeiral
+  city: "madeiral"
+  accentcity: "Madeiral"
 maio: 
-  city: maio
-  accentcity: Maio
+  city: "maio"
+  accentcity: "Maio"
 malveira: 
-  city: malveira
-  accentcity: Malveira
+  city: "malveira"
+  accentcity: "Malveira"
 mangue de sete ribeiras: 
-  city: mangue de sete ribeiras
-  accentcity: Mangue de Sete Ribeiras
+  city: "mangue de sete ribeiras"
+  accentcity: "Mangue de Sete Ribeiras"
 mangue: 
-  city: mangue
-  accentcity: Mangue
+  city: "mangue"
+  accentcity: "Mangue"
 mao para tras: 
-  city: mao para tras
-  accentcity: "M\xC3\xA3o para Trás"
+  city: "mao para tras"
+  accentcity: "Mão para Trás"
 maopara traz: 
-  city: maopara traz
-  accentcity: "M\xC3\xA3opara Traz"
+  city: "maopara traz"
+  accentcity: "Mãopara Traz"
 martiana: 
-  city: martiana
-  accentcity: Martiana
+  city: "martiana"
+  accentcity: "Martiana"
 massape: 
-  city: massape
+  city: "massape"
   accentcity: "Massapé"
 mateusinho: 
-  city: mateusinho
-  accentcity: Mateusinho
+  city: "mateusinho"
+  accentcity: "Mateusinho"
 mateuzinho: 
-  city: mateuzinho
-  accentcity: Mateuzinho
+  city: "mateuzinho"
+  accentcity: "Mateuzinho"
 mato correia: 
-  city: mato correia
-  accentcity: Mato Correia
+  city: "mato correia"
+  accentcity: "Mato Correia"
 meio de espanha de figueiras: 
-  city: meio de espanha de figueiras
-  accentcity: Meio de Espanha de Figueiras
+  city: "meio de espanha de figueiras"
+  accentcity: "Meio de Espanha de Figueiras"
 meio de espanha: 
-  city: meio de espanha
-  accentcity: Meio de Espanha
+  city: "meio de espanha"
+  accentcity: "Meio de Espanha"
 miguel pires: 
-  city: miguel pires
-  accentcity: Miguel Pires
+  city: "miguel pires"
+  accentcity: "Miguel Pires"
 mihdelo: 
-  city: mihdelo
-  accentcity: Mihdelo
+  city: "mihdelo"
+  accentcity: "Mihdelo"
 mindello: 
-  city: mindello
-  accentcity: Mindello
+  city: "mindello"
+  accentcity: "Mindello"
 mindelo: 
-  city: mindelo
-  accentcity: Mindelo
+  city: "mindelo"
+  accentcity: "Mindelo"
 mira-mira: 
-  city: mira-mira
-  accentcity: Mira-Mira
+  city: "mira-mira"
+  accentcity: "Mira-Mira"
 moerao: 
-  city: moerao
-  accentcity: "Moer\xC3\xA3o"
+  city: "moerao"
+  accentcity: "Moerão"
 moia moia: 
-  city: moia moia
-  accentcity: Moia Moia
+  city: "moia moia"
+  accentcity: "Moia Moia"
 montagarro: 
-  city: montagarro
-  accentcity: Montagarro
+  city: "montagarro"
+  accentcity: "Montagarro"
 montanha: 
-  city: montanha
-  accentcity: Montanha
+  city: "montanha"
+  accentcity: "Montanha"
 montao: 
-  city: montao
-  accentcity: "Mont\xC3\xA3o"
+  city: "montao"
+  accentcity: "Montão"
 monte joana: 
-  city: monte joana
-  accentcity: Monte Joana
+  city: "monte joana"
+  accentcity: "Monte Joana"
 monte vermelho: 
-  city: monte vermelho
-  accentcity: Monte Vermelho
+  city: "monte vermelho"
+  accentcity: "Monte Vermelho"
 montinho: 
-  city: montinho
-  accentcity: Montinho
+  city: "montinho"
+  accentcity: "Montinho"
 morre braz: 
-  city: morre braz
-  accentcity: Morre Braz
+  city: "morre braz"
+  accentcity: "Morre Braz"
 morrinho d' egua: 
-  city: morrinho d' egua
+  city: "morrinho d' egua"
   accentcity: "Morrinho d' \xC3\x89gua"
 morrinho: 
-  city: morrinho
-  accentcity: Morrinho
+  city: "morrinho"
+  accentcity: "Morrinho"
 morro alto: 
-  city: morro alto
-  accentcity: Morro Alto
+  city: "morro alto"
+  accentcity: "Morro Alto"
 morro: 
-  city: morro
-  accentcity: Morro
+  city: "morro"
+  accentcity: "Morro"
 nha marco: 
-  city: nha marco
-  accentcity: "Nh\xC3\xA3 Marco"
+  city: "nha marco"
+  accentcity: "Nhã Marco"
 nhuco: 
-  city: nhuco
-  accentcity: Nhuco
+  city: "nhuco"
+  accentcity: "Nhuco"
 nora: 
-  city: nora
-  accentcity: Nora
+  city: "nora"
+  accentcity: "Nora"
 nossa senhora da luz: 
-  city: nossa senhora da luz
-  accentcity: Nossa Senhora da Luz
+  city: "nossa senhora da luz"
+  accentcity: "Nossa Senhora da Luz"
 nossa senhora do monte: 
-  city: nossa senhora do monte
-  accentcity: Nossa Senhora do Monte
+  city: "nossa senhora do monte"
+  accentcity: "Nossa Senhora do Monte"
 orgaos: 
-  city: orgaos
-  accentcity: "\xC3\x93rg\xC3\xA3os"
+  city: "orgaos"
+  accentcity: "\xC3\x93rgãos"
 ortelao: 
-  city: ortelao
-  accentcity: "Ortel\xC3\xA3o"
+  city: "ortelao"
+  accentcity: "Ortelão"
 pae amaro: 
-  city: pae amaro
-  accentcity: Pae Amaro
+  city: "pae amaro"
+  accentcity: "Pae Amaro"
 pai amaro: 
-  city: pai amaro
-  accentcity: Pai Amaro
+  city: "pai amaro"
+  accentcity: "Pai Amaro"
 pai joana: 
-  city: pai joana
-  accentcity: Pai Joana
+  city: "pai joana"
+  accentcity: "Pai Joana"
 palha carga: 
-  city: palha carga
-  accentcity: Palha Carga
+  city: "palha carga"
+  accentcity: "Palha Carga"
 palhal: 
-  city: palhal
-  accentcity: Palhal
+  city: "palhal"
+  accentcity: "Palhal"
 palha verde: 
-  city: palha verde
-  accentcity: Palha Verde
+  city: "palha verde"
+  accentcity: "Palha Verde"
 palmeira: 
-  city: palmeira
-  accentcity: Palmeira
+  city: "palmeira"
+  accentcity: "Palmeira"
 patim: 
-  city: patim
-  accentcity: Patim
+  city: "patim"
+  accentcity: "Patim"
 pau: 
-  city: pau
-  accentcity: Pau
+  city: "pau"
+  accentcity: "Pau"
 pedra de lume: 
-  city: pedra de lume
-  accentcity: Pedra de Lume
+  city: "pedra de lume"
+  accentcity: "Pedra de Lume"
 pedra lume: 
-  city: pedra lume
-  accentcity: Pedra Lume
+  city: "pedra lume"
+  accentcity: "Pedra Lume"
 pedra lum: 
-  city: pedra lum
-  accentcity: Pedra Lum
+  city: "pedra lum"
+  accentcity: "Pedra Lum"
 pedrinha: 
-  city: pedrinha
-  accentcity: Pedrinha
+  city: "pedrinha"
+  accentcity: "Pedrinha"
 pedro vaz: 
-  city: pedro vaz
-  accentcity: Pedro Vaz
+  city: "pedro vaz"
+  accentcity: "Pedro Vaz"
 penha de franca: 
-  city: penha de franca
-  accentcity: "Penha de Fran\xC3\xA7a"
+  city: "penha de franca"
+  accentcity: "Penha de França"
 penteada: 
-  city: penteada
-  accentcity: Penteada
+  city: "penteada"
+  accentcity: "Penteada"
 perdia: 
-  city: perdia
-  accentcity: Perdia
+  city: "perdia"
+  accentcity: "Perdia"
 picos: 
-  city: picos
-  accentcity: Picos
+  city: "picos"
+  accentcity: "Picos"
 pinchossa: 
-  city: pinchossa
-  accentcity: Pinchossa
+  city: "pinchossa"
+  accentcity: "Pinchossa"
 pinto: 
-  city: pinto
-  accentcity: Pinto
+  city: "pinto"
+  accentcity: "Pinto"
 point adeante: 
-  city: point adeante
-  accentcity: Point Adeante
+  city: "point adeante"
+  accentcity: "Point Adeante"
 pombas: 
-  city: pombas
-  accentcity: Pombas
+  city: "pombas"
+  accentcity: "Pombas"
 ponta adeante: 
-  city: ponta adeante
-  accentcity: Ponta Adeante
+  city: "ponta adeante"
+  accentcity: "Ponta Adeante"
 ponta adiante: 
-  city: ponta adiante
-  accentcity: Ponta Adiante
+  city: "ponta adiante"
+  accentcity: "Ponta Adiante"
 ponta da cruz: 
-  city: ponta da cruz
-  accentcity: Ponta da Cruz
+  city: "ponta da cruz"
+  accentcity: "Ponta da Cruz"
 ponta do sol: 
-  city: ponta do sol
-  accentcity: Ponta do Sol
+  city: "ponta do sol"
+  accentcity: "Ponta do Sol"
 ponta sao francisco: 
-  city: ponta sao francisco
-  accentcity: "Ponta S\xC3\xA3o Francisco"
+  city: "ponta sao francisco"
+  accentcity: "Ponta São Francisco"
 portal: 
-  city: portal
-  accentcity: Portal
+  city: "portal"
+  accentcity: "Portal"
 port ingles: 
-  city: port ingles
-  accentcity: Port Ingles
+  city: "port ingles"
+  accentcity: "Port Ingles"
 porto do rincao: 
-  city: porto do rincao
-  accentcity: "Porto do Rinc\xC3\xA3o"
+  city: "porto do rincao"
+  accentcity: "Porto do Rincão"
 porto dos mosteiros: 
-  city: porto dos mosteiros
-  accentcity: Porto dos Mosteiros
+  city: "porto dos mosteiros"
+  accentcity: "Porto dos Mosteiros"
 porto gouveia: 
-  city: porto gouveia
-  accentcity: Porto Gouveia
+  city: "porto gouveia"
+  accentcity: "Porto Gouveia"
 porto inglez: 
-  city: porto inglez
-  accentcity: Porto Inglez
+  city: "porto inglez"
+  accentcity: "Porto Inglez"
 porto novo: 
-  city: porto novo
-  accentcity: Porto Novo
+  city: "porto novo"
+  accentcity: "Porto Novo"
 porto rincao: 
-  city: porto rincao
-  accentcity: "Porto Rinc\xC3\xA3o"
+  city: "porto rincao"
+  accentcity: "Porto Rincão"
 povoacao velha: 
-  city: povoacao velha
-  accentcity: "Povoa\xC3\xA7\xC3\xA3o Velha"
+  city: "povoacao velha"
+  accentcity: "Povoação Velha"
 praia abaixo: 
-  city: praia abaixo
-  accentcity: Praia Abaixo
+  city: "praia abaixo"
+  accentcity: "Praia Abaixo"
 praia baixo: 
-  city: praia baixo
-  accentcity: Praia Baixo
+  city: "praia baixo"
+  accentcity: "Praia Baixo"
 praia branca: 
-  city: praia branca
-  accentcity: Praia Branca
+  city: "praia branca"
+  accentcity: "Praia Branca"
 praia: 
-  city: praia
-  accentcity: Praia
+  city: "praia"
+  accentcity: "Praia"
 prainha: 
-  city: prainha
-  accentcity: Prainha
+  city: "prainha"
+  accentcity: "Prainha"
 prazeres: 
-  city: prazeres
-  accentcity: Prazeres
+  city: "prazeres"
+  accentcity: "Prazeres"
 preguica: 
-  city: preguica
-  accentcity: "Pregui\xC3\xA7a"
+  city: "preguica"
+  accentcity: "Preguiça"
 queimada: 
-  city: queimada
-  accentcity: Queimada
+  city: "queimada"
+  accentcity: "Queimada"
 queimadas: 
-  city: queimadas
-  accentcity: Queimadas
+  city: "queimadas"
+  accentcity: "Queimadas"
 queimado: 
-  city: queimado
-  accentcity: Queimado
+  city: "queimado"
+  accentcity: "Queimado"
 rabil: 
-  city: rabil
-  accentcity: Rabil
+  city: "rabil"
+  accentcity: "Rabil"
 reguinho: 
-  city: reguinho
-  accentcity: Reguinho
+  city: "reguinho"
+  accentcity: "Reguinho"
 relva: 
-  city: relva
-  accentcity: Relva
+  city: "relva"
+  accentcity: "Relva"
 ribeira brava: 
-  city: ribeira brava
-  accentcity: Ribeira Brava
+  city: "ribeira brava"
+  accentcity: "Ribeira Brava"
 ribeira calhau: 
-  city: ribeira calhau
-  accentcity: Ribeira Calhau
+  city: "ribeira calhau"
+  accentcity: "Ribeira Calhau"
 ribeira da barca: 
-  city: ribeira da barca
-  accentcity: Ribeira da Barca
+  city: "ribeira da barca"
+  accentcity: "Ribeira da Barca"
 ribeira da cruz: 
-  city: ribeira da cruz
-  accentcity: Ribeira da Cruz
+  city: "ribeira da cruz"
+  accentcity: "Ribeira da Cruz"
 ribeira da prata: 
-  city: ribeira da prata
-  accentcity: Ribeira da Prata
+  city: "ribeira da prata"
+  accentcity: "Ribeira da Prata"
 ribeira de barca: 
-  city: ribeira de barca
-  accentcity: Ribeira de Barca
+  city: "ribeira de barca"
+  accentcity: "Ribeira de Barca"
 ribeira de prata: 
-  city: ribeira de prata
-  accentcity: Ribeira de Prata
+  city: "ribeira de prata"
+  accentcity: "Ribeira de Prata"
 ribeira dos calhaus: 
-  city: ribeira dos calhaus
-  accentcity: Ribeira dos Calhaus
+  city: "ribeira dos calhaus"
+  accentcity: "Ribeira dos Calhaus"
 ribeira fria: 
-  city: ribeira fria
-  accentcity: Ribeira Fria
+  city: "ribeira fria"
+  accentcity: "Ribeira Fria"
 ribeira funda: 
-  city: ribeira funda
-  accentcity: Ribeira Funda
+  city: "ribeira funda"
+  accentcity: "Ribeira Funda"
 ribeira grande: 
-  city: ribeira grande
-  accentcity: Ribeira Grande
+  city: "ribeira grande"
+  accentcity: "Ribeira Grande"
 ribeira ilheu: 
-  city: ribeira ilheu
+  city: "ribeira ilheu"
   accentcity: "Ribeira Ilhéu"
 ribeirao chiqueiro: 
-  city: ribeirao chiqueiro
-  accentcity: "Ribeir\xC3\xA3o Chiqueiro"
+  city: "ribeirao chiqueiro"
+  accentcity: "Ribeirão Chiqueiro"
 ribeirao sal: 
-  city: ribeirao sal
-  accentcity: "Ribeir\xC3\xA3o Sal"
+  city: "ribeirao sal"
+  accentcity: "Ribeirão Sal"
 ribeira prata: 
-  city: ribeira prata
-  accentcity: Ribeira Prata
+  city: "ribeira prata"
+  accentcity: "Ribeira Prata"
 ribeira vermelha: 
-  city: ribeira vermelha
-  accentcity: Ribeira Vermelha
+  city: "ribeira vermelha"
+  accentcity: "Ribeira Vermelha"
 rui vaz: 
-  city: rui vaz
-  accentcity: Rui Vaz
+  city: "rui vaz"
+  accentcity: "Rui Vaz"
 sacramento: 
-  city: sacramento
-  accentcity: Sacramento
+  city: "sacramento"
+  accentcity: "Sacramento"
 salamansa: 
-  city: salamansa
-  accentcity: Salamansa
+  city: "salamansa"
+  accentcity: "Salamansa"
 salamanza: 
-  city: salamanza
-  accentcity: Salamanza
+  city: "salamanza"
+  accentcity: "Salamanza"
 sal rei: 
-  city: sal rei
-  accentcity: Sal Rei
+  city: "sal rei"
+  accentcity: "Sal Rei"
 sal-rel: 
-  city: sal-rel
-  accentcity: Sal-Rel
+  city: "sal-rel"
+  accentcity: "Sal-Rel"
 sambango: 
-  city: sambango
-  accentcity: Sambango
+  city: "sambango"
+  accentcity: "Sambango"
 san iago: 
-  city: san iago
-  accentcity: San Iago
+  city: "san iago"
+  accentcity: "San Iago"
 santa barbara: 
-  city: santa barbara
+  city: "santa barbara"
   accentcity: "Santa Bárbara"
 santa cruz: 
-  city: santa cruz
-  accentcity: Santa Cruz
+  city: "santa cruz"
+  accentcity: "Santa Cruz"
 santa maria: 
-  city: santa maria
-  accentcity: Santa Maria
+  city: "santa maria"
+  accentcity: "Santa Maria"
 santiago: 
-  city: santiago
-  accentcity: Santiago
+  city: "santiago"
+  accentcity: "Santiago"
 santo antonio: 
-  city: santo antonio
+  city: "santo antonio"
   accentcity: "Santo António"
 sao domingos: 
-  city: sao domingos
-  accentcity: "S\xC3\xA3o Domingos"
+  city: "sao domingos"
+  accentcity: "São Domingos"
 sao filipe: 
-  city: sao filipe
-  accentcity: "S\xC3\xA3o Filipe"
+  city: "sao filipe"
+  accentcity: "São Filipe"
 sao joao: 
-  city: sao joao
-  accentcity: "S\xC3\xA3o Jo\xC3\xA3o"
+  city: "sao joao"
+  accentcity: "São João"
 sao jorge: 
-  city: sao jorge
-  accentcity: "S\xC3\xA3o Jorge"
+  city: "sao jorge"
+  accentcity: "São Jorge"
 sao martinho: 
-  city: sao martinho
-  accentcity: "S\xC3\xA3o Martinho"
+  city: "sao martinho"
+  accentcity: "São Martinho"
 sao pedro: 
-  city: sao pedro
-  accentcity: "S\xC3\xA3o Pedro"
+  city: "sao pedro"
+  accentcity: "São Pedro"
 sao tiago: 
-  city: sao tiago
-  accentcity: "S\xC3\xA3o Tiago"
+  city: "sao tiago"
+  accentcity: "São Tiago"
 selada do mocho: 
-  city: selada do mocho
-  accentcity: Selada do Mocho
+  city: "selada do mocho"
+  accentcity: "Selada do Mocho"
 selada: 
-  city: selada
-  accentcity: Selada
+  city: "selada"
+  accentcity: "Selada"
 seladinha: 
-  city: seladinha
-  accentcity: Seladinha
+  city: "seladinha"
+  accentcity: "Seladinha"
 serrado: 
-  city: serrado
-  accentcity: Serrado
+  city: "serrado"
+  accentcity: "Serrado"
 sinagoga: 
-  city: sinagoga
-  accentcity: Sinagoga
+  city: "sinagoga"
+  accentcity: "Sinagoga"
 sol point: 
-  city: sol point
-  accentcity: Sol Point
+  city: "sol point"
+  accentcity: "Sol Point"
 tabuadinha: 
-  city: tabuadinha
-  accentcity: Tabuadinha
+  city: "tabuadinha"
+  accentcity: "Tabuadinha"
 tabuga: 
-  city: tabuga
-  accentcity: Tabuga
+  city: "tabuga"
+  accentcity: "Tabuga"
 tarrafal da vila de ribeira grande: 
-  city: tarrafal da vila de ribeira grande
-  accentcity: Tarrafal da Vila de Ribeira Grande
+  city: "tarrafal da vila de ribeira grande"
+  accentcity: "Tarrafal da Vila de Ribeira Grande"
 tarrafal: 
-  city: tarrafal
-  accentcity: Tarrafal
+  city: "tarrafal"
+  accentcity: "Tarrafal"
 tarvafal: 
-  city: tarvafal
-  accentcity: Tarvafal
+  city: "tarvafal"
+  accentcity: "Tarvafal"
 telha: 
-  city: telha
-  accentcity: Telha
+  city: "telha"
+  accentcity: "Telha"
 tongom: 
-  city: tongom
-  accentcity: Tongom
+  city: "tongom"
+  accentcity: "Tongom"
 tongon: 
-  city: tongon
-  accentcity: Tongon
+  city: "tongon"
+  accentcity: "Tongon"
 toril: 
-  city: toril
-  accentcity: Toril
+  city: "toril"
+  accentcity: "Toril"
 torno d'agua: 
-  city: torno d'agua
+  city: "torno d'agua"
   accentcity: "Torno d'\xC3\x81gua"
 tras-os-montes: 
-  city: tras-os-montes
-  accentcity: Tras-os-Montes
+  city: "tras-os-montes"
+  accentcity: "Tras-os-Montes"
 trindade: 
-  city: trindade
-  accentcity: Trindade
+  city: "trindade"
+  accentcity: "Trindade"
 urgueiro: 
-  city: urgueiro
-  accentcity: Urgueiro
+  city: "urgueiro"
+  accentcity: "Urgueiro"
 urzeleiros: 
-  city: urzeleiros
-  accentcity: Urzeleiros
+  city: "urzeleiros"
+  accentcity: "Urzeleiros"
 urzeleiro: 
-  city: urzeleiro
-  accentcity: Urzeleiro
+  city: "urzeleiro"
+  accentcity: "Urzeleiro"
 vale da custa: 
-  city: vale da custa
-  accentcity: Vale da Custa
+  city: "vale da custa"
+  accentcity: "Vale da Custa"
 vale da gusta: 
-  city: vale da gusta
-  accentcity: Vale da Gusta
+  city: "vale da gusta"
+  accentcity: "Vale da Gusta"
 velha: 
-  city: velha
-  accentcity: Velha
+  city: "velha"
+  accentcity: "Velha"
 vicente dias: 
-  city: vicente dias
-  accentcity: Vicente Dias
+  city: "vicente dias"
+  accentcity: "Vicente Dias"
 vila da ribeira brava: 
-  city: vila da ribeira brava
-  accentcity: Vila da Ribeira Brava
+  city: "vila da ribeira brava"
+  accentcity: "Vila da Ribeira Brava"
 vila de nova cintra: 
-  city: vila de nova cintra
-  accentcity: Vila de Nova Cintra
+  city: "vila de nova cintra"
+  accentcity: "Vila de Nova Cintra"
 vila de nova sintra: 
-  city: vila de nova sintra
-  accentcity: Vila de Nova Sintra
+  city: "vila de nova sintra"
+  accentcity: "Vila de Nova Sintra"
 vila de sao filippe: 
-  city: vila de sao filippe
-  accentcity: "Vila de S\xC3\xA3o Filippe"
+  city: "vila de sao filippe"
+  accentcity: "Vila de São Filippe"
 vila do maio: 
-  city: vila do maio
-  accentcity: Vila do Maio
+  city: "vila do maio"
+  accentcity: "Vila do Maio"
 vila do porto novo: 
-  city: vila do porto novo
+  city: "vila do porto novo"
   accentcity: "Vila do P\xC3\xB4rto Novo"
 vila do tarrafal: 
-  city: vila do tarrafal
-  accentcity: Vila do Tarrafal
+  city: "vila do tarrafal"
+  accentcity: "Vila do Tarrafal"
 vila maria pia: 
-  city: vila maria pia
-  accentcity: Vila Maria Pia
+  city: "vila maria pia"
+  accentcity: "Vila Maria Pia"
 vila nova cinteus: 
-  city: vila nova cinteus
-  accentcity: Vila Nova Cinteus
+  city: "vila nova cinteus"
+  accentcity: "Vila Nova Cinteus"
 vila nova sintra: 
-  city: vila nova sintra
-  accentcity: Vila Nova Sintra
+  city: "vila nova sintra"
+  accentcity: "Vila Nova Sintra"
 vila nova: 
-  city: vila nova
-  accentcity: Vila Nova
+  city: "vila nova"
+  accentcity: "Vila Nova"
 vila sao filipe: 
-  city: vila sao filipe
-  accentcity: "Vila S\xC3\xA3o Filipe"
+  city: "vila sao filipe"
+  accentcity: "Vila São Filipe"
 vinagre: 
-  city: vinagre
-  accentcity: Vinagre
+  city: "vinagre"
+  accentcity: "Vinagre"
 xa xa: 
-  city: xa xa
+  city: "xa xa"
   accentcity: "Xá Xá"

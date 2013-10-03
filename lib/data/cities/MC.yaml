@@ -1,23 +1,23 @@
 # encoding: UTF-8
 --- 
 condamine: 
-  city: condamine
-  accentcity: Condamine
+  city: "condamine"
+  accentcity: "Condamine"
 fontvieille: 
-  city: fontvieille
-  accentcity: Fontvieille
+  city: "fontvieille"
+  accentcity: "Fontvieille"
 la condamine: 
-  city: la condamine
-  accentcity: La Condamine
+  city: "la condamine"
+  accentcity: "La Condamine"
 monaco: 
-  city: monaco
-  accentcity: Monaco
+  city: "monaco"
+  accentcity: "Monaco"
 monaco-ville: 
-  city: monaco-ville
-  accentcity: Monaco-Ville
+  city: "monaco-ville"
+  accentcity: "Monaco-Ville"
 moneghetti: 
-  city: moneghetti
-  accentcity: Moneghetti
+  city: "moneghetti"
+  accentcity: "Moneghetti"
 monte-carlo: 
-  city: monte-carlo
-  accentcity: Monte-Carlo
+  city: "monte-carlo"
+  accentcity: "Monte-Carlo"

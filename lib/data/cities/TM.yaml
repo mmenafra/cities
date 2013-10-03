@@ -1,5183 +1,5183 @@
 # encoding: UTF-8
 --- 
 aadzi: 
-  city: aadzi
-  accentcity: Aadzi
+  city: "aadzi"
+  accentcity: "Aadzi"
 admi-yab: 
-  city: admi-yab
-  accentcity: Admi-Yab
+  city: "admi-yab"
+  accentcity: "Admi-Yab"
 adzhi: 
-  city: adzhi
-  accentcity: Adzhi
+  city: "adzhi"
+  accentcity: "Adzhi"
 adzhikui: 
-  city: adzhikui
-  accentcity: Adzhikui
+  city: "adzhikui"
+  accentcity: "Adzhikui"
 adzhi-kuyu: 
-  city: adzhi-kuyu
-  accentcity: Adzhi-Kuyu
+  city: "adzhi-kuyu"
+  accentcity: "Adzhi-Kuyu"
 adzhiyab: 
-  city: adzhiyab
-  accentcity: Adzhiyab
+  city: "adzhiyab"
+  accentcity: "Adzhiyab"
 adzhyyab: 
-  city: adzhyyab
-  accentcity: Adzhyyab
+  city: "adzhyyab"
+  accentcity: "Adzhyyab"
 agach-arvat: 
-  city: agach-arvat
-  accentcity: Agach-Arvat
+  city: "agach-arvat"
+  accentcity: "Agach-Arvat"
 aga-many: 
-  city: aga-many
-  accentcity: Aga-Many
+  city: "aga-many"
+  accentcity: "Aga-Many"
 agar: 
-  city: agar
-  accentcity: Agar
+  city: "agar"
+  accentcity: "Agar"
 agdzha-kala: 
-  city: agdzha-kala
-  accentcity: Agdzha-Kala
+  city: "agdzha-kala"
+  accentcity: "Agdzha-Kala"
 agja kala: 
-  city: agja kala
-  accentcity: Agja Kala
+  city: "agja kala"
+  accentcity: "Agja Kala"
 ajyyap: 
-  city: ajyyap
-  accentcity: Ajyyap
+  city: "ajyyap"
+  accentcity: "Ajyyap"
 ak: 
-  city: ak
-  accentcity: Ak
+  city: "ak"
+  accentcity: "Ak"
 ak-altyn: 
-  city: ak-altyn
-  accentcity: Ak-Altyn
+  city: "ak-altyn"
+  accentcity: "Ak-Altyn"
 ak-bay: 
-  city: ak-bay
-  accentcity: Ak-Bay
+  city: "ak-bay"
+  accentcity: "Ak-Bay"
 akbogaz: 
-  city: akbogaz
-  accentcity: Akbogaz
+  city: "akbogaz"
+  accentcity: "Akbogaz"
 ak-bulak: 
-  city: ak-bulak
-  accentcity: Ak-Bulak
+  city: "ak-bulak"
+  accentcity: "Ak-Bulak"
 akdash: 
-  city: akdash
-  accentcity: Akdash
+  city: "akdash"
+  accentcity: "Akdash"
 ak-dashayak: 
-  city: ak-dashayak
-  accentcity: Ak-Dashayak
+  city: "ak-dashayak"
+  accentcity: "Ak-Dashayak"
 akdepe: 
-  city: akdepe
-  accentcity: Akdepe
+  city: "akdepe"
+  accentcity: "Akdepe"
 ak-gaudan: 
-  city: ak-gaudan
-  accentcity: Ak-Gaudan
+  city: "ak-gaudan"
+  accentcity: "Ak-Gaudan"
 akhchadepe: 
-  city: akhchadepe
-  accentcity: Akhchadepe
+  city: "akhchadepe"
+  accentcity: "Akhchadepe"
 akhchaguyma: 
-  city: akhchaguyma
-  accentcity: Akhchaguyma
+  city: "akhchaguyma"
+  accentcity: "Akhchaguyma"
 akhcha-kuyma: 
-  city: akhcha-kuyma
-  accentcity: Akhcha-Kuyma
+  city: "akhcha-kuyma"
+  accentcity: "Akhcha-Kuyma"
 akhcha-tepe: 
-  city: akhcha-tepe
-  accentcity: Akhcha-Tepe
+  city: "akhcha-tepe"
+  accentcity: "Akhcha-Tepe"
 akhtash-ovliya: 
-  city: akhtash-ovliya
-  accentcity: Akhtash-Ovliya
+  city: "akhtash-ovliya"
+  accentcity: "Akhtash-Ovliya"
 akkala: 
-  city: akkala
-  accentcity: Akkala
+  city: "akkala"
+  accentcity: "Akkala"
 ak-kaya: 
-  city: ak-kaya
-  accentcity: Ak-Kaya
+  city: "ak-kaya"
+  accentcity: "Ak-Kaya"
 akkui: 
-  city: akkui
-  accentcity: Akkui
+  city: "akkui"
+  accentcity: "Akkui"
 ak-kum: 
-  city: ak-kum
-  accentcity: Ak-Kum
+  city: "ak-kum"
+  accentcity: "Ak-Kum"
 akkumulam: 
-  city: akkumulam
-  accentcity: Akkumulam
+  city: "akkumulam"
+  accentcity: "Akkumulam"
 akkumulyam: 
-  city: akkumulyam
-  accentcity: Akkumulyam
+  city: "akkumulyam"
+  accentcity: "Akkumulyam"
 ak-kungur: 
-  city: ak-kungur
-  accentcity: Ak-Kungur
+  city: "ak-kungur"
+  accentcity: "Ak-Kungur"
 ak-kuyu: 
-  city: ak-kuyu
-  accentcity: Ak-Kuyu
+  city: "ak-kuyu"
+  accentcity: "Ak-Kuyu"
 ak-mechet: 
-  city: ak-mechet
-  accentcity: Ak-Mechet
+  city: "ak-mechet"
+  accentcity: "Ak-Mechet"
 ak-rabat: 
-  city: ak-rabat
-  accentcity: Ak-Rabat
+  city: "ak-rabat"
+  accentcity: "Ak-Rabat"
 akrabat: 
-  city: akrabat
-  accentcity: Akrabat
+  city: "akrabat"
+  accentcity: "Akrabat"
 ak-saray: 
-  city: ak-saray
-  accentcity: Ak-Saray
+  city: "ak-saray"
+  accentcity: "Ak-Saray"
 ak-say: 
-  city: ak-say
-  accentcity: Ak-Say
+  city: "ak-say"
+  accentcity: "Ak-Say"
 (( aktash )): 
-  city: (( aktash ))
-  accentcity: (( Aktash ))
+  city: "(( aktash ))"
+  accentcity: "(( Aktash ))"
 aktepe: 
-  city: aktepe
-  accentcity: Aktepe
+  city: "aktepe"
+  accentcity: "Aktepe"
 ak-tepe: 
-  city: ak-tepe
-  accentcity: Ak-Tepe
+  city: "ak-tepe"
+  accentcity: "Ak-Tepe"
 ak-tere: 
-  city: ak-tere
-  accentcity: Ak-Tere
+  city: "ak-tere"
+  accentcity: "Ak-Tere"
 ak-teri: 
-  city: ak-teri
-  accentcity: Ak-Teri
+  city: "ak-teri"
+  accentcity: "Ak-Teri"
 ak-tugay: 
-  city: ak-tugay
-  accentcity: Ak-Tugay
+  city: "ak-tugay"
+  accentcity: "Ak-Tugay"
 ak-tyube: 
-  city: ak-tyube
-  accentcity: Ak-Tyube
+  city: "ak-tyube"
+  accentcity: "Ak-Tyube"
 ak'yayla: 
-  city: ak'yayla
-  accentcity: Ak'yayla
+  city: "ak'yayla"
+  accentcity: "Ak'yayla"
 akyayla: 
-  city: akyayla
-  accentcity: Akyayla
+  city: "akyayla"
+  accentcity: "Akyayla"
 aladzha: 
-  city: aladzha
-  accentcity: Aladzha
+  city: "aladzha"
+  accentcity: "Aladzha"
 alaja: 
-  city: alaja
-  accentcity: Alaja
+  city: "alaja"
+  accentcity: "Alaja"
 alam: 
-  city: alam
-  accentcity: Alam
+  city: "alam"
+  accentcity: "Alam"
 alangyrtly: 
-  city: alangyrtly
-  accentcity: Alangyrtly
+  city: "alangyrtly"
+  accentcity: "Alangyrtly"
 alibek: 
-  city: alibek
-  accentcity: Alibek
+  city: "alibek"
+  accentcity: "Alibek"
 allan-tepe: 
-  city: allan-tepe
-  accentcity: Allan-Tepe
+  city: "allan-tepe"
+  accentcity: "Allan-Tepe"
 alla-sakal: 
-  city: alla-sakal
-  accentcity: Alla-Sakal
+  city: "alla-sakal"
+  accentcity: "Alla-Sakal"
 allatepe: 
-  city: allatepe
-  accentcity: Allatepe
+  city: "allatepe"
+  accentcity: "Allatepe"
 almysh: 
-  city: almysh
-  accentcity: Almysh
+  city: "almysh"
+  accentcity: "Almysh"
 alnysh: 
-  city: alnysh
-  accentcity: Alnysh
+  city: "alnysh"
+  accentcity: "Alnysh"
 alpan: 
-  city: alpan
-  accentcity: Alpan
+  city: "alpan"
+  accentcity: "Alpan"
 altykui: 
-  city: altykui
-  accentcity: Altykui
+  city: "altykui"
+  accentcity: "Altykui"
 alyandor: 
-  city: alyandor
-  accentcity: Alyandor
+  city: "alyandor"
+  accentcity: "Alyandor"
 aman: 
-  city: aman
-  accentcity: Aman
+  city: "aman"
+  accentcity: "Aman"
 amandor: 
-  city: amandor
-  accentcity: Amandor
+  city: "amandor"
+  accentcity: "Amandor"
 amannazar: 
-  city: amannazar
-  accentcity: Amannazar
+  city: "amannazar"
+  accentcity: "Amannazar"
 amansha: 
-  city: amansha
-  accentcity: Amansha
+  city: "amansha"
+  accentcity: "Amansha"
 amansha-kapan: 
-  city: amansha-kapan
-  accentcity: Amansha-Kapan
+  city: "amansha-kapan"
+  accentcity: "Amansha-Kapan"
 amasha kapan: 
-  city: amasha kapan
-  accentcity: Amasha Kapan
+  city: "amasha kapan"
+  accentcity: "Amasha Kapan"
 amasha-kapin: 
-  city: amasha-kapin
-  accentcity: Amasha-Kapin
+  city: "amasha-kapin"
+  accentcity: "Amasha-Kapin"
 ammanazar: 
-  city: ammanazar
-  accentcity: Ammanazar
+  city: "ammanazar"
+  accentcity: "Ammanazar"
 amu-dar'inskiy: 
-  city: amu-dar'inskiy
-  accentcity: Amu-Dar'inskiy
+  city: "amu-dar'inskiy"
+  accentcity: "Amu-Dar'inskiy"
 amudar'ya: 
-  city: amudar'ya
-  accentcity: Amudar'ya
+  city: "amudar'ya"
+  accentcity: "Amudar'ya"
 amu-dar'ya: 
-  city: amu-dar'ya
-  accentcity: Amu-Dar'ya
+  city: "amu-dar'ya"
+  accentcity: "Amu-Dar'ya"
 amyderya: 
-  city: amyderya
+  city: "amyderya"
   accentcity: "Amyder\xC3\xBDa"
 anansha: 
-  city: anansha
-  accentcity: Anansha
+  city: "anansha"
+  accentcity: "Anansha"
 anar-bulak: 
-  city: anar-bulak
-  accentcity: Anar-Bulak
+  city: "anar-bulak"
+  accentcity: "Anar-Bulak"
 anau: 
-  city: anau
-  accentcity: Anau
+  city: "anau"
+  accentcity: "Anau"
 andreyevsk: 
-  city: andreyevsk
-  accentcity: Andreyevsk
+  city: "andreyevsk"
+  accentcity: "Andreyevsk"
 anew: 
-  city: anew
+  city: "anew"
   accentcity: "\xC3\x84new"
 angat: 
-  city: angat
-  accentcity: Angat
+  city: "angat"
+  accentcity: "Angat"
 anna-mamed: 
-  city: anna-mamed
-  accentcity: Anna-Mamed
+  city: "anna-mamed"
+  accentcity: "Anna-Mamed"
 anna-mamet: 
-  city: anna-mamet
-  accentcity: Anna-Mamet
+  city: "anna-mamet"
+  accentcity: "Anna-Mamet"
 annamurat: 
-  city: annamurat
-  accentcity: Annamurat
+  city: "annamurat"
+  accentcity: "Annamurat"
 annau: 
-  city: annau
-  accentcity: Annau
+  city: "annau"
+  accentcity: "Annau"
 anvamurat: 
-  city: anvamurat
-  accentcity: Anvamurat
+  city: "anvamurat"
+  accentcity: "Anvamurat"
 apchin camp: 
-  city: apchin camp
-  accentcity: Apchin Camp
+  city: "apchin camp"
+  accentcity: "Apchin Camp"
 arab-kala: 
-  city: arab-kala
-  accentcity: Arab-Kala
+  city: "arab-kala"
+  accentcity: "Arab-Kala"
 arab-khana: 
-  city: arab-khana
-  accentcity: Arab-Khana
+  city: "arab-khana"
+  accentcity: "Arab-Khana"
 araki: 
-  city: araki
-  accentcity: Araki
+  city: "araki"
+  accentcity: "Araki"
 arap: 
-  city: arap
-  accentcity: Arap
+  city: "arap"
+  accentcity: "Arap"
 arapchuk: 
-  city: arapchuk
-  accentcity: Arapchuk
+  city: "arapchuk"
+  accentcity: "Arapchuk"
 arap-kala: 
-  city: arap-kala
-  accentcity: Arap-Kala
+  city: "arap-kala"
+  accentcity: "Arap-Kala"
 arapkhana: 
-  city: arapkhana
-  accentcity: Arapkhana
+  city: "arapkhana"
+  accentcity: "Arapkhana"
 archin: 
-  city: archin
-  accentcity: Archin
+  city: "archin"
+  accentcity: "Archin"
 archin'yak: 
-  city: archin'yak
-  accentcity: Archin'yak
+  city: "archin'yak"
+  accentcity: "Archin'yak"
 archin'yan: 
-  city: archin'yan
-  accentcity: Archin'yan
+  city: "archin'yan"
+  accentcity: "Archin'yan"
 archman: 
-  city: archman
-  accentcity: Archman
+  city: "archman"
+  accentcity: "Archman"
 arpaklen: 
-  city: arpaklen
-  accentcity: Arpaklen
+  city: "arpaklen"
+  accentcity: "Arpaklen"
 arpaklon: 
-  city: arpaklon
-  accentcity: Arpaklon
+  city: "arpaklon"
+  accentcity: "Arpaklon"
 artyk: 
-  city: artyk
-  accentcity: Artyk
+  city: "artyk"
+  accentcity: "Artyk"
 arychagyl: 
-  city: arychagyl
-  accentcity: Arychagyl
+  city: "arychagyl"
+  accentcity: "Arychagyl"
 arykagyl: 
-  city: arykagyl
-  accentcity: Arykagyl
+  city: "arykagyl"
+  accentcity: "Arykagyl"
 arzuv: 
-  city: arzuv
-  accentcity: Arzuv
+  city: "arzuv"
+  accentcity: "Arzuv"
 asgabat: 
-  city: asgabat
-  accentcity: Asgabat
+  city: "asgabat"
+  accentcity: "Asgabat"
 ashgabadskaya ptitsefabrika: 
-  city: ashgabadskaya ptitsefabrika
-  accentcity: Ashgabadskaya Ptitsefabrika
+  city: "ashgabadskaya ptitsefabrika"
+  accentcity: "Ashgabadskaya Ptitsefabrika"
 ashgabat: 
-  city: ashgabat
-  accentcity: Ashgabat
+  city: "ashgabat"
+  accentcity: "Ashgabat"
 ashkabad: 
-  city: ashkabad
-  accentcity: Ashkabad
+  city: "ashkabad"
+  accentcity: "Ashkabad"
 ashkhabad: 
-  city: ashkhabad
-  accentcity: Ashkhabad
+  city: "ashkhabad"
+  accentcity: "Ashkhabad"
 ashqabad: 
-  city: ashqabad
-  accentcity: Ashqabad
+  city: "ashqabad"
+  accentcity: "Ashqabad"
 askabad: 
-  city: askabad
-  accentcity: Askabad
+  city: "askabad"
+  accentcity: "Askabad"
 askhabad: 
-  city: askhabad
-  accentcity: Askhabad
+  city: "askhabad"
+  accentcity: "Askhabad"
 astanababa: 
-  city: astanababa
-  accentcity: Astanababa
+  city: "astanababa"
+  accentcity: "Astanababa"
 ata: 
-  city: ata
-  accentcity: Ata
+  city: "ata"
+  accentcity: "Ata"
 atamyrat: 
-  city: atamyrat
-  accentcity: Atamyrat
+  city: "atamyrat"
+  accentcity: "Atamyrat"
 atatlyk: 
-  city: atatlyk
-  accentcity: Atatlyk
+  city: "atatlyk"
+  accentcity: "Atatlyk"
 ata-yab: 
-  city: ata-yab
-  accentcity: Ata-Yab
+  city: "ata-yab"
+  accentcity: "Ata-Yab"
 auazy: 
-  city: auazy
-  accentcity: Auazy
+  city: "auazy"
+  accentcity: "Auazy"
 auchi: 
-  city: auchi
-  accentcity: Auchi
+  city: "auchi"
+  accentcity: "Auchi"
 aul-alnysh: 
-  city: aul-alnysh
-  accentcity: Aul-Alnysh
+  city: "aul-alnysh"
+  accentcity: "Aul-Alnysh"
 aul: 
-  city: aul
-  accentcity: Aul
+  city: "aul"
+  accentcity: "Aul"
 aul gassan-kuli: 
-  city: aul gassan-kuli
-  accentcity: Aul Gassan-Kuli
+  city: "aul gassan-kuli"
+  accentcity: "Aul Gassan-Kuli"
 aul geok-che: 
-  city: aul geok-che
-  accentcity: Aul Geok-Che
+  city: "aul geok-che"
+  accentcity: "Aul Geok-Che"
 auliye: 
-  city: auliye
-  accentcity: Auliye
+  city: "auliye"
+  accentcity: "Auliye"
 aul kul'dzha: 
-  city: aul kul'dzha
-  accentcity: Aul Kul'dzha
+  city: "aul kul'dzha"
+  accentcity: "Aul Kul'dzha"
 aul nomer pyat'desyat vtoroy: 
-  city: aul nomer pyat'desyat vtoroy
-  accentcity: Aul Nomer Pyat'desyat Vtoroy
+  city: "aul nomer pyat'desyat vtoroy"
+  accentcity: "Aul Nomer Pyat'desyat Vtoroy"
 aul nomer shestoy: 
-  city: aul nomer shestoy
-  accentcity: Aul Nomer Shestoy
+  city: "aul nomer shestoy"
+  accentcity: "Aul Nomer Shestoy"
 aul sary-yazy: 
-  city: aul sary-yazy
-  accentcity: Aul Sary-Yazy
+  city: "aul sary-yazy"
+  accentcity: "Aul Sary-Yazy"
 aul urazaly: 
-  city: aul urazaly
-  accentcity: Aul Urazaly
+  city: "aul urazaly"
+  accentcity: "Aul Urazaly"
 avaza: 
-  city: avaza
-  accentcity: Avaza
+  city: "avaza"
+  accentcity: "Avaza"
 avazy: 
-  city: avazy
-  accentcity: Avazy
+  city: "avazy"
+  accentcity: "Avazy"
 avchi: 
-  city: avchi
-  accentcity: Avchi
+  city: "avchi"
+  accentcity: "Avchi"
 ayak: 
-  city: ayak
-  accentcity: Ayak
+  city: "ayak"
+  accentcity: "Ayak"
 aydere: 
-  city: aydere
-  accentcity: Aydere
+  city: "aydere"
+  accentcity: "Aydere"
 aydin: 
-  city: aydin
-  accentcity: Aydin
+  city: "aydin"
+  accentcity: "Aydin"
 aymyr: 
-  city: aymyr
-  accentcity: Aymyr
+  city: "aymyr"
+  accentcity: "Aymyr"
 azat: 
-  city: azat
-  accentcity: Azat
+  city: "azat"
+  accentcity: "Azat"
 babadayhan: 
-  city: babadayhan
+  city: "babadayhan"
   accentcity: "Babada\xC3\xBDhan"
 babadaykhan: 
-  city: babadaykhan
-  accentcity: Babadaykhan
+  city: "babadaykhan"
+  accentcity: "Babadaykhan"
 babadaykhan pervyy: 
-  city: babadaykhan pervyy
-  accentcity: Babadaykhan Pervyy
+  city: "babadaykhan pervyy"
+  accentcity: "Babadaykhan Pervyy"
 babadaykhan vtoroy: 
-  city: babadaykhan vtoroy
-  accentcity: Babadaykhan Vtoroy
+  city: "babadaykhan vtoroy"
+  accentcity: "Babadaykhan Vtoroy"
 baba-deykhan: 
-  city: baba-deykhan
-  accentcity: Baba-Deykhan
+  city: "baba-deykhan"
+  accentcity: "Baba-Deykhan"
 baba-deykhan pervyy: 
-  city: baba-deykhan pervyy
-  accentcity: Baba-Deykhan Pervyy
+  city: "baba-deykhan pervyy"
+  accentcity: "Baba-Deykhan Pervyy"
 baba-deykhan-pervyy: 
-  city: baba-deykhan-pervyy
-  accentcity: Baba-Deykhan-Pervyy
+  city: "baba-deykhan-pervyy"
+  accentcity: "Baba-Deykhan-Pervyy"
 baba-deykhan vtoroy: 
-  city: baba-deykhan vtoroy
-  accentcity: Baba-Deykhan Vtoroy
+  city: "baba-deykhan vtoroy"
+  accentcity: "Baba-Deykhan Vtoroy"
 babadurmaz: 
-  city: babadurmaz
-  accentcity: Babadurmaz
+  city: "babadurmaz"
+  accentcity: "Babadurmaz"
 baba-ishak: 
-  city: baba-ishak
-  accentcity: Baba-Ishak
+  city: "baba-ishak"
+  accentcity: "Baba-Ishak"
 babakhodzha: 
-  city: babakhodzha
-  accentcity: Babakhodzha
+  city: "babakhodzha"
+  accentcity: "Babakhodzha"
 babarabkala: 
-  city: babarabkala
-  accentcity: Babarabkala
+  city: "babarabkala"
+  accentcity: "Babarabkala"
 bagabat: 
-  city: bagabat
-  accentcity: Bagabat
+  city: "bagabat"
+  accentcity: "Bagabat"
 bagadzha: 
-  city: bagadzha
-  accentcity: Bagadzha
+  city: "bagadzha"
+  accentcity: "Bagadzha"
 bagarka: 
-  city: bagarka
-  accentcity: Bagarka
+  city: "bagarka"
+  accentcity: "Bagarka"
 bagir: 
-  city: bagir
-  accentcity: Bagir
+  city: "bagir"
+  accentcity: "Bagir"
 bagshimirish: 
-  city: bagshimirish
-  accentcity: Bagshimirish
+  city: "bagshimirish"
+  accentcity: "Bagshimirish"
 bagt: 
-  city: bagt
-  accentcity: Bagt
+  city: "bagt"
+  accentcity: "Bagt"
 bagyr: 
-  city: bagyr
-  accentcity: Bagyr
+  city: "bagyr"
+  accentcity: "Bagyr"
 baherden: 
-  city: baherden
+  city: "baherden"
   accentcity: "B\xC3\xA4herden"
 bairam ali: 
-  city: bairam ali
-  accentcity: Bairam Ali
+  city: "bairam ali"
+  accentcity: "Bairam Ali"
 bairobab: 
-  city: bairobab
-  accentcity: Bairobab
+  city: "bairobab"
+  accentcity: "Bairobab"
 bakauli: 
-  city: bakauli
-  accentcity: Bakauli
+  city: "bakauli"
+  accentcity: "Bakauli"
 bakharden: 
-  city: bakharden
-  accentcity: Bakharden
+  city: "bakharden"
+  accentcity: "Bakharden"
 bakhardok: 
-  city: bakhardok
-  accentcity: Bakhardok
+  city: "bakhardok"
+  accentcity: "Bakhardok"
 bakhshi: 
-  city: bakhshi
-  accentcity: Bakhshi
+  city: "bakhshi"
+  accentcity: "Bakhshi"
 bakhshimarish: 
-  city: bakhshimarish
-  accentcity: Bakhshimarish
+  city: "bakhshimarish"
+  accentcity: "Bakhshimarish"
 bakhshi-mirish: 
-  city: bakhshi-mirish
-  accentcity: Bakhshi-Mirish
+  city: "bakhshi-mirish"
+  accentcity: "Bakhshi-Mirish"
 bakshi-marish: 
-  city: bakshi-marish
-  accentcity: Bakshi-Marish
+  city: "bakshi-marish"
+  accentcity: "Bakshi-Marish"
 bala-ishem: 
-  city: bala-ishem
-  accentcity: Bala-Ishem
+  city: "bala-ishem"
+  accentcity: "Bala-Ishem"
 balkanabat: 
-  city: balkanabat
-  accentcity: Balkanabat
+  city: "balkanabat"
+  accentcity: "Balkanabat"
 balkui: 
-  city: balkui
-  accentcity: Balkui
+  city: "balkui"
+  accentcity: "Balkui"
 balla-ishem: 
-  city: balla-ishem
-  accentcity: Balla-Ishem
+  city: "balla-ishem"
+  accentcity: "Balla-Ishem"
 bami: 
-  city: bami
-  accentcity: Bami
+  city: "bami"
+  accentcity: "Bami"
 bamy: 
-  city: bamy
-  accentcity: Bamy
+  city: "bamy"
+  accentcity: "Bamy"
 bangil'dy: 
-  city: bangil'dy
-  accentcity: Bangil'dy
+  city: "bangil'dy"
+  accentcity: "Bangil'dy"
 banysh: 
-  city: banysh
-  accentcity: Banysh
+  city: "banysh"
+  accentcity: "Banysh"
 baragiz: 
-  city: baragiz
-  accentcity: Baragiz
+  city: "baragiz"
+  accentcity: "Baragiz"
 bardzan: 
-  city: bardzan
-  accentcity: Bardzan
+  city: "bardzan"
+  accentcity: "Bardzan"
 barsli: 
-  city: barsli
-  accentcity: Barsli
+  city: "barsli"
+  accentcity: "Barsli"
 basaga: 
-  city: basaga
-  accentcity: Basaga
+  city: "basaga"
+  accentcity: "Basaga"
 bashbeden: 
-  city: bashbeden
-  accentcity: Bashbeden
+  city: "bashbeden"
+  accentcity: "Bashbeden"
 bashir: 
-  city: bashir
-  accentcity: Bashir
+  city: "bashir"
+  accentcity: "Bashir"
 bashvak: 
-  city: bashvak
-  accentcity: Bashvak
+  city: "bashvak"
+  accentcity: "Bashvak"
 bassaga: 
-  city: bassaga
-  accentcity: Bassaga
+  city: "bassaga"
+  accentcity: "Bassaga"
 bassar-kish: 
-  city: bassar-kish
-  accentcity: Bassar-Kish
+  city: "bassar-kish"
+  accentcity: "Bassar-Kish"
 batash: 
-  city: batash
-  accentcity: Batash
+  city: "batash"
+  accentcity: "Batash"
 batyrkent: 
-  city: batyrkent
-  accentcity: Batyrkent
+  city: "batyrkent"
+  accentcity: "Batyrkent"
 batyrkent pervyy: 
-  city: batyrkent pervyy
-  accentcity: Batyrkent Pervyy
+  city: "batyrkent pervyy"
+  accentcity: "Batyrkent Pervyy"
 bayat: 
-  city: bayat
-  accentcity: Bayat
+  city: "bayat"
+  accentcity: "Bayat"
 (( bayat-khadzhi )): 
-  city: (( bayat-khadzhi ))
-  accentcity: (( Bayat-Khadzhi ))
+  city: "(( bayat-khadzhi ))"
+  accentcity: "(( Bayat-Khadzhi ))"
 bayat-khadzhi: 
-  city: bayat-khadzhi
-  accentcity: Bayat-Khadzhi
+  city: "bayat-khadzhi"
+  accentcity: "Bayat-Khadzhi"
 bay: 
-  city: bay
-  accentcity: Bay
+  city: "bay"
+  accentcity: "Bay"
 baygushli: 
-  city: baygushli
-  accentcity: Baygushli
+  city: "baygushli"
+  accentcity: "Baygushli"
 bay-kabyl': 
-  city: bay-kabyl'
-  accentcity: Bay-Kabyl'
+  city: "bay-kabyl'"
+  accentcity: "Bay-Kabyl'"
 bay-kishlak: 
-  city: bay-kishlak
-  accentcity: Bay-Kishlak
+  city: "bay-kishlak"
+  accentcity: "Bay-Kishlak"
 baylym: 
-  city: baylym
-  accentcity: Baylym
+  city: "baylym"
+  accentcity: "Baylym"
 bayrach: 
-  city: bayrach
-  accentcity: Bayrach
+  city: "bayrach"
+  accentcity: "Bayrach"
 bayram-ali: 
-  city: bayram-ali
-  accentcity: Bayram-Ali
+  city: "bayram-ali"
+  accentcity: "Bayram-Ali"
 bayramaly: 
-  city: bayramaly
-  accentcity: Bayramaly
+  city: "bayramaly"
+  accentcity: "Bayramaly"
 bayramtogana: 
-  city: bayramtogana
-  accentcity: Bayramtogana
+  city: "bayramtogana"
+  accentcity: "Bayramtogana"
 bayramtogan: 
-  city: bayramtogan
-  accentcity: Bayramtogan
+  city: "bayramtogan"
+  accentcity: "Bayramtogan"
 bayrobab: 
-  city: bayrobab
-  accentcity: Bayrobab
+  city: "bayrobab"
+  accentcity: "Bayrobab"
 bazar: 
-  city: bazar
-  accentcity: Bazar
+  city: "bazar"
+  accentcity: "Bazar"
 bazar charshambe: 
-  city: bazar charshambe
-  accentcity: Bazar Charshambe
+  city: "bazar charshambe"
+  accentcity: "Bazar Charshambe"
 bazardepe: 
-  city: bazardepe
-  accentcity: Bazardepe
+  city: "bazardepe"
+  accentcity: "Bazardepe"
 bazar dzhuma: 
-  city: bazar dzhuma
-  accentcity: Bazar Dzhuma
+  city: "bazar dzhuma"
+  accentcity: "Bazar Dzhuma"
 bazar-sakar: 
-  city: bazar-sakar
-  accentcity: Bazar-Sakar
+  city: "bazar-sakar"
+  accentcity: "Bazar-Sakar"
 bazar-sakhe: 
-  city: bazar-sakhe
-  accentcity: Bazar-Sakhe
+  city: "bazar-sakhe"
+  accentcity: "Bazar-Sakhe"
 bazar-tepe: 
-  city: bazar-tepe
-  accentcity: Bazar-Tepe
+  city: "bazar-tepe"
+  accentcity: "Bazar-Tepe"
 bazar-tyube: 
-  city: bazar-tyube
-  accentcity: Bazar-Tyube
+  city: "bazar-tyube"
+  accentcity: "Bazar-Tyube"
 beden: 
-  city: beden
-  accentcity: Beden
+  city: "beden"
+  accentcity: "Beden"
 bederkent: 
-  city: bederkent
-  accentcity: Bederkent
+  city: "bederkent"
+  accentcity: "Bederkent"
 begi-sakar: 
-  city: begi-sakar
-  accentcity: Begi-Sakar
+  city: "begi-sakar"
+  accentcity: "Begi-Sakar"
 bekauli: 
-  city: bekauli
-  accentcity: Bekauli
+  city: "bekauli"
+  accentcity: "Bekauli"
 bekauli-teki: 
-  city: bekauli-teki
-  accentcity: Bekauli-Teki
+  city: "bekauli-teki"
+  accentcity: "Bekauli-Teki"
 bek-dafh: 
-  city: bek-dafh
-  accentcity: Bek-Dafh
+  city: "bek-dafh"
+  accentcity: "Bek-Dafh"
 bekdash: 
-  city: bekdash
-  accentcity: Bekdash
+  city: "bekdash"
+  accentcity: "Bekdash"
 bekibent: 
-  city: bekibent
-  accentcity: Bekibent
+  city: "bekibent"
+  accentcity: "Bekibent"
 bekuri: 
-  city: bekuri
-  accentcity: Bekuri
+  city: "bekuri"
+  accentcity: "Bekuri"
 belek: 
-  city: belek
-  accentcity: Belek
+  city: "belek"
+  accentcity: "Belek"
 belek-turkmenskiy: 
-  city: belek-turkmenskiy
-  accentcity: Belek-Turkmenskiy
+  city: "belek-turkmenskiy"
+  accentcity: "Belek-Turkmenskiy"
 bendesen: 
-  city: bendesen
-  accentcity: Bendesen
+  city: "bendesen"
+  accentcity: "Bendesen"
 bendi-nadir: 
-  city: bendi-nadir
-  accentcity: Bendi-Nadir
+  city: "bendi-nadir"
+  accentcity: "Bendi-Nadir"
 berdelyk: 
-  city: berdelyk
-  accentcity: Berdelyk
+  city: "berdelyk"
+  accentcity: "Berdelyk"
 bere: 
-  city: bere
-  accentcity: Bere
+  city: "bere"
+  accentcity: "Bere"
 bereket: 
-  city: bereket
-  accentcity: Bereket
+  city: "bereket"
+  accentcity: "Bereket"
 berenchi-kara-yab: 
-  city: berenchi-kara-yab
-  accentcity: Berenchi-Kara-Yab
+  city: "berenchi-kara-yab"
+  accentcity: "Berenchi-Kara-Yab"
 beriket: 
-  city: beriket
-  accentcity: Beriket
+  city: "beriket"
+  accentcity: "Beriket"
 berut: 
-  city: berut
-  accentcity: Berut
+  city: "berut"
+  accentcity: "Berut"
 berzengi: 
-  city: berzengi
-  accentcity: Berzengi
+  city: "berzengi"
+  accentcity: "Berzengi"
 besh-aryk: 
-  city: besh-aryk
-  accentcity: Besh-Aryk
+  city: "besh-aryk"
+  accentcity: "Besh-Aryk"
 besheuray: 
-  city: besheuray
-  accentcity: Besheuray
+  city: "besheuray"
+  accentcity: "Besheuray"
 besheur: 
-  city: besheur
-  accentcity: Besheur
+  city: "besheur"
+  accentcity: "Besheur"
 besheurchi: 
-  city: besheurchi
-  accentcity: Besheurchi
+  city: "besheurchi"
+  accentcity: "Besheurchi"
 beuradzhi: 
-  city: beuradzhi
-  accentcity: Beuradzhi
+  city: "beuradzhi"
+  accentcity: "Beuradzhi"
 beurma: 
-  city: beurma
-  accentcity: Beurma
+  city: "beurma"
+  accentcity: "Beurma"
 beurme: 
-  city: beurme
-  accentcity: Beurme
+  city: "beurme"
+  accentcity: "Beurme"
 bezmein: 
-  city: bezmein
-  accentcity: Bezmein
+  city: "bezmein"
+  accentcity: "Bezmein"
 bik-dafh: 
-  city: bik-dafh
-  accentcity: Bik-Dafh
+  city: "bik-dafh"
+  accentcity: "Bik-Dafh"
 bik-dash: 
-  city: bik-dash
-  accentcity: Bik-Dash
+  city: "bik-dash"
+  accentcity: "Bik-Dash"
 bikebend: 
-  city: bikebend
-  accentcity: Bikebend
+  city: "bikebend"
+  accentcity: "Bikebend"
 bikrava: 
-  city: bikrava
-  accentcity: Bikrava
+  city: "bikrava"
+  accentcity: "Bikrava"
 bikrova: 
-  city: bikrova
-  accentcity: Bikrova
+  city: "bikrova"
+  accentcity: "Bikrova"
 bikuri: 
-  city: bikuri
-  accentcity: Bikuri
+  city: "bikuri"
+  accentcity: "Bikuri"
 birdik: 
-  city: birdik
-  accentcity: Birdik
+  city: "birdik"
+  accentcity: "Birdik"
 birinchiboy: 
-  city: birinchiboy
-  accentcity: Birinchiboy
+  city: "birinchiboy"
+  accentcity: "Birinchiboy"
 birinchi-chandyr: 
-  city: birinchi-chandyr
-  accentcity: Birinchi-Chandyr
+  city: "birinchi-chandyr"
+  accentcity: "Birinchi-Chandyr"
 birleshik: 
-  city: birleshik
-  accentcity: Birleshik
+  city: "birleshik"
+  accentcity: "Birleshik"
 birleshik pervyy: 
-  city: birleshik pervyy
-  accentcity: Birleshik Pervyy
+  city: "birleshik pervyy"
+  accentcity: "Birleshik Pervyy"
 birlyashik: 
-  city: birlyashik
-  accentcity: Birlyashik
+  city: "birlyashik"
+  accentcity: "Birlyashik"
 birlyashik pervyy: 
-  city: birlyashik pervyy
-  accentcity: Birlyashik Pervyy
+  city: "birlyashik pervyy"
+  accentcity: "Birlyashik Pervyy"
 bitik: 
-  city: bitik
-  accentcity: Bitik
+  city: "bitik"
+  accentcity: "Bitik"
 bittik: 
-  city: bittik
-  accentcity: Bittik
+  city: "bittik"
+  accentcity: "Bittik"
 bki: 
-  city: bki
-  accentcity: Bki
+  city: "bki"
+  accentcity: "Bki"
 bogizogon: 
-  city: bogizogon
-  accentcity: Bogizogon
+  city: "bogizogon"
+  accentcity: "Bogizogon"
 bokhurdok: 
-  city: bokhurdok
-  accentcity: Bokhurdok
+  city: "bokhurdok"
+  accentcity: "Bokhurdok"
 bokurdak: 
-  city: bokurdak
-  accentcity: Bokurdak
+  city: "bokurdak"
+  accentcity: "Bokurdak"
 boldumsaz: 
-  city: boldumsaz
-  accentcity: Boldumsaz
+  city: "boldumsaz"
+  accentcity: "Boldumsaz"
 bol'shevik: 
-  city: bol'shevik
-  accentcity: Bol'shevik
+  city: "bol'shevik"
+  accentcity: "Bol'shevik"
 boroshly: 
-  city: boroshly
-  accentcity: Boroshly
+  city: "boroshly"
+  accentcity: "Boroshly"
 bosaga: 
-  city: bosaga
-  accentcity: Bosaga
+  city: "bosaga"
+  accentcity: "Bosaga"
 bosage: 
-  city: bosage
-  accentcity: Bosage
+  city: "bosage"
+  accentcity: "Bosage"
 bossaga: 
-  city: bossaga
-  accentcity: Bossaga
+  city: "bossaga"
+  accentcity: "Bossaga"
 bovart: 
-  city: bovart
-  accentcity: Bovart
+  city: "bovart"
+  accentcity: "Bovart"
 boydag: 
-  city: boydag
-  accentcity: Boydag
+  city: "boydag"
+  accentcity: "Boydag"
 boy pervyy: 
-  city: boy pervyy
-  accentcity: Boy Pervyy
+  city: "boy pervyy"
+  accentcity: "Boy Pervyy"
 boyrabab: 
-  city: boyrabab
-  accentcity: Boyrabab
+  city: "boyrabab"
+  accentcity: "Boyrabab"
 boyrabad: 
-  city: boyrabad
-  accentcity: Boyrabad
+  city: "boyrabad"
+  accentcity: "Boyrabad"
 boyun-uzun: 
-  city: boyun-uzun
-  accentcity: Boyun-Uzun
+  city: "boyun-uzun"
+  accentcity: "Boyun-Uzun"
 bozogoli: 
-  city: bozogoli
-  accentcity: Bozogoli
+  city: "bozogoli"
+  accentcity: "Bozogoli"
 bsurma: 
-  city: bsurma
-  accentcity: Bsurma
+  city: "bsurma"
+  accentcity: "Bsurma"
 budzhak: 
-  city: budzhak
-  accentcity: Budzhak
+  city: "budzhak"
+  accentcity: "Budzhak"
 bugdayli: 
-  city: bugdayli
-  accentcity: Bugdayli
+  city: "bugdayli"
+  accentcity: "Bugdayli"
 bugdayly: 
-  city: bugdayly
-  accentcity: Bugdayly
+  city: "bugdayly"
+  accentcity: "Bugdayly"
 burdalik: 
-  city: burdalik
-  accentcity: Burdalik
+  city: "burdalik"
+  accentcity: "Burdalik"
 burdalyk: 
-  city: burdalyk
-  accentcity: Burdalyk
+  city: "burdalyk"
+  accentcity: "Burdalyk"
 burguchi: 
-  city: burguchi
-  accentcity: Burguchi
+  city: "burguchi"
+  accentcity: "Burguchi"
 burk: 
-  city: burk
-  accentcity: Burk
+  city: "burk"
+  accentcity: "Burk"
 burkut: 
-  city: burkut
-  accentcity: Burkut
+  city: "burkut"
+  accentcity: "Burkut"
 buyrabab: 
-  city: buyrabab
-  accentcity: Buyrabab
+  city: "buyrabab"
+  accentcity: "Buyrabab"
 buyun-uzun: 
-  city: buyun-uzun
-  accentcity: Buyun-Uzun
+  city: "buyun-uzun"
+  accentcity: "Buyun-Uzun"
 buzmeyin: 
-  city: buzmeyin
+  city: "buzmeyin"
   accentcity: "B\xC3\xBCzme\xC3\xBDin"
 byr-koz: 
-  city: byr-koz
-  accentcity: Byr-Koz
+  city: "byr-koz"
+  accentcity: "Byr-Koz"
 byurgyutli: 
-  city: byurgyutli
-  accentcity: Byurgyutli
+  city: "byurgyutli"
+  accentcity: "Byurgyutli"
 cace: 
-  city: cace
-  accentcity: "\xC3\x87\xC3\xA4\xC3\xA7e"
+  city: "cace"
+  accentcity: "\xC3\x87\xC3\xA4çe"
 carsanny: 
-  city: carsanny
-  accentcity: Carsanny
+  city: "carsanny"
+  accentcity: "Carsanny"
 celeken: 
-  city: celeken
+  city: "celeken"
   accentcity: "\xC3\x87eleken"
 cemenibit: 
-  city: cemenibit
+  city: "cemenibit"
   accentcity: "\xC3\x87emenibit"
 chaacha: 
-  city: chaacha
-  accentcity: Chaacha
+  city: "chaacha"
+  accentcity: "Chaacha"
 chagaguzar: 
-  city: chagaguzar
-  accentcity: Chagaguzar
+  city: "chagaguzar"
+  accentcity: "Chagaguzar"
 chagala: 
-  city: chagala
-  accentcity: Chagala
+  city: "chagala"
+  accentcity: "Chagala"
 chagali: 
-  city: chagali
-  accentcity: Chagali
+  city: "chagali"
+  accentcity: "Chagali"
 chagaln: 
-  city: chagaln
-  accentcity: Chagaln
+  city: "chagaln"
+  accentcity: "Chagaln"
 chagaly: 
-  city: chagaly
-  accentcity: Chagaly
+  city: "chagaly"
+  accentcity: "Chagaly"
 chagpata: 
-  city: chagpata
-  accentcity: Chagpata
+  city: "chagpata"
+  accentcity: "Chagpata"
 chagyla: 
-  city: chagyla
-  accentcity: Chagyla
+  city: "chagyla"
+  accentcity: "Chagyla"
 chagyl: 
-  city: chagyl
-  accentcity: Chagyl
+  city: "chagyl"
+  accentcity: "Chagyl"
 chakal: 
-  city: chakal
-  accentcity: Chakal
+  city: "chakal"
+  accentcity: "Chakal"
 chakhpata: 
-  city: chakhpata
-  accentcity: Chakhpata
+  city: "chakhpata"
+  accentcity: "Chakhpata"
 chakich: 
-  city: chakich
-  accentcity: Chakich
+  city: "chakich"
+  accentcity: "Chakich"
 chakir: 
-  city: chakir
-  accentcity: Chakir
+  city: "chakir"
+  accentcity: "Chakir"
 chakmaklychanga: 
-  city: chakmaklychanga
-  accentcity: Chakmaklychanga
+  city: "chakmaklychanga"
+  accentcity: "Chakmaklychanga"
 chakych: 
-  city: chakych
-  accentcity: Chakych
+  city: "chakych"
+  accentcity: "Chakych"
 chakyeh: 
-  city: chakyeh
-  accentcity: Chakyeh
+  city: "chakyeh"
+  accentcity: "Chakyeh"
 chakyr: 
-  city: chakyr
-  accentcity: Chakyr
+  city: "chakyr"
+  accentcity: "Chakyr"
 chalapkuyu: 
-  city: chalapkuyu
-  accentcity: Chalapkuyu
+  city: "chalapkuyu"
+  accentcity: "Chalapkuyu"
 chalayuk: 
-  city: chalayuk
-  accentcity: Chalayuk
+  city: "chalayuk"
+  accentcity: "Chalayuk"
 chaloyuk: 
-  city: chaloyuk
-  accentcity: Chaloyuk
+  city: "chaloyuk"
+  accentcity: "Chaloyuk"
 chalsu: 
-  city: chalsu
-  accentcity: Chalsu
+  city: "chalsu"
+  accentcity: "Chalsu"
 chaltut: 
-  city: chaltut
-  accentcity: Chaltut
+  city: "chaltut"
+  accentcity: "Chaltut"
 chalysh: 
-  city: chalysh
-  accentcity: Chalysh
+  city: "chalysh"
+  accentcity: "Chalysh"
 chamakchi: 
-  city: chamakchi
-  accentcity: Chamakchi
+  city: "chamakchi"
+  accentcity: "Chamakchi"
 chamchakly: 
-  city: chamchakly
-  accentcity: Chamchakly
+  city: "chamchakly"
+  accentcity: "Chamchakly"
 chanal: 
-  city: chanal
-  accentcity: Chanal
+  city: "chanal"
+  accentcity: "Chanal"
 chandyr: 
-  city: chandyr
-  accentcity: Chandyr
+  city: "chandyr"
+  accentcity: "Chandyr"
 chardzha: 
-  city: chardzha
-  accentcity: Chardzha
+  city: "chardzha"
+  accentcity: "Chardzha"
 chardzhou: 
-  city: chardzhou
-  accentcity: Chardzhou
+  city: "chardzhou"
+  accentcity: "Chardzhou"
 chardzhui: 
-  city: chardzhui
-  accentcity: Chardzhui
+  city: "chardzhui"
+  accentcity: "Chardzhui"
 chardzhuy: 
-  city: chardzhuy
-  accentcity: Chardzhuy
+  city: "chardzhuy"
+  accentcity: "Chardzhuy"
 charjew: 
-  city: charjew
+  city: "charjew"
   accentcity: "Ch\xC3\xA4rjew"
 charjou: 
-  city: charjou
-  accentcity: Charjou
+  city: "charjou"
+  accentcity: "Charjou"
 charjui: 
-  city: charjui
-  accentcity: Charjui
+  city: "charjui"
+  accentcity: "Charjui"
 charpali: 
-  city: charpali
-  accentcity: Charpali
+  city: "charpali"
+  accentcity: "Charpali"
 charshanga: 
-  city: charshanga
-  accentcity: Charshanga
+  city: "charshanga"
+  accentcity: "Charshanga"
 charshangngy: 
-  city: charshangngy
-  accentcity: Charshangngy
+  city: "charshangngy"
+  accentcity: "Charshangngy"
 charshangu: 
-  city: charshangu
-  accentcity: Charshangu
+  city: "charshangu"
+  accentcity: "Charshangu"
 charshangy: 
-  city: charshangy
-  accentcity: Charshangy
+  city: "charshangy"
+  accentcity: "Charshangy"
 chartma: 
-  city: chartma
-  accentcity: Chartma
+  city: "chartma"
+  accentcity: "Chartma"
 charvadar: 
-  city: charvadar
-  accentcity: Charvadar
+  city: "charvadar"
+  accentcity: "Charvadar"
 charvak: 
-  city: charvak
-  accentcity: Charvak
+  city: "charvak"
+  accentcity: "Charvak"
 charvan-kala: 
-  city: charvan-kala
-  accentcity: Charvan-Kala
+  city: "charvan-kala"
+  accentcity: "Charvan-Kala"
 charyy: 
-  city: charyy
-  accentcity: Charyy
+  city: "charyy"
+  accentcity: "Charyy"
 chash: 
-  city: chash
-  accentcity: Chash
+  city: "chash"
+  accentcity: "Chash"
 chash-kala: 
-  city: chash-kala
-  accentcity: Chash-Kala
+  city: "chash-kala"
+  accentcity: "Chash-Kala"
 chashkan: 
-  city: chashkan
-  accentcity: Chashkan
+  city: "chashkan"
+  accentcity: "Chashkan"
 chashkent: 
-  city: chashkent
-  accentcity: Chashkent
+  city: "chashkent"
+  accentcity: "Chashkent"
 chash-tepe: 
-  city: chash-tepe
-  accentcity: Chash-Tepe
+  city: "chash-tepe"
+  accentcity: "Chash-Tepe"
 chat: 
-  city: chat
-  accentcity: Chat
+  city: "chat"
+  accentcity: "Chat"
 chate-atrek: 
-  city: chate-atrek
-  accentcity: Chate-Atrek
+  city: "chate-atrek"
+  accentcity: "Chate-Atrek"
 chat-i-atrek: 
-  city: chat-i-atrek
-  accentcity: Chat-i-Atrek
+  city: "chat-i-atrek"
+  accentcity: "Chat-i-Atrek"
 chatli: 
-  city: chatli
-  accentcity: Chatli
+  city: "chatli"
+  accentcity: "Chatli"
 chatly: 
-  city: chatly
-  accentcity: Chatly
+  city: "chatly"
+  accentcity: "Chatly"
 chatrak: 
-  city: chatrak
-  accentcity: Chatrak
+  city: "chatrak"
+  accentcity: "Chatrak"
 chatryak: 
-  city: chatryak
-  accentcity: Chatryak
+  city: "chatryak"
+  accentcity: "Chatryak"
 chatryat: 
-  city: chatryat
-  accentcity: Chatryat
+  city: "chatryat"
+  accentcity: "Chatryat"
 chaudur: 
-  city: chaudur
-  accentcity: Chaudur
+  city: "chaudur"
+  accentcity: "Chaudur"
 chavdur: 
-  city: chavdur
-  accentcity: Chavdur
+  city: "chavdur"
+  accentcity: "Chavdur"
 chayek: 
-  city: chayek
-  accentcity: Chayek
+  city: "chayek"
+  accentcity: "Chayek"
 chechme: 
-  city: chechme
-  accentcity: Chechme
+  city: "chechme"
+  accentcity: "Chechme"
 chegez: 
-  city: chegez
-  accentcity: Chegez
+  city: "chegez"
+  accentcity: "Chegez"
 cheken: 
-  city: cheken
-  accentcity: Cheken
+  city: "cheken"
+  accentcity: "Cheken"
 chekich: 
-  city: chekich
-  accentcity: Chekich
+  city: "chekich"
+  accentcity: "Chekich"
 chekichler: 
-  city: chekichler
-  accentcity: Chekichler
+  city: "chekichler"
+  accentcity: "Chekichler"
 chekir: 
-  city: chekir
-  accentcity: Chekir
+  city: "chekir"
+  accentcity: "Chekir"
 chekishler: 
-  city: chekishler
-  accentcity: Chekishler
+  city: "chekishler"
+  accentcity: "Chekishler"
 chekmen: 
-  city: chekmen
-  accentcity: Chekmen
+  city: "chekmen"
+  accentcity: "Chekmen"
 chekun-yurt: 
-  city: chekun-yurt
-  accentcity: Chekun-Yurt
+  city: "chekun-yurt"
+  accentcity: "Chekun-Yurt"
 chekur-yurt: 
-  city: chekur-yurt
-  accentcity: Chekur-Yurt
+  city: "chekur-yurt"
+  accentcity: "Chekur-Yurt"
 chekyr: 
-  city: chekyr
-  accentcity: Chekyr
+  city: "chekyr"
+  accentcity: "Chekyr"
 cheleken: 
-  city: cheleken
-  accentcity: Cheleken
+  city: "cheleken"
+  accentcity: "Cheleken"
 cheltek: 
-  city: cheltek
-  accentcity: Cheltek
+  city: "cheltek"
+  accentcity: "Cheltek"
 chemche: 
-  city: chemche
-  accentcity: Chemche
+  city: "chemche"
+  accentcity: "Chemche"
 chemeli: 
-  city: chemeli
-  accentcity: Chemeli
+  city: "chemeli"
+  accentcity: "Chemeli"
 chemen-i-bid: 
-  city: chemen-i-bid
-  accentcity: Chemen-i-Bid
+  city: "chemen-i-bid"
+  accentcity: "Chemen-i-Bid"
 chemenibit: 
-  city: chemenibit
-  accentcity: Chemenibit
+  city: "chemenibit"
+  accentcity: "Chemenibit"
 chenen: 
-  city: chenen
-  accentcity: Chenen
+  city: "chenen"
+  accentcity: "Chenen"
 chenich: 
-  city: chenich
-  accentcity: Chenich
+  city: "chenich"
+  accentcity: "Chenich"
 chenick: 
-  city: chenick
-  accentcity: Chenick
+  city: "chenick"
+  accentcity: "Chenick"
 chepek: 
-  city: chepek
-  accentcity: Chepek
+  city: "chepek"
+  accentcity: "Chepek"
 cherenga: 
-  city: cherenga
-  accentcity: Cherenga
+  city: "cherenga"
+  accentcity: "Cherenga"
 cherkez: 
-  city: cherkez
-  accentcity: Cherkez
+  city: "cherkez"
+  accentcity: "Cherkez"
 cherkezli: 
-  city: cherkezli
-  accentcity: Cherkezli
+  city: "cherkezli"
+  accentcity: "Cherkezli"
 cherkezly: 
-  city: cherkezly
-  accentcity: Cherkezly
+  city: "cherkezly"
+  accentcity: "Cherkezly"
 cheshme: 
-  city: cheshme
-  accentcity: Cheshme
+  city: "cheshme"
+  accentcity: "Cheshme"
 cheshme vtoroy: 
-  city: cheshme vtoroy
-  accentcity: Cheshme Vtoroy
+  city: "cheshme vtoroy"
+  accentcity: "Cheshme Vtoroy"
 chetyrnadtsat' let oktyabrya: 
-  city: chetyrnadtsat' let oktyabrya
-  accentcity: Chetyrnadtsat' Let Oktyabrya
+  city: "chetyrnadtsat' let oktyabrya"
+  accentcity: "Chetyrnadtsat' Let Oktyabrya"
 chikishlyar: 
-  city: chikishlyar
-  accentcity: Chikishlyar
+  city: "chikishlyar"
+  accentcity: "Chikishlyar"
 chil'gez: 
-  city: chil'gez
-  accentcity: Chil'gez
+  city: "chil'gez"
+  accentcity: "Chil'gez"
 (( choganly )): 
-  city: (( choganly ))
-  accentcity: (( Choganly ))
+  city: "(( choganly ))"
+  accentcity: "(( Choganly ))"
 chokh-petta: 
-  city: chokh-petta
-  accentcity: Chokh-Petta
+  city: "chokh-petta"
+  accentcity: "Chokh-Petta"
 chokmak: 
-  city: chokmak
-  accentcity: Chokmak
+  city: "chokmak"
+  accentcity: "Chokmak"
 choudur: 
-  city: choudur
-  accentcity: Choudur
+  city: "choudur"
+  accentcity: "Choudur"
 chovdur: 
-  city: chovdur
-  accentcity: Chovdur
+  city: "chovdur"
+  accentcity: "Chovdur"
 chukhur-kala: 
-  city: chukhur-kala
-  accentcity: Chukhur-Kala
+  city: "chukhur-kala"
+  accentcity: "Chukhur-Kala"
 chukur-kala: 
-  city: chukur-kala
-  accentcity: Chukur-Kala
+  city: "chukur-kala"
+  accentcity: "Chukur-Kala"
 chukurkala: 
-  city: chukurkala
-  accentcity: Chukurkala
+  city: "chukurkala"
+  accentcity: "Chukurkala"
 chuli: 
-  city: chuli
-  accentcity: Chuli
+  city: "chuli"
+  accentcity: "Chuli"
 chungurli: 
-  city: chungurli
-  accentcity: Chungurli
+  city: "chungurli"
+  accentcity: "Chungurli"
 chupli: 
-  city: chupli
-  accentcity: Chupli
+  city: "chupli"
+  accentcity: "Chupli"
 churga: 
-  city: churga
-  accentcity: Churga
+  city: "churga"
+  accentcity: "Churga"
 churpali: 
-  city: churpali
-  accentcity: Churpali
+  city: "churpali"
+  accentcity: "Churpali"
 churuk: 
-  city: churuk
-  accentcity: Churuk
+  city: "churuk"
+  accentcity: "Churuk"
 dada-ogly: 
-  city: dada-ogly
-  accentcity: Dada-Ogly
+  city: "dada-ogly"
+  accentcity: "Dada-Ogly"
 dadedogli: 
-  city: dadedogli
-  accentcity: Dadedogli
+  city: "dadedogli"
+  accentcity: "Dadedogli"
 dagadzhik: 
-  city: dagadzhik
-  accentcity: Dagadzhik
+  city: "dagadzhik"
+  accentcity: "Dagadzhik"
 dagarkishlak: 
-  city: dagarkishlak
-  accentcity: Dagarkishlak
+  city: "dagarkishlak"
+  accentcity: "Dagarkishlak"
 dag-sakhkary: 
-  city: dag-sakhkary
-  accentcity: Dag-Sakhkary
+  city: "dag-sakhkary"
+  accentcity: "Dag-Sakhkary"
 dambe: 
-  city: dambe
-  accentcity: Dambe
+  city: "dambe"
+  accentcity: "Dambe"
 damzak: 
-  city: damzak
-  accentcity: Damzak
+  city: "damzak"
+  accentcity: "Damzak"
 danata: 
-  city: danata
-  accentcity: Danata
+  city: "danata"
+  accentcity: "Danata"
 danew: 
-  city: danew
+  city: "danew"
   accentcity: "D\xC3\xA4new"
 danishen: 
-  city: danishen
-  accentcity: Danishen
+  city: "danishen"
+  accentcity: "Danishen"
 danisher: 
-  city: danisher
-  accentcity: Danisher
+  city: "danisher"
+  accentcity: "Danisher"
 danisherkala: 
-  city: danisherkala
-  accentcity: Danisherkala
+  city: "danisherkala"
+  accentcity: "Danisherkala"
 daniyeh: 
-  city: daniyeh
-  accentcity: Daniyeh
+  city: "daniyeh"
+  accentcity: "Daniyeh"
 dardali: 
-  city: dardali
-  accentcity: Dardali
+  city: "dardali"
+  accentcity: "Dardali"
 dargana: 
-  city: dargana
-  accentcity: Dargana
+  city: "dargana"
+  accentcity: "Dargana"
 dargana-kala: 
-  city: dargana-kala
-  accentcity: Dargana-Kala
+  city: "dargana-kala"
+  accentcity: "Dargana-Kala"
 darganata: 
-  city: darganata
-  accentcity: Darganata
+  city: "darganata"
+  accentcity: "Darganata"
 dargan-ata: 
-  city: dargan-ata
-  accentcity: Dargan-Ata
+  city: "dargan-ata"
+  accentcity: "Dargan-Ata"
 darganatinskiy: 
-  city: darganatinskiy
-  accentcity: Darganatinskiy
+  city: "darganatinskiy"
+  accentcity: "Darganatinskiy"
 darvaza: 
-  city: darvaza
-  accentcity: Darvaza
+  city: "darvaza"
+  accentcity: "Darvaza"
 dashhowuz: 
-  city: dashhowuz
-  accentcity: Dashhowuz
+  city: "dashhowuz"
+  accentcity: "Dashhowuz"
 dashkhovuz: 
-  city: dashkhovuz
-  accentcity: Dashkhovuz
+  city: "dashkhovuz"
+  accentcity: "Dashkhovuz"
 dashkuduk: 
-  city: dashkuduk
-  accentcity: Dashkuduk
+  city: "dashkuduk"
+  accentcity: "Dashkuduk"
 dashlyk: 
-  city: dashlyk
-  accentcity: Dashlyk
+  city: "dashlyk"
+  accentcity: "Dashlyk"
 dashrabat: 
-  city: dashrabat
-  accentcity: Dashrabat
+  city: "dashrabat"
+  accentcity: "Dashrabat"
 daskopri: 
-  city: daskopri
-  accentcity: Daskopri
+  city: "daskopri"
+  accentcity: "Daskopri"
 dasoguz: 
-  city: dasoguz
-  accentcity: Dasoguz
+  city: "dasoguz"
+  accentcity: "Dasoguz"
 dauda: 
-  city: dauda
-  accentcity: Dauda
+  city: "dauda"
+  accentcity: "Dauda"
 daulet: 
-  city: daulet
-  accentcity: Daulet
+  city: "daulet"
+  accentcity: "Daulet"
 dautly: 
-  city: dautly
-  accentcity: Dautly
+  city: "dautly"
+  accentcity: "Dautly"
 davdan: 
-  city: davdan
-  accentcity: Davdan
+  city: "davdan"
+  accentcity: "Davdan"
 davlet: 
-  city: davlet
-  accentcity: Davlet
+  city: "davlet"
+  accentcity: "Davlet"
 dayakhatyn: 
-  city: dayakhatyn
-  accentcity: Dayakhatyn
+  city: "dayakhatyn"
+  accentcity: "Dayakhatyn"
 dayne: 
-  city: dayne
-  accentcity: Dayne
+  city: "dayne"
+  accentcity: "Dayne"
 daz: 
-  city: daz
-  accentcity: Daz
+  city: "daz"
+  accentcity: "Daz"
 dedogly: 
-  city: dedogly
-  accentcity: Dedogly
+  city: "dedogly"
+  accentcity: "Dedogly"
 deinach: 
-  city: deinach
-  accentcity: Deinach
+  city: "deinach"
+  accentcity: "Deinach"
 deinau: 
-  city: deinau
-  accentcity: Deinau
+  city: "deinau"
+  accentcity: "Deinau"
 dekel'-dash: 
-  city: dekel'-dash
-  accentcity: Dekel'-Dash
+  city: "dekel'-dash"
+  accentcity: "Dekel'-Dash"
 denglikopry: 
-  city: denglikopry
-  accentcity: Denglikopry
+  city: "denglikopry"
+  accentcity: "Denglikopry"
 derbend-deycha: 
-  city: derbend-deycha
-  accentcity: Derbend-Deycha
+  city: "derbend-deycha"
+  accentcity: "Derbend-Deycha"
 deregli: 
-  city: deregli
-  accentcity: Deregli
+  city: "deregli"
+  accentcity: "Deregli"
 derekli: 
-  city: derekli
-  accentcity: Derekli
+  city: "derekli"
+  accentcity: "Derekli"
 dervezekem: 
-  city: dervezekem
-  accentcity: Dervezekem
+  city: "dervezekem"
+  accentcity: "Dervezekem"
 desht: 
-  city: desht
-  accentcity: Desht
+  city: "desht"
+  accentcity: "Desht"
 deycha: 
-  city: deycha
-  accentcity: Deycha
+  city: "deycha"
+  accentcity: "Deycha"
 deynau: 
-  city: deynau
-  accentcity: Deynau
+  city: "deynau"
+  accentcity: "Deynau"
 didedogly: 
-  city: didedogly
-  accentcity: Didedogly
+  city: "didedogly"
+  accentcity: "Didedogly"
 dmitriyevskiy: 
-  city: dmitriyevskiy
-  accentcity: Dmitriyevskiy
+  city: "dmitriyevskiy"
+  accentcity: "Dmitriyevskiy"
 donguz-tugay: 
-  city: donguz-tugay
-  accentcity: Donguz-Tugay
+  city: "donguz-tugay"
+  accentcity: "Donguz-Tugay"
 dostluk: 
-  city: dostluk
-  accentcity: Dostluk
+  city: "dostluk"
+  accentcity: "Dostluk"
 dou-kala: 
-  city: dou-kala
-  accentcity: Dou-Kala
+  city: "dou-kala"
+  accentcity: "Dou-Kala"
 doyran: 
-  city: doyran
-  accentcity: Doyran
+  city: "doyran"
+  accentcity: "Doyran"
 dukdrushtum: 
-  city: dukdrushtum
-  accentcity: Dukdrushtum
+  city: "dukdrushtum"
+  accentcity: "Dukdrushtum"
 dunguz tugai: 
-  city: dunguz tugai
-  accentcity: Dunguz Tugai
+  city: "dunguz tugai"
+  accentcity: "Dunguz Tugai"
 durdy: 
-  city: durdy
-  accentcity: Durdy
+  city: "durdy"
+  accentcity: "Durdy"
 durdykhan: 
-  city: durdykhan
-  accentcity: Durdykhan
+  city: "durdykhan"
+  accentcity: "Durdykhan"
 durun: 
-  city: durun
-  accentcity: Durun
+  city: "durun"
+  accentcity: "Durun"
 dusak: 
-  city: dusak
-  accentcity: Dusak
+  city: "dusak"
+  accentcity: "Dusak"
 duschak: 
-  city: duschak
-  accentcity: Duschak
+  city: "duschak"
+  accentcity: "Duschak"
 dushak: 
-  city: dushak
-  accentcity: Dushak
+  city: "dushak"
+  accentcity: "Dushak"
 dushame-chakyr: 
-  city: dushame-chakyr
-  accentcity: Dushame-Chakyr
+  city: "dushame-chakyr"
+  accentcity: "Dushame-Chakyr"
 duunchi: 
-  city: duunchi
-  accentcity: Duunchi
+  city: "duunchi"
+  accentcity: "Duunchi"
 duyadrushtum: 
-  city: duyadrushtum
-  accentcity: Duyadrushtum
+  city: "duyadrushtum"
+  accentcity: "Duyadrushtum"
 duzli-olum: 
-  city: duzli-olum
-  accentcity: Duzli-Olum
+  city: "duzli-olum"
+  accentcity: "Duzli-Olum"
 duzlu-olum: 
-  city: duzlu-olum
-  accentcity: Duzlu-Olum
+  city: "duzlu-olum"
+  accentcity: "Duzlu-Olum"
 duzlydepe: 
-  city: duzlydepe
-  accentcity: Duzlydepe
+  city: "duzlydepe"
+  accentcity: "Duzlydepe"
 duzlyolum: 
-  city: duzlyolum
-  accentcity: Duzlyolum
+  city: "duzlyolum"
+  accentcity: "Duzlyolum"
 duzul-tepe: 
-  city: duzul-tepe
-  accentcity: Duzul-Tepe
+  city: "duzul-tepe"
+  accentcity: "Duzul-Tepe"
 dvadtsatiletiye turkmenskoy sovetskoy sotsialisticheskoy respubliki: 
-  city: dvadtsatiletiye turkmenskoy sovetskoy sotsialisticheskoy respubliki
-  accentcity: Dvadtsatiletiye Turkmenskoy Sovetskoy Sotsialisticheskoy Respubliki
+  city: "dvadtsatiletiye turkmenskoy sovetskoy sotsialisticheskoy respubliki"
+  accentcity: "Dvadtsatiletiye Turkmenskoy Sovetskoy Sotsialisticheskoy Respubliki"
 dvadtsat' let oktyabrya: 
-  city: dvadtsat' let oktyabrya
-  accentcity: Dvadtsat' Let Oktyabrya
+  city: "dvadtsat' let oktyabrya"
+  accentcity: "Dvadtsat' Let Oktyabrya"
 dyuyeboyun: 
-  city: dyuyeboyun
-  accentcity: Dyuyeboyun
+  city: "dyuyeboyun"
+  accentcity: "Dyuyeboyun"
 dzhafara: 
-  city: dzhafara
-  accentcity: Dzhafara
+  city: "dzhafara"
+  accentcity: "Dzhafara"
 dzhafar: 
-  city: dzhafar
-  accentcity: Dzhafar
+  city: "dzhafar"
+  accentcity: "Dzhafar"
 dzhanakhir: 
-  city: dzhanakhir
-  accentcity: Dzhanakhir
+  city: "dzhanakhir"
+  accentcity: "Dzhanakhir"
 dzhanga: 
-  city: dzhanga
-  accentcity: Dzhanga
+  city: "dzhanga"
+  accentcity: "Dzhanga"
 dzhang-aryk: 
-  city: dzhang-aryk
-  accentcity: Dzhang-Aryk
+  city: "dzhang-aryk"
+  accentcity: "Dzhang-Aryk"
 dzhapar: 
-  city: dzhapar
-  accentcity: Dzhapar
+  city: "dzhapar"
+  accentcity: "Dzhapar"
 dzharguzar: 
-  city: dzharguzar
-  accentcity: Dzharguzar
+  city: "dzharguzar"
+  accentcity: "Dzharguzar"
 dzhebel: 
-  city: dzhebel
-  accentcity: Dzhebel
+  city: "dzhebel"
+  accentcity: "Dzhebel"
 dzhedzhirs: 
-  city: dzhedzhirs
-  accentcity: Dzhedzhirs
+  city: "dzhedzhirs"
+  accentcity: "Dzhedzhirs"
 dzhengel': 
-  city: dzhengel'
-  accentcity: Dzhengel'
+  city: "dzhengel'"
+  accentcity: "Dzhengel'"
 dzhety-kuduk: 
-  city: dzhety-kuduk
-  accentcity: Dzhety-Kuduk
+  city: "dzhety-kuduk"
+  accentcity: "Dzhety-Kuduk"
 dzheykhun: 
-  city: dzheykhun
-  accentcity: Dzheykhun
+  city: "dzheykhun"
+  accentcity: "Dzheykhun"
 dzhezkazgan: 
-  city: dzhezkazgan
-  accentcity: Dzhezkazgan
+  city: "dzhezkazgan"
+  accentcity: "Dzhezkazgan"
 dzhi-dzhirt: 
-  city: dzhi-dzhirt
-  accentcity: Dzhi-Dzhirt
+  city: "dzhi-dzhirt"
+  accentcity: "Dzhi-Dzhirt"
 dzhigerbent: 
-  city: dzhigerbent
-  accentcity: Dzhigerbent
+  city: "dzhigerbent"
+  accentcity: "Dzhigerbent"
 dzhigir-bend: 
-  city: dzhigir-bend
-  accentcity: Dzhigir-Bend
+  city: "dzhigir-bend"
+  accentcity: "Dzhigir-Bend"
 dzhigirbent: 
-  city: dzhigirbent
-  accentcity: Dzhigirbent
+  city: "dzhigirbent"
+  accentcity: "Dzhigirbent"
 dzhikyrbent: 
-  city: dzhikyrbent
-  accentcity: Dzhikyrbent
+  city: "dzhikyrbent"
+  accentcity: "Dzhikyrbent"
 dzhingilkhatab: 
-  city: dzhingilkhatab
-  accentcity: Dzhingilkhatab
+  city: "dzhingilkhatab"
+  accentcity: "Dzhingilkhatab"
 dzhity-kuduk: 
-  city: dzhity-kuduk
-  accentcity: Dzhity-Kuduk
+  city: "dzhity-kuduk"
+  accentcity: "Dzhity-Kuduk"
 dzhoyruk: 
-  city: dzhoyruk
-  accentcity: Dzhoyruk
+  city: "dzhoyruk"
+  accentcity: "Dzhoyruk"
 dzhoyryk: 
-  city: dzhoyryk
-  accentcity: Dzhoyryk
+  city: "dzhoyryk"
+  accentcity: "Dzhoyryk"
 dzhuma-bazar: 
-  city: dzhuma-bazar
-  accentcity: Dzhuma-Bazar
+  city: "dzhuma-bazar"
+  accentcity: "Dzhuma-Bazar"
 dzhuma: 
-  city: dzhuma
-  accentcity: Dzhuma
+  city: "dzhuma"
+  accentcity: "Dzhuma"
 dzhuppy: 
-  city: dzhuppy
-  accentcity: Dzhuppy
+  city: "dzhuppy"
+  accentcity: "Dzhuppy"
 dzhuvaldy: 
-  city: dzhuvaldy
-  accentcity: Dzhuvaldy
+  city: "dzhuvaldy"
+  accentcity: "Dzhuvaldy"
 edrug: 
-  city: edrug
-  accentcity: Edrug
+  city: "edrug"
+  accentcity: "Edrug"
 egri: 
-  city: egri
-  accentcity: Egri
+  city: "egri"
+  accentcity: "Egri"
 egri guzar: 
-  city: egri guzar
-  accentcity: Egri Guzar
+  city: "egri guzar"
+  accentcity: "Egri Guzar"
 egri-guzar: 
-  city: egri-guzar
-  accentcity: Egri-Guzar
+  city: "egri-guzar"
+  accentcity: "Egri-Guzar"
 egriyagyr: 
-  city: egriyagyr
-  accentcity: Egriyagyr
+  city: "egriyagyr"
+  accentcity: "Egriyagyr"
 ekerem: 
-  city: ekerem
-  accentcity: Ekerem
+  city: "ekerem"
+  accentcity: "Ekerem"
 el'dzhik: 
-  city: el'dzhik
-  accentcity: El'dzhik
+  city: "el'dzhik"
+  accentcity: "El'dzhik"
 el'dzhin: 
-  city: el'dzhin
-  accentcity: El'dzhin
+  city: "el'dzhin"
+  accentcity: "El'dzhin"
 el'jik: 
-  city: el'jik
-  accentcity: El'jik
+  city: "el'jik"
+  accentcity: "El'jik"
 el'mek: 
-  city: el'mek
-  accentcity: El'mek
+  city: "el'mek"
+  accentcity: "El'mek"
 ene-kuliyevo: 
-  city: ene-kuliyevo
-  accentcity: Ene-Kuliyevo
+  city: "ene-kuliyevo"
+  accentcity: "Ene-Kuliyevo"
 energetik: 
-  city: energetik
-  accentcity: Energetik
+  city: "energetik"
+  accentcity: "Energetik"
 enev: 
-  city: enev
-  accentcity: Enev
+  city: "enev"
+  accentcity: "Enev"
 epo: 
-  city: epo
-  accentcity: Epo
+  city: "epo"
+  accentcity: "Epo"
 erdel': 
-  city: erdel'
-  accentcity: Erdel'
+  city: "erdel'"
+  accentcity: "Erdel'"
 erikkala: 
-  city: erikkala
-  accentcity: Erikkala
+  city: "erikkala"
+  accentcity: "Erikkala"
 errik-kala: 
-  city: errik-kala
-  accentcity: Errik-Kala
+  city: "errik-kala"
+  accentcity: "Errik-Kala"
 esenguly: 
-  city: esenguly
-  accentcity: Esenguly
+  city: "esenguly"
+  accentcity: "Esenguly"
 esenmengli: 
-  city: esenmengli
-  accentcity: Esenmengli
+  city: "esenmengli"
+  accentcity: "Esenmengli"
 eshek-sien: 
-  city: eshek-sien
-  accentcity: Eshek-Sien
+  city: "eshek-sien"
+  accentcity: "Eshek-Sien"
 eski: 
-  city: eski
-  accentcity: Eski
+  city: "eski"
+  accentcity: "Eski"
 eski-narazym: 
-  city: eski-narazym
-  accentcity: Eski-Narazym
+  city: "eski-narazym"
+  accentcity: "Eski-Narazym"
 etbash: 
-  city: etbash
-  accentcity: Etbash
+  city: "etbash"
+  accentcity: "Etbash"
 etbashi: 
-  city: etbashi
-  accentcity: Etbashi
+  city: "etbashi"
+  accentcity: "Etbashi"
 farab: 
-  city: farab
-  accentcity: Farab
+  city: "farab"
+  accentcity: "Farab"
 farab-pristan': 
-  city: farab-pristan'
-  accentcity: Farab-Pristan'
+  city: "farab-pristan'"
+  accentcity: "Farab-Pristan'"
 farap: 
-  city: farap
-  accentcity: Farap
+  city: "farap"
+  accentcity: "Farap"
 firyuza: 
-  city: firyuza
-  accentcity: Firyuza
+  city: "firyuza"
+  accentcity: "Firyuza"
 firyuzinskoye ushchel'ye: 
-  city: firyuzinskoye ushchel'ye
-  accentcity: Firyuzinskoye Ushchel'ye
+  city: "firyuzinskoye ushchel'ye"
+  accentcity: "Firyuzinskoye Ushchel'ye"
 gabakly: 
-  city: gabakly
-  accentcity: Gabakly
+  city: "gabakly"
+  accentcity: "Gabakly"
 gaburdy: 
-  city: gaburdy
-  accentcity: Gaburdy
+  city: "gaburdy"
+  accentcity: "Gaburdy"
 gadyn: 
-  city: gadyn
-  accentcity: Gadyn
+  city: "gadyn"
+  accentcity: "Gadyn"
 gagrandag: 
-  city: gagrandag
-  accentcity: Gagrandag
+  city: "gagrandag"
+  accentcity: "Gagrandag"
 galkynys: 
-  city: galkynys
-  accentcity: Galkynys
+  city: "galkynys"
+  accentcity: "Galkynys"
 gamyshlydzha: 
-  city: gamyshlydzha
-  accentcity: Gamyshlydzha
+  city: "gamyshlydzha"
+  accentcity: "Gamyshlydzha"
 gamyshlyja: 
-  city: gamyshlyja
-  accentcity: Gamyshlyja
+  city: "gamyshlyja"
+  accentcity: "Gamyshlyja"
 garabogazkol: 
-  city: garabogazkol
+  city: "garabogazkol"
   accentcity: "Garabogazk\xC3\xB6l"
 garadegish: 
-  city: garadegish
-  accentcity: Garadegish
+  city: "garadegish"
+  accentcity: "Garadegish"
 garadepe: 
-  city: garadepe
-  accentcity: Garadepe
+  city: "garadepe"
+  accentcity: "Garadepe"
 garajabatyr: 
-  city: garajabatyr
-  accentcity: Garajabatyr
+  city: "garajabatyr"
+  accentcity: "Garajabatyr"
 garamatnyyaz: 
-  city: garamatnyyaz
+  city: "garamatnyyaz"
   accentcity: "Garam\xC3\xA4tny\xC3\xBDaz"
 garlyk: 
-  city: garlyk
-  accentcity: Garlyk
+  city: "garlyk"
+  accentcity: "Garlyk"
 garrychyrla: 
-  city: garrychyrla
-  accentcity: Garrychyrla
+  city: "garrychyrla"
+  accentcity: "Garrychyrla"
 garrygala: 
-  city: garrygala
-  accentcity: Garrygala
+  city: "garrygala"
+  accentcity: "Garrygala"
 gasan-kuli: 
-  city: gasan-kuli
-  accentcity: Gasan-Kuli
+  city: "gasan-kuli"
+  accentcity: "Gasan-Kuli"
 gassan-kuli: 
-  city: gassan-kuli
-  accentcity: Gassan-Kuli
+  city: "gassan-kuli"
+  accentcity: "Gassan-Kuli"
 gaudan: 
-  city: gaudan
-  accentcity: Gaudan
+  city: "gaudan"
+  accentcity: "Gaudan"
 gaurdak: 
-  city: gaurdak
-  accentcity: Gaurdak
+  city: "gaurdak"
+  accentcity: "Gaurdak"
 gaurdakstroy: 
-  city: gaurdakstroy
-  accentcity: Gaurdakstroy
+  city: "gaurdakstroy"
+  accentcity: "Gaurdakstroy"
 gaurdstroi: 
-  city: gaurdstroi
-  accentcity: Gaurdstroi
+  city: "gaurdstroi"
+  accentcity: "Gaurdstroi"
 gaurdstroy: 
-  city: gaurdstroy
-  accentcity: Gaurdstroy
+  city: "gaurdstroy"
+  accentcity: "Gaurdstroy"
 gayrayuz: 
-  city: gayrayuz
-  accentcity: Gayrayuz
+  city: "gayrayuz"
+  accentcity: "Gayrayuz"
 gaz-achak: 
-  city: gaz-achak
-  accentcity: Gaz-Achak
+  city: "gaz-achak"
+  accentcity: "Gaz-Achak"
 gazanjyk: 
-  city: gazanjyk
-  accentcity: Gazanjyk
+  city: "gazanjyk"
+  accentcity: "Gazanjyk"
 gazojak: 
-  city: gazojak
-  accentcity: Gazojak
+  city: "gazojak"
+  accentcity: "Gazojak"
 geami: 
-  city: geami
-  accentcity: Geami
+  city: "geami"
+  accentcity: "Geami"
 gekcha: 
-  city: gekcha
-  accentcity: Gekcha
+  city: "gekcha"
+  accentcity: "Gekcha"
 geksay: 
-  city: geksay
-  accentcity: "G\xC3\xABksay"
+  city: "geksay"
+  accentcity: "Gëksay"
 geokcha: 
-  city: geokcha
-  accentcity: Geokcha
+  city: "geokcha"
+  accentcity: "Geokcha"
 geok-tepe: 
-  city: geok-tepe
-  accentcity: Geok-Tepe
+  city: "geok-tepe"
+  accentcity: "Geok-Tepe"
 geok-tepe nomer pervyy: 
-  city: geok-tepe nomer pervyy
-  accentcity: Geok-Tepe Nomer Pervyy
+  city: "geok-tepe nomer pervyy"
+  accentcity: "Geok-Tepe Nomer Pervyy"
 geok-tepe nomer tretiy: 
-  city: geok-tepe nomer tretiy
-  accentcity: Geok-Tepe Nomer Tretiy
+  city: "geok-tepe nomer tretiy"
+  accentcity: "Geok-Tepe Nomer Tretiy"
 geok-tepe-pervyy: 
-  city: geok-tepe-pervyy
-  accentcity: Geok-Tepe-Pervyy
+  city: "geok-tepe-pervyy"
+  accentcity: "Geok-Tepe-Pervyy"
 geok-tepe-tretiy: 
-  city: geok-tepe-tretiy
-  accentcity: Geok-Tepe-Tretiy
+  city: "geok-tepe-tretiy"
+  accentcity: "Geok-Tepe-Tretiy"
 gepchak: 
-  city: gepchak
-  accentcity: Gepchak
+  city: "gepchak"
+  accentcity: "Gepchak"
 germab: 
-  city: germab
-  accentcity: Germab
+  city: "germab"
+  accentcity: "Germab"
 germao: 
-  city: germao
-  accentcity: Germao
+  city: "germao"
+  accentcity: "Germao"
 germob: 
-  city: germob
-  accentcity: Germob
+  city: "germob"
+  accentcity: "Germob"
 gevers: 
-  city: gevers
-  accentcity: Gevers
+  city: "gevers"
+  accentcity: "Gevers"
 geyn-keriz: 
-  city: geyn-keriz
-  accentcity: Geyn-Keriz
+  city: "geyn-keriz"
+  accentcity: "Geyn-Keriz"
 gil'-abad: 
-  city: gil'-abad
-  accentcity: Gil'-Abad
+  city: "gil'-abad"
+  accentcity: "Gil'-Abad"
 gindukush: 
-  city: gindukush
-  accentcity: Gindukush
+  city: "gindukush"
+  accentcity: "Gindukush"
 gokcha: 
-  city: gokcha
-  accentcity: Gokcha
+  city: "gokcha"
+  accentcity: "Gokcha"
 gokdepe: 
-  city: gokdepe
+  city: "gokdepe"
   accentcity: "G\xC3\xB6kdepe"
 gokje: 
-  city: gokje
+  city: "gokje"
   accentcity: "G\xC3\xB6kje"
 goklenkuyu: 
-  city: goklenkuyu
-  accentcity: Goklenkuyu
+  city: "goklenkuyu"
+  accentcity: "Goklenkuyu"
 golovnoye: 
-  city: golovnoye
-  accentcity: Golovnoye
+  city: "golovnoye"
+  accentcity: "Golovnoye"
 golovnoye staroye: 
-  city: golovnoye staroye
-  accentcity: Golovnoye Staroye
+  city: "golovnoye staroye"
+  accentcity: "Golovnoye Staroye"
 gordikovskiy: 
-  city: gordikovskiy
-  accentcity: Gordikovskiy
+  city: "gordikovskiy"
+  accentcity: "Gordikovskiy"
 gorel'de: 
-  city: gorel'de
-  accentcity: Gorel'de
+  city: "gorel'de"
+  accentcity: "Gorel'de"
 goturdepe: 
-  city: goturdepe
-  accentcity: Goturdepe
+  city: "goturdepe"
+  accentcity: "Goturdepe"
 goudan: 
-  city: goudan
-  accentcity: Goudan
+  city: "goudan"
+  accentcity: "Goudan"
 gowdan: 
-  city: gowdan
-  accentcity: Gowdan
+  city: "gowdan"
+  accentcity: "Gowdan"
 gowurdak: 
-  city: gowurdak
-  accentcity: Gowurdak
+  city: "gowurdak"
+  accentcity: "Gowurdak"
 grodekovskiy: 
-  city: grodekovskiy
-  accentcity: Grodekovskiy
+  city: "grodekovskiy"
+  accentcity: "Grodekovskiy"
 gubadag: 
-  city: gubadag
-  accentcity: Gubadag
+  city: "gubadag"
+  accentcity: "Gubadag"
 gudriolum: 
-  city: gudriolum
-  accentcity: Gudriolum
+  city: "gudriolum"
+  accentcity: "Gudriolum"
 gudurolum: 
-  city: gudurolum
+  city: "gudurolum"
   accentcity: "G\xC3\xBCd\xC3\xBCrolum"
 gugerdzhengli: 
-  city: gugerdzhengli
-  accentcity: Gugerdzhengli
+  city: "gugerdzhengli"
+  accentcity: "Gugerdzhengli"
 gugurdzhli: 
-  city: gugurdzhli
-  accentcity: Gugurdzhli
+  city: "gugurdzhli"
+  accentcity: "Gugurdzhli"
 gulanly: 
-  city: gulanly
-  accentcity: Gulanly
+  city: "gulanly"
+  accentcity: "Gulanly"
 gulastan: 
-  city: gulastan
-  accentcity: Gulastan
+  city: "gulastan"
+  accentcity: "Gulastan"
 gul'stan: 
-  city: gul'stan
-  accentcity: Gul'stan
+  city: "gul'stan"
+  accentcity: "Gul'stan"
 gumdag: 
-  city: gumdag
-  accentcity: Gumdag
+  city: "gumdag"
+  accentcity: "Gumdag"
 gunesh: 
-  city: gunesh
-  accentcity: Gunesh
+  city: "gunesh"
+  accentcity: "Gunesh"
 guri-olum: 
-  city: guri-olum
-  accentcity: Guri-Olum
+  city: "guri-olum"
+  accentcity: "Guri-Olum"
 gursunmagdan karhanasy: 
-  city: gursunmagdan karhanasy
-  accentcity: Gursunmagdan Karhanasy
+  city: "gursunmagdan karhanasy"
+  accentcity: "Gursunmagdan Karhanasy"
 gurum-say: 
-  city: gurum-say
-  accentcity: Gurum-Say
+  city: "gurum-say"
+  accentcity: "Gurum-Say"
 gurumsay: 
-  city: gurumsay
-  accentcity: Gurumsay
+  city: "gurumsay"
+  accentcity: "Gurumsay"
 gusgy: 
-  city: gusgy
-  accentcity: Gusgy
+  city: "gusgy"
+  accentcity: "Gusgy"
 gushgy: 
-  city: gushgy
-  accentcity: Gushgy
+  city: "gushgy"
+  accentcity: "Gushgy"
 gyami: 
-  city: gyami
-  accentcity: Gyami
+  city: "gyami"
+  accentcity: "Gyami"
 gyar: 
-  city: gyar
-  accentcity: Gyar
+  city: "gyar"
+  accentcity: "Gyar"
 gyaur: 
-  city: gyaur
-  accentcity: Gyaur
+  city: "gyaur"
+  accentcity: "Gyaur"
 gyaurs: 
-  city: gyaurs
-  accentcity: Gyaurs
+  city: "gyaurs"
+  accentcity: "Gyaurs"
 gyurmush-tepe: 
-  city: gyurmush-tepe
-  accentcity: Gyurmush-Tepe
+  city: "gyurmush-tepe"
+  accentcity: "Gyurmush-Tepe"
 gyzylarbat: 
-  city: gyzylarbat
-  accentcity: Gyzylarbat
+  city: "gyzylarbat"
+  accentcity: "Gyzylarbat"
 gyzyletrek: 
-  city: gyzyletrek
-  accentcity: Gyzyletrek
+  city: "gyzyletrek"
+  accentcity: "Gyzyletrek"
 gyzylgaya: 
-  city: gyzylgaya
-  accentcity: Gyzylgaya
+  city: "gyzylgaya"
+  accentcity: "Gyzylgaya"
 gyzyl-suv: 
-  city: gyzyl-suv
-  accentcity: Gyzyl-Suv
+  city: "gyzyl-suv"
+  accentcity: "Gyzyl-Suv"
 gyzylsuw: 
-  city: gyzylsuw
-  accentcity: Gyzylsuw
+  city: "gyzylsuw"
+  accentcity: "Gyzylsuw"
 halac: 
-  city: halac
-  accentcity: "Hala\xC3\xA7"
+  city: "halac"
+  accentcity: "Halaç"
 hanhowuz: 
-  city: hanhowuz
-  accentcity: Hanhowuz
+  city: "hanhowuz"
+  accentcity: "Hanhowuz"
 hasan kuli: 
-  city: hasan kuli
-  accentcity: Hasan Kuli
+  city: "hasan kuli"
+  accentcity: "Hasan Kuli"
 hasan-kuli: 
-  city: hasan-kuli
-  accentcity: Hasan-Kuli
+  city: "hasan-kuli"
+  accentcity: "Hasan-Kuli"
 hasan quili: 
-  city: hasan quili
-  accentcity: Hasan Quili
+  city: "hasan quili"
+  accentcity: "Hasan Quili"
 hawdan: 
-  city: hawdan
-  accentcity: Hawdan
+  city: "hawdan"
+  accentcity: "Hawdan"
 herrikgala: 
-  city: herrikgala
-  accentcity: Herrikgala
+  city: "herrikgala"
+  accentcity: "Herrikgala"
 hojambaz: 
-  city: hojambaz
-  accentcity: Hojambaz
+  city: "hojambaz"
+  accentcity: "Hojambaz"
 il'chik: 
-  city: il'chik
-  accentcity: Il'chik
+  city: "il'chik"
+  accentcity: "Il'chik"
 il'dzhik: 
-  city: il'dzhik
-  accentcity: Il'dzhik
+  city: "il'dzhik"
+  accentcity: "Il'dzhik"
 ilen: 
-  city: ilen
-  accentcity: Ilen
+  city: "ilen"
+  accentcity: "Ilen"
 ilidzha: 
-  city: ilidzha
-  accentcity: Ilidzha
+  city: "ilidzha"
+  accentcity: "Ilidzha"
 iljik: 
-  city: iljik
-  accentcity: Iljik
+  city: "iljik"
+  accentcity: "Iljik"
 il'mak: 
-  city: il'mak
-  accentcity: Il'mak
+  city: "il'mak"
+  accentcity: "Il'mak"
 ilyach: 
-  city: ilyach
-  accentcity: Ilyach
+  city: "ilyach"
+  accentcity: "Ilyach"
 il'yaly: 
-  city: il'yaly
-  accentcity: Il'yaly
+  city: "il'yaly"
+  accentcity: "Il'yaly"
 ilyanli: 
-  city: ilyanli
-  accentcity: Ilyanli
+  city: "ilyanli"
+  accentcity: "Ilyanli"
 ilyari: 
-  city: ilyari
-  accentcity: Ilyari
+  city: "ilyari"
+  accentcity: "Ilyari"
 imambaba: 
-  city: imambaba
-  accentcity: Imambaba
+  city: "imambaba"
+  accentcity: "Imambaba"
 imamnazar: 
-  city: imamnazar
-  accentcity: Imamnazar
+  city: "imamnazar"
+  accentcity: "Imamnazar"
 iman baba: 
-  city: iman baba
-  accentcity: Iman Baba
+  city: "iman baba"
+  accentcity: "Iman Baba"
 imeni andreyeva a. a.: 
-  city: imeni andreyeva a. a.
-  accentcity: Imeni Andreyeva A. A.
+  city: "imeni andreyeva a. a."
+  accentcity: "Imeni Andreyeva A. A."
 imeni andreyeva: 
-  city: imeni andreyeva
-  accentcity: Imeni Andreyeva
+  city: "imeni andreyeva"
+  accentcity: "Imeni Andreyeva"
 imeni-bakinshikh komissarov: 
-  city: imeni-bakinshikh komissarov
-  accentcity: Imeni-Bakinshikh Komissarov
+  city: "imeni-bakinshikh komissarov"
+  accentcity: "Imeni-Bakinshikh Komissarov"
 imeni budennogo: 
-  city: imeni budennogo
-  accentcity: "Imeni Bud\xC3\xABnnogo"
+  city: "imeni budennogo"
+  accentcity: "Imeni Budënnogo"
 imeni chapayeva: 
-  city: imeni chapayeva
-  accentcity: Imeni Chapayeva
+  city: "imeni chapayeva"
+  accentcity: "Imeni Chapayeva"
 imeni chkalova: 
-  city: imeni chkalova
-  accentcity: Imeni Chkalova
+  city: "imeni chkalova"
+  accentcity: "Imeni Chkalova"
 imeni chubina: 
-  city: imeni chubina
-  accentcity: Imeni Chubina
+  city: "imeni chubina"
+  accentcity: "Imeni Chubina"
 imeni dimitrova: 
-  city: imeni dimitrova
-  accentcity: Imeni Dimitrova
+  city: "imeni dimitrova"
+  accentcity: "Imeni Dimitrova"
 imeni dvadtsati shesti bakinskikh komissarov: 
-  city: imeni dvadtsati shesti bakinskikh komissarov
-  accentcity: Imeni Dvadtsati Shesti Bakinskikh Komissarov
+  city: "imeni dvadtsati shesti bakinskikh komissarov"
+  accentcity: "Imeni Dvadtsati Shesti Bakinskikh Komissarov"
 imeni dzerzhinskogo: 
-  city: imeni dzerzhinskogo
-  accentcity: Imeni Dzerzhinskogo
+  city: "imeni dzerzhinskogo"
+  accentcity: "Imeni Dzerzhinskogo"
 imeni engel'sa: 
-  city: imeni engel'sa
-  accentcity: Imeni Engel'sa
+  city: "imeni engel'sa"
+  accentcity: "Imeni Engel'sa"
 imeni gorel'de: 
-  city: imeni gorel'de
-  accentcity: Imeni Gorel'de
+  city: "imeni gorel'de"
+  accentcity: "Imeni Gorel'de"
 imeni gor'kogo: 
-  city: imeni gor'kogo
-  accentcity: Imeni Gor'kogo
+  city: "imeni gor'kogo"
+  accentcity: "Imeni Gor'kogo"
 imeni il'icha: 
-  city: imeni il'icha
-  accentcity: Imeni Il'icha
+  city: "imeni il'icha"
+  accentcity: "Imeni Il'icha"
 imeni kaganovicha: 
-  city: imeni kaganovicha
-  accentcity: Imeni Kaganovicha
+  city: "imeni kaganovicha"
+  accentcity: "Imeni Kaganovicha"
 imeni kalinina: 
-  city: imeni kalinina
-  accentcity: Imeni Kalinina
+  city: "imeni kalinina"
+  accentcity: "Imeni Kalinina"
 imeni karla marksa: 
-  city: imeni karla marksa
-  accentcity: Imeni Karla Marksa
+  city: "imeni karla marksa"
+  accentcity: "Imeni Karla Marksa"
 imeni kirova: 
-  city: imeni kirova
-  accentcity: Imeni Kirova
+  city: "imeni kirova"
+  accentcity: "Imeni Kirova"
 imeni komsomola: 
-  city: imeni komsomola
-  accentcity: Imeni Komsomola
+  city: "imeni komsomola"
+  accentcity: "Imeni Komsomola"
 imeni kuybysheva: 
-  city: imeni kuybysheva
-  accentcity: Imeni Kuybysheva
+  city: "imeni kuybysheva"
+  accentcity: "Imeni Kuybysheva"
 imeni lenina: 
-  city: imeni lenina
-  accentcity: Imeni Lenina
+  city: "imeni lenina"
+  accentcity: "Imeni Lenina"
 imeni malenkova: 
-  city: imeni malenkova
-  accentcity: Imeni Malenkova
+  city: "imeni malenkova"
+  accentcity: "Imeni Malenkova"
 imeni mikoyana: 
-  city: imeni mikoyana
-  accentcity: Imeni Mikoyana
+  city: "imeni mikoyana"
+  accentcity: "Imeni Mikoyana"
 imeni molotova: 
-  city: imeni molotova
-  accentcity: Imeni Molotova
+  city: "imeni molotova"
+  accentcity: "Imeni Molotova"
 imeni ordzhonikidze: 
-  city: imeni ordzhonikidze
-  accentcity: Imeni Ordzhonikidze
+  city: "imeni ordzhonikidze"
+  accentcity: "Imeni Ordzhonikidze"
 imeni ovezberdy kuliyeva: 
-  city: imeni ovezberdy kuliyeva
-  accentcity: Imeni Ovezberdy Kuliyeva
+  city: "imeni ovezberdy kuliyeva"
+  accentcity: "Imeni Ovezberdy Kuliyeva"
 imeni politotdela: 
-  city: imeni politotdela
-  accentcity: Imeni Politotdela
+  city: "imeni politotdela"
+  accentcity: "Imeni Politotdela"
 imeni poltoratskogo: 
-  city: imeni poltoratskogo
-  accentcity: Imeni Poltoratskogo
+  city: "imeni poltoratskogo"
+  accentcity: "Imeni Poltoratskogo"
 imeni revolyutsii: 
-  city: imeni revolyutsii
-  accentcity: Imeni Revolyutsii
+  city: "imeni revolyutsii"
+  accentcity: "Imeni Revolyutsii"
 imeni shvernika: 
-  city: imeni shvernika
-  accentcity: Imeni Shvernika
+  city: "imeni shvernika"
+  accentcity: "Imeni Shvernika"
 imeni stakhanova: 
-  city: imeni stakhanova
-  accentcity: Imeni Stakhanova
+  city: "imeni stakhanova"
+  accentcity: "Imeni Stakhanova"
 imeni stalina: 
-  city: imeni stalina
-  accentcity: Imeni Stalina
+  city: "imeni stalina"
+  accentcity: "Imeni Stalina"
 imeni tel'mana: 
-  city: imeni tel'mana
-  accentcity: Imeni Tel'mana
+  city: "imeni tel'mana"
+  accentcity: "Imeni Tel'mana"
 imeni voroshilova: 
-  city: imeni voroshilova
-  accentcity: Imeni Voroshilova
+  city: "imeni voroshilova"
+  accentcity: "Imeni Voroshilova"
 imeni vos'mogo marta: 
-  city: imeni vos'mogo marta
-  accentcity: Imeni Vos'mogo Marta
+  city: "imeni vos'mogo marta"
+  accentcity: "Imeni Vos'mogo Marta"
 imeni vyshinskogo: 
-  city: imeni vyshinskogo
-  accentcity: Imeni Vyshinskogo
+  city: "imeni vyshinskogo"
+  accentcity: "Imeni Vyshinskogo"
 imeni zhdanova: 
-  city: imeni zhdanova
-  accentcity: Imeni Zhdanova
+  city: "imeni zhdanova"
+  accentcity: "Imeni Zhdanova"
 ina-bek: 
-  city: ina-bek
-  accentcity: Ina-Bek
+  city: "ina-bek"
+  accentcity: "Ina-Bek"
 inderlen: 
-  city: inderlen
-  accentcity: Inderlen
+  city: "inderlen"
+  accentcity: "Inderlen"
 inklab: 
-  city: inklab
-  accentcity: Inklab
+  city: "inklab"
+  accentcity: "Inklab"
 inkylap: 
-  city: inkylap
-  accentcity: Inkylap
+  city: "inkylap"
+  accentcity: "Inkylap"
 internatsional: 
-  city: internatsional
-  accentcity: Internatsional
+  city: "internatsional"
+  accentcity: "Internatsional"
 intush: 
-  city: intush
-  accentcity: Intush
+  city: "intush"
+  accentcity: "Intush"
 iolotan': 
-  city: iolotan'
-  accentcity: Iolotan'
+  city: "iolotan'"
+  accentcity: "Iolotan'"
 irkli: 
-  city: irkli
-  accentcity: Irkli
+  city: "irkli"
+  accentcity: "Irkli"
 isamli: 
-  city: isamli
-  accentcity: Isamli
+  city: "isamli"
+  accentcity: "Isamli"
 isem menli: 
-  city: isem menli
-  accentcity: Isem Menli
+  city: "isem menli"
+  accentcity: "Isem Menli"
 isen-menli: 
-  city: isen-menli
-  accentcity: Isen-Menli
+  city: "isen-menli"
+  accentcity: "Isen-Menli"
 ish-bay: 
-  city: ish-bay
-  accentcity: Ish-Bay
+  city: "ish-bay"
+  accentcity: "Ish-Bay"
 ishik-bay: 
-  city: ishik-bay
-  accentcity: Ishik-Bay
+  city: "ishik-bay"
+  accentcity: "Ishik-Bay"
 ishikhbay: 
-  city: ishikhbay
-  accentcity: Ishikhbay
+  city: "ishikhbay"
+  accentcity: "Ishikhbay"
 iski-farab: 
-  city: iski-farab
-  accentcity: Iski-Farab
+  city: "iski-farab"
+  accentcity: "Iski-Farab"
 iskra: 
-  city: iskra
-  accentcity: Iskra
+  city: "iskra"
+  accentcity: "Iskra"
 islam: 
-  city: islam
-  accentcity: Islam
+  city: "islam"
+  accentcity: "Islam"
 islim-cheshme: 
-  city: islim-cheshme
-  accentcity: Islim-Cheshme
+  city: "islim-cheshme"
+  accentcity: "Islim-Cheshme"
 ispas: 
-  city: ispas
-  accentcity: Ispas
+  city: "ispas"
+  accentcity: "Ispas"
 ispaz: 
-  city: ispaz
-  accentcity: Ispaz
+  city: "ispaz"
+  accentcity: "Ispaz"
 ispos: 
-  city: ispos
-  accentcity: Ispos
+  city: "ispos"
+  accentcity: "Ispos"
 isrikkala: 
-  city: isrikkala
-  accentcity: Isrikkala
+  city: "isrikkala"
+  accentcity: "Isrikkala"
 ist pas: 
-  city: ist pas
-  accentcity: Ist Pas
+  city: "ist pas"
+  accentcity: "Ist Pas"
 itbash: 
-  city: itbash
-  accentcity: Itbash
+  city: "itbash"
+  accentcity: "Itbash"
 iyanli: 
-  city: iyanli
-  accentcity: Iyanli
+  city: "iyanli"
+  accentcity: "Iyanli"
 iyerbent: 
-  city: iyerbent
-  accentcity: Iyerbent
+  city: "iyerbent"
+  accentcity: "Iyerbent"
 iyuz: 
-  city: iyuz
-  accentcity: Iyuz
+  city: "iyuz"
+  accentcity: "Iyuz"
 izgant: 
-  city: izgant
-  accentcity: Izgant
+  city: "izgant"
+  accentcity: "Izgant"
 janakhor: 
-  city: janakhor
-  accentcity: Janakhor
+  city: "janakhor"
+  accentcity: "Janakhor"
 jangnga: 
-  city: jangnga
-  accentcity: Jangnga
+  city: "jangnga"
+  accentcity: "Jangnga"
 jebel: 
-  city: jebel
-  accentcity: Jebel
+  city: "jebel"
+  accentcity: "Jebel"
 jeyhun: 
-  city: jeyhun
+  city: "jeyhun"
   accentcity: "Je\xC3\xBDhun"
 kaakhka: 
-  city: kaakhka
-  accentcity: Kaakhka
+  city: "kaakhka"
+  accentcity: "Kaakhka"
 kabakli: 
-  city: kabakli
-  accentcity: Kabakli
+  city: "kabakli"
+  accentcity: "Kabakli"
 kabakly: 
-  city: kabakly
-  accentcity: Kabakly
+  city: "kabakly"
+  accentcity: "Kabakly"
 kabakly-kurgan: 
-  city: kabakly-kurgan
-  accentcity: Kabakly-Kurgan
+  city: "kabakly-kurgan"
+  accentcity: "Kabakly-Kurgan"
 kabakly-tugay: 
-  city: kabakly-tugay
-  accentcity: Kabakly-Tugay
+  city: "kabakly-tugay"
+  accentcity: "Kabakly-Tugay"
 kabasakal: 
-  city: kabasakal
-  accentcity: Kabasakal
+  city: "kabasakal"
+  accentcity: "Kabasakal"
 kabil': 
-  city: kabil'
-  accentcity: Kabil'
+  city: "kabil'"
+  accentcity: "Kabil'"
 kabyl: 
-  city: kabyl
-  accentcity: Kabyl
+  city: "kabyl"
+  accentcity: "Kabyl"
 kabyl': 
-  city: kabyl'
-  accentcity: Kabyl'
+  city: "kabyl'"
+  accentcity: "Kabyl'"
 kaganovichesk: 
-  city: kaganovichesk
-  accentcity: Kaganovichesk
+  city: "kaganovichesk"
+  accentcity: "Kaganovichesk"
 kaka: 
-  city: kaka
-  accentcity: Kaka
+  city: "kaka"
+  accentcity: "Kaka"
 kala-i-mor: 
-  city: kala-i-mor
-  accentcity: Kala-I-Mor
+  city: "kala-i-mor"
+  accentcity: "Kala-I-Mor"
 kala: 
-  city: kala
-  accentcity: Kala
+  city: "kala"
+  accentcity: "Kala"
 kalankui: 
-  city: kalankui
-  accentcity: Kalankui
+  city: "kalankui"
+  accentcity: "Kalankui"
 kalan kuyu: 
-  city: kalan kuyu
-  accentcity: Kalan Kuyu
+  city: "kalan kuyu"
+  accentcity: "Kalan Kuyu"
 kalaymor: 
-  city: kalaymor
+  city: "kalaymor"
   accentcity: "Kala\xC3\xBDmor"
 kalinikskiy: 
-  city: kalinikskiy
-  accentcity: Kalinikskiy
+  city: "kalinikskiy"
+  accentcity: "Kalinikskiy"
 kalinina: 
-  city: kalinina
-  accentcity: Kalinina
+  city: "kalinina"
+  accentcity: "Kalinina"
 kalinin: 
-  city: kalinin
-  accentcity: Kalinin
+  city: "kalinin"
+  accentcity: "Kalinin"
 kalininskiy: 
-  city: kalininskiy
-  accentcity: Kalininskiy
+  city: "kalininskiy"
+  accentcity: "Kalininskiy"
 kalininsk: 
-  city: kalininsk
-  accentcity: Kalininsk
+  city: "kalininsk"
+  accentcity: "Kalininsk"
 kalyam: 
-  city: kalyam
-  accentcity: Kalyam
+  city: "kalyam"
+  accentcity: "Kalyam"
 kamyshaldzhar: 
-  city: kamyshaldzhar
-  accentcity: Kamyshaldzhar
+  city: "kamyshaldzhar"
+  accentcity: "Kamyshaldzhar"
 kamyshdzhik: 
-  city: kamyshdzhik
-  accentcity: Kamyshdzhik
+  city: "kamyshdzhik"
+  accentcity: "Kamyshdzhik"
 kamyshlydzha: 
-  city: kamyshlydzha
-  accentcity: Kamyshlydzha
+  city: "kamyshlydzha"
+  accentcity: "Kamyshlydzha"
 kanav: 
-  city: kanav
-  accentcity: Kanav
+  city: "kanav"
+  accentcity: "Kanav"
 kandak: 
-  city: kandak
-  accentcity: Kandak
+  city: "kandak"
+  accentcity: "Kandak"
 kandykli: 
-  city: kandykli
-  accentcity: Kandykli
+  city: "kandykli"
+  accentcity: "Kandykli"
 kanshar: 
-  city: kanshar
-  accentcity: Kanshar
+  city: "kanshar"
+  accentcity: "Kanshar"
 kapakly: 
-  city: kapakly
-  accentcity: Kapakly
+  city: "kapakly"
+  accentcity: "Kapakly"
 kaplanli: 
-  city: kaplanli
-  accentcity: Kaplanli
+  city: "kaplanli"
+  accentcity: "Kaplanli"
 karaadzhi: 
-  city: karaadzhi
-  accentcity: Karaadzhi
+  city: "karaadzhi"
+  accentcity: "Karaadzhi"
 kara-agach: 
-  city: kara-agach
-  accentcity: Kara-Agach
+  city: "kara-agach"
+  accentcity: "Kara-Agach"
 kara-akhmet: 
-  city: kara-akhmet
-  accentcity: Kara-Akhmet
+  city: "kara-akhmet"
+  accentcity: "Kara-Akhmet"
 karaaygyr: 
-  city: karaaygyr
-  accentcity: Karaaygyr
+  city: "karaaygyr"
+  accentcity: "Karaaygyr"
 karaba-akhun: 
-  city: karaba-akhun
-  accentcity: Karaba-Akhun
+  city: "karaba-akhun"
+  accentcity: "Karaba-Akhun"
 karabagadzha: 
-  city: karabagadzha
-  accentcity: Karabagadzha
+  city: "karabagadzha"
+  accentcity: "Karabagadzha"
 karabagadzhe: 
-  city: karabagadzhe
-  accentcity: Karabagadzhe
+  city: "karabagadzhe"
+  accentcity: "Karabagadzhe"
 karabakshi: 
-  city: karabakshi
-  accentcity: Karabakshi
+  city: "karabakshi"
+  accentcity: "Karabakshi"
 kara-bashlyk: 
-  city: kara-bashlyk
-  accentcity: Kara-Bashlyk
+  city: "kara-bashlyk"
+  accentcity: "Kara-Bashlyk"
 karabekaul: 
-  city: karabekaul
-  accentcity: Karabekaul
+  city: "karabekaul"
+  accentcity: "Karabekaul"
 karabizan: 
-  city: karabizan
-  accentcity: Karabizan
+  city: "karabizan"
+  accentcity: "Karabizan"
 kara-bogaz-gol: 
-  city: kara-bogaz-gol
-  accentcity: Kara-Bogaz-Gol
+  city: "kara-bogaz-gol"
+  accentcity: "Kara-Bogaz-Gol"
 kara-bogaz: 
-  city: kara-bogaz
-  accentcity: Kara-Bogaz
+  city: "kara-bogaz"
+  accentcity: "Kara-Bogaz"
 karabogaz: 
-  city: karabogaz
-  accentcity: Karabogaz
+  city: "karabogaz"
+  accentcity: "Karabogaz"
 kara-boyen: 
-  city: kara-boyen
-  accentcity: Kara-Boyen
+  city: "kara-boyen"
+  accentcity: "Kara-Boyen"
 kara-bugas-gol: 
-  city: kara-bugas-gol
-  accentcity: Kara-Bugas-Gol
+  city: "kara-bugas-gol"
+  accentcity: "Kara-Bugas-Gol"
 kara-bugaz: 
-  city: kara-bugaz
-  accentcity: Kara-Bugaz
+  city: "kara-bugaz"
+  accentcity: "Kara-Bugaz"
 karabulak: 
-  city: karabulak
-  accentcity: Karabulak
+  city: "karabulak"
+  accentcity: "Karabulak"
 kara-chapan: 
-  city: kara-chapan
-  accentcity: Kara-Chapan
+  city: "kara-chapan"
+  accentcity: "Kara-Chapan"
 kara-chep: 
-  city: kara-chep
-  accentcity: Kara-Chep
+  city: "kara-chep"
+  accentcity: "Kara-Chep"
 kara-chirla: 
-  city: kara-chirla
-  accentcity: Kara-Chirla
+  city: "kara-chirla"
+  accentcity: "Kara-Chirla"
 karadamak: 
-  city: karadamak
-  accentcity: Karadamak
+  city: "karadamak"
+  accentcity: "Karadamak"
 karadashli: 
-  city: karadashli
-  accentcity: Karadashli
+  city: "karadashli"
+  accentcity: "Karadashli"
 karadegish: 
-  city: karadegish
-  accentcity: Karadegish
+  city: "karadegish"
+  accentcity: "Karadegish"
 karadepe: 
-  city: karadepe
-  accentcity: Karadepe
+  city: "karadepe"
+  accentcity: "Karadepe"
 karadetish: 
-  city: karadetish
-  accentcity: Karadetish
+  city: "karadetish"
+  accentcity: "Karadetish"
 karadzha-batyr: 
-  city: karadzha-batyr
-  accentcity: Karadzha-Batyr
+  city: "karadzha-batyr"
+  accentcity: "Karadzha-Batyr"
 karadzha: 
-  city: karadzha
-  accentcity: Karadzha
+  city: "karadzha"
+  accentcity: "Karadzha"
 karadzhary: 
-  city: karadzhary
-  accentcity: Karadzhary
+  city: "karadzhary"
+  accentcity: "Karadzhary"
 kara-dzhik: 
-  city: kara-dzhik
-  accentcity: Kara-Dzhik
+  city: "kara-dzhik"
+  accentcity: "Kara-Dzhik"
 kara-dzhin: 
-  city: kara-dzhin
-  accentcity: Kara-Dzhin
+  city: "kara-dzhin"
+  accentcity: "Kara-Dzhin"
 karagan: 
-  city: karagan
-  accentcity: Karagan
+  city: "karagan"
+  accentcity: "Karagan"
 karagel: 
-  city: karagel
-  accentcity: Karagel
+  city: "karagel"
+  accentcity: "Karagel"
 karagel': 
-  city: karagel'
-  accentcity: "Karag\xC3\xABl'"
+  city: "karagel'"
+  accentcity: "Karagël'"
 karagez: 
-  city: karagez
-  accentcity: "Karag\xC3\xABz"
+  city: "karagez"
+  accentcity: "Karagëz"
 kara-govok: 
-  city: kara-govok
-  accentcity: Kara-Govok
+  city: "kara-govok"
+  accentcity: "Kara-Govok"
 kara-kala: 
-  city: kara-kala
-  accentcity: Kara-Kala
+  city: "kara-kala"
+  accentcity: "Kara-Kala"
 karakel: 
-  city: karakel
-  accentcity: "Karak\xC3\xABl"
+  city: "karakel"
+  accentcity: "Karakël"
 kara-ker: 
-  city: kara-ker
-  accentcity: Kara-Ker
+  city: "kara-ker"
+  accentcity: "Kara-Ker"
 karakhandere: 
-  city: karakhandere
-  accentcity: Karakhandere
+  city: "karakhandere"
+  accentcity: "Karakhandere"
 karakhan: 
-  city: karakhan
-  accentcity: Karakhan
+  city: "karakhan"
+  accentcity: "Karakhan"
 karakhauz: 
-  city: karakhauz
-  accentcity: Karakhauz
+  city: "karakhauz"
+  accentcity: "Karakhauz"
 karakhodzha: 
-  city: karakhodzha
-  accentcity: Karakhodzha
+  city: "karakhodzha"
+  accentcity: "Karakhodzha"
 karakongur: 
-  city: karakongur
-  accentcity: Karakongur
+  city: "karakongur"
+  accentcity: "Karakongur"
 kara-kuli: 
-  city: kara-kuli
-  accentcity: Kara-Kuli
+  city: "kara-kuli"
+  accentcity: "Kara-Kuli"
 karakul': 
-  city: karakul'
-  accentcity: Karakul'
+  city: "karakul'"
+  accentcity: "Karakul'"
 kara-kungur: 
-  city: kara-kungur
-  accentcity: Kara-Kungur
+  city: "kara-kungur"
+  accentcity: "Kara-Kungur"
 kara-kuri: 
-  city: kara-kuri
-  accentcity: Kara-Kuri
+  city: "kara-kuri"
+  accentcity: "Kara-Kuri"
 karamakhmud: 
-  city: karamakhmud
-  accentcity: Karamakhmud
+  city: "karamakhmud"
+  accentcity: "Karamakhmud"
 karaman: 
-  city: karaman
-  accentcity: Karaman
+  city: "karaman"
+  accentcity: "Karaman"
 karaman pervyy: 
-  city: karaman pervyy
-  accentcity: Karaman Pervyy
+  city: "karaman pervyy"
+  accentcity: "Karaman Pervyy"
 karaman vtoroy: 
-  city: karaman vtoroy
-  accentcity: Karaman Vtoroy
+  city: "karaman vtoroy"
+  accentcity: "Karaman Vtoroy"
 karamet-niyaz: 
-  city: karamet-niyaz
-  accentcity: Karamet-Niyaz
+  city: "karamet-niyaz"
+  accentcity: "Karamet-Niyaz"
 karamysh: 
-  city: karamysh
-  accentcity: Karamysh
+  city: "karamysh"
+  accentcity: "Karamysh"
 karanki: 
-  city: karanki
-  accentcity: Karanki
+  city: "karanki"
+  accentcity: "Karanki"
 kara-nungur: 
-  city: kara-nungur
-  accentcity: Kara-Nungur
+  city: "kara-nungur"
+  accentcity: "Kara-Nungur"
 kara-nuri: 
-  city: kara-nuri
-  accentcity: Kara-Nuri
+  city: "kara-nuri"
+  accentcity: "Kara-Nuri"
 karaparsan: 
-  city: karaparsan
-  accentcity: Karaparsan
+  city: "karaparsan"
+  accentcity: "Karaparsan"
 kararyk: 
-  city: kararyk
-  accentcity: Kararyk
+  city: "kararyk"
+  accentcity: "Kararyk"
 karasengir: 
-  city: karasengir
-  accentcity: Karasengir
+  city: "karasengir"
+  accentcity: "Karasengir"
 kara-singer: 
-  city: kara-singer
-  accentcity: Kara-Singer
+  city: "kara-singer"
+  accentcity: "Kara-Singer"
 kara-sukut: 
-  city: kara-sukut
-  accentcity: Kara-Sukut
+  city: "kara-sukut"
+  accentcity: "Kara-Sukut"
 karatamak: 
-  city: karatamak
-  accentcity: Karatamak
+  city: "karatamak"
+  accentcity: "Karatamak"
 karategyan: 
-  city: karategyan
-  accentcity: Karategyan
+  city: "karategyan"
+  accentcity: "Karategyan"
 kara-tepe: 
-  city: kara-tepe
-  accentcity: Kara-Tepe
+  city: "kara-tepe"
+  accentcity: "Kara-Tepe"
 karatomak: 
-  city: karatomak
-  accentcity: Karatomak
+  city: "karatomak"
+  accentcity: "Karatomak"
 kara-tut: 
-  city: kara-tut
-  accentcity: Kara-Tut
+  city: "kara-tut"
+  accentcity: "Kara-Tut"
 karaulak: 
-  city: karaulak
-  accentcity: Karaulak
+  city: "karaulak"
+  accentcity: "Karaulak"
 karaul: 
-  city: karaul
-  accentcity: Karaul
+  city: "karaul"
+  accentcity: "Karaul"
 karaul-khana: 
-  city: karaul-khana
-  accentcity: Karaul-Khana
+  city: "karaul-khana"
+  accentcity: "Karaul-Khana"
 karaul-kuyu: 
-  city: karaul-kuyu
-  accentcity: Karaul-Kuyu
+  city: "karaul-kuyu"
+  accentcity: "Karaul-Kuyu"
 kara-vakil' pervyy: 
-  city: kara-vakil' pervyy
-  accentcity: Kara-Vakil' Pervyy
+  city: "kara-vakil' pervyy"
+  accentcity: "Kara-Vakil' Pervyy"
 kara-vakil' vtoroy: 
-  city: kara-vakil' vtoroy
-  accentcity: Kara-Vakil' Vtoroy
+  city: "kara-vakil' vtoroy"
+  accentcity: "Kara-Vakil' Vtoroy"
 karavikil' pervyy: 
-  city: karavikil' pervyy
-  accentcity: Karavikil' Pervyy
+  city: "karavikil' pervyy"
+  accentcity: "Karavikil' Pervyy"
 karavikil' vtory: 
-  city: karavikil' vtory
-  accentcity: Karavikil' Vtory
+  city: "karavikil' vtory"
+  accentcity: "Karavikil' Vtory"
 kara-yab pervyy: 
-  city: kara-yab pervyy
-  accentcity: Kara-Yab Pervyy
+  city: "kara-yab pervyy"
+  accentcity: "Kara-Yab Pervyy"
 kara-yab tretiy: 
-  city: kara-yab tretiy
-  accentcity: Kara-Yab Tretiy
+  city: "kara-yab tretiy"
+  accentcity: "Kara-Yab Tretiy"
 kara-yab vtoroy: 
-  city: kara-yab vtoroy
-  accentcity: Kara-Yab Vtoroy
+  city: "kara-yab vtoroy"
+  accentcity: "Kara-Yab Vtoroy"
 karkinadzhi: 
-  city: karkinadzhi
-  accentcity: Karkinadzhi
+  city: "karkinadzhi"
+  accentcity: "Karkinadzhi"
 karkin: 
-  city: karkin
-  accentcity: Karkin
+  city: "karkin"
+  accentcity: "Karkin"
 karlyuk: 
-  city: karlyuk
-  accentcity: Karlyuk
+  city: "karlyuk"
+  accentcity: "Karlyuk"
 karlyukski: 
-  city: karlyukski
-  accentcity: Karlyukski
+  city: "karlyukski"
+  accentcity: "Karlyukski"
 karnas: 
-  city: karnas
-  accentcity: Karnas
+  city: "karnas"
+  accentcity: "Karnas"
 karry bent: 
-  city: karry bent
-  accentcity: Karry Bent
+  city: "karry bent"
+  accentcity: "Karry Bent"
 karry-cherlya: 
-  city: karry-cherlya
-  accentcity: Karry-Cherlya
+  city: "karry-cherlya"
+  accentcity: "Karry-Cherlya"
 karrychirla: 
-  city: karrychirla
-  accentcity: Karrychirla
+  city: "karrychirla"
+  accentcity: "Karrychirla"
 karshi: 
-  city: karshi
-  accentcity: Karshi
+  city: "karshi"
+  accentcity: "Karshi"
 kary-bent: 
-  city: kary-bent
-  accentcity: Kary-Bent
+  city: "kary-bent"
+  accentcity: "Kary-Bent"
 kary-chirla: 
-  city: kary-chirla
-  accentcity: Kary-Chirla
+  city: "kary-chirla"
+  accentcity: "Kary-Chirla"
 kary-khodzha-ata: 
-  city: kary-khodzha-ata
-  accentcity: Kary-Khodzha-Ata
+  city: "kary-khodzha-ata"
+  accentcity: "Kary-Khodzha-Ata"
 kary-khodzha: 
-  city: kary-khodzha
-  accentcity: Kary-Khodzha
+  city: "kary-khodzha"
+  accentcity: "Kary-Khodzha"
 kasandshik: 
-  city: kasandshik
-  accentcity: Kasandshik
+  city: "kasandshik"
+  accentcity: "Kasandshik"
 kashgarskiy: 
-  city: kashgarskiy
-  accentcity: Kashgarskiy
+  city: "kashgarskiy"
+  accentcity: "Kashgarskiy"
 kashtarskiy: 
-  city: kashtarskiy
-  accentcity: Kashtarskiy
+  city: "kashtarskiy"
+  accentcity: "Kashtarskiy"
 kata-kara-tut: 
-  city: kata-kara-tut
-  accentcity: Kata-kara-Tut
+  city: "kata-kara-tut"
+  accentcity: "Kata-kara-Tut"
 katta-sopiyab: 
-  city: katta-sopiyab
-  accentcity: Katta-Sopiyab
+  city: "katta-sopiyab"
+  accentcity: "Katta-Sopiyab"
 kaushek-kyzyltakyr: 
-  city: kaushek-kyzyltakyr
-  accentcity: Kaushek-Kyzyltakyr
+  city: "kaushek-kyzyltakyr"
+  accentcity: "Kaushek-Kyzyltakyr"
 kaushut-bent: 
-  city: kaushut-bent
-  accentcity: Kaushut-Bent
+  city: "kaushut-bent"
+  accentcity: "Kaushut-Bent"
 kaushut: 
-  city: kaushut
-  accentcity: Kaushut
+  city: "kaushut"
+  accentcity: "Kaushut"
 kausy: 
-  city: kausy
-  accentcity: Kausy
+  city: "kausy"
+  accentcity: "Kausy"
 kavakhly: 
-  city: kavakhly
-  accentcity: Kavakhly
+  city: "kavakhly"
+  accentcity: "Kavakhly"
 kavakhly-kurgan: 
-  city: kavakhly-kurgan
-  accentcity: Kavakhly-Kurgan
+  city: "kavakhly-kurgan"
+  accentcity: "Kavakhly-Kurgan"
 kavakly-kurgan: 
-  city: kavakly-kurgan
-  accentcity: Kavakly-Kurgan
+  city: "kavakly-kurgan"
+  accentcity: "Kavakly-Kurgan"
 kayli: 
-  city: kayli
-  accentcity: Kayli
+  city: "kayli"
+  accentcity: "Kayli"
 kayrayuz: 
-  city: kayrayuz
-  accentcity: Kayrayuz
+  city: "kayrayuz"
+  accentcity: "Kayrayuz"
 kazandzhi: 
-  city: kazandzhi
-  accentcity: Kazandzhi
+  city: "kazandzhi"
+  accentcity: "Kazandzhi"
 kazandzhik: 
-  city: kazandzhik
-  accentcity: Kazandzhik
+  city: "kazandzhik"
+  accentcity: "Kazandzhik"
 kazanjik: 
-  city: kazanjik
-  accentcity: Kazanjik
+  city: "kazanjik"
+  accentcity: "Kazanjik"
 kazarma: 
-  city: kazarma
-  accentcity: Kazarma
+  city: "kazarma"
+  accentcity: "Kazarma"
 kazgankala: 
-  city: kazgankala
-  accentcity: Kazgankala
+  city: "kazgankala"
+  accentcity: "Kazgankala"
 kazy: 
-  city: kazy
-  accentcity: Kazy
+  city: "kazy"
+  accentcity: "Kazy"
 kazylyar: 
-  city: kazylyar
-  accentcity: Kazylyar
+  city: "kazylyar"
+  accentcity: "Kazylyar"
 keikchi: 
-  city: keikchi
-  accentcity: Keikchi
+  city: "keikchi"
+  accentcity: "Keikchi"
 keladzhar: 
-  city: keladzhar
-  accentcity: Keladzhar
+  city: "keladzhar"
+  accentcity: "Keladzhar"
 kel'-bash: 
-  city: kel'-bash
-  accentcity: Kel'-Bash
+  city: "kel'-bash"
+  accentcity: "Kel'-Bash"
 kel'dy: 
-  city: kel'dy
-  accentcity: Kel'dy
+  city: "kel'dy"
+  accentcity: "Kel'dy"
 keleft: 
-  city: keleft
-  accentcity: Keleft
+  city: "keleft"
+  accentcity: "Keleft"
 keleli vtoroy: 
-  city: keleli vtoroy
-  accentcity: Keleli Vtoroy
+  city: "keleli vtoroy"
+  accentcity: "Keleli Vtoroy"
 keleyazhar: 
-  city: keleyazhar
-  accentcity: Keleyazhar
+  city: "keleyazhar"
+  accentcity: "Keleyazhar"
 kelif: 
-  city: kelif
-  accentcity: Kelif
+  city: "kelif"
+  accentcity: "Kelif"
 kel'teshor: 
-  city: kel'teshor
-  accentcity: Kel'teshor
+  city: "kel'teshor"
+  accentcity: "Kel'teshor"
 kelyadzhi: 
-  city: kelyadzhi
-  accentcity: Kelyadzhi
+  city: "kelyadzhi"
+  accentcity: "Kelyadzhi"
 kelyata: 
-  city: kelyata
-  accentcity: Kelyata
+  city: "kelyata"
+  accentcity: "Kelyata"
 kelyazyar: 
-  city: kelyazyar
-  accentcity: Kelyazyar
+  city: "kelyazyar"
+  accentcity: "Kelyazyar"
 kendekli: 
-  city: kendekli
-  accentcity: Kendekli
+  city: "kendekli"
+  accentcity: "Kendekli"
 kendikli: 
-  city: kendikli
-  accentcity: Kendikli
+  city: "kendikli"
+  accentcity: "Kendikli"
 kendykly: 
-  city: kendykly
-  accentcity: Kendykly
+  city: "kendykly"
+  accentcity: "Kendykly"
 kenekesir: 
-  city: kenekesir
-  accentcity: "K\xC3\xABnekesir"
+  city: "kenekesir"
+  accentcity: "Kënekesir"
 kenekesyr: 
-  city: kenekesyr
-  accentcity: "K\xC3\xABnekesyr"
+  city: "kenekesyr"
+  accentcity: "Kënekesyr"
 kepekli: 
-  city: kepekli
-  accentcity: Kepekli
+  city: "kepekli"
+  accentcity: "Kepekli"
 kepyata: 
-  city: kepyata
-  accentcity: Kepyata
+  city: "kepyata"
+  accentcity: "Kepyata"
 kergochemen: 
-  city: kergochemen
-  accentcity: Kergochemen
+  city: "kergochemen"
+  accentcity: "Kergochemen"
 kerki-aryk: 
-  city: kerki-aryk
-  accentcity: Kerki-Aryk
+  city: "kerki-aryk"
+  accentcity: "Kerki-Aryk"
 kerkichi: 
-  city: kerkichi
-  accentcity: Kerkichi
+  city: "kerkichi"
+  accentcity: "Kerkichi"
 kerkici: 
-  city: kerkici
-  accentcity: "Kerki\xC3\xA7i"
+  city: "kerkici"
+  accentcity: "Kerkiçi"
 kerki: 
-  city: kerki
-  accentcity: Kerki
+  city: "kerki"
+  accentcity: "Kerki"
 kersagyr: 
-  city: kersagyr
-  accentcity: "K\xC3\xABrsagyr"
+  city: "kersagyr"
+  accentcity: "Kërsagyr"
 kert-yakha: 
-  city: kert-yakha
-  accentcity: Kert-Yakha
+  city: "kert-yakha"
+  accentcity: "Kert-Yakha"
 keseklik: 
-  city: keseklik
-  accentcity: Keseklik
+  city: "keseklik"
+  accentcity: "Keseklik"
 keshi: 
-  city: keshi
-  accentcity: Keshi
+  city: "keshi"
+  accentcity: "Keshi"
 keske: 
-  city: keske
-  accentcity: Keske
+  city: "keske"
+  accentcity: "Keske"
 kessyr: 
-  city: kessyr
-  accentcity: Kessyr
+  city: "kessyr"
+  accentcity: "Kessyr"
 keyikkodana: 
-  city: keyikkodana
-  accentcity: Keyikkodana
+  city: "keyikkodana"
+  accentcity: "Keyikkodana"
 key-kodona: 
-  city: key-kodona
-  accentcity: Key-Kodona
+  city: "key-kodona"
+  accentcity: "Key-Kodona"
 key-kodozh: 
-  city: key-kodozh
-  accentcity: Key-Kodozh
+  city: "key-kodozh"
+  accentcity: "Key-Kodozh"
 khadzhikaraul: 
-  city: khadzhikaraul
-  accentcity: Khadzhikaraul
+  city: "khadzhikaraul"
+  accentcity: "Khadzhikaraul"
 khadzhi-su: 
-  city: khadzhi-su
-  accentcity: Khadzhi-Su
+  city: "khadzhi-su"
+  accentcity: "Khadzhi-Su"
 khadzhykulluk: 
-  city: khadzhykulluk
-  accentcity: Khadzhykulluk
+  city: "khadzhykulluk"
+  accentcity: "Khadzhykulluk"
 khalach: 
-  city: khalach
-  accentcity: Khalach
+  city: "khalach"
+  accentcity: "Khalach"
 khalil'-bukry: 
-  city: khalil'-bukry
-  accentcity: Khalil'-Bukry
+  city: "khalil'-bukry"
+  accentcity: "Khalil'-Bukry"
 khalyal'chilim: 
-  city: khalyal'chilim
-  accentcity: Khalyal'chilim
+  city: "khalyal'chilim"
+  accentcity: "Khalyal'chilim"
 khamay: 
-  city: khamay
-  accentcity: Khamay
+  city: "khamay"
+  accentcity: "Khamay"
 khandak: 
-  city: khandak
-  accentcity: Khandak
+  city: "khandak"
+  accentcity: "Khandak"
 khandakli: 
-  city: khandakli
-  accentcity: Khandakli
+  city: "khandakli"
+  accentcity: "Khandakli"
 khankui: 
-  city: khankui
-  accentcity: Khankui
+  city: "khankui"
+  accentcity: "Khankui"
 khan-kyariz: 
-  city: khan-kyariz
-  accentcity: Khan-Kyariz
+  city: "khan-kyariz"
+  accentcity: "Khan-Kyariz"
 khan-yab: 
-  city: khan-yab
-  accentcity: Khan-Yab
+  city: "khan-yab"
+  accentcity: "Khan-Yab"
 khar-bala: 
-  city: khar-bala
-  accentcity: Khar-Bala
+  city: "khar-bala"
+  accentcity: "Khar-Bala"
 khargali: 
-  city: khargali
-  accentcity: Khargali
+  city: "khargali"
+  accentcity: "Khargali"
 khasar-kala: 
-  city: khasar-kala
-  accentcity: Khasar-Kala
+  city: "khasar-kala"
+  accentcity: "Khasar-Kala"
 khas: 
-  city: khas
-  accentcity: Khas
+  city: "khas"
+  accentcity: "Khas"
 khassyn: 
-  city: khassyn
-  accentcity: Khassyn
+  city: "khassyn"
+  accentcity: "Khassyn"
 khasyn: 
-  city: khasyn
-  accentcity: Khasyn
+  city: "khasyn"
+  accentcity: "Khasyn"
 khatab: 
-  city: khatab
-  accentcity: Khatab
+  city: "khatab"
+  accentcity: "Khatab"
 khatap: 
-  city: khatap
-  accentcity: Khatap
+  city: "khatap"
+  accentcity: "Khatap"
 khauz-khana-shor: 
-  city: khauz-khana-shor
-  accentcity: Khauz-Khana-Shor
+  city: "khauz-khana-shor"
+  accentcity: "Khauz-Khana-Shor"
 khauz-khan: 
-  city: khauz-khan
-  accentcity: Khauz-Khan
+  city: "khauz-khan"
+  accentcity: "Khauz-Khan"
 khaz: 
-  city: khaz
-  accentcity: Khaz
+  city: "khaz"
+  accentcity: "Khaz"
 kheleulen: 
-  city: kheleulen
-  accentcity: Kheleulen
+  city: "kheleulen"
+  accentcity: "Kheleulen"
 khellen: 
-  city: khellen
-  accentcity: Khellen
+  city: "khellen"
+  accentcity: "Khellen"
 kherrikkala: 
-  city: kherrikkala
-  accentcity: Kherrikkala
+  city: "kherrikkala"
+  accentcity: "Kherrikkala"
 khilak: 
-  city: khilak
-  accentcity: Khilak
+  city: "khilak"
+  accentcity: "Khilak"
 khiva-abad: 
-  city: khiva-abad
-  accentcity: Khiva-Abad
+  city: "khiva-abad"
+  accentcity: "Khiva-Abad"
 khivabad: 
-  city: khivabad
-  accentcity: Khivabad
+  city: "khivabad"
+  accentcity: "Khivabad"
 khiveabad: 
-  city: khiveabad
-  accentcity: Khiveabad
+  city: "khiveabad"
+  accentcity: "Khiveabad"
 khodzha-ali: 
-  city: khodzha-ali
-  accentcity: Khodzha-Ali
+  city: "khodzha-ali"
+  accentcity: "Khodzha-Ali"
 khodzha-bulak: 
-  city: khodzha-bulak
-  accentcity: Khodzha-Bulak
+  city: "khodzha-bulak"
+  accentcity: "Khodzha-Bulak"
 khodzha-bulan: 
-  city: khodzha-bulan
-  accentcity: Khodzha-Bulan
+  city: "khodzha-bulan"
+  accentcity: "Khodzha-Bulan"
 khodzhadere: 
-  city: khodzhadere
-  accentcity: Khodzhadere
+  city: "khodzhadere"
+  accentcity: "Khodzhadere"
 khodzha-gumbez: 
-  city: khodzha-gumbez
-  accentcity: Khodzha-Gumbez
+  city: "khodzha-gumbez"
+  accentcity: "Khodzha-Gumbez"
 khodzhaguyma: 
-  city: khodzhaguyma
-  accentcity: Khodzhaguyma
+  city: "khodzhaguyma"
+  accentcity: "Khodzhaguyma"
 khodzhai-fil'ata: 
-  city: khodzhai-fil'ata
-  accentcity: Khodzhai-Fil'ata
+  city: "khodzhai-fil'ata"
+  accentcity: "Khodzhai-Fil'ata"
 khodzha-irat: 
-  city: khodzha-irat
-  accentcity: Khodzha-Irat
+  city: "khodzha-irat"
+  accentcity: "Khodzha-Irat"
 khodzha-kakepsi: 
-  city: khodzha-kakepsi
-  accentcity: Khodzha-Kakepsi
+  city: "khodzha-kakepsi"
+  accentcity: "Khodzha-Kakepsi"
 khodzhakala: 
-  city: khodzhakala
-  accentcity: Khodzhakala
+  city: "khodzhakala"
+  accentcity: "Khodzhakala"
 khodzha-kalay pervyy: 
-  city: khodzha-kalay pervyy
-  accentcity: Khodzha-Kalay Pervyy
+  city: "khodzha-kalay pervyy"
+  accentcity: "Khodzha-Kalay Pervyy"
 khodzhakanapsi: 
-  city: khodzhakanapsi
-  accentcity: Khodzhakanapsi
+  city: "khodzhakanapsi"
+  accentcity: "Khodzhakanapsi"
 khodzha-karaul: 
-  city: khodzha-karaul
-  accentcity: Khodzha-Karaul
+  city: "khodzha-karaul"
+  accentcity: "Khodzha-Karaul"
 khodzhakaraul: 
-  city: khodzhakaraul
-  accentcity: Khodzhakaraul
+  city: "khodzhakaraul"
+  accentcity: "Khodzhakaraul"
 khodzha-kekepsi: 
-  city: khodzha-kekepsi
-  accentcity: Khodzha-Kekepsi
+  city: "khodzha-kekepsi"
+  accentcity: "Khodzha-Kekepsi"
 khodzha-kenepsi: 
-  city: khodzha-kenepsi
-  accentcity: Khodzha-Kenepsi
+  city: "khodzha-kenepsi"
+  accentcity: "Khodzha-Kenepsi"
 khodzhakishlak: 
-  city: khodzhakishlak
-  accentcity: Khodzhakishlak
+  city: "khodzhakishlak"
+  accentcity: "Khodzhakishlak"
 khodzhakumbet: 
-  city: khodzhakumbet
-  accentcity: Khodzhakumbet
+  city: "khodzhakumbet"
+  accentcity: "Khodzhakumbet"
 khodzhakumbet vtoroy: 
-  city: khodzhakumbet vtoroy
-  accentcity: Khodzhakumbet Vtoroy
+  city: "khodzhakumbet vtoroy"
+  accentcity: "Khodzhakumbet Vtoroy"
 khodzha-kumbez: 
-  city: khodzha-kumbez
-  accentcity: Khodzha-Kumbez
+  city: "khodzha-kumbez"
+  accentcity: "Khodzha-Kumbez"
 khodzha-kuyma: 
-  city: khodzha-kuyma
-  accentcity: Khodzha-Kuyma
+  city: "khodzha-kuyma"
+  accentcity: "Khodzha-Kuyma"
 khodzha-kyanyansi: 
-  city: khodzha-kyanyansi
-  accentcity: Khodzha-Kyanyansi
+  city: "khodzha-kyanyansi"
+  accentcity: "Khodzha-Kyanyansi"
 khodzhali: 
-  city: khodzhali
-  accentcity: Khodzhali
+  city: "khodzhali"
+  accentcity: "Khodzhali"
 khodzhambas: 
-  city: khodzhambas
-  accentcity: Khodzhambas
+  city: "khodzhambas"
+  accentcity: "Khodzhambas"
 khodzhambass: 
-  city: khodzhambass
-  accentcity: Khodzhambass
+  city: "khodzhambass"
+  accentcity: "Khodzhambass"
 khodzhameshed: 
-  city: khodzhameshed
-  accentcity: Khodzhameshed
+  city: "khodzhameshed"
+  accentcity: "Khodzhameshed"
 khodzha-mrasan: 
-  city: khodzha-mrasan
-  accentcity: Khodzha-Mrasan
+  city: "khodzha-mrasan"
+  accentcity: "Khodzha-Mrasan"
 khodzha-nazar: 
-  city: khodzha-nazar
-  accentcity: Khodzha-Nazar
+  city: "khodzha-nazar"
+  accentcity: "Khodzha-Nazar"
 khodzhaolen: 
-  city: khodzhaolen
-  accentcity: Khodzhaolen
+  city: "khodzhaolen"
+  accentcity: "Khodzhaolen"
 khodzhapil': 
-  city: khodzhapil'
-  accentcity: Khodzhapil'
+  city: "khodzhapil'"
+  accentcity: "Khodzhapil'"
 khodzhara: 
-  city: khodzhara
-  accentcity: Khodzhara
+  city: "khodzhara"
+  accentcity: "Khodzhara"
 khodzhasu: 
-  city: khodzhasu
-  accentcity: Khodzhasu
+  city: "khodzhasu"
+  accentcity: "Khodzhasu"
 khodzhavlan: 
-  city: khodzhavlan
-  accentcity: Khodzhavlan
+  city: "khodzhavlan"
+  accentcity: "Khodzhavlan"
 khodzhay-fil'-ata: 
-  city: khodzhay-fil'-ata
-  accentcity: Khodzhay-Fil'-Ata
+  city: "khodzhay-fil'-ata"
+  accentcity: "Khodzhay-Fil'-Ata"
 khodzhi-kuyma: 
-  city: khodzhi-kuyma
-  accentcity: Khodzhi-Kuyma
+  city: "khodzhi-kuyma"
+  accentcity: "Khodzhi-Kuyma"
 khodzholok-aragly: 
-  city: khodzholok-aragly
-  accentcity: Khodzholok-Aragly
+  city: "khodzholok-aragly"
+  accentcity: "Khodzholok-Aragly"
 khodzholok: 
-  city: khodzholok
-  accentcity: Khodzholok
+  city: "khodzholok"
+  accentcity: "Khodzholok"
 khoja-kala: 
-  city: khoja-kala
-  accentcity: Khoja-Kala
+  city: "khoja-kala"
+  accentcity: "Khoja-Kala"
 khorodzhokh-kala: 
-  city: khorodzhokh-kala
-  accentcity: Khorodzhokh-Kala
+  city: "khorodzhokh-kala"
+  accentcity: "Khorodzhokh-Kala"
 khoudandzhik: 
-  city: khoudandzhik
-  accentcity: Khoudandzhik
+  city: "khoudandzhik"
+  accentcity: "Khoudandzhik"
 khozarek: 
-  city: khozarek
-  accentcity: Khozarek
+  city: "khozarek"
+  accentcity: "Khozarek"
 khudaidag: 
-  city: khudaidag
-  accentcity: Khudaidag
+  city: "khudaidag"
+  accentcity: "Khudaidag"
 khudayberdy: 
-  city: khudayberdy
-  accentcity: Khudayberdy
+  city: "khudayberdy"
+  accentcity: "Khudayberdy"
 khuday-dag: 
-  city: khuday-dag
-  accentcity: Khuday-Dag
+  city: "khuday-dag"
+  accentcity: "Khuday-Dag"
 khudzhum: 
-  city: khudzhum
-  accentcity: Khudzhum
+  city: "khudzhum"
+  accentcity: "Khudzhum"
 khukala: 
-  city: khukala
-  accentcity: Khukala
+  city: "khukala"
+  accentcity: "Khukala"
 khu-kalya: 
-  city: khu-kalya
-  accentcity: Khu-Kalya
+  city: "khu-kalya"
+  accentcity: "Khu-Kalya"
 khurman-kala: 
-  city: khurman-kala
-  accentcity: Khurman-Kala
+  city: "khurman-kala"
+  accentcity: "Khurman-Kala"
 khurmat-kala: 
-  city: khurmat-kala
-  accentcity: Khurmat-Kala
+  city: "khurmat-kala"
+  accentcity: "Khurmat-Kala"
 khuzeye-beden: 
-  city: khuzeye-beden
-  accentcity: Khuzeye-Beden
+  city: "khuzeye-beden"
+  accentcity: "Khuzeye-Beden"
 kianly: 
-  city: kianly
-  accentcity: Kianly
+  city: "kianly"
+  accentcity: "Kianly"
 kichaga: 
-  city: kichaga
-  accentcity: Kichaga
+  city: "kichaga"
+  accentcity: "Kichaga"
 kichaga pervaya: 
-  city: kichaga pervaya
-  accentcity: Kichaga Pervaya
+  city: "kichaga pervaya"
+  accentcity: "Kichaga Pervaya"
 kichaga vtoraya: 
-  city: kichaga vtoraya
-  accentcity: Kichaga Vtoraya
+  city: "kichaga vtoraya"
+  accentcity: "Kichaga Vtoraya"
 kichi-aga pervaya: 
-  city: kichi-aga pervaya
-  accentcity: Kichi-Aga Pervaya
+  city: "kichi-aga pervaya"
+  accentcity: "Kichi-Aga Pervaya"
 kichiaga pervyy: 
-  city: kichiaga pervyy
-  accentcity: Kichiaga Pervyy
+  city: "kichiaga pervyy"
+  accentcity: "Kichiaga Pervyy"
 kichi-aga vtoraya: 
-  city: kichi-aga vtoraya
-  accentcity: Kichi-Aga Vtoraya
+  city: "kichi-aga vtoraya"
+  accentcity: "Kichi-Aga Vtoraya"
 kichiaga vtoroy: 
-  city: kichiaga vtoroy
-  accentcity: Kichiaga Vtoroy
+  city: "kichiaga vtoroy"
+  accentcity: "Kichiaga Vtoroy"
 kichiga pervaya: 
-  city: kichiga pervaya
-  accentcity: Kichiga Pervaya
+  city: "kichiga pervaya"
+  accentcity: "Kichiga Pervaya"
 kichiga vtoraya: 
-  city: kichiga vtoraya
-  accentcity: Kichiga Vtoraya
+  city: "kichiga vtoraya"
+  accentcity: "Kichiga Vtoraya"
 kiikchi: 
-  city: kiikchi
-  accentcity: Kiikchi
+  city: "kiikchi"
+  accentcity: "Kiikchi"
 kindykli: 
-  city: kindykli
-  accentcity: Kindykli
+  city: "kindykli"
+  accentcity: "Kindykli"
 kipchakh: 
-  city: kipchakh
-  accentcity: Kipchakh
+  city: "kipchakh"
+  accentcity: "Kipchakh"
 kipchak: 
-  city: kipchak
-  accentcity: Kipchak
+  city: "kipchak"
+  accentcity: "Kipchak"
 kirovsk: 
-  city: kirovsk
-  accentcity: Kirovsk
+  city: "kirovsk"
+  accentcity: "Kirovsk"
 kirpichli: 
-  city: kirpichli
-  accentcity: Kirpichli
+  city: "kirpichli"
+  accentcity: "Kirpichli"
 kirpili: 
-  city: kirpili
-  accentcity: Kirpili
+  city: "kirpili"
+  accentcity: "Kirpili"
 kishtivan: 
-  city: kishtivan
-  accentcity: Kishtivan
+  city: "kishtivan"
+  accentcity: "Kishtivan"
 kiyanly: 
-  city: kiyanly
-  accentcity: Kiyanly
+  city: "kiyanly"
+  accentcity: "Kiyanly"
 kizel-atrek: 
-  city: kizel-atrek
-  accentcity: Kizel-Atrek
+  city: "kizel-atrek"
+  accentcity: "Kizel-Atrek"
 kizil-arvat: 
-  city: kizil-arvat
-  accentcity: Kizil-Arvat
+  city: "kizil-arvat"
+  accentcity: "Kizil-Arvat"
 kizil-atrek: 
-  city: kizil-atrek
-  accentcity: Kizil-Atrek
+  city: "kizil-atrek"
+  accentcity: "Kizil-Atrek"
 kizil-ayak: 
-  city: kizil-ayak
-  accentcity: Kizil-Ayak
+  city: "kizil-ayak"
+  accentcity: "Kizil-Ayak"
 kizil: 
-  city: kizil
-  accentcity: Kizil
+  city: "kizil"
+  accentcity: "Kizil"
 kizil kup: 
-  city: kizil kup
-  accentcity: Kizil Kup
+  city: "kizil kup"
+  accentcity: "Kizil Kup"
 kizil-su: 
-  city: kizil-su
-  accentcity: Kizil-Su
+  city: "kizil-su"
+  accentcity: "Kizil-Su"
 kizyl-arvat: 
-  city: kizyl-arvat
-  accentcity: Kizyl-Arvat
+  city: "kizyl-arvat"
+  accentcity: "Kizyl-Arvat"
 kizyl-atrek: 
-  city: kizyl-atrek
-  accentcity: Kizyl-Atrek
+  city: "kizyl-atrek"
+  accentcity: "Kizyl-Atrek"
 kizyl-ayak: 
-  city: kizyl-ayak
-  accentcity: Kizyl-Ayak
+  city: "kizyl-ayak"
+  accentcity: "Kizyl-Ayak"
 kizyl-cherek: 
-  city: kizyl-cherek
-  accentcity: Kizyl-Cherek
+  city: "kizyl-cherek"
+  accentcity: "Kizyl-Cherek"
 kizyldzha: 
-  city: kizyldzha
-  accentcity: Kizyldzha
+  city: "kizyldzha"
+  accentcity: "Kizyldzha"
 kizyl-iman: 
-  city: kizyl-iman
-  accentcity: Kizyl-Iman
+  city: "kizyl-iman"
+  accentcity: "Kizyl-Iman"
 kizyl-ishchi: 
-  city: kizyl-ishchi
-  accentcity: Kizyl-Ishchi
+  city: "kizyl-ishchi"
+  accentcity: "Kizyl-Ishchi"
 kizyl-kaya: 
-  city: kizyl-kaya
-  accentcity: Kizyl-Kaya
+  city: "kizyl-kaya"
+  accentcity: "Kizyl-Kaya"
 kizyl-kemer: 
-  city: kizyl-kemer
-  accentcity: Kizyl-Kemer
+  city: "kizyl-kemer"
+  accentcity: "Kizyl-Kemer"
 kizyl: 
-  city: kizyl
-  accentcity: Kizyl
+  city: "kizyl"
+  accentcity: "Kizyl"
 kizyl-kup: 
-  city: kizyl-kup
-  accentcity: Kizyl-Kup
+  city: "kizyl-kup"
+  accentcity: "Kizyl-Kup"
 kizyl-murad: 
-  city: kizyl-murad
-  accentcity: Kizyl-Murad
+  city: "kizyl-murad"
+  accentcity: "Kizyl-Murad"
 kizyl-oktyabr': 
-  city: kizyl-oktyabr'
-  accentcity: Kizyl-Oktyabr'
+  city: "kizyl-oktyabr'"
+  accentcity: "Kizyl-Oktyabr'"
 kizyl-su: 
-  city: kizyl-su
-  accentcity: Kizyl-Su
+  city: "kizyl-su"
+  accentcity: "Kizyl-Su"
 kizyl-turkmenistan: 
-  city: kizyl-turkmenistan
-  accentcity: Kizyl-Turkmenistan
+  city: "kizyl-turkmenistan"
+  accentcity: "Kizyl-Turkmenistan"
 kochevka keinli: 
-  city: kochevka keinli
-  accentcity: Kochevka Keinli
+  city: "kochevka keinli"
+  accentcity: "Kochevka Keinli"
 kochevka keinly: 
-  city: kochevka keinly
-  accentcity: Kochevka Keinly
+  city: "kochevka keinly"
+  accentcity: "Kochevka Keinly"
 kochevka toutly: 
-  city: kochevka toutly
-  accentcity: Kochevka Toutly
+  city: "kochevka toutly"
+  accentcity: "Kochevka Toutly"
 kochev'ye ata: 
-  city: kochev'ye ata
-  accentcity: Kochev'ye Ata
+  city: "kochev'ye ata"
+  accentcity: "Kochev'ye Ata"
 kochev'ye baba-daykhan: 
-  city: kochev'ye baba-daykhan
-  accentcity: Kochev'ye Baba-Daykhan
+  city: "kochev'ye baba-daykhan"
+  accentcity: "Kochev'ye Baba-Daykhan"
 kochev'ye charykh: 
-  city: kochev'ye charykh
-  accentcity: Kochev'ye Charykh
+  city: "kochev'ye charykh"
+  accentcity: "Kochev'ye Charykh"
 kochev'ye kayli: 
-  city: kochev'ye kayli
-  accentcity: Kochev'ye Kayli
+  city: "kochev'ye kayli"
+  accentcity: "Kochev'ye Kayli"
 kochev'ye kozylyar: 
-  city: kochev'ye kozylyar
-  accentcity: Kochev'ye Kozylyar
+  city: "kochev'ye kozylyar"
+  accentcity: "Kochev'ye Kozylyar"
 kochev'ye ovaz dzhalatay: 
-  city: kochev'ye ovaz dzhalatay
-  accentcity: Kochev'ye Ovaz Dzhalatay
+  city: "kochev'ye ovaz dzhalatay"
+  accentcity: "Kochev'ye Ovaz Dzhalatay"
 kochev'ye uchinchi-kara-yab: 
-  city: kochev'ye uchinchi-kara-yab
-  accentcity: "Kochev'y\xC3\xAB Uchinchi-Kara-Yab"
+  city: "kochev'ye uchinchi-kara-yab"
+  accentcity: "Kochev'yë Uchinchi-Kara-Yab"
 kochev'ye yazygandzhik: 
-  city: kochev'ye yazygandzhik
-  accentcity: Kochev'ye Yazygandzhik
+  city: "kochev'ye yazygandzhik"
+  accentcity: "Kochev'ye Yazygandzhik"
 koch: 
-  city: koch
-  accentcity: Koch
+  city: "koch"
+  accentcity: "Koch"
 koch-kor: 
-  city: koch-kor
-  accentcity: Koch-Kor
+  city: "koch-kor"
+  accentcity: "Koch-Kor"
 kodsh: 
-  city: kodsh
-  accentcity: Kodsh
+  city: "kodsh"
+  accentcity: "Kodsh"
 kodzha: 
-  city: kodzha
-  accentcity: Kodzha
+  city: "kodzha"
+  accentcity: "Kodzha"
 kodzh: 
-  city: kodzh
-  accentcity: Kodzh
+  city: "kodzh"
+  accentcity: "Kodzh"
 koinya-kasyr: 
-  city: koinya-kasyr
-  accentcity: Koinya-Kasyr
+  city: "koinya-kasyr"
+  accentcity: "Koinya-Kasyr"
 kokmiyar: 
-  city: kokmiyar
-  accentcity: Kokmiyar
+  city: "kokmiyar"
+  accentcity: "Kokmiyar"
 kok-say: 
-  city: kok-say
-  accentcity: Kok-Say
+  city: "kok-say"
+  accentcity: "Kok-Say"
 kolkhozabag: 
-  city: kolkhozabag
-  accentcity: Kolkhozabag
+  city: "kolkhozabag"
+  accentcity: "Kolkhozabag"
 kolkhoz imeni lenina: 
-  city: kolkhoz imeni lenina
-  accentcity: Kolkhoz Imeni Lenina
+  city: "kolkhoz imeni lenina"
+  accentcity: "Kolkhoz Imeni Lenina"
 kolodets attadzhan: 
-  city: kolodets attadzhan
-  accentcity: Kolodets Attadzhan
+  city: "kolodets attadzhan"
+  accentcity: "Kolodets Attadzhan"
 kolyata: 
-  city: kolyata
-  accentcity: Kolyata
+  city: "kolyata"
+  accentcity: "Kolyata"
 kommuna: 
-  city: kommuna
-  accentcity: Kommuna
+  city: "kommuna"
+  accentcity: "Kommuna"
 kommunist: 
-  city: kommunist
-  accentcity: Kommunist
+  city: "kommunist"
+  accentcity: "Kommunist"
 kommunizm: 
-  city: kommunizm
-  accentcity: Kommunizm
+  city: "kommunizm"
+  accentcity: "Kommunizm"
 komsomol: 
-  city: komsomol
-  accentcity: Komsomol
+  city: "komsomol"
+  accentcity: "Komsomol"
 komsomol'sk: 
-  city: komsomol'sk
-  accentcity: Komsomol'sk
+  city: "komsomol'sk"
+  accentcity: "Komsomol'sk"
 kone-berme: 
-  city: kone-berme
-  accentcity: Kone-Berme
+  city: "kone-berme"
+  accentcity: "Kone-Berme"
 kone-borme: 
-  city: kone-borme
-  accentcity: Kone-Borme
+  city: "kone-borme"
+  accentcity: "Kone-Borme"
 koneurgench: 
-  city: koneurgench
+  city: "koneurgench"
   accentcity: "K\xC3\xB6ne\xC3\xBCrgench"
 kopak-chalak: 
-  city: kopak-chalak
-  accentcity: Kopak-Chalak
+  city: "kopak-chalak"
+  accentcity: "Kopak-Chalak"
 kopekli: 
-  city: kopekli
-  accentcity: Kopekli
+  city: "kopekli"
+  accentcity: "Kopekli"
 kora-govok: 
-  city: kora-govok
-  accentcity: Kora-Govok
+  city: "kora-govok"
+  accentcity: "Kora-Govok"
 kordzhou: 
-  city: kordzhou
-  accentcity: Kordzhou
+  city: "kordzhou"
+  accentcity: "Kordzhou"
 kosha-audan: 
-  city: kosha-audan
-  accentcity: Kosha-Audan
+  city: "kosha-audan"
+  accentcity: "Kosha-Audan"
 koshadzha: 
-  city: koshadzha
-  accentcity: Koshadzha
+  city: "koshadzha"
+  accentcity: "Koshadzha"
 koshagyr: 
-  city: koshagyr
-  accentcity: Koshagyr
+  city: "koshagyr"
+  accentcity: "Koshagyr"
 koshakak: 
-  city: koshakak
-  accentcity: Koshakak
+  city: "koshakak"
+  accentcity: "Koshakak"
 koshakaudan: 
-  city: koshakaudan
-  accentcity: Koshakaudan
+  city: "koshakaudan"
+  accentcity: "Koshakaudan"
 koshakda: 
-  city: koshakda
-  accentcity: Koshakda
+  city: "koshakda"
+  accentcity: "Koshakda"
 koshanda: 
-  city: koshanda
-  accentcity: Koshanda
+  city: "koshanda"
+  accentcity: "Koshanda"
 koshkin: 
-  city: koshkin
-  accentcity: Koshkin
+  city: "koshkin"
+  accentcity: "Koshkin"
 koshoba: 
-  city: koshoba
-  accentcity: Koshoba
+  city: "koshoba"
+  accentcity: "Koshoba"
 koshtemir: 
-  city: koshtemir
-  accentcity: Koshtemir
+  city: "koshtemir"
+  accentcity: "Koshtemir"
 kosh-tepe: 
-  city: kosh-tepe
-  accentcity: Kosh-Tepe
+  city: "kosh-tepe"
+  accentcity: "Kosh-Tepe"
 kotor tepp: 
-  city: kotor tepp
-  accentcity: Kotor Tepp
+  city: "kotor tepp"
+  accentcity: "Kotor Tepp"
 koturdepe: 
-  city: koturdepe
-  accentcity: Koturdepe
+  city: "koturdepe"
+  accentcity: "Koturdepe"
 kotur-tepe: 
-  city: kotur-tepe
-  accentcity: Kotur-Tepe
+  city: "kotur-tepe"
+  accentcity: "Kotur-Tepe"
 koushok-kyzyl-takyr: 
-  city: koushok-kyzyl-takyr
-  accentcity: Koushok-Kyzyl-Takyr
+  city: "koushok-kyzyl-takyr"
+  accentcity: "Koushok-Kyzyl-Takyr"
 koyno-kumbez: 
-  city: koyno-kumbez
-  accentcity: Koyno-Kumbez
+  city: "koyno-kumbez"
+  accentcity: "Koyno-Kumbez"
 koynya-kasyr: 
-  city: koynya-kasyr
-  accentcity: Koynya-Kasyr
+  city: "koynya-kasyr"
+  accentcity: "Koynya-Kasyr"
 koytendag: 
-  city: koytendag
-  accentcity: Koytendag
+  city: "koytendag"
+  accentcity: "Koytendag"
 kozelkovskiy: 
-  city: kozelkovskiy
-  accentcity: Kozelkovskiy
+  city: "kozelkovskiy"
+  accentcity: "Kozelkovskiy"
 kozgan-kala: 
-  city: kozgan-kala
-  accentcity: Kozgan-Kala
+  city: "kozgan-kala"
+  accentcity: "Kozgan-Kala"
 kozhandy: 
-  city: kozhandy
-  accentcity: Kozhandy
+  city: "kozhandy"
+  accentcity: "Kozhandy"
 kozhe: 
-  city: kozhe
-  accentcity: Kozhe
+  city: "kozhe"
+  accentcity: "Kozhe"
 krach: 
-  city: krach
-  accentcity: Krach
+  city: "krach"
+  accentcity: "Krach"
 krachli: 
-  city: krachli
-  accentcity: Krachli
+  city: "krachli"
+  accentcity: "Krachli"
 kranch: 
-  city: kranch
-  accentcity: Kranch
+  city: "kranch"
+  accentcity: "Kranch"
 krasnovodsk: 
-  city: krasnovodsk
-  accentcity: Krasnovodsk
+  city: "krasnovodsk"
+  accentcity: "Krasnovodsk"
 krasnowodsk: 
-  city: krasnowodsk
-  accentcity: Krasnowodsk
+  city: "krasnowodsk"
+  accentcity: "Krasnowodsk"
 krasnoye znamya: 
-  city: krasnoye znamya
-  accentcity: Krasnoye Znamya
+  city: "krasnoye znamya"
+  accentcity: "Krasnoye Znamya"
 krasnoye zunamya: 
-  city: krasnoye zunamya
-  accentcity: Krasnoye Zunamya
+  city: "krasnoye zunamya"
+  accentcity: "Krasnoye Zunamya"
 krasnyy oktyabr': 
-  city: krasnyy oktyabr'
-  accentcity: Krasnyy Oktyabr'
+  city: "krasnyy oktyabr'"
+  accentcity: "Krasnyy Oktyabr'"
 krasnyy turkmenistan: 
-  city: krasnyy turkmenistan
-  accentcity: Krasnyy Turkmenistan
+  city: "krasnyy turkmenistan"
+  accentcity: "Krasnyy Turkmenistan"
 krassnowodsk: 
-  city: krassnowodsk
-  accentcity: Krassnowodsk
+  city: "krassnowodsk"
+  accentcity: "Krassnowodsk"
 krepost' agronak: 
-  city: krepost' agronak
-  accentcity: Krepost' Agronak
+  city: "krepost' agronak"
+  accentcity: "Krepost' Agronak"
 krestovskiy: 
-  city: krestovskiy
-  accentcity: Krestovskiy
+  city: "krestovskiy"
+  accentcity: "Krestovskiy"
 kruchay: 
-  city: kruchay
-  accentcity: Kruchay
+  city: "kruchay"
+  accentcity: "Kruchay"
 kuchchi: 
-  city: kuchchi
-  accentcity: Kuchchi
+  city: "kuchchi"
+  accentcity: "Kuchchi"
 kuchuk: 
-  city: kuchuk
-  accentcity: Kuchuk
+  city: "kuchuk"
+  accentcity: "Kuchuk"
 kugi-tang: 
-  city: kugi-tang
-  accentcity: Kugi-Tang
+  city: "kugi-tang"
+  accentcity: "Kugi-Tang"
 kugitang-tau: 
-  city: kugitang-tau
-  accentcity: Kugitang-Tau
+  city: "kugitang-tau"
+  accentcity: "Kugitang-Tau"
 (( kui-dzhuk )): 
-  city: (( kui-dzhuk ))
-  accentcity: (( Kui-Dzhuk ))
+  city: "(( kui-dzhuk ))"
+  accentcity: "(( Kui-Dzhuk ))"
 kuize-shour: 
-  city: kuize-shour
-  accentcity: Kuize-Shour
+  city: "kuize-shour"
+  accentcity: "Kuize-Shour"
 kukhitang: 
-  city: kukhitang
-  accentcity: Kukhitang
+  city: "kukhitang"
+  accentcity: "Kukhitang"
 kuki-tang: 
-  city: kuki-tang
-  accentcity: Kuki-tang
+  city: "kuki-tang"
+  accentcity: "Kuki-tang"
 kulanbay: 
-  city: kulanbay
-  accentcity: Kulanbay
+  city: "kulanbay"
+  accentcity: "Kulanbay"
 kulandzhi: 
-  city: kulandzhi
-  accentcity: Kulandzhi
+  city: "kulandzhi"
+  accentcity: "Kulandzhi"
 kularyk: 
-  city: kularyk
-  accentcity: Kularyk
+  city: "kularyk"
+  accentcity: "Kularyk"
 kulayanchi: 
-  city: kulayanchi
-  accentcity: Kulayanchi
+  city: "kulayanchi"
+  accentcity: "Kulayanchi"
 kul'dzha: 
-  city: kul'dzha
-  accentcity: Kul'dzha
+  city: "kul'dzha"
+  accentcity: "Kul'dzha"
 kuli-mayak: 
-  city: kuli-mayak
-  accentcity: Kuli-Mayak
+  city: "kuli-mayak"
+  accentcity: "Kuli-Mayak"
 kultak: 
-  city: kultak
-  accentcity: Kultak
+  city: "kultak"
+  accentcity: "Kultak"
 kul'tura: 
-  city: kul'tura
-  accentcity: Kul'tura
+  city: "kul'tura"
+  accentcity: "Kul'tura"
 kumbet-ayla: 
-  city: kumbet-ayla
-  accentcity: Kumbet-Ayla
+  city: "kumbet-ayla"
+  accentcity: "Kumbet-Ayla"
 kumbetli-koshoba: 
-  city: kumbetli-koshoba
-  accentcity: Kumbetli-Koshoba
+  city: "kumbetli-koshoba"
+  accentcity: "Kumbetli-Koshoba"
 kumbet-yaylya: 
-  city: kumbet-yaylya
-  accentcity: Kumbet-Yaylya
+  city: "kumbet-yaylya"
+  accentcity: "Kumbet-Yaylya"
 kum-dag: 
-  city: kum-dag
-  accentcity: Kum-Dag
+  city: "kum-dag"
+  accentcity: "Kum-Dag"
 kumpete: 
-  city: kumpete
-  accentcity: Kumpete
+  city: "kumpete"
+  accentcity: "Kumpete"
 kundzhak: 
-  city: kundzhak
-  accentcity: Kundzhak
+  city: "kundzhak"
+  accentcity: "Kundzhak"
 kungur: 
-  city: kungur
-  accentcity: Kungur
+  city: "kungur"
+  accentcity: "Kungur"
 kungur vtoroy: 
-  city: kungur vtoroy
-  accentcity: Kungur Vtoroy
+  city: "kungur vtoroy"
+  accentcity: "Kungur Vtoroy"
 kunya-urgench: 
-  city: kunya-urgench
-  accentcity: Kunya-Urgench
+  city: "kunya-urgench"
+  accentcity: "Kunya-Urgench"
 kunya-urgen: 
-  city: kunya-urgen
-  accentcity: Kunya-Urgen
+  city: "kunya-urgen"
+  accentcity: "Kunya-Urgen"
 kunya-yarmysh: 
-  city: kunya-yarmysh
-  accentcity: Kunya-Yarmysh
+  city: "kunya-yarmysh"
+  accentcity: "Kunya-Yarmysh"
 kupakli: 
-  city: kupakli
-  accentcity: Kupakli
+  city: "kupakli"
+  accentcity: "Kupakli"
 kuraish: 
-  city: kuraish
-  accentcity: Kuraish
+  city: "kuraish"
+  accentcity: "Kuraish"
 kurashi: 
-  city: kurashi
-  accentcity: Kurashi
+  city: "kurashi"
+  accentcity: "Kurashi"
 kurbanek: 
-  city: kurbanek
-  accentcity: Kurbanek
+  city: "kurbanek"
+  accentcity: "Kurbanek"
 kurbanseyid: 
-  city: kurbanseyid
-  accentcity: Kurbanseyid
+  city: "kurbanseyid"
+  accentcity: "Kurbanseyid"
 kurdzhukli: 
-  city: kurdzhukli
-  accentcity: Kurdzhukli
+  city: "kurdzhukli"
+  accentcity: "Kurdzhukli"
 kurdzhukly: 
-  city: kurdzhukly
-  accentcity: Kurdzhukly
+  city: "kurdzhukly"
+  accentcity: "Kurdzhukly"
 kurgundzh: 
-  city: kurgundzh
-  accentcity: Kurgundzh
+  city: "kurgundzh"
+  accentcity: "Kurgundzh"
 kurgunuk: 
-  city: kurgunuk
-  accentcity: Kurgunuk
+  city: "kurgunuk"
+  accentcity: "Kurgunuk"
 kurkulab: 
-  city: kurkulab
-  accentcity: Kurkulab
+  city: "kurkulab"
+  accentcity: "Kurkulab"
 kurlugun: 
-  city: kurlugun
-  accentcity: Kurlugun
+  city: "kurlugun"
+  accentcity: "Kurlugun"
 kurort molla-kara: 
-  city: kurort molla-kara
-  accentcity: Kurort Molla-Kara
+  city: "kurort molla-kara"
+  accentcity: "Kurort Molla-Kara"
 kursagir: 
-  city: kursagir
-  accentcity: Kursagir
+  city: "kursagir"
+  accentcity: "Kursagir"
 kurtile: 
-  city: kurtile
-  accentcity: Kurtile
+  city: "kurtile"
+  accentcity: "Kurtile"
 kurt: 
-  city: kurt
-  accentcity: Kurt
+  city: "kurt"
+  accentcity: "Kurt"
 kurtli: 
-  city: kurtli
-  accentcity: Kurtli
+  city: "kurtli"
+  accentcity: "Kurtli"
 kurtusu: 
-  city: kurtusu
-  accentcity: Kurtusu
+  city: "kurtusu"
+  accentcity: "Kurtusu"
 kuruksay: 
-  city: kuruksay
-  accentcity: Kuruksay
+  city: "kuruksay"
+  accentcity: "Kuruksay"
 kuruzhdey: 
-  city: kuruzhdey
-  accentcity: Kuruzhdey
+  city: "kuruzhdey"
+  accentcity: "Kuruzhdey"
 kushbegi: 
-  city: kushbegi
-  accentcity: Kushbegi
+  city: "kushbegi"
+  accentcity: "Kushbegi"
 kushchi: 
-  city: kushchi
-  accentcity: Kushchi
+  city: "kushchi"
+  accentcity: "Kushchi"
 kushi: 
-  city: kushi
-  accentcity: Kushi
+  city: "kushi"
+  accentcity: "Kushi"
 kushka: 
-  city: kushka
-  accentcity: Kushka
+  city: "kushka"
+  accentcity: "Kushka"
 kushkinskiy post: 
-  city: kushkinskiy post
-  accentcity: Kushkinskiy Post
+  city: "kushkinskiy post"
+  accentcity: "Kushkinskiy Post"
 kushk post: 
-  city: kushk post
-  accentcity: Kushk Post
+  city: "kushk post"
+  accentcity: "Kushk Post"
 kuuli-mayak: 
-  city: kuuli-mayak
-  accentcity: Kuuli-Mayak
+  city: "kuuli-mayak"
+  accentcity: "Kuuli-Mayak"
 kuvak: 
-  city: kuvak
-  accentcity: Kuvak
+  city: "kuvak"
+  accentcity: "Kuvak"
 kuybysheva: 
-  city: kuybysheva
-  accentcity: Kuybysheva
+  city: "kuybysheva"
+  accentcity: "Kuybysheva"
 (( kuylyar )): 
-  city: (( kuylyar ))
-  accentcity: (( Kuylyar ))
+  city: "(( kuylyar ))"
+  accentcity: "(( Kuylyar ))"
 kuylyar: 
-  city: kuylyar
-  accentcity: Kuylyar
+  city: "kuylyar"
+  accentcity: "Kuylyar"
 kuyzeshour: 
-  city: kuyzeshour
-  accentcity: Kuyzeshour
+  city: "kuyzeshour"
+  accentcity: "Kuyzeshour"
 kyal'-ata: 
-  city: kyal'-ata
-  accentcity: Kyal'-Ata
+  city: "kyal'-ata"
+  accentcity: "Kyal'-Ata"
 kyal'tayab: 
-  city: kyal'tayab
-  accentcity: Kyal'tayab
+  city: "kyal'tayab"
+  accentcity: "Kyal'tayab"
 kyamtar: 
-  city: kyamtar
-  accentcity: Kyamtar
+  city: "kyamtar"
+  accentcity: "Kyamtar"
 kyamtor: 
-  city: kyamtor
-  accentcity: Kyamtor
+  city: "kyamtor"
+  accentcity: "Kyamtor"
 kyasauli-kala: 
-  city: kyasauli-kala
-  accentcity: Kyasauli-Kala
+  city: "kyasauli-kala"
+  accentcity: "Kyasauli-Kala"
 kyrarak: 
-  city: kyrarak
-  accentcity: Kyrarak
+  city: "kyrarak"
+  accentcity: "Kyrarak"
 kyrkkui: 
-  city: kyrkkui
-  accentcity: Kyrkkui
+  city: "kyrkkui"
+  accentcity: "Kyrkkui"
 kyrk-kuyu: 
-  city: kyrk-kuyu
-  accentcity: Kyrk-Kuyu
+  city: "kyrk-kuyu"
+  accentcity: "Kyrk-Kuyu"
 kyrk-uyle: 
-  city: kyrk-uyle
-  accentcity: Kyrk-Uyle
+  city: "kyrk-uyle"
+  accentcity: "Kyrk-Uyle"
 kyrkuyli: 
-  city: kyrkuyli
-  accentcity: Kyrkuyli
+  city: "kyrkuyli"
+  accentcity: "Kyrkuyli"
 kyshtuvan: 
-  city: kyshtuvan
-  accentcity: Kyshtuvan
+  city: "kyshtuvan"
+  accentcity: "Kyshtuvan"
 kyurenkala: 
-  city: kyurenkala
-  accentcity: Kyurenkala
+  city: "kyurenkala"
+  accentcity: "Kyurenkala"
 kyzak: 
-  city: kyzak
-  accentcity: Kyzak
+  city: "kyzak"
+  accentcity: "Kyzak"
 kyzan: 
-  city: kyzan
-  accentcity: Kyzan
+  city: "kyzan"
+  accentcity: "Kyzan"
 kyzyl-arvat: 
-  city: kyzyl-arvat
-  accentcity: Kyzyl-Arvat
+  city: "kyzyl-arvat"
+  accentcity: "Kyzyl-Arvat"
 kyzyl-atrek: 
-  city: kyzyl-atrek
-  accentcity: Kyzyl-Atrek
+  city: "kyzyl-atrek"
+  accentcity: "Kyzyl-Atrek"
 kyzyl ayak: 
-  city: kyzyl ayak
-  accentcity: Kyzyl Ayak
+  city: "kyzyl ayak"
+  accentcity: "Kyzyl Ayak"
 (( kyzylay )): 
-  city: (( kyzylay ))
-  accentcity: (( Kyzylay ))
+  city: "(( kyzylay ))"
+  accentcity: "(( Kyzylay ))"
 kyzylbaydak: 
-  city: kyzylbaydak
-  accentcity: Kyzylbaydak
+  city: "kyzylbaydak"
+  accentcity: "Kyzylbaydak"
 kyzylbayda: 
-  city: kyzylbayda
-  accentcity: Kyzylbayda
+  city: "kyzylbayda"
+  accentcity: "Kyzylbayda"
 kyzylcharva: 
-  city: kyzylcharva
-  accentcity: Kyzylcharva
+  city: "kyzylcharva"
+  accentcity: "Kyzylcharva"
 kyzyl-cheshme: 
-  city: kyzyl-cheshme
-  accentcity: Kyzyl-Cheshme
+  city: "kyzyl-cheshme"
+  accentcity: "Kyzyl-Cheshme"
 kyzyl-daykhan: 
-  city: kyzyl-daykhan
-  accentcity: Kyzyl-Daykhan
+  city: "kyzyl-daykhan"
+  accentcity: "Kyzyl-Daykhan"
 kyzyldaykhan: 
-  city: kyzyldaykhan
-  accentcity: Kyzyldaykhan
+  city: "kyzyldaykhan"
+  accentcity: "Kyzyldaykhan"
 kyzylgar: 
-  city: kyzylgar
-  accentcity: Kyzylgar
+  city: "kyzylgar"
+  accentcity: "Kyzylgar"
 kyzyl-guch: 
-  city: kyzyl-guch
-  accentcity: Kyzyl-Guch
+  city: "kyzyl-guch"
+  accentcity: "Kyzyl-Guch"
 kyzylgyuych: 
-  city: kyzylgyuych
-  accentcity: Kyzylgyuych
+  city: "kyzylgyuych"
+  accentcity: "Kyzylgyuych"
 kyzylimam: 
-  city: kyzylimam
-  accentcity: Kyzylimam
+  city: "kyzylimam"
+  accentcity: "Kyzylimam"
 kyzyl-ishchi: 
-  city: kyzyl-ishchi
-  accentcity: Kyzyl-Ishchi
+  city: "kyzyl-ishchi"
+  accentcity: "Kyzyl-Ishchi"
 kyzylkasyl: 
-  city: kyzylkasyl
-  accentcity: Kyzylkasyl
+  city: "kyzylkasyl"
+  accentcity: "Kyzylkasyl"
 kyzyl-khodzha-nazar: 
-  city: kyzyl-khodzha-nazar
-  accentcity: Kyzyl-Khodzha-Nazar
+  city: "kyzyl-khodzha-nazar"
+  accentcity: "Kyzyl-Khodzha-Nazar"
 kyzylkoshun: 
-  city: kyzylkoshun
-  accentcity: Kyzylkoshun
+  city: "kyzylkoshun"
+  accentcity: "Kyzylkoshun"
 kyzyl-koshun: 
-  city: kyzyl-koshun
-  accentcity: Kyzyl-Koshun
+  city: "kyzyl-koshun"
+  accentcity: "Kyzyl-Koshun"
 kyzylkumbet: 
-  city: kyzylkumbet
-  accentcity: Kyzylkumbet
+  city: "kyzylkumbet"
+  accentcity: "Kyzylkumbet"
 kyzylkup: 
-  city: kyzylkup
-  accentcity: Kyzylkup
+  city: "kyzylkup"
+  accentcity: "Kyzylkup"
 kyzylkyr: 
-  city: kyzylkyr
-  accentcity: Kyzylkyr
+  city: "kyzylkyr"
+  accentcity: "Kyzylkyr"
 kyzyl: 
-  city: kyzyl
-  accentcity: Kyzyl
+  city: "kyzyl"
+  accentcity: "Kyzyl"
 kyzyl-oktyabr': 
-  city: kyzyl-oktyabr'
-  accentcity: Kyzyl-Oktyabr'
+  city: "kyzyl-oktyabr'"
+  accentcity: "Kyzyl-Oktyabr'"
 kyzylpildyz: 
-  city: kyzylpildyz
-  accentcity: Kyzylpildyz
+  city: "kyzylpildyz"
+  accentcity: "Kyzylpildyz"
 kyzyl-sakal: 
-  city: kyzyl-sakal
-  accentcity: Kyzyl-Sakal
+  city: "kyzyl-sakal"
+  accentcity: "Kyzyl-Sakal"
 kyzylshark: 
-  city: kyzylshark
-  accentcity: Kyzylshark
+  city: "kyzylshark"
+  accentcity: "Kyzylshark"
 kyzylsu: 
-  city: kyzylsu
-  accentcity: Kyzylsu
+  city: "kyzylsu"
+  accentcity: "Kyzylsu"
 kyzyltayak: 
-  city: kyzyltayak
-  accentcity: Kyzyltayak
+  city: "kyzyltayak"
+  accentcity: "Kyzyltayak"
 kyzylyyldyz: 
-  city: kyzylyyldyz
-  accentcity: Kyzylyyldyz
+  city: "kyzylyyldyz"
+  accentcity: "Kyzylyyldyz"
 lambe: 
-  city: lambe
-  accentcity: Lambe
+  city: "lambe"
+  accentcity: "Lambe"
 lavak: 
-  city: lavak
-  accentcity: Lavak
+  city: "lavak"
+  accentcity: "Lavak"
 lebap: 
-  city: lebap
-  accentcity: Lebap
+  city: "lebap"
+  accentcity: "Lebap"
 leningrad: 
-  city: leningrad
-  accentcity: Leningrad
+  city: "leningrad"
+  accentcity: "Leningrad"
 leninizm: 
-  city: leninizm
-  accentcity: Leninizm
+  city: "leninizm"
+  accentcity: "Leninizm"
 leninsk: 
-  city: leninsk
-  accentcity: Leninsk
+  city: "leninsk"
+  accentcity: "Leninsk"
 leninsk-turkmenski: 
-  city: leninsk-turkmenski
-  accentcity: Leninsk-Turkmenski
+  city: "leninsk-turkmenski"
+  accentcity: "Leninsk-Turkmenski"
 leninsk-turmenski: 
-  city: leninsk-turmenski
-  accentcity: Leninsk-Turmenski
+  city: "leninsk-turmenski"
+  accentcity: "Leninsk-Turmenski"
 lesopitomnik: 
-  city: lesopitomnik
-  accentcity: Lesopitomnik
+  city: "lesopitomnik"
+  accentcity: "Lesopitomnik"
 llidzha: 
-  city: llidzha
-  accentcity: Llidzha
+  city: "llidzha"
+  accentcity: "Llidzha"
 lyambe: 
-  city: lyambe
-  accentcity: Lyambe
+  city: "lyambe"
+  accentcity: "Lyambe"
 madau: 
-  city: madau
-  accentcity: Madau
+  city: "madau"
+  accentcity: "Madau"
 madav: 
-  city: madav
-  accentcity: Madav
+  city: "madav"
+  accentcity: "Madav"
 madaw: 
-  city: madaw
-  accentcity: Madaw
+  city: "madaw"
+  accentcity: "Madaw"
 magarif: 
-  city: magarif
-  accentcity: Magarif
+  city: "magarif"
+  accentcity: "Magarif"
 magaryf: 
-  city: magaryf
-  accentcity: Magaryf
+  city: "magaryf"
+  accentcity: "Magaryf"
 makhmaldepe: 
-  city: makhmaldepe
-  accentcity: Makhmaldepe
+  city: "makhmaldepe"
+  accentcity: "Makhmaldepe"
 makhmal: 
-  city: makhmal
-  accentcity: Makhmal
+  city: "makhmal"
+  accentcity: "Makhmal"
 makhmal-tepe: 
-  city: makhmal-tepe
-  accentcity: Makhmal-Tepe
+  city: "makhmal-tepe"
+  accentcity: "Makhmal-Tepe"
 makhmud-adzhi: 
-  city: makhmud-adzhi
-  accentcity: Makhmud-Adzhi
+  city: "makhmud-adzhi"
+  accentcity: "Makhmud-Adzhi"
 makhtum-kala: 
-  city: makhtum-kala
-  accentcity: Makhtum-Kala
+  city: "makhtum-kala"
+  accentcity: "Makhtum-Kala"
 makhtym-kala: 
-  city: makhtym-kala
-  accentcity: Makhtym-Kala
+  city: "makhtym-kala"
+  accentcity: "Makhtym-Kala"
 makhtym: 
-  city: makhtym
-  accentcity: Makhtym
+  city: "makhtym"
+  accentcity: "Makhtym"
 malay-adzhi: 
-  city: malay-adzhi
-  accentcity: Malay-Adzhi
+  city: "malay-adzhi"
+  accentcity: "Malay-Adzhi"
 mallarchilyk: 
-  city: mallarchilyk
-  accentcity: Mallarchilyk
+  city: "mallarchilyk"
+  accentcity: "Mallarchilyk"
 mamash: 
-  city: mamash
-  accentcity: Mamash
+  city: "mamash"
+  accentcity: "Mamash"
 mamatai: 
-  city: mamatai
-  accentcity: Mamatai
+  city: "mamatai"
+  accentcity: "Mamatai"
 mamatay: 
-  city: mamatay
-  accentcity: Mamatay
+  city: "mamatay"
+  accentcity: "Mamatay"
 mamed'yar: 
-  city: mamed'yar
-  accentcity: Mamed'yar
+  city: "mamed'yar"
+  accentcity: "Mamed'yar"
 mamur: 
-  city: mamur
-  accentcity: Mamur
+  city: "mamur"
+  accentcity: "Mamur"
 mane: 
-  city: mane
+  city: "mane"
   accentcity: "M\xC3\xA4ne"
 mantik ui: 
-  city: mantik ui
-  accentcity: Mantik Ui
+  city: "mantik ui"
+  accentcity: "Mantik Ui"
 mantyk: 
-  city: mantyk
-  accentcity: Mantyk
+  city: "mantyk"
+  accentcity: "Mantyk"
 manysh: 
-  city: manysh
-  accentcity: Manysh
+  city: "manysh"
+  accentcity: "Manysh"
 maraniyat: 
-  city: maraniyat
-  accentcity: Maraniyat
+  city: "maraniyat"
+  accentcity: "Maraniyat"
 marat: 
-  city: marat
-  accentcity: Marat
+  city: "marat"
+  accentcity: "Marat"
 martazi: 
-  city: martazi
-  accentcity: Martazi
+  city: "martazi"
+  accentcity: "Martazi"
 mary: 
-  city: mary
-  accentcity: Mary
+  city: "mary"
+  accentcity: "Mary"
 mayak-olum: 
-  city: mayak-olum
-  accentcity: Mayak-Olum
+  city: "mayak-olum"
+  accentcity: "Mayak-Olum"
 meagadzhik: 
-  city: meagadzhik
-  accentcity: Meagadzhik
+  city: "meagadzhik"
+  accentcity: "Meagadzhik"
 meana: 
-  city: meana
-  accentcity: Meana
+  city: "meana"
+  accentcity: "Meana"
 medzheur: 
-  city: medzheur
-  accentcity: Medzheur
+  city: "medzheur"
+  accentcity: "Medzheur"
 megadzhik: 
-  city: megadzhik
-  accentcity: Megadzhik
+  city: "megadzhik"
+  accentcity: "Megadzhik"
 megejik: 
-  city: megejik
-  accentcity: Megejik
+  city: "megejik"
+  accentcity: "Megejik"
 megeli: 
-  city: megeli
-  accentcity: Megeli
+  city: "megeli"
+  accentcity: "Megeli"
 megin: 
-  city: megin
-  accentcity: Megin
+  city: "megin"
+  accentcity: "Megin"
 mekan: 
-  city: mekan
-  accentcity: Mekan
+  city: "mekan"
+  accentcity: "Mekan"
 mekhenli: 
-  city: mekhenli
-  accentcity: Mekhenli
+  city: "mekhenli"
+  accentcity: "Mekhenli"
 mekhinli: 
-  city: mekhinli
-  accentcity: Mekhinli
+  city: "mekhinli"
+  accentcity: "Mekhinli"
 mekrub: 
-  city: mekrub
-  accentcity: Mekrub
+  city: "mekrub"
+  accentcity: "Mekrub"
 meruchak: 
-  city: meruchak
-  accentcity: Meruchak
+  city: "meruchak"
+  accentcity: "Meruchak"
 merv: 
-  city: merv
-  accentcity: Merv
+  city: "merv"
+  accentcity: "Merv"
 mesadzhik: 
-  city: mesadzhik
-  accentcity: Mesadzhik
+  city: "mesadzhik"
+  accentcity: "Mesadzhik"
 meshkhed: 
-  city: meshkhed
-  accentcity: Meshkhed
+  city: "meshkhed"
+  accentcity: "Meshkhed"
 mezin-kala: 
-  city: mezin-kala
-  accentcity: Mezin-Kala
+  city: "mezin-kala"
+  accentcity: "Mezin-Kala"
 miana: 
-  city: miana
-  accentcity: Miana
+  city: "miana"
+  accentcity: "Miana"
 mikhaylovskiy: 
-  city: mikhaylovskiy
-  accentcity: Mikhaylovskiy
+  city: "mikhaylovskiy"
+  accentcity: "Mikhaylovskiy"
 miradzhi: 
-  city: miradzhi
-  accentcity: Miradzhi
+  city: "miradzhi"
+  accentcity: "Miradzhi"
 mirnyy: 
-  city: mirnyy
-  accentcity: Mirnyy
+  city: "mirnyy"
+  accentcity: "Mirnyy"
 mirzabek: 
-  city: mirzabek
-  accentcity: Mirzabek
+  city: "mirzabek"
+  accentcity: "Mirzabek"
 mirzachirla: 
-  city: mirzachirla
-  accentcity: Mirzachirla
+  city: "mirzachirla"
+  accentcity: "Mirzachirla"
 modar: 
-  city: modar
-  accentcity: Modar
+  city: "modar"
+  accentcity: "Modar"
 mollagara: 
-  city: mollagara
-  accentcity: Mollagara
+  city: "mollagara"
+  accentcity: "Mollagara"
 mollakara: 
-  city: mollakara
-  accentcity: Mollakara
+  city: "mollakara"
+  accentcity: "Mollakara"
 molotova: 
-  city: molotova
-  accentcity: Molotova
+  city: "molotova"
+  accentcity: "Molotova"
 monchakly: 
-  city: monchakly
-  accentcity: Monchakly
+  city: "monchakly"
+  accentcity: "Monchakly"
 monzhukli: 
-  city: monzhukli
-  accentcity: Monzhukli
+  city: "monzhukli"
+  accentcity: "Monzhukli"
 monzhukly: 
-  city: monzhukly
-  accentcity: Monzhukly
+  city: "monzhukly"
+  accentcity: "Monzhukly"
 moor: 
-  city: moor
-  accentcity: Moor
+  city: "moor"
+  accentcity: "Moor"
 morgunovskiy: 
-  city: morgunovskiy
-  accentcity: Morgunovskiy
+  city: "morgunovskiy"
+  accentcity: "Morgunovskiy"
 moskovsk: 
-  city: moskovsk
-  accentcity: Moskovsk
+  city: "moskovsk"
+  accentcity: "Moskovsk"
 moskva: 
-  city: moskva
-  accentcity: Moskva
+  city: "moskva"
+  accentcity: "Moskva"
 moyak: 
-  city: moyak
-  accentcity: Moyak
+  city: "moyak"
+  accentcity: "Moyak"
 moyak-olum: 
-  city: moyak-olum
-  accentcity: Moyak-Olum
+  city: "moyak-olum"
+  accentcity: "Moyak-Olum"
 mugal-bala: 
-  city: mugal-bala
-  accentcity: Mugal-Bala
+  city: "mugal-bala"
+  accentcity: "Mugal-Bala"
 mukri: 
-  city: mukri
-  accentcity: Mukri
+  city: "mukri"
+  accentcity: "Mukri"
 mukry: 
-  city: mukry
-  accentcity: Mukry
+  city: "mukry"
+  accentcity: "Mukry"
 muminchandyr: 
-  city: muminchandyr
-  accentcity: Muminchandyr
+  city: "muminchandyr"
+  accentcity: "Muminchandyr"
 mumyn-chandyr: 
-  city: mumyn-chandyr
-  accentcity: Mumyn-Chandyr
+  city: "mumyn-chandyr"
+  accentcity: "Mumyn-Chandyr"
 murcha: 
-  city: murcha
-  accentcity: Murcha
+  city: "murcha"
+  accentcity: "Murcha"
 murchi: 
-  city: murchi
-  accentcity: Murchi
+  city: "murchi"
+  accentcity: "Murchi"
 murgab: 
-  city: murgab
-  accentcity: Murgab
+  city: "murgab"
+  accentcity: "Murgab"
 murgap: 
-  city: murgap
-  accentcity: Murgap
+  city: "murgap"
+  accentcity: "Murgap"
 mys it-balyk: 
-  city: mys it-balyk
-  accentcity: Mys It-Balyk
+  city: "mys it-balyk"
+  accentcity: "Mys It-Balyk"
 myulk-yazy: 
-  city: myulk-yazy
-  accentcity: Myulk-Yazy
+  city: "myulk-yazy"
+  accentcity: "Myulk-Yazy"
 naara: 
-  city: naara
-  accentcity: Naara
+  city: "naara"
+  accentcity: "Naara"
 narazym: 
-  city: narazym
-  accentcity: Narazym
+  city: "narazym"
+  accentcity: "Narazym"
 narou: 
-  city: narou
-  accentcity: Narou
+  city: "narou"
+  accentcity: "Narou"
 "nauraozi\xC2\x84bad": 
   city: "nauraozi\xC2\x84bad"
   accentcity: "Nauraoz\xC3\x8C\xC2\x84bad"
 nauruz-abad: 
-  city: nauruz-abad
-  accentcity: Nauruz-Abad
+  city: "nauruz-abad"
+  accentcity: "Nauruz-Abad"
 nayuar: 
-  city: nayuar
-  accentcity: Nayuar
+  city: "nayuar"
+  accentcity: "Nayuar"
 neaz-depe: 
-  city: neaz-depe
-  accentcity: Neaz-Depe
+  city: "neaz-depe"
+  accentcity: "Neaz-Depe"
 nebitdag: 
-  city: nebitdag
-  accentcity: Nebitdag
+  city: "nebitdag"
+  accentcity: "Nebitdag"
 neftedag: 
-  city: neftedag
-  accentcity: Neftedag
+  city: "neftedag"
+  accentcity: "Neftedag"
 neftezavodsk: 
-  city: neftezavodsk
-  accentcity: Neftezavodsk
+  city: "neftezavodsk"
+  accentcity: "Neftezavodsk"
 neftonovskiy: 
-  city: neftonovskiy
-  accentcity: Neftonovskiy
+  city: "neftonovskiy"
+  accentcity: "Neftonovskiy"
 nestonovskiy: 
-  city: nestonovskiy
-  accentcity: Nestonovskiy
+  city: "nestonovskiy"
+  accentcity: "Nestonovskiy"
 nevtonovskiy: 
-  city: nevtonovskiy
-  accentcity: Nevtonovskiy
+  city: "nevtonovskiy"
+  accentcity: "Nevtonovskiy"
 nevtonskiy: 
-  city: nevtonskiy
-  accentcity: Nevtonskiy
+  city: "nevtonskiy"
+  accentcity: "Nevtonskiy"
 newtonow: 
-  city: newtonow
-  accentcity: Newtonow
+  city: "newtonow"
+  accentcity: "Newtonow"
 nichka: 
-  city: nichka
-  accentcity: Nichka
+  city: "nichka"
+  accentcity: "Nichka"
 nikol'skiy: 
-  city: nikol'skiy
-  accentcity: Nikol'skiy
+  city: "nikol'skiy"
+  accentcity: "Nikol'skiy"
 niyazdepe: 
-  city: niyazdepe
-  accentcity: Niyazdepe
+  city: "niyazdepe"
+  accentcity: "Niyazdepe"
 nogarli: 
-  city: nogarli
-  accentcity: Nogarli
+  city: "nogarli"
+  accentcity: "Nogarli"
 nokhur: 
-  city: nokhur
-  accentcity: Nokhur
+  city: "nokhur"
+  accentcity: "Nokhur"
 nova-kala: 
-  city: nova-kala
-  accentcity: Nova-Kala
+  city: "nova-kala"
+  accentcity: "Nova-Kala"
 nova: 
-  city: nova
-  accentcity: Nova
+  city: "nova"
+  accentcity: "Nova"
 nov charjui: 
-  city: nov charjui
-  accentcity: Nov Charjui
+  city: "nov charjui"
+  accentcity: "Nov Charjui"
 novo chardzhou: 
-  city: novo chardzhou
-  accentcity: Novo Chardzhou
+  city: "novo chardzhou"
+  accentcity: "Novo Chardzhou"
 novo-chardzhuy: 
-  city: novo-chardzhuy
-  accentcity: Novo-Chardzhuy
+  city: "novo-chardzhuy"
+  accentcity: "Novo-Chardzhuy"
 now ruzabad: 
-  city: now ruzabad
-  accentcity: Now Ruzabad
+  city: "now ruzabad"
+  accentcity: "Now Ruzabad"
 nugri: 
-  city: nugri
-  accentcity: Nugri
+  city: "nugri"
+  accentcity: "Nugri"
 nugunek: 
-  city: nugunek
-  accentcity: Nugunek
+  city: "nugunek"
+  accentcity: "Nugunek"
 nukhur: 
-  city: nukhur
-  accentcity: Nukhur
+  city: "nukhur"
+  accentcity: "Nukhur"
 nuradzhi: 
-  city: nuradzhi
-  accentcity: Nuradzhi
+  city: "nuradzhi"
+  accentcity: "Nuradzhi"
 nurali: 
-  city: nurali
-  accentcity: Nurali
+  city: "nurali"
+  accentcity: "Nurali"
 nurata: 
-  city: nurata
-  accentcity: Nurata
+  city: "nurata"
+  accentcity: "Nurata"
 nurpali: 
-  city: nurpali
-  accentcity: Nurpali
+  city: "nurpali"
+  accentcity: "Nurpali"
 nyrnuar: 
-  city: nyrnuar
-  accentcity: Nyrnuar
+  city: "nyrnuar"
+  accentcity: "Nyrnuar"
 nyyazow: 
-  city: nyyazow
-  accentcity: Nyyazow
+  city: "nyyazow"
+  accentcity: "Nyyazow"
 oba: 
-  city: oba
-  accentcity: Oba
+  city: "oba"
+  accentcity: "Oba"
 oboy: 
-  city: oboy
-  accentcity: Oboy
+  city: "oboy"
+  accentcity: "Oboy"
 ochar-ata: 
-  city: ochar-ata
-  accentcity: Ochar-Ata
+  city: "ochar-ata"
+  accentcity: "Ochar-Ata"
 odey: 
-  city: odey
+  city: "odey"
   accentcity: "\xC3\x96dey"
 odzharly: 
-  city: odzharly
-  accentcity: Odzharly
+  city: "odzharly"
+  accentcity: "Odzharly"
 ogam: 
-  city: ogam
-  accentcity: Ogam
+  city: "ogam"
+  accentcity: "Ogam"
 oganly: 
-  city: oganly
-  accentcity: Oganly
+  city: "oganly"
+  accentcity: "Oganly"
 ogar: 
-  city: ogar
-  accentcity: Ogar
+  city: "ogar"
+  accentcity: "Ogar"
 oglamish: 
-  city: oglamish
-  accentcity: Oglamish
+  city: "oglamish"
+  accentcity: "Oglamish"
 oglamysh: 
-  city: oglamysh
-  accentcity: Oglamysh
+  city: "oglamysh"
+  accentcity: "Oglamysh"
 oglangli: 
-  city: oglangli
-  accentcity: Oglangli
+  city: "oglangli"
+  accentcity: "Oglangli"
 oglanly: 
-  city: oglanly
-  accentcity: Oglanly
+  city: "oglanly"
+  accentcity: "Oglanly"
 ogomana: 
-  city: ogomana
-  accentcity: Ogomana
+  city: "ogomana"
+  accentcity: "Ogomana"
 ogurchinskiy: 
-  city: ogurchinskiy
-  accentcity: Ogurchinskiy
+  city: "ogurchinskiy"
+  accentcity: "Ogurchinskiy"
 ogurdzhaly: 
-  city: ogurdzhaly
-  accentcity: Ogurdzhaly
+  city: "ogurdzhaly"
+  accentcity: "Ogurdzhaly"
 ogurjaly: 
-  city: ogurjaly
-  accentcity: Ogurjaly
+  city: "ogurjaly"
+  accentcity: "Ogurjaly"
 oguz: 
-  city: oguz
-  accentcity: Oguz
+  city: "oguz"
+  accentcity: "Oguz"
 okarem: 
-  city: okarem
-  accentcity: Okarem
+  city: "okarem"
+  accentcity: "Okarem"
 oktyabr': 
-  city: oktyabr'
-  accentcity: Oktyabr'
+  city: "oktyabr'"
+  accentcity: "Oktyabr'"
 oktyabr'sk: 
-  city: oktyabr'sk
-  accentcity: Oktyabr'sk
+  city: "oktyabr'sk"
+  accentcity: "Oktyabr'sk"
 omarata: 
-  city: omarata
-  accentcity: Omarata
+  city: "omarata"
+  accentcity: "Omarata"
 omar-khodzha: 
-  city: omar-khodzha
-  accentcity: Omar-Khodzha
+  city: "omar-khodzha"
+  accentcity: "Omar-Khodzha"
 omar: 
-  city: omar
-  accentcity: Omar
+  city: "omar"
+  accentcity: "Omar"
 omchali: 
-  city: omchali
-  accentcity: Omchali
+  city: "omchali"
+  accentcity: "Omchali"
 omchaly: 
-  city: omchaly
-  accentcity: Omchaly
+  city: "omchaly"
+  accentcity: "Omchaly"
 omchely: 
-  city: omchely
-  accentcity: Omchely
+  city: "omchely"
+  accentcity: "Omchely"
 on-begi: 
-  city: on-begi
-  accentcity: On-Begi
+  city: "on-begi"
+  accentcity: "On-Begi"
 onbirikzhi: 
-  city: onbirikzhi
-  accentcity: Onbirikzhi
+  city: "onbirikzhi"
+  accentcity: "Onbirikzhi"
 opytnoye pole: 
-  city: opytnoye pole
-  accentcity: Opytnoye Pole
+  city: "opytnoye pole"
+  accentcity: "Opytnoye Pole"
 orazkel': 
-  city: orazkel'
-  accentcity: "Orazk\xC3\xABl'"
+  city: "orazkel'"
+  accentcity: "Orazkël'"
 ordy-khodzha: 
-  city: ordy-khodzha
-  accentcity: Ordy-Khodzha
+  city: "ordy-khodzha"
+  accentcity: "Ordy-Khodzha"
 orfa: 
-  city: orfa
-  accentcity: Orfa
+  city: "orfa"
+  accentcity: "Orfa"
 or-kolashik: 
-  city: or-kolashik
-  accentcity: Or-Kolashik
+  city: "or-kolashik"
+  accentcity: "Or-Kolashik"
 orta-yaylya: 
-  city: orta-yaylya
-  accentcity: Orta-Yaylya
+  city: "orta-yaylya"
+  accentcity: "Orta-Yaylya"
 orunchaga: 
-  city: orunchaga
-  accentcity: Orunchaga
+  city: "orunchaga"
+  accentcity: "Orunchaga"
 ovaz-dzhalatay: 
-  city: ovaz-dzhalatay
-  accentcity: Ovaz-Dzhalatay
+  city: "ovaz-dzhalatay"
+  accentcity: "Ovaz-Dzhalatay"
 owezberdi kulyyew adyndaky: 
-  city: owezberdi kulyyew adyndaky
+  city: "owezberdi kulyyew adyndaky"
   accentcity: "\xC3\x96wezberdi Kulyyew Adyndaky"
 pakmaksuidzhi: 
-  city: pakmaksuidzhi
-  accentcity: Pakmaksuidzhi
+  city: "pakmaksuidzhi"
+  accentcity: "Pakmaksuidzhi"
 pakmak-suydzhi: 
-  city: pakmak-suydzhi
-  accentcity: Pakmak-Suydzhi
+  city: "pakmak-suydzhi"
+  accentcity: "Pakmak-Suydzhi"
 pakmak-suydzhy: 
-  city: pakmak-suydzhy
-  accentcity: Pakmak-Suydzhy
+  city: "pakmak-suydzhy"
+  accentcity: "Pakmak-Suydzhy"
 pal'bart: 
-  city: pal'bart
-  accentcity: Pal'bart
+  city: "pal'bart"
+  accentcity: "Pal'bart"
 pal'vart: 
-  city: pal'vart
-  accentcity: Pal'vart
+  city: "pal'vart"
+  accentcity: "Pal'vart"
 parau: 
-  city: parau
-  accentcity: Parau
+  city: "parau"
+  accentcity: "Parau"
 parmasha: 
-  city: parmasha
-  accentcity: Parmasha
+  city: "parmasha"
+  accentcity: "Parmasha"
 parou: 
-  city: parou
-  accentcity: Parou
+  city: "parou"
+  accentcity: "Parou"
 pashtion: 
-  city: pashtion
-  accentcity: Pashtion
+  city: "pashtion"
+  accentcity: "Pashtion"
 permet: 
-  city: permet
-  accentcity: Permet
+  city: "permet"
+  accentcity: "Permet"
 pervogo maya: 
-  city: pervogo maya
-  accentcity: Pervogo Maya
+  city: "pervogo maya"
+  accentcity: "Pervogo Maya"
 pervomayskiy: 
-  city: pervomayskiy
-  accentcity: Pervomayskiy
+  city: "pervomayskiy"
+  accentcity: "Pervomayskiy"
 pervyy khodzhakuyu: 
-  city: pervyy khodzhakuyu
-  accentcity: Pervyy Khodzhakuyu
+  city: "pervyy khodzhakuyu"
+  accentcity: "Pervyy Khodzhakuyu"
 peski: 
-  city: peski
-  accentcity: Peski
+  city: "peski"
+  accentcity: "Peski"
 pewrize: 
-  city: pewrize
-  accentcity: Pewrize
+  city: "pewrize"
+  accentcity: "Pewrize"
 pidina: 
-  city: pidina
-  accentcity: Pidina
+  city: "pidina"
+  accentcity: "Pidina"
 pioner: 
-  city: pioner
-  accentcity: Pioner
+  city: "pioner"
+  accentcity: "Pioner"
 pobeda: 
-  city: pobeda
-  accentcity: Pobeda
+  city: "pobeda"
+  accentcity: "Pobeda"
 pogranichnik: 
-  city: pogranichnik
-  accentcity: Pogranichnik
+  city: "pogranichnik"
+  accentcity: "Pogranichnik"
 pogranichnyy: 
-  city: pogranichnyy
-  accentcity: Pogranichnyy
+  city: "pogranichnyy"
+  accentcity: "Pogranichnyy"
 polekhatum: 
-  city: polekhatum
-  accentcity: Polekhatum
+  city: "polekhatum"
+  accentcity: "Polekhatum"
 pole-khatun: 
-  city: pole-khatun
-  accentcity: Pole-Khatun
+  city: "pole-khatun"
+  accentcity: "Pole-Khatun"
 polisultan: 
-  city: polisultan
-  accentcity: Polisultan
+  city: "polisultan"
+  accentcity: "Polisultan"
 poltavskiy: 
-  city: poltavskiy
-  accentcity: Poltavskiy
+  city: "poltavskiy"
+  accentcity: "Poltavskiy"
 poltavskoye: 
-  city: poltavskoye
-  accentcity: Poltavskoye
+  city: "poltavskoye"
+  accentcity: "Poltavskoye"
 poltoratsk: 
-  city: poltoratsk
-  accentcity: Poltoratsk
+  city: "poltoratsk"
+  accentcity: "Poltoratsk"
 porsu: 
-  city: porsu
-  accentcity: Porsu
+  city: "porsu"
+  accentcity: "Porsu"
 porsy: 
-  city: porsy
-  accentcity: Porsy
+  city: "porsy"
+  accentcity: "Porsy"
 poselok poltavskiy: 
-  city: poselok poltavskiy
-  accentcity: "Pos\xC3\xABlok Poltavskiy"
+  city: "poselok poltavskiy"
+  accentcity: "Posëlok Poltavskiy"
 poselok severnykh promyslov ozera nomera shestogo: 
-  city: poselok severnykh promyslov ozera nomera shestogo
-  accentcity: "Pos\xC3\xABlok Severnykh Promyslov Ozera Nomera Shestogo"
+  city: "poselok severnykh promyslov ozera nomera shestogo"
+  accentcity: "Posëlok Severnykh Promyslov Ozera Nomera Shestogo"
 poselok severnykh promyslov: 
-  city: poselok severnykh promyslov
-  accentcity: "Pos\xC3\xABlok Severnykh Promyslov"
+  city: "poselok severnykh promyslov"
+  accentcity: "Posëlok Severnykh Promyslov"
 pravda: 
-  city: pravda
-  accentcity: Pravda
+  city: "pravda"
+  accentcity: "Pravda"
 pristan' lavak: 
-  city: pristan' lavak
-  accentcity: Pristan' Lavak
+  city: "pristan' lavak"
+  accentcity: "Pristan' Lavak"
 prokhladnoye: 
-  city: prokhladnoye
-  accentcity: Prokhladnoye
+  city: "prokhladnoye"
+  accentcity: "Prokhladnoye"
 prokhladny: 
-  city: prokhladny
-  accentcity: Prokhladny
+  city: "prokhladny"
+  accentcity: "Prokhladny"
 prokhladnyy: 
-  city: prokhladnyy
-  accentcity: Prokhladnyy
+  city: "prokhladnyy"
+  accentcity: "Prokhladnyy"
 proletariy: 
-  city: proletariy
-  accentcity: Proletariy
+  city: "proletariy"
+  accentcity: "Proletariy"
 promsel chagala: 
-  city: promsel chagala
-  accentcity: Promsel Chagala
+  city: "promsel chagala"
+  accentcity: "Promsel Chagala"
 pudina: 
-  city: pudina
-  accentcity: Pudina
+  city: "pudina"
+  accentcity: "Pudina"
 pulikhatum: 
-  city: pulikhatum
-  accentcity: Pulikhatum
+  city: "pulikhatum"
+  accentcity: "Pulikhatum"
 pulkhatyn: 
-  city: pulkhatyn
-  accentcity: Pulkhatyn
+  city: "pulkhatyn"
+  accentcity: "Pulkhatyn"
 purnuar: 
-  city: purnuar
-  accentcity: Purnuar
+  city: "purnuar"
+  accentcity: "Purnuar"
 put' lenina: 
-  city: put' lenina
-  accentcity: Put' Lenina
+  city: "put' lenina"
+  accentcity: "Put' Lenina"
 pyatiletka: 
-  city: pyatiletka
-  accentcity: Pyatiletka
+  city: "pyatiletka"
+  accentcity: "Pyatiletka"
 pyrnilar: 
-  city: pyrnilar
-  accentcity: Pyrnilar
+  city: "pyrnilar"
+  accentcity: "Pyrnilar"
 pyrnuar: 
-  city: pyrnuar
-  accentcity: Pyrnuar
+  city: "pyrnuar"
+  accentcity: "Pyrnuar"
 qarki: 
-  city: qarki
-  accentcity: Qarki
+  city: "qarki"
+  accentcity: "Qarki"
 qura gel: 
-  city: qura gel
-  accentcity: Qura Gel
+  city: "qura gel"
+  accentcity: "Qura Gel"
 rabat-kashan: 
-  city: rabat-kashan
-  accentcity: Rabat-Kashan
+  city: "rabat-kashan"
+  accentcity: "Rabat-Kashan"
 rabochiy: 
-  city: rabochiy
-  accentcity: Rabochiy
+  city: "rabochiy"
+  accentcity: "Rabochiy"
 ravnina: 
-  city: ravnina
-  accentcity: Ravnina
+  city: "ravnina"
+  accentcity: "Ravnina"
 repetek: 
-  city: repetek
-  accentcity: Repetek
+  city: "repetek"
+  accentcity: "Repetek"
 romanovskiy: 
-  city: romanovskiy
-  accentcity: Romanovskiy
+  city: "romanovskiy"
+  accentcity: "Romanovskiy"
 romazak: 
-  city: romazak
-  accentcity: Romazak
+  city: "romazak"
+  accentcity: "Romazak"
 saarly: 
-  city: saarly
-  accentcity: Saarly
+  city: "saarly"
+  accentcity: "Saarly"
 saaslar: 
-  city: saaslar
-  accentcity: Saaslar
+  city: "saaslar"
+  accentcity: "Saaslar"
 sabbuny: 
-  city: sabbuny
-  accentcity: Sabbuny
+  city: "sabbuny"
+  accentcity: "Sabbuny"
 sadyvar: 
-  city: sadyvar
-  accentcity: Sadyvar
+  city: "sadyvar"
+  accentcity: "Sadyvar"
 sagar-chaga: 
-  city: sagar-chaga
-  accentcity: Sagar-Chaga
+  city: "sagar-chaga"
+  accentcity: "Sagar-Chaga"
 sakar-adzhi: 
-  city: sakar-adzhi
-  accentcity: Sakar-Adzhi
+  city: "sakar-adzhi"
+  accentcity: "Sakar-Adzhi"
 sakarchaga: 
-  city: sakarchaga
-  accentcity: Sakarchaga
+  city: "sakarchaga"
+  accentcity: "Sakarchaga"
 sakar-chaga: 
-  city: sakar-chaga
-  accentcity: Sakar-Chaga
+  city: "sakar-chaga"
+  accentcity: "Sakar-Chaga"
 sakarchage: 
-  city: sakarchage
+  city: "sakarchage"
   accentcity: "Sakarch\xC3\xA4ge"
 sakar: 
-  city: sakar
+  city: "sakar"
   accentcity: "S\xC3\xA4kar"
 sakizatlyk: 
-  city: sakizatlyk
-  accentcity: Sakizatlyk
+  city: "sakizatlyk"
+  accentcity: "Sakizatlyk"
 salmiin: 
-  city: salmiin
-  accentcity: Salmiin
+  city: "salmiin"
+  accentcity: "Salmiin"
 samsonovo: 
-  city: samsonovo
-  accentcity: Samsonovo
+  city: "samsonovo"
+  accentcity: "Samsonovo"
 samsyk: 
-  city: samsyk
-  accentcity: Samsyk
+  city: "samsyk"
+  accentcity: "Samsyk"
 sandykachi: 
-  city: sandykachi
-  accentcity: Sandykachi
+  city: "sandykachi"
+  accentcity: "Sandykachi"
 sandykgachy: 
-  city: sandykgachy
-  accentcity: Sandykgachy
+  city: "sandykgachy"
+  accentcity: "Sandykgachy"
 sandykgacy: 
-  city: sandykgacy
-  accentcity: "Sandykga\xC3\xA7y"
+  city: "sandykgacy"
+  accentcity: "Sandykgaçy"
 sansy: 
-  city: sansy
-  accentcity: Sansy
+  city: "sansy"
+  accentcity: "Sansy"
 sansyya: 
-  city: sansyya
-  accentcity: Sansyya
+  city: "sansyya"
+  accentcity: "Sansyya"
 sansyz: 
-  city: sansyz
-  accentcity: Sansyz
+  city: "sansyz"
+  accentcity: "Sansyz"
 sapardar: 
-  city: sapardar
-  accentcity: Sapardar
+  city: "sapardar"
+  accentcity: "Sapardar"
 saragt: 
-  city: saragt
-  accentcity: Saragt
+  city: "saragt"
+  accentcity: "Saragt"
 sarahs: 
-  city: sarahs
-  accentcity: Sarahs
+  city: "sarahs"
+  accentcity: "Sarahs"
 sarakhs: 
-  city: sarakhs
-  accentcity: Sarakhs
+  city: "sarakhs"
+  accentcity: "Sarakhs"
 sardoba batali: 
-  city: sardoba batali
-  accentcity: Sardoba Batali
+  city: "sardoba batali"
+  accentcity: "Sardoba Batali"
 sardoba batash: 
-  city: sardoba batash
-  accentcity: Sardoba Batash
+  city: "sardoba batash"
+  accentcity: "Sardoba Batash"
 sardoba: 
-  city: sardoba
-  accentcity: Sardoba
+  city: "sardoba"
+  accentcity: "Sardoba"
 sardoba yulangiz: 
-  city: sardoba yulangiz
-  accentcity: Sardoba Yulangiz
+  city: "sardoba yulangiz"
+  accentcity: "Sardoba Yulangiz"
 sar-gurum: 
-  city: sar-gurum
-  accentcity: Sar-Gurum
+  city: "sar-gurum"
+  accentcity: "Sar-Gurum"
 sarli: 
-  city: sarli
-  accentcity: Sarli
+  city: "sarli"
+  accentcity: "Sarli"
 sartas: 
-  city: sartas
-  accentcity: Sartas
+  city: "sartas"
+  accentcity: "Sartas"
 sartele: 
-  city: sartele
-  accentcity: Sartele
+  city: "sartele"
+  accentcity: "Sartele"
 sartepe: 
-  city: sartepe
-  accentcity: Sartepe
+  city: "sartepe"
+  accentcity: "Sartepe"
 sary-bash: 
-  city: sary-bash
-  accentcity: Sary-Bash
+  city: "sary-bash"
+  accentcity: "Sary-Bash"
 sarydag-tugay: 
-  city: sarydag-tugay
-  accentcity: Sarydag-Tugay
+  city: "sarydag-tugay"
+  accentcity: "Sarydag-Tugay"
 sarydepe: 
-  city: sarydepe
-  accentcity: Sarydepe
+  city: "sarydepe"
+  accentcity: "Sarydepe"
 sarygurum: 
-  city: sarygurum
-  accentcity: Sarygurum
+  city: "sarygurum"
+  accentcity: "Sarygurum"
 sarykbala: 
-  city: sarykbala
-  accentcity: Sarykbala
+  city: "sarykbala"
+  accentcity: "Sarykbala"
 sarykel': 
-  city: sarykel'
-  accentcity: Sarykel'
+  city: "sarykel'"
+  accentcity: "Sarykel'"
 saryyazy: 
-  city: saryyazy
+  city: "saryyazy"
   accentcity: "Sary\xC3\xBDazy"
 sayat: 
-  city: sayat
+  city: "sayat"
   accentcity: "Sa\xC3\xBDat"
 saybatur: 
-  city: saybatur
-  accentcity: Saybatur
+  city: "saybatur"
+  accentcity: "Saybatur"
 sayvan: 
-  city: sayvan
-  accentcity: Sayvan
+  city: "sayvan"
+  accentcity: "Sayvan"
 sayvatur: 
-  city: sayvatur
-  accentcity: Sayvatur
+  city: "sayvatur"
+  accentcity: "Sayvatur"
 sazandy: 
-  city: sazandy
-  accentcity: Sazandy
+  city: "sazandy"
+  accentcity: "Sazandy"
 segli-kar: 
-  city: segli-kar
-  accentcity: Segli-Kar
+  city: "segli-kar"
+  accentcity: "Segli-Kar"
 segli-khar-kurama: 
-  city: segli-khar-kurama
-  accentcity: Segli-Khar-Kurama
+  city: "segli-khar-kurama"
+  accentcity: "Segli-Khar-Kurama"
 sein-ali: 
-  city: sein-ali
-  accentcity: Sein-Ali
+  city: "sein-ali"
+  accentcity: "Sein-Ali"
 sekizatlyk: 
-  city: sekizatlyk
-  accentcity: Sekizatlyk
+  city: "sekizatlyk"
+  accentcity: "Sekizatlyk"
 serakhskiy rayon: 
-  city: serakhskiy rayon
-  accentcity: Serakhskiy Rayon
+  city: "serakhskiy rayon"
+  accentcity: "Serakhskiy Rayon"
 serakhs: 
-  city: serakhs
-  accentcity: Serakhs
+  city: "serakhs"
+  accentcity: "Serakhs"
 serni zavod: 
-  city: serni zavod
-  accentcity: Serni Zavod
+  city: "serni zavod"
+  accentcity: "Serni Zavod"
 sernyy zavod: 
-  city: sernyy zavod
-  accentcity: Sernyy Zavod
+  city: "sernyy zavod"
+  accentcity: "Sernyy Zavod"
 serny zavod: 
-  city: serny zavod
-  accentcity: Serny Zavod
+  city: "serny zavod"
+  accentcity: "Serny Zavod"
 settlement number fifty-two: 
-  city: settlement number fifty-two
-  accentcity: Settlement Number Fifty-two
+  city: "settlement number fifty-two"
+  accentcity: "Settlement Number Fifty-two"
 severnykh promyslov ozera nomera shestogo: 
-  city: severnykh promyslov ozera nomera shestogo
-  accentcity: Severnykh Promyslov Ozera Nomera Shestogo
+  city: "severnykh promyslov ozera nomera shestogo"
+  accentcity: "Severnykh Promyslov Ozera Nomera Shestogo"
 sevrny: 
-  city: sevrny
-  accentcity: Sevrny
+  city: "sevrny"
+  accentcity: "Sevrny"
 seydi: 
-  city: seydi
-  accentcity: Seydi
+  city: "seydi"
+  accentcity: "Seydi"
 shaalyk: 
-  city: shaalyk
-  accentcity: Shaalyk
+  city: "shaalyk"
+  accentcity: "Shaalyk"
 shagal: 
-  city: shagal
-  accentcity: Shagal
+  city: "shagal"
+  accentcity: "Shagal"
 shagatly: 
-  city: shagatly
-  accentcity: Shagatly
+  city: "shagatly"
+  accentcity: "Shagatly"
 shakhman: 
-  city: shakhman
-  accentcity: Shakhman
+  city: "shakhman"
+  accentcity: "Shakhman"
 shakhmurad: 
-  city: shakhmurad
-  accentcity: Shakhmurad
+  city: "shakhmurad"
+  accentcity: "Shakhmurad"
 shakh-murat: 
-  city: shakh-murat
-  accentcity: Shakh-Murat
+  city: "shakh-murat"
+  accentcity: "Shakh-Murat"
 shakhsin-togolok: 
-  city: shakhsin-togolok
-  accentcity: Shakhsin-Togolok
+  city: "shakhsin-togolok"
+  accentcity: "Shakhsin-Togolok"
 shal'd: 
-  city: shal'd
-  accentcity: Shal'd
+  city: "shal'd"
+  accentcity: "Shal'd"
 shambebazar: 
-  city: shambebazar
-  accentcity: Shambebazar
+  city: "shambebazar"
+  accentcity: "Shambebazar"
 shamli: 
-  city: shamli
-  accentcity: Shamli
+  city: "shamli"
+  accentcity: "Shamli"
 shamrat-dzhingul': 
-  city: shamrat-dzhingul'
-  accentcity: Shamrat-Dzhingul'
+  city: "shamrat-dzhingul'"
+  accentcity: "Shamrat-Dzhingul'"
 shamurad-dzhinkul': 
-  city: shamurad-dzhinkul'
-  accentcity: Shamurad-Dzhinkul'
+  city: "shamurad-dzhinkul'"
+  accentcity: "Shamurad-Dzhinkul'"
 sharlauk: 
-  city: sharlauk
-  accentcity: Sharlauk
+  city: "sharlauk"
+  accentcity: "Sharlauk"
 sharlavuk: 
-  city: sharlavuk
-  accentcity: Sharlavuk
+  city: "sharlavuk"
+  accentcity: "Sharlavuk"
 sharlawuk: 
-  city: sharlawuk
-  accentcity: Sharlawuk
+  city: "sharlawuk"
+  accentcity: "Sharlawuk"
 sharlouk: 
-  city: sharlouk
-  accentcity: Sharlouk
+  city: "sharlouk"
+  accentcity: "Sharlouk"
 shatlyk: 
-  city: shatlyk
-  accentcity: Shatlyk
+  city: "shatlyk"
+  accentcity: "Shatlyk"
 shaundi: 
-  city: shaundi
-  accentcity: Shaundi
+  city: "shaundi"
+  accentcity: "Shaundi"
 shekh-bala: 
-  city: shekh-bala
-  accentcity: Shekh-Bala
+  city: "shekh-bala"
+  accentcity: "Shekh-Bala"
 shemli: 
-  city: shemli
-  accentcity: Shemli
+  city: "shemli"
+  accentcity: "Shemli"
 shestoye ozero: 
-  city: shestoye ozero
-  accentcity: Shestoye Ozero
+  city: "shestoye ozero"
+  accentcity: "Shestoye Ozero"
 sheykharyk: 
-  city: sheykharyk
-  accentcity: Sheykharyk
+  city: "sheykharyk"
+  accentcity: "Sheykharyk"
 sheykh: 
-  city: sheykh
-  accentcity: Sheykh
+  city: "sheykh"
+  accentcity: "Sheykh"
 shikh: 
-  city: shikh
-  accentcity: Shikh
+  city: "shikh"
+  accentcity: "Shikh"
 shikh'yab: 
-  city: shikh'yab
-  accentcity: Shikh'yab
+  city: "shikh'yab"
+  accentcity: "Shikh'yab"
 shikhzyab: 
-  city: shikhzyab
-  accentcity: Shikhzyab
+  city: "shikhzyab"
+  accentcity: "Shikhzyab"
 shik-kala: 
-  city: shik-kala
-  accentcity: Shik-Kala
+  city: "shik-kala"
+  accentcity: "Shik-Kala"
 shinkh-aryk: 
-  city: shinkh-aryk
-  accentcity: Shinkh-Aryk
+  city: "shinkh-aryk"
+  accentcity: "Shinkh-Aryk"
 shirlama: 
-  city: shirlama
-  accentcity: Shirlama
+  city: "shirlama"
+  accentcity: "Shirlama"
 shirtepe: 
-  city: shirtepe
-  accentcity: Shirtepe
+  city: "shirtepe"
+  accentcity: "Shirtepe"
 shirvan-kala: 
-  city: shirvan-kala
-  accentcity: Shirvan-Kala
+  city: "shirvan-kala"
+  accentcity: "Shirvan-Kala"
 shor-aryk: 
-  city: shor-aryk
-  accentcity: Shor-Aryk
+  city: "shor-aryk"
+  accentcity: "Shor-Aryk"
 shor-cheshme: 
-  city: shor-cheshme
-  accentcity: Shor-Cheshme
+  city: "shor-cheshme"
+  accentcity: "Shor-Cheshme"
 shori-payan: 
-  city: shori-payan
-  accentcity: Shori-Payan
+  city: "shori-payan"
+  accentcity: "Shori-Payan"
 shor-kala: 
-  city: shor-kala
-  accentcity: Shor-Kala
+  city: "shor-kala"
+  accentcity: "Shor-Kala"
 shor-khaudan: 
-  city: shor-khaudan
-  accentcity: Shor-Khaudan
+  city: "shor-khaudan"
+  accentcity: "Shor-Khaudan"
 shorlouk: 
-  city: shorlouk
-  accentcity: Shorlouk
+  city: "shorlouk"
+  accentcity: "Shorlouk"
 shor: 
-  city: shor
-  accentcity: Shor
+  city: "shor"
+  accentcity: "Shor"
 shor-tepe: 
-  city: shor-tepe
-  accentcity: Shor-Tepe
+  city: "shor-tepe"
+  accentcity: "Shor-Tepe"
 shura: 
-  city: shura
-  accentcity: Shura
+  city: "shura"
+  accentcity: "Shura"
 shurvogaz: 
-  city: shurvogaz
-  accentcity: Shurvogaz
+  city: "shurvogaz"
+  accentcity: "Shurvogaz"
 siyadak-sakar: 
-  city: siyadak-sakar
-  accentcity: Siyadak-Sakar
+  city: "siyadak-sakar"
+  accentcity: "Siyadak-Sakar"
 siyadyk-sakar: 
-  city: siyadyk-sakar
-  accentcity: Siyadyk-Sakar
+  city: "siyadyk-sakar"
+  accentcity: "Siyadyk-Sakar"
 siyady: 
-  city: siyady
-  accentcity: Siyady
+  city: "siyady"
+  accentcity: "Siyady"
 siyardyk sakar: 
-  city: siyardyk sakar
-  accentcity: Siyardyk Sakar
+  city: "siyardyk sakar"
+  accentcity: "Siyardyk Sakar"
 solvukli: 
-  city: solvukli
-  accentcity: Solvukli
+  city: "solvukli"
+  accentcity: "Solvukli"
 solyukli: 
-  city: solyukli
-  accentcity: Solyukli
+  city: "solyukli"
+  accentcity: "Solyukli"
 sotsialism: 
-  city: sotsialism
-  accentcity: Sotsialism
+  city: "sotsialism"
+  accentcity: "Sotsialism"
 sotsializm: 
-  city: sotsializm
-  accentcity: Sotsializm
+  city: "sotsializm"
+  accentcity: "Sotsializm"
 sotsializm-yul: 
-  city: sotsializm-yul
-  accentcity: Sotsializm-Yul
+  city: "sotsializm-yul"
+  accentcity: "Sotsializm-Yul"
 "soveta\xC2\x80\xC2\x9Dyap": 
   city: "soveta\xC2\x80\xC2\x9Dyap"
   accentcity: "Sovet\xC3\xA2\xC2\x80\xC2\x9Dyap"
 sovet-yab: 
-  city: sovet-yab
-  accentcity: Sovet-Yab
+  city: "sovet-yab"
+  accentcity: "Sovet-Yab"
 sowetyap: 
-  city: sowetyap
-  accentcity: Sowetyap
+  city: "sowetyap"
+  accentcity: "Sowetyap"
 soyunali: 
-  city: soyunali
+  city: "soyunali"
   accentcity: "S\xC3\xB6\xC3\xBDunali"
 stalina: 
-  city: stalina
-  accentcity: Stalina
+  city: "stalina"
+  accentcity: "Stalina"
 stalino: 
-  city: stalino
-  accentcity: Stalino
+  city: "stalino"
+  accentcity: "Stalino"
 staraya kara-khan-kala: 
-  city: staraya kara-khan-kala
-  accentcity: Staraya Kara-Khan-Kala
+  city: "staraya kara-khan-kala"
+  accentcity: "Staraya Kara-Khan-Kala"
 staryy chardzhuy: 
-  city: staryy chardzhuy
-  accentcity: Staryy Chardzhuy
+  city: "staryy chardzhuy"
+  accentcity: "Staryy Chardzhuy"
 staryy kava-khan-kala: 
-  city: staryy kava-khan-kala
-  accentcity: Staryy Kava-Khan-Kala
+  city: "staryy kava-khan-kala"
+  accentcity: "Staryy Kava-Khan-Kala"
 suili: 
-  city: suili
-  accentcity: Suili
+  city: "suili"
+  accentcity: "Suili"
 sukhty pervyy: 
-  city: sukhty pervyy
-  accentcity: Sukhty Pervyy
+  city: "sukhty pervyy"
+  accentcity: "Sukhty Pervyy"
 sukhty: 
-  city: sukhty
-  accentcity: Sukhty
+  city: "sukhty"
+  accentcity: "Sukhty"
 sukhty vtoroy: 
-  city: sukhty vtoroy
-  accentcity: Sukhty Vtoroy
+  city: "sukhty vtoroy"
+  accentcity: "Sukhty Vtoroy"
 suli-gokcha: 
-  city: suli-gokcha
-  accentcity: Suli-Gokcha
+  city: "suli-gokcha"
+  accentcity: "Suli-Gokcha"
 sultanbent: 
-  city: sultanbent
-  accentcity: Sultanbent
+  city: "sultanbent"
+  accentcity: "Sultanbent"
 suncha: 
-  city: suncha
-  accentcity: Suncha
+  city: "suncha"
+  accentcity: "Suncha"
 sunche: 
-  city: sunche
-  accentcity: Sunche
+  city: "sunche"
+  accentcity: "Sunche"
 sunchi: 
-  city: sunchi
-  accentcity: Sunchi
+  city: "sunchi"
+  accentcity: "Sunchi"
 surkhi: 
-  city: surkhi
-  accentcity: Surkhi
+  city: "surkhi"
+  accentcity: "Surkhi"
 surkhy: 
-  city: surkhy
-  accentcity: Surkhy
+  city: "surkhy"
+  accentcity: "Surkhy"
 surkhy vtoroy: 
-  city: surkhy vtoroy
-  accentcity: Surkhy Vtoroy
+  city: "surkhy vtoroy"
+  accentcity: "Surkhy Vtoroy"
 suydzhermen: 
-  city: suydzhermen
-  accentcity: Suydzhermen
+  city: "suydzhermen"
+  accentcity: "Suydzhermen"
 svintsovyy rudnik: 
-  city: svintsovyy rudnik
-  accentcity: Svintsovyy Rudnik
+  city: "svintsovyy rudnik"
+  accentcity: "Svintsovyy Rudnik"
 sychmyz: 
-  city: sychmyz
-  accentcity: Sychmyz
+  city: "sychmyz"
+  accentcity: "Sychmyz"
 syr-su: 
-  city: syr-su
-  accentcity: Syr-Su
+  city: "syr-su"
+  accentcity: "Syr-Su"
 tagtabazar: 
-  city: tagtabazar
-  accentcity: Tagtabazar
+  city: "tagtabazar"
+  accentcity: "Tagtabazar"
 tagta: 
-  city: tagta
-  accentcity: Tagta
+  city: "tagta"
+  accentcity: "Tagta"
 taimys: 
-  city: taimys
-  accentcity: Taimys
+  city: "taimys"
+  accentcity: "Taimys"
 takhta-bazar: 
-  city: takhta-bazar
-  accentcity: Takhta-Bazar
+  city: "takhta-bazar"
+  accentcity: "Takhta-Bazar"
 takhtapara: 
-  city: takhtapara
-  accentcity: Takhtapara
+  city: "takhtapara"
+  accentcity: "Takhtapara"
 takhta: 
-  city: takhta
-  accentcity: Takhta
+  city: "takhta"
+  accentcity: "Takhta"
 takyr: 
-  city: takyr
-  accentcity: Takyr
+  city: "takyr"
+  accentcity: "Takyr"
 talimardzhan: 
-  city: talimardzhan
-  accentcity: Talimardzhan
+  city: "talimardzhan"
+  accentcity: "Talimardzhan"
 talkhatan-baba: 
-  city: talkhatan-baba
-  accentcity: Talkhatan-Baba
+  city: "talkhatan-baba"
+  accentcity: "Talkhatan-Baba"
 tamli: 
-  city: tamli
-  accentcity: Tamli
+  city: "tamli"
+  accentcity: "Tamli"
 tamly: 
-  city: tamly
-  accentcity: Tamly
+  city: "tamly"
+  accentcity: "Tamly"
 tamykli: 
-  city: tamykli
-  accentcity: Tamykli
+  city: "tamykli"
+  accentcity: "Tamykli"
 tamykly: 
-  city: tamykly
-  accentcity: Tamykly
+  city: "tamykly"
+  accentcity: "Tamykly"
 tang-kotan: 
-  city: tang-kotan
-  accentcity: Tang-Kotan
+  city: "tang-kotan"
+  accentcity: "Tang-Kotan"
 taraba: 
-  city: taraba
-  accentcity: Taraba
+  city: "taraba"
+  accentcity: "Taraba"
 tarava: 
-  city: tarava
-  accentcity: Tarava
+  city: "tarava"
+  accentcity: "Tarava"
 tarkhan: 
-  city: tarkhan
-  accentcity: Tarkhan
+  city: "tarkhan"
+  accentcity: "Tarkhan"
 tarnov: 
-  city: tarnov
-  accentcity: Tarnov
+  city: "tarnov"
+  accentcity: "Tarnov"
 tarta: 
-  city: tarta
-  accentcity: Tarta
+  city: "tarta"
+  accentcity: "Tarta"
 tasharvat: 
-  city: tasharvat
-  accentcity: Tasharvat
+  city: "tasharvat"
+  accentcity: "Tasharvat"
 tashauz: 
-  city: tashauz
-  accentcity: Tashauz
+  city: "tashauz"
+  accentcity: "Tashauz"
 tashkepristroy: 
-  city: tashkepristroy
-  accentcity: Tashkepristroy
+  city: "tashkepristroy"
+  accentcity: "Tashkepristroy"
 tashkepri: 
-  city: tashkepri
-  accentcity: Tashkepri
+  city: "tashkepri"
+  accentcity: "Tashkepri"
 tash-kiroi: 
-  city: tash-kiroi
-  accentcity: Tash-Kiroi
+  city: "tash-kiroi"
+  accentcity: "Tash-Kiroi"
 tash-kishlak: 
-  city: tash-kishlak
-  accentcity: Tash-Kishlak
+  city: "tash-kishlak"
+  accentcity: "Tash-Kishlak"
 tashkuduk: 
-  city: tashkuduk
-  accentcity: Tashkuduk
+  city: "tashkuduk"
+  accentcity: "Tashkuduk"
 tashlyk: 
-  city: tashlyk
-  accentcity: Tashlyk
+  city: "tashlyk"
+  accentcity: "Tashlyk"
 tashrabad: 
-  city: tashrabad
-  accentcity: Tashrabad
+  city: "tashrabad"
+  accentcity: "Tashrabad"
 tashrabat: 
-  city: tashrabat
-  accentcity: Tashrabat
+  city: "tashrabat"
+  accentcity: "Tashrabat"
 tau-makind: 
-  city: tau-makind
-  accentcity: Tau-Makind
+  city: "tau-makind"
+  accentcity: "Tau-Makind"
 taumakindzhi: 
-  city: taumakindzhi
-  accentcity: Taumakindzhi
+  city: "taumakindzhi"
+  accentcity: "Taumakindzhi"
 taur: 
-  city: taur
-  accentcity: Taur
+  city: "taur"
+  accentcity: "Taur"
 taymyz: 
-  city: taymyz
-  accentcity: Taymyz
+  city: "taymyz"
+  accentcity: "Taymyz"
 tazabad: 
-  city: tazabad
-  accentcity: Tazabad
+  city: "tazabad"
+  accentcity: "Tazabad"
 tazabat: 
-  city: tazabat
-  accentcity: Tazabat
+  city: "tazabat"
+  accentcity: "Tazabat"
 taza-bazar: 
-  city: taza-bazar
-  accentcity: Taza-Bazar
+  city: "taza-bazar"
+  accentcity: "Taza-Bazar"
 taza-chetyr: 
-  city: taza-chetyr
-  accentcity: Taza-Chetyr
+  city: "taza-chetyr"
+  accentcity: "Taza-Chetyr"
 tazeyel: 
-  city: tazeyel
+  city: "tazeyel"
   accentcity: "T\xC3\xA4ze\xC3\xBDel"
 taze yol: 
-  city: taze yol
+  city: "taze yol"
   accentcity: "T\xC3\xA4ze Yol"
 tedjen: 
-  city: tedjen
-  accentcity: Tedjen
+  city: "tedjen"
+  accentcity: "Tedjen"
 tedzhenstroy: 
-  city: tedzhenstroy
-  accentcity: Tedzhenstroy
+  city: "tedzhenstroy"
+  accentcity: "Tedzhenstroy"
 tedzhen: 
-  city: tedzhen
-  accentcity: Tedzhen
+  city: "tedzhen"
+  accentcity: "Tedzhen"
 tejend: 
-  city: tejend
-  accentcity: Tejend
+  city: "tejend"
+  accentcity: "Tejend"
 tejen: 
-  city: tejen
-  accentcity: Tejen
+  city: "tejen"
+  accentcity: "Tejen"
 tekendzhik: 
-  city: tekendzhik
-  accentcity: Tekendzhik
+  city: "tekendzhik"
+  accentcity: "Tekendzhik"
 teki-moor: 
-  city: teki-moor
-  accentcity: Teki-Moor
+  city: "teki-moor"
+  accentcity: "Teki-Moor"
 tel'mansk: 
-  city: tel'mansk
-  accentcity: Tel'mansk
+  city: "tel'mansk"
+  accentcity: "Tel'mansk"
 temir-kabik: 
-  city: temir-kabik
-  accentcity: Temir-Kabik
+  city: "temir-kabik"
+  accentcity: "Temir-Kabik"
 temir-kabuk: 
-  city: temir-kabuk
-  accentcity: Temir-Kabuk
+  city: "temir-kabuk"
+  accentcity: "Temir-Kabuk"
 temirkauk: 
-  city: temirkauk
-  accentcity: Temirkauk
+  city: "temirkauk"
+  accentcity: "Temirkauk"
 temir-khodzha: 
-  city: temir-khodzha
-  accentcity: Temir-Khodzha
+  city: "temir-khodzha"
+  accentcity: "Temir-Khodzha"
 teodzhyan: 
-  city: teodzhyan
-  accentcity: Teodzhyan
+  city: "teodzhyan"
+  accentcity: "Teodzhyan"
 tereskan: 
-  city: tereskan
-  accentcity: Tereskan
+  city: "tereskan"
+  accentcity: "Tereskan"
 tersakan: 
-  city: tersakan
-  accentcity: Tersakan
+  city: "tersakan"
+  accentcity: "Tersakan"
 tersakkan: 
-  city: tersakkan
-  accentcity: Tersakkan
+  city: "tersakkan"
+  accentcity: "Tersakkan"
 ters-okan: 
-  city: ters-okan
-  accentcity: Ters-Okan
+  city: "ters-okan"
+  accentcity: "Ters-Okan"
 tertarach: 
-  city: tertarach
-  accentcity: Tertarach
+  city: "tertarach"
+  accentcity: "Tertarach"
 tezeabad: 
-  city: tezeabad
-  accentcity: Tezeabad
+  city: "tezeabad"
+  accentcity: "Tezeabad"
 tezebazar: 
-  city: tezebazar
-  accentcity: Tezebazar
+  city: "tezebazar"
+  accentcity: "Tezebazar"
 tezebezar: 
-  city: tezebezar
-  accentcity: Tezebezar
+  city: "tezebezar"
+  accentcity: "Tezebezar"
 teze-chetyr: 
-  city: teze-chetyr
-  accentcity: Teze-Chetyr
+  city: "teze-chetyr"
+  accentcity: "Teze-Chetyr"
 tezedurmush: 
-  city: tezedurmush
-  accentcity: Tezedurmush
+  city: "tezedurmush"
+  accentcity: "Tezedurmush"
 tezedurmysh: 
-  city: tezedurmysh
-  accentcity: Tezedurmysh
+  city: "tezedurmysh"
+  accentcity: "Tezedurmysh"
 teze-oba: 
-  city: teze-oba
-  accentcity: Teze-Oba
+  city: "teze-oba"
+  accentcity: "Teze-Oba"
 tezeoba: 
-  city: tezeoba
-  accentcity: Tezeoba
+  city: "tezeoba"
+  accentcity: "Tezeoba"
 teze-yardzhi: 
-  city: teze-yardzhi
-  accentcity: Teze-Yardzhi
+  city: "teze-yardzhi"
+  accentcity: "Teze-Yardzhi"
 teze-yel: 
-  city: teze-yel
-  accentcity: "Teze-Y\xC3\xABl"
+  city: "teze-yel"
+  accentcity: "Teze-Yël"
 tezeyel vtoroy: 
-  city: tezeyel vtoroy
-  accentcity: "Tezey\xC3\xABl Vtoroy"
+  city: "tezeyel vtoroy"
+  accentcity: "Tezeyël Vtoroy"
 tezeyol: 
-  city: tezeyol
-  accentcity: Tezeyol
+  city: "tezeyol"
+  accentcity: "Tezeyol"
 tezheva: 
-  city: tezheva
-  accentcity: "Tezh\xC3\xABva"
+  city: "tezheva"
+  accentcity: "Tezhëva"
 togalak: 
-  city: togalak
-  accentcity: Togalak
+  city: "togalak"
+  accentcity: "Togalak"
 togolak: 
-  city: togolak
-  accentcity: Togolak
+  city: "togolak"
+  accentcity: "Togolak"
 topdzhul'ba: 
-  city: topdzhul'ba
-  accentcity: Topdzhul'ba
+  city: "topdzhul'ba"
+  accentcity: "Topdzhul'ba"
 tordzhul'ba: 
-  city: tordzhul'ba
-  accentcity: Tordzhul'ba
+  city: "tordzhul'ba"
+  accentcity: "Tordzhul'ba"
 toutli: 
-  city: toutli
-  accentcity: Toutli
+  city: "toutli"
+  accentcity: "Toutli"
 toutly: 
-  city: toutly
-  accentcity: Toutly
+  city: "toutly"
+  accentcity: "Toutly"
 tscharschanga: 
-  city: tscharschanga
-  accentcity: Tscharschanga
+  city: "tscharschanga"
+  accentcity: "Tscharschanga"
 tsementnyy gorodok: 
-  city: tsementnyy gorodok
-  accentcity: Tsementnyy Gorodok
+  city: "tsementnyy gorodok"
+  accentcity: "Tsementnyy Gorodok"
 tuar: 
-  city: tuar
-  accentcity: Tuar
+  city: "tuar"
+  accentcity: "Tuar"
 tukli: 
-  city: tukli
-  accentcity: Tukli
+  city: "tukli"
+  accentcity: "Tukli"
 tumanovskiy: 
-  city: tumanovskiy
-  accentcity: Tumanovskiy
+  city: "tumanovskiy"
+  accentcity: "Tumanovskiy"
 tura-kishlak: 
-  city: tura-kishlak
-  accentcity: Tura-Kishlak
+  city: "tura-kishlak"
+  accentcity: "Tura-Kishlak"
 turkmenabad: 
-  city: turkmenabad
-  accentcity: Turkmenabad
+  city: "turkmenabad"
+  accentcity: "Turkmenabad"
 turkmenabat: 
-  city: turkmenabat
+  city: "turkmenabat"
   accentcity: "T\xC3\xBCrkmenabat"
 "turkmenbasa\xC2\xB1": 
   city: "turkmenbasa\xC2\xB1"
   accentcity: "Turkmenbas\xC3\x84\xC2\xB1"
 turkmenbashi: 
-  city: turkmenbashi
-  accentcity: Turkmenbashi
+  city: "turkmenbashi"
+  accentcity: "Turkmenbashi"
 turkmenbashy: 
-  city: turkmenbashy
+  city: "turkmenbashy"
   accentcity: "T\xC3\xBCrkmenbashy"
 turkmenbasy: 
-  city: turkmenbasy
-  accentcity: Turkmenbasy
+  city: "turkmenbasy"
+  accentcity: "Turkmenbasy"
 turkmenistan: 
-  city: turkmenistan
-  accentcity: Turkmenistan
+  city: "turkmenistan"
+  accentcity: "Turkmenistan"
 turkmen-kala: 
-  city: turkmen-kala
-  accentcity: Turkmen-Kala
+  city: "turkmen-kala"
+  accentcity: "Turkmen-Kala"
 turkmenkarakul': 
-  city: turkmenkarakul'
-  accentcity: Turkmenkarakul'
+  city: "turkmenkarakul'"
+  accentcity: "Turkmenkarakul'"
 tutly-kala: 
-  city: tutly-kala
-  accentcity: Tutly-Kala
+  city: "tutly-kala"
+  accentcity: "Tutly-Kala"
 tuya mayun: 
-  city: tuya mayun
-  accentcity: Tuya Mayun
+  city: "tuya mayun"
+  accentcity: "Tuya Mayun"
 tuya-muyun: 
-  city: tuya-muyun
-  accentcity: Tuya-Muyun
+  city: "tuya-muyun"
+  accentcity: "Tuya-Muyun"
 tykya myan: 
-  city: tykya myan
-  accentcity: Tykya Myan
+  city: "tykya myan"
+  accentcity: "Tykya Myan"
 tyl'-ter: 
-  city: tyl'-ter
-  accentcity: Tyl'-Ter
+  city: "tyl'-ter"
+  accentcity: "Tyl'-Ter"
 tyuyachi: 
-  city: tyuyachi
-  accentcity: Tyuyachi
+  city: "tyuyachi"
+  accentcity: "Tyuyachi"
 ubetsk: 
-  city: ubetsk
-  accentcity: Ubetsk
+  city: "ubetsk"
+  accentcity: "Ubetsk"
 ucajy: 
-  city: ucajy
-  accentcity: "\xC3\x9C\xC3\xA7ajy"
+  city: "ucajy"
+  accentcity: "\xC3\x9Cçajy"
 uch-adzhi: 
-  city: uch-adzhi
-  accentcity: Uch-Adzhi
+  city: "uch-adzhi"
+  accentcity: "Uch-Adzhi"
 uchadzhy: 
-  city: uchadzhy
-  accentcity: Uchadzhy
+  city: "uchadzhy"
+  accentcity: "Uchadzhy"
 uch aji: 
-  city: uch aji
-  accentcity: Uch Aji
+  city: "uch aji"
+  accentcity: "Uch Aji"
 uch'-bashi: 
-  city: uch'-bashi
-  accentcity: Uch'-Bashi
+  city: "uch'-bashi"
+  accentcity: "Uch'-Bashi"
 uch-bash: 
-  city: uch-bash
-  accentcity: Uch-Bash
+  city: "uch-bash"
+  accentcity: "Uch-Bash"
 uchgez: 
-  city: uchgez
-  accentcity: "Uchg\xC3\xABz"
+  city: "uchgez"
+  accentcity: "Uchgëz"
 uch haji: 
-  city: uch haji
-  accentcity: Uch Haji
+  city: "uch haji"
+  accentcity: "Uch Haji"
 uchruk: 
-  city: uchruk
-  accentcity: Uchruk
+  city: "uchruk"
+  accentcity: "Uchruk"
 uch-tepa: 
-  city: uch-tepa
-  accentcity: Uch-Tepa
+  city: "uch-tepa"
+  accentcity: "Uch-Tepa"
 uch-tepe: 
-  city: uch-tepe
-  accentcity: Uch-Tepe
+  city: "uch-tepe"
+  accentcity: "Uch-Tepe"
 udarnik: 
-  city: udarnik
-  accentcity: Udarnik
+  city: "udarnik"
+  accentcity: "Udarnik"
 udey: 
-  city: udey
-  accentcity: Udey
+  city: "udey"
+  accentcity: "Udey"
 udzhi: 
-  city: udzhi
-  accentcity: Udzhi
+  city: "udzhi"
+  accentcity: "Udzhi"
 ufra: 
-  city: ufra
-  accentcity: Ufra
+  city: "ufra"
+  accentcity: "Ufra"
 ugur: 
-  city: ugur
-  accentcity: Ugur
+  city: "ugur"
+  accentcity: "Ugur"
 ulamsurkhi: 
-  city: ulamsurkhi
-  accentcity: Ulamsurkhi
+  city: "ulamsurkhi"
+  accentcity: "Ulamsurkhi"
 ulam: 
-  city: ulam
-  accentcity: Ulam
+  city: "ulam"
+  accentcity: "Ulam"
 ulyam surkhi: 
-  city: ulyam surkhi
-  accentcity: Ulyam Surkhi
+  city: "ulyam surkhi"
+  accentcity: "Ulyam Surkhi"
 ulyam: 
-  city: ulyam
-  accentcity: Ulyam
+  city: "ulyam"
+  accentcity: "Ulyam"
 ulyash: 
-  city: ulyash
-  accentcity: Ulyash
+  city: "ulyash"
+  accentcity: "Ulyash"
 umar: 
-  city: umar
-  accentcity: Umar
+  city: "umar"
+  accentcity: "Umar"
 umuk: 
-  city: umuk
-  accentcity: Umuk
+  city: "umuk"
+  accentcity: "Umuk"
 urazali: 
-  city: urazali
-  accentcity: Urazali
+  city: "urazali"
+  accentcity: "Urazali"
 urazaly: 
-  city: urazaly
-  accentcity: Urazaly
+  city: "urazaly"
+  accentcity: "Urazaly"
 ushak: 
-  city: ushak
-  accentcity: Ushak
+  city: "ushak"
+  accentcity: "Ushak"
 ustyk: 
-  city: ustyk
-  accentcity: Ustyk
+  city: "ustyk"
+  accentcity: "Ustyk"
 usty: 
-  city: usty
-  accentcity: Usty
+  city: "usty"
+  accentcity: "Usty"
 usun-su: 
-  city: usun-su
-  accentcity: Usun-Su
+  city: "usun-su"
+  accentcity: "Usun-Su"
 utsch-adshi: 
-  city: utsch-adshi
-  accentcity: Utsch-Adshi
+  city: "utsch-adshi"
+  accentcity: "Utsch-Adshi"
 uyger-chage: 
-  city: uyger-chage
-  accentcity: Uyger-Chage
+  city: "uyger-chage"
+  accentcity: "Uyger-Chage"
 uzun-su: 
-  city: uzun-su
-  accentcity: Uzun-Su
+  city: "uzun-su"
+  accentcity: "Uzun-Su"
 uzun-tokoy: 
-  city: uzun-tokoy
-  accentcity: Uzun-Tokoy
+  city: "uzun-tokoy"
+  accentcity: "Uzun-Tokoy"
 uzyntokay: 
-  city: uzyntokay
-  accentcity: Uzyntokay
+  city: "uzyntokay"
+  accentcity: "Uzyntokay"
 vannovskiy: 
-  city: vannovskiy
-  accentcity: Vannovskiy
+  city: "vannovskiy"
+  accentcity: "Vannovskiy"
 vanovskiy: 
-  city: vanovskiy
-  accentcity: Vanovskiy
+  city: "vanovskiy"
+  accentcity: "Vanovskiy"
 vayuar: 
-  city: vayuar
-  accentcity: Vayuar
+  city: "vayuar"
+  accentcity: "Vayuar"
 vekil'-bazar: 
-  city: vekil'-bazar
-  accentcity: Vekil'-Bazar
+  city: "vekil'-bazar"
+  accentcity: "Vekil'-Bazar"
 voroshilova: 
-  city: voroshilova
-  accentcity: Voroshilova
+  city: "voroshilova"
+  accentcity: "Voroshilova"
 vos'mogo marta: 
-  city: vos'mogo marta
-  accentcity: Vos'mogo Marta
+  city: "vos'mogo marta"
+  accentcity: "Vos'mogo Marta"
 vos'moye marta: 
-  city: vos'moye marta
-  accentcity: Vos'moye Marta
+  city: "vos'moye marta"
+  accentcity: "Vos'moye Marta"
 vtoraya pyatiletka: 
-  city: vtoraya pyatiletka
-  accentcity: Vtoraya Pyatiletka
+  city: "vtoraya pyatiletka"
+  accentcity: "Vtoraya Pyatiletka"
 vyshka: 
-  city: vyshka
-  accentcity: Vyshka
+  city: "vyshka"
+  accentcity: "Vyshka"
 vyshzha: 
-  city: vyshzha
-  accentcity: Vyshzha
+  city: "vyshzha"
+  accentcity: "Vyshzha"
 yablonovskiy: 
-  city: yablonovskiy
-  accentcity: Yablonovskiy
+  city: "yablonovskiy"
+  accentcity: "Yablonovskiy"
 yagankazakh: 
-  city: yagankazakh
-  accentcity: Yagankazakh
+  city: "yagankazakh"
+  accentcity: "Yagankazakh"
 yaglyolum: 
-  city: yaglyolum
-  accentcity: Yaglyolum
+  city: "yaglyolum"
+  accentcity: "Yaglyolum"
 yagman: 
-  city: yagman
-  accentcity: Yagman
+  city: "yagman"
+  accentcity: "Yagman"
 yagty-yel: 
-  city: yagty-yel
-  accentcity: Yagty-Yel
+  city: "yagty-yel"
+  accentcity: "Yagty-Yel"
 yagyr: 
-  city: yagyr
-  accentcity: Yagyr
+  city: "yagyr"
+  accentcity: "Yagyr"
 yakeper: 
-  city: yakeper
-  accentcity: Yakeper
+  city: "yakeper"
+  accentcity: "Yakeper"
 yak-kala: 
-  city: yak-kala
-  accentcity: Yak-Kala
+  city: "yak-kala"
+  accentcity: "Yak-Kala"
 yalkim: 
-  city: yalkim
-  accentcity: Yalkim
+  city: "yalkim"
+  accentcity: "Yalkim"
 yalovach pervyy: 
-  city: yalovach pervyy
-  accentcity: Yalovach Pervyy
+  city: "yalovach pervyy"
+  accentcity: "Yalovach Pervyy"
 yalovach vtoroy: 
-  city: yalovach vtoroy
-  accentcity: Yalovach Vtoroy
+  city: "yalovach vtoroy"
+  accentcity: "Yalovach Vtoroy"
 yalovach: 
-  city: yalovach
-  accentcity: Yalovach
+  city: "yalovach"
+  accentcity: "Yalovach"
 yanbash: 
-  city: yanbash
-  accentcity: Yanbash
+  city: "yanbash"
+  accentcity: "Yanbash"
 yan-chashme: 
-  city: yan-chashme
-  accentcity: Yan-Chashme
+  city: "yan-chashme"
+  accentcity: "Yan-Chashme"
 yangadzha: 
-  city: yangadzha
-  accentcity: Yangadzha
+  city: "yangadzha"
+  accentcity: "Yangadzha"
 yangi-aryk: 
-  city: yangi-aryk
-  accentcity: Yangi-Aryk
+  city: "yangi-aryk"
+  accentcity: "Yangi-Aryk"
 yangiaryk: 
-  city: yangiaryk
-  accentcity: Yangiaryk
+  city: "yangiaryk"
+  accentcity: "Yangiaryk"
 yangi-khodzhalyk: 
-  city: yangi-khodzhalyk
-  accentcity: Yangi-Khodzhalyk
+  city: "yangi-khodzhalyk"
+  accentcity: "Yangi-Khodzhalyk"
 yangi-kishlak: 
-  city: yangi-kishlak
-  accentcity: Yangi-Kishlak
+  city: "yangi-kishlak"
+  accentcity: "Yangi-Kishlak"
 yangi-kuyu: 
-  city: yangi-kuyu
-  accentcity: Yangi-Kuyu
+  city: "yangi-kuyu"
+  accentcity: "Yangi-Kuyu"
 yangi-su: 
-  city: yangi-su
-  accentcity: Yangi-Su
+  city: "yangi-su"
+  accentcity: "Yangi-Su"
 yangysu: 
-  city: yangysu
-  accentcity: Yangysu
+  city: "yangysu"
+  accentcity: "Yangysu"
 yankala: 
-  city: yankala
-  accentcity: Yankala
+  city: "yankala"
+  accentcity: "Yankala"
 yapach: 
-  city: yapach
-  accentcity: Yapach
+  city: "yapach"
+  accentcity: "Yapach"
 yaradzha: 
-  city: yaradzha
-  accentcity: Yaradzha
+  city: "yaradzha"
+  accentcity: "Yaradzha"
 yaradzhi: 
-  city: yaradzhi
-  accentcity: Yaradzhi
+  city: "yaradzhi"
+  accentcity: "Yaradzhi"
 yarodzha-kala: 
-  city: yarodzha-kala
-  accentcity: Yarodzha-Kala
+  city: "yarodzha-kala"
+  accentcity: "Yarodzha-Kala"
 yarodzhi: 
-  city: yarodzhi
-  accentcity: Yarodzhi
+  city: "yarodzhi"
+  accentcity: "Yarodzhi"
 yaroshevskiy: 
-  city: yaroshevskiy
-  accentcity: Yaroshevskiy
+  city: "yaroshevskiy"
+  accentcity: "Yaroshevskiy"
 yarty-kala: 
-  city: yarty-kala
-  accentcity: Yarty-Kala
+  city: "yarty-kala"
+  accentcity: "Yarty-Kala"
 yarymtyk: 
-  city: yarymtyk
-  accentcity: Yarymtyk
+  city: "yarymtyk"
+  accentcity: "Yarymtyk"
 yasa-gul: 
-  city: yasa-gul
-  accentcity: Yasa-Gul
+  city: "yasa-gul"
+  accentcity: "Yasa-Gul"
 yashguch: 
-  city: yashguch
-  accentcity: Yashguch
+  city: "yashguch"
+  accentcity: "Yashguch"
 yashkar: 
-  city: yashkar
-  accentcity: Yashkar
+  city: "yashkar"
+  accentcity: "Yashkar"
 yashlar: 
-  city: yashlar
-  accentcity: Yashlar
+  city: "yashlar"
+  accentcity: "Yashlar"
 yashlyk: 
-  city: yashlyk
-  accentcity: Yashlyk
+  city: "yashlyk"
+  accentcity: "Yashlyk"
 yash-pioner: 
-  city: yash-pioner
-  accentcity: Yash-Pioner
+  city: "yash-pioner"
+  accentcity: "Yash-Pioner"
 yaskhan: 
-  city: yaskhan
-  accentcity: Yaskhan
+  city: "yaskhan"
+  accentcity: "Yaskhan"
 yaskha: 
-  city: yaskha
-  accentcity: Yaskha
+  city: "yaskha"
+  accentcity: "Yaskha"
 yasman-salyk: 
-  city: yasman-salyk
-  accentcity: Yasman-Salyk
+  city: "yasman-salyk"
+  accentcity: "Yasman-Salyk"
 yasman: 
-  city: yasman
-  accentcity: Yasman
+  city: "yasman"
+  accentcity: "Yasman"
 yasydepe: 
-  city: yasydepe
-  accentcity: Yasydepe
+  city: "yasydepe"
+  accentcity: "Yasydepe"
 yaur-dulan: 
-  city: yaur-dulan
-  accentcity: Yaur-Dulan
+  city: "yaur-dulan"
+  accentcity: "Yaur-Dulan"
 yauzy: 
-  city: yauzy
-  accentcity: Yauzy
+  city: "yauzy"
+  accentcity: "Yauzy"
 yaz-aryk: 
-  city: yaz-aryk
-  accentcity: Yaz-Aryk
+  city: "yaz-aryk"
+  accentcity: "Yaz-Aryk"
 yazdepe: 
-  city: yazdepe
-  accentcity: Yazdepe
+  city: "yazdepe"
+  accentcity: "Yazdepe"
 yaz-tepe: 
-  city: yaz-tepe
-  accentcity: Yaz-Tepe
+  city: "yaz-tepe"
+  accentcity: "Yaz-Tepe"
 yazygadzhik: 
-  city: yazygadzhik
-  accentcity: Yazygadzhik
+  city: "yazygadzhik"
+  accentcity: "Yazygadzhik"
 yazygandzhik: 
-  city: yazygandzhik
-  accentcity: Yazygandzhik
+  city: "yazygandzhik"
+  accentcity: "Yazygandzhik"
 yazy-kandzhik: 
-  city: yazy-kandzhik
-  accentcity: Yazy-Kandzhik
+  city: "yazy-kandzhik"
+  accentcity: "Yazy-Kandzhik"
 yazy: 
-  city: yazy
-  accentcity: Yazy
+  city: "yazy"
+  accentcity: "Yazy"
 yegene-kala: 
-  city: yegene-kala
-  accentcity: Yegene-Kala
+  city: "yegene-kala"
+  accentcity: "Yegene-Kala"
 yegir-kainski: 
-  city: yegir-kainski
-  accentcity: Yegir-Kainski
+  city: "yegir-kainski"
+  accentcity: "Yegir-Kainski"
 yegra-guzar: 
-  city: yegra-guzar
-  accentcity: Yegra-Guzar
+  city: "yegra-guzar"
+  accentcity: "Yegra-Guzar"
 yegridzhar: 
-  city: yegridzhar
-  accentcity: Yegridzhar
+  city: "yegridzhar"
+  accentcity: "Yegridzhar"
 yekindzhi: 
-  city: yekindzhi
-  accentcity: Yekindzhi
+  city: "yekindzhi"
+  accentcity: "Yekindzhi"
 yekitut: 
-  city: yekitut
-  accentcity: Yekitut
+  city: "yekitut"
+  accentcity: "Yekitut"
 yel-bars: 
-  city: yel-bars
-  accentcity: Yel-Bars
+  city: "yel-bars"
+  accentcity: "Yel-Bars"
 yele-su: 
-  city: yele-su
-  accentcity: Yele-Su
+  city: "yele-su"
+  accentcity: "Yele-Su"
 yelmek: 
-  city: yelmek
-  accentcity: Yelmek
+  city: "yelmek"
+  accentcity: "Yelmek"
 yerbent: 
-  city: yerbent
-  accentcity: Yerbent
+  city: "yerbent"
+  accentcity: "Yerbent"
 yerden: 
-  city: yerden
-  accentcity: Yerden
+  city: "yerden"
+  accentcity: "Yerden"
 yerli: 
-  city: yerli
-  accentcity: Yerli
+  city: "yerli"
+  accentcity: "Yerli"
 yerrikkala: 
-  city: yerrikkala
-  accentcity: Yerrikkala
+  city: "yerrikkala"
+  accentcity: "Yerrikkala"
 yerryk-kata: 
-  city: yerryk-kata
-  accentcity: Yerryk-Kata
+  city: "yerryk-kata"
+  accentcity: "Yerryk-Kata"
 yesheksiyen: 
-  city: yesheksiyen
-  accentcity: Yesheksiyen
+  city: "yesheksiyen"
+  accentcity: "Yesheksiyen"
 ymamnazar: 
-  city: ymamnazar
-  accentcity: Ymamnazar
+  city: "ymamnazar"
+  accentcity: "Ymamnazar"
 yolotan: 
-  city: yolotan
-  accentcity: Yolotan
+  city: "yolotan"
+  accentcity: "Yolotan"
 yoloten: 
-  city: yoloten
+  city: "yoloten"
   accentcity: "Yol\xC3\xB6ten"
 yulangyz: 
-  city: yulangyz
-  accentcity: Yulangyz
+  city: "yulangyz"
+  accentcity: "Yulangyz"
 yuldy-dere: 
-  city: yuldy-dere
-  accentcity: Yuldy-Dere
+  city: "yuldy-dere"
+  accentcity: "Yuldy-Dere"
 yuvan-kala: 
-  city: yuvan-kala
-  accentcity: Yuvan-Kala
+  city: "yuvan-kala"
+  accentcity: "Yuvan-Kala"
 yuzhnyy: 
-  city: yuzhnyy
-  accentcity: Yuzhnyy
+  city: "yuzhnyy"
+  accentcity: "Yuzhnyy"
 yylanly: 
-  city: yylanly
-  accentcity: Yylanly
+  city: "yylanly"
+  accentcity: "Yylanly"
 zakhmet: 
-  city: zakhmet
-  accentcity: Zakhmet
+  city: "zakhmet"
+  accentcity: "Zakhmet"
 zargyar: 
-  city: zargyar
-  accentcity: Zargyar
+  city: "zargyar"
+  accentcity: "Zargyar"
 zarpchi: 
-  city: zarpchi
-  accentcity: Zarpchi
+  city: "zarpchi"
+  accentcity: "Zarpchi"
 zaulu: 
-  city: zaulu
-  accentcity: Zaulu
+  city: "zaulu"
+  accentcity: "Zaulu"
 zau: 
-  city: zau
-  accentcity: Zau
+  city: "zau"
+  accentcity: "Zau"
 zerdau: 
-  city: zerdau
-  accentcity: Zerdau
+  city: "zerdau"
+  accentcity: "Zerdau"
 zergar: 
-  city: zergar
-  accentcity: Zergar
+  city: "zergar"
+  accentcity: "Zergar"
 zergumen: 
-  city: zergumen
-  accentcity: Zergumen
+  city: "zergumen"
+  accentcity: "Zergumen"
 zergyar: 
-  city: zergyar
-  accentcity: Zergyar
+  city: "zergyar"
+  accentcity: "Zergyar"
 zyargyar: 
-  city: zyargyar
-  accentcity: Zyargyar
+  city: "zyargyar"
+  accentcity: "Zyargyar"

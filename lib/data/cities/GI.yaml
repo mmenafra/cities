@@ -1,26 +1,26 @@
 # encoding: UTF-8
 --- 
 caleta: 
-  city: caleta
-  accentcity: Caleta
+  city: "caleta"
+  accentcity: "Caleta"
 catalan bay: 
-  city: catalan bay
-  accentcity: Catalan Bay
+  city: "catalan bay"
+  accentcity: "Catalan Bay"
 catalan bay village: 
-  city: catalan bay village
-  accentcity: Catalan Bay Village
+  city: "catalan bay village"
+  accentcity: "Catalan Bay Village"
 catalan: 
-  city: catalan
-  accentcity: Catalan
+  city: "catalan"
+  accentcity: "Catalan"
 gibilterra: 
-  city: gibilterra
-  accentcity: Gibilterra
+  city: "gibilterra"
+  accentcity: "Gibilterra"
 gibraltar: 
-  city: gibraltar
-  accentcity: Gibraltar
+  city: "gibraltar"
+  accentcity: "Gibraltar"
 rosia: 
-  city: rosia
-  accentcity: Rosia
+  city: "rosia"
+  accentcity: "Rosia"
 waterport: 
-  city: waterport
-  accentcity: Waterport
+  city: "waterport"
+  accentcity: "Waterport"

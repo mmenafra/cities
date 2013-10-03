@@ -1,3203 +1,3203 @@
 # encoding: UTF-8
 --- 
 achham: 
-  city: achham
-  accentcity: Achham
+  city: "achham"
+  accentcity: "Achham"
 aiselukharka: 
-  city: aiselukharka
-  accentcity: Aiselukharka
+  city: "aiselukharka"
+  accentcity: "Aiselukharka"
 aisvalukharka: 
-  city: aisvalukharka
-  accentcity: Aisvalukharka
+  city: "aisvalukharka"
+  accentcity: "Aisvalukharka"
 aisyalukharka: 
-  city: aisyalukharka
-  accentcity: Aisyalukharka
+  city: "aisyalukharka"
+  accentcity: "Aisyalukharka"
 amardaha: 
-  city: amardaha
-  accentcity: Amardaha
+  city: "amardaha"
+  accentcity: "Amardaha"
 amariya: 
-  city: amariya
-  accentcity: Amariya
+  city: "amariya"
+  accentcity: "Amariya"
 amile: 
-  city: amile
-  accentcity: Amile
+  city: "amile"
+  accentcity: "Amile"
 amlekganj: 
-  city: amlekganj
-  accentcity: Amlekganj
+  city: "amlekganj"
+  accentcity: "Amlekganj"
 amlekhagang: 
-  city: amlekhagang
-  accentcity: Amlekhagang
+  city: "amlekhagang"
+  accentcity: "Amlekhagang"
 amlekhgang: 
-  city: amlekhgang
-  accentcity: Amlekhgang
+  city: "amlekhgang"
+  accentcity: "Amlekhgang"
 amlekhganj: 
-  city: amlekhganj
-  accentcity: Amlekhganj
+  city: "amlekhganj"
+  accentcity: "Amlekhganj"
 amlekhsagunz: 
-  city: amlekhsagunz
-  accentcity: Amlekhsagunz
+  city: "amlekhsagunz"
+  accentcity: "Amlekhsagunz"
 amlia: 
-  city: amlia
-  accentcity: Amlia
+  city: "amlia"
+  accentcity: "Amlia"
 amraia: 
-  city: amraia
-  accentcity: Amraia
+  city: "amraia"
+  accentcity: "Amraia"
 andia: 
-  city: andia
-  accentcity: Andia
+  city: "andia"
+  accentcity: "Andia"
 andrauli: 
-  city: andrauli
-  accentcity: Andrauli
+  city: "andrauli"
+  accentcity: "Andrauli"
 angbung: 
-  city: angbung
-  accentcity: Angbung
+  city: "angbung"
+  accentcity: "Angbung"
 arghakot: 
-  city: arghakot
-  accentcity: Arghakot
+  city: "arghakot"
+  accentcity: "Arghakot"
 arughat bazar: 
-  city: arughat bazar
-  accentcity: Arughat Bazar
+  city: "arughat bazar"
+  accentcity: "Arughat Bazar"
 asaina: 
-  city: asaina
-  accentcity: Asaina
+  city: "asaina"
+  accentcity: "Asaina"
 ataria: 
-  city: ataria
-  accentcity: Ataria
+  city: "ataria"
+  accentcity: "Ataria"
 athmauza: 
-  city: athmauza
-  accentcity: Athmauza
+  city: "athmauza"
+  accentcity: "Athmauza"
 athpali: 
-  city: athpali
-  accentcity: Athpali
+  city: "athpali"
+  accentcity: "Athpali"
 atrauli: 
-  city: atrauli
-  accentcity: Atrauli
+  city: "atrauli"
+  accentcity: "Atrauli"
 aulgurta: 
-  city: aulgurta
-  accentcity: Aulgurta
+  city: "aulgurta"
+  accentcity: "Aulgurta"
 autaria: 
-  city: autaria
-  accentcity: Autaria
+  city: "autaria"
+  accentcity: "Autaria"
 bachhuwa: 
-  city: bachhuwa
-  accentcity: Bachhuwa
+  city: "bachhuwa"
+  accentcity: "Bachhuwa"
 badagaon: 
-  city: badagaon
-  accentcity: Badagaon
+  city: "badagaon"
+  accentcity: "Badagaon"
 badiarpatti: 
-  city: badiarpatti
-  accentcity: Badiarpatti
+  city: "badiarpatti"
+  accentcity: "Badiarpatti"
 bagar: 
-  city: bagar
-  accentcity: Bagar
+  city: "bagar"
+  accentcity: "Bagar"
 bagarchhap: 
-  city: bagarchhap
-  accentcity: Bagarchhap
+  city: "bagarchhap"
+  accentcity: "Bagarchhap"
 baglung: 
-  city: baglung
-  accentcity: Baglung
+  city: "baglung"
+  accentcity: "Baglung"
 baglung bazar: 
-  city: baglung bazar
-  accentcity: Baglung Bazar
+  city: "baglung bazar"
+  accentcity: "Baglung Bazar"
 bahadurganj: 
-  city: bahadurganj
-  accentcity: Bahadurganj
+  city: "bahadurganj"
+  accentcity: "Bahadurganj"
 bahairawah: 
-  city: bahairawah
-  accentcity: Bahairawah
+  city: "bahairawah"
+  accentcity: "Bahairawah"
 bahasi: 
-  city: bahasi
-  accentcity: Bahasi
+  city: "bahasi"
+  accentcity: "Bahasi"
 bahrabise: 
-  city: bahrabise
-  accentcity: Bahrabise
+  city: "bahrabise"
+  accentcity: "Bahrabise"
 baijnathpurwa: 
-  city: baijnathpurwa
-  accentcity: Baijnathpurwa
+  city: "baijnathpurwa"
+  accentcity: "Baijnathpurwa"
 bailikot: 
-  city: bailikot
-  accentcity: Bailikot
+  city: "bailikot"
+  accentcity: "Bailikot"
 baindoli: 
-  city: baindoli
-  accentcity: Baindoli
+  city: "baindoli"
+  accentcity: "Baindoli"
 bairia: 
-  city: bairia
-  accentcity: Bairia
+  city: "bairia"
+  accentcity: "Bairia"
 baitadi: 
-  city: baitadi
-  accentcity: Baitadi
+  city: "baitadi"
+  accentcity: "Baitadi"
 bajang: 
-  city: bajang
-  accentcity: Bajang
+  city: "bajang"
+  accentcity: "Bajang"
 bajhang: 
-  city: bajhang
-  accentcity: Bajhang
+  city: "bajhang"
+  accentcity: "Bajhang"
 bajura: 
-  city: bajura
-  accentcity: Bajura
+  city: "bajura"
+  accentcity: "Bajura"
 bakarkot: 
-  city: bakarkot
-  accentcity: Bakarkot
+  city: "bakarkot"
+  accentcity: "Bakarkot"
 bakhri kharka: 
-  city: bakhri kharka
-  accentcity: Bakhri Kharka
+  city: "bakhri kharka"
+  accentcity: "Bakhri Kharka"
 balaju: 
-  city: balaju
-  accentcity: Balaju
+  city: "balaju"
+  accentcity: "Balaju"
 balapur: 
-  city: balapur
-  accentcity: Balapur
+  city: "balapur"
+  accentcity: "Balapur"
 baldenggarhi: 
-  city: baldenggarhi
-  accentcity: Baldenggarhi
+  city: "baldenggarhi"
+  accentcity: "Baldenggarhi"
 balkot: 
-  city: balkot
-  accentcity: Balkot
+  city: "balkot"
+  accentcity: "Balkot"
 balma: 
-  city: balma
-  accentcity: Balma
+  city: "balma"
+  accentcity: "Balma"
 banasawar: 
-  city: banasawar
-  accentcity: Banasawar
+  city: "banasawar"
+  accentcity: "Banasawar"
 banda: 
-  city: banda
-  accentcity: Banda
+  city: "banda"
+  accentcity: "Banda"
 bandadandi: 
-  city: bandadandi
-  accentcity: Bandadandi
+  city: "bandadandi"
+  accentcity: "Bandadandi"
 bandi: 
-  city: bandi
-  accentcity: Bandi
+  city: "bandi"
+  accentcity: "Bandi"
 bandichhap: 
-  city: bandichhap
-  accentcity: Bandichhap
+  city: "bandichhap"
+  accentcity: "Bandichhap"
 bandipur: 
-  city: bandipur
-  accentcity: Bandipur
+  city: "bandipur"
+  accentcity: "Bandipur"
 banepa: 
-  city: banepa
-  accentcity: Banepa
+  city: "banepa"
+  accentcity: "Banepa"
 banepa bazar: 
-  city: banepa bazar
-  accentcity: Banepa Bazar
+  city: "banepa bazar"
+  accentcity: "Banepa Bazar"
 baneshore: 
-  city: baneshore
-  accentcity: Baneshore
+  city: "baneshore"
+  accentcity: "Baneshore"
 baneshwar: 
-  city: baneshwar
-  accentcity: Baneshwar
+  city: "baneshwar"
+  accentcity: "Baneshwar"
 baneswar: 
-  city: baneswar
-  accentcity: Baneswar
+  city: "baneswar"
+  accentcity: "Baneswar"
 bangahi: 
-  city: bangahi
-  accentcity: Bangahi
+  city: "bangahi"
+  accentcity: "Bangahi"
 banke: 
-  city: banke
-  accentcity: Banke
+  city: "banke"
+  accentcity: "Banke"
 bansangu: 
-  city: bansangu
-  accentcity: Bansangu
+  city: "bansangu"
+  accentcity: "Bansangu"
 banskot: 
-  city: banskot
-  accentcity: Banskot
+  city: "banskot"
+  accentcity: "Banskot"
 banspani: 
-  city: banspani
-  accentcity: Banspani
+  city: "banspani"
+  accentcity: "Banspani"
 baraban: 
-  city: baraban
-  accentcity: Baraban
+  city: "baraban"
+  accentcity: "Baraban"
 barabise: 
-  city: barabise
-  accentcity: Barabise
+  city: "barabise"
+  accentcity: "Barabise"
 barachbise: 
-  city: barachbise
-  accentcity: Barachbise
+  city: "barachbise"
+  accentcity: "Barachbise"
 barahbise: 
-  city: barahbise
-  accentcity: Barahbise
+  city: "barahbise"
+  accentcity: "Barahbise"
 barang: 
-  city: barang
-  accentcity: Barang
+  city: "barang"
+  accentcity: "Barang"
 baratpur: 
-  city: baratpur
-  accentcity: Baratpur
+  city: "baratpur"
+  accentcity: "Baratpur"
 barbatta: 
-  city: barbatta
-  accentcity: Barbatta
+  city: "barbatta"
+  accentcity: "Barbatta"
 bardanda: 
-  city: bardanda
-  accentcity: Bardanda
+  city: "bardanda"
+  accentcity: "Bardanda"
 bardia: 
-  city: bardia
-  accentcity: Bardia
+  city: "bardia"
+  accentcity: "Bardia"
 bardiya: 
-  city: bardiya
-  accentcity: Bardiya
+  city: "bardiya"
+  accentcity: "Bardiya"
 barewa: 
-  city: barewa
-  accentcity: Barewa
+  city: "barewa"
+  accentcity: "Barewa"
 bargaon: 
-  city: bargaon
-  accentcity: Bargaon
+  city: "bargaon"
+  accentcity: "Bargaon"
 barhamjia: 
-  city: barhamjia
-  accentcity: Barhamjia
+  city: "barhamjia"
+  accentcity: "Barhamjia"
 barhara: 
-  city: barhara
-  accentcity: Barhara
+  city: "barhara"
+  accentcity: "Barhara"
 barikot: 
-  city: barikot
-  accentcity: Barikot
+  city: "barikot"
+  accentcity: "Barikot"
 barmdeo mandi: 
-  city: barmdeo mandi
-  accentcity: Barmdeo Mandi
+  city: "barmdeo mandi"
+  accentcity: "Barmdeo Mandi"
 barnideo mandi: 
-  city: barnideo mandi
-  accentcity: Barnideo Mandi
+  city: "barnideo mandi"
+  accentcity: "Barnideo Mandi"
 bartar: 
-  city: bartar
-  accentcity: Bartar
+  city: "bartar"
+  accentcity: "Bartar"
 basbeti: 
-  city: basbeti
-  accentcity: Basbeti
+  city: "basbeti"
+  accentcity: "Basbeti"
 batar bazar: 
-  city: batar bazar
-  accentcity: Batar Bazar
+  city: "batar bazar"
+  accentcity: "Batar Bazar"
 bathala: 
-  city: bathala
-  accentcity: Bathala
+  city: "bathala"
+  accentcity: "Bathala"
 batra: 
-  city: batra
-  accentcity: Batra
+  city: "batra"
+  accentcity: "Batra"
 battar: 
-  city: battar
-  accentcity: Battar
+  city: "battar"
+  accentcity: "Battar"
 batter: 
-  city: batter
-  accentcity: Batter
+  city: "batter"
+  accentcity: "Batter"
 baudha: 
-  city: baudha
-  accentcity: Baudha
+  city: "baudha"
+  accentcity: "Baudha"
 baudhatinchule: 
-  city: baudhatinchule
-  accentcity: Baudhatinchule
+  city: "baudhatinchule"
+  accentcity: "Baudhatinchule"
 baugachia: 
-  city: baugachia
-  accentcity: Baugachia
+  city: "baugachia"
+  accentcity: "Baugachia"
 beding: 
-  city: beding
-  accentcity: Beding
+  city: "beding"
+  accentcity: "Beding"
 bela: 
-  city: bela
-  accentcity: Bela
+  city: "bela"
+  accentcity: "Bela"
 belahia: 
-  city: belahia
-  accentcity: Belahia
+  city: "belahia"
+  accentcity: "Belahia"
 belani: 
-  city: belani
-  accentcity: Belani
+  city: "belani"
+  accentcity: "Belani"
 belbhar: 
-  city: belbhar
-  accentcity: Belbhar
+  city: "belbhar"
+  accentcity: "Belbhar"
 belgaon: 
-  city: belgaon
-  accentcity: Belgaon
+  city: "belgaon"
+  accentcity: "Belgaon"
 beluwa: 
-  city: beluwa
-  accentcity: Beluwa
+  city: "beluwa"
+  accentcity: "Beluwa"
 belwa: 
-  city: belwa
-  accentcity: Belwa
+  city: "belwa"
+  accentcity: "Belwa"
 beni: 
-  city: beni
-  accentcity: Beni
+  city: "beni"
+  accentcity: "Beni"
 beni ghat: 
-  city: beni ghat
-  accentcity: Beni Ghat
+  city: "beni ghat"
+  accentcity: "Beni Ghat"
 benighat: 
-  city: benighat
-  accentcity: Benighat
+  city: "benighat"
+  accentcity: "Benighat"
 berhampuri: 
-  city: berhampuri
-  accentcity: Berhampuri
+  city: "berhampuri"
+  accentcity: "Berhampuri"
 beteni: 
-  city: beteni
-  accentcity: Beteni
+  city: "beteni"
+  accentcity: "Beteni"
 bethari: 
-  city: bethari
-  accentcity: Bethari
+  city: "bethari"
+  accentcity: "Bethari"
 betrawati: 
-  city: betrawati
-  accentcity: Betrawati
+  city: "betrawati"
+  accentcity: "Betrawati"
 bhada: 
-  city: bhada
-  accentcity: Bhada
+  city: "bhada"
+  accentcity: "Bhada"
 bhadgaon: 
-  city: bhadgaon
-  accentcity: Bhadgaon
+  city: "bhadgaon"
+  accentcity: "Bhadgaon"
 bhadrapur: 
-  city: bhadrapur
-  accentcity: Bhadrapur
+  city: "bhadrapur"
+  accentcity: "Bhadrapur"
 bhagaura: 
-  city: bhagaura
-  accentcity: Bhagaura
+  city: "bhagaura"
+  accentcity: "Bhagaura"
 bhagwanpur: 
-  city: bhagwanpur
-  accentcity: Bhagwanpur
+  city: "bhagwanpur"
+  accentcity: "Bhagwanpur"
 bhainsaha: 
-  city: bhainsaha
-  accentcity: Bhainsaha
+  city: "bhainsaha"
+  accentcity: "Bhainsaha"
 bhainse: 
-  city: bhainse
-  accentcity: Bhainse
+  city: "bhainse"
+  accentcity: "Bhainse"
 bhainse dobhan: 
-  city: bhainse dobhan
-  accentcity: Bhainse Dobhan
+  city: "bhainse dobhan"
+  accentcity: "Bhainse Dobhan"
 bhairahawa: 
-  city: bhairahawa
-  accentcity: Bhairahawa
+  city: "bhairahawa"
+  accentcity: "Bhairahawa"
 bhairawa: 
-  city: bhairawa
-  accentcity: Bhairawa
+  city: "bhairawa"
+  accentcity: "Bhairawa"
 bhairhwa: 
-  city: bhairhwa
-  accentcity: Bhairhwa
+  city: "bhairhwa"
+  accentcity: "Bhairhwa"
 bhairwa: 
-  city: bhairwa
-  accentcity: Bhairwa
+  city: "bhairwa"
+  accentcity: "Bhairwa"
 bhaise: 
-  city: bhaise
-  accentcity: Bhaise
+  city: "bhaise"
+  accentcity: "Bhaise"
 bhajni: 
-  city: bhajni
-  accentcity: Bhajni
+  city: "bhajni"
+  accentcity: "Bhajni"
 bhaktapur: 
-  city: bhaktapur
-  accentcity: Bhaktapur
+  city: "bhaktapur"
+  accentcity: "Bhaktapur"
 bhandar: 
-  city: bhandar
-  accentcity: Bhandar
+  city: "bhandar"
+  accentcity: "Bhandar"
 bhandari: 
-  city: bhandari
-  accentcity: Bhandari
+  city: "bhandari"
+  accentcity: "Bhandari"
 bharatpur: 
-  city: bharatpur
-  accentcity: Bharatpur
+  city: "bharatpur"
+  accentcity: "Bharatpur"
 bhartabas: 
-  city: bhartabas
-  accentcity: Bhartabas
+  city: "bhartabas"
+  accentcity: "Bhartabas"
 bhata: 
-  city: bhata
-  accentcity: Bhata
+  city: "bhata"
+  accentcity: "Bhata"
 bhataulia: 
-  city: bhataulia
-  accentcity: Bhataulia
+  city: "bhataulia"
+  accentcity: "Bhataulia"
 bhatgaon: 
-  city: bhatgaon
-  accentcity: Bhatgaon
+  city: "bhatgaon"
+  accentcity: "Bhatgaon"
 bhatgoan: 
-  city: bhatgoan
-  accentcity: Bhatgoan
+  city: "bhatgoan"
+  accentcity: "Bhatgoan"
 bhawanipur: 
-  city: bhawanipur
-  accentcity: Bhawanipur
+  city: "bhawanipur"
+  accentcity: "Bhawanipur"
 bhikhna tdjori: 
-  city: bhikhna tdjori
-  accentcity: Bhikhna Tdjori
+  city: "bhikhna tdjori"
+  accentcity: "Bhikhna Tdjori"
 bhikhna thori: 
-  city: bhikhna thori
-  accentcity: Bhikhna Thori
+  city: "bhikhna thori"
+  accentcity: "Bhikhna Thori"
 bhikna thori: 
-  city: bhikna thori
-  accentcity: Bhikna Thori
+  city: "bhikna thori"
+  accentcity: "Bhikna Thori"
 bhimpedi: 
-  city: bhimpedi
-  accentcity: Bhimpedi
+  city: "bhimpedi"
+  accentcity: "Bhimpedi"
 bhimphedi: 
-  city: bhimphedi
-  accentcity: Bhimphedi
+  city: "bhimphedi"
+  accentcity: "Bhimphedi"
 bhingrigaon: 
-  city: bhingrigaon
-  accentcity: Bhingrigaon
+  city: "bhingrigaon"
+  accentcity: "Bhingrigaon"
 bhirahawa: 
-  city: bhirahawa
-  accentcity: Bhirahawa
+  city: "bhirahawa"
+  accentcity: "Bhirahawa"
 bhitania: 
-  city: bhitania
-  accentcity: Bhitania
+  city: "bhitania"
+  accentcity: "Bhitania"
 bhojpur: 
-  city: bhojpur
-  accentcity: Bhojpur
+  city: "bhojpur"
+  accentcity: "Bhojpur"
 bholi: 
-  city: bholi
-  accentcity: Bholi
+  city: "bholi"
+  accentcity: "Bholi"
 bhopatpur: 
-  city: bhopatpur
-  accentcity: Bhopatpur
+  city: "bhopatpur"
+  accentcity: "Bhopatpur"
 bhowa: 
-  city: bhowa
-  accentcity: Bhowa
+  city: "bhowa"
+  accentcity: "Bhowa"
 bhujauli: 
-  city: bhujauli
-  accentcity: Bhujauli
+  city: "bhujauli"
+  accentcity: "Bhujauli"
 bhurchaur: 
-  city: bhurchaur
-  accentcity: Bhurchaur
+  city: "bhurchaur"
+  accentcity: "Bhurchaur"
 bhurkia: 
-  city: bhurkia
-  accentcity: Bhurkia
+  city: "bhurkia"
+  accentcity: "Bhurkia"
 bichhuwa: 
-  city: bichhuwa
-  accentcity: Bichhuwa
+  city: "bichhuwa"
+  accentcity: "Bichhuwa"
 bichhuwa jhala: 
-  city: bichhuwa jhala
-  accentcity: Bichhuwa Jhala
+  city: "bichhuwa jhala"
+  accentcity: "Bichhuwa Jhala"
 bijalpura: 
-  city: bijalpura
-  accentcity: Bijalpura
+  city: "bijalpura"
+  accentcity: "Bijalpura"
 bijauri: 
-  city: bijauri
-  accentcity: Bijauri
+  city: "bijauri"
+  accentcity: "Bijauri"
 bijulpura: 
-  city: bijulpura
-  accentcity: Bijulpura
+  city: "bijulpura"
+  accentcity: "Bijulpura"
 bilauri: 
-  city: bilauri
-  accentcity: Bilauri
+  city: "bilauri"
+  accentcity: "Bilauri"
 bilbhari: 
-  city: bilbhari
-  accentcity: Bilbhari
+  city: "bilbhari"
+  accentcity: "Bilbhari"
 bimtakothi: 
-  city: bimtakothi
-  accentcity: Bimtakothi
+  city: "bimtakothi"
+  accentcity: "Bimtakothi"
 binaikgaon: 
-  city: binaikgaon
-  accentcity: Binaikgaon
+  city: "binaikgaon"
+  accentcity: "Binaikgaon"
 biprat: 
-  city: biprat
-  accentcity: Biprat
+  city: "biprat"
+  accentcity: "Biprat"
 biratnagar: 
-  city: biratnagar
-  accentcity: Biratnagar
+  city: "biratnagar"
+  accentcity: "Biratnagar"
 biratnagur: 
-  city: biratnagur
-  accentcity: Biratnagur
+  city: "biratnagur"
+  accentcity: "Biratnagur"
 birganj: 
-  city: birganj
-  accentcity: Birganj
+  city: "birganj"
+  accentcity: "Birganj"
 birgunj: 
-  city: birgunj
-  accentcity: Birgunj
+  city: "birgunj"
+  accentcity: "Birgunj"
 birkot: 
-  city: birkot
-  accentcity: Birkot
+  city: "birkot"
+  accentcity: "Birkot"
 birta: 
-  city: birta
-  accentcity: Birta
+  city: "birta"
+  accentcity: "Birta"
 bishunpura: 
-  city: bishunpura
-  accentcity: Bishunpura
+  city: "bishunpura"
+  accentcity: "Bishunpura"
 bistbara: 
-  city: bistbara
-  accentcity: Bistbara
+  city: "bistbara"
+  accentcity: "Bistbara"
 bithara: 
-  city: bithara
-  accentcity: Bithara
+  city: "bithara"
+  accentcity: "Bithara"
 bogri: 
-  city: bogri
-  accentcity: Bogri
+  city: "bogri"
+  accentcity: "Bogri"
 boradandi: 
-  city: boradandi
-  accentcity: Boradandi
+  city: "boradandi"
+  accentcity: "Boradandi"
 bramahdeomandi: 
-  city: bramahdeomandi
-  accentcity: Bramahdeomandi
+  city: "bramahdeomandi"
+  accentcity: "Bramahdeomandi"
 bramhadeu mandi: 
-  city: bramhadeu mandi
-  accentcity: Bramhadeu Mandi
+  city: "bramhadeu mandi"
+  accentcity: "Bramhadeu Mandi"
 bubakone: 
-  city: bubakone
-  accentcity: Bubakone
+  city: "bubakone"
+  accentcity: "Bubakone"
 budanilkantha: 
-  city: budanilkantha
-  accentcity: Budanilkantha
+  city: "budanilkantha"
+  accentcity: "Budanilkantha"
 budha-nilkantha: 
-  city: budha-nilkantha
-  accentcity: Budha-Nilkantha
+  city: "budha-nilkantha"
+  accentcity: "Budha-Nilkantha"
 budhbare: 
-  city: budhbare
-  accentcity: Budhbare
+  city: "budhbare"
+  accentcity: "Budhbare"
 bungmati: 
-  city: bungmati
-  accentcity: Bungmati
+  city: "bungmati"
+  accentcity: "Bungmati"
 burathum: 
-  city: burathum
-  accentcity: Burathum
+  city: "burathum"
+  accentcity: "Burathum"
 burhanilkantha: 
-  city: burhanilkantha
-  accentcity: Burhanilkantha
+  city: "burhanilkantha"
+  accentcity: "Burhanilkantha"
 buriali: 
-  city: buriali
-  accentcity: Buriali
+  city: "buriali"
+  accentcity: "Buriali"
 burtibang: 
-  city: burtibang
-  accentcity: Burtibang
+  city: "burtibang"
+  accentcity: "Burtibang"
 butaul: 
-  city: butaul
-  accentcity: Butaul
+  city: "butaul"
+  accentcity: "Butaul"
 butwai: 
-  city: butwai
-  accentcity: Butwai
+  city: "butwai"
+  accentcity: "Butwai"
 butwal: 
-  city: butwal
-  accentcity: Butwal
+  city: "butwal"
+  accentcity: "Butwal"
 captainganj: 
-  city: captainganj
-  accentcity: Captainganj
+  city: "captainganj"
+  accentcity: "Captainganj"
 chainpur: 
-  city: chainpur
-  accentcity: Chainpur
+  city: "chainpur"
+  accentcity: "Chainpur"
 chaitya: 
-  city: chaitya
-  accentcity: Chaitya
+  city: "chaitya"
+  accentcity: "Chaitya"
 chala: 
-  city: chala
-  accentcity: Chala
+  city: "chala"
+  accentcity: "Chala"
 champapur: 
-  city: champapur
-  accentcity: Champapur
+  city: "champapur"
+  accentcity: "Champapur"
 champpur: 
-  city: champpur
-  accentcity: Champpur
+  city: "champpur"
+  accentcity: "Champpur"
 chandragadhi: 
-  city: chandragadhi
-  accentcity: Chandragadhi
+  city: "chandragadhi"
+  accentcity: "Chandragadhi"
 chandra garhi: 
-  city: chandra garhi
-  accentcity: Chandra Garhi
+  city: "chandra garhi"
+  accentcity: "Chandra Garhi"
 changrang: 
-  city: changrang
-  accentcity: Changrang
+  city: "changrang"
+  accentcity: "Changrang"
 chapagaon: 
-  city: chapagaon
-  accentcity: Chapagaon
+  city: "chapagaon"
+  accentcity: "Chapagaon"
 chapagaun: 
-  city: chapagaun
-  accentcity: Chapagaun
+  city: "chapagaun"
+  accentcity: "Chapagaun"
 chapia: 
-  city: chapia
-  accentcity: Chapia
+  city: "chapia"
+  accentcity: "Chapia"
 charang: 
-  city: charang
-  accentcity: Charang
+  city: "charang"
+  accentcity: "Charang"
 charikot: 
-  city: charikot
-  accentcity: Charikot
+  city: "charikot"
+  accentcity: "Charikot"
 chatra: 
-  city: chatra
-  accentcity: Chatra
+  city: "chatra"
+  accentcity: "Chatra"
 chaturale: 
-  city: chaturale
-  accentcity: Chaturale
+  city: "chaturale"
+  accentcity: "Chaturale"
 chaubisho: 
-  city: chaubisho
-  accentcity: Chaubisho
+  city: "chaubisho"
+  accentcity: "Chaubisho"
 chaukle: 
-  city: chaukle
-  accentcity: Chaukle
+  city: "chaukle"
+  accentcity: "Chaukle"
 chaukun: 
-  city: chaukun
-  accentcity: Chaukun
+  city: "chaukun"
+  accentcity: "Chaukun"
 chaunrikharka: 
-  city: chaunrikharka
-  accentcity: Chaunrikharka
+  city: "chaunrikharka"
+  accentcity: "Chaunrikharka"
 chautara: 
-  city: chautara
-  accentcity: Chautara
+  city: "chautara"
+  accentcity: "Chautara"
 chautha: 
-  city: chautha
-  accentcity: Chautha
+  city: "chautha"
+  accentcity: "Chautha"
 chepang: 
-  city: chepang
-  accentcity: Chepang
+  city: "chepang"
+  accentcity: "Chepang"
 chepti: 
-  city: chepti
-  accentcity: Chepti
+  city: "chepti"
+  accentcity: "Chepti"
 chepua: 
-  city: chepua
-  accentcity: Chepua
+  city: "chepua"
+  accentcity: "Chepua"
 chepuwa: 
-  city: chepuwa
-  accentcity: Chepuwa
+  city: "chepuwa"
+  accentcity: "Chepuwa"
 chhapia: 
-  city: chhapia
-  accentcity: Chhapia
+  city: "chhapia"
+  accentcity: "Chhapia"
 chhapre: 
-  city: chhapre
-  accentcity: Chhapre
+  city: "chhapre"
+  accentcity: "Chhapre"
 chharka bhot: 
-  city: chharka bhot
-  accentcity: Chharka Bhot
+  city: "chharka bhot"
+  accentcity: "Chharka Bhot"
 chharkabhotgaon: 
-  city: chharkabhotgaon
-  accentcity: Chharkabhotgaon
+  city: "chharkabhotgaon"
+  accentcity: "Chharkabhotgaon"
 chhibro: 
-  city: chhibro
-  accentcity: Chhibro
+  city: "chhibro"
+  accentcity: "Chhibro"
 chhintapu: 
-  city: chhintapu
-  accentcity: Chhintapu
+  city: "chhintapu"
+  accentcity: "Chhintapu"
 chhokang: 
-  city: chhokang
-  accentcity: Chhokang
+  city: "chhokang"
+  accentcity: "Chhokang"
 chhukgaon: 
-  city: chhukgaon
-  accentcity: Chhukgaon
+  city: "chhukgaon"
+  accentcity: "Chhukgaon"
 chhule: 
-  city: chhule
-  accentcity: Chhule
+  city: "chhule"
+  accentcity: "Chhule"
 chilankha: 
-  city: chilankha
-  accentcity: Chilankha
+  city: "chilankha"
+  accentcity: "Chilankha"
 chilha: 
-  city: chilha
-  accentcity: Chilha
+  city: "chilha"
+  accentcity: "Chilha"
 chilkha: 
-  city: chilkha
-  accentcity: Chilkha
+  city: "chilkha"
+  accentcity: "Chilkha"
 chilkhaya: 
-  city: chilkhaya
-  accentcity: Chilkhaya
+  city: "chilkhaya"
+  accentcity: "Chilkhaya"
 chisapani: 
-  city: chisapani
-  accentcity: Chisapani
+  city: "chisapani"
+  accentcity: "Chisapani"
 chisapani gadhi: 
-  city: chisapani gadhi
-  accentcity: Chisapani Gadhi
+  city: "chisapani gadhi"
+  accentcity: "Chisapani Gadhi"
 chisapani garhi: 
-  city: chisapani garhi
-  accentcity: Chisapani Garhi
+  city: "chisapani garhi"
+  accentcity: "Chisapani Garhi"
 chisopani: 
-  city: chisopani
-  accentcity: Chisopani
+  city: "chisopani"
+  accentcity: "Chisopani"
 chiyabari: 
-  city: chiyabari
-  accentcity: Chiyabari
+  city: "chiyabari"
+  accentcity: "Chiyabari"
 chobhar: 
-  city: chobhar
-  accentcity: Chobhar
+  city: "chobhar"
+  accentcity: "Chobhar"
 chobhor: 
-  city: chobhor
-  accentcity: Chobhor
+  city: "chobhor"
+  accentcity: "Chobhor"
 cholpa: 
-  city: cholpa
-  accentcity: Cholpa
+  city: "cholpa"
+  accentcity: "Cholpa"
 chong: 
-  city: chong
-  accentcity: Chong
+  city: "chong"
+  accentcity: "Chong"
 choutara: 
-  city: choutara
-  accentcity: Choutara
+  city: "choutara"
+  accentcity: "Choutara"
 chuchekanda: 
-  city: chuchekanda
-  accentcity: Chuchekanda
+  city: "chuchekanda"
+  accentcity: "Chuchekanda"
 chukhung: 
-  city: chukhung
-  accentcity: Chukhung
+  city: "chukhung"
+  accentcity: "Chukhung"
 chumik gyatsa: 
-  city: chumik gyatsa
-  accentcity: Chumik Gyatsa
+  city: "chumik gyatsa"
+  accentcity: "Chumik Gyatsa"
 chunemari: 
-  city: chunemari
-  accentcity: Chunemari
+  city: "chunemari"
+  accentcity: "Chunemari"
 chyabari: 
-  city: chyabari
-  accentcity: Chyabari
+  city: "chyabari"
+  accentcity: "Chyabari"
 chyamtang: 
-  city: chyamtang
-  accentcity: Chyamtang
+  city: "chyamtang"
+  accentcity: "Chyamtang"
 chyangthapu: 
-  city: chyangthapu
-  accentcity: Chyangthapu
+  city: "chyangthapu"
+  accentcity: "Chyangthapu"
 colonelbari: 
-  city: colonelbari
-  accentcity: Colonelbari
+  city: "colonelbari"
+  accentcity: "Colonelbari"
 daban: 
-  city: daban
-  accentcity: Daban
+  city: "daban"
+  accentcity: "Daban"
 dabhung: 
-  city: dabhung
-  accentcity: Dabhung
+  city: "dabhung"
+  accentcity: "Dabhung"
 dadeldhura: 
-  city: dadeldhura
-  accentcity: Dadeldhura
+  city: "dadeldhura"
+  accentcity: "Dadeldhura"
 dahawa: 
-  city: dahawa
-  accentcity: Dahawa
+  city: "dahawa"
+  accentcity: "Dahawa"
 dailekh: 
-  city: dailekh
-  accentcity: Dailekh
+  city: "dailekh"
+  accentcity: "Dailekh"
 daiphu: 
-  city: daiphu
-  accentcity: Daiphu
+  city: "daiphu"
+  accentcity: "Daiphu"
 dakhakot: 
-  city: dakhakot
-  accentcity: Dakhakot
+  city: "dakhakot"
+  accentcity: "Dakhakot"
 dakshinkali: 
-  city: dakshinkali
-  accentcity: Dakshinkali
+  city: "dakshinkali"
+  accentcity: "Dakshinkali"
 dali: 
-  city: dali
-  accentcity: Dali
+  city: "dali"
+  accentcity: "Dali"
 daliwa: 
-  city: daliwa
-  accentcity: Daliwa
+  city: "daliwa"
+  accentcity: "Daliwa"
 dalli: 
-  city: dalli
-  accentcity: Dalli
+  city: "dalli"
+  accentcity: "Dalli"
 dalphu: 
-  city: dalphu
-  accentcity: Dalphu
+  city: "dalphu"
+  accentcity: "Dalphu"
 daman: 
-  city: daman
-  accentcity: Daman
+  city: "daman"
+  accentcity: "Daman"
 damdwali: 
-  city: damdwali
-  accentcity: Damdwali
+  city: "damdwali"
+  accentcity: "Damdwali"
 dana: 
-  city: dana
-  accentcity: Dana
+  city: "dana"
+  accentcity: "Dana"
 dandakharka: 
-  city: dandakharka
-  accentcity: Dandakharka
+  city: "dandakharka"
+  accentcity: "Dandakharka"
 dandeldhura: 
-  city: dandeldhura
-  accentcity: Dandeldhura
+  city: "dandeldhura"
+  accentcity: "Dandeldhura"
 dandelhura: 
-  city: dandelhura
-  accentcity: Dandelhura
+  city: "dandelhura"
+  accentcity: "Dandelhura"
 dangarmarwa: 
-  city: dangarmarwa
-  accentcity: Dangarmarwa
+  city: "dangarmarwa"
+  accentcity: "Dangarmarwa"
 dang: 
-  city: dang
-  accentcity: Dang
+  city: "dang"
+  accentcity: "Dang"
 dang deu khuri: 
-  city: dang deu khuri
-  accentcity: Dang Deu Khuri
+  city: "dang deu khuri"
+  accentcity: "Dang Deu Khuri"
 darchula: 
-  city: darchula
-  accentcity: Darchula
+  city: "darchula"
+  accentcity: "Darchula"
 daregaunra: 
-  city: daregaunra
-  accentcity: Daregaunra
+  city: "daregaunra"
+  accentcity: "Daregaunra"
 darma: 
-  city: darma
-  accentcity: Darma
+  city: "darma"
+  accentcity: "Darma"
 daura: 
-  city: daura
-  accentcity: Daura
+  city: "daura"
+  accentcity: "Daura"
 daurah: 
-  city: daurah
-  accentcity: Daurah
+  city: "daurah"
+  accentcity: "Daurah"
 deb: 
-  city: deb
-  accentcity: Deb
+  city: "deb"
+  accentcity: "Deb"
 debichaur: 
-  city: debichaur
-  accentcity: Debichaur
+  city: "debichaur"
+  accentcity: "Debichaur"
 debikot: 
-  city: debikot
-  accentcity: Debikot
+  city: "debikot"
+  accentcity: "Debikot"
 dekhatbhuli: 
-  city: dekhatbhuli
-  accentcity: Dekhatbhuli
+  city: "dekhatbhuli"
+  accentcity: "Dekhatbhuli"
 deomoro: 
-  city: deomoro
-  accentcity: Deomoro
+  city: "deomoro"
+  accentcity: "Deomoro"
 deoraha: 
-  city: deoraha
-  accentcity: Deoraha
+  city: "deoraha"
+  accentcity: "Deoraha"
 deorali: 
-  city: deorali
-  accentcity: Deorali
+  city: "deorali"
+  accentcity: "Deorali"
 dhabai: 
-  city: dhabai
-  accentcity: Dhabai
+  city: "dhabai"
+  accentcity: "Dhabai"
 dhading: 
-  city: dhading
-  accentcity: Dhading
+  city: "dhading"
+  accentcity: "Dhading"
 dhakela: 
-  city: dhakela
-  accentcity: Dhakela
+  city: "dhakela"
+  accentcity: "Dhakela"
 dhalkebar: 
-  city: dhalkebar
-  accentcity: Dhalkebar
+  city: "dhalkebar"
+  accentcity: "Dhalkebar"
 dhalkewar: 
-  city: dhalkewar
-  accentcity: Dhalkewar
+  city: "dhalkewar"
+  accentcity: "Dhalkewar"
 dhamaura: 
-  city: dhamaura
-  accentcity: Dhamaura
+  city: "dhamaura"
+  accentcity: "Dhamaura"
 dhangadhi: 
-  city: dhangadhi
-  accentcity: Dhangadhi
+  city: "dhangadhi"
+  accentcity: "Dhangadhi"
 dhangarhi: 
-  city: dhangarhi
-  accentcity: Dhangarhi
+  city: "dhangarhi"
+  accentcity: "Dhangarhi"
 dhankuta bazar: 
-  city: dhankuta bazar
-  accentcity: Dhankuta Bazar
+  city: "dhankuta bazar"
+  accentcity: "Dhankuta Bazar"
 dhankuta: 
-  city: dhankuta
-  accentcity: Dhankuta
+  city: "dhankuta"
+  accentcity: "Dhankuta"
 dhankutta: 
-  city: dhankutta
-  accentcity: Dhankutta
+  city: "dhankutta"
+  accentcity: "Dhankutta"
 dhantardhi: 
-  city: dhantardhi
-  accentcity: Dhantardhi
+  city: "dhantardhi"
+  accentcity: "Dhantardhi"
 dhanukha: 
-  city: dhanukha
-  accentcity: Dhanukha
+  city: "dhanukha"
+  accentcity: "Dhanukha"
 dhap: 
-  city: dhap
-  accentcity: Dhap
+  city: "dhap"
+  accentcity: "Dhap"
 dharamnager: 
-  city: dharamnager
-  accentcity: Dharamnager
+  city: "dharamnager"
+  accentcity: "Dharamnager"
 dharampur: 
-  city: dharampur
-  accentcity: Dharampur
+  city: "dharampur"
+  accentcity: "Dharampur"
 dharan bazar: 
-  city: dharan bazar
-  accentcity: Dharan Bazar
+  city: "dharan bazar"
+  accentcity: "Dharan Bazar"
 dharan: 
-  city: dharan
-  accentcity: Dharan
+  city: "dharan"
+  accentcity: "Dharan"
 dharchula: 
-  city: dharchula
-  accentcity: Dharchula
+  city: "dharchula"
+  accentcity: "Dharchula"
 dharchul: 
-  city: dharchul
-  accentcity: Dharchul
+  city: "dharchul"
+  accentcity: "Dharchul"
 dharmpur: 
-  city: dharmpur
-  accentcity: Dharmpur
+  city: "dharmpur"
+  accentcity: "Dharmpur"
 dharot: 
-  city: dharot
-  accentcity: Dharot
+  city: "dharot"
+  accentcity: "Dharot"
 dharsing: 
-  city: dharsing
-  accentcity: Dharsing
+  city: "dharsing"
+  accentcity: "Dharsing"
 dhik: 
-  city: dhik
-  accentcity: Dhik
+  city: "dhik"
+  accentcity: "Dhik"
 dhita: 
-  city: dhita
-  accentcity: Dhita
+  city: "dhita"
+  accentcity: "Dhita"
 dhorpatan: 
-  city: dhorpatan
-  accentcity: Dhorpatan
+  city: "dhorpatan"
+  accentcity: "Dhorpatan"
 dhuli: 
-  city: dhuli
-  accentcity: Dhuli
+  city: "dhuli"
+  accentcity: "Dhuli"
 dhulikhel: 
-  city: dhulikhel
-  accentcity: Dhulikhel
+  city: "dhulikhel"
+  accentcity: "Dhulikhel"
 dhunche: 
-  city: dhunche
-  accentcity: Dhunche
+  city: "dhunche"
+  accentcity: "Dhunche"
 dhundras: 
-  city: dhundras
-  accentcity: Dhundras
+  city: "dhundras"
+  accentcity: "Dhundras"
 dhung: 
-  city: dhung
-  accentcity: Dhung
+  city: "dhung"
+  accentcity: "Dhung"
 dhungrebas: 
-  city: dhungrebas
-  accentcity: Dhungrebas
+  city: "dhungrebas"
+  accentcity: "Dhungrebas"
 dhurjanna: 
-  city: dhurjanna
-  accentcity: Dhurjanna
+  city: "dhurjanna"
+  accentcity: "Dhurjanna"
 dhurkot: 
-  city: dhurkot
-  accentcity: Dhurkot
+  city: "dhurkot"
+  accentcity: "Dhurkot"
 dhursing: 
-  city: dhursing
-  accentcity: Dhursing
+  city: "dhursing"
+  accentcity: "Dhursing"
 digaman: 
-  city: digaman
-  accentcity: Digaman
+  city: "digaman"
+  accentcity: "Digaman"
 diktel bazar: 
-  city: diktel bazar
-  accentcity: Diktel Bazar
+  city: "diktel bazar"
+  accentcity: "Diktel Bazar"
 diktel: 
-  city: diktel
-  accentcity: Diktel
+  city: "diktel"
+  accentcity: "Diktel"
 dillikot: 
-  city: dillikot
-  accentcity: Dillikot
+  city: "dillikot"
+  accentcity: "Dillikot"
 dingboche: 
-  city: dingboche
-  accentcity: Dingboche
+  city: "dingboche"
+  accentcity: "Dingboche"
 dingla: 
-  city: dingla
-  accentcity: Dingla
+  city: "dingla"
+  accentcity: "Dingla"
 dingpoche: 
-  city: dingpoche
-  accentcity: Dingpoche
+  city: "dingpoche"
+  accentcity: "Dingpoche"
 dobala: 
-  city: dobala
-  accentcity: Dobala
+  city: "dobala"
+  accentcity: "Dobala"
 dobata: 
-  city: dobata
-  accentcity: Dobata
+  city: "dobata"
+  accentcity: "Dobata"
 doglang: 
-  city: doglang
-  accentcity: Doglang
+  city: "doglang"
+  accentcity: "Doglang"
 dolakha: 
-  city: dolakha
-  accentcity: Dolakha
+  city: "dolakha"
+  accentcity: "Dolakha"
 dolalghat: 
-  city: dolalghat
-  accentcity: Dolalghat
+  city: "dolalghat"
+  accentcity: "Dolalghat"
 dorpattan: 
-  city: dorpattan
-  accentcity: Dorpattan
+  city: "dorpattan"
+  accentcity: "Dorpattan"
 doti: 
-  city: doti
-  accentcity: Doti
+  city: "doti"
+  accentcity: "Doti"
 duglha: 
-  city: duglha
-  accentcity: Duglha
+  city: "duglha"
+  accentcity: "Duglha"
 dugtha: 
-  city: dugtha
-  accentcity: Dugtha
+  city: "dugtha"
+  accentcity: "Dugtha"
 dullu: 
-  city: dullu
-  accentcity: Dullu
+  city: "dullu"
+  accentcity: "Dullu"
 duman: 
-  city: duman
-  accentcity: Duman
+  city: "duman"
+  accentcity: "Duman"
 dumja: 
-  city: dumja
-  accentcity: Dumja
+  city: "dumja"
+  accentcity: "Dumja"
 dumrichaur: 
-  city: dumrichaur
-  accentcity: Dumrichaur
+  city: "dumrichaur"
+  accentcity: "Dumrichaur"
 dumuhan: 
-  city: dumuhan
-  accentcity: Dumuhan
+  city: "dumuhan"
+  accentcity: "Dumuhan"
 dunglang: 
-  city: dunglang
-  accentcity: Dunglang
+  city: "dunglang"
+  accentcity: "Dunglang"
 durgaon: 
-  city: durgaon
-  accentcity: Durgaon
+  city: "durgaon"
+  accentcity: "Durgaon"
 durgoli: 
-  city: durgoli
-  accentcity: Durgoli
+  city: "durgoli"
+  accentcity: "Durgoli"
 fatehpur: 
-  city: fatehpur
-  accentcity: Fatehpur
+  city: "fatehpur"
+  accentcity: "Fatehpur"
 gadhi: 
-  city: gadhi
-  accentcity: Gadhi
+  city: "gadhi"
+  accentcity: "Gadhi"
 gadriya: 
-  city: gadriya
-  accentcity: Gadriya
+  city: "gadriya"
+  accentcity: "Gadriya"
 gaindakanda: 
-  city: gaindakanda
-  accentcity: Gaindakanda
+  city: "gaindakanda"
+  accentcity: "Gaindakanda"
 gairagaon: 
-  city: gairagaon
-  accentcity: Gairagaon
+  city: "gairagaon"
+  accentcity: "Gairagaon"
 gairigaun: 
-  city: gairigaun
-  accentcity: Gairigaun
+  city: "gairigaun"
+  accentcity: "Gairigaun"
 galba: 
-  city: galba
-  accentcity: Galba
+  city: "galba"
+  accentcity: "Galba"
 galkot: 
-  city: galkot
-  accentcity: Galkot
+  city: "galkot"
+  accentcity: "Galkot"
 galwa: 
-  city: galwa
-  accentcity: Galwa
+  city: "galwa"
+  accentcity: "Galwa"
 galwa gaun: 
-  city: galwa gaun
-  accentcity: Galwa Gaun
+  city: "galwa gaun"
+  accentcity: "Galwa Gaun"
 gamphathang: 
-  city: gamphathang
-  accentcity: Gamphathang
+  city: "gamphathang"
+  accentcity: "Gamphathang"
 ganinekanda: 
-  city: ganinekanda
-  accentcity: Ganinekanda
+  city: "ganinekanda"
+  accentcity: "Ganinekanda"
 ganjri: 
-  city: ganjri
-  accentcity: Ganjri
+  city: "ganjri"
+  accentcity: "Ganjri"
 garenkhuti: 
-  city: garenkhuti
-  accentcity: Garenkhuti
+  city: "garenkhuti"
+  accentcity: "Garenkhuti"
 gaur: 
-  city: gaur
-  accentcity: Gaur
+  city: "gaur"
+  accentcity: "Gaur"
 geta: 
-  city: geta
-  accentcity: Geta
+  city: "geta"
+  accentcity: "Geta"
 ghachak: 
-  city: ghachak
-  accentcity: Ghachak
+  city: "ghachak"
+  accentcity: "Ghachak"
 ghanpokhara: 
-  city: ghanpokhara
-  accentcity: Ghanpokhara
+  city: "ghanpokhara"
+  accentcity: "Ghanpokhara"
 ghara: 
-  city: ghara
-  accentcity: Ghara
+  city: "ghara"
+  accentcity: "Ghara"
 ghilinggaon: 
-  city: ghilinggaon
-  accentcity: Ghilinggaon
+  city: "ghilinggaon"
+  accentcity: "Ghilinggaon"
 ghoghda: 
-  city: ghoghda
-  accentcity: Ghoghda
+  city: "ghoghda"
+  accentcity: "Ghoghda"
 ghorahi: 
-  city: ghorahi
-  accentcity: Ghorahi
+  city: "ghorahi"
+  accentcity: "Ghorahi"
 ghorai: 
-  city: ghorai
-  accentcity: Ghorai
+  city: "ghorai"
+  accentcity: "Ghorai"
 ghumthang: 
-  city: ghumthang
-  accentcity: Ghumthang
+  city: "ghumthang"
+  accentcity: "Ghumthang"
 ghunsa: 
-  city: ghunsa
-  accentcity: Ghunsa
+  city: "ghunsa"
+  accentcity: "Ghunsa"
 ghunthang: 
-  city: ghunthang
-  accentcity: Ghunthang
+  city: "ghunthang"
+  accentcity: "Ghunthang"
 giri: 
-  city: giri
-  accentcity: Giri
+  city: "giri"
+  accentcity: "Giri"
 girma: 
-  city: girma
-  accentcity: Girma
+  city: "girma"
+  accentcity: "Girma"
 godauari: 
-  city: godauari
-  accentcity: Godauari
+  city: "godauari"
+  accentcity: "Godauari"
 godavari: 
-  city: godavari
-  accentcity: Godavari
+  city: "godavari"
+  accentcity: "Godavari"
 godavri: 
-  city: godavri
-  accentcity: Godavri
+  city: "godavri"
+  accentcity: "Godavri"
 godawari: 
-  city: godawari
-  accentcity: Godawari
+  city: "godawari"
+  accentcity: "Godawari"
 gogangaon: 
-  city: gogangaon
-  accentcity: Gogangaon
+  city: "gogangaon"
+  accentcity: "Gogangaon"
 gogan: 
-  city: gogan
-  accentcity: Gogan
+  city: "gogan"
+  accentcity: "Gogan"
 golagauri: 
-  city: golagauri
-  accentcity: Golagauri
+  city: "golagauri"
+  accentcity: "Golagauri"
 golagowar: 
-  city: golagowar
-  accentcity: Golagowar
+  city: "golagowar"
+  accentcity: "Golagowar"
 golapala: 
-  city: golapala
-  accentcity: Golapala
+  city: "golapala"
+  accentcity: "Golapala"
 gongrali: 
-  city: gongrali
-  accentcity: Gongrali
+  city: "gongrali"
+  accentcity: "Gongrali"
 gopalpur: 
-  city: gopalpur
-  accentcity: Gopalpur
+  city: "gopalpur"
+  accentcity: "Gopalpur"
 gorakha: 
-  city: gorakha
-  accentcity: Gorakha
+  city: "gorakha"
+  accentcity: "Gorakha"
 gorkha: 
-  city: gorkha
-  accentcity: Gorkha
+  city: "gorkha"
+  accentcity: "Gorkha"
 gorkhe: 
-  city: gorkhe
-  accentcity: Gorkhe
+  city: "gorkhe"
+  accentcity: "Gorkhe"
 gosainkund: 
-  city: gosainkund
-  accentcity: Gosainkund
+  city: "gosainkund"
+  accentcity: "Gosainkund"
 gotam: 
-  city: gotam
-  accentcity: Gotam
+  city: "gotam"
+  accentcity: "Gotam"
 gotamsiyala: 
-  city: gotamsiyala
-  accentcity: Gotamsiyala
+  city: "gotamsiyala"
+  accentcity: "Gotamsiyala"
 gothi: 
-  city: gothi
-  accentcity: Gothi
+  city: "gothi"
+  accentcity: "Gothi"
 gour: 
-  city: gour
-  accentcity: Gour
+  city: "gour"
+  accentcity: "Gour"
 guani: 
-  city: guani
-  accentcity: Guani
+  city: "guani"
+  accentcity: "Guani"
 gudel: 
-  city: gudel
-  accentcity: Gudel
+  city: "gudel"
+  accentcity: "Gudel"
 gularia: 
-  city: gularia
-  accentcity: Gularia
+  city: "gularia"
+  accentcity: "Gularia"
 gulariya: 
-  city: gulariya
-  accentcity: Gulariya
+  city: "gulariya"
+  accentcity: "Gulariya"
 gulmikot: 
-  city: gulmikot
-  accentcity: Gulmikot
+  city: "gulmikot"
+  accentcity: "Gulmikot"
 gulmi tamghas: 
-  city: gulmi tamghas
-  accentcity: Gulmi Tamghas
+  city: "gulmi tamghas"
+  accentcity: "Gulmi Tamghas"
 gulmi tanghas: 
-  city: gulmi tanghas
-  accentcity: Gulmi Tanghas
+  city: "gulmi tanghas"
+  accentcity: "Gulmi Tanghas"
 gumbung: 
-  city: gumbung
-  accentcity: Gumbung
+  city: "gumbung"
+  accentcity: "Gumbung"
 gum: 
-  city: gum
-  accentcity: Gum
+  city: "gum"
+  accentcity: "Gum"
 gumsha: 
-  city: gumsha
-  accentcity: Gumsha
+  city: "gumsha"
+  accentcity: "Gumsha"
 gunhana: 
-  city: gunhana
-  accentcity: Gunhana
+  city: "gunhana"
+  accentcity: "Gunhana"
 gurdham: 
-  city: gurdham
-  accentcity: Gurdham
+  city: "gurdham"
+  accentcity: "Gurdham"
 gurja: 
-  city: gurja
-  accentcity: Gurja
+  city: "gurja"
+  accentcity: "Gurja"
 gurjakhana: 
-  city: gurjakhana
-  accentcity: Gurjakhana
+  city: "gurjakhana"
+  accentcity: "Gurjakhana"
 gurjakhani: 
-  city: gurjakhani
-  accentcity: Gurjakhani
+  city: "gurjakhani"
+  accentcity: "Gurjakhani"
 gurkha: 
-  city: gurkha
-  accentcity: Gurkha
+  city: "gurkha"
+  accentcity: "Gurkha"
 guthi: 
-  city: guthi
-  accentcity: Guthi
+  city: "guthi"
+  accentcity: "Guthi"
 hajminia: 
-  city: hajminia
-  accentcity: Hajminia
+  city: "hajminia"
+  accentcity: "Hajminia"
 halji: 
-  city: halji
-  accentcity: Halji
+  city: "halji"
+  accentcity: "Halji"
 handrung: 
-  city: handrung
-  accentcity: Handrung
+  city: "handrung"
+  accentcity: "Handrung"
 hangsari: 
-  city: hangsari
-  accentcity: Hangsari
+  city: "hangsari"
+  accentcity: "Hangsari"
 hanumannagar: 
-  city: hanumannagar
-  accentcity: Hanumannagar
+  city: "hanumannagar"
+  accentcity: "Hanumannagar"
 haraincha: 
-  city: haraincha
-  accentcity: Haraincha
+  city: "haraincha"
+  accentcity: "Haraincha"
 hardia chauki: 
-  city: hardia chauki
-  accentcity: Hardia Chauki
+  city: "hardia chauki"
+  accentcity: "Hardia Chauki"
 haria: 
-  city: haria
-  accentcity: Haria
+  city: "haria"
+  accentcity: "Haria"
 hariharpur gadhi: 
-  city: hariharpur gadhi
-  accentcity: Hariharpur Gadhi
+  city: "hariharpur gadhi"
+  accentcity: "Hariharpur Gadhi"
 hariharpur garhi: 
-  city: hariharpur garhi
-  accentcity: Hariharpur Garhi
+  city: "hariharpur garhi"
+  accentcity: "Hariharpur Garhi"
 harpur: 
-  city: harpur
-  accentcity: Harpur
+  city: "harpur"
+  accentcity: "Harpur"
 harrebarre: 
-  city: harrebarre
-  accentcity: Harrebarre
+  city: "harrebarre"
+  accentcity: "Harrebarre"
 harta: 
-  city: harta
-  accentcity: Harta
+  city: "harta"
+  accentcity: "Harta"
 hasta: 
-  city: hasta
-  accentcity: Hasta
+  city: "hasta"
+  accentcity: "Hasta"
 hatia: 
-  city: hatia
-  accentcity: Hatia
+  city: "hatia"
+  accentcity: "Hatia"
 hatranga: 
-  city: hatranga
-  accentcity: Hatranga
+  city: "hatranga"
+  accentcity: "Hatranga"
 helambu: 
-  city: helambu
-  accentcity: Helambu
+  city: "helambu"
+  accentcity: "Helambu"
 helmu: 
-  city: helmu
-  accentcity: Helmu
+  city: "helmu"
+  accentcity: "Helmu"
 hetauda bazar: 
-  city: hetauda bazar
-  accentcity: Hetauda Bazar
+  city: "hetauda bazar"
+  accentcity: "Hetauda Bazar"
 hetauda: 
-  city: hetauda
-  accentcity: Hetauda
+  city: "hetauda"
+  accentcity: "Hetauda"
 hetaunda: 
-  city: hetaunda
-  accentcity: Hetaunda
+  city: "hetaunda"
+  accentcity: "Hetaunda"
 hetaura: 
-  city: hetaura
-  accentcity: Hetaura
+  city: "hetaura"
+  accentcity: "Hetaura"
 hidalwa: 
-  city: hidalwa
-  accentcity: Hidalwa
+  city: "hidalwa"
+  accentcity: "Hidalwa"
 hilajug: 
-  city: hilajug
-  accentcity: Hilajug
+  city: "hilajug"
+  accentcity: "Hilajug"
 hithaura: 
-  city: hithaura
-  accentcity: Hithaura
+  city: "hithaura"
+  accentcity: "Hithaura"
 hitura: 
-  city: hitura
-  accentcity: Hitura
+  city: "hitura"
+  accentcity: "Hitura"
 ilam: 
-  city: ilam
-  accentcity: Ilam
+  city: "ilam"
+  accentcity: "Ilam"
 inarwa: 
-  city: inarwa
-  accentcity: Inarwa
+  city: "inarwa"
+  accentcity: "Inarwa"
 irung: 
-  city: irung
-  accentcity: Irung
+  city: "irung"
+  accentcity: "Irung"
 ismakot: 
-  city: ismakot
-  accentcity: Ismakot
+  city: "ismakot"
+  accentcity: "Ismakot"
 itahari: 
-  city: itahari
-  accentcity: Itahari
+  city: "itahari"
+  accentcity: "Itahari"
 ithari: 
-  city: ithari
-  accentcity: Ithari
+  city: "ithari"
+  accentcity: "Ithari"
 jabdahawa: 
-  city: jabdahawa
-  accentcity: Jabdahawa
+  city: "jabdahawa"
+  accentcity: "Jabdahawa"
 jagat: 
-  city: jagat
-  accentcity: Jagat
+  city: "jagat"
+  accentcity: "Jagat"
 jain: 
-  city: jain
-  accentcity: Jain
+  city: "jain"
+  accentcity: "Jain"
 jajarkot: 
-  city: jajarkot
-  accentcity: Jajarkot
+  city: "jajarkot"
+  accentcity: "Jajarkot"
 jaleshwar: 
-  city: jaleshwar
-  accentcity: Jaleshwar
+  city: "jaleshwar"
+  accentcity: "Jaleshwar"
 jaleswar: 
-  city: jaleswar
-  accentcity: Jaleswar
+  city: "jaleswar"
+  accentcity: "Jaleswar"
 jalkundi: 
-  city: jalkundi
-  accentcity: Jalkundi
+  city: "jalkundi"
+  accentcity: "Jalkundi"
 jalthal: 
-  city: jalthal
-  accentcity: Jalthal
+  city: "jalthal"
+  accentcity: "Jalthal"
 jamu: 
-  city: jamu
-  accentcity: Jamu
+  city: "jamu"
+  accentcity: "Jamu"
 jamuna: 
-  city: jamuna
-  accentcity: Jamuna
+  city: "jamuna"
+  accentcity: "Jamuna"
 janakpur: 
-  city: janakpur
-  accentcity: Janakpur
+  city: "janakpur"
+  accentcity: "Janakpur"
 jang: 
-  city: jang
-  accentcity: Jang
+  city: "jang"
+  accentcity: "Jang"
 jantra khani: 
-  city: jantra khani
-  accentcity: Jantra Khani
+  city: "jantra khani"
+  accentcity: "Jantra Khani"
 jawalakhel: 
-  city: jawalakhel
-  accentcity: Jawalakhel
+  city: "jawalakhel"
+  accentcity: "Jawalakhel"
 jawlakhel: 
-  city: jawlakhel
-  accentcity: Jawlakhel
+  city: "jawlakhel"
+  accentcity: "Jawlakhel"
 jemir ghat: 
-  city: jemir ghat
-  accentcity: Jemir Ghat
+  city: "jemir ghat"
+  accentcity: "Jemir Ghat"
 jhala: 
-  city: jhala
-  accentcity: Jhala
+  city: "jhala"
+  accentcity: "Jhala"
 jhapa: 
-  city: jhapa
-  accentcity: Jhapa
+  city: "jhapa"
+  accentcity: "Jhapa"
 jharkham: 
-  city: jharkham
-  accentcity: Jharkham
+  city: "jharkham"
+  accentcity: "Jharkham"
 jhawani: 
-  city: jhawani
-  accentcity: Jhawani
+  city: "jhawani"
+  accentcity: "Jhawani"
 jhikabasti: 
-  city: jhikabasti
-  accentcity: Jhikabasti
+  city: "jhikabasti"
+  accentcity: "Jhikabasti"
 jhin: 
-  city: jhin
-  accentcity: Jhin
+  city: "jhin"
+  accentcity: "Jhin"
 jhuga: 
-  city: jhuga
-  accentcity: Jhuga
+  city: "jhuga"
+  accentcity: "Jhuga"
 jhunga: 
-  city: jhunga
-  accentcity: Jhunga
+  city: "jhunga"
+  accentcity: "Jhunga"
 jhuwani: 
-  city: jhuwani
-  accentcity: Jhuwani
+  city: "jhuwani"
+  accentcity: "Jhuwani"
 jibu: 
-  city: jibu
-  accentcity: Jibu
+  city: "jibu"
+  accentcity: "Jibu"
 jiri: 
-  city: jiri
-  accentcity: Jiri
+  city: "jiri"
+  accentcity: "Jiri"
 jiwadanda: 
-  city: jiwadanda
-  accentcity: Jiwadanda
+  city: "jiwadanda"
+  accentcity: "Jiwadanda"
 jogikuti: 
-  city: jogikuti
-  accentcity: Jogikuti
+  city: "jogikuti"
+  accentcity: "Jogikuti"
 jomosom: 
-  city: jomosom
-  accentcity: Jomosom
+  city: "jomosom"
+  accentcity: "Jomosom"
 jomoson: 
-  city: jomoson
-  accentcity: Jomoson
+  city: "jomoson"
+  accentcity: "Jomoson"
 joriapani: 
-  city: joriapani
-  accentcity: Joriapani
+  city: "joriapani"
+  accentcity: "Joriapani"
 joshipur: 
-  city: joshipur
-  accentcity: Joshipur
+  city: "joshipur"
+  accentcity: "Joshipur"
 jubing: 
-  city: jubing
-  accentcity: Jubing
+  city: "jubing"
+  accentcity: "Jubing"
 jub: 
-  city: jub
-  accentcity: Jub
+  city: "jub"
+  accentcity: "Jub"
 jumla: 
-  city: jumla
-  accentcity: Jumla
+  city: "jumla"
+  accentcity: "Jumla"
 junbesi: 
-  city: junbesi
-  accentcity: Junbesi
+  city: "junbesi"
+  accentcity: "Junbesi"
 juribela: 
-  city: juribela
-  accentcity: Juribela
+  city: "juribela"
+  accentcity: "Juribela"
 jwalakhel: 
-  city: jwalakhel
-  accentcity: Jwalakhel
+  city: "jwalakhel"
+  accentcity: "Jwalakhel"
 kachai: 
-  city: kachai
-  accentcity: Kachai
+  city: "kachai"
+  accentcity: "Kachai"
 kacha: 
-  city: kacha
-  accentcity: Kacha
+  city: "kacha"
+  accentcity: "Kacha"
 kadarbana: 
-  city: kadarbana
-  accentcity: Kadarbana
+  city: "kadarbana"
+  accentcity: "Kadarbana"
 kagbeni: 
-  city: kagbeni
-  accentcity: Kagbeni
+  city: "kagbeni"
+  accentcity: "Kagbeni"
 kaigaon: 
-  city: kaigaon
-  accentcity: Kaigaon
+  city: "kaigaon"
+  accentcity: "Kaigaon"
 kaigaun: 
-  city: kaigaun
-  accentcity: Kaigaun
+  city: "kaigaun"
+  accentcity: "Kaigaun"
 kailali: 
-  city: kailali
-  accentcity: Kailali
+  city: "kailali"
+  accentcity: "Kailali"
 kakani: 
-  city: kakani
-  accentcity: Kakani
+  city: "kakani"
+  accentcity: "Kakani"
 kalaiya: 
-  city: kalaiya
-  accentcity: Kalaiya
+  city: "kalaiya"
+  accentcity: "Kalaiya"
 kalikot: 
-  city: kalikot
-  accentcity: Kalikot
+  city: "kalikot"
+  accentcity: "Kalikot"
 kalimate: 
-  city: kalimate
-  accentcity: Kalimate
+  city: "kalimate"
+  accentcity: "Kalimate"
 kalimati: 
-  city: kalimati
-  accentcity: Kalimati
+  city: "kalimati"
+  accentcity: "Kalimati"
 kampu ghat: 
-  city: kampu ghat
-  accentcity: Kampu Ghat
+  city: "kampu ghat"
+  accentcity: "Kampu Ghat"
 kamsin: 
-  city: kamsin
-  accentcity: Kamsin
+  city: "kamsin"
+  accentcity: "Kamsin"
 kanchanpur: 
-  city: kanchanpur
-  accentcity: Kanchanpur
+  city: "kanchanpur"
+  accentcity: "Kanchanpur"
 kando: 
-  city: kando
-  accentcity: Kando
+  city: "kando"
+  accentcity: "Kando"
 kandrang garhi: 
-  city: kandrang garhi
-  accentcity: Kandrang Garhi
+  city: "kandrang garhi"
+  accentcity: "Kandrang Garhi"
 kanouli: 
-  city: kanouli
-  accentcity: Kanouli
+  city: "kanouli"
+  accentcity: "Kanouli"
 kanthapur: 
-  city: kanthapur
-  accentcity: Kanthapur
+  city: "kanthapur"
+  accentcity: "Kanthapur"
 kantipura: 
-  city: kantipura
-  accentcity: Kantipura
+  city: "kantipura"
+  accentcity: "Kantipura"
 kantipur: 
-  city: kantipur
-  accentcity: Kantipur
+  city: "kantipur"
+  accentcity: "Kantipur"
 kantu purwa: 
-  city: kantu purwa
-  accentcity: Kantu Purwa
+  city: "kantu purwa"
+  accentcity: "Kantu Purwa"
 kaparkot: 
-  city: kaparkot
-  accentcity: Kaparkot
+  city: "kaparkot"
+  accentcity: "Kaparkot"
 kapilvastu: 
-  city: kapilvastu
-  accentcity: Kapilvastu
+  city: "kapilvastu"
+  accentcity: "Kapilvastu"
 kapurkot: 
-  city: kapurkot
-  accentcity: Kapurkot
+  city: "kapurkot"
+  accentcity: "Kapurkot"
 karelung: 
-  city: karelung
-  accentcity: Karelung
+  city: "karelung"
+  accentcity: "Karelung"
 karmaiya: 
-  city: karmaiya
-  accentcity: Karmaiya
+  city: "karmaiya"
+  accentcity: "Karmaiya"
 kasba: 
-  city: kasba
-  accentcity: Kasba
+  city: "kasba"
+  accentcity: "Kasba"
 kaski: 
-  city: kaski
-  accentcity: Kaski
+  city: "kaski"
+  accentcity: "Kaski"
 kaspa: 
-  city: kaspa
-  accentcity: Kaspa
+  city: "kaspa"
+  accentcity: "Kaspa"
 kathmandu: 
-  city: kathmandu
-  accentcity: Kathmandu
+  city: "kathmandu"
+  accentcity: "Kathmandu"
 katle: 
-  city: katle
-  accentcity: Katle
+  city: "katle"
+  accentcity: "Katle"
 katmandu: 
-  city: katmandu
-  accentcity: Katmandu
+  city: "katmandu"
+  accentcity: "Katmandu"
 katomato: 
-  city: katomato
-  accentcity: Katomato
+  city: "katomato"
+  accentcity: "Katomato"
 katti: 
-  city: katti
-  accentcity: Katti
+  city: "katti"
+  accentcity: "Katti"
 katunje: 
-  city: katunje
-  accentcity: Katunje
+  city: "katunje"
+  accentcity: "Katunje"
 kehami: 
-  city: kehami
-  accentcity: Kehami
+  city: "kehami"
+  accentcity: "Kehami"
 kermi: 
-  city: kermi
-  accentcity: Kermi
+  city: "kermi"
+  accentcity: "Kermi"
 kerwani: 
-  city: kerwani
-  accentcity: Kerwani
+  city: "kerwani"
+  accentcity: "Kerwani"
 keware: 
-  city: keware
-  accentcity: Keware
+  city: "keware"
+  accentcity: "Keware"
 khadi: 
-  city: khadi
-  accentcity: Khadi
+  city: "khadi"
+  accentcity: "Khadi"
 khadkagaon: 
-  city: khadkagaon
-  accentcity: Khadkagaon
+  city: "khadkagaon"
+  accentcity: "Khadkagaon"
 khadka gaun: 
-  city: khadka gaun
-  accentcity: Khadka Gaun
+  city: "khadka gaun"
+  accentcity: "Khadka Gaun"
 khadka: 
-  city: khadka
-  accentcity: Khadka
+  city: "khadka"
+  accentcity: "Khadka"
 khadreha: 
-  city: khadreha
-  accentcity: Khadreha
+  city: "khadreha"
+  accentcity: "Khadreha"
 khairbana: 
-  city: khairbana
-  accentcity: Khairbana
+  city: "khairbana"
+  accentcity: "Khairbana"
 khairban: 
-  city: khairban
-  accentcity: Khairban
+  city: "khairban"
+  accentcity: "Khairban"
 khaireni: 
-  city: khaireni
-  accentcity: Khaireni
+  city: "khaireni"
+  accentcity: "Khaireni"
 khalte: 
-  city: khalte
-  accentcity: Khalte
+  city: "khalte"
+  accentcity: "Khalte"
 khamachin: 
-  city: khamachin
-  accentcity: Khamachin
+  city: "khamachin"
+  accentcity: "Khamachin"
 khanbari: 
-  city: khanbari
-  accentcity: Khanbari
+  city: "khanbari"
+  accentcity: "Khanbari"
 khanchikot: 
-  city: khanchikot
-  accentcity: Khanchikot
+  city: "khanchikot"
+  accentcity: "Khanchikot"
 khandbari: 
-  city: khandbari
-  accentcity: Khandbari
+  city: "khandbari"
+  accentcity: "Khandbari"
 khangra: 
-  city: khangra
-  accentcity: Khangra
+  city: "khangra"
+  accentcity: "Khangra"
 khangsar: 
-  city: khangsar
-  accentcity: Khangsar
+  city: "khangsar"
+  accentcity: "Khangsar"
 khanjpur: 
-  city: khanjpur
-  accentcity: Khanjpur
+  city: "khanjpur"
+  accentcity: "Khanjpur"
 khanskot: 
-  city: khanskot
-  accentcity: Khanskot
+  city: "khanskot"
+  accentcity: "Khanskot"
 kharang: 
-  city: kharang
-  accentcity: Kharang
+  city: "kharang"
+  accentcity: "Kharang"
 kharchyun: 
-  city: kharchyun
-  accentcity: Kharchyun
+  city: "kharchyun"
+  accentcity: "Kharchyun"
 khargauli: 
-  city: khargauli
-  accentcity: Khargauli
+  city: "khargauli"
+  accentcity: "Khargauli"
 kharpu: 
-  city: kharpu
-  accentcity: Kharpu
+  city: "kharpu"
+  accentcity: "Kharpu"
 khatmandu: 
-  city: khatmandu
-  accentcity: Khatmandu
+  city: "khatmandu"
+  accentcity: "Khatmandu"
 khinchit: 
-  city: khinchit
-  accentcity: Khinchit
+  city: "khinchit"
+  accentcity: "Khinchit"
 khokna: 
-  city: khokna
-  accentcity: Khokna
+  city: "khokna"
+  accentcity: "Khokna"
 khotang: 
-  city: khotang
-  accentcity: Khotang
+  city: "khotang"
+  accentcity: "Khotang"
 khumjung: 
-  city: khumjung
-  accentcity: Khumjung
+  city: "khumjung"
+  accentcity: "Khumjung"
 khunza: 
-  city: khunza
-  accentcity: Khunza
+  city: "khunza"
+  accentcity: "Khunza"
 khurpa: 
-  city: khurpa
-  accentcity: Khurpa
+  city: "khurpa"
+  accentcity: "Khurpa"
 kirantichhap: 
-  city: kirantichhap
-  accentcity: Kirantichhap
+  city: "kirantichhap"
+  accentcity: "Kirantichhap"
 kiratichhap: 
-  city: kiratichhap
-  accentcity: Kiratichhap
+  city: "kiratichhap"
+  accentcity: "Kiratichhap"
 kiratpur: 
-  city: kiratpur
-  accentcity: Kiratpur
+  city: "kiratpur"
+  accentcity: "Kiratpur"
 kirtipur: 
-  city: kirtipur
-  accentcity: Kirtipur
+  city: "kirtipur"
+  accentcity: "Kirtipur"
 kodali: 
-  city: kodali
-  accentcity: Kodali
+  city: "kodali"
+  accentcity: "Kodali"
 kodari: 
-  city: kodari
-  accentcity: Kodari
+  city: "kodari"
+  accentcity: "Kodari"
 kodudanga: 
-  city: kodudanga
-  accentcity: Kodudanga
+  city: "kodudanga"
+  accentcity: "Kodudanga"
 koilabas: 
-  city: koilabas
-  accentcity: Koilabas
+  city: "koilabas"
+  accentcity: "Koilabas"
 koropani: 
-  city: koropani
-  accentcity: Koropani
+  city: "koropani"
+  accentcity: "Koropani"
 kothari: 
-  city: kothari
-  accentcity: Kothari
+  city: "kothari"
+  accentcity: "Kothari"
 kuiyahi: 
-  city: kuiyahi
-  accentcity: Kuiyahi
+  city: "kuiyahi"
+  accentcity: "Kuiyahi"
 kulikhani: 
-  city: kulikhani
-  accentcity: Kulikhani
+  city: "kulikhani"
+  accentcity: "Kulikhani"
 kumaltar: 
-  city: kumaltar
-  accentcity: Kumaltar
+  city: "kumaltar"
+  accentcity: "Kumaltar"
 kumbher: 
-  city: kumbher
-  accentcity: Kumbher
+  city: "kumbher"
+  accentcity: "Kumbher"
 kumragaon: 
-  city: kumragaon
-  accentcity: Kumragaon
+  city: "kumragaon"
+  accentcity: "Kumragaon"
 kunauli: 
-  city: kunauli
-  accentcity: Kunauli
+  city: "kunauli"
+  accentcity: "Kunauli"
 kunchha: 
-  city: kunchha
-  accentcity: Kunchha
+  city: "kunchha"
+  accentcity: "Kunchha"
 kuseri: 
-  city: kuseri
-  accentcity: Kuseri
+  city: "kuseri"
+  accentcity: "Kuseri"
 kusma: 
-  city: kusma
-  accentcity: Kusma
+  city: "kusma"
+  accentcity: "Kusma"
 kuthanawa: 
-  city: kuthanawa
-  accentcity: Kuthanawa
+  city: "kuthanawa"
+  accentcity: "Kuthanawa"
 kutharpekot: 
-  city: kutharpekot
-  accentcity: Kutharpekot
+  city: "kutharpekot"
+  accentcity: "Kutharpekot"
 labsibot: 
-  city: labsibot
-  accentcity: Labsibot
+  city: "labsibot"
+  accentcity: "Labsibot"
 labu: 
-  city: labu
-  accentcity: Labu
+  city: "labu"
+  accentcity: "Labu"
 lahan: 
-  city: lahan
-  accentcity: Lahan
+  city: "lahan"
+  accentcity: "Lahan"
 lakarpata: 
-  city: lakarpata
-  accentcity: Lakarpata
+  city: "lakarpata"
+  accentcity: "Lakarpata"
 lakkar: 
-  city: lakkar
-  accentcity: Lakkar
+  city: "lakkar"
+  accentcity: "Lakkar"
 lalbhitti: 
-  city: lalbhitti
-  accentcity: Lalbhitti
+  city: "lalbhitti"
+  accentcity: "Lalbhitti"
 lalitapura: 
-  city: lalitapura
-  accentcity: Lalitapura
+  city: "lalitapura"
+  accentcity: "Lalitapura"
 lalitpur: 
-  city: lalitpur
-  accentcity: Lalitpur
+  city: "lalitpur"
+  accentcity: "Lalitpur"
 lamabagar: 
-  city: lamabagar
-  accentcity: Lamabagar
+  city: "lamabagar"
+  accentcity: "Lamabagar"
 lamadihi: 
-  city: lamadihi
-  accentcity: Lamadihi
+  city: "lamadihi"
+  accentcity: "Lamadihi"
 lamji: 
-  city: lamji
-  accentcity: Lamji
+  city: "lamji"
+  accentcity: "Lamji"
 lamjung: 
-  city: lamjung
-  accentcity: Lamjung
+  city: "lamjung"
+  accentcity: "Lamjung"
 lammela: 
-  city: lammela
-  accentcity: Lammela
+  city: "lammela"
+  accentcity: "Lammela"
 lamobagar gola: 
-  city: lamobagar gola
-  accentcity: Lamobagar Gola
+  city: "lamobagar gola"
+  accentcity: "Lamobagar Gola"
 lamobagar: 
-  city: lamobagar
-  accentcity: Lamobagar
+  city: "lamobagar"
+  accentcity: "Lamobagar"
 lamodihi: 
-  city: lamodihi
-  accentcity: Lamodihi
+  city: "lamodihi"
+  accentcity: "Lamodihi"
 lampakha: 
-  city: lampakha
-  accentcity: Lampakha
+  city: "lampakha"
+  accentcity: "Lampakha"
 lamri: 
-  city: lamri
-  accentcity: Lamri
+  city: "lamri"
+  accentcity: "Lamri"
 langtang: 
-  city: langtang
-  accentcity: Langtang
+  city: "langtang"
+  accentcity: "Langtang"
 larkya: 
-  city: larkya
-  accentcity: Larkya
+  city: "larkya"
+  accentcity: "Larkya"
 lawamjula: 
-  city: lawamjula
-  accentcity: Lawamjula
+  city: "lawamjula"
+  accentcity: "Lawamjula"
 lekhparajuli: 
-  city: lekhparajuli
-  accentcity: Lekhparajuli
+  city: "lekhparajuli"
+  accentcity: "Lekhparajuli"
 lekhparajul: 
-  city: lekhparajul
-  accentcity: Lekhparajul
+  city: "lekhparajul"
+  accentcity: "Lekhparajul"
 lekparajuli: 
-  city: lekparajuli
-  accentcity: Lekparajuli
+  city: "lekparajuli"
+  accentcity: "Lekparajuli"
 lete: 
-  city: lete
-  accentcity: Lete
+  city: "lete"
+  accentcity: "Lete"
 lho mantang: 
-  city: lho mantang
-  accentcity: Lho Mantang
+  city: "lho mantang"
+  accentcity: "Lho Mantang"
 lhonak: 
-  city: lhonak
-  accentcity: Lhonak
+  city: "lhonak"
+  accentcity: "Lhonak"
 libanggaon: 
-  city: libanggaon
-  accentcity: Libanggaon
+  city: "libanggaon"
+  accentcity: "Libanggaon"
 lidanda: 
-  city: lidanda
-  accentcity: Lidanda
+  city: "lidanda"
+  accentcity: "Lidanda"
 limbudin: 
-  city: limbudin
-  accentcity: Limbudin
+  city: "limbudin"
+  accentcity: "Limbudin"
 limbuwan: 
-  city: limbuwan
-  accentcity: Limbuwan
+  city: "limbuwan"
+  accentcity: "Limbuwan"
 lindanda village: 
-  city: lindanda village
-  accentcity: Lindanda Village
+  city: "lindanda village"
+  accentcity: "Lindanda Village"
 liping: 
-  city: liping
-  accentcity: Liping
+  city: "liping"
+  accentcity: "Liping"
 litakot: 
-  city: litakot
-  accentcity: Litakot
+  city: "litakot"
+  accentcity: "Litakot"
 liwangaon: 
-  city: liwangaon
-  accentcity: Liwangaon
+  city: "liwangaon"
+  accentcity: "Liwangaon"
 liwang: 
-  city: liwang
-  accentcity: Liwang
+  city: "liwang"
+  accentcity: "Liwang"
 lobuche: 
-  city: lobuche
-  accentcity: Lobuche
+  city: "lobuche"
+  accentcity: "Lobuche"
 lobuje: 
-  city: lobuje
-  accentcity: Lobuje
+  city: "lobuje"
+  accentcity: "Lobuje"
 lobujya: 
-  city: lobujya
-  accentcity: Lobujya
+  city: "lobujya"
+  accentcity: "Lobujya"
 loh mantung: 
-  city: loh mantung
-  accentcity: Loh Mantung
+  city: "loh mantung"
+  accentcity: "Loh Mantung"
 lokondo: 
-  city: lokondo
-  accentcity: Lokondo
+  city: "lokondo"
+  accentcity: "Lokondo"
 lo mantang: 
-  city: lo mantang
-  accentcity: Lo Mantang
+  city: "lo mantang"
+  accentcity: "Lo Mantang"
 lomnang: 
-  city: lomnang
-  accentcity: Lomnang
+  city: "lomnang"
+  accentcity: "Lomnang"
 lukla: 
-  city: lukla
-  accentcity: Lukla
+  city: "lukla"
+  accentcity: "Lukla"
 lumbini bagh: 
-  city: lumbini bagh
-  accentcity: Lumbini Bagh
+  city: "lumbini bagh"
+  accentcity: "Lumbini Bagh"
 lumbini garden: 
-  city: lumbini garden
-  accentcity: Lumbini Garden
+  city: "lumbini garden"
+  accentcity: "Lumbini Garden"
 lumbini grove: 
-  city: lumbini grove
-  accentcity: Lumbini Grove
+  city: "lumbini grove"
+  accentcity: "Lumbini Grove"
 lumbini: 
-  city: lumbini
-  accentcity: Lumbini
+  city: "lumbini"
+  accentcity: "Lumbini"
 lumsal: 
-  city: lumsal
-  accentcity: Lumsal
+  city: "lumsal"
+  accentcity: "Lumsal"
 lumsumkhani: 
-  city: lumsumkhani
-  accentcity: Lumsumkhani
+  city: "lumsumkhani"
+  accentcity: "Lumsumkhani"
 lumsum: 
-  city: lumsum
-  accentcity: Lumsum
+  city: "lumsum"
+  accentcity: "Lumsum"
 lunak: 
-  city: lunak
-  accentcity: Lunak
+  city: "lunak"
+  accentcity: "Lunak"
 lungchung: 
-  city: lungchung
-  accentcity: Lungchung
+  city: "lungchung"
+  accentcity: "Lungchung"
 lungthung: 
-  city: lungthung
-  accentcity: Lungthung
+  city: "lungthung"
+  accentcity: "Lungthung"
 lunh: 
-  city: lunh
-  accentcity: Lunh
+  city: "lunh"
+  accentcity: "Lunh"
 lunishera: 
-  city: lunishera
-  accentcity: Lunishera
+  city: "lunishera"
+  accentcity: "Lunishera"
 lurigaon: 
-  city: lurigaon
-  accentcity: Lurigaon
+  city: "lurigaon"
+  accentcity: "Lurigaon"
 mahadevtar: 
-  city: mahadevtar
-  accentcity: Mahadevtar
+  city: "mahadevtar"
+  accentcity: "Mahadevtar"
 mahankai: 
-  city: mahankai
-  accentcity: Mahankai
+  city: "mahankai"
+  accentcity: "Mahankai"
 mahankal: 
-  city: mahankal
-  accentcity: Mahankal
+  city: "mahankal"
+  accentcity: "Mahankal"
 maharajganj: 
-  city: maharajganj
-  accentcity: Maharajganj
+  city: "maharajganj"
+  accentcity: "Maharajganj"
 mahen dkanagar: 
-  city: mahen dkanagar
-  accentcity: Mahen Dkanagar
+  city: "mahen dkanagar"
+  accentcity: "Mahen Dkanagar"
 mahendranagar: 
-  city: mahendranagar
-  accentcity: Mahendranagar
+  city: "mahendranagar"
+  accentcity: "Mahendranagar"
 maikot: 
-  city: maikot
-  accentcity: Maikot
+  city: "maikot"
+  accentcity: "Maikot"
 majari: 
-  city: majari
-  accentcity: Majari
+  city: "majari"
+  accentcity: "Majari"
 majhgaon: 
-  city: majhgaon
-  accentcity: Majhgaon
+  city: "majhgaon"
+  accentcity: "Majhgaon"
 makaising: 
-  city: makaising
-  accentcity: Makaising
+  city: "makaising"
+  accentcity: "Makaising"
 makwanpur garhi: 
-  city: makwanpur garhi
-  accentcity: Makwanpur Garhi
+  city: "makwanpur garhi"
+  accentcity: "Makwanpur Garhi"
 malakheti: 
-  city: malakheti
-  accentcity: Malakheti
+  city: "malakheti"
+  accentcity: "Malakheti"
 malangawa: 
-  city: malangawa
-  accentcity: Malangawa
+  city: "malangawa"
+  accentcity: "Malangawa"
 malangwa: 
-  city: malangwa
-  accentcity: Malangwa
+  city: "malangwa"
+  accentcity: "Malangwa"
 malankwa: 
-  city: malankwa
-  accentcity: Malankwa
+  city: "malankwa"
+  accentcity: "Malankwa"
 malbhanguwa: 
-  city: malbhanguwa
-  accentcity: Malbhanguwa
+  city: "malbhanguwa"
+  accentcity: "Malbhanguwa"
 malemchigaon: 
-  city: malemchigaon
-  accentcity: Malemchigaon
+  city: "malemchigaon"
+  accentcity: "Malemchigaon"
 malimchigaon: 
-  city: malimchigaon
-  accentcity: Malimchigaon
+  city: "malimchigaon"
+  accentcity: "Malimchigaon"
 manakot: 
-  city: manakot
-  accentcity: Manakot
+  city: "manakot"
+  accentcity: "Manakot"
 manangbhot: 
-  city: manangbhot
-  accentcity: Manangbhot
+  city: "manangbhot"
+  accentcity: "Manangbhot"
 manang: 
-  city: manang
-  accentcity: Manang
+  city: "manang"
+  accentcity: "Manang"
 mandpur: 
-  city: mandpur
-  accentcity: Mandpur
+  city: "mandpur"
+  accentcity: "Mandpur"
 manebhaniyang: 
-  city: manebhaniyang
-  accentcity: Manebhaniyang
+  city: "manebhaniyang"
+  accentcity: "Manebhaniyang"
 manebhanjyang: 
-  city: manebhanjyang
-  accentcity: Manebhanjyang
+  city: "manebhanjyang"
+  accentcity: "Manebhanjyang"
 mangalpur: 
-  city: mangalpur
-  accentcity: Mangalpur
+  city: "mangalpur"
+  accentcity: "Mangalpur"
 mangle: 
-  city: mangle
-  accentcity: Mangle
+  city: "mangle"
+  accentcity: "Mangle"
 mangri: 
-  city: mangri
-  accentcity: Mangri
+  city: "mangri"
+  accentcity: "Mangri"
 manhari: 
-  city: manhari
-  accentcity: Manhari
+  city: "manhari"
+  accentcity: "Manhari"
 manikapur: 
-  city: manikapur
-  accentcity: Manikapur
+  city: "manikapur"
+  accentcity: "Manikapur"
 maniramkanda: 
-  city: maniramkanda
-  accentcity: Maniramkanda
+  city: "maniramkanda"
+  accentcity: "Maniramkanda"
 mankali: 
-  city: mankali
-  accentcity: Mankali
+  city: "mankali"
+  accentcity: "Mankali"
 mankot: 
-  city: mankot
-  accentcity: Mankot
+  city: "mankot"
+  accentcity: "Mankot"
 manma: 
-  city: manma
-  accentcity: Manma
+  city: "manma"
+  accentcity: "Manma"
 manpur: 
-  city: manpur
-  accentcity: Manpur
+  city: "manpur"
+  accentcity: "Manpur"
 manung: 
-  city: manung
-  accentcity: Manung
+  city: "manung"
+  accentcity: "Manung"
 mariphant: 
-  city: mariphant
-  accentcity: Mariphant
+  city: "mariphant"
+  accentcity: "Mariphant"
 markhu: 
-  city: markhu
-  accentcity: Markhu
+  city: "markhu"
+  accentcity: "Markhu"
 maruwa ghat: 
-  city: maruwa ghat
-  accentcity: Maruwa Ghat
+  city: "maruwa ghat"
+  accentcity: "Maruwa Ghat"
 megauli: 
-  city: megauli
-  accentcity: Megauli
+  city: "megauli"
+  accentcity: "Megauli"
 meghauli: 
-  city: meghauli
-  accentcity: Meghauli
+  city: "meghauli"
+  accentcity: "Meghauli"
 melekheti: 
-  city: melekheti
-  accentcity: Melekheti
+  city: "melekheti"
+  accentcity: "Melekheti"
 melung: 
-  city: melung
-  accentcity: Melung
+  city: "melung"
+  accentcity: "Melung"
 mingbo: 
-  city: mingbo
-  accentcity: Mingbo
+  city: "mingbo"
+  accentcity: "Mingbo"
 mohami: 
-  city: mohami
-  accentcity: Mohami
+  city: "mohami"
+  accentcity: "Mohami"
 motipur: 
-  city: motipur
-  accentcity: Motipur
+  city: "motipur"
+  accentcity: "Motipur"
 mughla: 
-  city: mughla
-  accentcity: Mughla
+  city: "mughla"
+  accentcity: "Mughla"
 muglaha: 
-  city: muglaha
-  accentcity: Muglaha
+  city: "muglaha"
+  accentcity: "Muglaha"
 mugu: 
-  city: mugu
-  accentcity: Mugu
+  city: "mugu"
+  accentcity: "Mugu"
 muhjung: 
-  city: muhjung
-  accentcity: Muhjung
+  city: "muhjung"
+  accentcity: "Muhjung"
 mujigaon: 
-  city: mujigaon
-  accentcity: Mujigaon
+  city: "mujigaon"
+  accentcity: "Mujigaon"
 mujkot: 
-  city: mujkot
-  accentcity: Mujkot
+  city: "mujkot"
+  accentcity: "Mujkot"
 muktinath: 
-  city: muktinath
-  accentcity: Muktinath
+  city: "muktinath"
+  accentcity: "Muktinath"
 munchi: 
-  city: munchi
-  accentcity: Munchi
+  city: "munchi"
+  accentcity: "Munchi"
 munchu: 
-  city: munchu
-  accentcity: Munchu
+  city: "munchu"
+  accentcity: "Munchu"
 munga: 
-  city: munga
-  accentcity: Munga
+  city: "munga"
+  accentcity: "Munga"
 munge: 
-  city: munge
-  accentcity: Munge
+  city: "munge"
+  accentcity: "Munge"
 munigaon: 
-  city: munigaon
-  accentcity: Munigaon
+  city: "munigaon"
+  accentcity: "Munigaon"
 munigaun: 
-  city: munigaun
-  accentcity: Munigaun
+  city: "munigaun"
+  accentcity: "Munigaun"
 mushtang: 
-  city: mushtang
-  accentcity: Mushtang
+  city: "mushtang"
+  accentcity: "Mushtang"
 musikot: 
-  city: musikot
-  accentcity: Musikot
+  city: "musikot"
+  accentcity: "Musikot"
 mustang: 
-  city: mustang
-  accentcity: Mustang
+  city: "mustang"
+  accentcity: "Mustang"
 nagaa: 
-  city: nagaa
-  accentcity: Nagaa
+  city: "nagaa"
+  accentcity: "Nagaa"
 nagarkot: 
-  city: nagarkot
-  accentcity: Nagarkot
+  city: "nagarkot"
+  accentcity: "Nagarkot"
 nagma: 
-  city: nagma
-  accentcity: Nagma
+  city: "nagma"
+  accentcity: "Nagma"
 namai: 
-  city: namai
-  accentcity: Namai
+  city: "namai"
+  accentcity: "Namai"
 nambo: 
-  city: nambo
-  accentcity: Nambo
+  city: "nambo"
+  accentcity: "Nambo"
 namche bazar: 
-  city: namche bazar
-  accentcity: Namche Bazar
+  city: "namche bazar"
+  accentcity: "Namche Bazar"
 namde goan: 
-  city: namde goan
-  accentcity: Namde Goan
+  city: "namde goan"
+  accentcity: "Namde Goan"
 namdogaon: 
-  city: namdogaon
-  accentcity: Namdogaon
+  city: "namdogaon"
+  accentcity: "Namdogaon"
 namdu: 
-  city: namdu
-  accentcity: Namdu
+  city: "namdu"
+  accentcity: "Namdu"
 namrek: 
-  city: namrek
-  accentcity: Namrek
+  city: "namrek"
+  accentcity: "Namrek"
 nanche bazar: 
-  city: nanche bazar
-  accentcity: Nanche Bazar
+  city: "nanche bazar"
+  accentcity: "Nanche Bazar"
 nandpur: 
-  city: nandpur
-  accentcity: Nandpur
+  city: "nandpur"
+  accentcity: "Nandpur"
 nangaon: 
-  city: nangaon
-  accentcity: Nangaon
+  city: "nangaon"
+  accentcity: "Nangaon"
 nangraon: 
-  city: nangraon
-  accentcity: Nangraon
+  city: "nangraon"
+  accentcity: "Nangraon"
 naraingarh: 
-  city: naraingarh
-  accentcity: Naraingarh
+  city: "naraingarh"
+  accentcity: "Naraingarh"
 narayangadh: 
-  city: narayangadh
-  accentcity: Narayangadh
+  city: "narayangadh"
+  accentcity: "Narayangadh"
 narayangarah: 
-  city: narayangarah
-  accentcity: Narayangarah
+  city: "narayangarah"
+  accentcity: "Narayangarah"
 narayangarh: 
-  city: narayangarh
-  accentcity: Narayangarh
+  city: "narayangarh"
+  accentcity: "Narayangarh"
 narayanghat: 
-  city: narayanghat
-  accentcity: Narayanghat
+  city: "narayanghat"
+  accentcity: "Narayanghat"
 narcheng: 
-  city: narcheng
-  accentcity: Narcheng
+  city: "narcheng"
+  accentcity: "Narcheng"
 nargaon: 
-  city: nargaon
-  accentcity: Nargaon
+  city: "nargaon"
+  accentcity: "Nargaon"
 naubise: 
-  city: naubise
-  accentcity: Naubise
+  city: "naubise"
+  accentcity: "Naubise"
 nauche: 
-  city: nauche
-  accentcity: Nauche
+  city: "nauche"
+  accentcity: "Nauche"
 nauranga: 
-  city: nauranga
-  accentcity: Nauranga
+  city: "nauranga"
+  accentcity: "Nauranga"
 nawakot: 
-  city: nawakot
-  accentcity: Nawakot
+  city: "nawakot"
+  accentcity: "Nawakot"
 nayagaon: 
-  city: nayagaon
-  accentcity: Nayagaon
+  city: "nayagaon"
+  accentcity: "Nayagaon"
 nepalganj: 
-  city: nepalganj
-  accentcity: Nepalganj
+  city: "nepalganj"
+  accentcity: "Nepalganj"
 nepaltar: 
-  city: nepaltar
-  accentcity: Nepaltar
+  city: "nepaltar"
+  accentcity: "Nepaltar"
 nepa: 
-  city: nepa
-  accentcity: Nepa
+  city: "nepa"
+  accentcity: "Nepa"
 nepka: 
-  city: nepka
-  accentcity: Nepka
+  city: "nepka"
+  accentcity: "Nepka"
 netadurling: 
-  city: netadurling
-  accentcity: Netadurling
+  city: "netadurling"
+  accentcity: "Netadurling"
 neta: 
-  city: neta
-  accentcity: Neta
+  city: "neta"
+  accentcity: "Neta"
 neto: 
-  city: neto
-  accentcity: Neto
+  city: "neto"
+  accentcity: "Neto"
 ngyak: 
-  city: ngyak
-  accentcity: Ngyak
+  city: "ngyak"
+  accentcity: "Ngyak"
 nijgarh: 
-  city: nijgarh
-  accentcity: Nijgarh
+  city: "nijgarh"
+  accentcity: "Nijgarh"
 nisalgaon: 
-  city: nisalgaon
-  accentcity: Nisalgaon
+  city: "nisalgaon"
+  accentcity: "Nisalgaon"
 nougam: 
-  city: nougam
-  accentcity: Nougam
+  city: "nougam"
+  accentcity: "Nougam"
 num: 
-  city: num
-  accentcity: Num
+  city: "num"
+  accentcity: "Num"
 nuo: 
-  city: nuo
-  accentcity: Nuo
+  city: "nuo"
+  accentcity: "Nuo"
 nup: 
-  city: nup
-  accentcity: Nup
+  city: "nup"
+  accentcity: "Nup"
 nuwaket: 
-  city: nuwaket
-  accentcity: Nuwaket
+  city: "nuwaket"
+  accentcity: "Nuwaket"
 nuwakot: 
-  city: nuwakot
-  accentcity: Nuwakot
+  city: "nuwakot"
+  accentcity: "Nuwakot"
 odarapur: 
-  city: odarapur
-  accentcity: Odarapur
+  city: "odarapur"
+  accentcity: "Odarapur"
 ojna: 
-  city: ojna
-  accentcity: Ojna
+  city: "ojna"
+  accentcity: "Ojna"
 okhaldhunga bazaar: 
-  city: okhaldhunga bazaar
-  accentcity: Okhaldhunga Bazaar
+  city: "okhaldhunga bazaar"
+  accentcity: "Okhaldhunga Bazaar"
 okhaldhunga: 
-  city: okhaldhunga
-  accentcity: Okhaldhunga
+  city: "okhaldhunga"
+  accentcity: "Okhaldhunga"
 olanchungola: 
-  city: olanchungola
-  accentcity: Olanchungola
+  city: "olanchungola"
+  accentcity: "Olanchungola"
 olangchuk gola: 
-  city: olangchuk gola
-  accentcity: Olangchuk Gola
+  city: "olangchuk gola"
+  accentcity: "Olangchuk Gola"
 olang: 
-  city: olang
-  accentcity: Olang
+  city: "olang"
+  accentcity: "Olang"
 oligaon: 
-  city: oligaon
-  accentcity: Oligaon
+  city: "oligaon"
+  accentcity: "Oligaon"
 olingchung gola: 
-  city: olingchung gola
-  accentcity: Olingchung Gola
+  city: "olingchung gola"
+  accentcity: "Olingchung Gola"
 pachgachhiya: 
-  city: pachgachhiya
-  accentcity: Pachgachhiya
+  city: "pachgachhiya"
+  accentcity: "Pachgachhiya"
 pachkaria: 
-  city: pachkaria
-  accentcity: Pachkaria
+  city: "pachkaria"
+  accentcity: "Pachkaria"
 pachui: 
-  city: pachui
-  accentcity: Pachui
+  city: "pachui"
+  accentcity: "Pachui"
 pachuwar ghat: 
-  city: pachuwar ghat
-  accentcity: Pachuwar Ghat
+  city: "pachuwar ghat"
+  accentcity: "Pachuwar Ghat"
 pachwarghat: 
-  city: pachwarghat
-  accentcity: Pachwarghat
+  city: "pachwarghat"
+  accentcity: "Pachwarghat"
 padmi: 
-  city: padmi
-  accentcity: Padmi
+  city: "padmi"
+  accentcity: "Padmi"
 padukasthan: 
-  city: padukasthan
-  accentcity: Padukasthan
+  city: "padukasthan"
+  accentcity: "Padukasthan"
 pahritol: 
-  city: pahritol
-  accentcity: Pahritol
+  city: "pahritol"
+  accentcity: "Pahritol"
 pahung: 
-  city: pahung
-  accentcity: Pahung
+  city: "pahung"
+  accentcity: "Pahung"
 pakhra: 
-  city: pakhra
-  accentcity: Pakhra
+  city: "pakhra"
+  accentcity: "Pakhra"
 paklihawa: 
-  city: paklihawa
-  accentcity: Paklihawa
+  city: "paklihawa"
+  accentcity: "Paklihawa"
 paklihwa: 
-  city: paklihwa
-  accentcity: Paklihwa
+  city: "paklihwa"
+  accentcity: "Paklihwa"
 pali: 
-  city: pali
-  accentcity: Pali
+  city: "pali"
+  accentcity: "Pali"
 palpa: 
-  city: palpa
-  accentcity: Palpa
+  city: "palpa"
+  accentcity: "Palpa"
 palung: 
-  city: palung
-  accentcity: Palung
+  city: "palung"
+  accentcity: "Palung"
 palung sikarkot: 
-  city: palung sikarkot
-  accentcity: Palung Sikarkot
+  city: "palung sikarkot"
+  accentcity: "Palung Sikarkot"
 panaoti: 
-  city: panaoti
-  accentcity: Panaoti
+  city: "panaoti"
+  accentcity: "Panaoti"
 panauti village: 
-  city: panauti village
-  accentcity: Panauti Village
+  city: "panauti village"
+  accentcity: "Panauti Village"
 panbari: 
-  city: panbari
-  accentcity: Panbari
+  city: "panbari"
+  accentcity: "Panbari"
 panchkhal: 
-  city: panchkhal
-  accentcity: Panchkhal
+  city: "panchkhal"
+  accentcity: "Panchkhal"
 panepa: 
-  city: panepa
-  accentcity: Panepa
+  city: "panepa"
+  accentcity: "Panepa"
 panga: 
-  city: panga
-  accentcity: Panga
+  city: "panga"
+  accentcity: "Panga"
 pangboche: 
-  city: pangboche
-  accentcity: Pangboche
+  city: "pangboche"
+  accentcity: "Pangboche"
 pangpoche: 
-  city: pangpoche
-  accentcity: Pangpoche
+  city: "pangpoche"
+  accentcity: "Pangpoche"
 pangthok: 
-  city: pangthok
-  accentcity: Pangthok
+  city: "pangthok"
+  accentcity: "Pangthok"
 panigata: 
-  city: panigata
-  accentcity: Panigata
+  city: "panigata"
+  accentcity: "Panigata"
 panighat: 
-  city: panighat
-  accentcity: Panighat
+  city: "panighat"
+  accentcity: "Panighat"
 parabice: 
-  city: parabice
-  accentcity: Parabice
+  city: "parabice"
+  accentcity: "Parabice"
 para: 
-  city: para
-  accentcity: Para
+  city: "para"
+  accentcity: "Para"
 parasi: 
-  city: parasi
-  accentcity: Parasi
+  city: "parasi"
+  accentcity: "Parasi"
 partapur: 
-  city: partapur
-  accentcity: Partapur
+  city: "partapur"
+  accentcity: "Partapur"
 partol: 
-  city: partol
-  accentcity: Partol
+  city: "partol"
+  accentcity: "Partol"
 pasandhara: 
-  city: pasandhara
-  accentcity: Pasandhara
+  city: "pasandhara"
+  accentcity: "Pasandhara"
 pasauli: 
-  city: pasauli
-  accentcity: Pasauli
+  city: "pasauli"
+  accentcity: "Pasauli"
 pashupatinath: 
-  city: pashupatinath
-  accentcity: Pashupatinath
+  city: "pashupatinath"
+  accentcity: "Pashupatinath"
 pasupati: 
-  city: pasupati
-  accentcity: Pasupati
+  city: "pasupati"
+  accentcity: "Pasupati"
 patan: 
-  city: patan
-  accentcity: Patan
+  city: "patan"
+  accentcity: "Patan"
 patharkot: 
-  city: patharkot
-  accentcity: Patharkot
+  city: "patharkot"
+  accentcity: "Patharkot"
 patia: 
-  city: patia
-  accentcity: Patia
+  city: "patia"
+  accentcity: "Patia"
 pati bhamyang: 
-  city: pati bhamyang
-  accentcity: Pati Bhamyang
+  city: "pati bhamyang"
+  accentcity: "Pati Bhamyang"
 pati bhanjyang: 
-  city: pati bhanjyang
-  accentcity: Pati Bhanjyang
+  city: "pati bhanjyang"
+  accentcity: "Pati Bhanjyang"
 patlahara: 
-  city: patlahara
-  accentcity: Patlahara
+  city: "patlahara"
+  accentcity: "Patlahara"
 pato: 
-  city: pato
-  accentcity: Pato
+  city: "pato"
+  accentcity: "Pato"
 pausauli: 
-  city: pausauli
-  accentcity: Pausauli
+  city: "pausauli"
+  accentcity: "Pausauli"
 phalabang: 
-  city: phalabang
-  accentcity: Phalabang
+  city: "phalabang"
+  accentcity: "Phalabang"
 phalame sangu: 
-  city: phalame sangu
-  accentcity: Phalame Sangu
+  city: "phalame sangu"
+  accentcity: "Phalame Sangu"
 phalamsangu: 
-  city: phalamsangu
-  accentcity: Phalamsangu
+  city: "phalamsangu"
+  accentcity: "Phalamsangu"
 phaphlu: 
-  city: phaphlu
-  accentcity: Phaphlu
+  city: "phaphlu"
+  accentcity: "Phaphlu"
 phaplu: 
-  city: phaplu
-  accentcity: Phaplu
+  city: "phaplu"
+  accentcity: "Phaplu"
 pharping: 
-  city: pharping
-  accentcity: Pharping
+  city: "pharping"
+  accentcity: "Pharping"
 pharpin: 
-  city: pharpin
-  accentcity: Pharpin
+  city: "pharpin"
+  accentcity: "Pharpin"
 phembu: 
-  city: phembu
-  accentcity: Phembu
+  city: "phembu"
+  accentcity: "Phembu"
 phidim: 
-  city: phidim
-  accentcity: Phidim
+  city: "phidim"
+  accentcity: "Phidim"
 phijorgaon: 
-  city: phijorgaon
-  accentcity: Phijorgaon
+  city: "phijorgaon"
+  accentcity: "Phijorgaon"
 phopagaon: 
-  city: phopagaon
-  accentcity: Phopagaon
+  city: "phopagaon"
+  accentcity: "Phopagaon"
 phorcha: 
-  city: phorcha
-  accentcity: Phorcha
+  city: "phorcha"
+  accentcity: "Phorcha"
 phorse: 
-  city: phorse
-  accentcity: Phorse
+  city: "phorse"
+  accentcity: "Phorse"
 phugaon: 
-  city: phugaon
-  accentcity: Phugaon
+  city: "phugaon"
+  accentcity: "Phugaon"
 phugru: 
-  city: phugru
-  accentcity: Phugru
+  city: "phugru"
+  accentcity: "Phugru"
 phulbari: 
-  city: phulbari
-  accentcity: Phulbari
+  city: "phulbari"
+  accentcity: "Phulbari"
 phulwaria: 
-  city: phulwaria
-  accentcity: Phulwaria
+  city: "phulwaria"
+  accentcity: "Phulwaria"
 phungnangtar: 
-  city: phungnangtar
-  accentcity: Phungnangtar
+  city: "phungnangtar"
+  accentcity: "Phungnangtar"
 pipalkot: 
-  city: pipalkot
-  accentcity: Pipalkot
+  city: "pipalkot"
+  accentcity: "Pipalkot"
 pipraha: 
-  city: pipraha
-  accentcity: Pipraha
+  city: "pipraha"
+  accentcity: "Pipraha"
 piprahwa: 
-  city: piprahwa
-  accentcity: Piprahwa
+  city: "piprahwa"
+  accentcity: "Piprahwa"
 pipra: 
-  city: pipra
-  accentcity: Pipra
+  city: "pipra"
+  accentcity: "Pipra"
 piuthan: 
-  city: piuthan
-  accentcity: Piuthan
+  city: "piuthan"
+  accentcity: "Piuthan"
 pokhara: 
-  city: pokhara
-  accentcity: Pokhara
+  city: "pokhara"
+  accentcity: "Pokhara"
 pokharia: 
-  city: pokharia
-  accentcity: Pokharia
+  city: "pokharia"
+  accentcity: "Pokharia"
 pokhar: 
-  city: pokhar
-  accentcity: Pokhar
+  city: "pokhar"
+  accentcity: "Pokhar"
 pokhra: 
-  city: pokhra
-  accentcity: Pokhra
+  city: "pokhra"
+  accentcity: "Pokhra"
 pokhria: 
-  city: pokhria
-  accentcity: Pokhria
+  city: "pokhria"
+  accentcity: "Pokhria"
 poklihawa: 
-  city: poklihawa
-  accentcity: Poklihawa
+  city: "poklihawa"
+  accentcity: "Poklihawa"
 prangmu: 
-  city: prangmu
-  accentcity: Prangmu
+  city: "prangmu"
+  accentcity: "Prangmu"
 pratappur: 
-  city: pratappur
-  accentcity: Pratappur
+  city: "pratappur"
+  accentcity: "Pratappur"
 pudamigaon: 
-  city: pudamigaon
-  accentcity: Pudamigaon
+  city: "pudamigaon"
+  accentcity: "Pudamigaon"
 pulanto: 
-  city: pulanto
-  accentcity: Pulanto
+  city: "pulanto"
+  accentcity: "Pulanto"
 purti ghat: 
-  city: purti ghat
-  accentcity: Purti Ghat
+  city: "purti ghat"
+  accentcity: "Purti Ghat"
 putalikhet: 
-  city: putalikhet
-  accentcity: Putalikhet
+  city: "putalikhet"
+  accentcity: "Putalikhet"
 putallkhet: 
-  city: putallkhet
-  accentcity: Putallkhet
+  city: "putallkhet"
+  accentcity: "Putallkhet"
 putlikhet: 
-  city: putlikhet
-  accentcity: Putlikhet
+  city: "putlikhet"
+  accentcity: "Putlikhet"
 pyuthan: 
-  city: pyuthan
-  accentcity: Pyuthan
+  city: "pyuthan"
+  accentcity: "Pyuthan"
 raha: 
-  city: raha
-  accentcity: Raha
+  city: "raha"
+  accentcity: "Raha"
 rajapur: 
-  city: rajapur
-  accentcity: Rajapur
+  city: "rajapur"
+  accentcity: "Rajapur"
 rajbiraj: 
-  city: rajbiraj
-  accentcity: Rajbiraj
+  city: "rajbiraj"
+  accentcity: "Rajbiraj"
 ralnabas: 
-  city: ralnabas
-  accentcity: Ralnabas
+  city: "ralnabas"
+  accentcity: "Ralnabas"
 ramdighat: 
-  city: ramdighat
-  accentcity: Ramdighat
+  city: "ramdighat"
+  accentcity: "Ramdighat"
 ramdikbana: 
-  city: ramdikbana
-  accentcity: Ramdikbana
+  city: "ramdikbana"
+  accentcity: "Ramdikbana"
 ramechhap: 
-  city: ramechhap
-  accentcity: Ramechhap
+  city: "ramechhap"
+  accentcity: "Ramechhap"
 ramgarh: 
-  city: ramgarh
-  accentcity: Ramgarh
+  city: "ramgarh"
+  accentcity: "Ramgarh"
 ramnagar: 
-  city: ramnagar
-  accentcity: Ramnagar
+  city: "ramnagar"
+  accentcity: "Ramnagar"
 rampur: 
-  city: rampur
-  accentcity: Rampur
+  city: "rampur"
+  accentcity: "Rampur"
 rangeli: 
-  city: rangeli
-  accentcity: Rangeli
+  city: "rangeli"
+  accentcity: "Rangeli"
 rangkhung: 
-  city: rangkhung
-  accentcity: Rangkhung
+  city: "rangkhung"
+  accentcity: "Rangkhung"
 ranibirta: 
-  city: ranibirta
-  accentcity: Ranibirta
+  city: "ranibirta"
+  accentcity: "Ranibirta"
 ranipauwa: 
-  city: ranipauwa
-  accentcity: Ranipauwa
+  city: "ranipauwa"
+  accentcity: "Ranipauwa"
 ranitar: 
-  city: ranitar
-  accentcity: Ranitar
+  city: "ranitar"
+  accentcity: "Ranitar"
 rara: 
-  city: rara
-  accentcity: Rara
+  city: "rara"
+  accentcity: "Rara"
 rasi: 
-  city: rasi
-  accentcity: Rasi
+  city: "rasi"
+  accentcity: "Rasi"
 raskot: 
-  city: raskot
-  accentcity: Raskot
+  city: "raskot"
+  accentcity: "Raskot"
 rasnadu village: 
-  city: rasnadu village
-  accentcity: Rasnadu Village
+  city: "rasnadu village"
+  accentcity: "Rasnadu Village"
 rasnalu: 
-  city: rasnalu
-  accentcity: Rasnalu
+  city: "rasnalu"
+  accentcity: "Rasnalu"
 rasua garhi: 
-  city: rasua garhi
-  accentcity: Rasua Garhi
+  city: "rasua garhi"
+  accentcity: "Rasua Garhi"
 rasua: 
-  city: rasua
-  accentcity: Rasua
+  city: "rasua"
+  accentcity: "Rasua"
 rasuwa garhi: 
-  city: rasuwa garhi
-  accentcity: Rasuwa Garhi
+  city: "rasuwa garhi"
+  accentcity: "Rasuwa Garhi"
 rasuwa: 
-  city: rasuwa
-  accentcity: Rasuwa
+  city: "rasuwa"
+  accentcity: "Rasuwa"
 rear: 
-  city: rear
-  accentcity: Rear
+  city: "rear"
+  accentcity: "Rear"
 rehara: 
-  city: rehara
-  accentcity: Rehara
+  city: "rehara"
+  accentcity: "Rehara"
 rehra: 
-  city: rehra
-  accentcity: Rehra
+  city: "rehra"
+  accentcity: "Rehra"
 rekcha: 
-  city: rekcha
-  accentcity: Rekcha
+  city: "rekcha"
+  accentcity: "Rekcha"
 ridikot: 
-  city: ridikot
-  accentcity: Ridikot
+  city: "ridikot"
+  accentcity: "Ridikot"
 ridi: 
-  city: ridi
-  accentcity: Ridi
+  city: "ridi"
+  accentcity: "Ridi"
 rijabang: 
-  city: rijabang
-  accentcity: Rijabang
+  city: "rijabang"
+  accentcity: "Rijabang"
 rimi: 
-  city: rimi
-  accentcity: Rimi
+  city: "rimi"
+  accentcity: "Rimi"
 riri bazar: 
-  city: riri bazar
-  accentcity: Riri Bazar
+  city: "riri bazar"
+  accentcity: "Riri Bazar"
 ririkot: 
-  city: ririkot
-  accentcity: Ririkot
+  city: "ririkot"
+  accentcity: "Ririkot"
 romandey: 
-  city: romandey
-  accentcity: Romandey
+  city: "romandey"
+  accentcity: "Romandey"
 rukumkot: 
-  city: rukumkot
-  accentcity: Rukumkot
+  city: "rukumkot"
+  accentcity: "Rukumkot"
 rumalgaon: 
-  city: rumalgaon
-  accentcity: Rumalgaon
+  city: "rumalgaon"
+  accentcity: "Rumalgaon"
 rumjatar: 
-  city: rumjatar
-  accentcity: Rumjatar
+  city: "rumjatar"
+  accentcity: "Rumjatar"
 rummin-dei: 
-  city: rummin-dei
-  accentcity: Rummin-dei
+  city: "rummin-dei"
+  accentcity: "Rummin-dei"
 rupandehi: 
-  city: rupandehi
-  accentcity: Rupandehi
+  city: "rupandehi"
+  accentcity: "Rupandehi"
 saipal: 
-  city: saipal
-  accentcity: Saipal
+  city: "saipal"
+  accentcity: "Saipal"
 sakha: 
-  city: sakha
-  accentcity: Sakha
+  city: "sakha"
+  accentcity: "Sakha"
 saldanggaon: 
-  city: saldanggaon
-  accentcity: Saldanggaon
+  city: "saldanggaon"
+  accentcity: "Saldanggaon"
 salkot: 
-  city: salkot
-  accentcity: Salkot
+  city: "salkot"
+  accentcity: "Salkot"
 sallen: 
-  city: sallen
-  accentcity: Sallen
+  city: "sallen"
+  accentcity: "Sallen"
 sallyana: 
-  city: sallyana
-  accentcity: Sallyana
+  city: "sallyana"
+  accentcity: "Sallyana"
 sallyan: 
-  city: sallyan
-  accentcity: Sallyan
+  city: "sallyan"
+  accentcity: "Sallyan"
 salyan: 
-  city: salyan
-  accentcity: Salyan
+  city: "salyan"
+  accentcity: "Salyan"
 samargaon: 
-  city: samargaon
-  accentcity: Samargaon
+  city: "samargaon"
+  accentcity: "Samargaon"
 sama: 
-  city: sama
-  accentcity: Sama
+  city: "sama"
+  accentcity: "Sama"
 samde: 
-  city: samde
-  accentcity: Samde
+  city: "samde"
+  accentcity: "Samde"
 samjung: 
-  city: samjung
-  accentcity: Samjung
+  city: "samjung"
+  accentcity: "Samjung"
 sanam: 
-  city: sanam
-  accentcity: Sanam
+  city: "sanam"
+  accentcity: "Sanam"
 sangdah: 
-  city: sangdah
-  accentcity: Sangdah
+  city: "sangdah"
+  accentcity: "Sangdah"
 sangu: 
-  city: sangu
-  accentcity: Sangu
+  city: "sangu"
+  accentcity: "Sangu"
 sangutar: 
-  city: sangutar
-  accentcity: Sangutar
+  city: "sangutar"
+  accentcity: "Sangutar"
 sankhu: 
-  city: sankhu
-  accentcity: Sankhu
+  city: "sankhu"
+  accentcity: "Sankhu"
 sanwal: 
-  city: sanwal
-  accentcity: Sanwal
+  city: "sanwal"
+  accentcity: "Sanwal"
 sarswati: 
-  city: sarswati
-  accentcity: Sarswati
+  city: "sarswati"
+  accentcity: "Sarswati"
 sasaiya: 
-  city: sasaiya
-  accentcity: Sasaiya
+  city: "sasaiya"
+  accentcity: "Sasaiya"
 saukatia: 
-  city: saukatia
-  accentcity: Saukatia
+  city: "saukatia"
+  accentcity: "Saukatia"
 selkot: 
-  city: selkot
-  accentcity: Selkot
+  city: "selkot"
+  accentcity: "Selkot"
 semri: 
-  city: semri
-  accentcity: Semri
+  city: "semri"
+  accentcity: "Semri"
 setibas: 
-  city: setibas
-  accentcity: Setibas
+  city: "setibas"
+  accentcity: "Setibas"
 setibeni: 
-  city: setibeni
-  accentcity: Setibeni
+  city: "setibeni"
+  accentcity: "Setibeni"
 setu bash: 
-  city: setu bash
-  accentcity: Setu Bash
+  city: "setu bash"
+  accentcity: "Setu Bash"
 seulabang: 
-  city: seulabang
-  accentcity: Seulabang
+  city: "seulabang"
+  accentcity: "Seulabang"
 shibganj: 
-  city: shibganj
-  accentcity: Shibganj
+  city: "shibganj"
+  accentcity: "Shibganj"
 shibkhola: 
-  city: shibkhola
-  accentcity: Shibkhola
+  city: "shibkhola"
+  accentcity: "Shibkhola"
 shimi: 
-  city: shimi
-  accentcity: Shimi
+  city: "shimi"
+  accentcity: "Shimi"
 shirha: 
-  city: shirha
-  accentcity: Shirha
+  city: "shirha"
+  accentcity: "Shirha"
 shivanagar: 
-  city: shivanagar
-  accentcity: Shivanagar
+  city: "shivanagar"
+  accentcity: "Shivanagar"
 shringa: 
-  city: shringa
-  accentcity: Shringa
+  city: "shringa"
+  accentcity: "Shringa"
 shyabu: 
-  city: shyabu
-  accentcity: Shyabu
+  city: "shyabu"
+  accentcity: "Shyabu"
 sialkot: 
-  city: sialkot
-  accentcity: Sialkot
+  city: "sialkot"
+  accentcity: "Sialkot"
 siddharthanagar: 
-  city: siddharthanagar
-  accentcity: Siddharthanagar
+  city: "siddharthanagar"
+  accentcity: "Siddharthanagar"
 sidhnia ghat: 
-  city: sidhnia ghat
-  accentcity: Sidhnia Ghat
+  city: "sidhnia ghat"
+  accentcity: "Sidhnia Ghat"
 sikha: 
-  city: sikha
-  accentcity: Sikha
+  city: "sikha"
+  accentcity: "Sikha"
 sikpasor khani: 
-  city: sikpasor khani
-  accentcity: Sikpasor Khani
+  city: "sikpasor khani"
+  accentcity: "Sikpasor Khani"
 sikta ghat: 
-  city: sikta ghat
-  accentcity: Sikta Ghat
+  city: "sikta ghat"
+  accentcity: "Sikta Ghat"
 siktahan: 
-  city: siktahan
-  accentcity: Siktahan
+  city: "siktahan"
+  accentcity: "Siktahan"
 silgadhi-doti: 
-  city: silgadhi-doti
-  accentcity: Silgadhi-Doti
+  city: "silgadhi-doti"
+  accentcity: "Silgadhi-Doti"
 silgadhi: 
-  city: silgadhi
-  accentcity: Silgadhi
+  city: "silgadhi"
+  accentcity: "Silgadhi"
 silgarhi-doti: 
-  city: silgarhi-doti
-  accentcity: Silgarhi-Doti
+  city: "silgarhi-doti"
+  accentcity: "Silgarhi-Doti"
 silgarhi dot: 
-  city: silgarhi dot
-  accentcity: Silgarhi Dot
+  city: "silgarhi dot"
+  accentcity: "Silgarhi Dot"
 siliguri: 
-  city: siliguri
-  accentcity: Siliguri
+  city: "siliguri"
+  accentcity: "Siliguri"
 simagaon: 
-  city: simagaon
-  accentcity: Simagaon
+  city: "simagaon"
+  accentcity: "Simagaon"
 simara: 
-  city: simara
-  accentcity: Simara
+  city: "simara"
+  accentcity: "Simara"
 simengaon: 
-  city: simengaon
-  accentcity: Simengaon
+  city: "simengaon"
+  accentcity: "Simengaon"
 simikot: 
-  city: simikot
-  accentcity: Simikot
+  city: "simikot"
+  accentcity: "Simikot"
 simra: 
-  city: simra
-  accentcity: Simra
+  city: "simra"
+  accentcity: "Simra"
 sindhuli gadhi: 
-  city: sindhuli gadhi
-  accentcity: Sindhuli Gadhi
+  city: "sindhuli gadhi"
+  accentcity: "Sindhuli Gadhi"
 sindhuli garhi: 
-  city: sindhuli garhi
-  accentcity: Sindhuli Garhi
+  city: "sindhuli garhi"
+  accentcity: "Sindhuli Garhi"
 sindhuli: 
-  city: sindhuli
-  accentcity: Sindhuli
+  city: "sindhuli"
+  accentcity: "Sindhuli"
 sinja: 
-  city: sinja
-  accentcity: Sinja
+  city: "sinja"
+  accentcity: "Sinja"
 siraha: 
-  city: siraha
-  accentcity: Siraha
+  city: "siraha"
+  accentcity: "Siraha"
 sirha: 
-  city: sirha
-  accentcity: Sirha
+  city: "sirha"
+  accentcity: "Sirha"
 sirkot: 
-  city: sirkot
-  accentcity: Sirkot
+  city: "sirkot"
+  accentcity: "Sirkot"
 siror: 
-  city: siror
-  accentcity: Siror
+  city: "siror"
+  accentcity: "Siror"
 sirsia: 
-  city: sirsia
-  accentcity: Sirsia
+  city: "sirsia"
+  accentcity: "Sirsia"
 sisaghat bazar: 
-  city: sisaghat bazar
-  accentcity: Sisaghat Bazar
+  city: "sisaghat bazar"
+  accentcity: "Sisaghat Bazar"
 sisaghat: 
-  city: sisaghat
-  accentcity: Sisaghat
+  city: "sisaghat"
+  accentcity: "Sisaghat"
 sisaria: 
-  city: sisaria
-  accentcity: Sisaria
+  city: "sisaria"
+  accentcity: "Sisaria"
 sisbani: 
-  city: sisbani
-  accentcity: Sisbani
+  city: "sisbani"
+  accentcity: "Sisbani"
 sitalpati: 
-  city: sitalpati
-  accentcity: Sitalpati
+  city: "sitalpati"
+  accentcity: "Sitalpati"
 sitapur: 
-  city: sitapur
-  accentcity: Sitapur
+  city: "sitapur"
+  accentcity: "Sitapur"
 sitlapur: 
-  city: sitlapur
-  accentcity: Sitlapur
+  city: "sitlapur"
+  accentcity: "Sitlapur"
 siurigaon: 
-  city: siurigaon
-  accentcity: Siurigaon
+  city: "siurigaon"
+  accentcity: "Siurigaon"
 siwanagar: 
-  city: siwanagar
-  accentcity: Siwanagar
+  city: "siwanagar"
+  accentcity: "Siwanagar"
 sonauli: 
-  city: sonauli
-  accentcity: Sonauli
+  city: "sonauli"
+  accentcity: "Sonauli"
 sorukot: 
-  city: sorukot
-  accentcity: Sorukot
+  city: "sorukot"
+  accentcity: "Sorukot"
 sorung: 
-  city: sorung
-  accentcity: Sorung
+  city: "sorung"
+  accentcity: "Sorung"
 sripur: 
-  city: sripur
-  accentcity: Sripur
+  city: "sripur"
+  accentcity: "Sripur"
 subakone: 
-  city: subakone
-  accentcity: Subakone
+  city: "subakone"
+  accentcity: "Subakone"
 sugarkhal: 
-  city: sugarkhal
-  accentcity: Sugarkhal
+  city: "sugarkhal"
+  accentcity: "Sugarkhal"
 sukadhik: 
-  city: sukadhik
-  accentcity: Sukadhik
+  city: "sukadhik"
+  accentcity: "Sukadhik"
 sukhar: 
-  city: sukhar
-  accentcity: Sukhar
+  city: "sukhar"
+  accentcity: "Sukhar"
 sukhchauri: 
-  city: sukhchauri
-  accentcity: Sukhchauri
+  city: "sukhchauri"
+  accentcity: "Sukhchauri"
 sunarpur: 
-  city: sunarpur
-  accentcity: Sunarpur
+  city: "sunarpur"
+  accentcity: "Sunarpur"
 sunauli: 
-  city: sunauli
-  accentcity: Sunauli
+  city: "sunauli"
+  accentcity: "Sunauli"
 sundarijal: 
-  city: sundarijal
-  accentcity: Sundarijal
+  city: "sundarijal"
+  accentcity: "Sundarijal"
 sundarpur: 
-  city: sundarpur
-  accentcity: Sundarpur
+  city: "sundarpur"
+  accentcity: "Sundarpur"
 sunderijal: 
-  city: sunderijal
-  accentcity: Sunderijal
+  city: "sunderijal"
+  accentcity: "Sunderijal"
 sundraijal: 
-  city: sundraijal
-  accentcity: Sundraijal
+  city: "sundraijal"
+  accentcity: "Sundraijal"
 sundrijal: 
-  city: sundrijal
-  accentcity: Sundrijal
+  city: "sundrijal"
+  accentcity: "Sundrijal"
 sungarkhal: 
-  city: sungarkhal
-  accentcity: Sungarkhal
+  city: "sungarkhal"
+  accentcity: "Sungarkhal"
 sunwal: 
-  city: sunwal
-  accentcity: Sunwal
+  city: "sunwal"
+  accentcity: "Sunwal"
 surajpura: 
-  city: surajpura
-  accentcity: Surajpura
+  city: "surajpura"
+  accentcity: "Surajpura"
 surkhet: 
-  city: surkhet
-  accentcity: Surkhet
+  city: "surkhet"
+  accentcity: "Surkhet"
 swargdwari: 
-  city: swargdwari
-  accentcity: Swargdwari
+  city: "swargdwari"
+  accentcity: "Swargdwari"
 swargdwar: 
-  city: swargdwar
-  accentcity: Swargdwar
+  city: "swargdwar"
+  accentcity: "Swargdwar"
 syabru bensi: 
-  city: syabru bensi
-  accentcity: Syabru Bensi
+  city: "syabru bensi"
+  accentcity: "Syabru Bensi"
 syabru: 
-  city: syabru
-  accentcity: Syabru
+  city: "syabru"
+  accentcity: "Syabru"
 syangja: 
-  city: syangja
-  accentcity: Syangja
+  city: "syangja"
+  accentcity: "Syangja"
 syang: 
-  city: syang
-  accentcity: Syang
+  city: "syang"
+  accentcity: "Syang"
 tagring: 
-  city: tagring
-  accentcity: Tagring
+  city: "tagring"
+  accentcity: "Tagring"
 taklak: 
-  city: taklak
-  accentcity: Taklak
+  city: "taklak"
+  accentcity: "Taklak"
 talkot: 
-  city: talkot
-  accentcity: Talkot
+  city: "talkot"
+  accentcity: "Talkot"
 talpaka: 
-  city: talpaka
-  accentcity: Talpaka
+  city: "talpaka"
+  accentcity: "Talpaka"
 tamaspur: 
-  city: tamaspur
-  accentcity: Tamaspur
+  city: "tamaspur"
+  accentcity: "Tamaspur"
 tamgas: 
-  city: tamgas
-  accentcity: Tamgas
+  city: "tamgas"
+  accentcity: "Tamgas"
 tamghas: 
-  city: tamghas
-  accentcity: Tamghas
+  city: "tamghas"
+  accentcity: "Tamghas"
 tanahun: 
-  city: tanahun
-  accentcity: Tanahun
+  city: "tanahun"
+  accentcity: "Tanahun"
 tandi: 
-  city: tandi
-  accentcity: Tandi
+  city: "tandi"
+  accentcity: "Tandi"
 tange: 
-  city: tange
-  accentcity: Tange
+  city: "tange"
+  accentcity: "Tange"
 tangmoche: 
-  city: tangmoche
-  accentcity: Tangmoche
+  city: "tangmoche"
+  accentcity: "Tangmoche"
 tanhu: 
-  city: tanhu
-  accentcity: Tanhu
+  city: "tanhu"
+  accentcity: "Tanhu"
 tanje: 
-  city: tanje
-  accentcity: Tanje
+  city: "tanje"
+  accentcity: "Tanje"
 tanju: 
-  city: tanju
-  accentcity: Tanju
+  city: "tanju"
+  accentcity: "Tanju"
 tansen: 
-  city: tansen
-  accentcity: Tansen
+  city: "tansen"
+  accentcity: "Tansen"
 tansing: 
-  city: tansing
-  accentcity: Tansing
+  city: "tansing"
+  accentcity: "Tansing"
 taplejung: 
-  city: taplejung
-  accentcity: Taplejung
+  city: "taplejung"
+  accentcity: "Taplejung"
 tarakot: 
-  city: tarakot
-  accentcity: Tarakot
+  city: "tarakot"
+  accentcity: "Tarakot"
 tarapgaon: 
-  city: tarapgaon
-  accentcity: Tarapgaon
+  city: "tarapgaon"
+  accentcity: "Tarapgaon"
 tarenggaon: 
-  city: tarenggaon
-  accentcity: Tarenggaon
+  city: "tarenggaon"
+  accentcity: "Tarenggaon"
 tarke ghyang: 
-  city: tarke ghyang
-  accentcity: Tarke Ghyang
+  city: "tarke ghyang"
+  accentcity: "Tarke Ghyang"
 tatopani: 
-  city: tatopani
-  accentcity: Tatopani
+  city: "tatopani"
+  accentcity: "Tatopani"
 taulia: 
-  city: taulia
-  accentcity: Taulia
+  city: "taulia"
+  accentcity: "Taulia"
 taulihawa: 
-  city: taulihawa
-  accentcity: Taulihawa
+  city: "taulihawa"
+  accentcity: "Taulihawa"
 teghari: 
-  city: teghari
-  accentcity: Teghari
+  city: "teghari"
+  accentcity: "Teghari"
 tehrathum: 
-  city: tehrathum
-  accentcity: Tehrathum
+  city: "tehrathum"
+  accentcity: "Tehrathum"
 teh: 
-  city: teh
-  accentcity: Teh
+  city: "teh"
+  accentcity: "Teh"
 telok: 
-  city: telok
-  accentcity: Telok
+  city: "telok"
+  accentcity: "Telok"
 telpani: 
-  city: telpani
-  accentcity: Telpani
+  city: "telpani"
+  accentcity: "Telpani"
 tempathang: 
-  city: tempathang
-  accentcity: Tempathang
+  city: "tempathang"
+  accentcity: "Tempathang"
 terhathum: 
-  city: terhathum
-  accentcity: Terhathum
+  city: "terhathum"
+  accentcity: "Terhathum"
 terhthum: 
-  city: terhthum
-  accentcity: Terhthum
+  city: "terhthum"
+  accentcity: "Terhthum"
 thabang: 
-  city: thabang
-  accentcity: Thabang
+  city: "thabang"
+  accentcity: "Thabang"
 thahrakot: 
-  city: thahrakot
-  accentcity: Thahrakot
+  city: "thahrakot"
+  accentcity: "Thahrakot"
 thakle: 
-  city: thakle
-  accentcity: Thakle
+  city: "thakle"
+  accentcity: "Thakle"
 thalara: 
-  city: thalara
-  accentcity: Thalara
+  city: "thalara"
+  accentcity: "Thalara"
 thami: 
-  city: thami
-  accentcity: Thami
+  city: "thami"
+  accentcity: "Thami"
 thammu: 
-  city: thammu
-  accentcity: Thammu
+  city: "thammu"
+  accentcity: "Thammu"
 thandar: 
-  city: thandar
-  accentcity: Thandar
+  city: "thandar"
+  accentcity: "Thandar"
 thangjet: 
-  city: thangjet
-  accentcity: Thangjet
+  city: "thangjet"
+  accentcity: "Thangjet"
 thangmoche: 
-  city: thangmoche
-  accentcity: Thangmoche
+  city: "thangmoche"
+  accentcity: "Thangmoche"
 thangpoche: 
-  city: thangpoche
-  accentcity: Thangpoche
+  city: "thangpoche"
+  accentcity: "Thangpoche"
 thankol: 
-  city: thankol
-  accentcity: Thankol
+  city: "thankol"
+  accentcity: "Thankol"
 thankot: 
-  city: thankot
-  accentcity: Thankot
+  city: "thankot"
+  accentcity: "Thankot"
 thapagaon: 
-  city: thapagaon
-  accentcity: Thapagaon
+  city: "thapagaon"
+  accentcity: "Thapagaon"
 thapathali: 
-  city: thapathali
-  accentcity: Thapathali
+  city: "thapathali"
+  accentcity: "Thapathali"
 tharakot: 
-  city: tharakot
-  accentcity: Tharakot
+  city: "tharakot"
+  accentcity: "Tharakot"
 thare pati: 
-  city: thare pati
-  accentcity: Thare Pati
+  city: "thare pati"
+  accentcity: "Thare Pati"
 thargumtha: 
-  city: thargumtha
-  accentcity: Thargumtha
+  city: "thargumtha"
+  accentcity: "Thargumtha"
 thimi: 
-  city: thimi
-  accentcity: Thimi
+  city: "thimi"
+  accentcity: "Thimi"
 thodung: 
-  city: thodung
-  accentcity: Thodung
+  city: "thodung"
+  accentcity: "Thodung"
 thonje: 
-  city: thonje
-  accentcity: Thonje
+  city: "thonje"
+  accentcity: "Thonje"
 thori: 
-  city: thori
-  accentcity: Thori
+  city: "thori"
+  accentcity: "Thori"
 those: 
-  city: those
-  accentcity: Those
+  city: "those"
+  accentcity: "Those"
 thotung: 
-  city: thotung
-  accentcity: Thotung
+  city: "thotung"
+  accentcity: "Thotung"
 thukla: 
-  city: thukla
-  accentcity: Thukla
+  city: "thukla"
+  accentcity: "Thukla"
 thulopatal: 
-  city: thulopatal
-  accentcity: Thulopatal
+  city: "thulopatal"
+  accentcity: "Thulopatal"
 thumshe: 
-  city: thumshe
-  accentcity: Thumshe
+  city: "thumshe"
+  accentcity: "Thumshe"
 thyangboche: 
-  city: thyangboche
-  accentcity: Thyangboche
+  city: "thyangboche"
+  accentcity: "Thyangboche"
 thyangtoche: 
-  city: thyangtoche
-  accentcity: Thyangtoche
+  city: "thyangtoche"
+  accentcity: "Thyangtoche"
 tibrikot: 
-  city: tibrikot
-  accentcity: Tibrikot
+  city: "tibrikot"
+  accentcity: "Tibrikot"
 tigri: 
-  city: tigri
-  accentcity: Tigri
+  city: "tigri"
+  accentcity: "Tigri"
 tikabhairab: 
-  city: tikabhairab
-  accentcity: Tikabhairab
+  city: "tikabhairab"
+  accentcity: "Tikabhairab"
 tikapur: 
-  city: tikapur
-  accentcity: Tikapur
+  city: "tikapur"
+  accentcity: "Tikapur"
 tikoli: 
-  city: tikoli
-  accentcity: Tikoli
+  city: "tikoli"
+  accentcity: "Tikoli"
 tilaurakot: 
-  city: tilaurakot
-  accentcity: Tilaurakot
+  city: "tilaurakot"
+  accentcity: "Tilaurakot"
 tiling: 
-  city: tiling
-  accentcity: Tiling
+  city: "tiling"
+  accentcity: "Tiling"
 til: 
-  city: til
-  accentcity: Til
+  city: "til"
+  accentcity: "Til"
 tinakar: 
-  city: tinakar
-  accentcity: Tinakar
+  city: "tinakar"
+  accentcity: "Tinakar"
 tingjegaon: 
-  city: tingjegaon
-  accentcity: Tingjegaon
+  city: "tingjegaon"
+  accentcity: "Tingjegaon"
 tinkar: 
-  city: tinkar
-  accentcity: Tinkar
+  city: "tinkar"
+  accentcity: "Tinkar"
 titahari: 
-  city: titahari
-  accentcity: Titahari
+  city: "titahari"
+  accentcity: "Titahari"
 tokha: 
-  city: tokha
-  accentcity: Tokha
+  city: "tokha"
+  accentcity: "Tokha"
 tokna: 
-  city: tokna
-  accentcity: Tokna
+  city: "tokna"
+  accentcity: "Tokna"
 toli: 
-  city: toli
-  accentcity: Toli
+  city: "toli"
+  accentcity: "Toli"
 topke gola: 
-  city: topke gola
-  accentcity: Topke Gola
+  city: "topke gola"
+  accentcity: "Topke Gola"
 topla: 
-  city: topla
-  accentcity: Topla
+  city: "topla"
+  accentcity: "Topla"
 tribeni gatt: 
-  city: tribeni gatt
-  accentcity: Tribeni Gatt
+  city: "tribeni gatt"
+  accentcity: "Tribeni Gatt"
 tribeni ghat: 
-  city: tribeni ghat
-  accentcity: Tribeni Ghat
+  city: "tribeni ghat"
+  accentcity: "Tribeni Ghat"
 tribeni: 
-  city: tribeni
-  accentcity: Tribeni
+  city: "tribeni"
+  accentcity: "Tribeni"
 trisuli bazar: 
-  city: trisuli bazar
-  accentcity: Trisuli Bazar
+  city: "trisuli bazar"
+  accentcity: "Trisuli Bazar"
 trisuli: 
-  city: trisuli
-  accentcity: Trisuli
+  city: "trisuli"
+  accentcity: "Trisuli"
 tsarang: 
-  city: tsarang
-  accentcity: Tsarang
+  city: "tsarang"
+  accentcity: "Tsarang"
 tukotigaon: 
-  city: tukotigaon
-  accentcity: Tukotigaon
+  city: "tukotigaon"
+  accentcity: "Tukotigaon"
 tukucha: 
-  city: tukucha
-  accentcity: Tukucha
+  city: "tukucha"
+  accentcity: "Tukucha"
 tulsipur: 
-  city: tulsipur
-  accentcity: Tulsipur
+  city: "tulsipur"
+  accentcity: "Tulsipur"
 tulsi: 
-  city: tulsi
-  accentcity: Tulsi
+  city: "tulsi"
+  accentcity: "Tulsi"
 tumlingtar: 
-  city: tumlingtar
-  accentcity: Tumlingtar
+  city: "tumlingtar"
+  accentcity: "Tumlingtar"
 tumlintar: 
-  city: tumlintar
-  accentcity: Tumlintar
+  city: "tumlintar"
+  accentcity: "Tumlintar"
 tunrikhel: 
-  city: tunrikhel
-  accentcity: Tunrikhel
+  city: "tunrikhel"
+  accentcity: "Tunrikhel"
 udain: 
-  city: udain
-  accentcity: Udain
+  city: "udain"
+  accentcity: "Udain"
 udaipur gadhi: 
-  city: udaipur gadhi
-  accentcity: Udaipur Gadhi
+  city: "udaipur gadhi"
+  accentcity: "Udaipur Gadhi"
 udaipur garhi: 
-  city: udaipur garhi
-  accentcity: Udaipur Garhi
+  city: "udaipur garhi"
+  accentcity: "Udaipur Garhi"
 udaipur: 
-  city: udaipur
-  accentcity: Udaipur
+  city: "udaipur"
+  accentcity: "Udaipur"
 udai: 
-  city: udai
-  accentcity: Udai
+  city: "udai"
+  accentcity: "Udai"
 udayapur garhi: 
-  city: udayapur garhi
-  accentcity: Udayapur Garhi
+  city: "udayapur garhi"
+  accentcity: "Udayapur Garhi"
 ukta: 
-  city: ukta
-  accentcity: Ukta
+  city: "ukta"
+  accentcity: "Ukta"
 ulejula: 
-  city: ulejula
-  accentcity: Ulejula
+  city: "ulejula"
+  accentcity: "Ulejula"
 umari: 
-  city: umari
-  accentcity: Umari
+  city: "umari"
+  accentcity: "Umari"
 umraro: 
-  city: umraro
-  accentcity: Umraro
+  city: "umraro"
+  accentcity: "Umraro"
 umse: 
-  city: umse
-  accentcity: Umse
+  city: "umse"
+  accentcity: "Umse"
 unapani: 
-  city: unapani
-  accentcity: Unapani
+  city: "unapani"
+  accentcity: "Unapani"
 upardang gadhi: 
-  city: upardang gadhi
-  accentcity: Upardang Gadhi
+  city: "upardang gadhi"
+  accentcity: "Upardang Gadhi"
 upardang garhi: 
-  city: upardang garhi
-  accentcity: Upardang Garhi
+  city: "upardang garhi"
+  accentcity: "Upardang Garhi"
 uwagaon: 
-  city: uwagaon
-  accentcity: Uwagaon
+  city: "uwagaon"
+  accentcity: "Uwagaon"
 vishnupura: 
-  city: vishnupura
-  accentcity: Vishnupura
+  city: "vishnupura"
+  accentcity: "Vishnupura"
 waleng: 
-  city: waleng
-  accentcity: Waleng
+  city: "waleng"
+  accentcity: "Waleng"
 waling: 
-  city: waling
-  accentcity: Waling
+  city: "waling"
+  accentcity: "Waling"
 wali: 
-  city: wali
-  accentcity: Wali
+  city: "wali"
+  accentcity: "Wali"
 walling: 
-  city: walling
-  accentcity: Walling
+  city: "walling"
+  accentcity: "Walling"
 walungchung gola: 
-  city: walungchung gola
-  accentcity: Walungchung Gola
+  city: "walungchung gola"
+  accentcity: "Walungchung Gola"
 wamitaksar: 
-  city: wamitaksar
-  accentcity: Wamitaksar
+  city: "wamitaksar"
+  accentcity: "Wamitaksar"
 wapsa khani: 
-  city: wapsa khani
-  accentcity: Wapsa Khani
+  city: "wapsa khani"
+  accentcity: "Wapsa Khani"
 yala: 
-  city: yala
-  accentcity: Yala
+  city: "yala"
+  accentcity: "Yala"
 yalbang: 
-  city: yalbang
-  accentcity: Yalbang
+  city: "yalbang"
+  accentcity: "Yalbang"
 yamphodin: 
-  city: yamphodin
-  accentcity: Yamphodin
+  city: "yamphodin"
+  accentcity: "Yamphodin"
 yangar: 
-  city: yangar
-  accentcity: Yangar
+  city: "yangar"
+  accentcity: "Yangar"
 yangbel: 
-  city: yangbel
-  accentcity: Yangbel
+  city: "yangbel"
+  accentcity: "Yangbel"
 yang fu ring: 
-  city: yang fu ring
-  accentcity: Yang Fu Ring
+  city: "yang fu ring"
+  accentcity: "Yang Fu Ring"
 yangphuring: 
-  city: yangphuring
-  accentcity: Yangphuring
+  city: "yangphuring"
+  accentcity: "Yangphuring"
 yapkel: 
-  city: yapkel
-  accentcity: Yapkel
+  city: "yapkel"
+  accentcity: "Yapkel"
 yari: 
-  city: yari
-  accentcity: Yari
+  city: "yari"
+  accentcity: "Yari"
 yarsa: 
-  city: yarsa
-  accentcity: Yarsa
+  city: "yarsa"
+  accentcity: "Yarsa"
 yektim: 
-  city: yektim
-  accentcity: Yektim
+  city: "yektim"
+  accentcity: "Yektim"

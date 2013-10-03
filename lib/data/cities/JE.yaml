@@ -1,161 +1,161 @@
 # encoding: UTF-8
 --- 
 beaumont: 
-  city: beaumont
-  accentcity: Beaumont
+  city: "beaumont"
+  accentcity: "Beaumont"
 belle vue: 
-  city: belle vue
-  accentcity: Belle Vue
+  city: "belle vue"
+  accentcity: "Belle Vue"
 bel royal: 
-  city: bel royal
-  accentcity: Bel Royal
+  city: "bel royal"
+  accentcity: "Bel Royal"
 gorey: 
-  city: gorey
-  accentcity: Gorey
+  city: "gorey"
+  accentcity: "Gorey"
 gouray: 
-  city: gouray
-  accentcity: Gouray
+  city: "gouray"
+  accentcity: "Gouray"
 grand chemins: 
-  city: grand chemins
-  accentcity: Grand Chemins
+  city: "grand chemins"
+  accentcity: "Grand Chemins"
 grand mourier: 
-  city: grand mourier
-  accentcity: Grand Mourier
+  city: "grand mourier"
+  accentcity: "Grand Mourier"
 la falaise: 
-  city: la falaise
-  accentcity: La Falaise
+  city: "la falaise"
+  accentcity: "La Falaise"
 la fosse: 
-  city: la fosse
-  accentcity: La Fosse
+  city: "la fosse"
+  accentcity: "La Fosse"
 la haule: 
-  city: la haule
-  accentcity: La Haule
+  city: "la haule"
+  accentcity: "La Haule"
 la hougue: 
-  city: la hougue
-  accentcity: La Hougue
+  city: "la hougue"
+  accentcity: "La Hougue"
 la moye: 
-  city: la moye
-  accentcity: La Moye
+  city: "la moye"
+  accentcity: "La Moye"
 la perruqe: 
-  city: la perruqe
-  accentcity: La Perruqe
+  city: "la perruqe"
+  accentcity: "La Perruqe"
 la villaise: 
-  city: la villaise
-  accentcity: La Villaise
+  city: "la villaise"
+  accentcity: "La Villaise"
 la ville au bas: 
-  city: la ville au bas
-  accentcity: La Ville au Bas
+  city: "la ville au bas"
+  accentcity: "La Ville au Bas"
 la ville bagot: 
-  city: la ville bagot
-  accentcity: La Ville Bagot
+  city: "la ville bagot"
+  accentcity: "La Ville Bagot"
 la ville des quennevais: 
-  city: la ville des quennevais
-  accentcity: La Ville des Quennevais
+  city: "la ville des quennevais"
+  accentcity: "La Ville des Quennevais"
 la ville es nouaux: 
-  city: la ville es nouaux
-  accentcity: "La Ville \xC3\xA8s Nouaux"
+  city: "la ville es nouaux"
+  accentcity: "La Ville ès Nouaux"
 le mont ficquet: 
-  city: le mont ficquet
-  accentcity: Le Mont Ficquet
+  city: "le mont ficquet"
+  accentcity: "Le Mont Ficquet"
 le mont mado: 
-  city: le mont mado
-  accentcity: Le Mont Mado
+  city: "le mont mado"
+  accentcity: "Le Mont Mado"
 le rondin: 
-  city: le rondin
-  accentcity: Le Rondin
+  city: "le rondin"
+  accentcity: "Le Rondin"
 les creux: 
-  city: les creux
-  accentcity: Les Creux
+  city: "les creux"
+  accentcity: "Les Creux"
 l'etac: 
-  city: l'etac
-  accentcity: L'Etac
+  city: "l'etac"
+  accentcity: "L'Etac"
 l'etacq: 
-  city: l'etacq
-  accentcity: L'Etacq
+  city: "l'etacq"
+  accentcity: "L'Etacq"
 longueville: 
-  city: longueville
-  accentcity: Longueville
+  city: "longueville"
+  accentcity: "Longueville"
 lower blanc pignon: 
-  city: lower blanc pignon
-  accentcity: Lower Blanc Pignon
+  city: "lower blanc pignon"
+  accentcity: "Lower Blanc Pignon"
 millbrook: 
-  city: millbrook
-  accentcity: Millbrook
+  city: "millbrook"
+  accentcity: "Millbrook"
 mont fiquet: 
-  city: mont fiquet
-  accentcity: Mont Fiquet
+  city: "mont fiquet"
+  accentcity: "Mont Fiquet"
 mont mado: 
-  city: mont mado
-  accentcity: Mont Mado
+  city: "mont mado"
+  accentcity: "Mont Mado"
 mount mado: 
-  city: mount mado
-  accentcity: Mount Mado
+  city: "mount mado"
+  accentcity: "Mount Mado"
 perruque: 
-  city: perruque
-  accentcity: Perruque
+  city: "perruque"
+  accentcity: "Perruque"
 portinfer: 
-  city: portinfer
-  accentcity: Portinfer
+  city: "portinfer"
+  accentcity: "Portinfer"
 rozel: 
-  city: rozel
-  accentcity: Rozel
+  city: "rozel"
+  accentcity: "Rozel"
 rozel seigneurie: 
-  city: rozel seigneurie
-  accentcity: Rozel Seigneurie
+  city: "rozel seigneurie"
+  accentcity: "Rozel Seigneurie"
 saint aubin: 
-  city: saint aubin
-  accentcity: Saint Aubin
+  city: "saint aubin"
+  accentcity: "Saint Aubin"
 saint aubyn: 
-  city: saint aubyn
-  accentcity: Saint Aubyn
+  city: "saint aubyn"
+  accentcity: "Saint Aubyn"
 saint helier: 
-  city: saint helier
-  accentcity: Saint Helier
+  city: "saint helier"
+  accentcity: "Saint Helier"
 saint jean: 
-  city: saint jean
-  accentcity: Saint Jean
+  city: "saint jean"
+  accentcity: "Saint Jean"
 saint john: 
-  city: saint john
-  accentcity: Saint John
+  city: "saint john"
+  accentcity: "Saint John"
 saint john's church: 
-  city: saint john's church
-  accentcity: Saint John's Church
+  city: "saint john's church"
+  accentcity: "Saint John's Church"
 saint john's: 
-  city: saint john's
-  accentcity: Saint John's
+  city: "saint john's"
+  accentcity: "Saint John's"
 saint peter church: 
-  city: saint peter church
-  accentcity: Saint Peter Church
+  city: "saint peter church"
+  accentcity: "Saint Peter Church"
 saint peter: 
-  city: saint peter
-  accentcity: Saint Peter
+  city: "saint peter"
+  accentcity: "Saint Peter"
 saint peter's church: 
-  city: saint peter's church
-  accentcity: Saint Peter's Church
+  city: "saint peter's church"
+  accentcity: "Saint Peter's Church"
 saint peter's: 
-  city: saint peter's
-  accentcity: Saint Peter's
+  city: "saint peter's"
+  accentcity: "Saint Peter's"
 six rues: 
-  city: six rues
-  accentcity: Six Rues
+  city: "six rues"
+  accentcity: "Six Rues"
 st. john's church: 
-  city: st. john's church
-  accentcity: St. John's Church
+  city: "st. john's church"
+  accentcity: "St. John's Church"
 ville au bas: 
-  city: ville au bas
-  accentcity: Ville au Bas
+  city: "ville au bas"
+  accentcity: "Ville au Bas"
 ville bagot: 
-  city: ville bagot
-  accentcity: Ville Bagot
+  city: "ville bagot"
+  accentcity: "Ville Bagot"
 ville des quennevais: 
-  city: ville des quennevais
-  accentcity: Ville des Quennevais
+  city: "ville des quennevais"
+  accentcity: "Ville des Quennevais"
 ville des quenvais: 
-  city: ville des quenvais
-  accentcity: Ville des Quenvais
+  city: "ville des quenvais"
+  accentcity: "Ville des Quenvais"
 ville es nouaux: 
-  city: ville es nouaux
-  accentcity: "Ville \xC3\xA8s Nouaux"
+  city: "ville es nouaux"
+  accentcity: "Ville ès Nouaux"
 ville es quenvais: 
-  city: ville es quenvais
-  accentcity: "Ville \xC3\xA8s Quenvais"
+  city: "ville es quenvais"
+  accentcity: "Ville ès Quenvais"

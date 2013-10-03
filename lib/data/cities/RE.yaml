@@ -1,1205 +1,1205 @@
 # encoding: UTF-8
 --- 
 abondance: 
-  city: abondance
-  accentcity: Abondance
+  city: "abondance"
+  accentcity: "Abondance"
 a. dubuisson: 
-  city: a. dubuisson
-  accentcity: A. Dubuisson
+  city: "a. dubuisson"
+  accentcity: "A. Dubuisson"
 aloes: 
-  city: aloes
-  accentcity: "Alo\xC3\xA8s"
+  city: "aloes"
+  accentcity: "Aloès"
 anse: 
-  city: anse
-  accentcity: Anse
+  city: "anse"
+  accentcity: "Anse"
 anse-les bas: 
-  city: anse-les bas
-  accentcity: Anse-les Bas
+  city: "anse-les bas"
+  accentcity: "Anse-les Bas"
 anse-les hauts: 
-  city: anse-les hauts
-  accentcity: Anse-les Hauts
+  city: "anse-les hauts"
+  accentcity: "Anse-les Hauts"
 aurelien dijoux: 
-  city: aurelien dijoux
+  city: "aurelien dijoux"
   accentcity: "Aurélien Dijoux"
 aurere: 
-  city: aurere
-  accentcity: "Aur\xC3\xA8re"
+  city: "aurere"
+  accentcity: "Aurère"
 avenir: 
-  city: avenir
-  accentcity: Avenir
+  city: "avenir"
+  accentcity: "Avenir"
 avirons: 
-  city: avirons
-  accentcity: Avirons
+  city: "avirons"
+  accentcity: "Avirons"
 bagatelle: 
-  city: bagatelle
-  accentcity: Bagatelle
+  city: "bagatelle"
+  accentcity: "Bagatelle"
 bain: 
-  city: bain
-  accentcity: Bain
+  city: "bain"
+  accentcity: "Bain"
 baril: 
-  city: baril
-  accentcity: Baril
+  city: "baril"
+  accentcity: "Baril"
 basse vallee: 
-  city: basse vallee
+  city: "basse vallee"
   accentcity: "Basse Vallée"
 bassin martin: 
-  city: bassin martin
-  accentcity: Bassin Martin
+  city: "bassin martin"
+  accentcity: "Bassin Martin"
 beaufond: 
-  city: beaufond
-  accentcity: Beaufond
+  city: "beaufond"
+  accentcity: "Beaufond"
 beaufonds: 
-  city: beaufonds
-  accentcity: Beaufonds
+  city: "beaufonds"
+  accentcity: "Beaufonds"
 beaufonds usine: 
-  city: beaufonds usine
-  accentcity: Beaufonds Usine
+  city: "beaufonds usine"
+  accentcity: "Beaufonds Usine"
 beaulieu: 
-  city: beaulieu
-  accentcity: Beaulieu
+  city: "beaulieu"
+  accentcity: "Beaulieu"
 beaumont: 
-  city: beaumont
-  accentcity: Beaumont
+  city: "beaumont"
+  accentcity: "Beaumont"
 beauvallon: 
-  city: beauvallon
-  accentcity: Beauvallon
+  city: "beauvallon"
+  accentcity: "Beauvallon"
 bebour: 
-  city: bebour
-  accentcity: Bebour
+  city: "bebour"
+  accentcity: "Bebour"
 be cabot: 
-  city: be cabot
+  city: "be cabot"
   accentcity: "Bé Cabot"
 bel air: 
-  city: bel air
-  accentcity: Bel Air
+  city: "bel air"
+  accentcity: "Bel Air"
 bellemene: 
-  city: bellemene
-  accentcity: "Bellem\xC3\xA8ne"
+  city: "bellemene"
+  accentcity: "Bellemène"
 bellevue: 
-  city: bellevue
-  accentcity: Bellevue
+  city: "bellevue"
+  accentcity: "Bellevue"
 berive: 
-  city: berive
+  city: "berive"
   accentcity: "Bérive"
 berive-les bas: 
-  city: berive-les bas
+  city: "berive-les bas"
   accentcity: "Bérive-les Bas"
 bernica: 
-  city: bernica
-  accentcity: Bernica
+  city: "bernica"
+  accentcity: "Bernica"
 bernica-les bas: 
-  city: bernica-les bas
-  accentcity: Bernica-les Bas
+  city: "bernica-les bas"
+  accentcity: "Bernica-les Bas"
 bethleem: 
-  city: bethleem
+  city: "bethleem"
   accentcity: "Bethléem"
 bois-blanc: 
-  city: bois-blanc
-  accentcity: Bois-Blanc
+  city: "bois-blanc"
+  accentcity: "Bois-Blanc"
 bois court: 
-  city: bois court
-  accentcity: Bois Court
+  city: "bois court"
+  accentcity: "Bois Court"
 bois de nefles: 
-  city: bois de nefles
-  accentcity: "Bois de N\xC3\xA8fles"
+  city: "bois de nefles"
+  accentcity: "Bois de Nèfles"
 bois d'olive: 
-  city: bois d'olive
-  accentcity: Bois d'Olive
+  city: "bois d'olive"
+  accentcity: "Bois d'Olive"
 bois d'olives: 
-  city: bois d'olives
-  accentcity: Bois d'Olives
+  city: "bois d'olives"
+  accentcity: "Bois d'Olives"
 bois-rouge: 
-  city: bois-rouge
-  accentcity: Bois-Rouge
+  city: "bois-rouge"
+  accentcity: "Bois-Rouge"
 bois rouqe usine: 
-  city: bois rouqe usine
-  accentcity: Bois Rouqe Usine
+  city: "bois rouqe usine"
+  accentcity: "Bois Rouqe Usine"
 boucan canot: 
-  city: boucan canot
-  accentcity: Boucan Canot
+  city: "boucan canot"
+  accentcity: "Boucan Canot"
 bourbier: 
-  city: bourbier
-  accentcity: Bourbier
+  city: "bourbier"
+  accentcity: "Bourbier"
 bout de l'etang: 
-  city: bout de l'etang
+  city: "bout de l'etang"
   accentcity: "Bout de l'\xC3\x89tang"
 bras canot: 
-  city: bras canot
-  accentcity: Bras Canot
+  city: "bras canot"
+  accentcity: "Bras Canot"
 bras de ponteau: 
-  city: bras de ponteau
-  accentcity: Bras de Ponteau
+  city: "bras de ponteau"
+  accentcity: "Bras de Ponteau"
 bras des calumets: 
-  city: bras des calumets
-  accentcity: Bras des Calumets
+  city: "bras des calumets"
+  accentcity: "Bras des Calumets"
 bras des chevrettes: 
-  city: bras des chevrettes
-  accentcity: Bras des Chevrettes
+  city: "bras des chevrettes"
+  accentcity: "Bras des Chevrettes"
 bras madeleine: 
-  city: bras madeleine
-  accentcity: Bras Madeleine
+  city: "bras madeleine"
+  accentcity: "Bras Madeleine"
 bras magdeleine: 
-  city: bras magdeleine
-  accentcity: Bras Magdeleine
+  city: "bras magdeleine"
+  accentcity: "Bras Magdeleine"
 bras-panon: 
-  city: bras-panon
-  accentcity: Bras-Panon
+  city: "bras-panon"
+  accentcity: "Bras-Panon"
 bretagne: 
-  city: bretagne
-  accentcity: Bretagne
+  city: "bretagne"
+  accentcity: "Bretagne"
 brule: 
-  city: brule
+  city: "brule"
   accentcity: "Br\xC3\xBBlé"
 cafrine: 
-  city: cafrine
-  accentcity: Cafrine
+  city: "cafrine"
+  accentcity: "Cafrine"
 cambuston: 
-  city: cambuston
-  accentcity: Cambuston
+  city: "cambuston"
+  accentcity: "Cambuston"
 camp de pierrot: 
-  city: camp de pierrot
-  accentcity: Camp de Pierrot
+  city: "camp de pierrot"
+  accentcity: "Camp de Pierrot"
 camp jacquot: 
-  city: camp jacquot
-  accentcity: Camp Jacquot
+  city: "camp jacquot"
+  accentcity: "Camp Jacquot"
 cap blanc: 
-  city: cap blanc
-  accentcity: Cap Blanc
+  city: "cap blanc"
+  accentcity: "Cap Blanc"
 cap noir: 
-  city: cap noir
-  accentcity: Cap Noir
+  city: "cap noir"
+  accentcity: "Cap Noir"
 carosse: 
-  city: carosse
-  accentcity: Carosse
+  city: "carosse"
+  accentcity: "Carosse"
 casabona: 
-  city: casabona
-  accentcity: Casabona
+  city: "casabona"
+  accentcity: "Casabona"
 cascades: 
-  city: cascades
-  accentcity: Cascades
+  city: "cascades"
+  accentcity: "Cascades"
 champ-borne: 
-  city: champ-borne
-  accentcity: Champ-Borne
+  city: "champ-borne"
+  accentcity: "Champ-Borne"
 chaudron: 
-  city: chaudron
-  accentcity: Chaudron
+  city: "chaudron"
+  accentcity: "Chaudron"
 chemin cesar: 
-  city: chemin cesar
+  city: "chemin cesar"
   accentcity: "Chemin César"
 chiendent: 
-  city: chiendent
-  accentcity: Chiendent
+  city: "chiendent"
+  accentcity: "Chiendent"
 cilaos: 
-  city: cilaos
-  accentcity: Cilaos
+  city: "cilaos"
+  accentcity: "Cilaos"
 coeur saignant: 
-  city: coeur saignant
-  accentcity: Coeur Saignant
+  city: "coeur saignant"
+  accentcity: "Coeur Saignant"
 colimacons: 
-  city: colimacons
-  accentcity: "Colima\xC3\xA7ons"
+  city: "colimacons"
+  accentcity: "Colimaçons"
 colosse: 
-  city: colosse
-  accentcity: Colosse
+  city: "colosse"
+  accentcity: "Colosse"
 commune ango: 
-  city: commune ango
-  accentcity: Commune Ango
+  city: "commune ango"
+  accentcity: "Commune Ango"
 commune begue: 
-  city: commune begue
-  accentcity: "Commune B\xC3\xA8gue"
+  city: "commune begue"
+  accentcity: "Commune Bègue"
 commune carron: 
-  city: commune carron
-  accentcity: Commune Carron
+  city: "commune carron"
+  accentcity: "Commune Carron"
 conde: 
-  city: conde
+  city: "conde"
   accentcity: "Condé"
 confiance: 
-  city: confiance
-  accentcity: Confiance
+  city: "confiance"
+  accentcity: "Confiance"
 convenance ancienne usine: 
-  city: convenance ancienne usine
-  accentcity: Convenance Ancienne Usine
+  city: "convenance ancienne usine"
+  accentcity: "Convenance Ancienne Usine"
 convenance: 
-  city: convenance
-  accentcity: Convenance
+  city: "convenance"
+  accentcity: "Convenance"
 demenjod: 
-  city: demenjod
-  accentcity: Demenjod
+  city: "demenjod"
+  accentcity: "Demenjod"
 desbassyns: 
-  city: desbassyns
-  accentcity: Desbassyns
+  city: "desbassyns"
+  accentcity: "Desbassyns"
 desert: 
-  city: desert
+  city: "desert"
   accentcity: "Désert"
 dimitile: 
-  city: dimitile
-  accentcity: Dimitile
+  city: "dimitile"
+  accentcity: "Dimitile"
 domenjod: 
-  city: domenjod
-  accentcity: Domenjod
+  city: "domenjod"
+  accentcity: "Domenjod"
 dos d'ane: 
-  city: dos d'ane
+  city: "dos d'ane"
   accentcity: "Dos d'\xC3\x82ne"
 entre-deux: 
-  city: entre-deux
-  accentcity: Entre-Deux
+  city: "entre-deux"
+  accentcity: "Entre-Deux"
 eperon: 
-  city: eperon
+  city: "eperon"
   accentcity: "\xC3\x89peron"
 esperance: 
-  city: esperance
+  city: "esperance"
   accentcity: "Espérance"
 etang de saint andre: 
-  city: etang de saint andre
-  accentcity: Etang de Saint Andre
+  city: "etang de saint andre"
+  accentcity: "Etang de Saint Andre"
 etang: 
-  city: etang
-  accentcity: Etang
+  city: "etang"
+  accentcity: "Etang"
 etang-les hauts: 
-  city: etang-les hauts
+  city: "etang-les hauts"
   accentcity: "\xC3\x89tang-les Hauts"
 etang-sale: 
-  city: etang-sale
+  city: "etang-sale"
   accentcity: "\xC3\x89tang-Salé"
 etang-sale les bains: 
-  city: etang-sale les bains
+  city: "etang-sale les bains"
   accentcity: "\xC3\x89tang-Salé les Bains"
 etanq les hauts: 
-  city: etanq les hauts
-  accentcity: Etanq les Hauts
+  city: "etanq les hauts"
+  accentcity: "Etanq les Hauts"
 etan-sale-les-hauts: 
-  city: etan-sale-les-hauts
+  city: "etan-sale-les-hauts"
   accentcity: "\xC3\x89tan-Salé-les-Hauts"
 fiague: 
-  city: fiague
-  accentcity: Fiague
+  city: "fiague"
+  accentcity: "Fiague"
 fiagues: 
-  city: fiagues
-  accentcity: Fiagues
+  city: "fiagues"
+  accentcity: "Fiagues"
 filaos: 
-  city: filaos
-  accentcity: Filaos
+  city: "filaos"
+  accentcity: "Filaos"
 flacourt: 
-  city: flacourt
-  accentcity: Flacourt
+  city: "flacourt"
+  accentcity: "Flacourt"
 fleurimont: 
-  city: fleurimont
-  accentcity: Fleurimont
+  city: "fleurimont"
+  accentcity: "Fleurimont"
 fleurs jaunes-les hauts: 
-  city: fleurs jaunes-les hauts
-  accentcity: Fleurs Jaunes-les Hauts
+  city: "fleurs jaunes-les hauts"
+  accentcity: "Fleurs Jaunes-les Hauts"
 franche terre: 
-  city: franche terre
-  accentcity: Franche Terre
+  city: "franche terre"
+  accentcity: "Franche Terre"
 f. sauger: 
-  city: f. sauger
-  accentcity: F. Sauger
+  city: "f. sauger"
+  accentcity: "F. Sauger"
 gillot: 
-  city: gillot
-  accentcity: Gillot
+  city: "gillot"
+  accentcity: "Gillot"
 girofle: 
-  city: girofle
-  accentcity: Girofle
+  city: "girofle"
+  accentcity: "Girofle"
 gol: 
-  city: gol
+  city: "gol"
   accentcity: "G\xC3\xB4l"
 gol-le haut: 
-  city: gol-le haut
+  city: "gol-le haut"
   accentcity: "G\xC3\xB4l-le Haut"
 grand bassin: 
-  city: grand bassin
-  accentcity: Grand Bassin
+  city: "grand bassin"
+  accentcity: "Grand Bassin"
 grand bois: 
-  city: grand bois
-  accentcity: Grand Bois
+  city: "grand bois"
+  accentcity: "Grand Bois"
 grand coude: 
-  city: grand coude
-  accentcity: Grand Coude
+  city: "grand coude"
+  accentcity: "Grand Coude"
 grande anse: 
-  city: grande anse
-  accentcity: Grande Anse
+  city: "grande anse"
+  accentcity: "Grande Anse"
 grande chaloupe: 
-  city: grande chaloupe
-  accentcity: Grande Chaloupe
+  city: "grande chaloupe"
+  accentcity: "Grande Chaloupe"
 grande place: 
-  city: grande place
-  accentcity: Grande Place
+  city: "grande place"
+  accentcity: "Grande Place"
 grande ravine: 
-  city: grande ravine
-  accentcity: Grande Ravine
+  city: "grande ravine"
+  accentcity: "Grande Ravine"
 grand fond: 
-  city: grand fond
-  accentcity: Grand Fond
+  city: "grand fond"
+  accentcity: "Grand Fond"
 grand fonds: 
-  city: grand fonds
-  accentcity: Grand Fonds
+  city: "grand fonds"
+  accentcity: "Grand Fonds"
 grand galet: 
-  city: grand galet
-  accentcity: Grand Galet
+  city: "grand galet"
+  accentcity: "Grand Galet"
 grand ilet: 
-  city: grand ilet
+  city: "grand ilet"
   accentcity: "Grand \xC3\x8Elet"
 grands bois: 
-  city: grands bois
-  accentcity: Grands Bois
+  city: "grands bois"
+  accentcity: "Grands Bois"
 halte-la: 
-  city: halte-la
-  accentcity: "Halte-l\xC3\xA0"
+  city: "halte-la"
+  accentcity: "Halte-là"
 harmonie: 
-  city: harmonie
-  accentcity: Harmonie
+  city: "harmonie"
+  accentcity: "Harmonie"
 hell-bourg: 
-  city: hell-bourg
-  accentcity: Hell-Bourg
+  city: "hell-bourg"
+  accentcity: "Hell-Bourg"
 hermitage: 
-  city: hermitage
-  accentcity: Hermitage
+  city: "hermitage"
+  accentcity: "Hermitage"
 ilet a cordes: 
-  city: ilet a cordes
-  accentcity: "\xC3\x8Elet \xC3\xA0 Cordes"
+  city: "ilet a cordes"
+  accentcity: "\xC3\x8Elet à Cordes"
 ilet a dejeuner: 
-  city: ilet a dejeuner
-  accentcity: "\xC3\x8Elet \xC3\xA0 Déjeuner"
+  city: "ilet a dejeuner"
+  accentcity: "\xC3\x8Elet à Déjeuner"
 ilet a guillaume: 
-  city: ilet a guillaume
-  accentcity: "\xC3\x8Elet \xC3\xA0 Guillaume"
+  city: "ilet a guillaume"
+  accentcity: "\xC3\x8Elet à Guillaume"
 ilet a malheur: 
-  city: ilet a malheur
-  accentcity: "\xC3\x8Elet \xC3\xA0 Malheur"
+  city: "ilet a malheur"
+  accentcity: "\xC3\x8Elet à Malheur"
 ilet a vidot: 
-  city: ilet a vidot
-  accentcity: "\xC3\x8Elet \xC3\xA0 Vidot"
+  city: "ilet a vidot"
+  accentcity: "\xC3\x8Elet à Vidot"
 ilet bois-rouge: 
-  city: ilet bois-rouge
+  city: "ilet bois-rouge"
   accentcity: "\xC3\x8Elet Bois-Rouge"
 ilet denise: 
-  city: ilet denise
+  city: "ilet denise"
   accentcity: "\xC3\x8Elet Denise"
 ilet de roche plate: 
-  city: ilet de roche plate
+  city: "ilet de roche plate"
   accentcity: "\xC3\x8Elet de Roche Plate"
 ilet des lataniers: 
-  city: ilet des lataniers
+  city: "ilet des lataniers"
   accentcity: "\xC3\x8Elet des Lataniers"
 ilet du palmiste rouge: 
-  city: ilet du palmiste rouge
-  accentcity: Ilet du Palmiste Rouge
+  city: "ilet du palmiste rouge"
+  accentcity: "Ilet du Palmiste Rouge"
 ilet du peter-boot: 
-  city: ilet du peter-boot
+  city: "ilet du peter-boot"
   accentcity: "\xC3\x8Elet du Peter-Boot"
 ilet flamand: 
-  city: ilet flamand
+  city: "ilet flamand"
   accentcity: "\xC3\x8Elet Flamand"
 ilet marron: 
-  city: ilet marron
+  city: "ilet marron"
   accentcity: "\xC3\x8Elet Marron"
 ilet morin: 
-  city: ilet morin
+  city: "ilet morin"
   accentcity: "\xC3\x8Elet Morin"
 ilet nourry: 
-  city: ilet nourry
+  city: "ilet nourry"
   accentcity: "\xC3\x8Elet Nourry"
 ilet ronde: 
-  city: ilet ronde
+  city: "ilet ronde"
   accentcity: "\xC3\x8Elet Ronde"
 ilet solitude: 
-  city: ilet solitude
+  city: "ilet solitude"
   accentcity: "\xC3\x8Elet Solitude"
 ilet techer: 
-  city: ilet techer
+  city: "ilet techer"
   accentcity: "\xC3\x8Elet Techer"
 ilet tommic: 
-  city: ilet tommic
+  city: "ilet tommic"
   accentcity: "\xC3\x8Elet Tommic"
 jacques payet: 
-  city: jacques payet
-  accentcity: Jacques Payet
+  city: "jacques payet"
+  accentcity: "Jacques Payet"
 jean petit: 
-  city: jean petit
-  accentcity: Jean Petit
+  city: "jean petit"
+  accentcity: "Jean Petit"
 jean petit-les bas: 
-  city: jean petit-les bas
-  accentcity: Jean Petit-les Bas
+  city: "jean petit-les bas"
+  accentcity: "Jean Petit-les Bas"
 la bretagne: 
-  city: la bretagne
-  accentcity: La Bretagne
+  city: "la bretagne"
+  accentcity: "La Bretagne"
 la butte: 
-  city: la butte
-  accentcity: La Butte
+  city: "la butte"
+  accentcity: "La Butte"
 la caroline: 
-  city: la caroline
-  accentcity: La Caroline
+  city: "la caroline"
+  accentcity: "La Caroline"
 la chaloupe saint-leu: 
-  city: la chaloupe saint-leu
-  accentcity: La Chaloupe Saint-Leu
+  city: "la chaloupe saint-leu"
+  accentcity: "La Chaloupe Saint-Leu"
 la chatoire: 
-  city: la chatoire
-  accentcity: La Chatoire
+  city: "la chatoire"
+  accentcity: "La Chatoire"
 la crete: 
-  city: la crete
-  accentcity: "La Cr\xC3\xAAte"
+  city: "la crete"
+  accentcity: "La Crête"
 la croix: 
-  city: la croix
-  accentcity: La Croix
+  city: "la croix"
+  accentcity: "La Croix"
 la fontaine: 
-  city: la fontaine
-  accentcity: La Fontaine
+  city: "la fontaine"
+  accentcity: "La Fontaine"
 la fontaine-les hauts: 
-  city: la fontaine-les hauts
-  accentcity: La Fontaine-les Hauts
+  city: "la fontaine-les hauts"
+  accentcity: "La Fontaine-les Hauts"
 la goyave: 
-  city: la goyave
-  accentcity: La Goyave
+  city: "la goyave"
+  accentcity: "La Goyave"
 la grande chaloupe: 
-  city: la grande chaloupe
-  accentcity: La Grande Chaloupe
+  city: "la grande chaloupe"
+  accentcity: "La Grande Chaloupe"
 la grande montee: 
-  city: la grande montee
+  city: "la grande montee"
   accentcity: "La Grande Montée"
 la mare: 
-  city: la mare
-  accentcity: La Mare
+  city: "la mare"
+  accentcity: "La Mare"
 la mare usine: 
-  city: la mare usine
-  accentcity: La Mare Usine
+  city: "la mare usine"
+  accentcity: "La Mare Usine"
 la marine: 
-  city: la marine
-  accentcity: La Marine
+  city: "la marine"
+  accentcity: "La Marine"
 la montagne: 
-  city: la montagne
-  accentcity: La Montagne
+  city: "la montagne"
+  accentcity: "La Montagne"
 langevin: 
-  city: langevin
-  accentcity: Langevin
+  city: "langevin"
+  accentcity: "Langevin"
 la nouvelle: 
-  city: la nouvelle
-  accentcity: La Nouvelle
+  city: "la nouvelle"
+  accentcity: "La Nouvelle"
 la paix: 
-  city: la paix
-  accentcity: La Paix
+  city: "la paix"
+  accentcity: "La Paix"
 la passarelle: 
-  city: la passarelle
-  accentcity: La Passarelle
+  city: "la passarelle"
+  accentcity: "La Passarelle"
 la petite ile: 
-  city: la petite ile
+  city: "la petite ile"
   accentcity: "La Petite \xC3\x8Ele"
 la plaine des cafres: 
-  city: la plaine des cafres
-  accentcity: La Plaine des Cafres
+  city: "la plaine des cafres"
+  accentcity: "La Plaine des Cafres"
 la plaine des palmistes: 
-  city: la plaine des palmistes
-  accentcity: La Plaine des Palmistes
+  city: "la plaine des palmistes"
+  accentcity: "La Plaine des Palmistes"
 la plaine: 
-  city: la plaine
-  accentcity: La Plaine
+  city: "la plaine"
+  accentcity: "La Plaine"
 la point-aux-galets: 
-  city: la point-aux-galets
-  accentcity: La Point-aux-galets
+  city: "la point-aux-galets"
+  accentcity: "La Point-aux-galets"
 la pointe: 
-  city: la pointe
-  accentcity: La Pointe
+  city: "la pointe"
+  accentcity: "La Pointe"
 la possession: 
-  city: la possession
-  accentcity: La Possession
+  city: "la possession"
+  accentcity: "La Possession"
 la providence: 
-  city: la providence
-  accentcity: La Providence
+  city: "la providence"
+  accentcity: "La Providence"
 la renaissance: 
-  city: la renaissance
-  accentcity: La Renaissance
+  city: "la renaissance"
+  accentcity: "La Renaissance"
 la ressource: 
-  city: la ressource
-  accentcity: La Ressource
+  city: "la ressource"
+  accentcity: "La Ressource"
 la riviere des pluies: 
-  city: la riviere des pluies
-  accentcity: "La Rivi\xC3\xA8re des Pluies"
+  city: "la riviere des pluies"
+  accentcity: "La Rivière des Pluies"
 la riviere des roches: 
-  city: la riviere des roches
-  accentcity: "La Rivi\xC3\xA8re des Roches"
+  city: "la riviere des roches"
+  accentcity: "La Rivière des Roches"
 la riviere: 
-  city: la riviere
-  accentcity: "La Rivi\xC3\xA8re"
+  city: "la riviere"
+  accentcity: "La Rivière"
 la saline: 
-  city: la saline
-  accentcity: La Saline
+  city: "la saline"
+  accentcity: "La Saline"
 la saline-les bas: 
-  city: la saline-les bas
-  accentcity: La Saline-les Bas
+  city: "la saline-les bas"
+  accentcity: "La Saline-les Bas"
 la vallee: 
-  city: la vallee
+  city: "la vallee"
   accentcity: "La Vallée"
 la vigne: 
-  city: la vigne
-  accentcity: La Vigne
+  city: "la vigne"
+  accentcity: "La Vigne"
 le barrage: 
-  city: le barrage
-  accentcity: Le Barrage
+  city: "le barrage"
+  accentcity: "Le Barrage"
 le belier: 
-  city: le belier
+  city: "le belier"
   accentcity: "Le Bélier"
 le besave: 
-  city: le besave
+  city: "le besave"
   accentcity: "Le Bésave"
 le bois de nefles: 
-  city: le bois de nefles
-  accentcity: "Le Bois de N\xC3\xA8fles"
+  city: "le bois de nefles"
+  accentcity: "Le Bois de Nèfles"
 le bois d'olive: 
-  city: le bois d'olive
-  accentcity: Le Bois d'Olive
+  city: "le bois d'olive"
+  accentcity: "Le Bois d'Olive"
 le bras creux: 
-  city: le bras creux
-  accentcity: Le Bras Creux
+  city: "le bras creux"
+  accentcity: "Le Bras Creux"
 le brule: 
-  city: le brule
+  city: "le brule"
   accentcity: "Le Br\xC3\xBBlé"
 le butor: 
-  city: le butor
-  accentcity: Le Butor
+  city: "le butor"
+  accentcity: "Le Butor"
 le cap: 
-  city: le cap
-  accentcity: Le Cap
+  city: "le cap"
+  accentcity: "Le Cap"
 le cap-les hauts: 
-  city: le cap-les hauts
-  accentcity: Le Cap-les Hauts
+  city: "le cap-les hauts"
+  accentcity: "Le Cap-les Hauts"
 le cazabois: 
-  city: le cazabois
-  accentcity: Le Cazabois
+  city: "le cazabois"
+  accentcity: "Le Cazabois"
 le chaudron: 
-  city: le chaudron
-  accentcity: Le Chaudron
+  city: "le chaudron"
+  accentcity: "Le Chaudron"
 le coeur saignant: 
-  city: le coeur saignant
-  accentcity: Le Coeur Saignant
+  city: "le coeur saignant"
+  accentcity: "Le Coeur Saignant"
 le colosse: 
-  city: le colosse
-  accentcity: Le Colosse
+  city: "le colosse"
+  accentcity: "Le Colosse"
 le cratere: 
-  city: le cratere
-  accentcity: "Le Crat\xC3\xA8re"
+  city: "le cratere"
+  accentcity: "Le Cratère"
 le delice: 
-  city: le delice
+  city: "le delice"
   accentcity: "Le Délice"
 le diore: 
-  city: le diore
+  city: "le diore"
   accentcity: "Le Dioré"
 le dix-neuvieme: 
-  city: le dix-neuvieme
-  accentcity: "Le Dix-Neuvi\xC3\xA8me"
+  city: "le dix-neuvieme"
+  accentcity: "Le Dix-Neuvième"
 le dix-septieme: 
-  city: le dix-septieme
-  accentcity: "Le Dix-Septi\xC3\xA8me"
+  city: "le dix-septieme"
+  accentcity: "Le Dix-Septième"
 le fond de maurice: 
-  city: le fond de maurice
-  accentcity: Le Fond de Maurice
+  city: "le fond de maurice"
+  accentcity: "Le Fond de Maurice"
 le gol: 
-  city: le gol
+  city: "le gol"
   accentcity: "Le G\xC3\xB4l"
 le goyave: 
-  city: le goyave
-  accentcity: Le Goyave
+  city: "le goyave"
+  accentcity: "Le Goyave"
 le grand galet: 
-  city: le grand galet
-  accentcity: Le Grand Galet
+  city: "le grand galet"
+  accentcity: "Le Grand Galet"
 le guillaume: 
-  city: le guillaume
-  accentcity: Le Guillaume
+  city: "le guillaume"
+  accentcity: "Le Guillaume"
 le lambert: 
-  city: le lambert
-  accentcity: Le Lambert
+  city: "le lambert"
+  accentcity: "Le Lambert"
 le maniron: 
-  city: le maniron
-  accentcity: Le Maniron
+  city: "le maniron"
+  accentcity: "Le Maniron"
 l'entre-deux: 
-  city: l'entre-deux
-  accentcity: L'Entre-Deux
+  city: "l'entre-deux"
+  accentcity: "L'Entre-Deux"
 le onzieme: 
-  city: le onzieme
-  accentcity: "Le Onzi\xC3\xA8me"
+  city: "le onzieme"
+  accentcity: "Le Onzième"
 le ouaki: 
-  city: le ouaki
-  accentcity: Le Ouaki
+  city: "le ouaki"
+  accentcity: "Le Ouaki"
 le patelin: 
-  city: le patelin
-  accentcity: Le Patelin
+  city: "le patelin"
+  accentcity: "Le Patelin"
 le pavillon: 
-  city: le pavillon
-  accentcity: Le Pavillon
+  city: "le pavillon"
+  accentcity: "Le Pavillon"
 l'eperon: 
-  city: l'eperon
+  city: "l'eperon"
   accentcity: "L'\xC3\x89peron"
 le petit brule: 
-  city: le petit brule
+  city: "le petit brule"
   accentcity: "Le Petit Br\xC3\xBBlé"
 le petit tampon: 
-  city: le petit tampon
-  accentcity: Le Petit Tampon
+  city: "le petit tampon"
+  accentcity: "Le Petit Tampon"
 le portail: 
-  city: le portail
-  accentcity: Le Portail
+  city: "le portail"
+  accentcity: "Le Portail"
 le port des galets: 
-  city: le port des galets
-  accentcity: Le Port des Galets
+  city: "le port des galets"
+  accentcity: "Le Port des Galets"
 le port: 
-  city: le port
-  accentcity: Le Port
+  city: "le port"
+  accentcity: "Le Port"
 le pourpier: 
-  city: le pourpier
-  accentcity: Le Pourpier
+  city: "le pourpier"
+  accentcity: "Le Pourpier"
 le quatorzieme: 
-  city: le quatorzieme
-  accentcity: "Le Quatorzi\xC3\xA8me"
+  city: "le quatorzieme"
+  accentcity: "Le Quatorzième"
 le ramier: 
-  city: le ramier
-  accentcity: Le Ramier
+  city: "le ramier"
+  accentcity: "Le Ramier"
 l'ermitage-les bas: 
-  city: l'ermitage-les bas
-  accentcity: L'Ermitage-les Bas
+  city: "l'ermitage-les bas"
+  accentcity: "L'Ermitage-les Bas"
 le rond: 
-  city: le rond
-  accentcity: Le Rond
+  city: "le rond"
+  accentcity: "Le Rond"
 le ruisseau: 
-  city: le ruisseau
-  accentcity: Le Ruisseau
+  city: "le ruisseau"
+  accentcity: "Le Ruisseau"
 les aigrettes: 
-  city: les aigrettes
-  accentcity: Les Aigrettes
+  city: "les aigrettes"
+  accentcity: "Les Aigrettes"
 les avirons: 
-  city: les avirons
-  accentcity: Les Avirons
+  city: "les avirons"
+  accentcity: "Les Avirons"
 l'escalier: 
-  city: l'escalier
-  accentcity: L'Escalier
+  city: "l'escalier"
+  accentcity: "L'Escalier"
 les camelias: 
-  city: les camelias
+  city: "les camelias"
   accentcity: "Les Camélias"
 les canots: 
-  city: les canots
-  accentcity: Les Canots
+  city: "les canots"
+  accentcity: "Les Canots"
 les chicots: 
-  city: les chicots
-  accentcity: Les Chicots
+  city: "les chicots"
+  accentcity: "Les Chicots"
 les cocos: 
-  city: les cocos
-  accentcity: Les Cocos
+  city: "les cocos"
+  accentcity: "Les Cocos"
 les colimacons: 
-  city: les colimacons
-  accentcity: "Les Colima\xC3\xA7ons"
+  city: "les colimacons"
+  accentcity: "Les Colimaçons"
 les deux bras: 
-  city: les deux bras
-  accentcity: Les Deux Bras
+  city: "les deux bras"
+  accentcity: "Les Deux Bras"
 les jacques: 
-  city: les jacques
-  accentcity: Les Jacques
+  city: "les jacques"
+  accentcity: "Les Jacques"
 les lianes: 
-  city: les lianes
-  accentcity: Les Lianes
+  city: "les lianes"
+  accentcity: "Les Lianes"
 les orangers: 
-  city: les orangers
-  accentcity: Les Orangers
+  city: "les orangers"
+  accentcity: "Les Orangers"
 les quatre-cents: 
-  city: les quatre-cents
-  accentcity: Les Quatre-Cents
+  city: "les quatre-cents"
+  accentcity: "Les Quatre-Cents"
 les sables blancs: 
-  city: les sables blancs
-  accentcity: Les Sables Blancs
+  city: "les sables blancs"
+  accentcity: "Les Sables Blancs"
 les six-cents: 
-  city: les six-cents
-  accentcity: Les Six-Cents
+  city: "les six-cents"
+  accentcity: "Les Six-Cents"
 les trois-bassins: 
-  city: les trois-bassins
-  accentcity: Les Trois-Bassins
+  city: "les trois-bassins"
+  accentcity: "Les Trois-Bassins"
 les trois freres: 
-  city: les trois freres
-  accentcity: "Les Trois Fr\xC3\xA8res"
+  city: "les trois freres"
+  accentcity: "Les Trois Frères"
 les trois mares: 
-  city: les trois mares
-  accentcity: Les Trois Mares
+  city: "les trois mares"
+  accentcity: "Les Trois Mares"
 les vacoas: 
-  city: les vacoas
-  accentcity: Les Vacoas
+  city: "les vacoas"
+  accentcity: "Les Vacoas"
 le tampon: 
-  city: le tampon
-  accentcity: Le Tampon
+  city: "le tampon"
+  accentcity: "Le Tampon"
 l'etang: 
-  city: l'etang
+  city: "l'etang"
   accentcity: "L'\xC3\x89tang"
 l'etang-sale: 
-  city: l'etang-sale
+  city: "l'etang-sale"
   accentcity: "L'\xC3\x89tang-Salé"
 le tevelave: 
-  city: le tevelave
+  city: "le tevelave"
   accentcity: "Le Tévelave"
 le titan: 
-  city: le titan
-  accentcity: Le Titan
+  city: "le titan"
+  accentcity: "Le Titan"
 le waki: 
-  city: le waki
-  accentcity: Le Waki
+  city: "le waki"
+  accentcity: "Le Waki"
 l'hermitage-les bas: 
-  city: l'hermitage-les bas
-  accentcity: L'Hermitage-les Bas
+  city: "l'hermitage-les bas"
+  accentcity: "L'Hermitage-les Bas"
 l'hermitage: 
-  city: l'hermitage
-  accentcity: L'Hermitage
+  city: "l'hermitage"
+  accentcity: "L'Hermitage"
 ligne des bambous: 
-  city: ligne des bambous
-  accentcity: Ligne des Bambous
+  city: "ligne des bambous"
+  accentcity: "Ligne des Bambous"
 l'ilet aux palmistes: 
-  city: l'ilet aux palmistes
+  city: "l'ilet aux palmistes"
   accentcity: "L'\xC3\x8Elet aux Palmistes"
 l'ilet: 
-  city: l'ilet
+  city: "l'ilet"
   accentcity: "L'\xC3\x8Elet"
 l'oasis: 
-  city: l'oasis
-  accentcity: L'Oasis
+  city: "l'oasis"
+  accentcity: "L'Oasis"
 mafatte: 
-  city: mafatte
-  accentcity: Mafatte
+  city: "mafatte"
+  accentcity: "Mafatte"
 mahavel: 
-  city: mahavel
-  accentcity: Mahavel
+  city: "mahavel"
+  accentcity: "Mahavel"
 maison de l'enfance: 
-  city: maison de l'enfance
-  accentcity: Maison de l'Enfance
+  city: "maison de l'enfance"
+  accentcity: "Maison de l'Enfance"
 maison henou: 
-  city: maison henou
-  accentcity: Maison Henou
+  city: "maison henou"
+  accentcity: "Maison Henou"
 maison isautier: 
-  city: maison isautier
-  accentcity: Maison Isautier
+  city: "maison isautier"
+  accentcity: "Maison Isautier"
 maison james biget: 
-  city: maison james biget
-  accentcity: Maison James Biget
+  city: "maison james biget"
+  accentcity: "Maison James Biget"
 maison lelievre: 
-  city: maison lelievre
-  accentcity: "Maison Leli\xC3\xA8vre"
+  city: "maison lelievre"
+  accentcity: "Maison Lelièvre"
 maison leroux: 
-  city: maison leroux
-  accentcity: Maison Leroux
+  city: "maison leroux"
+  accentcity: "Maison Leroux"
 maison moullan: 
-  city: maison moullan
-  accentcity: Maison Moullan
+  city: "maison moullan"
+  accentcity: "Maison Moullan"
 maison payet: 
-  city: maison payet
-  accentcity: Maison Payet
+  city: "maison payet"
+  accentcity: "Maison Payet"
 maison rouge: 
-  city: maison rouge
-  accentcity: Maison Rouge
+  city: "maison rouge"
+  accentcity: "Maison Rouge"
 makes: 
-  city: makes
-  accentcity: Makes
+  city: "makes"
+  accentcity: "Makes"
 manapany-les bains: 
-  city: manapany-les bains
-  accentcity: Manapany-les Bains
+  city: "manapany-les bains"
+  accentcity: "Manapany-les Bains"
 manapany-les hauts: 
-  city: manapany-les hauts
-  accentcity: Manapany-les Hauts
+  city: "manapany-les hauts"
+  accentcity: "Manapany-les Hauts"
 manapany: 
-  city: manapany
-  accentcity: Manapany
+  city: "manapany"
+  accentcity: "Manapany"
 ma pensee: 
-  city: ma pensee
+  city: "ma pensee"
   accentcity: "Ma Pensée"
 mare a citrons: 
-  city: mare a citrons
-  accentcity: "Mare \xC3\xA0 Citrons"
+  city: "mare a citrons"
+  accentcity: "Mare à Citrons"
 mare a vieille place: 
-  city: mare a vieille place
-  accentcity: "Mare \xC3\xA0 Vieille Place"
+  city: "mare a vieille place"
+  accentcity: "Mare à Vieille Place"
 mare longue: 
-  city: mare longue
-  accentcity: Mare Longue
+  city: "mare longue"
+  accentcity: "Mare Longue"
 mare: 
-  city: mare
-  accentcity: Mare
+  city: "mare"
+  accentcity: "Mare"
 marepine: 
-  city: marepine
-  accentcity: Marepine
+  city: "marepine"
+  accentcity: "Marepine"
 matouta: 
-  city: matouta
-  accentcity: Matouta
+  city: "matouta"
+  accentcity: "Matouta"
 menciol: 
-  city: menciol
-  accentcity: Menciol
+  city: "menciol"
+  accentcity: "Menciol"
 m. lamotte: 
-  city: m. lamotte
-  accentcity: M. Lamotte
+  city: "m. lamotte"
+  accentcity: "M. Lamotte"
 moka: 
-  city: moka
-  accentcity: Moka
+  city: "moka"
+  accentcity: "Moka"
 mon caprice: 
-  city: mon caprice
-  accentcity: Mon Caprice
+  city: "mon caprice"
+  accentcity: "Mon Caprice"
 monrepos: 
-  city: monrepos
-  accentcity: Monrepos
+  city: "monrepos"
+  accentcity: "Monrepos"
 montagne: 
-  city: montagne
-  accentcity: Montagne
+  city: "montagne"
+  accentcity: "Montagne"
 montvert-les bas: 
-  city: montvert-les bas
-  accentcity: Montvert-les Bas
+  city: "montvert-les bas"
+  accentcity: "Montvert-les Bas"
 montvert-les hauts: 
-  city: montvert-les hauts
-  accentcity: Montvert-les Hauts
+  city: "montvert-les hauts"
+  accentcity: "Montvert-les Hauts"
 montvert: 
-  city: montvert
-  accentcity: Montvert
+  city: "montvert"
+  accentcity: "Montvert"
 morange: 
-  city: morange
-  accentcity: Morange
+  city: "morange"
+  accentcity: "Morange"
 noel: 
-  city: noel
-  accentcity: "No\xC3\xABl"
+  city: "noel"
+  accentcity: "Noël"
 orne: 
-  city: orne
-  accentcity: Orne
+  city: "orne"
+  accentcity: "Orne"
 orre: 
-  city: orre
+  city: "orre"
   accentcity: "Orré"
 orres: 
-  city: orres
-  accentcity: Orres
+  city: "orres"
+  accentcity: "Orres"
 palmistes rouges: 
-  city: palmistes rouges
-  accentcity: Palmistes Rouges
+  city: "palmistes rouges"
+  accentcity: "Palmistes Rouges"
 pavillon: 
-  city: pavillon
-  accentcity: Pavillon
+  city: "pavillon"
+  accentcity: "Pavillon"
 peter-boot: 
-  city: peter-boot
-  accentcity: Peter-boot
+  city: "peter-boot"
+  accentcity: "Peter-boot"
 petit bazar: 
-  city: petit bazar
-  accentcity: Petit Bazar
+  city: "petit bazar"
+  accentcity: "Petit Bazar"
 petite ile: 
-  city: petite ile
+  city: "petite ile"
   accentcity: "Petite \xC3\x8Ele"
 petite ravine: 
-  city: petite ravine
-  accentcity: Petite Ravine
+  city: "petite ravine"
+  accentcity: "Petite Ravine"
 petit sable: 
-  city: petit sable
-  accentcity: Petit Sable
+  city: "petit sable"
+  accentcity: "Petit Sable"
 petit saint-pierre: 
-  city: petit saint-pierre
-  accentcity: Petit Saint-Pierre
+  city: "petit saint-pierre"
+  accentcity: "Petit Saint-Pierre"
 petit serre: 
-  city: petit serre
+  city: "petit serre"
   accentcity: "Petit Serré"
 pichete: 
-  city: pichete
-  accentcity: "Pich\xC3\xA8te"
+  city: "pichete"
+  accentcity: "Pichète"
 pierrefonds: 
-  city: pierrefonds
-  accentcity: Pierrefonds
+  city: "pierrefonds"
+  accentcity: "Pierrefonds"
 pierrefonds usine: 
-  city: pierrefonds usine
-  accentcity: Pierrefonds Usine
+  city: "pierrefonds usine"
+  accentcity: "Pierrefonds Usine"
 piton: 
-  city: piton
-  accentcity: Piton
+  city: "piton"
+  accentcity: "Piton"
 piton sainte-rose: 
-  city: piton sainte-rose
-  accentcity: Piton Sainte-Rose
+  city: "piton sainte-rose"
+  accentcity: "Piton Sainte-Rose"
 plaine des gregues: 
-  city: plaine des gregues
-  accentcity: "Plaine des Gr\xC3\xA8gues"
+  city: "plaine des gregues"
+  accentcity: "Plaine des Grègues"
 plaine des palmistes: 
-  city: plaine des palmistes
-  accentcity: Plaine des Palmistes
+  city: "plaine des palmistes"
+  accentcity: "Plaine des Palmistes"
 plate: 
-  city: plate
-  accentcity: Plate
+  city: "plate"
+  accentcity: "Plate"
 pont dives: 
-  city: pont dives
-  accentcity: Pont Dives
+  city: "pont dives"
+  accentcity: "Pont Dives"
 portail: 
-  city: portail
-  accentcity: Portail
+  city: "portail"
+  accentcity: "Portail"
 port de la pointe des galets: 
-  city: port de la pointe des galets
-  accentcity: Port de la Pointe des Galets
+  city: "port de la pointe des galets"
+  accentcity: "Port de la Pointe des Galets"
 port des galets: 
-  city: port des galets
-  accentcity: Port des Galets
+  city: "port des galets"
+  accentcity: "Port des Galets"
 port: 
-  city: port
-  accentcity: Port
+  city: "port"
+  accentcity: "Port"
 possession: 
-  city: possession
-  accentcity: Possession
+  city: "possession"
+  accentcity: "Possession"
 quartier-francais: 
-  city: quartier-francais
-  accentcity: "Quartier-Fran\xC3\xA7ais"
+  city: "quartier-francais"
+  accentcity: "Quartier-Français"
 ravine a malheur: 
-  city: ravine a malheur
-  accentcity: "Ravine \xC3\xA0 Malheur"
+  city: "ravine a malheur"
+  accentcity: "Ravine à Malheur"
 ravine a marquet: 
-  city: ravine a marquet
-  accentcity: "Ravine \xC3\xA0 Marquet"
+  city: "ravine a marquet"
+  accentcity: "Ravine à Marquet"
 ravine blanche: 
-  city: ravine blanche
-  accentcity: Ravine Blanche
+  city: "ravine blanche"
+  accentcity: "Ravine Blanche"
 ravine creuse: 
-  city: ravine creuse
-  accentcity: Ravine Creuse
+  city: "ravine creuse"
+  accentcity: "Ravine Creuse"
 ravine d'ango: 
-  city: ravine d'ango
-  accentcity: Ravine d'Ango
+  city: "ravine d'ango"
+  accentcity: "Ravine d'Ango"
 ravine des cabris: 
-  city: ravine des cabris
-  accentcity: Ravine des Cabris
+  city: "ravine des cabris"
+  accentcity: "Ravine des Cabris"
 ravine des cafres-les bas: 
-  city: ravine des cafres-les bas
-  accentcity: Ravine des Cafres-les Bas
+  city: "ravine des cafres-les bas"
+  accentcity: "Ravine des Cafres-les Bas"
 ravine des cafres-les hauts: 
-  city: ravine des cafres-les hauts
-  accentcity: Ravine des Cafres-les Hauts
+  city: "ravine des cafres-les hauts"
+  accentcity: "Ravine des Cafres-les Hauts"
 ravine des chevres-les hauts: 
-  city: ravine des chevres-les hauts
-  accentcity: "Ravine des Ch\xC3\xA8vres-les Hauts"
+  city: "ravine des chevres-les hauts"
+  accentcity: "Ravine des Chèvres-les Hauts"
 ravine des chevres: 
-  city: ravine des chevres
-  accentcity: "Ravine des Ch\xC3\xA8vres"
+  city: "ravine des chevres"
+  accentcity: "Ravine des Chèvres"
 ravine du mat les bas: 
-  city: ravine du mat les bas
+  city: "ravine du mat les bas"
   accentcity: "Ravine du M\xC3\xA2t les Bas"
 ravine du pont-les bas: 
-  city: ravine du pont-les bas
-  accentcity: Ravine du Pont-les Bas
+  city: "ravine du pont-les bas"
+  accentcity: "Ravine du Pont-les Bas"
 ravine du pont: 
-  city: ravine du pont
-  accentcity: Ravine du Pont
+  city: "ravine du pont"
+  accentcity: "Ravine du Pont"
 ravine glissante: 
-  city: ravine glissante
-  accentcity: Ravine Glissante
+  city: "ravine glissante"
+  accentcity: "Ravine Glissante"
 ravine martin: 
-  city: ravine martin
-  accentcity: Ravine Martin
+  city: "ravine martin"
+  accentcity: "Ravine Martin"
 ravine seche: 
-  city: ravine seche
-  accentcity: "Ravine S\xC3\xA8che"
+  city: "ravine seche"
+  accentcity: "Ravine Sèche"
 renaissance: 
-  city: renaissance
-  accentcity: Renaissance
+  city: "renaissance"
+  accentcity: "Renaissance"
 repuissance: 
-  city: repuissance
-  accentcity: Repuissance
+  city: "repuissance"
+  accentcity: "Repuissance"
 ressource: 
-  city: ressource
-  accentcity: Ressource
+  city: "ressource"
+  accentcity: "Ressource"
 reunion: 
-  city: reunion
+  city: "reunion"
   accentcity: "Réunion"
 revolution: 
-  city: revolution
+  city: "revolution"
   accentcity: "Révolution"
 riviere de l'est: 
-  city: riviere de l'est
-  accentcity: "Rivi\xC3\xA8re de l'Est"
+  city: "riviere de l'est"
+  accentcity: "Rivière de l'Est"
 riviere des pluies: 
-  city: riviere des pluies
-  accentcity: "Rivi\xC3\xA8re des Pluies"
+  city: "riviere des pluies"
+  accentcity: "Rivière des Pluies"
 riviere du mat-les bas: 
-  city: riviere du mat-les bas
-  accentcity: "Rivi\xC3\xA8re du M\xC3\xA2t-les Bas"
+  city: "riviere du mat-les bas"
+  accentcity: "Rivière du M\xC3\xA2t-les Bas"
 riviere du mat-les hauts: 
-  city: riviere du mat-les hauts
-  accentcity: "Rivi\xC3\xA8re du M\xC3\xA2t-les Hauts"
+  city: "riviere du mat-les hauts"
+  accentcity: "Rivière du M\xC3\xA2t-les Hauts"
 riviere du mat: 
-  city: riviere du mat
-  accentcity: "Rivi\xC3\xA8re du M\xC3\xA2t"
+  city: "riviere du mat"
+  accentcity: "Rivière du M\xC3\xA2t"
 riviere du mat usine: 
-  city: riviere du mat usine
-  accentcity: "Rivi\xC3\xA8re du M\xC3\xA2t Usine"
+  city: "riviere du mat usine"
+  accentcity: "Rivière du M\xC3\xA2t Usine"
 riviere du rempart: 
-  city: riviere du rempart
-  accentcity: "Rivi\xC3\xA8re du Rempart"
+  city: "riviere du rempart"
+  accentcity: "Rivière du Rempart"
 riviere: 
-  city: riviere
-  accentcity: "Rivi\xC3\xA8re"
+  city: "riviere"
+  accentcity: "Rivière"
 riviere saint-pierre: 
-  city: riviere saint-pierre
-  accentcity: "Rivi\xC3\xA8re Saint-Pierre"
+  city: "riviere saint-pierre"
+  accentcity: "Rivière Saint-Pierre"
 rivieres: 
-  city: rivieres
-  accentcity: "Rivi\xC3\xA8res"
+  city: "rivieres"
+  accentcity: "Rivières"
 roche maigre: 
-  city: roche maigre
-  accentcity: Roche Maigre
+  city: "roche maigre"
+  accentcity: "Roche Maigre"
 roche plate: 
-  city: roche plate
-  accentcity: Roche Plate
+  city: "roche plate"
+  accentcity: "Roche Plate"
 ruisseau: 
-  city: ruisseau
-  accentcity: Ruisseau
+  city: "ruisseau"
+  accentcity: "Ruisseau"
 saint-andre: 
-  city: saint-andre
+  city: "saint-andre"
   accentcity: "Saint-André"
 saint-benoit: 
-  city: saint-benoit
+  city: "saint-benoit"
   accentcity: "Saint-Beno\xC3\xAEt"
 saint-bernard: 
-  city: saint-bernard
-  accentcity: Saint-Bernard
+  city: "saint-bernard"
+  accentcity: "Saint-Bernard"
 saint-denis: 
-  city: saint-denis
-  accentcity: Saint-Denis
+  city: "saint-denis"
+  accentcity: "Saint-Denis"
 sainte-anne-les hauts: 
-  city: sainte-anne-les hauts
-  accentcity: Sainte-Anne-les Hauts
+  city: "sainte-anne-les hauts"
+  accentcity: "Sainte-Anne-les Hauts"
 sainte-anne: 
-  city: sainte-anne
-  accentcity: Sainte-Anne
+  city: "sainte-anne"
+  accentcity: "Sainte-Anne"
 sainte-clotilde: 
-  city: sainte-clotilde
-  accentcity: Sainte-Clotilde
+  city: "sainte-clotilde"
+  accentcity: "Sainte-Clotilde"
 sainte-marie: 
-  city: sainte-marie
-  accentcity: Sainte-Marie
+  city: "sainte-marie"
+  accentcity: "Sainte-Marie"
 sainte-rose: 
-  city: sainte-rose
-  accentcity: Sainte-Rose
+  city: "sainte-rose"
+  accentcity: "Sainte-Rose"
 sainte-suzanne: 
-  city: sainte-suzanne
-  accentcity: Sainte-Suzanne
+  city: "sainte-suzanne"
+  accentcity: "Sainte-Suzanne"
 sainte-therese: 
-  city: sainte-therese
-  accentcity: "Sainte-Thér\xC3\xA8se"
+  city: "sainte-therese"
+  accentcity: "Sainte-Thérèse"
 saint-francois: 
-  city: saint-francois
-  accentcity: "Saint-Fran\xC3\xA7ois"
+  city: "saint-francois"
+  accentcity: "Saint-François"
 saint-gilles-les bains: 
-  city: saint-gilles-les bains
-  accentcity: Saint-Gilles-les Bains
+  city: "saint-gilles-les bains"
+  accentcity: "Saint-Gilles-les Bains"
 saint-gilles-les hauts: 
-  city: saint-gilles-les hauts
-  accentcity: Saint-Gilles-les Hauts
+  city: "saint-gilles-les hauts"
+  accentcity: "Saint-Gilles-les Hauts"
 saint gilles: 
-  city: saint gilles
-  accentcity: Saint Gilles
+  city: "saint gilles"
+  accentcity: "Saint Gilles"
 saint-joseph: 
-  city: saint-joseph
-  accentcity: Saint-Joseph
+  city: "saint-joseph"
+  accentcity: "Saint-Joseph"
 saint-leu: 
-  city: saint-leu
-  accentcity: Saint-Leu
+  city: "saint-leu"
+  accentcity: "Saint-Leu"
 saint-louis: 
-  city: saint-louis
-  accentcity: Saint-Louis
+  city: "saint-louis"
+  accentcity: "Saint-Louis"
 saint-paul: 
-  city: saint-paul
-  accentcity: Saint-Paul
+  city: "saint-paul"
+  accentcity: "Saint-Paul"
 saint-philippe: 
-  city: saint-philippe
-  accentcity: Saint-Philippe
+  city: "saint-philippe"
+  accentcity: "Saint-Philippe"
 saint phillippe: 
-  city: saint phillippe
-  accentcity: Saint Phillippe
+  city: "saint phillippe"
+  accentcity: "Saint Phillippe"
 saint-pierre: 
-  city: saint-pierre
-  accentcity: Saint-Pierre
+  city: "saint-pierre"
+  accentcity: "Saint-Pierre"
 salazie: 
-  city: salazie
-  accentcity: Salazie
+  city: "salazie"
+  accentcity: "Salazie"
 salazie village: 
-  city: salazie village
-  accentcity: Salazie Village
+  city: "salazie village"
+  accentcity: "Salazie Village"
 saline-les hauts: 
-  city: saline-les hauts
-  accentcity: Saline-les Hauts
+  city: "saline-les hauts"
+  accentcity: "Saline-les Hauts"
 saline: 
-  city: saline
-  accentcity: Saline
+  city: "saline"
+  accentcity: "Saline"
 savannah: 
-  city: savannah
-  accentcity: Savannah
+  city: "savannah"
+  accentcity: "Savannah"
 savannah usine: 
-  city: savannah usine
-  accentcity: Savannah Usine
+  city: "savannah usine"
+  accentcity: "Savannah Usine"
 semaines: 
-  city: semaines
-  accentcity: Semaines
+  city: "semaines"
+  accentcity: "Semaines"
 six cents: 
-  city: six cents
-  accentcity: Six Cents
+  city: "six cents"
+  accentcity: "Six Cents"
 sous les bois noirs: 
-  city: sous les bois noirs
-  accentcity: Sous les Bois Noirs
+  city: "sous les bois noirs"
+  accentcity: "Sous les Bois Noirs"
 stella matutina: 
-  city: stella matutina
-  accentcity: Stella Matutina
+  city: "stella matutina"
+  accentcity: "Stella Matutina"
 stella: 
-  city: stella
-  accentcity: Stella
+  city: "stella"
+  accentcity: "Stella"
 surprise: 
-  city: surprise
-  accentcity: Surprise
+  city: "surprise"
+  accentcity: "Surprise"
 takamaka: 
-  city: takamaka
-  accentcity: Takamaka
+  city: "takamaka"
+  accentcity: "Takamaka"
 tampon: 
-  city: tampon
-  accentcity: Tampon
+  city: "tampon"
+  accentcity: "Tampon"
 terre rouge: 
-  city: terre rouge
-  accentcity: Terre Rouge
+  city: "terre rouge"
+  accentcity: "Terre Rouge"
 terre sainte: 
-  city: terre sainte
-  accentcity: Terre Sainte
+  city: "terre sainte"
+  accentcity: "Terre Sainte"
 tremblet: 
-  city: tremblet
-  accentcity: Tremblet
+  city: "tremblet"
+  accentcity: "Tremblet"
 trinite: 
-  city: trinite
+  city: "trinite"
   accentcity: "Trinité"
 trois bassins: 
-  city: trois bassins
-  accentcity: Trois Bassins
+  city: "trois bassins"
+  accentcity: "Trois Bassins"
 trois mares-les hauts: 
-  city: trois mares-les hauts
-  accentcity: Trois Mares-les Hauts
+  city: "trois mares-les hauts"
+  accentcity: "Trois Mares-les Hauts"
 union: 
-  city: union
-  accentcity: Union
+  city: "union"
+  accentcity: "Union"
 usine du gol: 
-  city: usine du gol
-  accentcity: Usine du Gol
+  city: "usine du gol"
+  accentcity: "Usine du Gol"
 vacoas: 
-  city: vacoas
-  accentcity: Vacoas
+  city: "vacoas"
+  accentcity: "Vacoas"
 vallee orre: 
-  city: vallee orre
+  city: "vallee orre"
   accentcity: "Vallée Orré"
 verger hemery: 
-  city: verger hemery
-  accentcity: Verger Hemery
+  city: "verger hemery"
+  accentcity: "Verger Hemery"
 village de l'anse: 
-  city: village de l'anse
-  accentcity: Village de l'Anse
+  city: "village de l'anse"
+  accentcity: "Village de l'Anse"
 village de la petite ile: 
-  city: village de la petite ile
-  accentcity: Village de la Petite Ile
+  city: "village de la petite ile"
+  accentcity: "Village de la Petite Ile"
 village de montvert: 
-  city: village de montvert
-  accentcity: Village de Montvert
+  city: "village de montvert"
+  accentcity: "Village de Montvert"
 village du piton: 
-  city: village du piton
-  accentcity: Village du Piton
+  city: "village du piton"
+  accentcity: "Village du Piton"
 village du tampon: 
-  city: village du tampon
-  accentcity: Village du Tampon
+  city: "village du tampon"
+  accentcity: "Village du Tampon"
 village ravine du pont: 
-  city: village ravine du pont
-  accentcity: Village Ravine du Pont
+  city: "village ravine du pont"
+  accentcity: "Village Ravine du Pont"
 village sainte anne: 
-  city: village sainte anne
-  accentcity: Village Sainte Anne
+  city: "village sainte anne"
+  accentcity: "Village Sainte Anne"
 vincendo: 
-  city: vincendo
-  accentcity: Vincendo
+  city: "vincendo"
+  accentcity: "Vincendo"
 vue belle: 
-  city: vue belle
-  accentcity: Vue Belle
+  city: "vue belle"
+  accentcity: "Vue Belle"

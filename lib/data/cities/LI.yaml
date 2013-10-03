@@ -1,128 +1,128 @@
 # encoding: UTF-8
 --- 
 balzers: 
-  city: balzers
-  accentcity: Balzers
+  city: "balzers"
+  accentcity: "Balzers"
 bendern: 
-  city: bendern
-  accentcity: Bendern
+  city: "bendern"
+  accentcity: "Bendern"
 blanken: 
-  city: blanken
-  accentcity: Blanken
+  city: "blanken"
+  accentcity: "Blanken"
 ebaholz: 
-  city: ebaholz
-  accentcity: Ebaholz
+  city: "ebaholz"
+  accentcity: "Ebaholz"
 ebenholz: 
-  city: ebenholz
-  accentcity: Ebenholz
+  city: "ebenholz"
+  accentcity: "Ebenholz"
 eschen: 
-  city: eschen
-  accentcity: Eschen
+  city: "eschen"
+  accentcity: "Eschen"
 gaflei: 
-  city: gaflei
-  accentcity: Gaflei
+  city: "gaflei"
+  accentcity: "Gaflei"
 gambrin: 
-  city: gambrin
-  accentcity: Gambrin
+  city: "gambrin"
+  accentcity: "Gambrin"
 gamprin-bendern: 
-  city: gamprin-bendern
-  accentcity: Gamprin-Bendern
+  city: "gamprin-bendern"
+  accentcity: "Gamprin-Bendern"
 gamprin: 
-  city: gamprin
-  accentcity: Gamprin
+  city: "gamprin"
+  accentcity: "Gamprin"
 hinterer schellenberg: 
-  city: hinterer schellenberg
-  accentcity: Hinterer Schellenberg
+  city: "hinterer schellenberg"
+  accentcity: "Hinterer Schellenberg"
 hinterschellenberg: 
-  city: hinterschellenberg
-  accentcity: Hinterschellenberg
+  city: "hinterschellenberg"
+  accentcity: "Hinterschellenberg"
 hinter-schellenberg: 
-  city: hinter-schellenberg
-  accentcity: Hinter-Schellenberg
+  city: "hinter-schellenberg"
+  accentcity: "Hinter-Schellenberg"
 mals: 
-  city: mals
+  city: "mals"
   accentcity: "M\xC3\xA4ls"
 masescha: 
-  city: masescha
-  accentcity: Masescha
+  city: "masescha"
+  accentcity: "Masescha"
 mauern: 
-  city: mauern
-  accentcity: Mauern
+  city: "mauern"
+  accentcity: "Mauern"
 mauren: 
-  city: mauren
-  accentcity: Mauren
+  city: "mauren"
+  accentcity: "Mauren"
 mittlerer schellenberg: 
-  city: mittlerer schellenberg
-  accentcity: Mittlerer Schellenberg
+  city: "mittlerer schellenberg"
+  accentcity: "Mittlerer Schellenberg"
 mittlerschellenberg: 
-  city: mittlerschellenberg
-  accentcity: Mittlerschellenberg
+  city: "mittlerschellenberg"
+  accentcity: "Mittlerschellenberg"
 mittler-schellenberg: 
-  city: mittler-schellenberg
-  accentcity: Mittler-Schellenberg
+  city: "mittler-schellenberg"
+  accentcity: "Mittler-Schellenberg"
 moliholz: 
-  city: moliholz
+  city: "moliholz"
   accentcity: "M\xC3\xB6liholz"
 muhleholz: 
-  city: muhleholz
+  city: "muhleholz"
   accentcity: "M\xC3\xBChleholz"
 nendeln: 
-  city: nendeln
-  accentcity: Nendeln
+  city: "nendeln"
+  accentcity: "Nendeln"
 planken: 
-  city: planken
-  accentcity: Planken
+  city: "planken"
+  accentcity: "Planken"
 rotaboda: 
-  city: rotaboda
-  accentcity: Rotaboda
+  city: "rotaboda"
+  accentcity: "Rotaboda"
 rotenboden: 
-  city: rotenboden
-  accentcity: Rotenboden
+  city: "rotenboden"
+  accentcity: "Rotenboden"
 rugell: 
-  city: rugell
-  accentcity: Rugell
+  city: "rugell"
+  accentcity: "Rugell"
 ruggell: 
-  city: ruggell
-  accentcity: Ruggell
+  city: "ruggell"
+  accentcity: "Ruggell"
 schaan: 
-  city: schaan
-  accentcity: Schaan
+  city: "schaan"
+  accentcity: "Schaan"
 schaanwald: 
-  city: schaanwald
-  accentcity: Schaanwald
+  city: "schaanwald"
+  accentcity: "Schaanwald"
 schan: 
-  city: schan
-  accentcity: Schan
+  city: "schan"
+  accentcity: "Schan"
 schellenberg: 
-  city: schellenberg
-  accentcity: Schellenberg
+  city: "schellenberg"
+  accentcity: "Schellenberg"
 silum: 
-  city: silum
-  accentcity: Silum
+  city: "silum"
+  accentcity: "Silum"
 sucka: 
-  city: sucka
+  city: "sucka"
   accentcity: "S\xC3\xBCcka"
 triesenberg: 
-  city: triesenberg
-  accentcity: Triesenberg
+  city: "triesenberg"
+  accentcity: "Triesenberg"
 triesen: 
-  city: triesen
-  accentcity: Triesen
+  city: "triesen"
+  accentcity: "Triesen"
 vaduz: 
-  city: vaduz
-  accentcity: Vaduz
+  city: "vaduz"
+  accentcity: "Vaduz"
 vorderer schellenberg: 
-  city: vorderer schellenberg
-  accentcity: Vorderer Schellenberg
+  city: "vorderer schellenberg"
+  accentcity: "Vorderer Schellenberg"
 vorderschellenberg: 
-  city: vorderschellenberg
-  accentcity: Vorderschellenberg
+  city: "vorderschellenberg"
+  accentcity: "Vorderschellenberg"
 vorder-schellenberg: 
-  city: vorder-schellenberg
-  accentcity: Vorder-Schellenberg
+  city: "vorder-schellenberg"
+  accentcity: "Vorder-Schellenberg"
 wangerbarg: 
-  city: wangerbarg
+  city: "wangerbarg"
   accentcity: "Wangerb\xC3\xA4rg"
 wangerberg: 
-  city: wangerberg
-  accentcity: Wangerberg
+  city: "wangerberg"
+  accentcity: "Wangerberg"

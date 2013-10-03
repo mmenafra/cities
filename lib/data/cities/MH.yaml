@@ -1,20 +1,20 @@
 # encoding: UTF-8
 --- 
 ine: 
-  city: ine
-  accentcity: Ine
+  city: "ine"
+  accentcity: "Ine"
 jabooru: 
-  city: jabooru
-  accentcity: Jabooru
+  city: "jabooru"
+  accentcity: "Jabooru"
 jabor: 
-  city: jabor
-  accentcity: Jabor
+  city: "jabor"
+  accentcity: "Jabor"
 jaboru: 
-  city: jaboru
-  accentcity: Jaboru
+  city: "jaboru"
+  accentcity: "Jaboru"
 jabwor: 
-  city: jabwor
-  accentcity: Jabwor
+  city: "jabwor"
+  accentcity: "Jabwor"
 majuro: 
-  city: majuro
-  accentcity: Majuro
+  city: "majuro"
+  accentcity: "Majuro"

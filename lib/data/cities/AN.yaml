@@ -1,810 +1,810 @@
 # encoding: UTF-8
 --- 
 ararat: 
-  city: ararat
-  accentcity: Ararat
+  city: "ararat"
+  accentcity: "Ararat"
 australie: 
-  city: australie
-  accentcity: Australie
+  city: "australie"
+  accentcity: "Australie"
 barber: 
-  city: barber
-  accentcity: Barber
+  city: "barber"
+  accentcity: "Barber"
 bau seroe: 
-  city: bau seroe
-  accentcity: Bau Seroe
+  city: "bau seroe"
+  accentcity: "Bau Seroe"
 bella vista: 
-  city: bella vista
-  accentcity: Bella Vista
+  city: "bella vista"
+  accentcity: "Bella Vista"
 bel nem: 
-  city: bel nem
-  accentcity: Bel Nem
+  city: "bel nem"
+  accentcity: "Bel Nem"
 belvedere: 
-  city: belvedere
-  accentcity: "Belvéd\xC3\xA8re"
+  city: "belvedere"
+  accentcity: "Belvédère"
 beneden prinsen: 
-  city: beneden prinsen
-  accentcity: Beneden Prinsen
+  city: "beneden prinsen"
+  accentcity: "Beneden Prinsen"
 beneden prinsen kwartier: 
-  city: beneden prinsen kwartier
-  accentcity: Beneden Prinsen Kwartier
+  city: "beneden prinsen kwartier"
+  accentcity: "Beneden Prinsen Kwartier"
 benesuela: 
-  city: benesuela
-  accentcity: Benesuela
+  city: "benesuela"
+  accentcity: "Benesuela"
 benners: 
-  city: benners
-  accentcity: Benners
+  city: "benners"
+  accentcity: "Benners"
 berg altena: 
-  city: berg altena
-  accentcity: Berg Altena
+  city: "berg altena"
+  accentcity: "Berg Altena"
 blomonte: 
-  city: blomonte
-  accentcity: Blomonte
+  city: "blomonte"
+  accentcity: "Blomonte"
 blomonti: 
-  city: blomonti
-  accentcity: Blomonti
+  city: "blomonti"
+  accentcity: "Blomonti"
 bloomingdale: 
-  city: bloomingdale
-  accentcity: Bloomingdale
+  city: "bloomingdale"
+  accentcity: "Bloomingdale"
 boka sami: 
-  city: boka sami
+  city: "boka sami"
   accentcity: "Boka Samí"
 bona vista: 
-  city: bona vista
-  accentcity: Bona Vista
+  city: "bona vista"
+  accentcity: "Bona Vista"
 bonavista: 
-  city: bonavista
-  accentcity: Bonavista
+  city: "bonavista"
+  accentcity: "Bonavista"
 botele: 
-  city: botele
-  accentcity: Botele
+  city: "botele"
+  accentcity: "Botele"
 bottom: 
-  city: bottom
-  accentcity: Bottom
+  city: "bottom"
+  accentcity: "Bottom"
 bouille: 
-  city: bouille
-  accentcity: Bouille
+  city: "bouille"
+  accentcity: "Bouille"
 bou'i seru: 
-  city: bou'i seru
-  accentcity: Bou'i Seru
+  city: "bou'i seru"
+  accentcity: "Bou'i Seru"
 boven bolivia: 
-  city: boven bolivia
-  accentcity: Boven Bolivia
+  city: "boven bolivia"
+  accentcity: "Boven Bolivia"
 boven prinsen: 
-  city: boven prinsen
-  accentcity: Boven Prinsen
+  city: "boven prinsen"
+  accentcity: "Boven Prinsen"
 boven prinsen kwartier: 
-  city: boven prinsen kwartier
-  accentcity: Boven Prinsen Kwartier
+  city: "boven prinsen kwartier"
+  accentcity: "Boven Prinsen Kwartier"
 bricat: 
-  city: bricat
-  accentcity: Bricat
+  city: "bricat"
+  accentcity: "Bricat"
 brievengat: 
-  city: brievengat
-  accentcity: Brievengat
+  city: "brievengat"
+  accentcity: "Brievengat"
 buena esperansa: 
-  city: buena esperansa
-  accentcity: Buena Esperansa
+  city: "buena esperansa"
+  accentcity: "Buena Esperansa"
 buena vista: 
-  city: buena vista
-  accentcity: Buena Vista
+  city: "buena vista"
+  accentcity: "Buena Vista"
 bullenbaai: 
-  city: bullenbaai
-  accentcity: Bullenbaai
+  city: "bullenbaai"
+  accentcity: "Bullenbaai"
 caranjito: 
-  city: caranjito
-  accentcity: Caranjito
+  city: "caranjito"
+  accentcity: "Caranjito"
 cas chikitoe: 
-  city: cas chikitoe
-  accentcity: Cas Chikitoe
+  city: "cas chikitoe"
+  accentcity: "Cas Chikitoe"
 cas cora: 
-  city: cas cora
+  city: "cas cora"
   accentcity: "Cas Corá"
 cerrito: 
-  city: cerrito
-  accentcity: Cerrito
+  city: "cerrito"
+  accentcity: "Cerrito"
 chapel piece: 
-  city: chapel piece
-  accentcity: Chapel Piece
+  city: "chapel piece"
+  accentcity: "Chapel Piece"
 cher asile: 
-  city: cher asile
-  accentcity: Cher Asile
+  city: "cher asile"
+  accentcity: "Cher Asile"
 coeroeboeroe: 
-  city: coeroeboeroe
-  accentcity: Coeroeboeroe
+  city: "coeroeboeroe"
+  accentcity: "Coeroeboeroe"
 colon: 
-  city: colon
-  accentcity: Colon
+  city: "colon"
+  accentcity: "Colon"
 concordia: 
-  city: concordia
-  accentcity: Concordia
+  city: "concordia"
+  accentcity: "Concordia"
 cornet: 
-  city: cornet
-  accentcity: Cornet
+  city: "cornet"
+  accentcity: "Cornet"
 cottage pasture: 
-  city: cottage pasture
-  accentcity: Cottage Pasture
+  city: "cottage pasture"
+  accentcity: "Cottage Pasture"
 crispeen: 
-  city: crispeen
-  accentcity: Crispeen
+  city: "crispeen"
+  accentcity: "Crispeen"
 cul de sac: 
-  city: cul de sac
-  accentcity: Cul de Sac
+  city: "cul de sac"
+  accentcity: "Cul de Sac"
 cupe coy: 
-  city: cupe coy
-  accentcity: Cupe Coy
+  city: "cupe coy"
+  accentcity: "Cupe Coy"
 deenterra: 
-  city: deenterra
-  accentcity: Deenterra
+  city: "deenterra"
+  accentcity: "Deenterra"
 defiance: 
-  city: defiance
-  accentcity: Defiance
+  city: "defiance"
+  accentcity: "Defiance"
 de hoop: 
-  city: de hoop
-  accentcity: De Hoop
+  city: "de hoop"
+  accentcity: "De Hoop"
 dentera: 
-  city: dentera
-  accentcity: Dentera
+  city: "dentera"
+  accentcity: "Dentera"
 den tuna: 
-  city: den tuna
-  accentcity: Den Tuna
+  city: "den tuna"
+  accentcity: "Den Tuna"
 diamond: 
-  city: diamond
-  accentcity: Diamond
+  city: "diamond"
+  accentcity: "Diamond"
 domi: 
-  city: domi
-  accentcity: Domi
+  city: "domi"
+  accentcity: "Domi"
 domingitu: 
-  city: domingitu
-  accentcity: Domingitu
+  city: "domingitu"
+  accentcity: "Domingitu"
 dominguito: 
-  city: dominguito
-  accentcity: Dominguito
+  city: "dominguito"
+  accentcity: "Dominguito"
 dorp antriol: 
-  city: dorp antriol
-  accentcity: Dorp Antriol
+  city: "dorp antriol"
+  accentcity: "Dorp Antriol"
 dorp lagoen: 
-  city: dorp lagoen
-  accentcity: Dorp Lagoen
+  city: "dorp lagoen"
+  accentcity: "Dorp Lagoen"
 dorp lagun: 
-  city: dorp lagun
+  city: "dorp lagun"
   accentcity: "Dorp Lagún"
 dorp nikiboco: 
-  city: dorp nikiboco
-  accentcity: Dorp Nikiboco
+  city: "dorp nikiboco"
+  accentcity: "Dorp Nikiboco"
 dorp nikiboko: 
-  city: dorp nikiboko
-  accentcity: Dorp Nikiboko
+  city: "dorp nikiboko"
+  accentcity: "Dorp Nikiboko"
 dorp noor i salina: 
-  city: dorp noor i salina
-  accentcity: "Dorp Noor i S\xC3\xA3lina"
+  city: "dorp noor i salina"
+  accentcity: "Dorp Noor i Sãlina"
 dorp nor i salina: 
-  city: dorp nor i salina
-  accentcity: "Dorp Nor i Sali\xC3\xB1a"
+  city: "dorp nor i salina"
+  accentcity: "Dorp Nor i Saliña"
 dorp rincan: 
-  city: dorp rincan
-  accentcity: Dorp Rincan
+  city: "dorp rincan"
+  accentcity: "Dorp Rincan"
 dorp rincon: 
-  city: dorp rincon
+  city: "dorp rincon"
   accentcity: "Dorp Rincón"
 dorp sabana: 
-  city: dorp sabana
-  accentcity: Dorp Sabana
+  city: "dorp sabana"
+  accentcity: "Dorp Sabana"
 dorp sint michiel: 
-  city: dorp sint michiel
-  accentcity: Dorp Sint Michiel
+  city: "dorp sint michiel"
+  accentcity: "Dorp Sint Michiel"
 dorp sint willebrordus: 
-  city: dorp sint willebrordus
-  accentcity: Dorp Sint Willebrordus
+  city: "dorp sint willebrordus"
+  accentcity: "Dorp Sint Willebrordus"
 dorp sint willibrordus: 
-  city: dorp sint willibrordus
-  accentcity: Dorp Sint Willibrordus
+  city: "dorp sint willibrordus"
+  accentcity: "Dorp Sint Willibrordus"
 dorp soto: 
-  city: dorp soto
-  accentcity: Dorp Soto
+  city: "dorp soto"
+  accentcity: "Dorp Soto"
 dorp tera cora: 
-  city: dorp tera cora
+  city: "dorp tera cora"
   accentcity: "Dorp Tera Corá"
 dorp tera kora: 
-  city: dorp tera kora
-  accentcity: Dorp Tera Kora
+  city: "dorp tera kora"
+  accentcity: "Dorp Tera Kora"
 dorp westpunt: 
-  city: dorp westpunt
-  accentcity: Dorp Westpunt
+  city: "dorp westpunt"
+  accentcity: "Dorp Westpunt"
 emmastad: 
-  city: emmastad
-  accentcity: Emmastad
+  city: "emmastad"
+  accentcity: "Emmastad"
 emmstad: 
-  city: emmstad
-  accentcity: Emmstad
+  city: "emmstad"
+  accentcity: "Emmstad"
 english quarter: 
-  city: english quarter
-  accentcity: English Quarter
+  city: "english quarter"
+  accentcity: "English Quarter"
 entrejol: 
-  city: entrejol
-  accentcity: Entrejol
+  city: "entrejol"
+  accentcity: "Entrejol"
 experiment: 
-  city: experiment
-  accentcity: Experiment
+  city: "experiment"
+  accentcity: "Experiment"
 filipsburg: 
-  city: filipsburg
-  accentcity: Filipsburg
+  city: "filipsburg"
+  accentcity: "Filipsburg"
 fiscal: 
-  city: fiscal
-  accentcity: Fiscal
+  city: "fiscal"
+  accentcity: "Fiscal"
 fleur de marie: 
-  city: fleur de marie
-  accentcity: Fleur de Marie
+  city: "fleur de marie"
+  accentcity: "Fleur de Marie"
 fontein: 
-  city: fontein
-  accentcity: Fontein
+  city: "fontein"
+  accentcity: "Fontein"
 fortuna abau: 
-  city: fortuna abau
-  accentcity: Fortuna Abau
+  city: "fortuna abau"
+  accentcity: "Fortuna Abau"
 fortuna abou: 
-  city: fortuna abou
-  accentcity: Fortuna Abou
+  city: "fortuna abou"
+  accentcity: "Fortuna Abou"
 fortuna abu: 
-  city: fortuna abu
-  accentcity: Fortuna Abu
+  city: "fortuna abu"
+  accentcity: "Fortuna Abu"
 gato: 
-  city: gato
-  accentcity: Gato
+  city: "gato"
+  accentcity: "Gato"
 gilheads: 
-  city: gilheads
-  accentcity: Gilheads
+  city: "gilheads"
+  accentcity: "Gilheads"
 glass bottle: 
-  city: glass bottle
-  accentcity: Glass Bottle
+  city: "glass bottle"
+  accentcity: "Glass Bottle"
 godet: 
-  city: godet
-  accentcity: Godet
+  city: "godet"
+  accentcity: "Godet"
 golden rock: 
-  city: golden rock
-  accentcity: Golden Rock
+  city: "golden rock"
+  accentcity: "Golden Rock"
 great bay: 
-  city: great bay
-  accentcity: Great Bay
+  city: "great bay"
+  accentcity: "Great Bay"
 groot kwartier: 
-  city: groot kwartier
-  accentcity: Groot Kwartier
+  city: "groot kwartier"
+  accentcity: "Groot Kwartier"
 guatemala: 
-  city: guatemala
-  accentcity: Guatemala
+  city: "guatemala"
+  accentcity: "Guatemala"
 habai: 
-  city: habai
-  accentcity: Habai
+  city: "habai"
+  accentcity: "Habai"
 hato: 
-  city: hato
-  accentcity: Hato
+  city: "hato"
+  accentcity: "Hato"
 hearty: 
-  city: hearty
-  accentcity: Hearty
+  city: "hearty"
+  accentcity: "Hearty"
 hellsgate: 
-  city: hellsgate
-  accentcity: Hellsgate
+  city: "hellsgate"
+  accentcity: "Hellsgate"
 hoop: 
-  city: hoop
-  accentcity: Hoop
+  city: "hoop"
+  accentcity: "Hoop"
 industrie: 
-  city: industrie
-  accentcity: Industrie
+  city: "industrie"
+  accentcity: "Industrie"
 ishiri: 
-  city: ishiri
-  accentcity: Ishiri
+  city: "ishiri"
+  accentcity: "Ishiri"
 jan doran: 
-  city: jan doran
-  accentcity: Jan Doran
+  city: "jan doran"
+  accentcity: "Jan Doran"
 jan doret: 
-  city: jan doret
-  accentcity: Jan Doret
+  city: "jan doret"
+  accentcity: "Jan Doret"
 janwe: 
-  city: janwe
+  city: "janwe"
   accentcity: "Janwé"
 jan zoutvat: 
-  city: jan zoutvat
-  accentcity: Jan Zoutvat
+  city: "jan zoutvat"
+  accentcity: "Jan Zoutvat"
 juan domingo: 
-  city: juan domingo
-  accentcity: Juan Domingo
+  city: "juan domingo"
+  accentcity: "Juan Domingo"
 juicio: 
-  city: juicio
-  accentcity: Juicio
+  city: "juicio"
+  accentcity: "Juicio"
 julianadorp: 
-  city: julianadorp
-  accentcity: Julianadorp
+  city: "julianadorp"
+  accentcity: "Julianadorp"
 juliandorp: 
-  city: juliandorp
-  accentcity: Juliandorp
+  city: "juliandorp"
+  accentcity: "Juliandorp"
 karke: 
-  city: karke
+  city: "karke"
   accentcity: "Karké"
 kas chikitu: 
-  city: kas chikitu
-  accentcity: Kas Chikitu
+  city: "kas chikitu"
+  accentcity: "Kas Chikitu"
 kashu tuin: 
-  city: kashu tuin
-  accentcity: Kashu Tuin
+  city: "kashu tuin"
+  accentcity: "Kashu Tuin"
 kibra hacha: 
-  city: kibra hacha
-  accentcity: Kibra Hacha
+  city: "kibra hacha"
+  accentcity: "Kibra Hacha"
 koera joeri: 
-  city: koera joeri
-  accentcity: Koera Joeri
+  city: "koera joeri"
+  accentcity: "Koera Joeri"
 kokorobi: 
-  city: kokorobi
-  accentcity: Kokorobi
+  city: "kokorobi"
+  accentcity: "Kokorobi"
 kolontjie: 
-  city: kolontjie
-  accentcity: Kolontjie
+  city: "kolontjie"
+  accentcity: "Kolontjie"
 koolbaai: 
-  city: koolbaai
-  accentcity: Koolbaai
+  city: "koolbaai"
+  accentcity: "Koolbaai"
 kortijn: 
-  city: kortijn
-  accentcity: Kortijn
+  city: "kortijn"
+  accentcity: "Kortijn"
 krakeel: 
-  city: krakeel
-  accentcity: Krakeel
+  city: "krakeel"
+  accentcity: "Krakeel"
 kralendijk: 
-  city: kralendijk
-  accentcity: Kralendijk
+  city: "kralendijk"
+  accentcity: "Kralendijk"
 kunchi: 
-  city: kunchi
-  accentcity: Kunchi
+  city: "kunchi"
+  accentcity: "Kunchi"
 kunuku abou: 
-  city: kunuku abou
-  accentcity: Kunuku Abou
+  city: "kunuku abou"
+  accentcity: "Kunuku Abou"
 kura juri: 
-  city: kura juri
-  accentcity: Kura Juri
+  city: "kura juri"
+  accentcity: "Kura Juri"
 kuruburu: 
-  city: kuruburu
-  accentcity: Kuruburu
+  city: "kuruburu"
+  accentcity: "Kuruburu"
 labra: 
-  city: labra
-  accentcity: Labra
+  city: "labra"
+  accentcity: "Labra"
 lagoen: 
-  city: lagoen
-  accentcity: Lagoen
+  city: "lagoen"
+  accentcity: "Lagoen"
 lagun: 
-  city: lagun
+  city: "lagun"
   accentcity: "Lagún"
 leeuwarden: 
-  city: leeuwarden
-  accentcity: Leeuwarden
+  city: "leeuwarden"
+  accentcity: "Leeuwarden"
 leverock town: 
-  city: leverock town
-  accentcity: Leverock Town
+  city: "leverock town"
+  accentcity: "Leverock Town"
 libie: 
-  city: libie
-  accentcity: Libie
+  city: "libie"
+  accentcity: "Libie"
 lower hell's gate: 
-  city: lower hell's gate
-  accentcity: Lower Hell's Gate
+  city: "lower hell's gate"
+  accentcity: "Lower Hell's Gate"
 lower prince's quarter: 
-  city: lower prince's quarter
-  accentcity: Lower Prince's Quarter
+  city: "lower prince's quarter"
+  accentcity: "Lower Prince's Quarter"
 lower town: 
-  city: lower town
-  accentcity: Lower Town
+  city: "lower town"
+  accentcity: "Lower Town"
 mansion: 
-  city: mansion
-  accentcity: Mansion
+  city: "mansion"
+  accentcity: "Mansion"
 marchena: 
-  city: marchena
-  accentcity: Marchena
+  city: "marchena"
+  accentcity: "Marchena"
 mari pompun: 
-  city: mari pompun
-  accentcity: Mari Pompun
+  city: "mari pompun"
+  accentcity: "Mari Pompun"
 mary's fancy: 
-  city: mary's fancy
-  accentcity: Mary's Fancy
+  city: "mary's fancy"
+  accentcity: "Mary's Fancy"
 mentor: 
-  city: mentor
-  accentcity: Mentor
+  city: "mentor"
+  accentcity: "Mentor"
 middle 
   population: 
   latitude: "18.0333333"
   longitude: "-63.0333333"
 montange: 
-  city: montange
-  accentcity: Montange
+  city: "montange"
+  accentcity: "Montange"
 montan'i rei: 
-  city: montan'i rei
-  accentcity: Montan'i Rei
+  city: "montan'i rei"
+  accentcity: "Montan'i Rei"
 montanja di reij: 
-  city: montanja di reij
-  accentcity: Montanja di Reij
+  city: "montanja di reij"
+  accentcity: "Montanja di Reij"
 montanje: 
-  city: montanje
-  accentcity: Montanje
+  city: "montanje"
+  accentcity: "Montanje"
 morgenster: 
-  city: morgenster
-  accentcity: Morgenster
+  city: "morgenster"
+  accentcity: "Morgenster"
 motet: 
-  city: motet
-  accentcity: Motet
+  city: "motet"
+  accentcity: "Motet"
 mountain piece: 
-  city: mountain piece
-  accentcity: Mountain Piece
+  city: "mountain piece"
+  accentcity: "Mountain Piece"
 mundo: 
-  city: mundo
-  accentcity: Mundo
+  city: "mundo"
+  accentcity: "Mundo"
 mundo nobo: 
-  city: mundo nobo
-  accentcity: Mundo Nobo
+  city: "mundo nobo"
+  accentcity: "Mundo Nobo"
 nazareth: 
-  city: nazareth
-  accentcity: Nazareth
+  city: "nazareth"
+  accentcity: "Nazareth"
 new ground: 
-  city: new ground
-  accentcity: New Ground
+  city: "new ground"
+  accentcity: "New Ground"
 newport: 
-  city: newport
-  accentcity: Newport
+  city: "newport"
+  accentcity: "Newport"
 nieuw nederland: 
-  city: nieuw nederland
-  accentcity: Nieuw Nederland
+  city: "nieuw nederland"
+  accentcity: "Nieuw Nederland"
 nieuwpoort: 
-  city: nieuwpoort
-  accentcity: Nieuwpoort
+  city: "nieuwpoort"
+  accentcity: "Nieuwpoort"
 nikiboko: 
-  city: nikiboko
-  accentcity: Nikiboko
+  city: "nikiboko"
+  accentcity: "Nikiboko"
 nobo: 
-  city: nobo
-  accentcity: Nobo
+  city: "nobo"
+  accentcity: "Nobo"
 noord di salinja: 
-  city: noord di salinja
-  accentcity: Noord di Salinja
+  city: "noord di salinja"
+  accentcity: "Noord di Salinja"
 one hoe: 
-  city: one hoe
-  accentcity: One Hoe
+  city: "one hoe"
+  accentcity: "One Hoe"
 onima: 
-  city: onima
-  accentcity: Onima
+  city: "onima"
+  accentcity: "Onima"
 orange grove: 
-  city: orange grove
-  accentcity: Orange Grove
+  city: "orange grove"
+  accentcity: "Orange Grove"
 orange town: 
-  city: orange town
-  accentcity: Orange Town
+  city: "orange town"
+  accentcity: "Orange Town"
 oranje pan: 
-  city: oranje pan
-  accentcity: Oranje Pan
+  city: "oranje pan"
+  accentcity: "Oranje Pan"
 oranjestad: 
-  city: oranjestad
-  accentcity: Oranjestad
+  city: "oranjestad"
+  accentcity: "Oranjestad"
 orinoco: 
-  city: orinoco
-  accentcity: Orinoco
+  city: "orinoco"
+  accentcity: "Orinoco"
 otrabanda: 
-  city: otrabanda
-  accentcity: Otrabanda
+  city: "otrabanda"
+  accentcity: "Otrabanda"
 otrobanda: 
-  city: otrobanda
-  accentcity: Otrobanda
+  city: "otrobanda"
+  accentcity: "Otrobanda"
 over the pond: 
-  city: over the pond
-  accentcity: Over the Pond
+  city: "over the pond"
+  accentcity: "Over the Pond"
 overzijde: 
-  city: overzijde
-  accentcity: Overzijde
+  city: "overzijde"
+  accentcity: "Overzijde"
 paradijs: 
-  city: paradijs
-  accentcity: Paradijs
+  city: "paradijs"
+  accentcity: "Paradijs"
 para mira: 
-  city: para mira
-  accentcity: Para Mira
+  city: "para mira"
+  accentcity: "Para Mira"
 paramira: 
-  city: paramira
-  accentcity: Paramira
+  city: "paramira"
+  accentcity: "Paramira"
 pareira: 
-  city: pareira
-  accentcity: Pareira
+  city: "pareira"
+  accentcity: "Pareira"
 parera: 
-  city: parera
-  accentcity: Parera
+  city: "parera"
+  accentcity: "Parera"
 philipsburg: 
-  city: philipsburg
-  accentcity: Philipsburg
+  city: "philipsburg"
+  accentcity: "Philipsburg"
 pietermaai: 
-  city: pietermaai
-  accentcity: Pietermaai
+  city: "pietermaai"
+  accentcity: "Pietermaai"
 pine garden: 
-  city: pine garden
-  accentcity: Pine Garden
+  city: "pine garden"
+  accentcity: "Pine Garden"
 playa: 
-  city: playa
-  accentcity: Playa
+  city: "playa"
+  accentcity: "Playa"
 porta makaku: 
-  city: porta makaku
-  accentcity: Porta Makaku
+  city: "porta makaku"
+  accentcity: "Porta Makaku"
 porto spano: 
-  city: porto spano
-  accentcity: "Porto Spa\xC3\xB1o"
+  city: "porto spano"
+  accentcity: "Porto Spaño"
 prospect farm: 
-  city: prospect farm
-  accentcity: Prospect Farm
+  city: "prospect farm"
+  accentcity: "Prospect Farm"
 prospect: 
-  city: prospect
-  accentcity: Prospect
+  city: "prospect"
+  accentcity: "Prospect"
 punda: 
-  city: punda
-  accentcity: Punda
+  city: "punda"
+  accentcity: "Punda"
 rancho: 
-  city: rancho
-  accentcity: Rancho
+  city: "rancho"
+  accentcity: "Rancho"
 republiek: 
-  city: republiek
-  accentcity: Republiek
+  city: "republiek"
+  accentcity: "Republiek"
 rigot: 
-  city: rigot
-  accentcity: Rigot
+  city: "rigot"
+  accentcity: "Rigot"
 rincon: 
-  city: rincon
+  city: "rincon"
   accentcity: "Rincón"
 riscado: 
-  city: riscado
-  accentcity: Riscado
+  city: "riscado"
+  accentcity: "Riscado"
 rockland: 
-  city: rockland
-  accentcity: Rockland
+  city: "rockland"
+  accentcity: "Rockland"
 rood huis: 
-  city: rood huis
-  accentcity: Rood Huis
+  city: "rood huis"
+  accentcity: "Rood Huis"
 roosendaal: 
-  city: roosendaal
-  accentcity: Roosendaal
+  city: "roosendaal"
+  accentcity: "Roosendaal"
 roozendaal: 
-  city: roozendaal
-  accentcity: Roozendaal
+  city: "roozendaal"
+  accentcity: "Roozendaal"
 rozendaal: 
-  city: rozendaal
-  accentcity: Rozendaal
+  city: "rozendaal"
+  accentcity: "Rozendaal"
 rust en vrede: 
-  city: rust en vrede
-  accentcity: Rust en Vrede
+  city: "rust en vrede"
+  accentcity: "Rust en Vrede"
 rustoord: 
-  city: rustoord
-  accentcity: Rustoord
+  city: "rustoord"
+  accentcity: "Rustoord"
 rust: 
-  city: rust
-  accentcity: Rust
+  city: "rust"
+  accentcity: "Rust"
 sabana westpunt: 
-  city: sabana westpunt
-  accentcity: Sabana Westpunt
+  city: "sabana westpunt"
+  accentcity: "Sabana Westpunt"
 sabaneta: 
-  city: sabaneta
-  accentcity: Sabaneta
+  city: "sabaneta"
+  accentcity: "Sabaneta"
 saint john's flat: 
-  city: saint john's flat
-  accentcity: Saint John's Flat
+  city: "saint john's flat"
+  accentcity: "Saint John's Flat"
 saint peter: 
-  city: saint peter
-  accentcity: Saint Peter
+  city: "saint peter"
+  accentcity: "Saint Peter"
 salina abou: 
-  city: salina abou
-  accentcity: "Sali\xC3\xB1a Abou"
+  city: "salina abou"
+  accentcity: "Saliña Abou"
 salina: 
-  city: salina
-  accentcity: "Sali\xC3\xB1a"
+  city: "salina"
+  accentcity: "Saliña"
 salinja: 
-  city: salinja
-  accentcity: Salinja
+  city: "salinja"
+  accentcity: "Salinja"
 san bernardo: 
-  city: san bernardo
-  accentcity: San Bernardo
+  city: "san bernardo"
+  accentcity: "San Bernardo"
 san jose: 
-  city: san jose
+  city: "san jose"
   accentcity: "San José"
 san pedro: 
-  city: san pedro
-  accentcity: San Pedro
+  city: "san pedro"
+  accentcity: "San Pedro"
 santa catarina: 
-  city: santa catarina
-  accentcity: Santa Catarina
+  city: "santa catarina"
+  accentcity: "Santa Catarina"
 santa clara: 
-  city: santa clara
-  accentcity: Santa Clara
+  city: "santa clara"
+  accentcity: "Santa Clara"
 santa cruz: 
-  city: santa cruz
-  accentcity: Santa Cruz
+  city: "santa cruz"
+  accentcity: "Santa Cruz"
 santa krus: 
-  city: santa krus
-  accentcity: Santa Krus
+  city: "santa krus"
+  accentcity: "Santa Krus"
 santa maria: 
-  city: santa maria
-  accentcity: Santa Maria
+  city: "santa maria"
+  accentcity: "Santa Maria"
 santa rosa: 
-  city: santa rosa
-  accentcity: Santa Rosa
+  city: "santa rosa"
+  accentcity: "Santa Rosa"
 saunders: 
-  city: saunders
-  accentcity: Saunders
+  city: "saunders"
+  accentcity: "Saunders"
 schaarlo: 
-  city: schaarlo
-  accentcity: Schaarlo
+  city: "schaarlo"
+  accentcity: "Schaarlo"
 scharloo: 
-  city: scharloo
-  accentcity: Scharloo
+  city: "scharloo"
+  accentcity: "Scharloo"
 schotsenhoek: 
-  city: schotsenhoek
-  accentcity: Schotsenhoek
+  city: "schotsenhoek"
+  accentcity: "Schotsenhoek"
 senkuria: 
-  city: senkuria
-  accentcity: Senkuria
+  city: "senkuria"
+  accentcity: "Senkuria"
 ser'i bientu: 
-  city: ser'i bientu
-  accentcity: Ser'i Bientu
+  city: "ser'i bientu"
+  accentcity: "Ser'i Bientu"
 seritu: 
-  city: seritu
-  accentcity: Seritu
+  city: "seritu"
+  accentcity: "Seritu"
 seroe bientoe: 
-  city: seroe bientoe
-  accentcity: Seroe Bientoe
+  city: "seroe bientoe"
+  accentcity: "Seroe Bientoe"
 seroebiento: 
-  city: seroebiento
-  accentcity: Seroebiento
+  city: "seroebiento"
+  accentcity: "Seroebiento"
 simsonbaai: 
-  city: simsonbaai
-  accentcity: Simsonbaai
+  city: "simsonbaai"
+  accentcity: "Simsonbaai"
 simson bay village: 
-  city: simson bay village
-  accentcity: Simson Bay Village
+  city: "simson bay village"
+  accentcity: "Simson Bay Village"
 simsons bay: 
-  city: simsons bay
-  accentcity: Simsons Bay
+  city: "simsons bay"
+  accentcity: "Simsons Bay"
 sint jago: 
-  city: sint jago
-  accentcity: Sint Jago
+  city: "sint jago"
+  accentcity: "Sint Jago"
 sint john: 
-  city: sint john
-  accentcity: Sint John
+  city: "sint john"
+  accentcity: "Sint John"
 sint john's: 
-  city: sint john's
-  accentcity: Sint John's
+  city: "sint john's"
+  accentcity: "Sint John's"
 sint joris: 
-  city: sint joris
-  accentcity: Sint Joris
+  city: "sint joris"
+  accentcity: "Sint Joris"
 sint josefsdal: 
-  city: sint josefsdal
-  accentcity: Sint Josefsdal
+  city: "sint josefsdal"
+  accentcity: "Sint Josefsdal"
 sint jozefdal: 
-  city: sint jozefdal
-  accentcity: Sint Jozefdal
+  city: "sint jozefdal"
+  accentcity: "Sint Jozefdal"
 sint jozefsdal: 
-  city: sint jozefsdal
-  accentcity: Sint Jozefsdal
+  city: "sint jozefsdal"
+  accentcity: "Sint Jozefsdal"
 sint michiel liber: 
-  city: sint michiel liber
-  accentcity: Sint Michiel Liber
+  city: "sint michiel liber"
+  accentcity: "Sint Michiel Liber"
 sint michiel: 
-  city: sint michiel
-  accentcity: Sint Michiel
+  city: "sint michiel"
+  accentcity: "Sint Michiel"
 sint willebrordus: 
-  city: sint willebrordus
-  accentcity: Sint Willebrordus
+  city: "sint willebrordus"
+  accentcity: "Sint Willebrordus"
 slangenbaai: 
-  city: slangenbaai
-  accentcity: Slangenbaai
+  city: "slangenbaai"
+  accentcity: "Slangenbaai"
 soto: 
-  city: soto
-  accentcity: Soto
+  city: "soto"
+  accentcity: "Soto"
 spring garden: 
-  city: spring garden
-  accentcity: Spring Garden
+  city: "spring garden"
+  accentcity: "Spring Garden"
 steenrijk: 
-  city: steenrijk
-  accentcity: Steenrijk
+  city: "steenrijk"
+  accentcity: "Steenrijk"
 su casa: 
-  city: su casa
-  accentcity: Su Casa
+  city: "su casa"
+  accentcity: "Su Casa"
 sucker garden: 
-  city: sucker garden
-  accentcity: Sucker Garden
+  city: "sucker garden"
+  accentcity: "Sucker Garden"
 suffisant dorp: 
-  city: suffisant dorp
-  accentcity: Suffisant Dorp
+  city: "suffisant dorp"
+  accentcity: "Suffisant Dorp"
 suriname dorp: 
-  city: suriname dorp
-  accentcity: Suriname Dorp
+  city: "suriname dorp"
+  accentcity: "Suriname Dorp"
 tera hundu: 
-  city: tera hundu
-  accentcity: Tera Hundu
+  city: "tera hundu"
+  accentcity: "Tera Hundu"
 terra corra: 
-  city: terra corra
-  accentcity: Terra Corra
+  city: "terra corra"
+  accentcity: "Terra Corra"
 the bottom: 
-  city: the bottom
-  accentcity: The Bottom
+  city: "the bottom"
+  accentcity: "The Bottom"
 the corner: 
-  city: the corner
-  accentcity: The Corner
+  city: "the corner"
+  accentcity: "The Corner"
 the gap: 
-  city: the gap
-  accentcity: The Gap
+  city: "the gap"
+  accentcity: "The Gap"
 the hope: 
-  city: the hope
-  accentcity: The Hope
+  city: "the hope"
+  accentcity: "The Hope"
 the level: 
-  city: the level
-  accentcity: The Level
+  city: "the level"
+  accentcity: "The Level"
 the villa: 
-  city: the villa
-  accentcity: The Villa
+  city: "the villa"
+  accentcity: "The Villa"
 trial: 
-  city: trial
-  accentcity: Trial
+  city: "trial"
+  accentcity: "Trial"
 union farm: 
-  city: union farm
-  accentcity: Union Farm
+  city: "union farm"
+  accentcity: "Union Farm"
 upper hell's gate: 
-  city: upper hell's gate
-  accentcity: Upper Hell's Gate
+  city: "upper hell's gate"
+  accentcity: "Upper Hell's Gate"
 upper prince's quarter: 
-  city: upper prince's quarter
-  accentcity: Upper Prince's Quarter
+  city: "upper prince's quarter"
+  accentcity: "Upper Prince's Quarter"
 upper town: 
-  city: upper town
-  accentcity: Upper Town
+  city: "upper town"
+  accentcity: "Upper Town"
 valentijn: 
-  city: valentijn
-  accentcity: Valentijn
+  city: "valentijn"
+  accentcity: "Valentijn"
 venezuela: 
-  city: venezuela
-  accentcity: Venezuela
+  city: "venezuela"
+  accentcity: "Venezuela"
 vianen: 
-  city: vianen
-  accentcity: Vianen
+  city: "vianen"
+  accentcity: "Vianen"
 vineyard: 
-  city: vineyard
-  accentcity: Vineyard
+  city: "vineyard"
+  accentcity: "Vineyard"
 vlijt: 
-  city: vlijt
-  accentcity: Vlijt
+  city: "vlijt"
+  accentcity: "Vlijt"
 vredeberg: 
-  city: vredeberg
-  accentcity: Vredeberg
+  city: "vredeberg"
+  accentcity: "Vredeberg"
 vredenberg: 
-  city: vredenberg
-  accentcity: Vredenberg
+  city: "vredenberg"
+  accentcity: "Vredenberg"
 wanapa: 
-  city: wanapa
-  accentcity: Wanapa
+  city: "wanapa"
+  accentcity: "Wanapa"
 weis afo: 
-  city: weis afo
+  city: "weis afo"
   accentcity: "Weis Afó"
 weis: 
-  city: weis
-  accentcity: Weis
+  city: "weis"
+  accentcity: "Weis"
 weitje: 
-  city: weitje
-  accentcity: Weitje
+  city: "weitje"
+  accentcity: "Weitje"
 welgelegen: 
-  city: welgelegen
-  accentcity: Welgelegen
+  city: "welgelegen"
+  accentcity: "Welgelegen"
 westpunt: 
-  city: westpunt
-  accentcity: Westpunt
+  city: "westpunt"
+  accentcity: "Westpunt"
 willebrordus: 
-  city: willebrordus
-  accentcity: Willebrordus
+  city: "willebrordus"
+  accentcity: "Willebrordus"
 willemstad: 
-  city: willemstad
-  accentcity: Willemstad
+  city: "willemstad"
+  accentcity: "Willemstad"
 wilton: 
-  city: wilton
-  accentcity: Wilton
+  city: "wilton"
+  accentcity: "Wilton"
 windsor: 
-  city: windsor
-  accentcity: Windsor
+  city: "windsor"
+  accentcity: "Windsor"
 windward side: 
-  city: windward side
-  accentcity: Windward Side
+  city: "windward side"
+  accentcity: "Windward Side"
 wishi: 
-  city: wishi
-  accentcity: Wishi
+  city: "wishi"
+  accentcity: "Wishi"
 zeelandia: 
-  city: zeelandia
-  accentcity: Zeelandia
+  city: "zeelandia"
+  accentcity: "Zeelandia"

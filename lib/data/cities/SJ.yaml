@@ -1,59 +1,59 @@
 # encoding: UTF-8
 --- 
 barentsburg: 
-  city: barentsburg
-  accentcity: Barentsburg
+  city: "barentsburg"
+  accentcity: "Barentsburg"
 funksjonaerbyen: 
-  city: funksjonaerbyen
+  city: "funksjonaerbyen"
   accentcity: "Funksjon\xC3\xA6rbyen"
 grumantbyen: 
-  city: grumantbyen
-  accentcity: Grumantbyen
-grumant city: 
-  city: grumant city
-  accentcity: Grumant City
+  city: "grumantbyen"
+  accentcity: "Grumantbyen"
+grumant city: "
+  city: "grumant city"
+  accentcity: "Grumant City"
 haugen: 
-  city: haugen
-  accentcity: Haugen
+  city: "haugen"
+  accentcity: "Haugen"
 longyearbyen: 
-  city: longyearbyen
-  accentcity: Longyearbyen
-longyear city: 
-  city: longyear city
-  accentcity: Longyear City
+  city: "longyearbyen"
+  accentcity: "Longyearbyen"
+longyear city: "
+  city: "longyear city"
+  accentcity: "Longyear City"
 longyear-tal-stadt: 
-  city: longyear-tal-stadt
-  accentcity: Longyear-Tal-Stadt
+  city: "longyear-tal-stadt"
+  accentcity: "Longyear-Tal-Stadt"
 navarhaugen: 
-  city: navarhaugen
-  accentcity: Navarhaugen
+  city: "navarhaugen"
+  accentcity: "Navarhaugen"
 neu-aalesund: 
-  city: neu-aalesund
-  accentcity: Neu-Aalesund
+  city: "neu-aalesund"
+  accentcity: "Neu-Aalesund"
 new aalesund: 
-  city: new aalesund
-  accentcity: New Aalesund
+  city: "new aalesund"
+  accentcity: "New Aalesund"
 ny-alesund: 
-  city: ny-alesund
+  city: "ny-alesund"
   accentcity: "Ny-\xC3\x85lesund"
 nybyen: 
-  city: nybyen
-  accentcity: Nybyen
+  city: "nybyen"
+  accentcity: "Nybyen"
 ostre sverdrupbyen: 
-  city: ostre sverdrupbyen
+  city: "ostre sverdrupbyen"
   accentcity: "\xC3\x98stre Sverdrupbyen"
 sveagruvan: 
-  city: sveagruvan
-  accentcity: Sveagruvan
+  city: "sveagruvan"
+  accentcity: "Sveagruvan"
 sveagruva: 
-  city: sveagruva
-  accentcity: Sveagruva
+  city: "sveagruva"
+  accentcity: "Sveagruva"
 sveakaivos: 
-  city: sveakaivos
-  accentcity: Sveakaivos
+  city: "sveakaivos"
+  accentcity: "Sveakaivos"
 svea: 
-  city: svea
-  accentcity: Svea
+  city: "svea"
+  accentcity: "Svea"
 svenskstad: 
-  city: svenskstad
-  accentcity: Svenskstad
+  city: "svenskstad"
+  accentcity: "Svenskstad"

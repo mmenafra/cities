@@ -1,1088 +1,1088 @@
 # encoding: UTF-8
 --- 
 afaahiti: 
-  city: afaahiti
-  accentcity: Afaahiti
+  city: "afaahiti"
+  accentcity: "Afaahiti"
 afareaitu: 
-  city: afareaitu
-  accentcity: Afareaitu
+  city: "afareaitu"
+  accentcity: "Afareaitu"
 afatauri: 
-  city: afatauri
-  accentcity: Afatauri
+  city: "afatauri"
+  accentcity: "Afatauri"
 ahurei: 
-  city: ahurei
-  accentcity: Ahurei
+  city: "ahurei"
+  accentcity: "Ahurei"
 akamaru: 
-  city: akamaru
-  accentcity: Akamaru
+  city: "akamaru"
+  accentcity: "Akamaru"
 akaputu: 
-  city: akaputu
-  accentcity: Akaputu
+  city: "akaputu"
+  accentcity: "Akaputu"
 amaru: 
-  city: amaru
-  accentcity: Amaru
+  city: "amaru"
+  accentcity: "Amaru"
 anaho: 
-  city: anaho
-  accentcity: Anaho
+  city: "anaho"
+  accentcity: "Anaho"
 anapoo: 
-  city: anapoo
-  accentcity: Anapoo
+  city: "anapoo"
+  accentcity: "Anapoo"
 anapoto: 
-  city: anapoto
-  accentcity: Anapoto
+  city: "anapoto"
+  accentcity: "Anapoto"
 anatonu: 
-  city: anatonu
-  accentcity: Anatonu
+  city: "anatonu"
+  accentcity: "Anatonu"
 anau: 
-  city: anau
-  accentcity: Anau
+  city: "anau"
+  accentcity: "Anau"
 anganui: 
-  city: anganui
-  accentcity: Anganui
+  city: "anganui"
+  accentcity: "Anganui"
 anua: 
-  city: anua
-  accentcity: Anua
+  city: "anua"
+  accentcity: "Anua"
 aoua: 
-  city: aoua
-  accentcity: Aoua
+  city: "aoua"
+  accentcity: "Aoua"
 apaura: 
-  city: apaura
-  accentcity: Apaura
+  city: "apaura"
+  accentcity: "Apaura"
 apeakava: 
-  city: apeakava
-  accentcity: Apeakava
+  city: "apeakava"
+  accentcity: "Apeakava"
 apihaa: 
-  city: apihaa
-  accentcity: Apihaa
+  city: "apihaa"
+  accentcity: "Apihaa"
 apomaoro: 
-  city: apomaoro
-  accentcity: Apomaoro
+  city: "apomaoro"
+  accentcity: "Apomaoro"
 arahiri: 
-  city: arahiri
-  accentcity: Arahiri
+  city: "arahiri"
+  accentcity: "Arahiri"
 araiteva: 
-  city: araiteva
-  accentcity: Araiteva
+  city: "araiteva"
+  accentcity: "Araiteva"
 araito: 
-  city: araito
-  accentcity: Araito
+  city: "araito"
+  accentcity: "Araito"
 area: 
-  city: area
-  accentcity: Area
+  city: "area"
+  accentcity: "Area"
 arue: 
-  city: arue
-  accentcity: Arue
+  city: "arue"
+  accentcity: "Arue"
 arve: 
-  city: arve
-  accentcity: Arve
+  city: "arve"
+  accentcity: "Arve"
 ataiti: 
-  city: ataiti
-  accentcity: Ataiti
+  city: "ataiti"
+  accentcity: "Ataiti"
 atiakoa: 
-  city: atiakoa
-  accentcity: Atiakoa
+  city: "atiakoa"
+  accentcity: "Atiakoa"
 atiaoha: 
-  city: atiaoha
-  accentcity: Atiaoha
+  city: "atiaoha"
+  accentcity: "Atiaoha"
 atihiva: 
-  city: atihiva
-  accentcity: Atihiva
+  city: "atihiva"
+  accentcity: "Atihiva"
 atihoi: 
-  city: atihoi
-  accentcity: Atihoi
+  city: "atihoi"
+  accentcity: "Atihoi"
 atimaono: 
-  city: atimaono
-  accentcity: Atimaono
+  city: "atimaono"
+  accentcity: "Atimaono"
 atipiti: 
-  city: atipiti
-  accentcity: Atipiti
+  city: "atipiti"
+  accentcity: "Atipiti"
 atirikigaro: 
-  city: atirikigaro
-  accentcity: Atirikigaro
+  city: "atirikigaro"
+  accentcity: "Atirikigaro"
 atitouiti: 
-  city: atitouiti
-  accentcity: Atitouiti
+  city: "atitouiti"
+  accentcity: "Atitouiti"
 atituiti: 
-  city: atituiti
-  accentcity: Atituiti
+  city: "atituiti"
+  accentcity: "Atituiti"
 atiue: 
-  city: atiue
-  accentcity: Atiue
+  city: "atiue"
+  accentcity: "Atiue"
 atouana: 
-  city: atouana
-  accentcity: Atouana
+  city: "atouana"
+  accentcity: "Atouana"
 atuana: 
-  city: atuana
-  accentcity: Atuana
+  city: "atuana"
+  accentcity: "Atuana"
 atuona: 
-  city: atuona
-  accentcity: Atuona
+  city: "atuona"
+  accentcity: "Atuona"
 aua: 
-  city: aua
-  accentcity: Aua
+  city: "aua"
+  accentcity: "Aua"
 auaue: 
-  city: auaue
-  accentcity: Auaue
+  city: "auaue"
+  accentcity: "Auaue"
 auorotini: 
-  city: auorotini
-  accentcity: Auorotini
+  city: "auorotini"
+  accentcity: "Auorotini"
 auti: 
-  city: auti
-  accentcity: Auti
+  city: "auti"
+  accentcity: "Auti"
 avae: 
-  city: avae
-  accentcity: Avae
+  city: "avae"
+  accentcity: "Avae"
 avatoru: 
-  city: avatoru
-  accentcity: Avatoru
+  city: "avatoru"
+  accentcity: "Avatoru"
 avera: 
-  city: avera
-  accentcity: Avera
+  city: "avera"
+  accentcity: "Avera"
 d'hauti: 
-  city: d'hauti
-  accentcity: D'Hauti
+  city: "d'hauti"
+  accentcity: "D'Hauti"
 faaa: 
-  city: faaa
-  accentcity: Faaa
+  city: "faaa"
+  accentcity: "Faaa"
 faanoa: 
-  city: faanoa
-  accentcity: Faanoa
+  city: "faanoa"
+  accentcity: "Faanoa"
 faanui: 
-  city: faanui
-  accentcity: Faanui
+  city: "faanui"
+  accentcity: "Faanui"
 faaone: 
-  city: faaone
-  accentcity: Faaone
+  city: "faaone"
+  accentcity: "Faaone"
 faarumai: 
-  city: faarumai
-  accentcity: Faarumai
+  city: "faarumai"
+  accentcity: "Faarumai"
 faatautia: 
-  city: faatautia
-  accentcity: Faatautia
+  city: "faatautia"
+  accentcity: "Faatautia"
 faauanu: 
-  city: faauanu
-  accentcity: Faauanu
+  city: "faauanu"
+  accentcity: "Faauanu"
 fakamaru: 
-  city: fakamaru
-  accentcity: Fakamaru
+  city: "fakamaru"
+  accentcity: "Fakamaru"
 fakatopatere: 
-  city: fakatopatere
-  accentcity: Fakatopatere
+  city: "fakatopatere"
+  accentcity: "Fakatopatere"
 fane: 
-  city: fane
+  city: "fane"
   accentcity: "Fané"
 fanui: 
-  city: fanui
-  accentcity: Fanui
+  city: "fanui"
+  accentcity: "Fanui"
 faone: 
-  city: faone
-  accentcity: Faone
+  city: "faone"
+  accentcity: "Faone"
 faraari: 
-  city: faraari
-  accentcity: Faraari
+  city: "faraari"
+  accentcity: "Faraari"
 farauo: 
-  city: farauo
-  accentcity: Farauo
+  city: "farauo"
+  accentcity: "Farauo"
 fareeru: 
-  city: fareeru
-  accentcity: Fareeru
+  city: "fareeru"
+  accentcity: "Fareeru"
 fare: 
-  city: fare
-  accentcity: Fare
+  city: "fare"
+  accentcity: "Fare"
 farehau: 
-  city: farehau
-  accentcity: Farehau
+  city: "farehau"
+  accentcity: "Farehau"
 faremi: 
-  city: faremi
-  accentcity: Faremi
+  city: "faremi"
+  accentcity: "Faremi"
 fareorea: 
-  city: fareorea
-  accentcity: Fareorea
+  city: "fareorea"
+  accentcity: "Fareorea"
 farerea: 
-  city: farerea
-  accentcity: Farerea
+  city: "farerea"
+  accentcity: "Farerea"
 fariipiti: 
-  city: fariipiti
-  accentcity: Fariipiti
+  city: "fariipiti"
+  accentcity: "Fariipiti"
 fitii: 
-  city: fitii
-  accentcity: Fitii
+  city: "fitii"
+  accentcity: "Fitii"
 gahutu: 
-  city: gahutu
-  accentcity: Gahutu
+  city: "gahutu"
+  accentcity: "Gahutu"
 gahutu tenohu: 
-  city: gahutu tenohu
-  accentcity: Gahutu Tenohu
+  city: "gahutu tenohu"
+  accentcity: "Gahutu Tenohu"
 ganhutu: 
-  city: ganhutu
-  accentcity: Ganhutu
+  city: "ganhutu"
+  accentcity: "Ganhutu"
 ganoa: 
-  city: ganoa
-  accentcity: Ganoa
+  city: "ganoa"
+  accentcity: "Ganoa"
 garumaoa: 
-  city: garumaoa
-  accentcity: Garumaoa
+  city: "garumaoa"
+  accentcity: "Garumaoa"
 gataha: 
-  city: gataha
-  accentcity: Gataha
+  city: "gataha"
+  accentcity: "Gataha"
 gatavake: 
-  city: gatavake
+  city: "gatavake"
   accentcity: "Gatavaké"
 haaoipu: 
-  city: haaoipu
-  accentcity: Haaoipu
+  city: "haaoipu"
+  accentcity: "Haaoipu"
 haapane: 
-  city: haapane
-  accentcity: Haapane
+  city: "haapane"
+  accentcity: "Haapane"
 haapape: 
-  city: haapape
-  accentcity: Haapape
+  city: "haapape"
+  accentcity: "Haapape"
 haapiti: 
-  city: haapiti
-  accentcity: Haapiti
+  city: "haapiti"
+  accentcity: "Haapiti"
 haapu: 
-  city: haapu
-  accentcity: Haapu
+  city: "haapu"
+  accentcity: "Haapu"
 haapupuni: 
-  city: haapupuni
-  accentcity: Haapupuni
+  city: "haapupuni"
+  accentcity: "Haapupuni"
 haapupuri: 
-  city: haapupuri
-  accentcity: Haapupuri
+  city: "haapupuri"
+  accentcity: "Haapupuri"
 hakamui: 
-  city: hakamui
-  accentcity: Hakamui
+  city: "hakamui"
+  accentcity: "Hakamui"
 hakapehi: 
-  city: hakapehi
-  accentcity: Hakapehi
+  city: "hakapehi"
+  accentcity: "Hakapehi"
 haka puuae: 
-  city: haka puuae
-  accentcity: Haka Puuae
+  city: "haka puuae"
+  accentcity: "Haka Puuae"
 hakaui: 
-  city: hakaui
-  accentcity: Hakaui
+  city: "hakaui"
+  accentcity: "Hakaui"
 hamuta: 
-  city: hamuta
-  accentcity: Hamuta
+  city: "hamuta"
+  accentcity: "Hamuta"
 hanamiai: 
-  city: hanamiai
-  accentcity: Hanamiai
+  city: "hanamiai"
+  accentcity: "Hanamiai"
 hana-moe-noa: 
-  city: hana-moe-noa
-  accentcity: Hana-moe-noa
+  city: "hana-moe-noa"
+  accentcity: "Hana-moe-noa"
 hana te fau: 
-  city: hana te fau
-  accentcity: Hana te Fau
+  city: "hana te fau"
+  accentcity: "Hana te Fau"
 hana teio: 
-  city: hana teio
-  accentcity: Hana Teio
+  city: "hana teio"
+  accentcity: "Hana Teio"
 hanatetena: 
-  city: hanatetena
-  accentcity: Hanatetena
+  city: "hanatetena"
+  accentcity: "Hanatetena"
 hana tuuna: 
-  city: hana tuuna
-  accentcity: Hana Tuuna
+  city: "hana tuuna"
+  accentcity: "Hana Tuuna"
 hanaui: 
-  city: hanaui
-  accentcity: Hanaui
+  city: "hanaui"
+  accentcity: "Hanaui"
 hanavave: 
-  city: hanavave
-  accentcity: Hanavave
+  city: "hanavave"
+  accentcity: "Hanavave"
 hanga haa: 
-  city: hanga haa
-  accentcity: Hanga Haa
+  city: "hanga haa"
+  accentcity: "Hanga Haa"
 hapatoni: 
-  city: hapatoni
-  accentcity: Hapatoni
+  city: "hapatoni"
+  accentcity: "Hapatoni"
 hatinua: 
-  city: hatinua
-  accentcity: Hatinua
+  city: "hatinua"
+  accentcity: "Hatinua"
 hauturua: 
-  city: hauturua
-  accentcity: Hauturua
+  city: "hauturua"
+  accentcity: "Hauturua"
 hitiaa: 
-  city: hitiaa
-  accentcity: Hitiaa
+  city: "hitiaa"
+  accentcity: "Hitiaa"
 hitia: 
-  city: hitia
-  accentcity: Hitia
+  city: "hitia"
+  accentcity: "Hitia"
 hiti mahana: 
-  city: hiti mahana
-  accentcity: Hiti Mahana
+  city: "hiti mahana"
+  accentcity: "Hiti Mahana"
 hiti mahaua: 
-  city: hiti mahaua
-  accentcity: Hiti Mahaua
+  city: "hiti mahaua"
+  accentcity: "Hiti Mahaua"
 hooumi: 
-  city: hooumi
-  accentcity: Hooumi
+  city: "hooumi"
+  accentcity: "Hooumi"
 hotapuu: 
-  city: hotapuu
-  accentcity: Hotapuu
+  city: "hotapuu"
+  accentcity: "Hotapuu"
 hotopuu: 
-  city: hotopuu
-  accentcity: Hotopuu
+  city: "hotopuu"
+  accentcity: "Hotopuu"
 houmi: 
-  city: houmi
-  accentcity: Houmi
+  city: "houmi"
+  accentcity: "Houmi"
 houroumanou: 
-  city: houroumanou
-  accentcity: Houroumanou
+  city: "houroumanou"
+  accentcity: "Houroumanou"
 huahine: 
-  city: huahine
-  accentcity: Huahine
+  city: "huahine"
+  accentcity: "Huahine"
 huau: 
-  city: huau
-  accentcity: Huau
+  city: "huau"
+  accentcity: "Huau"
 hurumanu: 
-  city: hurumanu
-  accentcity: Hurumanu
+  city: "hurumanu"
+  accentcity: "Hurumanu"
 ikitake: 
-  city: ikitake
-  accentcity: Ikitake
+  city: "ikitake"
+  accentcity: "Ikitake"
 iumaru: 
-  city: iumaru
-  accentcity: Iumaru
+  city: "iumaru"
+  accentcity: "Iumaru"
 ivaiva nui: 
-  city: ivaiva nui
-  accentcity: Ivaiva Nui
+  city: "ivaiva nui"
+  accentcity: "Ivaiva Nui"
 kairori: 
-  city: kairori
-  accentcity: Kairori
+  city: "kairori"
+  accentcity: "Kairori"
 katiro: 
-  city: katiro
-  accentcity: Katiro
+  city: "katiro"
+  accentcity: "Katiro"
 kirimiro: 
-  city: kirimiro
-  accentcity: Kirimiro
+  city: "kirimiro"
+  accentcity: "Kirimiro"
 kokohue: 
-  city: kokohue
-  accentcity: Kokohue
+  city: "kokohue"
+  accentcity: "Kokohue"
 lauiaru: 
-  city: lauiaru
-  accentcity: Lauiaru
+  city: "lauiaru"
+  accentcity: "Lauiaru"
 maaea: 
-  city: maaea
-  accentcity: Maaea
+  city: "maaea"
+  accentcity: "Maaea"
 maatea: 
-  city: maatea
-  accentcity: Maatea
+  city: "maatea"
+  accentcity: "Maatea"
 mahaena: 
-  city: mahaena
-  accentcity: Mahaena
+  city: "mahaena"
+  accentcity: "Mahaena"
 mahaiutea: 
-  city: mahaiutea
-  accentcity: Mahaiutea
+  city: "mahaiutea"
+  accentcity: "Mahaiutea"
 mahanatoa: 
-  city: mahanatoa
-  accentcity: Mahanatoa
+  city: "mahanatoa"
+  accentcity: "Mahanatoa"
 mahatea: 
-  city: mahatea
-  accentcity: Mahatea
+  city: "mahatea"
+  accentcity: "Mahatea"
 maheva: 
-  city: maheva
-  accentcity: Maheva
+  city: "maheva"
+  accentcity: "Maheva"
 mahina: 
-  city: mahina
-  accentcity: Mahina
+  city: "mahina"
+  accentcity: "Mahina"
 mahua: 
-  city: mahua
-  accentcity: Mahua
+  city: "mahua"
+  accentcity: "Mahua"
 mahu: 
-  city: mahu
-  accentcity: Mahu
+  city: "mahu"
+  accentcity: "Mahu"
 maraa: 
-  city: maraa
-  accentcity: Maraa
+  city: "maraa"
+  accentcity: "Maraa"
 maraeapai: 
-  city: maraeapai
-  accentcity: Maraeapai
+  city: "maraeapai"
+  accentcity: "Maraeapai"
 marae: 
-  city: marae
-  accentcity: Marae
+  city: "marae"
+  accentcity: "Marae"
 marepa: 
-  city: marepa
-  accentcity: Marepa
+  city: "marepa"
+  accentcity: "Marepa"
 mariuti: 
-  city: mariuti
-  accentcity: Mariuti
+  city: "mariuti"
+  accentcity: "Mariuti"
 maroe: 
-  city: maroe
-  accentcity: Maroe
+  city: "maroe"
+  accentcity: "Maroe"
 matahiva: 
-  city: matahiva
-  accentcity: Matahiva
+  city: "matahiva"
+  accentcity: "Matahiva"
 mataiea: 
-  city: mataiea
-  accentcity: Mataiea
+  city: "mataiea"
+  accentcity: "Mataiea"
 mataiva: 
-  city: mataiva
-  accentcity: Mataiva
+  city: "mataiva"
+  accentcity: "Mataiva"
 mataorio: 
-  city: mataorio
-  accentcity: Mataorio
+  city: "mataorio"
+  accentcity: "Mataorio"
 mataura: 
-  city: mataura
-  accentcity: Mataura
+  city: "mataura"
+  accentcity: "Mataura"
 matiti: 
-  city: matiti
-  accentcity: Matiti
+  city: "matiti"
+  accentcity: "Matiti"
 matopu: 
-  city: matopu
-  accentcity: Matopu
+  city: "matopu"
+  accentcity: "Matopu"
 matotea: 
-  city: matotea
-  accentcity: Matotea
+  city: "matotea"
+  accentcity: "Matotea"
 matura: 
-  city: matura
-  accentcity: Matura
+  city: "matura"
+  accentcity: "Matura"
 mitirapa: 
-  city: mitirapa
-  accentcity: Mitirapa
+  city: "mitirapa"
+  accentcity: "Mitirapa"
 moerai: 
-  city: moerai
-  accentcity: Moerai
+  city: "moerai"
+  accentcity: "Moerai"
 moheva: 
-  city: moheva
-  accentcity: Moheva
+  city: "moheva"
+  accentcity: "Moheva"
 motaiva: 
-  city: motaiva
-  accentcity: Motaiva
+  city: "motaiva"
+  accentcity: "Motaiva"
 motopu: 
-  city: motopu
-  accentcity: Motopu
+  city: "motopu"
+  accentcity: "Motopu"
 motu taiahu: 
-  city: motu taiahu
-  accentcity: Motu Taiahu
+  city: "motu taiahu"
+  accentcity: "Motu Taiahu"
 motu ura: 
-  city: motu ura
-  accentcity: Motu Ura
+  city: "motu ura"
+  accentcity: "Motu Ura"
 nahoe: 
-  city: nahoe
-  accentcity: Nahoe
+  city: "nahoe"
+  accentcity: "Nahoe"
 nairiri: 
-  city: nairiri
-  accentcity: Nairiri
+  city: "nairiri"
+  accentcity: "Nairiri"
 nakapeni: 
-  city: nakapeni
-  accentcity: Nakapeni
+  city: "nakapeni"
+  accentcity: "Nakapeni"
 ngarumaova: 
-  city: ngarumaova
-  accentcity: Ngarumaova
+  city: "ngarumaova"
+  accentcity: "Ngarumaova"
 niumaa: 
-  city: niumaa
-  accentcity: Niumaa
+  city: "niumaa"
+  accentcity: "Niumaa"
 niuporiri: 
-  city: niuporiri
-  accentcity: Niuporiri
+  city: "niuporiri"
+  accentcity: "Niuporiri"
 niutahi: 
-  city: niutahi
-  accentcity: Niutahi
+  city: "niutahi"
+  accentcity: "Niutahi"
 nivee: 
-  city: nivee
-  accentcity: Nivee
+  city: "nivee"
+  accentcity: "Nivee"
 nurehia: 
-  city: nurehia
-  accentcity: Nurehia
+  city: "nurehia"
+  accentcity: "Nurehia"
 nutae: 
-  city: nutae
-  accentcity: Nutae
+  city: "nutae"
+  accentcity: "Nutae"
 oae: 
-  city: oae
-  accentcity: Oae
+  city: "oae"
+  accentcity: "Oae"
 oehau: 
-  city: oehau
-  accentcity: Oehau
+  city: "oehau"
+  accentcity: "Oehau"
 ofaiharata: 
-  city: ofaiharata
-  accentcity: Ofaiharata
+  city: "ofaiharata"
+  accentcity: "Ofaiharata"
 ohava: 
-  city: ohava
-  accentcity: Ohava
+  city: "ohava"
+  accentcity: "Ohava"
 ohomo: 
-  city: ohomo
-  accentcity: Ohomo
+  city: "ohomo"
+  accentcity: "Ohomo"
 omoa: 
-  city: omoa
-  accentcity: Omoa
+  city: "omoa"
+  accentcity: "Omoa"
 omuara: 
-  city: omuara
-  accentcity: Omuara
+  city: "omuara"
+  accentcity: "Omuara"
 onoheha: 
-  city: onoheha
-  accentcity: Onoheha
+  city: "onoheha"
+  accentcity: "Onoheha"
 ootomai: 
-  city: ootomai
-  accentcity: Ootomai
+  city: "ootomai"
+  accentcity: "Ootomai"
 opaura: 
-  city: opaura
-  accentcity: Opaura
+  city: "opaura"
+  accentcity: "Opaura"
 oponu: 
-  city: oponu
-  accentcity: Oponu
+  city: "oponu"
+  accentcity: "Oponu"
 oroau: 
-  city: oroau
-  accentcity: Oroau
+  city: "oroau"
+  accentcity: "Oroau"
 orofara: 
-  city: orofara
-  accentcity: Orofara
+  city: "orofara"
+  accentcity: "Orofara"
 orofura: 
-  city: orofura
-  accentcity: Orofura
+  city: "orofura"
+  accentcity: "Orofura"
 oroiri: 
-  city: oroiri
-  accentcity: Oroiri
+  city: "oroiri"
+  accentcity: "Oroiri"
 oroiro: 
-  city: oroiro
-  accentcity: Oroiro
+  city: "oroiro"
+  accentcity: "Oroiro"
 orouau: 
-  city: orouau
-  accentcity: Orouau
+  city: "orouau"
+  accentcity: "Orouau"
 orufara: 
-  city: orufara
-  accentcity: Orufara
+  city: "orufara"
+  accentcity: "Orufara"
 otepa: 
-  city: otepa
-  accentcity: Otepa
+  city: "otepa"
+  accentcity: "Otepa"
 otiaroa: 
-  city: otiaroa
-  accentcity: Otiaroa
+  city: "otiaroa"
+  accentcity: "Otiaroa"
 otumai: 
-  city: otumai
-  accentcity: Otumai
+  city: "otumai"
+  accentcity: "Otumai"
 otuofai: 
-  city: otuofai
-  accentcity: Otuofai
+  city: "otuofai"
+  accentcity: "Otuofai"
 otutara: 
-  city: otutara
-  accentcity: Otutara
+  city: "otutara"
+  accentcity: "Otutara"
 ouia: 
-  city: ouia
-  accentcity: Ouia
+  city: "ouia"
+  accentcity: "Ouia"
 outu maoro: 
-  city: outu maoro
-  accentcity: Outu Maoro
+  city: "outu maoro"
+  accentcity: "Outu Maoro"
 owharre: 
-  city: owharre
-  accentcity: Owharre
+  city: "owharre"
+  accentcity: "Owharre"
 paca: 
-  city: paca
-  accentcity: Paca
+  city: "paca"
+  accentcity: "Paca"
 paea: 
-  city: paea
-  accentcity: Paea
+  city: "paea"
+  accentcity: "Paea"
 paeau: 
-  city: paeau
-  accentcity: Paeau
+  city: "paeau"
+  accentcity: "Paeau"
 pahiarepo: 
-  city: pahiarepo
-  accentcity: Pahiarepo
+  city: "pahiarepo"
+  accentcity: "Pahiarepo"
 pahiti: 
-  city: pahiti
-  accentcity: Pahiti
+  city: "pahiti"
+  accentcity: "Pahiti"
 pahonu: 
-  city: pahonu
-  accentcity: Pahonu
+  city: "pahonu"
+  accentcity: "Pahonu"
 pahua: 
-  city: pahua
-  accentcity: Pahua
+  city: "pahua"
+  accentcity: "Pahua"
 paiouma: 
-  city: paiouma
-  accentcity: Paiouma
+  city: "paiouma"
+  accentcity: "Paiouma"
 pani: 
-  city: pani
-  accentcity: Pani
+  city: "pani"
+  accentcity: "Pani"
 paofai: 
-  city: paofai
-  accentcity: Paofai
+  city: "paofai"
+  accentcity: "Paofai"
 paopao: 
-  city: paopao
-  accentcity: Paopao
+  city: "paopao"
+  accentcity: "Paopao"
 papao: 
-  city: papao
-  accentcity: Papao
+  city: "papao"
+  accentcity: "Papao"
 papara: 
-  city: papara
-  accentcity: Papara
+  city: "papara"
+  accentcity: "Papara"
 paparevo: 
-  city: paparevo
-  accentcity: Paparevo
+  city: "paparevo"
+  accentcity: "Paparevo"
 papava: 
-  city: papava
-  accentcity: Papava
+  city: "papava"
+  accentcity: "Papava"
 papawa: 
-  city: papawa
-  accentcity: Papawa
+  city: "papawa"
+  accentcity: "Papawa"
 papeari: 
-  city: papeari
-  accentcity: Papeari
+  city: "papeari"
+  accentcity: "Papeari"
 papeete: 
-  city: papeete
-  accentcity: Papeete
+  city: "papeete"
+  accentcity: "Papeete"
 papehee: 
-  city: papehee
-  accentcity: Papehee
+  city: "papehee"
+  accentcity: "Papehee"
 papeiti: 
-  city: papeiti
-  accentcity: Papeiti
+  city: "papeiti"
+  accentcity: "Papeiti"
 papeotai: 
-  city: papeotai
-  accentcity: Papeotai
+  city: "papeotai"
+  accentcity: "Papeotai"
 papetoai: 
-  city: papetoai
-  accentcity: Papetoai
+  city: "papetoai"
+  accentcity: "Papetoai"
 papiete: 
-  city: papiete
-  accentcity: Papiete
+  city: "papiete"
+  accentcity: "Papiete"
 papiti: 
-  city: papiti
-  accentcity: Papiti
+  city: "papiti"
+  accentcity: "Papiti"
 paraeo: 
-  city: paraeo
-  accentcity: Paraeo
+  city: "paraeo"
+  accentcity: "Paraeo"
 paraiore: 
-  city: paraiore
-  accentcity: Paraiore
+  city: "paraiore"
+  accentcity: "Paraiore"
 paraohumu: 
-  city: paraohumu
-  accentcity: Paraohumu
+  city: "paraohumu"
+  accentcity: "Paraohumu"
 paraoro: 
-  city: paraoro
-  accentcity: Paraoro
+  city: "paraoro"
+  accentcity: "Paraoro"
 parari: 
-  city: parari
-  accentcity: Parari
+  city: "parari"
+  accentcity: "Parari"
 patere: 
-  city: patere
-  accentcity: Patere
+  city: "patere"
+  accentcity: "Patere"
 patio: 
-  city: patio
-  accentcity: Patio
+  city: "patio"
+  accentcity: "Patio"
 patuarepa: 
-  city: patuarepa
-  accentcity: Patuarepa
+  city: "patuarepa"
+  accentcity: "Patuarepa"
 patu patu: 
-  city: patu patu
-  accentcity: Patu Patu
+  city: "patu patu"
+  accentcity: "Patu Patu"
 paturoa: 
-  city: paturoa
-  accentcity: Paturoa
+  city: "paturoa"
+  accentcity: "Paturoa"
 patutoa: 
-  city: patutoa
-  accentcity: Patutoa
+  city: "patutoa"
+  accentcity: "Patutoa"
 paui: 
-  city: paui
-  accentcity: Paui
+  city: "paui"
+  accentcity: "Paui"
 peavitoa: 
-  city: peavitoa
-  accentcity: Peavitoa
+  city: "peavitoa"
+  accentcity: "Peavitoa"
 pehoa: 
-  city: pehoa
-  accentcity: Pehoa
+  city: "pehoa"
+  accentcity: "Pehoa"
 petou: 
-  city: petou
-  accentcity: Petou
+  city: "petou"
+  accentcity: "Petou"
 piahena: 
-  city: piahena
-  accentcity: Piahena
+  city: "piahena"
+  accentcity: "Piahena"
 pierre: 
-  city: pierre
-  accentcity: Pierre
+  city: "pierre"
+  accentcity: "Pierre"
 pihaa: 
-  city: pihaa
-  accentcity: Pihaa
+  city: "pihaa"
+  accentcity: "Pihaa"
 pihaena: 
-  city: pihaena
-  accentcity: Pihaena
+  city: "pihaena"
+  accentcity: "Pihaena"
 pipine: 
-  city: pipine
-  accentcity: Pipine
+  city: "pipine"
+  accentcity: "Pipine"
 pirae: 
-  city: pirae
-  accentcity: Pirae
+  city: "pirae"
+  accentcity: "Pirae"
 port vairao: 
-  city: port vairao
-  accentcity: Port Vairao
+  city: "port vairao"
+  accentcity: "Port Vairao"
 pouheva: 
-  city: pouheva
-  accentcity: Pouheva
+  city: "pouheva"
+  accentcity: "Pouheva"
 poutei: 
-  city: poutei
-  accentcity: Poutei
+  city: "poutei"
+  accentcity: "Poutei"
 povai: 
-  city: povai
-  accentcity: Povai
+  city: "povai"
+  accentcity: "Povai"
 puahua: 
-  city: puahua
-  accentcity: Puahua
+  city: "puahua"
+  accentcity: "Puahua"
 puaiti: 
-  city: puaiti
-  accentcity: Puaiti
+  city: "puaiti"
+  accentcity: "Puaiti"
 pucu: 
-  city: pucu
-  accentcity: Pucu
+  city: "pucu"
+  accentcity: "Pucu"
 pueu: 
-  city: pueu
-  accentcity: Pueu
+  city: "pueu"
+  accentcity: "Pueu"
 puheva: 
-  city: puheva
-  accentcity: Puheva
+  city: "puheva"
+  accentcity: "Puheva"
 punaauia: 
-  city: punaauia
-  accentcity: Punaauia
+  city: "punaauia"
+  accentcity: "Punaauia"
 punaavia: 
-  city: punaavia
-  accentcity: Punaavia
+  city: "punaavia"
+  accentcity: "Punaavia"
 putiara: 
-  city: putiara
-  accentcity: Putiara
+  city: "putiara"
+  accentcity: "Putiara"
 rairai: 
-  city: rairai
-  accentcity: Rairai
+  city: "rairai"
+  accentcity: "Rairai"
 rairoa: 
-  city: rairoa
-  accentcity: Rairoa
+  city: "rairoa"
+  accentcity: "Rairoa"
 rairua: 
-  city: rairua
-  accentcity: Rairua
+  city: "rairua"
+  accentcity: "Rairua"
 raitahiti: 
-  city: raitahiti
-  accentcity: Raitahiti
+  city: "raitahiti"
+  accentcity: "Raitahiti"
 raiurua: 
-  city: raiurua
-  accentcity: Raiurua
+  city: "raiurua"
+  accentcity: "Raiurua"
 rautini: 
-  city: rautini
-  accentcity: Rautini
+  city: "rautini"
+  accentcity: "Rautini"
 rihirea: 
-  city: rihirea
-  accentcity: Rihirea
+  city: "rihirea"
+  accentcity: "Rihirea"
 rikitea: 
-  city: rikitea
-  accentcity: Rikitea
+  city: "rikitea"
+  accentcity: "Rikitea"
 roruru: 
-  city: roruru
-  accentcity: Roruru
+  city: "roruru"
+  accentcity: "Roruru"
 rotoava: 
-  city: rotoava
-  accentcity: Rotoava
+  city: "rotoava"
+  accentcity: "Rotoava"
 rouru: 
-  city: rouru
-  accentcity: Rouru
+  city: "rouru"
+  accentcity: "Rouru"
 saint amelia: 
-  city: saint amelia
-  accentcity: Saint Amelia
+  city: "saint amelia"
+  accentcity: "Saint Amelia"
 sainte amelie: 
-  city: sainte amelie
+  city: "sainte amelie"
   accentcity: "Sainte Amélie"
 taapuna: 
-  city: taapuna
-  accentcity: Taapuna
+  city: "taapuna"
+  accentcity: "Taapuna"
 tahaa: 
-  city: tahaa
-  accentcity: Tahaa
+  city: "tahaa"
+  accentcity: "Tahaa"
 taharoa: 
-  city: taharoa
-  accentcity: Taharoa
+  city: "taharoa"
+  accentcity: "Taharoa"
 tahateao: 
-  city: tahateao
-  accentcity: Tahateao
+  city: "tahateao"
+  accentcity: "Tahateao"
 tahueia: 
-  city: tahueia
-  accentcity: Tahueia
+  city: "tahueia"
+  accentcity: "Tahueia"
 tai-o-hae: 
-  city: tai-o-hae
-  accentcity: Tai-o-hae
+  city: "tai-o-hae"
+  accentcity: "Tai-o-hae"
 taiokai: 
-  city: taiokai
-  accentcity: Taiokai
+  city: "taiokai"
+  accentcity: "Taiokai"
 takou: 
-  city: takou
-  accentcity: Takou
+  city: "takou"
+  accentcity: "Takou"
 taku: 
-  city: taku
-  accentcity: Taku
+  city: "taku"
+  accentcity: "Taku"
 tamatoa: 
-  city: tamatoa
-  accentcity: Tamatoa
+  city: "tamatoa"
+  accentcity: "Tamatoa"
 taraeo: 
-  city: taraeo
-  accentcity: Taraeo
+  city: "taraeo"
+  accentcity: "Taraeo"
 taravai: 
-  city: taravai
-  accentcity: Taravai
+  city: "taravai"
+  accentcity: "Taravai"
 taravao: 
-  city: taravao
-  accentcity: Taravao
+  city: "taravao"
+  accentcity: "Taravao"
 tarione: 
-  city: tarione
-  accentcity: Tarione
+  city: "tarione"
+  accentcity: "Tarione"
 tatoi: 
-  city: tatoi
-  accentcity: Tatoi
+  city: "tatoi"
+  accentcity: "Tatoi"
 taua: 
-  city: taua
-  accentcity: Taua
+  city: "taua"
+  accentcity: "Taua"
 taunoa: 
-  city: taunoa
-  accentcity: Taunoa
+  city: "taunoa"
+  accentcity: "Taunoa"
 tautera: 
-  city: tautera
-  accentcity: Tautera
+  city: "tautera"
+  accentcity: "Tautera"
 tautira: 
-  city: tautira
-  accentcity: Tautira
+  city: "tautira"
+  accentcity: "Tautira"
 taverea: 
-  city: taverea
-  accentcity: Taverea
+  city: "taverea"
+  accentcity: "Taverea"
 teaharoa: 
-  city: teaharoa
-  accentcity: Teaharoa
+  city: "teaharoa"
+  accentcity: "Teaharoa"
 teahupoo: 
-  city: teahupoo
-  accentcity: Teahupoo
+  city: "teahupoo"
+  accentcity: "Teahupoo"
 teahupo: 
-  city: teahupo
-  accentcity: Teahupo
+  city: "teahupo"
+  accentcity: "Teahupo"
 teahupu: 
-  city: teahupu
-  accentcity: Teahupu
+  city: "teahupu"
+  accentcity: "Teahupu"
 teamara: 
-  city: teamara
-  accentcity: Teamara
+  city: "teamara"
+  accentcity: "Teamara"
 teana: 
-  city: teana
-  accentcity: Teana
+  city: "teana"
+  accentcity: "Teana"
 teapaa: 
-  city: teapaa
-  accentcity: Teapaa
+  city: "teapaa"
+  accentcity: "Teapaa"
 te auae: 
-  city: te auae
-  accentcity: Te Auae
+  city: "te auae"
+  accentcity: "Te Auae"
 teavaro: 
-  city: teavaro
-  accentcity: Teavaro
+  city: "teavaro"
+  accentcity: "Teavaro"
 te avi toa: 
-  city: te avi toa
-  accentcity: Te Avi Toa
+  city: "te avi toa"
+  accentcity: "Te Avi Toa"
 te-fare-arii: 
-  city: te-fare-arii
-  accentcity: Te-Fare-Arii
+  city: "te-fare-arii"
+  accentcity: "Te-Fare-Arii"
 tefau: 
-  city: tefau
-  accentcity: Tefau
+  city: "tefau"
+  accentcity: "Tefau"
 tehekega: 
-  city: tehekega
-  accentcity: Tehekega
+  city: "tehekega"
+  accentcity: "Tehekega"
 tehuarupe: 
-  city: tehuarupe
-  accentcity: Tehuarupe
+  city: "tehuarupe"
+  accentcity: "Tehuarupe"
 temae: 
-  city: temae
-  accentcity: Temae
+  city: "temae"
+  accentcity: "Temae"
 temao: 
-  city: temao
-  accentcity: Temao
+  city: "temao"
+  accentcity: "Temao"
 teniuohiri: 
-  city: teniuohiri
-  accentcity: Teniuohiri
+  city: "teniuohiri"
+  accentcity: "Teniuohiri"
 tenukupara: 
-  city: tenukupara
-  accentcity: Tenukupara
+  city: "tenukupara"
+  accentcity: "Tenukupara"
 teonemahima: 
-  city: teonemahima
-  accentcity: Teonemahima
+  city: "teonemahima"
+  accentcity: "Teonemahima"
 teonemahina: 
-  city: teonemahina
-  accentcity: Teonemahina
+  city: "teonemahina"
+  accentcity: "Teonemahina"
 tepukamaruia: 
-  city: tepukamaruia
-  accentcity: Tepukamaruia
+  city: "tepukamaruia"
+  accentcity: "Tepukamaruia"
 tepu: 
-  city: tepu
-  accentcity: Tepu
+  city: "tepu"
+  accentcity: "Tepu"
 terehe: 
-  city: terehe
-  accentcity: Terehe
+  city: "terehe"
+  accentcity: "Terehe"
 tereporepo: 
-  city: tereporepo
-  accentcity: Tereporepo
+  city: "tereporepo"
+  accentcity: "Tereporepo"
 teruafaroa: 
-  city: teruafaroa
-  accentcity: Teruafaroa
+  city: "teruafaroa"
+  accentcity: "Teruafaroa"
 teruamao: 
-  city: teruamao
-  accentcity: Teruamao
+  city: "teruamao"
+  accentcity: "Teruamao"
 te rua pua: 
-  city: te rua pua
-  accentcity: Te Rua Pua
+  city: "te rua pua"
+  accentcity: "Te Rua Pua"
 tetamanu: 
-  city: tetamanu
-  accentcity: Tetamanu
+  city: "tetamanu"
+  accentcity: "Tetamanu"
 tetira: 
-  city: tetira
-  accentcity: Tetira
+  city: "tetira"
+  accentcity: "Tetira"
 teuo: 
-  city: teuo
-  accentcity: Teuo
+  city: "teuo"
+  accentcity: "Teuo"
 tevaitoa: 
-  city: tevaitoa
-  accentcity: Tevaitoa
+  city: "tevaitoa"
+  accentcity: "Tevaitoa"
 tiaraha: 
-  city: tiaraha
-  accentcity: Tiaraha
+  city: "tiaraha"
+  accentcity: "Tiaraha"
 tiarei: 
-  city: tiarei
-  accentcity: Tiarei
+  city: "tiarei"
+  accentcity: "Tiarei"
 tiitau: 
-  city: tiitau
-  accentcity: Tiitau
+  city: "tiitau"
+  accentcity: "Tiitau"
 tiomati: 
-  city: tiomati
-  accentcity: Tiomati
+  city: "tiomati"
+  accentcity: "Tiomati"
 tipaerui: 
-  city: tipaerui
-  accentcity: Tipaerui
+  city: "tipaerui"
+  accentcity: "Tipaerui"
 tiputa: 
-  city: tiputa
-  accentcity: Tiputa
+  city: "tiputa"
+  accentcity: "Tiputa"
 tiripoa: 
-  city: tiripoa
-  accentcity: Tiripoa
+  city: "tiripoa"
+  accentcity: "Tiripoa"
 titau: 
-  city: titau
-  accentcity: Titau
+  city: "titau"
+  accentcity: "Titau"
 toahotu: 
-  city: toahotu
-  accentcity: Toahotu
+  city: "toahotu"
+  accentcity: "Toahotu"
 toamara: 
-  city: toamara
-  accentcity: Toamara
+  city: "toamara"
+  accentcity: "Toamara"
 toanoano: 
-  city: toanoano
-  accentcity: Toanoano
+  city: "toanoano"
+  accentcity: "Toanoano"
 toetoe: 
-  city: toetoe
-  accentcity: Toetoe
+  city: "toetoe"
+  accentcity: "Toetoe"
 tohautu: 
-  city: tohautu
-  accentcity: Tohautu
+  city: "tohautu"
+  accentcity: "Tohautu"
 toini: 
-  city: toini
-  accentcity: Toini
+  city: "toini"
+  accentcity: "Toini"
 topitike: 
-  city: topitike
-  accentcity: Topitike
+  city: "topitike"
+  accentcity: "Topitike"
 torea: 
-  city: torea
-  accentcity: Torea
+  city: "torea"
+  accentcity: "Torea"
 tuara: 
-  city: tuara
-  accentcity: Tuara
+  city: "tuara"
+  accentcity: "Tuara"
 tuarea: 
-  city: tuarea
-  accentcity: Tuarea
+  city: "tuarea"
+  accentcity: "Tuarea"
 tuete: 
-  city: tuete
-  accentcity: Tuete
+  city: "tuete"
+  accentcity: "Tuete"
 tuherahera: 
-  city: tuherahera
-  accentcity: Tuherahera
+  city: "tuherahera"
+  accentcity: "Tuherahera"
 tukuhora: 
-  city: tukuhora
-  accentcity: Tukuhora
+  city: "tukuhora"
+  accentcity: "Tukuhora"
 tupana: 
-  city: tupana
-  accentcity: Tupana
+  city: "tupana"
+  accentcity: "Tupana"
 tupapati: 
-  city: tupapati
-  accentcity: Tupapati
+  city: "tupapati"
+  accentcity: "Tupapati"
 turapao: 
-  city: turapao
-  accentcity: Turapao
+  city: "turapao"
+  accentcity: "Turapao"
 tuuhora: 
-  city: tuuhora
-  accentcity: Tuuhora
+  city: "tuuhora"
+  accentcity: "Tuuhora"
 urihore: 
-  city: urihore
-  accentcity: Urihore
+  city: "urihore"
+  accentcity: "Urihore"
 uritutua: 
-  city: uritutua
-  accentcity: Uritutua
+  city: "uritutua"
+  accentcity: "Uritutua"
 utaofai: 
-  city: utaofai
-  accentcity: Utaofai
+  city: "utaofai"
+  accentcity: "Utaofai"
 utu-maoro: 
-  city: utu-maoro
-  accentcity: Utu-maoro
+  city: "utu-maoro"
+  accentcity: "Utu-maoro"
 utuofai: 
-  city: utuofai
-  accentcity: Utuofai
+  city: "utuofai"
+  accentcity: "Utuofai"
 uturoa: 
-  city: uturoa
-  accentcity: Uturoa
+  city: "uturoa"
+  accentcity: "Uturoa"
 vaiare: 
-  city: vaiare
+  city: "vaiare"
   accentcity: "Va\xC3\xAFare"
 vaieri: 
-  city: vaieri
-  accentcity: Vaieri
+  city: "vaieri"
+  accentcity: "Vaieri"
 vaiete: 
-  city: vaiete
-  accentcity: Vaiete
+  city: "vaiete"
+  accentcity: "Vaiete"
 vaihi: 
-  city: vaihi
-  accentcity: Vaihi
+  city: "vaihi"
+  accentcity: "Vaihi"
 vaionifa: 
-  city: vaionifa
-  accentcity: Vaionifa
+  city: "vaionifa"
+  accentcity: "Vaionifa"
 vaioperu: 
-  city: vaioperu
-  accentcity: Vaioperu
+  city: "vaioperu"
+  accentcity: "Vaioperu"
 vaiori: 
-  city: vaiori
-  accentcity: Vaiori
+  city: "vaiori"
+  accentcity: "Vaiori"
 vaipeu: 
-  city: vaipeu
-  accentcity: Vaipeu
+  city: "vaipeu"
+  accentcity: "Vaipeu"
 vaipohe: 
-  city: vaipohe
-  accentcity: Vaipohe
+  city: "vaipohe"
+  accentcity: "Vaipohe"
 vairao: 
-  city: vairao
-  accentcity: Vairao
+  city: "vairao"
+  accentcity: "Vairao"
 vairoa: 
-  city: vairoa
-  accentcity: Vairoa
+  city: "vairoa"
+  accentcity: "Vairoa"
 vairo: 
-  city: vairo
-  accentcity: Vairo
+  city: "vairo"
+  accentcity: "Vairo"
 vaitahu: 
-  city: vaitahu
-  accentcity: Vaitahu
+  city: "vaitahu"
+  accentcity: "Vaitahu"
 vaitape: 
-  city: vaitape
-  accentcity: Vaitape
+  city: "vaitape"
+  accentcity: "Vaitape"
 vaitia: 
-  city: vaitia
-  accentcity: Vaitia
+  city: "vaitia"
+  accentcity: "Vaitia"
 vaitinoua: 
-  city: vaitinoua
-  accentcity: Vaitinoua
+  city: "vaitinoua"
+  accentcity: "Vaitinoua"
 vaitoare: 
-  city: vaitoare
-  accentcity: Vaitoare
+  city: "vaitoare"
+  accentcity: "Vaitoare"
 vaitona: 
-  city: vaitona
-  accentcity: Vaitona
+  city: "vaitona"
+  accentcity: "Vaitona"
 vaitoto: 
-  city: vaitoto
-  accentcity: Vaitoto
+  city: "vaitoto"
+  accentcity: "Vaitoto"
 vaitunanaa: 
-  city: vaitunanaa
-  accentcity: Vaitunanaa
+  city: "vaitunanaa"
+  accentcity: "Vaitunanaa"
 vaitu: 
-  city: vaitu
-  accentcity: Vaitu
+  city: "vaitu"
+  accentcity: "Vaitu"
 vaiuru: 
-  city: vaiuru
-  accentcity: Vaiuru
+  city: "vaiuru"
+  accentcity: "Vaiuru"

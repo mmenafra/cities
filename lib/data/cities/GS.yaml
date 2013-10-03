@@ -1,8 +1,8 @@
 # encoding: UTF-8
 --- 
 grytviken: 
-  city: grytviken
-  accentcity: Grytviken
+  city: "grytviken"
+  accentcity: "Grytviken"
 stromness: 
-  city: stromness
-  accentcity: Stromness
+  city: "stromness"
+  accentcity: "Stromness"

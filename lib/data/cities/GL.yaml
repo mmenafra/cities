@@ -1,1685 +1,1685 @@
 # encoding: UTF-8
 --- 
 aalatsivik: 
-  city: aalatsivik
-  accentcity: Aalatsivik
+  city: "aalatsivik"
+  accentcity: "Aalatsivik"
 aappilattoq: 
-  city: aappilattoq
-  accentcity: Aappilattoq
+  city: "aappilattoq"
+  accentcity: "Aappilattoq"
 aappilattorq: 
-  city: aappilattorq
-  accentcity: Aappilattorq
+  city: "aappilattorq"
+  accentcity: "Aappilattorq"
 aasiaat: 
-  city: aasiaat
-  accentcity: Aasiaat
+  city: "aasiaat"
+  accentcity: "Aasiaat"
 aasivik: 
-  city: aasivik
-  accentcity: Aasivik
+  city: "aasivik"
+  accentcity: "Aasivik"
 agdluitsoq: 
-  city: agdluitsoq
-  accentcity: Agdluitsoq
+  city: "agdluitsoq"
+  accentcity: "Agdluitsoq"
 agdluitsup pa: 
-  city: agdluitsup pa
+  city: "agdluitsup pa"
   accentcity: "Agdluitsup P\xC3\xA2"
 agpamiut: 
-  city: agpamiut
-  accentcity: Agpamiut
+  city: "agpamiut"
+  accentcity: "Agpamiut"
 agparssuit: 
-  city: agparssuit
-  accentcity: Agparssuit
+  city: "agparssuit"
+  accentcity: "Agparssuit"
 agpat: 
-  city: agpat
-  accentcity: Agpat
+  city: "agpat"
+  accentcity: "Agpat"
 agto: 
-  city: agto
-  accentcity: Agto
+  city: "agto"
+  accentcity: "Agto"
 akigsungek: 
-  city: akigsungek
-  accentcity: Akigsungek
+  city: "akigsungek"
+  accentcity: "Akigsungek"
 akinaitsat: 
-  city: akinaitsat
+  city: "akinaitsat"
   accentcity: "Akínaits\xC3\xA2t"
 akinatsiait: 
-  city: akinatsiait
+  city: "akinatsiait"
   accentcity: "Akínátsiait"
 akiqsserniak: 
-  city: akiqsserniak
-  accentcity: Akiqsserniak
+  city: "akiqsserniak"
+  accentcity: "Akiqsserniak"
 akugdlek: 
-  city: akugdlek
-  accentcity: Akugdlek
+  city: "akugdlek"
+  accentcity: "Akugdlek"
 akugdlit: 
-  city: akugdlit
+  city: "akugdlit"
   accentcity: "Akugdl\xC3\xAEt"
 akuliarusek: 
-  city: akuliarusek
-  accentcity: Akuliarusek
+  city: "akuliarusek"
+  accentcity: "Akuliarusek"
 akuliaruseq: 
-  city: akuliaruseq
-  accentcity: Akuliaruseq
+  city: "akuliaruseq"
+  accentcity: "Akuliaruseq"
 akulliit: 
-  city: akulliit
-  accentcity: Akulliit
+  city: "akulliit"
+  accentcity: "Akulliit"
 akumak: 
-  city: akumak
-  accentcity: Akumak
+  city: "akumak"
+  accentcity: "Akumak"
 akunaq: 
-  city: akunaq
+  city: "akunaq"
   accentcity: "Akún\xC3\xA2q"
 akunnaaq: 
-  city: akunnaaq
-  accentcity: Akunnaaq
+  city: "akunnaaq"
+  accentcity: "Akunnaaq"
 alluitsoq: 
-  city: alluitsoq
-  accentcity: Alluitsoq
+  city: "alluitsoq"
+  accentcity: "Alluitsoq"
 alluitsup paa: 
-  city: alluitsup paa
-  accentcity: Alluitsup Paa
+  city: "alluitsup paa"
+  accentcity: "Alluitsup Paa"
 amerdlok: 
-  city: amerdlok
-  accentcity: Amerdlok
+  city: "amerdlok"
+  accentcity: "Amerdlok"
 ammassalik: 
-  city: ammassalik
-  accentcity: Ammassalik
+  city: "ammassalik"
+  accentcity: "Ammassalik"
 ammassivik: 
-  city: ammassivik
-  accentcity: Ammassivik
+  city: "ammassivik"
+  accentcity: "Ammassivik"
 angmagssalik: 
-  city: angmagssalik
-  accentcity: Angmagssalik
+  city: "angmagssalik"
+  accentcity: "Angmagssalik"
 angmagssivik: 
-  city: angmagssivik
-  accentcity: Angmagssivik
+  city: "angmagssivik"
+  accentcity: "Angmagssivik"
 angmagsslik: 
-  city: angmagsslik
-  accentcity: Angmagsslik
+  city: "angmagsslik"
+  accentcity: "Angmagsslik"
 angmassalik: 
-  city: angmassalik
-  accentcity: Angmassalik
+  city: "angmassalik"
+  accentcity: "Angmassalik"
 anordliuitsoq: 
-  city: anordliuitsoq
-  accentcity: Anordliuitsoq
+  city: "anordliuitsoq"
+  accentcity: "Anordliuitsoq"
 anorliuitsoq: 
-  city: anorliuitsoq
-  accentcity: Anorliuitsoq
+  city: "anorliuitsoq"
+  accentcity: "Anorliuitsoq"
 appaarsuit: 
-  city: appaarsuit
-  accentcity: Appaarsuit
+  city: "appaarsuit"
+  accentcity: "Appaarsuit"
 appamiut: 
-  city: appamiut
-  accentcity: Appamiut
+  city: "appamiut"
+  accentcity: "Appamiut"
 appat: 
-  city: appat
-  accentcity: Appat
+  city: "appat"
+  accentcity: "Appat"
 aputiteeq: 
-  city: aputiteeq
-  accentcity: Aputiteeq
+  city: "aputiteeq"
+  accentcity: "Aputiteeq"
 aputiteq: 
-  city: aputiteq
-  accentcity: Aputiteq
+  city: "aputiteq"
+  accentcity: "Aputiteq"
 aqigsserniaq: 
-  city: aqigsserniaq
-  accentcity: Aqigsserniaq
+  city: "aqigsserniaq"
+  accentcity: "Aqigsserniaq"
 aqisserniaq: 
-  city: aqisserniaq
-  accentcity: Aqisserniaq
+  city: "aqisserniaq"
+  accentcity: "Aqisserniaq"
 arsivik: 
-  city: arsivik
-  accentcity: Arsivik
+  city: "arsivik"
+  accentcity: "Arsivik"
 arsuk: 
-  city: arsuk
-  accentcity: Arsuk
+  city: "arsuk"
+  accentcity: "Arsuk"
 asatdlut: 
-  city: asatdlut
-  accentcity: Asatdlut
+  city: "asatdlut"
+  accentcity: "Asatdlut"
 assaqutaq: 
-  city: assaqutaq
-  accentcity: Assaqutaq
+  city: "assaqutaq"
+  accentcity: "Assaqutaq"
 ataa: 
-  city: ataa
-  accentcity: Ataa
+  city: "ataa"
+  accentcity: "Ataa"
 ata: 
-  city: ata
+  city: "ata"
   accentcity: "At\xC3\xA2"
 atammik: 
-  city: atammik
-  accentcity: Atammik
+  city: "atammik"
+  accentcity: "Atammik"
 atangmik: 
-  city: atangmik
-  accentcity: Atangmik
+  city: "atangmik"
+  accentcity: "Atangmik"
 atarta: 
-  city: atarta
-  accentcity: Atarta
+  city: "atarta"
+  accentcity: "Atarta"
 attu: 
-  city: attu
-  accentcity: Attu
+  city: "attu"
+  accentcity: "Attu"
 augpaiartok: 
-  city: augpaiartok
-  accentcity: Augpaiartok
+  city: "augpaiartok"
+  accentcity: "Augpaiartok"
 augpalartok: 
-  city: augpalartok
-  accentcity: Augpalartok
+  city: "augpalartok"
+  accentcity: "Augpalartok"
 augpilagtok: 
-  city: augpilagtok
-  accentcity: Augpilagtok
+  city: "augpilagtok"
+  accentcity: "Augpilagtok"
 augpilagtoq: 
-  city: augpilagtoq
-  accentcity: Augpilagtoq
+  city: "augpilagtoq"
+  accentcity: "Augpilagtoq"
 aulatsivik: 
-  city: aulatsivik
-  accentcity: Aulatsivik
+  city: "aulatsivik"
+  accentcity: "Aulatsivik"
 aumarutigssat: 
-  city: aumarutigssat
-  accentcity: Aumarutigssat
+  city: "aumarutigssat"
+  accentcity: "Aumarutigssat"
 ausiait: 
-  city: ausiait
-  accentcity: Ausiait
+  city: "ausiait"
+  accentcity: "Ausiait"
 aussivik: 
-  city: aussivik
-  accentcity: Aussivik
+  city: "aussivik"
+  accentcity: "Aussivik"
 autdlainiarfinguaq: 
-  city: autdlainiarfinguaq
-  accentcity: Autdlainiarfinguaq
+  city: "autdlainiarfinguaq"
+  accentcity: "Autdlainiarfinguaq"
 avangnardlit: 
-  city: avangnardlit
-  accentcity: Avangnardlit
+  city: "avangnardlit"
+  accentcity: "Avangnardlit"
 avigaat: 
-  city: avigaat
-  accentcity: Avigaat
+  city: "avigaat"
+  accentcity: "Avigaat"
 avigait: 
-  city: avigait
-  accentcity: Avigait
+  city: "avigait"
+  accentcity: "Avigait"
 avssaqutaq: 
-  city: avssaqutaq
+  city: "avssaqutaq"
   accentcity: "Avssaqútaq"
 camp lloyd: 
-  city: camp lloyd
-  accentcity: Camp Lloyd
+  city: "camp lloyd"
+  accentcity: "Camp Lloyd"
 cape york: 
-  city: cape york
-  accentcity: Cape York
+  city: "cape york"
+  accentcity: "Cape York"
 christianshaab: 
-  city: christianshaab
-  accentcity: Christianshaab
+  city: "christianshaab"
+  accentcity: "Christianshaab"
 christianshab: 
-  city: christianshab
+  city: "christianshab"
   accentcity: "Christiansh\xC3\xA5b"
 claushavn: 
-  city: claushavn
-  accentcity: Claushavn
+  city: "claushavn"
+  accentcity: "Claushavn"
 diskofjord: 
-  city: diskofjord
-  accentcity: Diskofjord
+  city: "diskofjord"
+  accentcity: "Diskofjord"
 dundas: 
-  city: dundas
-  accentcity: Dundas
+  city: "dundas"
+  accentcity: "Dundas"
 east proven: 
-  city: east proven
-  accentcity: East Proven
+  city: "east proven"
+  accentcity: "East Proven"
 egedesminde: 
-  city: egedesminde
-  accentcity: Egedesminde
+  city: "egedesminde"
+  accentcity: "Egedesminde"
 ekogfat: 
-  city: ekogfat
-  accentcity: Ekogfat
+  city: "ekogfat"
+  accentcity: "Ekogfat"
 eqalugaarsuit: 
-  city: eqalugaarsuit
-  accentcity: Eqalugaarsuit
+  city: "eqalugaarsuit"
+  accentcity: "Eqalugaarsuit"
 eqi: 
-  city: eqi
-  accentcity: Eqi
+  city: "eqi"
+  accentcity: "Eqi"
 eripassut: 
-  city: eripassut
-  accentcity: Eripassut
+  city: "eripassut"
+  accentcity: "Eripassut"
 erkigtok: 
-  city: erkigtok
-  accentcity: Erkigtok
+  city: "erkigtok"
+  accentcity: "Erkigtok"
 etah: 
-  city: etah
-  accentcity: Etah
+  city: "etah"
+  accentcity: "Etah"
 evkitsok: 
-  city: evkitsok
-  accentcity: Evkitsok
+  city: "evkitsok"
+  accentcity: "Evkitsok"
 faeringehavn: 
-  city: faeringehavn
+  city: "faeringehavn"
   accentcity: "F\xC3\xA6ringehavn"
 faeringerhavnen: 
-  city: faeringerhavnen
-  accentcity: Faeringerhavnen
+  city: "faeringerhavnen"
+  accentcity: "Faeringerhavnen"
 finnsbu: 
-  city: finnsbu
-  accentcity: Finnsbu
+  city: "finnsbu"
+  accentcity: "Finnsbu"
 fiskenaes: 
-  city: fiskenaes
-  accentcity: Fiskenaes
+  city: "fiskenaes"
+  accentcity: "Fiskenaes"
 fiskenaesset: 
-  city: fiskenaesset
+  city: "fiskenaesset"
   accentcity: "Fisken\xC3\xA6sset"
 fiskengesset: 
-  city: fiskengesset
-  accentcity: Fiskengesset
+  city: "fiskengesset"
+  accentcity: "Fiskengesset"
 fiskernaes: 
-  city: fiskernaes
+  city: "fiskernaes"
   accentcity: "Fiskern\xC3\xA6s"
 frederiksdal: 
-  city: frederiksdal
-  accentcity: Frederiksdal
+  city: "frederiksdal"
+  accentcity: "Frederiksdal"
 frederikshaab: 
-  city: frederikshaab
-  accentcity: Frederikshaab
+  city: "frederikshaab"
+  accentcity: "Frederikshaab"
 frederikshab: 
-  city: frederikshab
+  city: "frederikshab"
   accentcity: "Frederiksh\xC3\xA5b"
 gamle egedesminde: 
-  city: gamle egedesminde
-  accentcity: Gamle Egedesminde
+  city: "gamle egedesminde"
+  accentcity: "Gamle Egedesminde"
 gamle qutdligssat: 
-  city: gamle qutdligssat
-  accentcity: Gamle Qutdligssat
+  city: "gamle qutdligssat"
+  accentcity: "Gamle Qutdligssat"
 gammel sukkertoppen: 
-  city: gammel sukkertoppen
-  accentcity: Gammel Sukkertoppen
+  city: "gammel sukkertoppen"
+  accentcity: "Gammel Sukkertoppen"
 godhavn: 
-  city: godhavn
-  accentcity: Godhavn
+  city: "godhavn"
+  accentcity: "Godhavn"
 godthaab: 
-  city: godthaab
-  accentcity: Godthaab
+  city: "godthaab"
+  accentcity: "Godthaab"
 godthab: 
-  city: godthab
+  city: "godthab"
   accentcity: "Godth\xC3\xA5b"
 gronnedal: 
-  city: gronnedal
+  city: "gronnedal"
   accentcity: "Gr\xC3\xB8nnedal"
 harbor camp: 
-  city: harbor camp
-  accentcity: Harbor Camp
+  city: "harbor camp"
+  accentcity: "Harbor Camp"
 herjolfsnes: 
-  city: herjolfsnes
-  accentcity: Herjolfsnes
+  city: "herjolfsnes"
+  accentcity: "Herjolfsnes"
 holsteinborg: 
-  city: holsteinborg
-  accentcity: Holsteinborg
+  city: "holsteinborg"
+  accentcity: "Holsteinborg"
 holsteinsborg: 
-  city: holsteinsborg
-  accentcity: Holsteinsborg
+  city: "holsteinsborg"
+  accentcity: "Holsteinsborg"
 holstenborg: 
-  city: holstenborg
-  accentcity: Holstenborg
+  city: "holstenborg"
+  accentcity: "Holstenborg"
 holstensborg: 
-  city: holstensborg
-  accentcity: Holstensborg
+  city: "holstensborg"
+  accentcity: "Holstensborg"
 hunde ejland: 
-  city: hunde ejland
-  accentcity: Hunde Ejland
+  city: "hunde ejland"
+  accentcity: "Hunde Ejland"
 igaliko: 
-  city: igaliko
-  accentcity: Igaliko
+  city: "igaliko"
+  accentcity: "Igaliko"
 igaliku: 
-  city: igaliku
-  accentcity: Igaliku
+  city: "igaliku"
+  accentcity: "Igaliku"
 igdloluarsuit: 
-  city: igdloluarsuit
-  accentcity: Igdloluarsuit
+  city: "igdloluarsuit"
+  accentcity: "Igdloluarsuit"
 igdlorpait: 
-  city: igdlorpait
-  accentcity: Igdlorpait
+  city: "igdlorpait"
+  accentcity: "Igdlorpait"
 igdlorqortormiut: 
-  city: igdlorqortormiut
+  city: "igdlorqortormiut"
   accentcity: "Igdlorqort\xC3\xB4rmiut"
 igdlorssuit: 
-  city: igdlorssuit
-  accentcity: Igdlorssuit
+  city: "igdlorssuit"
+  accentcity: "Igdlorssuit"
 igdlorsuit: 
-  city: igdlorsuit
-  accentcity: Igdlorsuit
+  city: "igdlorsuit"
+  accentcity: "Igdlorsuit"
 igdluiartorfik: 
-  city: igdluiartorfik
-  accentcity: Igdluiartorfik
+  city: "igdluiartorfik"
+  accentcity: "Igdluiartorfik"
 igdlukavsak: 
-  city: igdlukavsak
-  accentcity: Igdlukavsak
+  city: "igdlukavsak"
+  accentcity: "Igdlukavsak"
 igdlukorssuit: 
-  city: igdlukorssuit
-  accentcity: Igdlukorssuit
+  city: "igdlukorssuit"
+  accentcity: "Igdlukorssuit"
 igdluligssuak: 
-  city: igdluligssuak
-  accentcity: Igdluligssuak
+  city: "igdluligssuak"
+  accentcity: "Igdluligssuak"
 igdlulik: 
-  city: igdlulik
-  accentcity: Igdlulik
+  city: "igdlulik"
+  accentcity: "Igdlulik"
 igdluluarssuit: 
-  city: igdluluarssuit
-  accentcity: Igdluluarssuit
+  city: "igdluluarssuit"
+  accentcity: "Igdluluarssuit"
 igdlumiut: 
-  city: igdlumiut
-  accentcity: Igdlumiut
+  city: "igdlumiut"
+  accentcity: "Igdlumiut"
 igdlunguaq: 
-  city: igdlunguaq
+  city: "igdlunguaq"
   accentcity: "Igdlúnguaq"
 iginiarfik: 
-  city: iginiarfik
+  city: "iginiarfik"
   accentcity: "Igíniarfik"
 iginniarfik: 
-  city: iginniarfik
-  accentcity: Iginniarfik
+  city: "iginniarfik"
+  accentcity: "Iginniarfik"
 igssalik: 
-  city: igssalik
-  accentcity: Igssalik
+  city: "igssalik"
+  accentcity: "Igssalik"
 igterajivit: 
-  city: igterajivit
-  accentcity: Igterajivit
+  city: "igterajivit"
+  accentcity: "Igterajivit"
 igtorqortormit: 
-  city: igtorqortormit
+  city: "igtorqortormit"
   accentcity: "Igtorqort\xC3\xB4rm\xC3\xAEt"
 igtumit: 
-  city: igtumit
+  city: "igtumit"
   accentcity: "Igtum\xC3\xAEt"
 ikamiut: 
-  city: ikamiut
-  accentcity: Ikamiut
+  city: "ikamiut"
+  accentcity: "Ikamiut"
 ikateq: 
-  city: ikateq
+  city: "ikateq"
   accentcity: "\xC3\x8Dkáteq"
 ikerarssuk: 
-  city: ikerarssuk
+  city: "ikerarssuk"
   accentcity: "Iker\xC3\xA2rssuk"
 ikerasaarsuk: 
-  city: ikerasaarsuk
-  accentcity: Ikerasaarsuk
+  city: "ikerasaarsuk"
+  accentcity: "Ikerasaarsuk"
 ikerasagssuak: 
-  city: ikerasagssuak
-  accentcity: Ikerasagssuak
+  city: "ikerasagssuak"
+  accentcity: "Ikerasagssuak"
 ikerasagssuaq: 
-  city: ikerasagssuaq
-  accentcity: Ikerasagssuaq
+  city: "ikerasagssuaq"
+  accentcity: "Ikerasagssuaq"
 ikerasak: 
-  city: ikerasak
-  accentcity: Ikerasak
+  city: "ikerasak"
+  accentcity: "Ikerasak"
 ikerasarssuk: 
-  city: ikerasarssuk
+  city: "ikerasarssuk"
   accentcity: "Ikeras\xC3\xA2rssuk"
 ikerasassuaq: 
-  city: ikerasassuaq
-  accentcity: Ikerasassuaq
+  city: "ikerasassuaq"
+  accentcity: "Ikerasassuaq"
 ikeraussak: 
-  city: ikeraussak
-  accentcity: Ikeraussak
+  city: "ikeraussak"
+  accentcity: "Ikeraussak"
 ikeraussek: 
-  city: ikeraussek
-  accentcity: Ikeraussek
+  city: "ikeraussek"
+  accentcity: "Ikeraussek"
 ikigait: 
-  city: ikigait
-  accentcity: Ikigait
+  city: "ikigait"
+  accentcity: "Ikigait"
 ikkamiut: 
-  city: ikkamiut
-  accentcity: Ikkamiut
+  city: "ikkamiut"
+  accentcity: "Ikkamiut"
 ikorfat: 
-  city: ikorfat
-  accentcity: Ikorfat
+  city: "ikorfat"
+  accentcity: "Ikorfat"
 ilimanaq: 
-  city: ilimanaq
-  accentcity: Ilimanaq
+  city: "ilimanaq"
+  accentcity: "Ilimanaq"
 ilivileq: 
-  city: ilivileq
-  accentcity: Ilivileq
+  city: "ilivileq"
+  accentcity: "Ilivileq"
 illoqqortoormiut: 
-  city: illoqqortoormiut
-  accentcity: Illoqqortoormiut
+  city: "illoqqortoormiut"
+  accentcity: "Illoqqortoormiut"
 illorpaat: 
-  city: illorpaat
-  accentcity: Illorpaat
+  city: "illorpaat"
+  accentcity: "Illorpaat"
 illorsuit: 
-  city: illorsuit
-  accentcity: Illorsuit
+  city: "illorsuit"
+  accentcity: "Illorsuit"
 illulik: 
-  city: illulik
-  accentcity: Illulik
+  city: "illulik"
+  accentcity: "Illulik"
 iluilek: 
-  city: iluilek
-  accentcity: Iluilek
+  city: "iluilek"
+  accentcity: "Iluilek"
 ilulisat: 
-  city: ilulisat
-  accentcity: Ilulisat
+  city: "ilulisat"
+  accentcity: "Ilulisat"
 ilulissat: 
-  city: ilulissat
-  accentcity: Ilulissat
+  city: "ilulissat"
+  accentcity: "Ilulissat"
 innalik: 
-  city: innalik
-  accentcity: Innalik
+  city: "innalik"
+  accentcity: "Innalik"
 inugsuk: 
-  city: inugsuk
-  accentcity: Inugsuk
+  city: "inugsuk"
+  accentcity: "Inugsuk"
 inussuk: 
-  city: inussuk
-  accentcity: Inussuk
+  city: "inussuk"
+  accentcity: "Inussuk"
 ippik: 
-  city: ippik
-  accentcity: Ippik
+  city: "ippik"
+  accentcity: "Ippik"
 isertoq: 
-  city: isertoq
-  accentcity: Isertoq
+  city: "isertoq"
+  accentcity: "Isertoq"
 isortoq: 
-  city: isortoq
-  accentcity: Isortoq
+  city: "isortoq"
+  accentcity: "Isortoq"
 isua: 
-  city: isua
-  accentcity: Isua
+  city: "isua"
+  accentcity: "Isua"
 iterdlak: 
-  city: iterdlak
-  accentcity: Iterdlak
+  city: "iterdlak"
+  accentcity: "Iterdlak"
 iterlak: 
-  city: iterlak
-  accentcity: Iterlak
+  city: "iterlak"
+  accentcity: "Iterlak"
 itilleq: 
-  city: itilleq
-  accentcity: Itilleq
+  city: "itilleq"
+  accentcity: "Itilleq"
 itivdlek: 
-  city: itivdlek
-  accentcity: Itivdlek
+  city: "itivdlek"
+  accentcity: "Itivdlek"
 itivdleq: 
-  city: itivdleq
-  accentcity: Itivdleq
+  city: "itivdleq"
+  accentcity: "Itivdleq"
 itivnera: 
-  city: itivnera
-  accentcity: Itivnera
+  city: "itivnera"
+  accentcity: "Itivnera"
 itseqqortoormiit: 
-  city: itseqqortoormiit
-  accentcity: Itseqqortoormiit
+  city: "itseqqortoormiit"
+  accentcity: "Itseqqortoormiit"
 ittaajimmiut: 
-  city: ittaajimmiut
-  accentcity: Ittaajimmiut
+  city: "ittaajimmiut"
+  accentcity: "Ittaajimmiut"
 itterajivit: 
-  city: itterajivit
-  accentcity: Itterajivit
+  city: "itterajivit"
+  accentcity: "Itterajivit"
 ittoqqortoormiit: 
-  city: ittoqqortoormiit
-  accentcity: Ittoqqortoormiit
+  city: "ittoqqortoormiit"
+  accentcity: "Ittoqqortoormiit"
 ittorisseq: 
-  city: ittorisseq
-  accentcity: Ittorisseq
+  city: "ittorisseq"
+  accentcity: "Ittorisseq"
 ittumiit: 
-  city: ittumiit
-  accentcity: Ittumiit
+  city: "ittumiit"
+  accentcity: "Ittumiit"
 ivanganek: 
-  city: ivanganek
-  accentcity: Ivanganek
+  city: "ivanganek"
+  accentcity: "Ivanganek"
 iviggut: 
-  city: iviggut
-  accentcity: Iviggut
+  city: "iviggut"
+  accentcity: "Iviggut"
 ivigtut: 
-  city: ivigtut
-  accentcity: Ivigtut
+  city: "ivigtut"
+  accentcity: "Ivigtut"
 ivittuut: 
-  city: ivittuut
-  accentcity: Ivittuut
+  city: "ivittuut"
+  accentcity: "Ivittuut"
 ivnalik: 
-  city: ivnalik
-  accentcity: Ivnalik
+  city: "ivnalik"
+  accentcity: "Ivnalik"
 ivnanganek: 
-  city: ivnanganek
+  city: "ivnanganek"
   accentcity: "Ivn\xC3\xA2nganek"
 ivssorigseg: 
-  city: ivssorigseg
-  accentcity: Ivssorigseg
+  city: "ivssorigseg"
+  accentcity: "Ivssorigseg"
 ivssorigseq: 
-  city: ivssorigseq
-  accentcity: Ivssorigseq
+  city: "ivssorigseq"
+  accentcity: "Ivssorigseq"
 ivtorigteq: 
-  city: ivtorigteq
-  accentcity: Ivtorigteq
+  city: "ivtorigteq"
+  accentcity: "Ivtorigteq"
 jakobshavn: 
-  city: jakobshavn
-  accentcity: Jakobshavn
+  city: "jakobshavn"
+  accentcity: "Jakobshavn"
 julianehaab: 
-  city: julianehaab
-  accentcity: Julianehaab
+  city: "julianehaab"
+  accentcity: "Julianehaab"
 julianehab: 
-  city: julianehab
+  city: "julianehab"
   accentcity: "Julianeh\xC3\xA5b"
 julian haab: 
-  city: julian haab
-  accentcity: Julian Haab
+  city: "julian haab"
+  accentcity: "Julian Haab"
 kaersut: 
-  city: kaersut
-  accentcity: Kaersut
+  city: "kaersut"
+  accentcity: "Kaersut"
 kagsiarsuk: 
-  city: kagsiarsuk
-  accentcity: Kagsiarsuk
+  city: "kagsiarsuk"
+  accentcity: "Kagsiarsuk"
 kagsimiut: 
-  city: kagsimiut
-  accentcity: Kagsimiut
+  city: "kagsimiut"
+  accentcity: "Kagsimiut"
 kagssiarssuk: 
-  city: kagssiarssuk
-  accentcity: Kagssiarssuk
+  city: "kagssiarssuk"
+  accentcity: "Kagssiarssuk"
 kagssigssalik: 
-  city: kagssigssalik
-  accentcity: Kagssigssalik
+  city: "kagssigssalik"
+  accentcity: "Kagssigssalik"
 kakortak: 
-  city: kakortak
-  accentcity: Kakortak
+  city: "kakortak"
+  accentcity: "Kakortak"
 kakortok: 
-  city: kakortok
-  accentcity: Kakortok
+  city: "kakortok"
+  accentcity: "Kakortok"
 kanak: 
-  city: kanak
+  city: "kanak"
   accentcity: "Kan\xC3\xA2k"
 kanaq: 
-  city: kanaq
+  city: "kanaq"
   accentcity: "Kan\xC3\xA2q"
 kangaamiut: 
-  city: kangaamiut
-  accentcity: Kangaamiut
+  city: "kangaamiut"
+  accentcity: "Kangaamiut"
 kangaarsuk: 
-  city: kangaarsuk
-  accentcity: Kangaarsuk
+  city: "kangaarsuk"
+  accentcity: "Kangaarsuk"
 kangaatsiaq: 
-  city: kangaatsiaq
-  accentcity: Kangaatsiaq
+  city: "kangaatsiaq"
+  accentcity: "Kangaatsiaq"
 kangamiut: 
-  city: kangamiut
+  city: "kangamiut"
   accentcity: "Kang\xC3\xA2miut"
 kanganiut: 
-  city: kanganiut
-  accentcity: Kanganiut
+  city: "kanganiut"
+  accentcity: "Kanganiut"
 kangarssuk: 
-  city: kangarssuk
+  city: "kangarssuk"
   accentcity: "Kang\xC3\xA2rssuk"
 kangatok: 
-  city: kangatok
+  city: "kangatok"
   accentcity: "Kangat\xC3\xB4k"
 kangatsiak: 
-  city: kangatsiak
-  accentcity: Kangatsiak
+  city: "kangatsiak"
+  accentcity: "Kangatsiak"
 kangatsiaq: 
-  city: kangatsiaq
+  city: "kangatsiaq"
   accentcity: "Kang\xC3\xA2tsiaq"
 kangek: 
-  city: kangek
-  accentcity: Kangek
+  city: "kangek"
+  accentcity: "Kangek"
 kangeq: 
-  city: kangeq
-  accentcity: Kangeq
+  city: "kangeq"
+  accentcity: "Kangeq"
 kangerdluarssoruseq: 
-  city: kangerdluarssoruseq
-  accentcity: Kangerdluarssoruseq
+  city: "kangerdluarssoruseq"
+  accentcity: "Kangerdluarssoruseq"
 kangerdluarssuk: 
-  city: kangerdluarssuk
-  accentcity: Kangerdluarssuk
+  city: "kangerdluarssuk"
+  accentcity: "Kangerdluarssuk"
 kangerdlugssuaq: 
-  city: kangerdlugssuaq
-  accentcity: Kangerdlugssuaq
+  city: "kangerdlugssuaq"
+  accentcity: "Kangerdlugssuaq"
 kangerluarsoruseq: 
-  city: kangerluarsoruseq
-  accentcity: Kangerluarsoruseq
+  city: "kangerluarsoruseq"
+  accentcity: "Kangerluarsoruseq"
 kangerluarsuk: 
-  city: kangerluarsuk
-  accentcity: Kangerluarsuk
+  city: "kangerluarsuk"
+  accentcity: "Kangerluarsuk"
 kangerlussuaq: 
-  city: kangerlussuaq
-  accentcity: Kangerlussuaq
+  city: "kangerlussuaq"
+  accentcity: "Kangerlussuaq"
 kangerssuatsiaq: 
-  city: kangerssuatsiaq
-  accentcity: Kangerssuatsiaq
+  city: "kangerssuatsiaq"
+  accentcity: "Kangerssuatsiaq"
 kangersuatsiak: 
-  city: kangersuatsiak
-  accentcity: Kangersuatsiak
+  city: "kangersuatsiak"
+  accentcity: "Kangersuatsiak"
 kangersuatsiaq: 
-  city: kangersuatsiaq
-  accentcity: Kangersuatsiaq
+  city: "kangersuatsiaq"
+  accentcity: "Kangersuatsiaq"
 kangerup nua: 
-  city: kangerup nua
+  city: "kangerup nua"
   accentcity: "Kangerup N\xC3\xBBa"
 kangidlermiut: 
-  city: kangidlermiut
-  accentcity: Kangidlermiut
+  city: "kangidlermiut"
+  accentcity: "Kangidlermiut"
 kangigdlermiut: 
-  city: kangigdlermiut
-  accentcity: Kangigdlermiut
+  city: "kangigdlermiut"
+  accentcity: "Kangigdlermiut"
 kangikasik: 
-  city: kangikasik
+  city: "kangikasik"
   accentcity: "Kangikas\xC3\xAEk"
 kangikitsoq: 
-  city: kangikitsoq
-  accentcity: Kangikitsoq
+  city: "kangikitsoq"
+  accentcity: "Kangikitsoq"
 kangilineq: 
-  city: kangilineq
-  accentcity: Kangilineq
+  city: "kangilineq"
+  accentcity: "Kangilineq"
 kanissut: 
-  city: kanissut
-  accentcity: Kanissut
+  city: "kanissut"
+  accentcity: "Kanissut"
 kanisut: 
-  city: kanisut
+  city: "kanisut"
   accentcity: "Kanísut"
 kap dan: 
-  city: kap dan
-  accentcity: Kap Dan
+  city: "kap dan"
+  accentcity: "Kap Dan"
 kap hope: 
-  city: kap hope
-  accentcity: Kap Hope
+  city: "kap hope"
+  accentcity: "Kap Hope"
 kapingasok: 
-  city: kapingasok
-  accentcity: Kapingasok
+  city: "kapingasok"
+  accentcity: "Kapingasok"
 kapisigdlit: 
-  city: kapisigdlit
-  accentcity: Kapisigdlit
+  city: "kapisigdlit"
+  accentcity: "Kapisigdlit"
 kapisilik: 
-  city: kapisilik
-  accentcity: Kapisilik
+  city: "kapisilik"
+  accentcity: "Kapisilik"
 kapisillit: 
-  city: kapisillit
-  accentcity: Kapisillit
+  city: "kapisillit"
+  accentcity: "Kapisillit"
 kap tobin: 
-  city: kap tobin
-  accentcity: Kap Tobin
+  city: "kap tobin"
+  accentcity: "Kap Tobin"
 karna: 
-  city: karna
-  accentcity: Karna
+  city: "karna"
+  accentcity: "Karna"
 kasigianguit: 
-  city: kasigianguit
-  accentcity: Kasigianguit
+  city: "kasigianguit"
+  accentcity: "Kasigianguit"
 kekertak: 
-  city: kekertak
-  accentcity: Kekertak
+  city: "kekertak"
+  accentcity: "Kekertak"
 kekertarssuak: 
-  city: kekertarssuak
-  accentcity: Kekertarssuak
+  city: "kekertarssuak"
+  accentcity: "Kekertarssuak"
 k'ekertarssuak: 
-  city: k'ekertarssuak
-  accentcity: K'ekertarssuak
+  city: "k'ekertarssuak"
+  accentcity: "K'ekertarssuak"
 kekertarsuak: 
-  city: kekertarsuak
-  accentcity: Kekertarsuak
+  city: "kekertarsuak"
+  accentcity: "Kekertarsuak"
 kekertarsuatsiak: 
-  city: kekertarsuatsiak
-  accentcity: Kekertarsuatsiak
+  city: "kekertarsuatsiak"
+  accentcity: "Kekertarsuatsiak"
 kekertat: 
-  city: kekertat
-  accentcity: Kekertat
+  city: "kekertat"
+  accentcity: "Kekertat"
 kekertgarsuatsiak: 
-  city: kekertgarsuatsiak
-  accentcity: Kekertgarsuatsiak
+  city: "kekertgarsuatsiak"
+  accentcity: "Kekertgarsuatsiak"
 kiatak: 
-  city: kiatak
-  accentcity: Kiatak
+  city: "kiatak"
+  accentcity: "Kiatak"
 kigdlussat: 
-  city: kigdlussat
+  city: "kigdlussat"
   accentcity: "Kigdl\xC3\xBBssat"
 kigtorsak: 
-  city: kigtorsak
-  accentcity: Kigtorsak
+  city: "kigtorsak"
+  accentcity: "Kigtorsak"
 kigtorsaq: 
-  city: kigtorsaq
-  accentcity: Kigtorsaq
+  city: "kigtorsaq"
+  accentcity: "Kigtorsaq"
 kiinnarissoq: 
-  city: kiinnarissoq
-  accentcity: Kiinnarissoq
+  city: "kiinnarissoq"
+  accentcity: "Kiinnarissoq"
 kiirigsoq: 
-  city: kiirigsoq
-  accentcity: Kiirigsoq
+  city: "kiirigsoq"
+  accentcity: "Kiirigsoq"
 killiat: 
-  city: killiat
-  accentcity: Killiat
+  city: "killiat"
+  accentcity: "Killiat"
 kinalik: 
-  city: kinalik
-  accentcity: Kinalik
+  city: "kinalik"
+  accentcity: "Kinalik"
 kitdliat: 
-  city: kitdliat
-  accentcity: Kitdliat
+  city: "kitdliat"
+  accentcity: "Kitdliat"
 kitdli: 
-  city: kitdli
+  city: "kitdli"
   accentcity: "Kitdl\xC3\xAE"
 kitdlusat: 
-  city: kitdlusat
-  accentcity: Kitdlusat
+  city: "kitdlusat"
+  accentcity: "Kitdlusat"
 kitorsak: 
-  city: kitorsak
-  accentcity: Kitorsak
+  city: "kitorsak"
+  accentcity: "Kitorsak"
 kitsigsuarssuit: 
-  city: kitsigsuarssuit
-  accentcity: Kitsigsuarssuit
+  city: "kitsigsuarssuit"
+  accentcity: "Kitsigsuarssuit"
 kittorsaq: 
-  city: kittorsaq
-  accentcity: Kittorsaq
+  city: "kittorsaq"
+  accentcity: "Kittorsaq"
 klatak: 
-  city: klatak
-  accentcity: Klatak
+  city: "klatak"
+  accentcity: "Klatak"
 kornok: 
-  city: kornok
-  accentcity: Kornok
+  city: "kornok"
+  accentcity: "Kornok"
 kraulshavn: 
-  city: kraulshavn
-  accentcity: Kraulshavn
+  city: "kraulshavn"
+  accentcity: "Kraulshavn"
 kronprinsen ejland: 
-  city: kronprinsen ejland
-  accentcity: Kronprinsen Ejland
+  city: "kronprinsen ejland"
+  accentcity: "Kronprinsen Ejland"
 kuanit: 
-  city: kuanit
+  city: "kuanit"
   accentcity: "Kuánit"
 kugkat: 
-  city: kugkat
+  city: "kugkat"
   accentcity: "K\xC3\xBBgkat"
 kugsiarsuk: 
-  city: kugsiarsuk
-  accentcity: Kugsiarsuk
+  city: "kugsiarsuk"
+  accentcity: "Kugsiarsuk"
 kuinassuk: 
-  city: kuinassuk
-  accentcity: Kuinassuk
+  city: "kuinassuk"
+  accentcity: "Kuinassuk"
 kuk: 
-  city: kuk
+  city: "kuk"
   accentcity: "K\xC3\xBBk"
 kullorsuaq: 
-  city: kullorsuaq
-  accentcity: Kullorsuaq
+  city: "kullorsuaq"
+  accentcity: "Kullorsuaq"
 kulusuk: 
-  city: kulusuk
-  accentcity: Kulusuk
+  city: "kulusuk"
+  accentcity: "Kulusuk"
 kungmiut: 
-  city: kungmiut
+  city: "kungmiut"
   accentcity: "K\xC3\xBBngmiut"
 kutdligssat: 
-  city: kutdligssat
-  accentcity: Kutdligssat
+  city: "kutdligssat"
+  accentcity: "Kutdligssat"
 kutdlisat: 
-  city: kutdlisat
-  accentcity: Kutdlisat
+  city: "kutdlisat"
+  accentcity: "Kutdlisat"
 kuuk: 
-  city: kuuk
-  accentcity: Kuuk
+  city: "kuuk"
+  accentcity: "Kuuk"
 kuummiit: 
-  city: kuummiit
-  accentcity: Kuummiit
+  city: "kuummiit"
+  accentcity: "Kuummiit"
 kuummiut: 
-  city: kuummiut
-  accentcity: Kuummiut
+  city: "kuummiut"
+  accentcity: "Kuummiut"
 kuvdlorssuak: 
-  city: kuvdlorssuak
-  accentcity: Kuvdlorssuak
+  city: "kuvdlorssuak"
+  accentcity: "Kuvdlorssuak"
 lichtenau: 
-  city: lichtenau
-  accentcity: Lichtenau
+  city: "lichtenau"
+  accentcity: "Lichtenau"
 maarmorilik: 
-  city: maarmorilik
-  accentcity: Maarmorilik
+  city: "maarmorilik"
+  accentcity: "Maarmorilik"
 maitsoq: 
-  city: maitsoq
-  accentcity: Maitsoq
+  city: "maitsoq"
+  accentcity: "Maitsoq"
 majestic bay settlement: 
-  city: majestic bay settlement
-  accentcity: Majestic Bay Settlement
+  city: "majestic bay settlement"
+  accentcity: "Majestic Bay Settlement"
 manermiut: 
-  city: manermiut
-  accentcity: Manermiut
+  city: "manermiut"
+  accentcity: "Manermiut"
 maniitsoq: 
-  city: maniitsoq
-  accentcity: Maniitsoq
+  city: "maniitsoq"
+  accentcity: "Maniitsoq"
 manitsok: 
-  city: manitsok
-  accentcity: Manitsok
+  city: "manitsok"
+  accentcity: "Manitsok"
 manitsoq: 
-  city: manitsoq
-  accentcity: Manitsoq
+  city: "manitsoq"
+  accentcity: "Manitsoq"
 manussak: 
-  city: manussak
+  city: "manussak"
   accentcity: "Man\xC3\xBBssak"
 manussaq: 
-  city: manussaq
+  city: "manussaq"
   accentcity: "Man\xC3\xBBssaq"
 manuusaq: 
-  city: manuusaq
-  accentcity: Manuusaq
+  city: "manuusaq"
+  accentcity: "Manuusaq"
 marmorbrud: 
-  city: marmorbrud
-  accentcity: Marmorbrud
+  city: "marmorbrud"
+  accentcity: "Marmorbrud"
 marmorilik: 
-  city: marmorilik
-  accentcity: Marmorilik
+  city: "marmorilik"
+  accentcity: "Marmorilik"
 marraat: 
-  city: marraat
-  accentcity: Marraat
+  city: "marraat"
+  accentcity: "Marraat"
 marrait: 
-  city: marrait
-  accentcity: Marrait
+  city: "marrait"
+  accentcity: "Marrait"
 moriusaq: 
-  city: moriusaq
-  accentcity: Moriusaq
+  city: "moriusaq"
+  accentcity: "Moriusaq"
 moriussaq: 
-  city: moriussaq
-  accentcity: Moriussaq
+  city: "moriussaq"
+  accentcity: "Moriussaq"
 myggbukta: 
-  city: myggbukta
-  accentcity: Myggbukta
+  city: "myggbukta"
+  accentcity: "Myggbukta"
 naajat: 
-  city: naajat
-  accentcity: Naajat
+  city: "naajat"
+  accentcity: "Naajat"
 nanortalik: 
-  city: nanortalik
-  accentcity: Nanortalik
+  city: "nanortalik"
+  accentcity: "Nanortalik"
 napasok: 
-  city: napasok
-  accentcity: Napasok
+  city: "napasok"
+  accentcity: "Napasok"
 napasoq: 
-  city: napasoq
-  accentcity: Napasoq
+  city: "napasoq"
+  accentcity: "Napasoq"
 napassok: 
-  city: napassok
-  accentcity: Napassok
+  city: "napassok"
+  accentcity: "Napassok"
 napassoq: 
-  city: napassoq
-  accentcity: Napassoq
+  city: "napassoq"
+  accentcity: "Napassoq"
 napasuligssuaq: 
-  city: napasuligssuaq
-  accentcity: Napasuligssuaq
+  city: "napasuligssuaq"
+  accentcity: "Napasuligssuaq"
 narsaarsuk: 
-  city: narsaarsuk
-  accentcity: Narsaarsuk
+  city: "narsaarsuk"
+  accentcity: "Narsaarsuk"
 narsak: 
-  city: narsak
-  accentcity: Narsak
+  city: "narsak"
+  accentcity: "Narsak"
 narsalik: 
-  city: narsalik
-  accentcity: Narsalik
+  city: "narsalik"
+  accentcity: "Narsalik"
 narsaq kujalleq: 
-  city: narsaq kujalleq
-  accentcity: Narsaq Kujalleq
+  city: "narsaq kujalleq"
+  accentcity: "Narsaq Kujalleq"
 narsaq: 
-  city: narsaq
-  accentcity: Narsaq
+  city: "narsaq"
+  accentcity: "Narsaq"
 narsarmiut: 
-  city: narsarmiut
-  accentcity: Narsarmiut
+  city: "narsarmiut"
+  accentcity: "Narsarmiut"
 narsarssauk: 
-  city: narsarssauk
-  accentcity: Narsarssauk
+  city: "narsarssauk"
+  accentcity: "Narsarssauk"
 narsarssuak: 
-  city: narsarssuak
-  accentcity: Narsarssuak
+  city: "narsarssuak"
+  accentcity: "Narsarssuak"
 narsarssunk: 
-  city: narsarssunk
-  accentcity: Narsarssunk
+  city: "narsarssunk"
+  accentcity: "Narsarssunk"
 narsarssurk: 
-  city: narsarssurk
-  accentcity: Narsarssurk
+  city: "narsarssurk"
+  accentcity: "Narsarssurk"
 narsarsuak: 
-  city: narsarsuak
-  accentcity: Narsarsuak
+  city: "narsarsuak"
+  accentcity: "Narsarsuak"
 narsarsuaq: 
-  city: narsarsuaq
-  accentcity: Narsarsuaq
+  city: "narsarsuaq"
+  accentcity: "Narsarsuaq"
 narsatsiaat: 
-  city: narsatsiaat
-  accentcity: Narsatsiaat
+  city: "narsatsiaat"
+  accentcity: "Narsatsiaat"
 narssak kujatdlek: 
-  city: narssak kujatdlek
-  accentcity: Narssak kujatdlek
+  city: "narssak kujatdlek"
+  accentcity: "Narssak kujatdlek"
 narssak: 
-  city: narssak
-  accentcity: Narssak
+  city: "narssak"
+  accentcity: "Narssak"
 narssalik: 
-  city: narssalik
-  accentcity: Narssalik
+  city: "narssalik"
+  accentcity: "Narssalik"
 narssaq: 
-  city: narssaq
-  accentcity: Narssaq
+  city: "narssaq"
+  accentcity: "Narssaq"
 narssarmiut: 
-  city: narssarmiut
-  accentcity: Narssarmiut
+  city: "narssarmiut"
+  accentcity: "Narssarmiut"
 narssarssuaq: 
-  city: narssarssuaq
-  accentcity: Narssarssuaq
+  city: "narssarssuaq"
+  accentcity: "Narssarssuaq"
 narssarssuk: 
-  city: narssarssuk
+  city: "narssarssuk"
   accentcity: "Narss\xC3\xA2rssuk"
 narssatsiait: 
-  city: narssatsiait
-  accentcity: Narssatsiait
+  city: "narssatsiait"
+  accentcity: "Narssatsiait"
 narssurscuk: 
-  city: narssurscuk
-  accentcity: Narssurscuk
+  city: "narssurscuk"
+  accentcity: "Narssurscuk"
 narssurssuk: 
-  city: narssurssuk
+  city: "narssurssuk"
   accentcity: "Narss\xC3\xBBrssuk"
 natsilivik: 
-  city: natsilivik
-  accentcity: Natsilivik
+  city: "natsilivik"
+  accentcity: "Natsilivik"
 natsillvik: 
-  city: natsillvik
-  accentcity: Natsillvik
+  city: "natsillvik"
+  accentcity: "Natsillvik"
 naujat: 
-  city: naujat
+  city: "naujat"
   accentcity: "Nauj\xC3\xA2t"
 neke: 
-  city: neke
-  accentcity: Neke
+  city: "neke"
+  accentcity: "Neke"
 neqe: 
-  city: neqe
-  accentcity: Neqe
+  city: "neqe"
+  accentcity: "Neqe"
 neqi: 
-  city: neqi
-  accentcity: Neqi
+  city: "neqi"
+  accentcity: "Neqi"
 neria: 
-  city: neria
-  accentcity: Neria
+  city: "neria"
+  accentcity: "Neria"
 neriunaq: 
-  city: neriunaq
-  accentcity: Neriunaq
+  city: "neriunaq"
+  accentcity: "Neriunaq"
 niakornarsuk: 
-  city: niakornarsuk
-  accentcity: Niakornarsuk
+  city: "niakornarsuk"
+  accentcity: "Niakornarsuk"
 niakornat: 
-  city: niakornat
-  accentcity: Niakornat
+  city: "niakornat"
+  accentcity: "Niakornat"
 niaqornaarsuk: 
-  city: niaqornaarsuk
-  accentcity: Niaqornaarsuk
+  city: "niaqornaarsuk"
+  accentcity: "Niaqornaarsuk"
 niaqornaq: 
-  city: niaqornaq
-  accentcity: Niaqornaq
+  city: "niaqornaq"
+  accentcity: "Niaqornaq"
 niaqornarssuk: 
-  city: niaqornarssuk
+  city: "niaqornarssuk"
   accentcity: "Niaqorn\xC3\xA2rssuk"
 niaqornat: 
-  city: niaqornat
-  accentcity: Niaqornat
+  city: "niaqornat"
+  accentcity: "Niaqornat"
 nivaaq: 
-  city: nivaaq
-  accentcity: Nivaaq
+  city: "nivaaq"
+  accentcity: "Nivaaq"
 nivak: 
-  city: nivak
-  accentcity: Nivak
+  city: "nivak"
+  accentcity: "Nivak"
 nivaq: 
-  city: nivaq
+  city: "nivaq"
   accentcity: "Niv\xC3\xA2q"
 nord: 
-  city: nord
-  accentcity: Nord
+  city: "nord"
+  accentcity: "Nord"
 nordre huse: 
-  city: nordre huse
-  accentcity: Nordre Huse
+  city: "nordre huse"
+  accentcity: "Nordre Huse"
 north house: 
-  city: north house
-  accentcity: North House
+  city: "north house"
+  accentcity: "North House"
 nugak: 
-  city: nugak
-  accentcity: Nugak
+  city: "nugak"
+  accentcity: "Nugak"
 nugaq: 
-  city: nugaq
+  city: "nugaq"
   accentcity: "N\xC3\xBBg\xC3\xA2q"
 nugatsiaq: 
-  city: nugatsiaq
+  city: "nugatsiaq"
   accentcity: "N\xC3\xBBg\xC3\xA2tsiaq"
 nugssuta: 
-  city: nugssuta
+  city: "nugssuta"
   accentcity: "N\xC3\xBBgss\xC3\xBBt\xC3\xA2"
 nuk: 
-  city: nuk
-  accentcity: Nuk
+  city: "nuk"
+  accentcity: "Nuk"
 nuliarfik: 
-  city: nuliarfik
-  accentcity: Nuliarfik
+  city: "nuliarfik"
+  accentcity: "Nuliarfik"
 nunatame: 
-  city: nunatame
-  accentcity: Nunatame
+  city: "nunatame"
+  accentcity: "Nunatame"
 nunatami: 
-  city: nunatami
-  accentcity: Nunatami
+  city: "nunatami"
+  accentcity: "Nunatami"
 nunatarssuak: 
-  city: nunatarssuak
-  accentcity: Nunatarssuak
+  city: "nunatarssuak"
+  accentcity: "Nunatarssuak"
 nunatarssuaq: 
-  city: nunatarssuaq
-  accentcity: Nunatarssuaq
+  city: "nunatarssuaq"
+  accentcity: "Nunatarssuaq"
 nunatarsuaq: 
-  city: nunatarsuaq
-  accentcity: Nunatarsuaq
+  city: "nunatarsuaq"
+  accentcity: "Nunatarsuaq"
 nunat: 
-  city: nunat
-  accentcity: Nunat
+  city: "nunat"
+  accentcity: "Nunat"
 nursak: 
-  city: nursak
-  accentcity: Nursak
+  city: "nursak"
+  accentcity: "Nursak"
 nussaq: 
-  city: nussaq
+  city: "nussaq"
   accentcity: "N\xC3\xBBssaq"
 nutat: 
-  city: nutat
+  city: "nutat"
   accentcity: "Nut\xC3\xA2t"
 nuugaaq: 
-  city: nuugaaq
-  accentcity: Nuugaaq
+  city: "nuugaaq"
+  accentcity: "Nuugaaq"
 nuugaatsiaq: 
-  city: nuugaatsiaq
-  accentcity: Nuugaatsiaq
+  city: "nuugaatsiaq"
+  accentcity: "Nuugaatsiaq"
 nuuk: 
-  city: nuuk
-  accentcity: Nuuk
+  city: "nuuk"
+  accentcity: "Nuuk"
 nuussuaq: 
-  city: nuussuaq
-  accentcity: Nuussuaq
+  city: "nuussuaq"
+  accentcity: "Nuussuaq"
 old sukkertoppen: 
-  city: old sukkertoppen
-  accentcity: Old Sukkertoppen
+  city: "old sukkertoppen"
+  accentcity: "Old Sukkertoppen"
 oqaitsut: 
-  city: oqaitsut
-  accentcity: Oqaitsut
+  city: "oqaitsut"
+  accentcity: "Oqaitsut"
 ostproven: 
-  city: ostproven
+  city: "ostproven"
   accentcity: "\xC3\x98stpr\xC3\xB8ven"
 paamiut: 
-  city: paamiut
-  accentcity: Paamiut
+  city: "paamiut"
+  accentcity: "Paamiut"
 paarnakajiit: 
-  city: paarnakajiit
-  accentcity: Paarnakajiit
+  city: "paarnakajiit"
+  accentcity: "Paarnakajiit"
 pamiut: 
-  city: pamiut
-  accentcity: Pamiut
+  city: "pamiut"
+  accentcity: "Pamiut"
 paornakajit: 
-  city: paornakajit
+  city: "paornakajit"
   accentcity: "Paornakaj\xC3\xAEt"
 perdlernerit: 
-  city: perdlernerit
-  accentcity: Perdlernerit
+  city: "perdlernerit"
+  accentcity: "Perdlernerit"
 perlernerit: 
-  city: perlernerit
-  accentcity: Perlernerit
+  city: "perlernerit"
+  accentcity: "Perlernerit"
 pingorssuaq: 
-  city: pingorssuaq
-  accentcity: Pingorssuaq
+  city: "pingorssuaq"
+  accentcity: "Pingorssuaq"
 pingorsuaq: 
-  city: pingorsuaq
-  accentcity: Pingorsuaq
+  city: "pingorsuaq"
+  accentcity: "Pingorsuaq"
 pitorqeq: 
-  city: pitorqeq
-  accentcity: Pitorqeq
+  city: "pitorqeq"
+  accentcity: "Pitorqeq"
 port of lievely: 
-  city: port of lievely
-  accentcity: Port of Lievely
+  city: "port of lievely"
+  accentcity: "Port of Lievely"
 portusooq: 
-  city: portusooq
-  accentcity: Portusooq
+  city: "portusooq"
+  accentcity: "Portusooq"
 portusoq: 
-  city: portusoq
+  city: "portusoq"
   accentcity: "Portus\xC3\xB4q"
 prins christianssund: 
-  city: prins christianssund
-  accentcity: Prins Christianssund
+  city: "prins christianssund"
+  accentcity: "Prins Christianssund"
 prins christians sund: 
-  city: prins christians sund
-  accentcity: Prins Christians Sund
+  city: "prins christians sund"
+  accentcity: "Prins Christians Sund"
 prins christian sund: 
-  city: prins christian sund
-  accentcity: Prins Christian Sund
+  city: "prins christian sund"
+  accentcity: "Prins Christian Sund"
 proven: 
-  city: proven
+  city: "proven"
   accentcity: "Pr\xC3\xB8ven"
 qaanaaq: 
-  city: qaanaaq
-  accentcity: Qaanaaq
+  city: "qaanaaq"
+  accentcity: "Qaanaaq"
 qaarsoq: 
-  city: qaarsoq
-  accentcity: Qaarsoq
+  city: "qaarsoq"
+  accentcity: "Qaarsoq"
 qaarsut: 
-  city: qaarsut
-  accentcity: Qaarsut
+  city: "qaarsut"
+  accentcity: "Qaarsut"
 qaersut: 
-  city: qaersut
-  accentcity: Qaersut
+  city: "qaersut"
+  accentcity: "Qaersut"
 qagdlimiut: 
-  city: qagdlimiut
-  accentcity: Qagdlimiut
+  city: "qagdlimiut"
+  accentcity: "Qagdlimiut"
 qagssiarssuk: 
-  city: qagssiarssuk
-  accentcity: Qagssiarssuk
+  city: "qagssiarssuk"
+  accentcity: "Qagssiarssuk"
 qagssimiut: 
-  city: qagssimiut
-  accentcity: Qagssimiut
+  city: "qagssimiut"
+  accentcity: "Qagssimiut"
 qagssissalik: 
-  city: qagssissalik
-  accentcity: Qagssissalik
+  city: "qagssissalik"
+  accentcity: "Qagssissalik"
 qaksiarsuk: 
-  city: qaksiarsuk
-  accentcity: Qaksiarsuk
+  city: "qaksiarsuk"
+  accentcity: "Qaksiarsuk"
 qallimiut: 
-  city: qallimiut
-  accentcity: Qallimiut
+  city: "qallimiut"
+  accentcity: "Qallimiut"
 qanaq: 
-  city: qanaq
+  city: "qanaq"
   accentcity: "Q\xC3\xA2n\xC3\xA2q"
 qangatait: 
-  city: qangatait
+  city: "qangatait"
   accentcity: "Qangátait"
 qangattaat: 
-  city: qangattaat
-  accentcity: Qangattaat
+  city: "qangattaat"
+  accentcity: "Qangattaat"
 qaqortoq: 
-  city: qaqortoq
-  accentcity: Qaqortoq
+  city: "qaqortoq"
+  accentcity: "Qaqortoq"
 qarajat: 
-  city: qarajat
-  accentcity: Qarajat
+  city: "qarajat"
+  accentcity: "Qarajat"
 qasigianguit: 
-  city: qasigianguit
-  accentcity: Qasigianguit
+  city: "qasigianguit"
+  accentcity: "Qasigianguit"
 qasigiannguit: 
-  city: qasigiannguit
-  accentcity: Qasigiannguit
+  city: "qasigiannguit"
+  accentcity: "Qasigiannguit"
 qassiarsuk: 
-  city: qassiarsuk
-  accentcity: Qassiarsuk
+  city: "qassiarsuk"
+  accentcity: "Qassiarsuk"
 qassimiut: 
-  city: qassimiut
-  accentcity: Qassimiut
+  city: "qassimiut"
+  accentcity: "Qassimiut"
 qassisalik: 
-  city: qassisalik
-  accentcity: Qassisalik
+  city: "qassisalik"
+  accentcity: "Qassisalik"
 qaugatait: 
-  city: qaugatait
+  city: "qaugatait"
   accentcity: "Qaugátait"
 qeertartivatsiaq: 
-  city: qeertartivatsiaq
-  accentcity: Qeertartivatsiaq
+  city: "qeertartivatsiaq"
+  accentcity: "Qeertartivatsiaq"
 qekertarssuaq: 
-  city: qekertarssuaq
-  accentcity: Qekertarssuaq
+  city: "qekertarssuaq"
+  accentcity: "Qekertarssuaq"
 qeqertaarsuk: 
-  city: qeqertaarsuk
-  accentcity: Qeqertaarsuk
+  city: "qeqertaarsuk"
+  accentcity: "Qeqertaarsuk"
 qeqertaq: 
-  city: qeqertaq
-  accentcity: Qeqertaq
+  city: "qeqertaq"
+  accentcity: "Qeqertaq"
 qeqertarssuaq: 
-  city: qeqertarssuaq
-  accentcity: Qeqertarssuaq
+  city: "qeqertarssuaq"
+  accentcity: "Qeqertarssuaq"
 qeqertarssuatsiait: 
-  city: qeqertarssuatsiait
-  accentcity: Qeqertarssuatsiait
+  city: "qeqertarssuatsiait"
+  accentcity: "Qeqertarssuatsiait"
 qeqertarssuatsiaq: 
-  city: qeqertarssuatsiaq
-  accentcity: Qeqertarssuatsiaq
+  city: "qeqertarssuatsiaq"
+  accentcity: "Qeqertarssuatsiaq"
 qeqertarssuk: 
-  city: qeqertarssuk
+  city: "qeqertarssuk"
   accentcity: "Qeqert\xC3\xA2rssuk"
 qeqertarssuq: 
-  city: qeqertarssuq
-  accentcity: Qeqertarssuq
+  city: "qeqertarssuq"
+  accentcity: "Qeqertarssuq"
 qeqertarsuaq: 
-  city: qeqertarsuaq
-  accentcity: Qeqertarsuaq
+  city: "qeqertarsuaq"
+  accentcity: "Qeqertarsuaq"
 qeqertarsuatsiaat: 
-  city: qeqertarsuatsiaat
-  accentcity: Qeqertarsuatsiaat
+  city: "qeqertarsuatsiaat"
+  accentcity: "Qeqertarsuatsiaat"
 qeqertarsuatsiaq: 
-  city: qeqertarsuatsiaq
-  accentcity: Qeqertarsuatsiaq
+  city: "qeqertarsuatsiaq"
+  accentcity: "Qeqertarsuatsiaq"
 qeqertat: 
-  city: qeqertat
-  accentcity: Qeqertat
+  city: "qeqertat"
+  accentcity: "Qeqertat"
 qernertuarssivit: 
-  city: qernertuarssivit
-  accentcity: Qernertuarssivit
+  city: "qernertuarssivit"
+  accentcity: "Qernertuarssivit"
 qernertuarssuit: 
-  city: qernertuarssuit
-  accentcity: Qernertuarssuit
+  city: "qernertuarssuit"
+  accentcity: "Qernertuarssuit"
 qigdlussat: 
-  city: qigdlussat
+  city: "qigdlussat"
   accentcity: "Qigdl\xC3\xBBssat"
 qingeq: 
-  city: qingeq
+  city: "qingeq"
   accentcity: "Qíngeq"
 qingua: 
-  city: qingua
-  accentcity: Qingua
+  city: "qingua"
+  accentcity: "Qingua"
 qipingasoq: 
-  city: qipingasoq
-  accentcity: Qipingasoq
+  city: "qipingasoq"
+  accentcity: "Qipingasoq"
 qipingassoq: 
-  city: qipingassoq
-  accentcity: Qipingassoq
+  city: "qipingassoq"
+  accentcity: "Qipingassoq"
 qiqdlussat: 
-  city: qiqdlussat
-  accentcity: Qiqdlussat
+  city: "qiqdlussat"
+  accentcity: "Qiqdlussat"
 qitdlorfik: 
-  city: qitdlorfik
+  city: "qitdlorfik"
   accentcity: "Qitdl\xC3\xB4rfik"
 qooqqut: 
-  city: qooqqut
-  accentcity: Qooqqut
+  city: "qooqqut"
+  accentcity: "Qooqqut"
 qoornoq: 
-  city: qoornoq
-  accentcity: Qoornoq
+  city: "qoornoq"
+  accentcity: "Qoornoq"
 qornoq: 
-  city: qornoq
+  city: "qornoq"
   accentcity: "Q\xC3\xB4rnoq"
 qorqut: 
-  city: qorqut
+  city: "qorqut"
   accentcity: "Q\xC3\xB4rqut"
 qubdligssat: 
-  city: qubdligssat
-  accentcity: Qubdligssat
+  city: "qubdligssat"
+  accentcity: "Qubdligssat"
 quequrtat: 
-  city: quequrtat
-  accentcity: Quequrtat
+  city: "quequrtat"
+  accentcity: "Quequrtat"
 quinassuk: 
-  city: quinassuk
-  accentcity: Quinassuk
+  city: "quinassuk"
+  accentcity: "Quinassuk"
 quinissut: 
-  city: quinissut
+  city: "quinissut"
   accentcity: "Quínissut"
 qullissat: 
-  city: qullissat
-  accentcity: Qullissat
+  city: "qullissat"
+  accentcity: "Qullissat"
 qunnermiut: 
-  city: qunnermiut
-  accentcity: Qunnermiut
+  city: "qunnermiut"
+  accentcity: "Qunnermiut"
 qutdligssarqat: 
-  city: qutdligssarqat
+  city: "qutdligssarqat"
   accentcity: "Qutdligss\xC3\xA2rqat"
 qutdligssat: 
-  city: qutdligssat
-  accentcity: Qutdligssat
+  city: "qutdligssat"
+  accentcity: "Qutdligssat"
 quvnermiut: 
-  city: quvnermiut
-  accentcity: Quvnermiut
+  city: "quvnermiut"
+  accentcity: "Quvnermiut"
 ritenbenk: 
-  city: ritenbenk
-  accentcity: Ritenbenk
+  city: "ritenbenk"
+  accentcity: "Ritenbenk"
 rodebay: 
-  city: rodebay
-  accentcity: Rodebay
+  city: "rodebay"
+  accentcity: "Rodebay"
 saarloq: 
-  city: saarloq
-  accentcity: Saarloq
+  city: "saarloq"
+  accentcity: "Saarloq"
 saattut: 
-  city: saattut
-  accentcity: Saattut
+  city: "saattut"
+  accentcity: "Saattut"
 sammisoq: 
-  city: sammisoq
-  accentcity: Sammisoq
+  city: "sammisoq"
+  accentcity: "Sammisoq"
 sangmisok: 
-  city: sangmisok
-  accentcity: Sangmisok
+  city: "sangmisok"
+  accentcity: "Sangmisok"
 sangmissok: 
-  city: sangmissok
-  accentcity: Sangmissok
+  city: "sangmissok"
+  accentcity: "Sangmissok"
 sangmissoq: 
-  city: sangmissoq
-  accentcity: Sangmissoq
+  city: "sangmissoq"
+  accentcity: "Sangmissoq"
 saqqamiut: 
-  city: saqqamiut
-  accentcity: Saqqamiut
+  city: "saqqamiut"
+  accentcity: "Saqqamiut"
 saqqaq: 
-  city: saqqaq
-  accentcity: Saqqaq
+  city: "saqqaq"
+  accentcity: "Saqqaq"
 saqqarliit: 
-  city: saqqarliit
-  accentcity: Saqqarliit
+  city: "saqqarliit"
+  accentcity: "Saqqarliit"
 saqqisikuik: 
-  city: saqqisikuik
-  accentcity: Saqqisikuik
+  city: "saqqisikuik"
+  accentcity: "Saqqisikuik"
 sardlog: 
-  city: sardlog
-  accentcity: Sardlog
+  city: "sardlog"
+  accentcity: "Sardlog"
 sardlok: 
-  city: sardlok
-  accentcity: Sardlok
+  city: "sardlok"
+  accentcity: "Sardlok"
 sardloq: 
-  city: sardloq
+  city: "sardloq"
   accentcity: "S\xC3\xA2rdloq"
 sarfanguak: 
-  city: sarfanguak
-  accentcity: Sarfanguak
+  city: "sarfanguak"
+  accentcity: "Sarfanguak"
 sarfanguaq: 
-  city: sarfanguaq
+  city: "sarfanguaq"
   accentcity: "Sarfánguaq"
 sarfannguaq: 
-  city: sarfannguaq
-  accentcity: Sarfannguaq
+  city: "sarfannguaq"
+  accentcity: "Sarfannguaq"
 sarfannguit: 
-  city: sarfannguit
-  accentcity: Sarfannguit
+  city: "sarfannguit"
+  accentcity: "Sarfannguit"
 sarkak: 
-  city: sarkak
-  accentcity: Sarkak
+  city: "sarkak"
+  accentcity: "Sarkak"
 sarkardlit: 
-  city: sarkardlit
-  accentcity: Sarkardlit
+  city: "sarkardlit"
+  accentcity: "Sarkardlit"
 sarqamiut: 
-  city: sarqamiut
-  accentcity: Sarqamiut
+  city: "sarqamiut"
+  accentcity: "Sarqamiut"
 sarqaq: 
-  city: sarqaq
-  accentcity: Sarqaq
+  city: "sarqaq"
+  accentcity: "Sarqaq"
 sarqardlit: 
-  city: sarqardlit
+  city: "sarqardlit"
   accentcity: "Sarqardl\xC3\xAEt"
 satut: 
-  city: satut
-  accentcity: "S\xC3\xA3tut"
+  city: "satut"
+  accentcity: "Sãtut"
 savigsivik: 
-  city: savigsivik
-  accentcity: Savigsivik
+  city: "savigsivik"
+  accentcity: "Savigsivik"
 savissivik: 
-  city: savissivik
-  accentcity: Savissivik
+  city: "savissivik"
+  accentcity: "Savissivik"
 scoresby sound: 
-  city: scoresby sound
-  accentcity: Scoresby Sound
+  city: "scoresby sound"
+  accentcity: "Scoresby Sound"
 scoresbysund: 
-  city: scoresbysund
-  accentcity: Scoresbysund
+  city: "scoresbysund"
+  accentcity: "Scoresbysund"
 sermiarssuit: 
-  city: sermiarssuit
-  accentcity: Sermiarssuit
+  city: "sermiarssuit"
+  accentcity: "Sermiarssuit"
 sermiarsuit: 
-  city: sermiarsuit
-  accentcity: Sermiarsuit
+  city: "sermiarsuit"
+  accentcity: "Sermiarsuit"
 sermiarsut: 
-  city: sermiarsut
-  accentcity: Sermiarsut
+  city: "sermiarsut"
+  accentcity: "Sermiarsut"
 sermiligaaq: 
-  city: sermiligaaq
-  accentcity: Sermiligaaq
+  city: "sermiligaaq"
+  accentcity: "Sermiligaaq"
 sermiligaq: 
-  city: sermiligaq
+  city: "sermiligaq"
   accentcity: "Sermilig\xC3\xA2q"
 sermilik: 
-  city: sermilik
-  accentcity: Sermilik
+  city: "sermilik"
+  accentcity: "Sermilik"
 simiutaq: 
-  city: simiutaq
-  accentcity: Simiutaq
+  city: "simiutaq"
+  accentcity: "Simiutaq"
 siorapaluk: 
-  city: siorapaluk
-  accentcity: Siorapaluk
+  city: "siorapaluk"
+  accentcity: "Siorapaluk"
 sioropaluk: 
-  city: sioropaluk
-  accentcity: Sioropaluk
+  city: "sioropaluk"
+  accentcity: "Sioropaluk"
 sisimiut: 
-  city: sisimiut
-  accentcity: Sisimiut
+  city: "sisimiut"
+  accentcity: "Sisimiut"
 sivsingassoq: 
-  city: sivsingassoq
-  accentcity: Sivsingassoq
+  city: "sivsingassoq"
+  accentcity: "Sivsingassoq"
 sivtingaleq: 
-  city: sivtingaleq
-  accentcity: Sivtingaleq
+  city: "sivtingaleq"
+  accentcity: "Sivtingaleq"
 skansen: 
-  city: skansen
-  accentcity: Skansen
+  city: "skansen"
+  accentcity: "Skansen"
 skanske: 
-  city: skanske
-  accentcity: Skanske
+  city: "skanske"
+  accentcity: "Skanske"
 skjoldungen: 
-  city: skjoldungen
-  accentcity: Skjoldungen
+  city: "skjoldungen"
+  accentcity: "Skjoldungen"
 sletten: 
-  city: sletten
-  accentcity: Sletten
+  city: "sletten"
+  accentcity: "Sletten"
 sondre igaliko: 
-  city: sondre igaliko
+  city: "sondre igaliko"
   accentcity: "S\xC3\xB8ndre Igaliko"
 sondre igaliku: 
-  city: sondre igaliku
+  city: "sondre igaliku"
   accentcity: "S\xC3\xB8ndre Igaliku"
 sondre stromfjord: 
-  city: sondre stromfjord
+  city: "sondre stromfjord"
   accentcity: "S\xC3\xB8ndre Str\xC3\xB8mfjord"
 sondre upernavik: 
-  city: sondre upernavik
+  city: "sondre upernavik"
   accentcity: "S\xC3\xB8ndre Upernavik"
 sondre upernivik: 
-  city: sondre upernivik
+  city: "sondre upernivik"
   accentcity: "S\xC3\xB8ndre Upernivik"
 south proven: 
-  city: south proven
-  accentcity: South Proven
+  city: "south proven"
+  accentcity: "South Proven"
 south upernavik: 
-  city: south upernavik
-  accentcity: South Upernavik
+  city: "south upernavik"
+  accentcity: "South Upernavik"
 sowallick point: 
-  city: sowallick point
-  accentcity: Sowallick Point
+  city: "sowallick point"
+  accentcity: "Sowallick Point"
 sujunerajik: 
-  city: sujunerajik
-  accentcity: Sujunerajik
+  city: "sujunerajik"
+  accentcity: "Sujunerajik"
 sukkertoppen: 
-  city: sukkertoppen
-  accentcity: Sukkertoppen
+  city: "sukkertoppen"
+  accentcity: "Sukkertoppen"
 summer place: 
-  city: summer place
-  accentcity: Summer Place
+  city: "summer place"
+  accentcity: "Summer Place"
 sydproven: 
-  city: sydproven
+  city: "sydproven"
   accentcity: "Sydpr\xC3\xB8ven"
 tartanaq: 
-  city: tartanaq
-  accentcity: Tartanaq
+  city: "tartanaq"
+  accentcity: "Tartanaq"
 tartunak: 
-  city: tartunak
-  accentcity: Tartunak
+  city: "tartunak"
+  accentcity: "Tartunak"
 tartunaq: 
-  city: tartunaq
-  accentcity: Tartunaq
+  city: "tartunaq"
+  accentcity: "Tartunaq"
 tasiilaq: 
-  city: tasiilaq
-  accentcity: Tasiilaq
+  city: "tasiilaq"
+  accentcity: "Tasiilaq"
 tasiusak: 
-  city: tasiusak
-  accentcity: Tasiusak
+  city: "tasiusak"
+  accentcity: "Tasiusak"
 tasiusaq: 
-  city: tasiusaq
-  accentcity: Tasiusaq
+  city: "tasiusaq"
+  accentcity: "Tasiusaq"
 tasiussak: 
-  city: tasiussak
-  accentcity: Tasiussak
+  city: "tasiussak"
+  accentcity: "Tasiussak"
 tasiussaq: 
-  city: tasiussaq
-  accentcity: Tasiussaq
+  city: "tasiussaq"
+  accentcity: "Tasiussaq"
 taupait: 
-  city: taupait
-  accentcity: Taupait
+  city: "taupait"
+  accentcity: "Taupait"
 thule: 
-  city: thule
-  accentcity: Thule
+  city: "thule"
+  accentcity: "Thule"
 tikeraasaq: 
-  city: tikeraasaq
-  accentcity: Tikeraasaq
+  city: "tikeraasaq"
+  accentcity: "Tikeraasaq"
 tikeraussaq: 
-  city: tikeraussaq
-  accentcity: Tikeraussaq
+  city: "tikeraussaq"
+  accentcity: "Tikeraussaq"
 timerdlit: 
-  city: timerdlit
+  city: "timerdlit"
   accentcity: "Timerdl\xC3\xAEt"
 timerliit: 
-  city: timerliit
-  accentcity: Timerliit
+  city: "timerliit"
+  accentcity: "Timerliit"
 timmiarmiut: 
-  city: timmiarmiut
-  accentcity: Timmiarmiut
+  city: "timmiarmiut"
+  accentcity: "Timmiarmiut"
 tingmiarmiut: 
-  city: tingmiarmiut
-  accentcity: Tingmiarmiut
+  city: "tingmiarmiut"
+  accentcity: "Tingmiarmiut"
 tiniteqilaaq: 
-  city: tiniteqilaaq
-  accentcity: Tiniteqilaaq
+  city: "tiniteqilaaq"
+  accentcity: "Tiniteqilaaq"
 tiniteqilaarmiit: 
-  city: tiniteqilaarmiit
-  accentcity: Tiniteqilaarmiit
+  city: "tiniteqilaarmiit"
+  accentcity: "Tiniteqilaarmiit"
 tiniteqilaq: 
-  city: tiniteqilaq
+  city: "tiniteqilaq"
   accentcity: "Tiniteqil\xC3\xA2q"
 tiniteqilarmit: 
-  city: tiniteqilarmit
+  city: "tiniteqilarmit"
   accentcity: "Tiniteqil\xC3\xA2rm\xC3\xAEt"
 tinuteqissaq: 
-  city: tinuteqissaq
+  city: "tinuteqissaq"
   accentcity: "Tinuteqiss\xC3\xA2q"
 toqqusaq: 
-  city: toqqusaq
-  accentcity: Toqqusaq
+  city: "toqqusaq"
+  accentcity: "Toqqusaq"
 tovqussaq: 
-  city: tovqussaq
-  accentcity: Tovqussaq
+  city: "tovqussaq"
+  accentcity: "Tovqussaq"
 trigtut: 
-  city: trigtut
-  accentcity: Trigtut
+  city: "trigtut"
+  accentcity: "Trigtut"
 tuapaat: 
-  city: tuapaat
-  accentcity: Tuapaat
+  city: "tuapaat"
+  accentcity: "Tuapaat"
 tuapail: 
-  city: tuapail
-  accentcity: Tuapail
+  city: "tuapail"
+  accentcity: "Tuapail"
 tuapait: 
-  city: tuapait
-  accentcity: Tuapait
+  city: "tuapait"
+  accentcity: "Tuapait"
 tugssaq: 
-  city: tugssaq
+  city: "tugssaq"
   accentcity: "Tugss\xC3\xA2q"
 tunungassoq: 
-  city: tunungassoq
+  city: "tunungassoq"
   accentcity: "Tunúngassoq"
 tununngasoq: 
-  city: tununngasoq
-  accentcity: Tununngasoq
+  city: "tununngasoq"
+  accentcity: "Tununngasoq"
 tussaaq: 
-  city: tussaaq
-  accentcity: Tussaaq
+  city: "tussaaq"
+  accentcity: "Tussaaq"
 tuvgssaq: 
-  city: tuvgssaq
+  city: "tuvgssaq"
   accentcity: "Tuvgss\xC3\xA2q"
 tuvssaq: 
-  city: tuvssaq
+  city: "tuvssaq"
   accentcity: "Tuvss\xC3\xA2q"
 ujaraat: 
-  city: ujaraat
-  accentcity: Ujaraat
+  city: "ujaraat"
+  accentcity: "Ujaraat"
 ujarait: 
-  city: ujarait
-  accentcity: Ujarait
+  city: "ujarait"
+  accentcity: "Ujarait"
 ujarasugssuk: 
-  city: ujarasugssuk
-  accentcity: Ujarasugssuk
+  city: "ujarasugssuk"
+  accentcity: "Ujarasugssuk"
 ujarasussuk: 
-  city: ujarasussuk
-  accentcity: Ujarasussuk
+  city: "ujarasussuk"
+  accentcity: "Ujarasussuk"
 ukiverajik: 
-  city: ukiverajik
+  city: "ukiverajik"
   accentcity: "Uk\xC3\xAEverajik"
 ukkusissat: 
-  city: ukkusissat
-  accentcity: Ukkusissat
+  city: "ukkusissat"
+  accentcity: "Ukkusissat"
 ulugssat: 
-  city: ulugssat
-  accentcity: Ulugssat
+  city: "ulugssat"
+  accentcity: "Ulugssat"
 ulussat: 
-  city: ulussat
-  accentcity: Ulussat
+  city: "ulussat"
+  accentcity: "Ulussat"
 umanak: 
-  city: umanak
-  accentcity: Umanak
+  city: "umanak"
+  accentcity: "Umanak"
 umanaq: 
-  city: umanaq
-  accentcity: Umanaq
+  city: "umanaq"
+  accentcity: "Umanaq"
 umanarssuk: 
-  city: umanarssuk
+  city: "umanarssuk"
   accentcity: "Umán\xC3\xA2rssuk"
 umanatsiak: 
-  city: umanatsiak
-  accentcity: Umanatsiak
+  city: "umanatsiak"
+  accentcity: "Umanatsiak"
 umanatsiaq: 
-  city: umanatsiaq
+  city: "umanatsiaq"
   accentcity: "\xC3\x9Bmánatsiaq"
 umiagtuartivit: 
-  city: umiagtuartivit
-  accentcity: Umiagtuartivit
+  city: "umiagtuartivit"
+  accentcity: "Umiagtuartivit"
 umiartorfik: 
-  city: umiartorfik
-  accentcity: Umiartorfik
+  city: "umiartorfik"
+  accentcity: "Umiartorfik"
 umiattuartivit: 
-  city: umiattuartivit
-  accentcity: Umiattuartivit
+  city: "umiattuartivit"
+  accentcity: "Umiattuartivit"
 umigtuarajit: 
-  city: umigtuarajit
+  city: "umigtuarajit"
   accentcity: "Umigtuaraj\xC3\xAEt"
 umigtuarjit: 
-  city: umigtuarjit
-  accentcity: Umigtuarjit
+  city: "umigtuarjit"
+  accentcity: "Umigtuarjit"
 umigtuarssuit: 
-  city: umigtuarssuit
-  accentcity: Umigtuarssuit
+  city: "umigtuarssuit"
+  accentcity: "Umigtuarssuit"
 umigtuartivit: 
-  city: umigtuartivit
-  accentcity: Umigtuartivit
+  city: "umigtuartivit"
+  accentcity: "Umigtuartivit"
 unarteq: 
-  city: unarteq
+  city: "unarteq"
   accentcity: "\xC3\x9Bnarteq"
 unartok: 
-  city: unartok
-  accentcity: Unartok
+  city: "unartok"
+  accentcity: "Unartok"
 unartoq: 
-  city: unartoq
+  city: "unartoq"
   accentcity: "\xC3\x9Bnartoq"
 upernaviarssuk: 
-  city: upernaviarssuk
-  accentcity: Upernaviarssuk
+  city: "upernaviarssuk"
+  accentcity: "Upernaviarssuk"
 upernaviarsuk: 
-  city: upernaviarsuk
-  accentcity: Upernaviarsuk
+  city: "upernaviarsuk"
+  accentcity: "Upernaviarsuk"
 upernavigssuak: 
-  city: upernavigssuak
-  accentcity: Upernavigssuak
+  city: "upernavigssuak"
+  accentcity: "Upernavigssuak"
 upernavik kujalleq: 
-  city: upernavik kujalleq
-  accentcity: Upernavik Kujalleq
+  city: "upernavik kujalleq"
+  accentcity: "Upernavik Kujalleq"
 upernavik: 
-  city: upernavik
-  accentcity: Upernavik
+  city: "upernavik"
+  accentcity: "Upernavik"
 upernavissuaq: 
-  city: upernavissuaq
-  accentcity: Upernavissuaq
+  city: "upernavissuaq"
+  accentcity: "Upernavissuaq"
 upernivik: 
-  city: upernivik
-  accentcity: Upernivik
+  city: "upernivik"
+  accentcity: "Upernivik"
 utoqqarmiut: 
-  city: utoqqarmiut
-  accentcity: Utoqqarmiut
+  city: "utoqqarmiut"
+  accentcity: "Utoqqarmiut"
 utorkarmiut: 
-  city: utorkarmiut
-  accentcity: Utorkarmiut
+  city: "utorkarmiut"
+  accentcity: "Utorkarmiut"
 utorqarmiut: 
-  city: utorqarmiut
-  accentcity: Utorqarmiut
+  city: "utorqarmiut"
+  accentcity: "Utorqarmiut"
 uummannaarsuk: 
-  city: uummannaarsuk
-  accentcity: Uummannaarsuk
+  city: "uummannaarsuk"
+  accentcity: "Uummannaarsuk"
 uummannaq: 
-  city: uummannaq
-  accentcity: Uummannaq
+  city: "uummannaq"
+  accentcity: "Uummannaq"
 uummannatsiaq: 
-  city: uummannatsiaq
-  accentcity: Uummannatsiaq
+  city: "uummannatsiaq"
+  accentcity: "Uummannatsiaq"
 uunarteq: 
-  city: uunarteq
-  accentcity: Uunarteq
+  city: "uunarteq"
+  accentcity: "Uunarteq"
 uunartoq: 
-  city: uunartoq
-  accentcity: Uunartoq
+  city: "uunartoq"
+  accentcity: "Uunartoq"
 uvdle: 
-  city: uvdle
-  accentcity: Uvdle
+  city: "uvdle"
+  accentcity: "Uvdle"
 uvkusigsat: 
-  city: uvkusigsat
-  accentcity: Uvkusigsat
+  city: "uvkusigsat"
+  accentcity: "Uvkusigsat"
 uvkusigssat: 
-  city: uvkusigssat
-  accentcity: Uvkusigssat
+  city: "uvkusigssat"
+  accentcity: "Uvkusigssat"
 vandreblokken: 
-  city: vandreblokken
-  accentcity: Vandreblokken
+  city: "vandreblokken"
+  accentcity: "Vandreblokken"
 vandreblok: 
-  city: vandreblok
-  accentcity: Vandreblok
+  city: "vandreblok"
+  accentcity: "Vandreblok"
 vester ejland: 
-  city: vester ejland
-  accentcity: Vester Ejland
+  city: "vester ejland"
+  accentcity: "Vester Ejland"

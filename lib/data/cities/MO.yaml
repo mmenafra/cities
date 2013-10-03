@@ -1,56 +1,56 @@
 # encoding: UTF-8
 --- 
 ao-men: 
-  city: ao-men
-  accentcity: Ao-men
+  city: "ao-men"
+  accentcity: "Ao-men"
 cheoc ca chun: 
-  city: cheoc ca chun
+  city: "cheoc ca chun"
   accentcity: "Cheoc Ca Ch\xC3\xBCn"
 cidade de macau: 
-  city: cidade de macau
-  accentcity: Cidade de Macau
+  city: "cidade de macau"
+  accentcity: "Cidade de Macau"
 coloane: 
-  city: coloane
-  accentcity: Coloane
+  city: "coloane"
+  accentcity: "Coloane"
 hac sa: 
-  city: hac sa
+  city: "hac sa"
   accentcity: "Hac Sá"
 hac-tsa: 
-  city: hac-tsa
-  accentcity: Hac-Tsa
+  city: "hac-tsa"
+  accentcity: "Hac-Tsa"
 hei-sha: 
-  city: hei-sha
-  accentcity: Hei-sha
+  city: "hei-sha"
+  accentcity: "Hei-sha"
 lai chi van: 
-  city: lai chi van
-  accentcity: Lai Chi Van
+  city: "lai chi van"
+  accentcity: "Lai Chi Van"
 lin-chia-ts'un: 
-  city: lin-chia-ts'un
-  accentcity: Lin-chia-ts'un
+  city: "lin-chia-ts'un"
+  accentcity: "Lin-chia-ts'un"
 lu-huan: 
-  city: lu-huan
-  accentcity: Lu-huan
+  city: "lu-huan"
+  accentcity: "Lu-huan"
 lui-tchi-van: 
-  city: lui-tchi-van
-  accentcity: Lui-Tchi-Van
+  city: "lui-tchi-van"
+  accentcity: "Lui-Tchi-Van"
 macao: 
-  city: macao
-  accentcity: Macao
+  city: "macao"
+  accentcity: "Macao"
 macau: 
-  city: macau
-  accentcity: Macau
+  city: "macau"
+  accentcity: "Macau"
 taipa: 
-  city: taipa
-  accentcity: Taipa
+  city: "taipa"
+  accentcity: "Taipa"
 tcheok-ka-tchin: 
-  city: tcheok-ka-tchin
-  accentcity: Tcheok-Ka-Tchin
+  city: "tcheok-ka-tchin"
+  accentcity: "Tcheok-Ka-Tchin"
 tcheok-la-tchin: 
-  city: tcheok-la-tchin
-  accentcity: Tcheok-La-Tchin
+  city: "tcheok-la-tchin"
+  accentcity: "Tcheok-La-Tchin"
 ts'ao-chia-ts'un: 
-  city: ts'ao-chia-ts'un
-  accentcity: Ts'ao-chia-ts'un
+  city: "ts'ao-chia-ts'un"
+  accentcity: "Ts'ao-chia-ts'un"
 vila da taipa: 
-  city: vila da taipa
-  accentcity: Vila da Taipa
+  city: "vila da taipa"
+  accentcity: "Vila da Taipa"

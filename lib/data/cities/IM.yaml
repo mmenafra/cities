@@ -1,137 +1,137 @@
 # encoding: UTF-8
 --- 
 andreas: 
-  city: andreas
-  accentcity: Andreas
+  city: "andreas"
+  accentcity: "Andreas"
 ballabeg: 
-  city: ballabeg
-  accentcity: Ballabeg
+  city: "ballabeg"
+  accentcity: "Ballabeg"
 ballakinnag: 
-  city: ballakinnag
-  accentcity: Ballakinnag
+  city: "ballakinnag"
+  accentcity: "Ballakinnag"
 ballasalla: 
-  city: ballasalla
-  accentcity: Ballasalla
+  city: "ballasalla"
+  accentcity: "Ballasalla"
 bride: 
-  city: bride
-  accentcity: Bride
+  city: "bride"
+  accentcity: "Bride"
 castletown: 
-  city: castletown
-  accentcity: Castletown
+  city: "castletown"
+  accentcity: "Castletown"
 colby: 
-  city: colby
-  accentcity: Colby
+  city: "colby"
+  accentcity: "Colby"
 conchan: 
-  city: conchan
-  accentcity: Conchan
+  city: "conchan"
+  accentcity: "Conchan"
 cranstal: 
-  city: cranstal
-  accentcity: Cranstal
+  city: "cranstal"
+  accentcity: "Cranstal"
 cranstall: 
-  city: cranstall
-  accentcity: Cranstall
+  city: "cranstall"
+  accentcity: "Cranstall"
 cregneish: 
-  city: cregneish
-  accentcity: Cregneish
+  city: "cregneish"
+  accentcity: "Cregneish"
 crosby: 
-  city: crosby
-  accentcity: Crosby
+  city: "crosby"
+  accentcity: "Crosby"
 dalby: 
-  city: dalby
-  accentcity: Dalby
+  city: "dalby"
+  accentcity: "Dalby"
 derbyhaven: 
-  city: derbyhaven
-  accentcity: Derbyhaven
+  city: "derbyhaven"
+  accentcity: "Derbyhaven"
 dog mills: 
-  city: dog mills
-  accentcity: Dog Mills
+  city: "dog mills"
+  accentcity: "Dog Mills"
 douglas: 
-  city: douglas
-  accentcity: Douglas
+  city: "douglas"
+  accentcity: "Douglas"
 foxdale: 
-  city: foxdale
-  accentcity: Foxdale
+  city: "foxdale"
+  accentcity: "Foxdale"
 glen maye: 
-  city: glen maye
-  accentcity: Glen Maye
+  city: "glen maye"
+  accentcity: "Glen Maye"
 jurby: 
-  city: jurby
-  accentcity: Jurby
+  city: "jurby"
+  accentcity: "Jurby"
 kirk braddan: 
-  city: kirk braddan
-  accentcity: Kirk Braddan
+  city: "kirk braddan"
+  accentcity: "Kirk Braddan"
 kirk braddon: 
-  city: kirk braddon
-  accentcity: Kirk Braddon
+  city: "kirk braddon"
+  accentcity: "Kirk Braddon"
 kirkmichael: 
-  city: kirkmichael
-  accentcity: Kirkmichael
+  city: "kirkmichael"
+  accentcity: "Kirkmichael"
 laxey: 
-  city: laxey
-  accentcity: Laxey
+  city: "laxey"
+  accentcity: "Laxey"
 lezayre: 
-  city: lezayre
-  accentcity: Lezayre
+  city: "lezayre"
+  accentcity: "Lezayre"
 maughold: 
-  city: maughold
-  accentcity: Maughold
+  city: "maughold"
+  accentcity: "Maughold"
 onchan: 
-  city: onchan
-  accentcity: Onchan
+  city: "onchan"
+  accentcity: "Onchan"
 patrick: 
-  city: patrick
-  accentcity: Patrick
+  city: "patrick"
+  accentcity: "Patrick"
 peel: 
-  city: peel
-  accentcity: Peel
+  city: "peel"
+  accentcity: "Peel"
 port douglas: 
-  city: port douglas
-  accentcity: Port Douglas
+  city: "port douglas"
+  accentcity: "Port Douglas"
 port erin: 
-  city: port erin
-  accentcity: Port Erin
+  city: "port erin"
+  accentcity: "Port Erin"
 port mary: 
-  city: port mary
-  accentcity: Port Mary
+  city: "port mary"
+  accentcity: "Port Mary"
 port saint mary: 
-  city: port saint mary
-  accentcity: Port Saint Mary
+  city: "port saint mary"
+  accentcity: "Port Saint Mary"
 port soderick: 
-  city: port soderick
-  accentcity: Port Soderick
+  city: "port soderick"
+  accentcity: "Port Soderick"
 ramsey: 
-  city: ramsey
-  accentcity: Ramsey
+  city: "ramsey"
+  accentcity: "Ramsey"
 ronaldsway: 
-  city: ronaldsway
-  accentcity: Ronaldsway
+  city: "ronaldsway"
+  accentcity: "Ronaldsway"
 saint anne: 
-  city: saint anne
-  accentcity: Saint Anne
+  city: "saint anne"
+  accentcity: "Saint Anne"
 saint braddon: 
-  city: saint braddon
-  accentcity: Saint Braddon
+  city: "saint braddon"
+  accentcity: "Saint Braddon"
 saint johns: 
-  city: saint johns
-  accentcity: Saint Johns
+  city: "saint johns"
+  accentcity: "Saint Johns"
 saint mark: 
-  city: saint mark
-  accentcity: Saint Mark
+  city: "saint mark"
+  accentcity: "Saint Mark"
 saint marks: 
-  city: saint marks
-  accentcity: Saint Marks
+  city: "saint marks"
+  accentcity: "Saint Marks"
 saint maughold: 
-  city: saint maughold
-  accentcity: Saint Maughold
+  city: "saint maughold"
+  accentcity: "Saint Maughold"
 saint patrick: 
-  city: saint patrick
-  accentcity: Saint Patrick
+  city: "saint patrick"
+  accentcity: "Saint Patrick"
 santon: 
-  city: santon
-  accentcity: Santon
+  city: "santon"
+  accentcity: "Santon"
 sulby: 
-  city: sulby
-  accentcity: Sulby
+  city: "sulby"
+  accentcity: "Sulby"
 union mills: 
-  city: union mills
-  accentcity: Union Mills
+  city: "union mills"
+  accentcity: "Union Mills"

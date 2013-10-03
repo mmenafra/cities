@@ -1,350 +1,350 @@
 # encoding: UTF-8
 --- 
 abercorn: 
-  city: abercorn
-  accentcity: Abercorn
+  city: "abercorn"
+  accentcity: "Abercorn"
 abercorn point: 
-  city: abercorn point
-  accentcity: Abercorn Point
+  city: "abercorn point"
+  accentcity: "Abercorn Point"
 abercorn pont: 
-  city: abercorn pont
-  accentcity: Abercorn Pont
+  city: "abercorn pont"
+  accentcity: "Abercorn Pont"
 balegana: 
-  city: balegana
-  accentcity: Balegana
+  city: "balegana"
+  accentcity: "Balegana"
 balegane: 
-  city: balegane
-  accentcity: Balegane
+  city: "balegane"
+  accentcity: "Balegane"
 balegane store: 
-  city: balegane store
-  accentcity: Balegane Store
+  city: "balegane store"
+  accentcity: "Balegane Store"
 bennets: 
-  city: bennets
-  accentcity: Bennets
+  city: "bennets"
+  accentcity: "Bennets"
 bhunya: 
-  city: bhunya
-  accentcity: Bhunya
+  city: "bhunya"
+  accentcity: "Bhunya"
 big bend: 
-  city: big bend
-  accentcity: Big Bend
+  city: "big bend"
+  accentcity: "Big Bend"
 bremersdorp: 
-  city: bremersdorp
-  accentcity: Bremersdorp
+  city: "bremersdorp"
+  accentcity: "Bremersdorp"
 bulembu: 
-  city: bulembu
-  accentcity: Bulembu
+  city: "bulembu"
+  accentcity: "Bulembu"
 bunya: 
-  city: bunya
-  accentcity: Bunya
+  city: "bunya"
+  accentcity: "Bunya"
 commissie nek: 
-  city: commissie nek
-  accentcity: Commissie Nek
+  city: "commissie nek"
+  accentcity: "Commissie Nek"
 compound: 
-  city: compound
-  accentcity: Compound
+  city: "compound"
+  accentcity: "Compound"
 croydon: 
-  city: croydon
-  accentcity: Croydon
+  city: "croydon"
+  accentcity: "Croydon"
 darkton: 
-  city: darkton
-  accentcity: Darkton
+  city: "darkton"
+  accentcity: "Darkton"
 darktown: 
-  city: darktown
-  accentcity: Darktown
+  city: "darktown"
+  accentcity: "Darktown"
 dwaleni: 
-  city: dwaleni
-  accentcity: Dwaleni
+  city: "dwaleni"
+  accentcity: "Dwaleni"
 emhlembi: 
-  city: emhlembi
-  accentcity: Emhlembi
+  city: "emhlembi"
+  accentcity: "Emhlembi"
 emlembe: 
-  city: emlembe
-  accentcity: Emlembe
+  city: "emlembe"
+  accentcity: "Emlembe"
 esulweni: 
-  city: esulweni
-  accentcity: Esulweni
+  city: "esulweni"
+  accentcity: "Esulweni"
 etjanine: 
-  city: etjanine
-  accentcity: Etjanine
+  city: "etjanine"
+  accentcity: "Etjanine"
 ezulweni: 
-  city: ezulweni
-  accentcity: Ezulweni
+  city: "ezulweni"
+  accentcity: "Ezulweni"
 ezulwini: 
-  city: ezulwini
-  accentcity: Ezulwini
+  city: "ezulwini"
+  accentcity: "Ezulwini"
 forbes reef: 
-  city: forbes reef
-  accentcity: Forbes Reef
+  city: "forbes reef"
+  accentcity: "Forbes Reef"
 gege: 
-  city: gege
-  accentcity: Gege
+  city: "gege"
+  accentcity: "Gege"
 goedgegun: 
-  city: goedgegun
-  accentcity: Goedgegun
+  city: "goedgegun"
+  accentcity: "Goedgegun"
 gollel: 
-  city: gollel
-  accentcity: Gollel
+  city: "gollel"
+  accentcity: "Gollel"
 grand valley estate: 
-  city: grand valley estate
-  accentcity: Grand Valley Estate
+  city: "grand valley estate"
+  accentcity: "Grand Valley Estate"
 granvalley: 
-  city: granvalley
-  accentcity: Granvalley
+  city: "granvalley"
+  accentcity: "Granvalley"
 havelock: 
-  city: havelock
-  accentcity: Havelock
+  city: "havelock"
+  accentcity: "Havelock"
 havelock mine: 
-  city: havelock mine
-  accentcity: Havelock Mine
+  city: "havelock mine"
+  accentcity: "Havelock Mine"
 herefords: 
-  city: herefords
-  accentcity: Herefords
+  city: "herefords"
+  accentcity: "Herefords"
 hlatikulu: 
-  city: hlatikulu
-  accentcity: Hlatikulu
+  city: "hlatikulu"
+  accentcity: "Hlatikulu"
 hluti: 
-  city: hluti
-  accentcity: Hluti
+  city: "hluti"
+  accentcity: "Hluti"
 holobela: 
-  city: holobela
-  accentcity: Holobela
+  city: "holobela"
+  accentcity: "Holobela"
 horo: 
-  city: horo
-  accentcity: Horo
+  city: "horo"
+  accentcity: "Horo"
 inyetane: 
-  city: inyetane
-  accentcity: Inyetane
+  city: "inyetane"
+  accentcity: "Inyetane"
 kobolondo heights: 
-  city: kobolondo heights
-  accentcity: Kobolondo Heights
+  city: "kobolondo heights"
+  accentcity: "Kobolondo Heights"
 kubuta: 
-  city: kubuta
-  accentcity: Kubuta
+  city: "kubuta"
+  accentcity: "Kubuta"
 kwaluseni: 
-  city: kwaluseni
-  accentcity: Kwaluseni
+  city: "kwaluseni"
+  accentcity: "Kwaluseni"
 lavumisa: 
-  city: lavumisa
-  accentcity: Lavumisa
+  city: "lavumisa"
+  accentcity: "Lavumisa"
 lismore: 
-  city: lismore
-  accentcity: Lismore
+  city: "lismore"
+  accentcity: "Lismore"
 lobamba: 
-  city: lobamba
-  accentcity: Lobamba
+  city: "lobamba"
+  accentcity: "Lobamba"
 lobomba: 
-  city: lobomba
-  accentcity: Lobomba
+  city: "lobomba"
+  accentcity: "Lobomba"
 lomahasha: 
-  city: lomahasha
-  accentcity: Lomahasha
+  city: "lomahasha"
+  accentcity: "Lomahasha"
 lomati: 
-  city: lomati
-  accentcity: Lomati
+  city: "lomati"
+  accentcity: "Lomati"
 lomati store: 
-  city: lomati store
-  accentcity: Lomati Store
+  city: "lomati store"
+  accentcity: "Lomati Store"
 lubuli: 
-  city: lubuli
-  accentcity: Lubuli
+  city: "lubuli"
+  accentcity: "Lubuli"
 luyengo: 
-  city: luyengo
-  accentcity: Luyengo
+  city: "luyengo"
+  accentcity: "Luyengo"
 macnab: 
-  city: macnab
-  accentcity: Macnab
+  city: "macnab"
+  accentcity: "Macnab"
 mac nabs: 
-  city: mac nabs
-  accentcity: Mac Nabs
+  city: "mac nabs"
+  accentcity: "Mac Nabs"
 macnab store: 
-  city: macnab store
-  accentcity: Macnab Store
+  city: "macnab store"
+  accentcity: "Macnab Store"
 madlangampisi: 
-  city: madlangampisi
-  accentcity: Madlangampisi
+  city: "madlangampisi"
+  accentcity: "Madlangampisi"
 magomba: 
-  city: magomba
-  accentcity: Magomba
+  city: "magomba"
+  accentcity: "Magomba"
 mahamba: 
-  city: mahamba
-  accentcity: Mahamba
+  city: "mahamba"
+  accentcity: "Mahamba"
 mahlanya: 
-  city: mahlanya
-  accentcity: Mahlanya
+  city: "mahlanya"
+  accentcity: "Mahlanya"
 malkerns: 
-  city: malkerns
-  accentcity: Malkerns
+  city: "malkerns"
+  accentcity: "Malkerns"
 maloma: 
-  city: maloma
-  accentcity: Maloma
+  city: "maloma"
+  accentcity: "Maloma"
 maneini: 
-  city: maneini
-  accentcity: "Man\xC3\xAAini"
+  city: "maneini"
+  accentcity: "Manêini"
 mankaiana: 
-  city: mankaiana
-  accentcity: Mankaiana
+  city: "mankaiana"
+  accentcity: "Mankaiana"
 mankayane: 
-  city: mankayane
-  accentcity: Mankayane
+  city: "mankayane"
+  accentcity: "Mankayane"
 manzini: 
-  city: manzini
-  accentcity: Manzini
+  city: "manzini"
+  accentcity: "Manzini"
 matapa: 
-  city: matapa
-  accentcity: Matapa
+  city: "matapa"
+  accentcity: "Matapa"
 matsapa: 
-  city: matsapa
-  accentcity: Matsapa
+  city: "matsapa"
+  accentcity: "Matsapa"
 matsapha: 
-  city: matsapha
-  accentcity: Matsapha
+  city: "matsapha"
+  accentcity: "Matsapha"
 mbabane: 
-  city: mbabane
-  accentcity: Mbabane
+  city: "mbabane"
+  accentcity: "Mbabane"
 mbuluzana: 
-  city: mbuluzana
-  accentcity: Mbuluzana
+  city: "mbuluzana"
+  accentcity: "Mbuluzana"
 mgamane: 
-  city: mgamane
-  accentcity: Mgamane
+  city: "mgamane"
+  accentcity: "Mgamane"
 mhlambanyati: 
-  city: mhlambanyati
-  accentcity: Mhlambanyati
+  city: "mhlambanyati"
+  accentcity: "Mhlambanyati"
 mhlambanyatsi: 
-  city: mhlambanyatsi
-  accentcity: Mhlambanyatsi
+  city: "mhlambanyatsi"
+  accentcity: "Mhlambanyatsi"
 mhlosheni: 
-  city: mhlosheni
-  accentcity: Mhlosheni
+  city: "mhlosheni"
+  accentcity: "Mhlosheni"
 mhlotsheni: 
-  city: mhlotsheni
-  accentcity: Mhlotsheni
+  city: "mhlotsheni"
+  accentcity: "Mhlotsheni"
 mhlume: 
-  city: mhlume
-  accentcity: Mhlume
+  city: "mhlume"
+  accentcity: "Mhlume"
 mhlumeni: 
-  city: mhlumeni
-  accentcity: Mhlumeni
+  city: "mhlumeni"
+  accentcity: "Mhlumeni"
 mlawula: 
-  city: mlawula
-  accentcity: Mlawula
+  city: "mlawula"
+  accentcity: "Mlawula"
 mliba: 
-  city: mliba
-  accentcity: Mliba
+  city: "mliba"
+  accentcity: "Mliba"
 mooihoek: 
-  city: mooihoek
-  accentcity: Mooihoek
+  city: "mooihoek"
+  accentcity: "Mooihoek"
 mvangalini: 
-  city: mvangalini
-  accentcity: Mvangalini
+  city: "mvangalini"
+  accentcity: "Mvangalini"
 mvangatini: 
-  city: mvangatini
-  accentcity: Mvangatini
+  city: "mvangatini"
+  accentcity: "Mvangatini"
 ngonini: 
-  city: ngonini
-  accentcity: Ngonini
+  city: "ngonini"
+  accentcity: "Ngonini"
 nhlangano: 
-  city: nhlangano
-  accentcity: Nhlangano
+  city: "nhlangano"
+  accentcity: "Nhlangano"
 nkanni: 
-  city: nkanni
-  accentcity: Nkanni
+  city: "nkanni"
+  accentcity: "Nkanni"
 nkonjane: 
-  city: nkonjane
-  accentcity: Nkonjane
+  city: "nkonjane"
+  accentcity: "Nkonjane"
 nokwane: 
-  city: nokwane
-  accentcity: Nokwane
+  city: "nokwane"
+  accentcity: "Nokwane"
 nomahasha: 
-  city: nomahasha
-  accentcity: Nomahasha
+  city: "nomahasha"
+  accentcity: "Nomahasha"
 nsoka: 
-  city: nsoka
-  accentcity: Nsoka
+  city: "nsoka"
+  accentcity: "Nsoka"
 nsoko: 
-  city: nsoko
-  accentcity: Nsoko
+  city: "nsoko"
+  accentcity: "Nsoko"
 nyabe: 
-  city: nyabe
-  accentcity: Nyabe
+  city: "nyabe"
+  accentcity: "Nyabe"
 palata: 
-  city: palata
-  accentcity: Palata
+  city: "palata"
+  accentcity: "Palata"
 piggs peak: 
-  city: piggs peak
-  accentcity: Piggs Peak
+  city: "piggs peak"
+  accentcity: "Piggs Peak"
 rocklands: 
-  city: rocklands
-  accentcity: Rocklands
+  city: "rocklands"
+  accentcity: "Rocklands"
 rondspring: 
-  city: rondspring
-  accentcity: Rondspring
+  city: "rondspring"
+  accentcity: "Rondspring"
 sandlane: 
-  city: sandlane
-  accentcity: Sandlane
+  city: "sandlane"
+  accentcity: "Sandlane"
 sibobela: 
-  city: sibobela
-  accentcity: Sibobela
+  city: "sibobela"
+  accentcity: "Sibobela"
 sicunusa: 
-  city: sicunusa
-  accentcity: Sicunusa
+  city: "sicunusa"
+  accentcity: "Sicunusa"
 sidvokodvo: 
-  city: sidvokodvo
-  accentcity: Sidvokodvo
+  city: "sidvokodvo"
+  accentcity: "Sidvokodvo"
 sigunusa: 
-  city: sigunusa
-  accentcity: Sigunusa
+  city: "sigunusa"
+  accentcity: "Sigunusa"
 sinceni: 
-  city: sinceni
-  accentcity: Sinceni
+  city: "sinceni"
+  accentcity: "Sinceni"
 singceni: 
-  city: singceni
-  accentcity: Singceni
+  city: "singceni"
+  accentcity: "Singceni"
 siphofaneni: 
-  city: siphofaneni
-  accentcity: Siphofaneni
+  city: "siphofaneni"
+  accentcity: "Siphofaneni"
 sipofaneni bridge: 
-  city: sipofaneni bridge
-  accentcity: Sipofaneni Bridge
+  city: "sipofaneni bridge"
+  accentcity: "Sipofaneni Bridge"
 sipofanenibrug: 
-  city: sipofanenibrug
-  accentcity: Sipofanenibrug
+  city: "sipofanenibrug"
+  accentcity: "Sipofanenibrug"
 sipofaneni: 
-  city: sipofaneni
-  accentcity: Sipofaneni
+  city: "sipofaneni"
+  accentcity: "Sipofaneni"
 siteki: 
-  city: siteki
-  accentcity: Siteki
+  city: "siteki"
+  accentcity: "Siteki"
 sitobela: 
-  city: sitobela
-  accentcity: Sitobela
+  city: "sitobela"
+  accentcity: "Sitobela"
 skombeni: 
-  city: skombeni
-  accentcity: Skombeni
+  city: "skombeni"
+  accentcity: "Skombeni"
 spofanene: 
-  city: spofanene
-  accentcity: Spofanene
+  city: "spofanene"
+  accentcity: "Spofanene"
 stegi: 
-  city: stegi
-  accentcity: Stegi
+  city: "stegi"
+  accentcity: "Stegi"
 stylkloof: 
-  city: stylkloof
-  accentcity: Stylkloof
+  city: "stylkloof"
+  accentcity: "Stylkloof"
 tahaneni: 
-  city: tahaneni
-  accentcity: Tahaneni
+  city: "tahaneni"
+  accentcity: "Tahaneni"
 tshaneni: 
-  city: tshaneni
-  accentcity: Tshaneni
+  city: "tshaneni"
+  accentcity: "Tshaneni"
 usutu mission: 
-  city: usutu mission
-  accentcity: Usutu Mission
+  city: "usutu mission"
+  accentcity: "Usutu Mission"
 usutu: 
-  city: usutu
-  accentcity: Usutu
+  city: "usutu"
+  accentcity: "Usutu"
 verdun: 
-  city: verdun
-  accentcity: Verdun
+  city: "verdun"
+  accentcity: "Verdun"
 von wissel: 
-  city: von wissel
-  accentcity: Von Wissel
+  city: "von wissel"
+  accentcity: "Von Wissel"

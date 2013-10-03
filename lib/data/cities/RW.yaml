@@ -1,4253 +1,4253 @@
 # encoding: UTF-8
 --- 
 agatwi: 
-  city: agatwi
-  accentcity: Agatwi
+  city: "agatwi"
+  accentcity: "Agatwi"
 astrida: 
-  city: astrida
-  accentcity: Astrida
+  city: "astrida"
+  accentcity: "Astrida"
 banda: 
-  city: banda
-  accentcity: Banda
+  city: "banda"
+  accentcity: "Banda"
 bandazi: 
-  city: bandazi
-  accentcity: Bandazi
+  city: "bandazi"
+  accentcity: "Bandazi"
 basa: 
-  city: basa
-  accentcity: Basa
+  city: "basa"
+  accentcity: "Basa"
 bganga: 
-  city: bganga
-  accentcity: Bganga
+  city: "bganga"
+  accentcity: "Bganga"
 bibale: 
-  city: bibale
-  accentcity: Bibale
+  city: "bibale"
+  accentcity: "Bibale"
 bicumbi: 
-  city: bicumbi
-  accentcity: Bicumbi
+  city: "bicumbi"
+  accentcity: "Bicumbi"
 bigutu: 
-  city: bigutu
-  accentcity: Bigutu
+  city: "bigutu"
+  accentcity: "Bigutu"
 biguzi: 
-  city: biguzi
-  accentcity: Biguzi
+  city: "biguzi"
+  accentcity: "Biguzi"
 bihe: 
-  city: bihe
-  accentcity: Bihe
+  city: "bihe"
+  accentcity: "Bihe"
 bihembe: 
-  city: bihembe
-  accentcity: Bihembe
+  city: "bihembe"
+  accentcity: "Bihembe"
 bilembo: 
-  city: bilembo
-  accentcity: Bilembo
+  city: "bilembo"
+  accentcity: "Bilembo"
 binana: 
-  city: binana
-  accentcity: Binana
+  city: "binana"
+  accentcity: "Binana"
 birenga: 
-  city: birenga
-  accentcity: Birenga
+  city: "birenga"
+  accentcity: "Birenga"
 biru: 
-  city: biru
-  accentcity: Biru
+  city: "biru"
+  accentcity: "Biru"
 bisaga: 
-  city: bisaga
-  accentcity: Bisaga
+  city: "bisaga"
+  accentcity: "Bisaga"
 bishyiga: 
-  city: bishyiga
-  accentcity: Bishyiga
+  city: "bishyiga"
+  accentcity: "Bishyiga"
 bitare: 
-  city: bitare
-  accentcity: Bitare
+  city: "bitare"
+  accentcity: "Bitare"
 biumba: 
-  city: biumba
-  accentcity: Biumba
+  city: "biumba"
+  accentcity: "Biumba"
 buberuka: 
-  city: buberuka
-  accentcity: Buberuka
+  city: "buberuka"
+  accentcity: "Buberuka"
 budaya: 
-  city: budaya
-  accentcity: Budaya
+  city: "budaya"
+  accentcity: "Budaya"
 bugali: 
-  city: bugali
-  accentcity: Bugali
+  city: "bugali"
+  accentcity: "Bugali"
 bugaragara: 
-  city: bugaragara
-  accentcity: Bugaragara
+  city: "bugaragara"
+  accentcity: "Bugaragara"
 bugarama: 
-  city: bugarama
-  accentcity: Bugarama
+  city: "bugarama"
+  accentcity: "Bugarama"
 bugarura: 
-  city: bugarura
-  accentcity: Bugarura
+  city: "bugarura"
+  accentcity: "Bugarura"
 bugesera: 
-  city: bugesera
-  accentcity: Bugesera
+  city: "bugesera"
+  accentcity: "Bugesera"
 bugindi: 
-  city: bugindi
-  accentcity: Bugindi
+  city: "bugindi"
+  accentcity: "Bugindi"
 bugobagoba: 
-  city: bugobagoba
-  accentcity: Bugobagoba
+  city: "bugobagoba"
+  accentcity: "Bugobagoba"
 bugoya: 
-  city: bugoya
-  accentcity: Bugoya
+  city: "bugoya"
+  accentcity: "Bugoya"
 bugu: 
-  city: bugu
-  accentcity: Bugu
+  city: "bugu"
+  accentcity: "Bugu"
 buguma: 
-  city: buguma
-  accentcity: Buguma
+  city: "buguma"
+  accentcity: "Buguma"
 bugungu: 
-  city: bugungu
-  accentcity: Bugungu
+  city: "bugungu"
+  accentcity: "Bugungu"
 buhimba: 
-  city: buhimba
-  accentcity: Buhimba
+  city: "buhimba"
+  accentcity: "Buhimba"
 buhokoro: 
-  city: buhokoro
-  accentcity: Buhokoro
+  city: "buhokoro"
+  accentcity: "Buhokoro"
 buhongo: 
-  city: buhongo
-  accentcity: Buhongo
+  city: "buhongo"
+  accentcity: "Buhongo"
 buhoro: 
-  city: buhoro
-  accentcity: Buhoro
+  city: "buhoro"
+  accentcity: "Buhoro"
 buhuga: 
-  city: buhuga
-  accentcity: Buhuga
+  city: "buhuga"
+  accentcity: "Buhuga"
 buhungwe: 
-  city: buhungwe
-  accentcity: Buhungwe
+  city: "buhungwe"
+  accentcity: "Buhungwe"
 bukamba: 
-  city: bukamba
-  accentcity: Bukamba
+  city: "bukamba"
+  accentcity: "Bukamba"
 bukaragata: 
-  city: bukaragata
-  accentcity: Bukaragata
+  city: "bukaragata"
+  accentcity: "Bukaragata"
 bukarakata: 
-  city: bukarakata
-  accentcity: Bukarakata
+  city: "bukarakata"
+  accentcity: "Bukarakata"
 bukekele: 
-  city: bukekele
-  accentcity: Bukekele
+  city: "bukekele"
+  accentcity: "Bukekele"
 bukondjo: 
-  city: bukondjo
-  accentcity: Bukondjo
+  city: "bukondjo"
+  accentcity: "Bukondjo"
 bulega: 
-  city: bulega
-  accentcity: Bulega
+  city: "bulega"
+  accentcity: "Bulega"
 bulenga: 
-  city: bulenga
-  accentcity: Bulenga
+  city: "bulenga"
+  accentcity: "Bulenga"
 bulengera: 
-  city: bulengera
-  accentcity: Bulengera
+  city: "bulengera"
+  accentcity: "Bulengera"
 bulimba: 
-  city: bulimba
-  accentcity: Bulimba
+  city: "bulimba"
+  accentcity: "Bulimba"
 bulinga: 
-  city: bulinga
-  accentcity: Bulinga
+  city: "bulinga"
+  accentcity: "Bulinga"
 bumazi: 
-  city: bumazi
-  accentcity: Bumazi
+  city: "bumazi"
+  accentcity: "Bumazi"
 bumbogo: 
-  city: bumbogo
-  accentcity: Bumbogo
+  city: "bumbogo"
+  accentcity: "Bumbogo"
 bunga: 
-  city: bunga
-  accentcity: Bunga
+  city: "bunga"
+  accentcity: "Bunga"
 bungeshi mukuru: 
-  city: bungeshi mukuru
-  accentcity: Bungeshi Mukuru
+  city: "bungeshi mukuru"
+  accentcity: "Bungeshi Mukuru"
 bunyambilili: 
-  city: bunyambilili
-  accentcity: Bunyambilili
+  city: "bunyambilili"
+  accentcity: "Bunyambilili"
 bunyereri: 
-  city: bunyereri
-  accentcity: Bunyereri
+  city: "bunyereri"
+  accentcity: "Bunyereri"
 burama: 
-  city: burama
-  accentcity: Burama
+  city: "burama"
+  accentcity: "Burama"
 burega: 
-  city: burega
-  accentcity: Burega
+  city: "burega"
+  accentcity: "Burega"
 burenga: 
-  city: burenga
-  accentcity: Burenga
+  city: "burenga"
+  accentcity: "Burenga"
 burere: 
-  city: burere
-  accentcity: Burere
+  city: "burere"
+  accentcity: "Burere"
 busekera: 
-  city: busekera
-  accentcity: Busekera
+  city: "busekera"
+  accentcity: "Busekera"
 bushara: 
-  city: bushara
-  accentcity: Bushara
+  city: "bushara"
+  accentcity: "Bushara"
 bushenyi: 
-  city: bushenyi
-  accentcity: Bushenyi
+  city: "bushenyi"
+  accentcity: "Bushenyi"
 bushiga: 
-  city: bushiga
-  accentcity: Bushiga
+  city: "bushiga"
+  accentcity: "Bushiga"
 bushingamohetu: 
-  city: bushingamohetu
-  accentcity: Bushingamohetu
+  city: "bushingamohetu"
+  accentcity: "Bushingamohetu"
 bushoka: 
-  city: bushoka
-  accentcity: Bushoka
+  city: "bushoka"
+  accentcity: "Bushoka"
 butale: 
-  city: butale
-  accentcity: Butale
+  city: "butale"
+  accentcity: "Butale"
 butambamo: 
-  city: butambamo
-  accentcity: Butambamo
+  city: "butambamo"
+  accentcity: "Butambamo"
 butambara: 
-  city: butambara
-  accentcity: Butambara
+  city: "butambara"
+  accentcity: "Butambara"
 butambwe: 
-  city: butambwe
-  accentcity: Butambwe
+  city: "butambwe"
+  accentcity: "Butambwe"
 butamwa: 
-  city: butamwa
-  accentcity: Butamwa
+  city: "butamwa"
+  accentcity: "Butamwa"
 butandi: 
-  city: butandi
-  accentcity: Butandi
+  city: "butandi"
+  accentcity: "Butandi"
 butare: 
-  city: butare
-  accentcity: Butare
+  city: "butare"
+  accentcity: "Butare"
 butaro: 
-  city: butaro
-  accentcity: Butaro
+  city: "butaro"
+  accentcity: "Butaro"
 butete: 
-  city: butete
-  accentcity: Butete
+  city: "butete"
+  accentcity: "Butete"
 butezi: 
-  city: butezi
-  accentcity: Butezi
+  city: "butezi"
+  accentcity: "Butezi"
 butozo: 
-  city: butozo
-  accentcity: Butozo
+  city: "butozo"
+  accentcity: "Butozo"
 buvali: 
-  city: buvali
-  accentcity: Buvali
+  city: "buvali"
+  accentcity: "Buvali"
 buvumu: 
-  city: buvumu
-  accentcity: Buvumu
+  city: "buvumu"
+  accentcity: "Buvumu"
 buyanga: 
-  city: buyanga
-  accentcity: Buyanga
+  city: "buyanga"
+  accentcity: "Buyanga"
 buyenzi: 
-  city: buyenzi
-  accentcity: Buyenzi
+  city: "buyenzi"
+  accentcity: "Buyenzi"
 buyoga: 
-  city: buyoga
-  accentcity: Buyoga
+  city: "buyoga"
+  accentcity: "Buyoga"
 buzigi: 
-  city: buzigi
-  accentcity: Buzigi
+  city: "buzigi"
+  accentcity: "Buzigi"
 bwakira: 
-  city: bwakira
-  accentcity: Bwakira
+  city: "bwakira"
+  accentcity: "Bwakira"
 bweya: 
-  city: bweya
-  accentcity: Bweya
+  city: "bweya"
+  accentcity: "Bweya"
 bwisha: 
-  city: bwisha
-  accentcity: Bwisha
+  city: "bwisha"
+  accentcity: "Bwisha"
 bwishya: 
-  city: bwishya
-  accentcity: Bwishya
+  city: "bwishya"
+  accentcity: "Bwishya"
 bwisige: 
-  city: bwisige
-  accentcity: Bwisige
+  city: "bwisige"
+  accentcity: "Bwisige"
 byumba: 
-  city: byumba
-  accentcity: Byumba
+  city: "byumba"
+  accentcity: "Byumba"
 churusi: 
-  city: churusi
-  accentcity: Churusi
+  city: "churusi"
+  accentcity: "Churusi"
 chyugi: 
-  city: chyugi
-  accentcity: Chyugi
+  city: "chyugi"
+  accentcity: "Chyugi"
 chyuna: 
-  city: chyuna
-  accentcity: Chyuna
+  city: "chyuna"
+  accentcity: "Chyuna"
 colline bandazi: 
-  city: colline bandazi
-  accentcity: Colline Bandazi
+  city: "colline bandazi"
+  accentcity: "Colline Bandazi"
 colline basa: 
-  city: colline basa
-  accentcity: Colline Basa
+  city: "colline basa"
+  accentcity: "Colline Basa"
 colline bganga: 
-  city: colline bganga
-  accentcity: Colline Bganga
+  city: "colline bganga"
+  accentcity: "Colline Bganga"
 colline bibale: 
-  city: colline bibale
-  accentcity: Colline Bibale
+  city: "colline bibale"
+  accentcity: "Colline Bibale"
 colline bigutu: 
-  city: colline bigutu
-  accentcity: Colline Bigutu
+  city: "colline bigutu"
+  accentcity: "Colline Bigutu"
 colline biguzi: 
-  city: colline biguzi
-  accentcity: Colline Biguzi
+  city: "colline biguzi"
+  accentcity: "Colline Biguzi"
 colline bihe: 
-  city: colline bihe
-  accentcity: Colline Bihe
+  city: "colline bihe"
+  accentcity: "Colline Bihe"
 colline bihembe: 
-  city: colline bihembe
-  accentcity: Colline Bihembe
+  city: "colline bihembe"
+  accentcity: "Colline Bihembe"
 colline bilembo: 
-  city: colline bilembo
-  accentcity: Colline Bilembo
+  city: "colline bilembo"
+  accentcity: "Colline Bilembo"
 colline binana: 
-  city: colline binana
-  accentcity: Colline Binana
+  city: "colline binana"
+  accentcity: "Colline Binana"
 colline bisaga: 
-  city: colline bisaga
-  accentcity: Colline Bisaga
+  city: "colline bisaga"
+  accentcity: "Colline Bisaga"
 colline bishyiga: 
-  city: colline bishyiga
-  accentcity: Colline Bishyiga
+  city: "colline bishyiga"
+  accentcity: "Colline Bishyiga"
 colline bitare: 
-  city: colline bitare
-  accentcity: Colline Bitare
+  city: "colline bitare"
+  accentcity: "Colline Bitare"
 colline budaya: 
-  city: colline budaya
-  accentcity: Colline Budaya
+  city: "colline budaya"
+  accentcity: "Colline Budaya"
 colline bugali: 
-  city: colline bugali
-  accentcity: Colline Bugali
+  city: "colline bugali"
+  accentcity: "Colline Bugali"
 colline bugaragara: 
-  city: colline bugaragara
-  accentcity: Colline Bugaragara
+  city: "colline bugaragara"
+  accentcity: "Colline Bugaragara"
 colline bugarura: 
-  city: colline bugarura
-  accentcity: Colline Bugarura
+  city: "colline bugarura"
+  accentcity: "Colline Bugarura"
 colline bugindi: 
-  city: colline bugindi
-  accentcity: Colline Bugindi
+  city: "colline bugindi"
+  accentcity: "Colline Bugindi"
 colline bugoya: 
-  city: colline bugoya
-  accentcity: Colline Bugoya
+  city: "colline bugoya"
+  accentcity: "Colline Bugoya"
 colline bugu: 
-  city: colline bugu
-  accentcity: Colline Bugu
+  city: "colline bugu"
+  accentcity: "Colline Bugu"
 colline buguma: 
-  city: colline buguma
-  accentcity: Colline Buguma
+  city: "colline buguma"
+  accentcity: "Colline Buguma"
 colline bugungu: 
-  city: colline bugungu
-  accentcity: Colline Bugungu
+  city: "colline bugungu"
+  accentcity: "Colline Bugungu"
 colline buhimba: 
-  city: colline buhimba
-  accentcity: Colline Buhimba
+  city: "colline buhimba"
+  accentcity: "Colline Buhimba"
 colline buhokoro: 
-  city: colline buhokoro
-  accentcity: Colline Buhokoro
+  city: "colline buhokoro"
+  accentcity: "Colline Buhokoro"
 colline buhongo: 
-  city: colline buhongo
-  accentcity: Colline Buhongo
+  city: "colline buhongo"
+  accentcity: "Colline Buhongo"
 colline buhoro: 
-  city: colline buhoro
-  accentcity: Colline Buhoro
+  city: "colline buhoro"
+  accentcity: "Colline Buhoro"
 colline buhuga: 
-  city: colline buhuga
-  accentcity: Colline Buhuga
+  city: "colline buhuga"
+  accentcity: "Colline Buhuga"
 colline buhungwe: 
-  city: colline buhungwe
-  accentcity: Colline Buhungwe
+  city: "colline buhungwe"
+  accentcity: "Colline Buhungwe"
 colline bukamba: 
-  city: colline bukamba
-  accentcity: Colline Bukamba
+  city: "colline bukamba"
+  accentcity: "Colline Bukamba"
 colline bukaragata: 
-  city: colline bukaragata
-  accentcity: Colline Bukaragata
+  city: "colline bukaragata"
+  accentcity: "Colline Bukaragata"
 colline bukekele: 
-  city: colline bukekele
-  accentcity: Colline Bukekele
+  city: "colline bukekele"
+  accentcity: "Colline Bukekele"
 colline bukondjo: 
-  city: colline bukondjo
-  accentcity: Colline Bukondjo
+  city: "colline bukondjo"
+  accentcity: "Colline Bukondjo"
 colline bulega: 
-  city: colline bulega
-  accentcity: Colline Bulega
+  city: "colline bulega"
+  accentcity: "Colline Bulega"
 colline bulenga: 
-  city: colline bulenga
-  accentcity: Colline Bulenga
+  city: "colline bulenga"
+  accentcity: "Colline Bulenga"
 colline bulengera: 
-  city: colline bulengera
-  accentcity: Colline Bulengera
+  city: "colline bulengera"
+  accentcity: "Colline Bulengera"
 colline bulimba: 
-  city: colline bulimba
-  accentcity: Colline Bulimba
+  city: "colline bulimba"
+  accentcity: "Colline Bulimba"
 colline bumazi: 
-  city: colline bumazi
-  accentcity: Colline Bumazi
+  city: "colline bumazi"
+  accentcity: "Colline Bumazi"
 colline bunga: 
-  city: colline bunga
-  accentcity: Colline Bunga
+  city: "colline bunga"
+  accentcity: "Colline Bunga"
 colline bunyereri: 
-  city: colline bunyereri
-  accentcity: Colline Bunyereri
+  city: "colline bunyereri"
+  accentcity: "Colline Bunyereri"
 colline burama: 
-  city: colline burama
-  accentcity: Colline Burama
+  city: "colline burama"
+  accentcity: "Colline Burama"
 colline burega: 
-  city: colline burega
-  accentcity: Colline Burega
+  city: "colline burega"
+  accentcity: "Colline Burega"
 colline burere: 
-  city: colline burere
-  accentcity: Colline Burere
+  city: "colline burere"
+  accentcity: "Colline Burere"
 colline busekera: 
-  city: colline busekera
-  accentcity: Colline Busekera
+  city: "colline busekera"
+  accentcity: "Colline Busekera"
 colline bushara: 
-  city: colline bushara
-  accentcity: Colline Bushara
+  city: "colline bushara"
+  accentcity: "Colline Bushara"
 colline bushiga: 
-  city: colline bushiga
-  accentcity: Colline Bushiga
+  city: "colline bushiga"
+  accentcity: "Colline Bushiga"
 colline bushingamohetu: 
-  city: colline bushingamohetu
-  accentcity: Colline Bushingamohetu
+  city: "colline bushingamohetu"
+  accentcity: "Colline Bushingamohetu"
 colline bushoka: 
-  city: colline bushoka
-  accentcity: Colline Bushoka
+  city: "colline bushoka"
+  accentcity: "Colline Bushoka"
 colline butale: 
-  city: colline butale
-  accentcity: Colline Butale
+  city: "colline butale"
+  accentcity: "Colline Butale"
 colline butambamo: 
-  city: colline butambamo
-  accentcity: Colline Butambamo
+  city: "colline butambamo"
+  accentcity: "Colline Butambamo"
 colline butambara: 
-  city: colline butambara
-  accentcity: Colline Butambara
+  city: "colline butambara"
+  accentcity: "Colline Butambara"
 colline butambwe: 
-  city: colline butambwe
-  accentcity: Colline Butambwe
+  city: "colline butambwe"
+  accentcity: "Colline Butambwe"
 colline butandi: 
-  city: colline butandi
-  accentcity: Colline Butandi
+  city: "colline butandi"
+  accentcity: "Colline Butandi"
 colline butaro: 
-  city: colline butaro
-  accentcity: Colline Butaro
+  city: "colline butaro"
+  accentcity: "Colline Butaro"
 colline butete: 
-  city: colline butete
-  accentcity: Colline Butete
+  city: "colline butete"
+  accentcity: "Colline Butete"
 colline butezi: 
-  city: colline butezi
-  accentcity: Colline Butezi
+  city: "colline butezi"
+  accentcity: "Colline Butezi"
 colline butozo: 
-  city: colline butozo
-  accentcity: Colline Butozo
+  city: "colline butozo"
+  accentcity: "Colline Butozo"
 colline buvali: 
-  city: colline buvali
-  accentcity: Colline Buvali
+  city: "colline buvali"
+  accentcity: "Colline Buvali"
 colline buvumu: 
-  city: colline buvumu
-  accentcity: Colline Buvumu
+  city: "colline buvumu"
+  accentcity: "Colline Buvumu"
 colline buyaga: 
-  city: colline buyaga
-  accentcity: Colline Buyaga
+  city: "colline buyaga"
+  accentcity: "Colline Buyaga"
 colline buyanga: 
-  city: colline buyanga
-  accentcity: Colline Buyanga
+  city: "colline buyanga"
+  accentcity: "Colline Buyanga"
 colline bweya: 
-  city: colline bweya
-  accentcity: Colline Bweya
+  city: "colline bweya"
+  accentcity: "Colline Bweya"
 colline bwisha: 
-  city: colline bwisha
-  accentcity: Colline Bwisha
+  city: "colline bwisha"
+  accentcity: "Colline Bwisha"
 colline bwishya: 
-  city: colline bwishya
-  accentcity: Colline Bwishya
+  city: "colline bwishya"
+  accentcity: "Colline Bwishya"
 colline churusi: 
-  city: colline churusi
-  accentcity: Colline Churusi
+  city: "colline churusi"
+  accentcity: "Colline Churusi"
 colline chyuna: 
-  city: colline chyuna
-  accentcity: Colline Chyuna
+  city: "colline chyuna"
+  accentcity: "Colline Chyuna"
 colline cyabingo: 
-  city: colline cyabingo
-  accentcity: Colline Cyabingo
+  city: "colline cyabingo"
+  accentcity: "Colline Cyabingo"
 colline cyamuti: 
-  city: colline cyamuti
-  accentcity: Colline Cyamuti
+  city: "colline cyamuti"
+  accentcity: "Colline Cyamuti"
 colline cyarwa: 
-  city: colline cyarwa
-  accentcity: Colline Cyarwa
+  city: "colline cyarwa"
+  accentcity: "Colline Cyarwa"
 colline cyato: 
-  city: colline cyato
-  accentcity: Colline Cyato
+  city: "colline cyato"
+  accentcity: "Colline Cyato"
 colline cyete: 
-  city: colline cyete
-  accentcity: Colline Cyete
+  city: "colline cyete"
+  accentcity: "Colline Cyete"
 colline cyibumba: 
-  city: colline cyibumba
-  accentcity: Colline Cyibumba
+  city: "colline cyibumba"
+  accentcity: "Colline Cyibumba"
 colline cyigaro: 
-  city: colline cyigaro
-  accentcity: Colline Cyigaro
+  city: "colline cyigaro"
+  accentcity: "Colline Cyigaro"
 colline cyimbande: 
-  city: colline cyimbande
-  accentcity: Colline Cyimbande
+  city: "colline cyimbande"
+  accentcity: "Colline Cyimbande"
 colline cyimpundu: 
-  city: colline cyimpundu
-  accentcity: Colline Cyimpundu
+  city: "colline cyimpundu"
+  accentcity: "Colline Cyimpundu"
 colline cyiya: 
-  city: colline cyiya
-  accentcity: Colline Cyiya
+  city: "colline cyiya"
+  accentcity: "Colline Cyiya"
 colline cyotomakara: 
-  city: colline cyotomakara
-  accentcity: Colline Cyotomakara
+  city: "colline cyotomakara"
+  accentcity: "Colline Cyotomakara"
 colline cyumba: 
-  city: colline cyumba
-  accentcity: Colline Cyumba
+  city: "colline cyumba"
+  accentcity: "Colline Cyumba"
 colline cyuve: 
-  city: colline cyuve
-  accentcity: Colline Cyuve
+  city: "colline cyuve"
+  accentcity: "Colline Cyuve"
 colline gabiro: 
-  city: colline gabiro
-  accentcity: Colline Gabiro
+  city: "colline gabiro"
+  accentcity: "Colline Gabiro"
 colline gafuba: 
-  city: colline gafuba
-  accentcity: Colline Gafuba
+  city: "colline gafuba"
+  accentcity: "Colline Gafuba"
 colline gafunza: 
-  city: colline gafunza
-  accentcity: Colline Gafunza
+  city: "colline gafunza"
+  accentcity: "Colline Gafunza"
 colline gahanga: 
-  city: colline gahanga
-  accentcity: Colline Gahanga
+  city: "colline gahanga"
+  accentcity: "Colline Gahanga"
 colline gahondo: 
-  city: colline gahondo
-  accentcity: Colline Gahondo
+  city: "colline gahondo"
+  accentcity: "Colline Gahondo"
 colline gakenke: 
-  city: colline gakenke
-  accentcity: Colline Gakenke
+  city: "colline gakenke"
+  accentcity: "Colline Gakenke"
 colline gako: 
-  city: colline gako
-  accentcity: Colline Gako
+  city: "colline gako"
+  accentcity: "Colline Gako"
 colline gakoma: 
-  city: colline gakoma
-  accentcity: Colline Gakoma
+  city: "colline gakoma"
+  accentcity: "Colline Gakoma"
 colline gakoni: 
-  city: colline gakoni
-  accentcity: Colline Gakoni
+  city: "colline gakoni"
+  accentcity: "Colline Gakoni"
 colline gakoro: 
-  city: colline gakoro
-  accentcity: Colline Gakoro
+  city: "colline gakoro"
+  accentcity: "Colline Gakoro"
 colline gangura: 
-  city: colline gangura
-  accentcity: Colline Gangura
+  city: "colline gangura"
+  accentcity: "Colline Gangura"
 colline garama: 
-  city: colline garama
-  accentcity: Colline Garama
+  city: "colline garama"
+  accentcity: "Colline Garama"
 colline gasabo: 
-  city: colline gasabo
-  accentcity: Colline Gasabo
+  city: "colline gasabo"
+  accentcity: "Colline Gasabo"
 colline gasagara: 
-  city: colline gasagara
-  accentcity: Colline Gasagara
+  city: "colline gasagara"
+  accentcity: "Colline Gasagara"
 colline gasaka: 
-  city: colline gasaka
-  accentcity: Colline Gasaka
+  city: "colline gasaka"
+  accentcity: "Colline Gasaka"
 colline gasambu: 
-  city: colline gasambu
-  accentcity: Colline Gasambu
+  city: "colline gasambu"
+  accentcity: "Colline Gasambu"
 colline gasambya: 
-  city: colline gasambya
-  accentcity: Colline Gasambya
+  city: "colline gasambya"
+  accentcity: "Colline Gasambya"
 colline gasana: 
-  city: colline gasana
-  accentcity: Colline Gasana
+  city: "colline gasana"
+  accentcity: "Colline Gasana"
 colline gasanze: 
-  city: colline gasanze
-  accentcity: Colline Gasanze
+  city: "colline gasanze"
+  accentcity: "Colline Gasanze"
 colline gasasa: 
-  city: colline gasasa
-  accentcity: Colline Gasasa
+  city: "colline gasasa"
+  accentcity: "Colline Gasasa"
 colline gashaki: 
-  city: colline gashaki
-  accentcity: Colline Gashaki
+  city: "colline gashaki"
+  accentcity: "Colline Gashaki"
 colline gashenye: 
-  city: colline gashenye
-  accentcity: Colline Gashenye
+  city: "colline gashenye"
+  accentcity: "Colline Gashenye"
 colline gasheshe: 
-  city: colline gasheshe
-  accentcity: Colline Gasheshe
+  city: "colline gasheshe"
+  accentcity: "Colline Gasheshe"
 colline gashinia: 
-  city: colline gashinia
-  accentcity: Colline Gashinia
+  city: "colline gashinia"
+  accentcity: "Colline Gashinia"
 colline gashoba: 
-  city: colline gashoba
-  accentcity: Colline Gashoba
+  city: "colline gashoba"
+  accentcity: "Colline Gashoba"
 colline gashonga: 
-  city: colline gashonga
-  accentcity: Colline Gashonga
+  city: "colline gashonga"
+  accentcity: "Colline Gashonga"
 colline gasura: 
-  city: colline gasura
-  accentcity: Colline Gasura
+  city: "colline gasura"
+  accentcity: "Colline Gasura"
 colline gatatara: 
-  city: colline gatatara
-  accentcity: Colline Gatatara
+  city: "colline gatatara"
+  accentcity: "Colline Gatatara"
 colline gatete: 
-  city: colline gatete
-  accentcity: Colline Gatete
+  city: "colline gatete"
+  accentcity: "Colline Gatete"
 colline gatonde: 
-  city: colline gatonde
-  accentcity: Colline Gatonde
+  city: "colline gatonde"
+  accentcity: "Colline Gatonde"
 colline gatovu: 
-  city: colline gatovu
-  accentcity: Colline Gatovu
+  city: "colline gatovu"
+  accentcity: "Colline Gatovu"
 colline gatsilima: 
-  city: colline gatsilima
-  accentcity: Colline Gatsilima
+  city: "colline gatsilima"
+  accentcity: "Colline Gatsilima"
 colline gazinga: 
-  city: colline gazinga
-  accentcity: Colline Gazinga
+  city: "colline gazinga"
+  accentcity: "Colline Gazinga"
 colline gicuba: 
-  city: colline gicuba
-  accentcity: Colline Gicuba
+  city: "colline gicuba"
+  accentcity: "Colline Gicuba"
 colline gihango: 
-  city: colline gihango
-  accentcity: Colline Gihango
+  city: "colline gihango"
+  accentcity: "Colline Gihango"
 colline gihe: 
-  city: colline gihe
-  accentcity: Colline Gihe
+  city: "colline gihe"
+  accentcity: "Colline Gihe"
 colline giheke: 
-  city: colline giheke
-  accentcity: Colline Giheke
+  city: "colline giheke"
+  accentcity: "Colline Giheke"
 colline giheta: 
-  city: colline giheta
-  accentcity: Colline Giheta
+  city: "colline giheta"
+  accentcity: "Colline Giheta"
 colline gihinga: 
-  city: colline gihinga
-  accentcity: Colline Gihinga
+  city: "colline gihinga"
+  accentcity: "Colline Gihinga"
 colline gihora: 
-  city: colline gihora
-  accentcity: Colline Gihora
+  city: "colline gihora"
+  accentcity: "Colline Gihora"
 colline gikondo: 
-  city: colline gikondo
-  accentcity: Colline Gikondo
+  city: "colline gikondo"
+  accentcity: "Colline Gikondo"
 colline gisa: 
-  city: colline gisa
-  accentcity: Colline Gisa
+  city: "colline gisa"
+  accentcity: "Colline Gisa"
 colline gisagara: 
-  city: colline gisagara
-  accentcity: Colline Gisagara
+  city: "colline gisagara"
+  accentcity: "Colline Gisagara"
 colline gisanze: 
-  city: colline gisanze
-  accentcity: Colline Gisanze
+  city: "colline gisanze"
+  accentcity: "Colline Gisanze"
 colline gisayura: 
-  city: colline gisayura
-  accentcity: Colline Gisayura
+  city: "colline gisayura"
+  accentcity: "Colline Gisayura"
 colline giseke: 
-  city: colline giseke
-  accentcity: Colline Giseke
+  city: "colline giseke"
+  accentcity: "Colline Giseke"
 colline gishike: 
-  city: colline gishike
-  accentcity: Colline Gishike
+  city: "colline gishike"
+  accentcity: "Colline Gishike"
 colline gishute: 
-  city: colline gishute
-  accentcity: Colline Gishute
+  city: "colline gishute"
+  accentcity: "Colline Gishute"
 colline gisodzi: 
-  city: colline gisodzi
-  accentcity: Colline Gisodzi
+  city: "colline gisodzi"
+  accentcity: "Colline Gisodzi"
 colline gisongwe: 
-  city: colline gisongwe
-  accentcity: Colline Gisongwe
+  city: "colline gisongwe"
+  accentcity: "Colline Gisongwe"
 colline gisozi: 
-  city: colline gisozi
-  accentcity: Colline Gisozi
+  city: "colline gisozi"
+  accentcity: "Colline Gisozi"
 colline gitaba: 
-  city: colline gitaba
-  accentcity: Colline Gitaba
+  city: "colline gitaba"
+  accentcity: "Colline Gitaba"
 colline gitambi: 
-  city: colline gitambi
-  accentcity: Colline Gitambi
+  city: "colline gitambi"
+  accentcity: "Colline Gitambi"
 colline gitandi: 
-  city: colline gitandi
-  accentcity: Colline Gitandi
+  city: "colline gitandi"
+  accentcity: "Colline Gitandi"
 colline gitare: 
-  city: colline gitare
-  accentcity: Colline Gitare
+  city: "colline gitare"
+  accentcity: "Colline Gitare"
 colline gitega: 
-  city: colline gitega
-  accentcity: Colline Gitega
+  city: "colline gitega"
+  accentcity: "Colline Gitega"
 colline gitenga: 
-  city: colline gitenga
-  accentcity: Colline Gitenga
+  city: "colline gitenga"
+  accentcity: "Colline Gitenga"
 colline gitenge: 
-  city: colline gitenge
-  accentcity: Colline Gitenge
+  city: "colline gitenge"
+  accentcity: "Colline Gitenge"
 colline gitongati: 
-  city: colline gitongati
-  accentcity: Colline Gitongati
+  city: "colline gitongati"
+  accentcity: "Colline Gitongati"
 colline gitongo: 
-  city: colline gitongo
-  accentcity: Colline Gitongo
+  city: "colline gitongo"
+  accentcity: "Colline Gitongo"
 colline gitovu: 
-  city: colline gitovu
-  accentcity: Colline Gitovu
+  city: "colline gitovu"
+  accentcity: "Colline Gitovu"
 colline gitshatsha: 
-  city: colline gitshatsha
-  accentcity: Colline Gitshatsha
+  city: "colline gitshatsha"
+  accentcity: "Colline Gitshatsha"
 colline gitsimba: 
-  city: colline gitsimba
-  accentcity: Colline Gitsimba
+  city: "colline gitsimba"
+  accentcity: "Colline Gitsimba"
 colline gitsuba: 
-  city: colline gitsuba
-  accentcity: Colline Gitsuba
+  city: "colline gitsuba"
+  accentcity: "Colline Gitsuba"
 colline gituza: 
-  city: colline gituza
-  accentcity: Colline Gituza
+  city: "colline gituza"
+  accentcity: "Colline Gituza"
 colline gitwa: 
-  city: colline gitwa
-  accentcity: Colline Gitwa
+  city: "colline gitwa"
+  accentcity: "Colline Gitwa"
 colline gitwe: 
-  city: colline gitwe
-  accentcity: Colline Gitwe
+  city: "colline gitwe"
+  accentcity: "Colline Gitwe"
 colline gombaniro: 
-  city: colline gombaniro
-  accentcity: Colline Gombaniro
+  city: "colline gombaniro"
+  accentcity: "Colline Gombaniro"
 colline gorora: 
-  city: colline gorora
-  accentcity: Colline Gorora
+  city: "colline gorora"
+  accentcity: "Colline Gorora"
 colline gosenyi: 
-  city: colline gosenyi
-  accentcity: Colline Gosenyi
+  city: "colline gosenyi"
+  accentcity: "Colline Gosenyi"
 colline guhengeri: 
-  city: colline guhengeri
-  accentcity: Colline Guhengeri
+  city: "colline guhengeri"
+  accentcity: "Colline Guhengeri"
 colline hakasiru: 
-  city: colline hakasiru
-  accentcity: Colline Hakasiru
+  city: "colline hakasiru"
+  accentcity: "Colline Hakasiru"
 colline ibanda: 
-  city: colline ibanda
-  accentcity: Colline Ibanda
+  city: "colline ibanda"
+  accentcity: "Colline Ibanda"
 colline isenga: 
-  city: colline isenga
-  accentcity: Colline Isenga
+  city: "colline isenga"
+  accentcity: "Colline Isenga"
 colline ityazo: 
-  city: colline ityazo
-  accentcity: Colline Ityazo
+  city: "colline ityazo"
+  accentcity: "Colline Ityazo"
 colline janjagiro: 
-  city: colline janjagiro
-  accentcity: Colline Janjagiro
+  city: "colline janjagiro"
+  accentcity: "Colline Janjagiro"
 colline jenda: 
-  city: colline jenda
-  accentcity: Colline Jenda
+  city: "colline jenda"
+  accentcity: "Colline Jenda"
 colline jomba: 
-  city: colline jomba
-  accentcity: Colline Jomba
+  city: "colline jomba"
+  accentcity: "Colline Jomba"
 colline kabale: 
-  city: colline kabale
-  accentcity: Colline Kabale
+  city: "colline kabale"
+  accentcity: "Colline Kabale"
 colline kabalele: 
-  city: colline kabalele
-  accentcity: Colline Kabalele
+  city: "colline kabalele"
+  accentcity: "Colline Kabalele"
 colline kabanda: 
-  city: colline kabanda
-  accentcity: Colline Kabanda
+  city: "colline kabanda"
+  accentcity: "Colline Kabanda"
 colline kabilizi: 
-  city: colline kabilizi
-  accentcity: Colline Kabilizi
+  city: "colline kabilizi"
+  accentcity: "Colline Kabilizi"
 colline kabingo: 
-  city: colline kabingo
-  accentcity: Colline Kabingo
+  city: "colline kabingo"
+  accentcity: "Colline Kabingo"
 colline kabira: 
-  city: colline kabira
-  accentcity: Colline Kabira
+  city: "colline kabira"
+  accentcity: "Colline Kabira"
 colline kabirizi: 
-  city: colline kabirizi
-  accentcity: Colline Kabirizi
+  city: "colline kabirizi"
+  accentcity: "Colline Kabirizi"
 colline kabongoya: 
-  city: colline kabongoya
-  accentcity: Colline Kabongoya
+  city: "colline kabongoya"
+  accentcity: "Colline Kabongoya"
 colline kaboza: 
-  city: colline kaboza
-  accentcity: Colline Kaboza
+  city: "colline kaboza"
+  accentcity: "Colline Kaboza"
 colline kabuga: 
-  city: colline kabuga
-  accentcity: Colline Kabuga
+  city: "colline kabuga"
+  accentcity: "Colline Kabuga"
 colline kabutembo: 
-  city: colline kabutembo
-  accentcity: Colline Kabutembo
+  city: "colline kabutembo"
+  accentcity: "Colline Kabutembo"
 colline kabyaza: 
-  city: colline kabyaza
-  accentcity: Colline Kabyaza
+  city: "colline kabyaza"
+  accentcity: "Colline Kabyaza"
 colline kadjumo: 
-  city: colline kadjumo
-  accentcity: Colline Kadjumo
+  city: "colline kadjumo"
+  accentcity: "Colline Kadjumo"
 colline kagabo: 
-  city: colline kagabo
-  accentcity: Colline Kagabo
+  city: "colline kagabo"
+  accentcity: "Colline Kagabo"
 colline kagasa: 
-  city: colline kagasa
-  accentcity: Colline Kagasa
+  city: "colline kagasa"
+  accentcity: "Colline Kagasa"
 colline kagunga: 
-  city: colline kagunga
-  accentcity: Colline Kagunga
+  city: "colline kagunga"
+  accentcity: "Colline Kagunga"
 colline kakole: 
-  city: colline kakole
-  accentcity: Colline Kakole
+  city: "colline kakole"
+  accentcity: "Colline Kakole"
 colline kakute: 
-  city: colline kakute
-  accentcity: Colline Kakute
+  city: "colline kakute"
+  accentcity: "Colline Kakute"
 colline kalembule: 
-  city: colline kalembule
-  accentcity: Colline Kalembule
+  city: "colline kalembule"
+  accentcity: "Colline Kalembule"
 colline kalengera: 
-  city: colline kalengera
-  accentcity: Colline Kalengera
+  city: "colline kalengera"
+  accentcity: "Colline Kalengera"
 colline kamabara: 
-  city: colline kamabara
-  accentcity: Colline Kamabara
+  city: "colline kamabara"
+  accentcity: "Colline Kamabara"
 colline kambogo: 
-  city: colline kambogo
-  accentcity: Colline Kambogo
+  city: "colline kambogo"
+  accentcity: "Colline Kambogo"
 colline kamushuri: 
-  city: colline kamushuri
-  accentcity: Colline Kamushuri
+  city: "colline kamushuri"
+  accentcity: "Colline Kamushuri"
 colline kanama: 
-  city: colline kanama
-  accentcity: Colline Kanama
+  city: "colline kanama"
+  accentcity: "Colline Kanama"
 colline kangoma: 
-  city: colline kangoma
-  accentcity: Colline Kangoma
+  city: "colline kangoma"
+  accentcity: "Colline Kangoma"
 colline kangwandi: 
-  city: colline kangwandi
-  accentcity: Colline Kangwandi
+  city: "colline kangwandi"
+  accentcity: "Colline Kangwandi"
 colline kanogo: 
-  city: colline kanogo
-  accentcity: Colline Kanogo
+  city: "colline kanogo"
+  accentcity: "Colline Kanogo"
 colline kanombe: 
-  city: colline kanombe
-  accentcity: Colline Kanombe
+  city: "colline kanombe"
+  accentcity: "Colline Kanombe"
 colline kanyoni: 
-  city: colline kanyoni
-  accentcity: Colline Kanyoni
+  city: "colline kanyoni"
+  accentcity: "Colline Kanyoni"
 colline kanzanza: 
-  city: colline kanzanza
-  accentcity: Colline Kanzanza
+  city: "colline kanzanza"
+  accentcity: "Colline Kanzanza"
 colline kanzenze: 
-  city: colline kanzenze
-  accentcity: Colline Kanzenze
+  city: "colline kanzenze"
+  accentcity: "Colline Kanzenze"
 colline karagari: 
-  city: colline karagari
-  accentcity: Colline Karagari
+  city: "colline karagari"
+  accentcity: "Colline Karagari"
 colline karama: 
-  city: colline karama
-  accentcity: Colline Karama
+  city: "colline karama"
+  accentcity: "Colline Karama"
 colline karambo: 
-  city: colline karambo
-  accentcity: Colline Karambo
+  city: "colline karambo"
+  accentcity: "Colline Karambo"
 colline karandarye: 
-  city: colline karandarye
-  accentcity: Colline Karandarye
+  city: "colline karandarye"
+  accentcity: "Colline Karandarye"
 colline karizinge: 
-  city: colline karizinge
-  accentcity: Colline Karizinge
+  city: "colline karizinge"
+  accentcity: "Colline Karizinge"
 colline karotshyo: 
-  city: colline karotshyo
-  accentcity: Colline Karotshyo
+  city: "colline karotshyo"
+  accentcity: "Colline Karotshyo"
 colline kataretare: 
-  city: colline kataretare
-  accentcity: Colline Kataretare
+  city: "colline kataretare"
+  accentcity: "Colline Kataretare"
 colline katshuriro: 
-  city: colline katshuriro
-  accentcity: Colline Katshuriro
+  city: "colline katshuriro"
+  accentcity: "Colline Katshuriro"
 colline kavumu: 
-  city: colline kavumu
-  accentcity: Colline Kavumu
+  city: "colline kavumu"
+  accentcity: "Colline Kavumu"
 colline kayanga: 
-  city: colline kayanga
-  accentcity: Colline Kayanga
+  city: "colline kayanga"
+  accentcity: "Colline Kayanga"
 colline kayenzi: 
-  city: colline kayenzi
-  accentcity: Colline Kayenzi
+  city: "colline kayenzi"
+  accentcity: "Colline Kayenzi"
 colline kayovu: 
-  city: colline kayovu
-  accentcity: Colline Kayovu
+  city: "colline kayovu"
+  accentcity: "Colline Kayovu"
 colline kazo: 
-  city: colline kazo
-  accentcity: Colline Kazo
+  city: "colline kazo"
+  accentcity: "Colline Kazo"
 colline kendale: 
-  city: colline kendale
-  accentcity: Colline Kendale
+  city: "colline kendale"
+  accentcity: "Colline Kendale"
 colline kibadirwa: 
-  city: colline kibadirwa
-  accentcity: Colline Kibadirwa
+  city: "colline kibadirwa"
+  accentcity: "Colline Kibadirwa"
 colline kibagabaga: 
-  city: colline kibagabaga
-  accentcity: Colline Kibagabaga
+  city: "colline kibagabaga"
+  accentcity: "Colline Kibagabaga"
 colline kibali: 
-  city: colline kibali
-  accentcity: Colline Kibali
+  city: "colline kibali"
+  accentcity: "Colline Kibali"
 colline kibangu: 
-  city: colline kibangu
-  accentcity: Colline Kibangu
+  city: "colline kibangu"
+  accentcity: "Colline Kibangu"
 colline kibanza: 
-  city: colline kibanza
-  accentcity: Colline Kibanza
+  city: "colline kibanza"
+  accentcity: "Colline Kibanza"
 colline kibari: 
-  city: colline kibari
-  accentcity: Colline Kibari
+  city: "colline kibari"
+  accentcity: "Colline Kibari"
 colline kibazi: 
-  city: colline kibazi
-  accentcity: Colline Kibazi
+  city: "colline kibazi"
+  accentcity: "Colline Kibazi"
 colline kibinja: 
-  city: colline kibinja
-  accentcity: Colline Kibinja
+  city: "colline kibinja"
+  accentcity: "Colline Kibinja"
 colline kiboga: 
-  city: colline kiboga
-  accentcity: Colline Kiboga
+  city: "colline kiboga"
+  accentcity: "Colline Kiboga"
 colline kibungu: 
-  city: colline kibungu
-  accentcity: Colline Kibungu
+  city: "colline kibungu"
+  accentcity: "Colline Kibungu"
 colline kidaho: 
-  city: colline kidaho
-  accentcity: Colline Kidaho
+  city: "colline kidaho"
+  accentcity: "Colline Kidaho"
 colline kigali: 
-  city: colline kigali
-  accentcity: Colline Kigali
+  city: "colline kigali"
+  accentcity: "Colline Kigali"
 colline kiganda: 
-  city: colline kiganda
-  accentcity: Colline Kiganda
+  city: "colline kiganda"
+  accentcity: "Colline Kiganda"
 colline kigarama: 
-  city: colline kigarama
-  accentcity: Colline Kigarama
+  city: "colline kigarama"
+  accentcity: "Colline Kigarama"
 colline kigasa: 
-  city: colline kigasa
-  accentcity: Colline Kigasa
+  city: "colline kigasa"
+  accentcity: "Colline Kigasa"
 colline kigembe: 
-  city: colline kigembe
-  accentcity: Colline Kigembe
+  city: "colline kigembe"
+  accentcity: "Colline Kigembe"
 colline kigeyo: 
-  city: colline kigeyo
-  accentcity: Colline Kigeyo
+  city: "colline kigeyo"
+  accentcity: "Colline Kigeyo"
 colline kikunyu: 
-  city: colline kikunyu
-  accentcity: Colline Kikunyu
+  city: "colline kikunyu"
+  accentcity: "Colline Kikunyu"
 colline kilambi: 
-  city: colline kilambi
-  accentcity: Colline Kilambi
+  city: "colline kilambi"
+  accentcity: "Colline Kilambi"
 colline kilarambogo: 
-  city: colline kilarambogo
-  accentcity: Colline Kilarambogo
+  city: "colline kilarambogo"
+  accentcity: "Colline Kilarambogo"
 colline kimbwebwe: 
-  city: colline kimbwebwe
-  accentcity: Colline Kimbwebwe
+  city: "colline kimbwebwe"
+  accentcity: "Colline Kimbwebwe"
 colline kimironko: 
-  city: colline kimironko
-  accentcity: Colline Kimironko
+  city: "colline kimironko"
+  accentcity: "Colline Kimironko"
 colline kimiryi: 
-  city: colline kimiryi
-  accentcity: Colline Kimiryi
+  city: "colline kimiryi"
+  accentcity: "Colline Kimiryi"
 colline kinanira: 
-  city: colline kinanira
-  accentcity: Colline Kinanira
+  city: "colline kinanira"
+  accentcity: "Colline Kinanira"
 colline kindonye: 
-  city: colline kindonye
-  accentcity: Colline Kindonye
+  city: "colline kindonye"
+  accentcity: "Colline Kindonye"
 colline kinigi: 
-  city: colline kinigi
-  accentcity: Colline Kinigi
+  city: "colline kinigi"
+  accentcity: "Colline Kinigi"
 colline kinihira: 
-  city: colline kinihira
-  accentcity: Colline Kinihira
+  city: "colline kinihira"
+  accentcity: "Colline Kinihira"
 colline kinogo: 
-  city: colline kinogo
-  accentcity: Colline Kinogo
+  city: "colline kinogo"
+  accentcity: "Colline Kinogo"
 colline kintarure: 
-  city: colline kintarure
-  accentcity: Colline Kintarure
+  city: "colline kintarure"
+  accentcity: "Colline Kintarure"
 colline kinyababa: 
-  city: colline kinyababa
-  accentcity: Colline Kinyababa
+  city: "colline kinyababa"
+  accentcity: "Colline Kinyababa"
 colline kinyambo: 
-  city: colline kinyambo
-  accentcity: Colline Kinyambo
+  city: "colline kinyambo"
+  accentcity: "Colline Kinyambo"
 colline kinyanja: 
-  city: colline kinyanja
-  accentcity: Colline Kinyanja
+  city: "colline kinyanja"
+  accentcity: "Colline Kinyanja"
 colline kinyantozi: 
-  city: colline kinyantozi
-  accentcity: Colline Kinyantozi
+  city: "colline kinyantozi"
+  accentcity: "Colline Kinyantozi"
 colline kinyoma: 
-  city: colline kinyoma
-  accentcity: Colline Kinyoma
+  city: "colline kinyoma"
+  accentcity: "Colline Kinyoma"
 colline kinyoni: 
-  city: colline kinyoni
-  accentcity: Colline Kinyoni
+  city: "colline kinyoni"
+  accentcity: "Colline Kinyoni"
 colline kinzuzi: 
-  city: colline kinzuzi
-  accentcity: Colline Kinzuzi
+  city: "colline kinzuzi"
+  accentcity: "Colline Kinzuzi"
 colline kiraga: 
-  city: colline kiraga
-  accentcity: Colline Kiraga
+  city: "colline kiraga"
+  accentcity: "Colline Kiraga"
 colline kirambo: 
-  city: colline kirambo
-  accentcity: Colline Kirambo
+  city: "colline kirambo"
+  accentcity: "Colline Kirambo"
 colline kiranga: 
-  city: colline kiranga
-  accentcity: Colline Kiranga
+  city: "colline kiranga"
+  accentcity: "Colline Kiranga"
 colline kiraro: 
-  city: colline kiraro
-  accentcity: Colline Kiraro
+  city: "colline kiraro"
+  accentcity: "Colline Kiraro"
 colline kirengo: 
-  city: colline kirengo
-  accentcity: Colline Kirengo
+  city: "colline kirengo"
+  accentcity: "Colline Kirengo"
 colline kiryi: 
-  city: colline kiryi
-  accentcity: Colline Kiryi
+  city: "colline kiryi"
+  accentcity: "Colline Kiryi"
 colline kisigiro: 
-  city: colline kisigiro
-  accentcity: Colline Kisigiro
+  city: "colline kisigiro"
+  accentcity: "Colline Kisigiro"
 colline kisunzu: 
-  city: colline kisunzu
-  accentcity: Colline Kisunzu
+  city: "colline kisunzu"
+  accentcity: "Colline Kisunzu"
 colline kiterwe: 
-  city: colline kiterwe
-  accentcity: Colline Kiterwe
+  city: "colline kiterwe"
+  accentcity: "Colline Kiterwe"
 colline kivuba: 
-  city: colline kivuba
-  accentcity: Colline Kivuba
+  city: "colline kivuba"
+  accentcity: "Colline Kivuba"
 colline kivu: 
-  city: colline kivu
-  accentcity: Colline Kivu
+  city: "colline kivu"
+  accentcity: "Colline Kivu"
 colline kivumu: 
-  city: colline kivumu
-  accentcity: Colline Kivumu
+  city: "colline kivumu"
+  accentcity: "Colline Kivumu"
 colline kiyanza: 
-  city: colline kiyanza
-  accentcity: Colline Kiyanza
+  city: "colline kiyanza"
+  accentcity: "Colline Kiyanza"
 colline kiyonza: 
-  city: colline kiyonza
-  accentcity: Colline Kiyonza
+  city: "colline kiyonza"
+  accentcity: "Colline Kiyonza"
 colline kiziguru: 
-  city: colline kiziguru
-  accentcity: Colline Kiziguru
+  city: "colline kiziguru"
+  accentcity: "Colline Kiziguru"
 colline kizirakome: 
-  city: colline kizirakome
-  accentcity: Colline Kizirakome
+  city: "colline kizirakome"
+  accentcity: "Colline Kizirakome"
 colline kukabira: 
-  city: colline kukabira
-  accentcity: Colline Kukabira
+  city: "colline kukabira"
+  accentcity: "Colline Kukabira"
 colline kukana: 
-  city: colline kukana
-  accentcity: Colline Kukana
+  city: "colline kukana"
+  accentcity: "Colline Kukana"
 colline kulisha: 
-  city: colline kulisha
-  accentcity: Colline Kulisha
+  city: "colline kulisha"
+  accentcity: "Colline Kulisha"
 colline kumutaka: 
-  city: colline kumutaka
-  accentcity: Colline Kumutaka
+  city: "colline kumutaka"
+  accentcity: "Colline Kumutaka"
 colline kununya: 
-  city: colline kununya
-  accentcity: Colline Kununya
+  city: "colline kununya"
+  accentcity: "Colline Kununya"
 colline kuwingugu: 
-  city: colline kuwingugu
-  accentcity: Colline Kuwingugu
+  city: "colline kuwingugu"
+  accentcity: "Colline Kuwingugu"
 colline kuwinkingi: 
-  city: colline kuwinkingi
-  accentcity: Colline Kuwinkingi
+  city: "colline kuwinkingi"
+  accentcity: "Colline Kuwinkingi"
 colline kyiombe: 
-  city: colline kyiombe
-  accentcity: Colline Kyiombe
+  city: "colline kyiombe"
+  accentcity: "Colline Kyiombe"
 colline kyiri: 
-  city: colline kyiri
-  accentcity: Colline Kyiri
+  city: "colline kyiri"
+  accentcity: "Colline Kyiri"
 colline linganwe: 
-  city: colline linganwe
-  accentcity: Colline Linganwe
+  city: "colline linganwe"
+  accentcity: "Colline Linganwe"
 colline lubirizi: 
-  city: colline lubirizi
-  accentcity: Colline Lubirizi
+  city: "colline lubirizi"
+  accentcity: "Colline Lubirizi"
 colline luhigiro: 
-  city: colline luhigiro
-  accentcity: Colline Luhigiro
+  city: "colline luhigiro"
+  accentcity: "Colline Luhigiro"
 colline luhunga: 
-  city: colline luhunga
-  accentcity: Colline Luhunga
+  city: "colline luhunga"
+  accentcity: "Colline Luhunga"
 colline lutendele: 
-  city: colline lutendele
-  accentcity: Colline Lutendele
+  city: "colline lutendele"
+  accentcity: "Colline Lutendele"
 colline mabare: 
-  city: colline mabare
-  accentcity: Colline Mabare
+  city: "colline mabare"
+  accentcity: "Colline Mabare"
 colline mabuye: 
-  city: colline mabuye
-  accentcity: Colline Mabuye
+  city: "colline mabuye"
+  accentcity: "Colline Mabuye"
 colline macuba: 
-  city: colline macuba
-  accentcity: Colline Macuba
+  city: "colline macuba"
+  accentcity: "Colline Macuba"
 colline magi: 
-  city: colline magi
-  accentcity: Colline Magi
+  city: "colline magi"
+  accentcity: "Colline Magi"
 colline magina: 
-  city: colline magina
-  accentcity: Colline Magina
+  city: "colline magina"
+  accentcity: "Colline Magina"
 colline mahoko: 
-  city: colline mahoko
-  accentcity: Colline Mahoko
+  city: "colline mahoko"
+  accentcity: "Colline Mahoko"
 colline mahumbe: 
-  city: colline mahumbe
-  accentcity: Colline Mahumbe
+  city: "colline mahumbe"
+  accentcity: "Colline Mahumbe"
 colline maliba: 
-  city: colline maliba
-  accentcity: Colline Maliba
+  city: "colline maliba"
+  accentcity: "Colline Maliba"
 colline mamfu: 
-  city: colline mamfu
-  accentcity: Colline Mamfu
+  city: "colline mamfu"
+  accentcity: "Colline Mamfu"
 colline marabuy: 
-  city: colline marabuy
-  accentcity: Colline Marabuy
+  city: "colline marabuy"
+  accentcity: "Colline Marabuy"
 colline mararo: 
-  city: colline mararo
-  accentcity: Colline Mararo
+  city: "colline mararo"
+  accentcity: "Colline Mararo"
 colline mareba: 
-  city: colline mareba
-  accentcity: Colline Mareba
+  city: "colline mareba"
+  accentcity: "Colline Mareba"
 colline masha: 
-  city: colline masha
-  accentcity: Colline Masha
+  city: "colline masha"
+  accentcity: "Colline Masha"
 colline maso: 
-  city: colline maso
-  accentcity: Colline Maso
+  city: "colline maso"
+  accentcity: "Colline Maso"
 colline masoro: 
-  city: colline masoro
-  accentcity: Colline Masoro
+  city: "colline masoro"
+  accentcity: "Colline Masoro"
 colline matara: 
-  city: colline matara
-  accentcity: Colline Matara
+  city: "colline matara"
+  accentcity: "Colline Matara"
 colline maya: 
-  city: colline maya
-  accentcity: Colline Maya
+  city: "colline maya"
+  accentcity: "Colline Maya"
 colline mayange: 
-  city: colline mayange
-  accentcity: Colline Mayange
+  city: "colline mayange"
+  accentcity: "Colline Mayange"
 colline mayobe: 
-  city: colline mayobe
-  accentcity: Colline Mayobe
+  city: "colline mayobe"
+  accentcity: "Colline Mayobe"
 colline mbazi: 
-  city: colline mbazi
-  accentcity: Colline Mbazi
+  city: "colline mbazi"
+  accentcity: "Colline Mbazi"
 colline mbuye: 
-  city: colline mbuye
-  accentcity: Colline Mbuye
+  city: "colline mbuye"
+  accentcity: "Colline Mbuye"
 colline mibuba: 
-  city: colline mibuba
-  accentcity: Colline Mibuba
+  city: "colline mibuba"
+  accentcity: "Colline Mibuba"
 colline mikingo: 
-  city: colline mikingo
-  accentcity: Colline Mikingo
+  city: "colline mikingo"
+  accentcity: "Colline Mikingo"
 colline mitshiniro: 
-  city: colline mitshiniro
-  accentcity: Colline Mitshiniro
+  city: "colline mitshiniro"
+  accentcity: "Colline Mitshiniro"
 colline mizingo: 
-  city: colline mizingo
-  accentcity: Colline Mizingo
+  city: "colline mizingo"
+  accentcity: "Colline Mizingo"
 colline mpage: 
-  city: colline mpage
-  accentcity: Colline Mpage
+  city: "colline mpage"
+  accentcity: "Colline Mpage"
 colline mpanga: 
-  city: colline mpanga
-  accentcity: Colline Mpanga
+  city: "colline mpanga"
+  accentcity: "Colline Mpanga"
 colline mpare: 
-  city: colline mpare
-  accentcity: Colline Mpare
+  city: "colline mpare"
+  accentcity: "Colline Mpare"
 colline mpira: 
-  city: colline mpira
-  accentcity: Colline Mpira
+  city: "colline mpira"
+  accentcity: "Colline Mpira"
 colline mubori: 
-  city: colline mubori
-  accentcity: Colline Mubori
+  city: "colline mubori"
+  accentcity: "Colline Mubori"
 colline mubumbano: 
-  city: colline mubumbano
-  accentcity: Colline Mubumbano
+  city: "colline mubumbano"
+  accentcity: "Colline Mubumbano"
 colline mudende: 
-  city: colline mudende
-  accentcity: Colline Mudende
+  city: "colline mudende"
+  accentcity: "Colline Mudende"
 colline mufumba: 
-  city: colline mufumba
-  accentcity: Colline Mufumba
+  city: "colline mufumba"
+  accentcity: "Colline Mufumba"
 colline mugakindu: 
-  city: colline mugakindu
-  accentcity: Colline Mugakindu
+  city: "colline mugakindu"
+  accentcity: "Colline Mugakindu"
 colline mugamba: 
-  city: colline mugamba
-  accentcity: Colline Mugamba
+  city: "colline mugamba"
+  accentcity: "Colline Mugamba"
 colline mugano: 
-  city: colline mugano
-  accentcity: Colline Mugano
+  city: "colline mugano"
+  accentcity: "Colline Mugano"
 colline mugejuru: 
-  city: colline mugejuru
-  accentcity: Colline Mugejuru
+  city: "colline mugejuru"
+  accentcity: "Colline Mugejuru"
 colline mugera: 
-  city: colline mugera
-  accentcity: Colline Mugera
+  city: "colline mugera"
+  accentcity: "Colline Mugera"
 colline mugomba: 
-  city: colline mugomba
-  accentcity: Colline Mugomba
+  city: "colline mugomba"
+  accentcity: "Colline Mugomba"
 colline mugunga: 
-  city: colline mugunga
-  accentcity: Colline Mugunga
+  city: "colline mugunga"
+  accentcity: "Colline Mugunga"
 colline muhanda: 
-  city: colline muhanda
-  accentcity: Colline Muhanda
+  city: "colline muhanda"
+  accentcity: "Colline Muhanda"
 colline muhari: 
-  city: colline muhari
-  accentcity: Colline Muhari
+  city: "colline muhari"
+  accentcity: "Colline Muhari"
 colline muhehwe: 
-  city: colline muhehwe
-  accentcity: Colline Muhehwe
+  city: "colline muhehwe"
+  accentcity: "Colline Muhehwe"
 colline muhero: 
-  city: colline muhero
-  accentcity: Colline Muhero
+  city: "colline muhero"
+  accentcity: "Colline Muhero"
 colline muhingu: 
-  city: colline muhingu
-  accentcity: Colline Muhingu
+  city: "colline muhingu"
+  accentcity: "Colline Muhingu"
 colline muhororo: 
-  city: colline muhororo
-  accentcity: Colline Muhororo
+  city: "colline muhororo"
+  accentcity: "Colline Muhororo"
 colline muhoza: 
-  city: colline muhoza
-  accentcity: Colline Muhoza
+  city: "colline muhoza"
+  accentcity: "Colline Muhoza"
 colline muhura: 
-  city: colline muhura
-  accentcity: Colline Muhura
+  city: "colline muhura"
+  accentcity: "Colline Muhura"
 colline mukalange: 
-  city: colline mukalange
-  accentcity: Colline Mukalange
+  city: "colline mukalange"
+  accentcity: "Colline Mukalange"
 colline muko: 
-  city: colline muko
-  accentcity: Colline Muko
+  city: "colline muko"
+  accentcity: "Colline Muko"
 colline mukoma: 
-  city: colline mukoma
-  accentcity: Colline Mukoma
+  city: "colline mukoma"
+  accentcity: "Colline Mukoma"
 colline mukoni: 
-  city: colline mukoni
-  accentcity: Colline Mukoni
+  city: "colline mukoni"
+  accentcity: "Colline Mukoni"
 colline mukuyu: 
-  city: colline mukuyu
-  accentcity: Colline Mukuyu
+  city: "colline mukuyu"
+  accentcity: "Colline Mukuyu"
 colline mulemule: 
-  city: colline mulemule
-  accentcity: Colline Mulemule
+  city: "colline mulemule"
+  accentcity: "Colline Mulemule"
 colline mulinja: 
-  city: colline mulinja
-  accentcity: Colline Mulinja
+  city: "colline mulinja"
+  accentcity: "Colline Mulinja"
 colline mumatyazo: 
-  city: colline mumatyazo
-  accentcity: Colline Mumatyazo
+  city: "colline mumatyazo"
+  accentcity: "Colline Mumatyazo"
 colline munini: 
-  city: colline munini
-  accentcity: Colline Munini
+  city: "colline munini"
+  accentcity: "Colline Munini"
 colline munsheke: 
-  city: colline munsheke
-  accentcity: Colline Munsheke
+  city: "colline munsheke"
+  accentcity: "Colline Munsheke"
 colline munyinya: 
-  city: colline munyinya
-  accentcity: Colline Munyinya
+  city: "colline munyinya"
+  accentcity: "Colline Munyinya"
 colline munyove: 
-  city: colline munyove
-  accentcity: Colline Munyove
+  city: "colline munyove"
+  accentcity: "Colline Munyove"
 colline murama: 
-  city: colline murama
-  accentcity: Colline Murama
+  city: "colline murama"
+  accentcity: "Colline Murama"
 colline muramba: 
-  city: colline muramba
-  accentcity: Colline Muramba
+  city: "colline muramba"
+  accentcity: "Colline Muramba"
 colline murambi: 
-  city: colline murambi
-  accentcity: Colline Murambi
+  city: "colline murambi"
+  accentcity: "Colline Murambi"
 colline murandi: 
-  city: colline murandi
-  accentcity: Colline Murandi
+  city: "colline murandi"
+  accentcity: "Colline Murandi"
 colline murangi: 
-  city: colline murangi
-  accentcity: Colline Murangi
+  city: "colline murangi"
+  accentcity: "Colline Murangi"
 colline murara: 
-  city: colline murara
-  accentcity: Colline Murara
+  city: "colline murara"
+  accentcity: "Colline Murara"
 colline muraza: 
-  city: colline muraza
-  accentcity: Colline Muraza
+  city: "colline muraza"
+  accentcity: "Colline Muraza"
 colline murehe: 
-  city: colline murehe
-  accentcity: Colline Murehe
+  city: "colline murehe"
+  accentcity: "Colline Murehe"
 colline murito: 
-  city: colline murito
-  accentcity: Colline Murito
+  city: "colline murito"
+  accentcity: "Colline Murito"
 colline murore: 
-  city: colline murore
-  accentcity: Colline Murore
+  city: "colline murore"
+  accentcity: "Colline Murore"
 colline murunda: 
-  city: colline murunda
-  accentcity: Colline Murunda
+  city: "colline murunda"
+  accentcity: "Colline Murunda"
 colline mururu: 
-  city: colline mururu
-  accentcity: Colline Mururu
+  city: "colline mururu"
+  accentcity: "Colline Mururu"
 colline muryorera: 
-  city: colline muryorera
-  accentcity: Colline Muryorera
+  city: "colline muryorera"
+  accentcity: "Colline Muryorera"
 colline musagara: 
-  city: colline musagara
-  accentcity: Colline Musagara
+  city: "colline musagara"
+  accentcity: "Colline Musagara"
 colline musama: 
-  city: colline musama
-  accentcity: Colline Musama
+  city: "colline musama"
+  accentcity: "Colline Musama"
 colline musange: 
-  city: colline musange
-  accentcity: Colline Musange
+  city: "colline musange"
+  accentcity: "Colline Musange"
 colline musebeya: 
-  city: colline musebeya
-  accentcity: Colline Musebeya
+  city: "colline musebeya"
+  accentcity: "Colline Musebeya"
 colline muse: 
-  city: colline muse
-  accentcity: Colline Muse
+  city: "colline muse"
+  accentcity: "Colline Muse"
 colline musenyi: 
-  city: colline musenyi
-  accentcity: Colline Musenyi
+  city: "colline musenyi"
+  accentcity: "Colline Musenyi"
 colline musheri: 
-  city: colline musheri
-  accentcity: Colline Musheri
+  city: "colline musheri"
+  accentcity: "Colline Musheri"
 colline mushirarungu: 
-  city: colline mushirarungu
-  accentcity: Colline Mushirarungu
+  city: "colline mushirarungu"
+  accentcity: "Colline Mushirarungu"
 colline mushongi: 
-  city: colline mushongi
-  accentcity: Colline Mushongi
+  city: "colline mushongi"
+  accentcity: "Colline Mushongi"
 colline musoro: 
-  city: colline musoro
-  accentcity: Colline Musoro
+  city: "colline musoro"
+  accentcity: "Colline Musoro"
 colline musumba: 
-  city: colline musumba
-  accentcity: Colline Musumba
+  city: "colline musumba"
+  accentcity: "Colline Musumba"
 colline musumule: 
-  city: colline musumule
-  accentcity: Colline Musumule
+  city: "colline musumule"
+  accentcity: "Colline Musumule"
 colline mutambiko: 
-  city: colline mutambiko
-  accentcity: Colline Mutambiko
+  city: "colline mutambiko"
+  accentcity: "Colline Mutambiko"
 colline mutamo: 
-  city: colline mutamo
-  accentcity: Colline Mutamo
+  city: "colline mutamo"
+  accentcity: "Colline Mutamo"
 colline mutara: 
-  city: colline mutara
-  accentcity: Colline Mutara
+  city: "colline mutara"
+  accentcity: "Colline Mutara"
 colline mutego: 
-  city: colline mutego
-  accentcity: Colline Mutego
+  city: "colline mutego"
+  accentcity: "Colline Mutego"
 colline mutende: 
-  city: colline mutende
-  accentcity: Colline Mutende
+  city: "colline mutende"
+  accentcity: "Colline Mutende"
 colline muti: 
-  city: colline muti
-  accentcity: Colline Muti
+  city: "colline muti"
+  accentcity: "Colline Muti"
 colline mutima: 
-  city: colline mutima
-  accentcity: Colline Mutima
+  city: "colline mutima"
+  accentcity: "Colline Mutima"
 colline mutimasi: 
-  city: colline mutimasi
-  accentcity: Colline Mutimasi
+  city: "colline mutimasi"
+  accentcity: "Colline Mutimasi"
 colline mutongo: 
-  city: colline mutongo
-  accentcity: Colline Mutongo
+  city: "colline mutongo"
+  accentcity: "Colline Mutongo"
 colline mutusa: 
-  city: colline mutusa
-  accentcity: Colline Mutusa
+  city: "colline mutusa"
+  accentcity: "Colline Mutusa"
 colline muvumu: 
-  city: colline muvumu
-  accentcity: Colline Muvumu
+  city: "colline muvumu"
+  accentcity: "Colline Muvumu"
 colline muyage: 
-  city: colline muyage
-  accentcity: Colline Muyage
+  city: "colline muyage"
+  accentcity: "Colline Muyage"
 colline muyira: 
-  city: colline muyira
-  accentcity: Colline Muyira
+  city: "colline muyira"
+  accentcity: "Colline Muyira"
 colline muzenga: 
-  city: colline muzenga
-  accentcity: Colline Muzenga
+  city: "colline muzenga"
+  accentcity: "Colline Muzenga"
 colline mwanabili: 
-  city: colline mwanabili
-  accentcity: Colline Mwanabili
+  city: "colline mwanabili"
+  accentcity: "Colline Mwanabili"
 colline mwegera: 
-  city: colline mwegera
-  accentcity: Colline Mwegera
+  city: "colline mwegera"
+  accentcity: "Colline Mwegera"
 colline mwendo: 
-  city: colline mwendo
-  accentcity: Colline Mwendo
+  city: "colline mwendo"
+  accentcity: "Colline Mwendo"
 colline mwenya: 
-  city: colline mwenya
-  accentcity: Colline Mwenya
+  city: "colline mwenya"
+  accentcity: "Colline Mwenya"
 colline mwijanda: 
-  city: colline mwijanda
-  accentcity: Colline Mwijanda
+  city: "colline mwijanda"
+  accentcity: "Colline Mwijanda"
 colline mwishe: 
-  city: colline mwishe
-  accentcity: Colline Mwishe
+  city: "colline mwishe"
+  accentcity: "Colline Mwishe"
 colline mwite: 
-  city: colline mwite
-  accentcity: Colline Mwite
+  city: "colline mwite"
+  accentcity: "Colline Mwite"
 colline mwiviro: 
-  city: colline mwiviro
-  accentcity: Colline Mwiviro
+  city: "colline mwiviro"
+  accentcity: "Colline Mwiviro"
 colline mwufe: 
-  city: colline mwufe
-  accentcity: Colline Mwufe
+  city: "colline mwufe"
+  accentcity: "Colline Mwufe"
 colline mwumba: 
-  city: colline mwumba
-  accentcity: Colline Mwumba
+  city: "colline mwumba"
+  accentcity: "Colline Mwumba"
 colline myariro: 
-  city: colline myariro
-  accentcity: Colline Myariro
+  city: "colline myariro"
+  accentcity: "Colline Myariro"
 colline ndaganzwa: 
-  city: colline ndaganzwa
-  accentcity: Colline Ndaganzwa
+  city: "colline ndaganzwa"
+  accentcity: "Colline Ndaganzwa"
 colline ndago: 
-  city: colline ndago
-  accentcity: Colline Ndago
+  city: "colline ndago"
+  accentcity: "Colline Ndago"
 colline ndera: 
-  city: colline ndera
-  accentcity: Colline Ndera
+  city: "colline ndera"
+  accentcity: "Colline Ndera"
 colline nemba: 
-  city: colline nemba
-  accentcity: Colline Nemba
+  city: "colline nemba"
+  accentcity: "Colline Nemba"
 colline nengo: 
-  city: colline nengo
-  accentcity: Colline Nengo
+  city: "colline nengo"
+  accentcity: "Colline Nengo"
 colline ngange: 
-  city: colline ngange
-  accentcity: Colline Ngange
+  city: "colline ngange"
+  accentcity: "Colline Ngange"
 colline nganzo: 
-  city: colline nganzo
-  accentcity: Colline Nganzo
+  city: "colline nganzo"
+  accentcity: "Colline Nganzo"
 colline ngeruka: 
-  city: colline ngeruka
-  accentcity: Colline Ngeruka
+  city: "colline ngeruka"
+  accentcity: "Colline Ngeruka"
 colline ngiryi: 
-  city: colline ngiryi
-  accentcity: Colline Ngiryi
+  city: "colline ngiryi"
+  accentcity: "Colline Ngiryi"
 colline ngoma: 
-  city: colline ngoma
-  accentcity: Colline Ngoma
+  city: "colline ngoma"
+  accentcity: "Colline Ngoma"
 colline ngurugunzu: 
-  city: colline ngurugunzu
-  accentcity: Colline Ngurugunzu
+  city: "colline ngurugunzu"
+  accentcity: "Colline Ngurugunzu"
 colline nkanda: 
-  city: colline nkanda
-  accentcity: Colline Nkanda
+  city: "colline nkanda"
+  accentcity: "Colline Nkanda"
 colline nkanka: 
-  city: colline nkanka
-  accentcity: Colline Nkanka
+  city: "colline nkanka"
+  accentcity: "Colline Nkanka"
 colline nkunzuzu: 
-  city: colline nkunzuzu
-  accentcity: Colline Nkunzuzu
+  city: "colline nkunzuzu"
+  accentcity: "Colline Nkunzuzu"
 colline nkurubuye: 
-  city: colline nkurubuye
-  accentcity: Colline Nkurubuye
+  city: "colline nkurubuye"
+  accentcity: "Colline Nkurubuye"
 colline nomba: 
-  city: colline nomba
-  accentcity: Colline Nomba
+  city: "colline nomba"
+  accentcity: "Colline Nomba"
 colline ntarabana: 
-  city: colline ntarabana
-  accentcity: Colline Ntarabana
+  city: "colline ntarabana"
+  accentcity: "Colline Ntarabana"
 colline ntebe: 
-  city: colline ntebe
-  accentcity: Colline Ntebe
+  city: "colline ntebe"
+  accentcity: "Colline Ntebe"
 colline ntobwe: 
-  city: colline ntobwe
-  accentcity: Colline Ntobwe
+  city: "colline ntobwe"
+  accentcity: "Colline Ntobwe"
 colline ntonde: 
-  city: colline ntonde
-  accentcity: Colline Ntonde
+  city: "colline ntonde"
+  accentcity: "Colline Ntonde"
 colline nulambi: 
-  city: colline nulambi
-  accentcity: Colline Nulambi
+  city: "colline nulambi"
+  accentcity: "Colline Nulambi"
 colline nyabichwamba: 
-  city: colline nyabichwamba
-  accentcity: Colline Nyabichwamba
+  city: "colline nyabichwamba"
+  accentcity: "Colline Nyabichwamba"
 colline nyabihu: 
-  city: colline nyabihu
-  accentcity: Colline Nyabihu
+  city: "colline nyabihu"
+  accentcity: "Colline Nyabihu"
 colline nyabishambi: 
-  city: colline nyabishambi
-  accentcity: Colline Nyabishambi
+  city: "colline nyabishambi"
+  accentcity: "Colline Nyabishambi"
 colline nyabisindu: 
-  city: colline nyabisindu
-  accentcity: Colline Nyabisindu
+  city: "colline nyabisindu"
+  accentcity: "Colline Nyabisindu"
 colline nyabiteke: 
-  city: colline nyabiteke
-  accentcity: Colline Nyabiteke
+  city: "colline nyabiteke"
+  accentcity: "Colline Nyabiteke"
 colline nyabugando: 
-  city: colline nyabugando
-  accentcity: Colline Nyabugando
+  city: "colline nyabugando"
+  accentcity: "Colline Nyabugando"
 colline nyagahinika: 
-  city: colline nyagahinika
-  accentcity: Colline Nyagahinika
+  city: "colline nyagahinika"
+  accentcity: "Colline Nyagahinika"
 colline nyagahita: 
-  city: colline nyagahita
-  accentcity: Colline Nyagahita
+  city: "colline nyagahita"
+  accentcity: "Colline Nyagahita"
 colline nyagasozi: 
-  city: colline nyagasozi
-  accentcity: Colline Nyagasozi
+  city: "colline nyagasozi"
+  accentcity: "Colline Nyagasozi"
 colline nyagisozi: 
-  city: colline nyagisozi
-  accentcity: Colline Nyagisozi
+  city: "colline nyagisozi"
+  accentcity: "Colline Nyagisozi"
 colline nyagitabire: 
-  city: colline nyagitabire
-  accentcity: Colline Nyagitabire
+  city: "colline nyagitabire"
+  accentcity: "Colline Nyagitabire"
 colline nyakabanda: 
-  city: colline nyakabanda
-  accentcity: Colline Nyakabanda
+  city: "colline nyakabanda"
+  accentcity: "Colline Nyakabanda"
 colline nyakabongo: 
-  city: colline nyakabongo
-  accentcity: Colline Nyakabongo
+  city: "colline nyakabongo"
+  accentcity: "Colline Nyakabongo"
 colline nyakabu: 
-  city: colline nyakabu
-  accentcity: Colline Nyakabu
+  city: "colline nyakabu"
+  accentcity: "Colline Nyakabu"
 colline nyakabumgo: 
-  city: colline nyakabumgo
-  accentcity: Colline Nyakabumgo
+  city: "colline nyakabumgo"
+  accentcity: "Colline Nyakabumgo"
 colline nyakabungo: 
-  city: colline nyakabungo
-  accentcity: Colline Nyakabungo
+  city: "colline nyakabungo"
+  accentcity: "Colline Nyakabungo"
 colline nyakabuye: 
-  city: colline nyakabuye
-  accentcity: Colline Nyakabuye
+  city: "colline nyakabuye"
+  accentcity: "Colline Nyakabuye"
 colline nyakanyinya: 
-  city: colline nyakanyinya
-  accentcity: Colline Nyakanyinya
+  city: "colline nyakanyinya"
+  accentcity: "Colline Nyakanyinya"
 colline nyakayogera: 
-  city: colline nyakayogera
-  accentcity: Colline Nyakayogera
+  city: "colline nyakayogera"
+  accentcity: "Colline Nyakayogera"
 colline nyakibanda: 
-  city: colline nyakibanda
-  accentcity: Colline Nyakibanda
+  city: "colline nyakibanda"
+  accentcity: "Colline Nyakibanda"
 colline nyakingandu: 
-  city: colline nyakingandu
-  accentcity: Colline Nyakingandu
+  city: "colline nyakingandu"
+  accentcity: "Colline Nyakingandu"
 colline nyamagana: 
-  city: colline nyamagana
-  accentcity: Colline Nyamagana
+  city: "colline nyamagana"
+  accentcity: "Colline Nyamagana"
 colline nyamikama: 
-  city: colline nyamikama
-  accentcity: Colline Nyamikama
+  city: "colline nyamikama"
+  accentcity: "Colline Nyamikama"
 colline nyamikamba: 
-  city: colline nyamikamba
-  accentcity: Colline Nyamikamba
+  city: "colline nyamikamba"
+  accentcity: "Colline Nyamikamba"
 colline nyamirembe: 
-  city: colline nyamirembe
-  accentcity: Colline Nyamirembe
+  city: "colline nyamirembe"
+  accentcity: "Colline Nyamirembe"
 colline nyamugari: 
-  city: colline nyamugari
-  accentcity: Colline Nyamugari
+  city: "colline nyamugari"
+  accentcity: "Colline Nyamugari"
 colline nyamweru: 
-  city: colline nyamweru
-  accentcity: Colline Nyamweru
+  city: "colline nyamweru"
+  accentcity: "Colline Nyamweru"
 colline nyamyumba: 
-  city: colline nyamyumba
-  accentcity: Colline Nyamyumba
+  city: "colline nyamyumba"
+  accentcity: "Colline Nyamyumba"
 colline nyanda: 
-  city: colline nyanda
-  accentcity: Colline Nyanda
+  city: "colline nyanda"
+  accentcity: "Colline Nyanda"
 colline nyankenke: 
-  city: colline nyankenke
-  accentcity: Colline Nyankenke
+  city: "colline nyankenke"
+  accentcity: "Colline Nyankenke"
 colline nyantomvu: 
-  city: colline nyantomvu
-  accentcity: Colline Nyantomvu
+  city: "colline nyantomvu"
+  accentcity: "Colline Nyantomvu"
 colline nyanza: 
-  city: colline nyanza
-  accentcity: Colline Nyanza
+  city: "colline nyanza"
+  accentcity: "Colline Nyanza"
 colline nyarubanga: 
-  city: colline nyarubanga
-  accentcity: Colline Nyarubanga
+  city: "colline nyarubanga"
+  accentcity: "Colline Nyarubanga"
 colline nyarubungu: 
-  city: colline nyarubungu
-  accentcity: Colline Nyarubungu
+  city: "colline nyarubungu"
+  accentcity: "Colline Nyarubungu"
 colline nyarugenge: 
-  city: colline nyarugenge
-  accentcity: Colline Nyarugenge
+  city: "colline nyarugenge"
+  accentcity: "Colline Nyarugenge"
 colline nyarugina: 
-  city: colline nyarugina
-  accentcity: Colline Nyarugina
+  city: "colline nyarugina"
+  accentcity: "Colline Nyarugina"
 colline nyarugumba: 
-  city: colline nyarugumba
-  accentcity: Colline Nyarugumba
+  city: "colline nyarugumba"
+  accentcity: "Colline Nyarugumba"
 colline nyaruhengeri: 
-  city: colline nyaruhengeri
-  accentcity: Colline Nyaruhengeri
+  city: "colline nyaruhengeri"
+  accentcity: "Colline Nyaruhengeri"
 colline nyarungu: 
-  city: colline nyarungu
-  accentcity: Colline Nyarungu
+  city: "colline nyarungu"
+  accentcity: "Colline Nyarungu"
 colline nyarurama: 
-  city: colline nyarurama
-  accentcity: Colline Nyarurama
+  city: "colline nyarurama"
+  accentcity: "Colline Nyarurama"
 colline nyarusange: 
-  city: colline nyarusange
-  accentcity: Colline Nyarusange
+  city: "colline nyarusange"
+  accentcity: "Colline Nyarusange"
 colline nyarushishi: 
-  city: colline nyarushishi
-  accentcity: Colline Nyarushishi
+  city: "colline nyarushishi"
+  accentcity: "Colline Nyarushishi"
 colline nyarutembe: 
-  city: colline nyarutembe
-  accentcity: Colline Nyarutembe
+  city: "colline nyarutembe"
+  accentcity: "Colline Nyarutembe"
 colline nyaruteme: 
-  city: colline nyaruteme
-  accentcity: Colline Nyaruteme
+  city: "colline nyaruteme"
+  accentcity: "Colline Nyaruteme"
 colline nyarutsi: 
-  city: colline nyarutsi
-  accentcity: Colline Nyarutsi
+  city: "colline nyarutsi"
+  accentcity: "Colline Nyarutsi"
 colline nyenje: 
-  city: colline nyenje
-  accentcity: Colline Nyenje
+  city: "colline nyenje"
+  accentcity: "Colline Nyenje"
 colline nyondo: 
-  city: colline nyondo
-  accentcity: Colline Nyondo
+  city: "colline nyondo"
+  accentcity: "Colline Nyondo"
 colline nyonilima: 
-  city: colline nyonilima
-  accentcity: Colline Nyonilima
+  city: "colline nyonilima"
+  accentcity: "Colline Nyonilima"
 colline nyunzwe: 
-  city: colline nyunzwe
-  accentcity: Colline Nyunzwe
+  city: "colline nyunzwe"
+  accentcity: "Colline Nyunzwe"
 colline nzahaha: 
-  city: colline nzahaha
-  accentcity: Colline Nzahaha
+  city: "colline nzahaha"
+  accentcity: "Colline Nzahaha"
 colline nzangwa: 
-  city: colline nzangwa
-  accentcity: Colline Nzangwa
+  city: "colline nzangwa"
+  accentcity: "Colline Nzangwa"
 colline rango: 
-  city: colline rango
-  accentcity: Colline Rango
+  city: "colline rango"
+  accentcity: "Colline Rango"
 colline rekisugi: 
-  city: colline rekisugi
-  accentcity: Colline Rekisugi
+  city: "colline rekisugi"
+  accentcity: "Colline Rekisugi"
 colline remera: 
-  city: colline remera
-  accentcity: Colline Remera
+  city: "colline remera"
+  accentcity: "Colline Remera"
 colline rimwe: 
-  city: colline rimwe
-  accentcity: Colline Rimwe
+  city: "colline rimwe"
+  accentcity: "Colline Rimwe"
 colline rongi: 
-  city: colline rongi
-  accentcity: Colline Rongi
+  city: "colline rongi"
+  accentcity: "Colline Rongi"
 colline rubaka: 
-  city: colline rubaka
-  accentcity: Colline Rubaka
+  city: "colline rubaka"
+  accentcity: "Colline Rubaka"
 colline rubaya: 
-  city: colline rubaya
-  accentcity: Colline Rubaya
+  city: "colline rubaya"
+  accentcity: "Colline Rubaya"
 colline rubeja: 
-  city: colline rubeja
-  accentcity: Colline Rubeja
+  city: "colline rubeja"
+  accentcity: "Colline Rubeja"
 colline rubona: 
-  city: colline rubona
-  accentcity: Colline Rubona
+  city: "colline rubona"
+  accentcity: "Colline Rubona"
 colline rubungo: 
-  city: colline rubungo
-  accentcity: Colline Rubungo
+  city: "colline rubungo"
+  accentcity: "Colline Rubungo"
 colline rubungu: 
-  city: colline rubungu
-  accentcity: Colline Rubungu
+  city: "colline rubungu"
+  accentcity: "Colline Rubungu"
 colline rudaga: 
-  city: colline rudaga
-  accentcity: Colline Rudaga
+  city: "colline rudaga"
+  accentcity: "Colline Rudaga"
 colline rugamba: 
-  city: colline rugamba
-  accentcity: Colline Rugamba
+  city: "colline rugamba"
+  accentcity: "Colline Rugamba"
 colline ruganda: 
-  city: colline ruganda
-  accentcity: Colline Ruganda
+  city: "colline ruganda"
+  accentcity: "Colline Ruganda"
 colline rugaragara: 
-  city: colline rugaragara
-  accentcity: Colline Rugaragara
+  city: "colline rugaragara"
+  accentcity: "Colline Rugaragara"
 colline rugarama: 
-  city: colline rugarama
-  accentcity: Colline Rugarama
+  city: "colline rugarama"
+  accentcity: "Colline Rugarama"
 colline rugari: 
-  city: colline rugari
-  accentcity: Colline Rugari
+  city: "colline rugari"
+  accentcity: "Colline Rugari"
 colline rugendabari: 
-  city: colline rugendabari
-  accentcity: Colline Rugendabari
+  city: "colline rugendabari"
+  accentcity: "Colline Rugendabari"
 colline rugenge: 
-  city: colline rugenge
-  accentcity: Colline Rugenge
+  city: "colline rugenge"
+  accentcity: "Colline Rugenge"
 colline rugera: 
-  city: colline rugera
-  accentcity: Colline Rugera
+  city: "colline rugera"
+  accentcity: "Colline Rugera"
 colline rugerero: 
-  city: colline rugerero
-  accentcity: Colline Rugerero
+  city: "colline rugerero"
+  accentcity: "Colline Rugerero"
 colline rugobagoba: 
-  city: colline rugobagoba
-  accentcity: Colline Rugobagoba
+  city: "colline rugobagoba"
+  accentcity: "Colline Rugobagoba"
 colline rugobasoba: 
-  city: colline rugobasoba
-  accentcity: Colline Rugobasoba
+  city: "colline rugobasoba"
+  accentcity: "Colline Rugobasoba"
 colline rugogwe: 
-  city: colline rugogwe
-  accentcity: Colline Rugogwe
+  city: "colline rugogwe"
+  accentcity: "Colline Rugogwe"
 colline rugoti: 
-  city: colline rugoti
-  accentcity: Colline Rugoti
+  city: "colline rugoti"
+  accentcity: "Colline Rugoti"
 colline ruhanga: 
-  city: colline ruhanga
-  accentcity: Colline Ruhanga
+  city: "colline ruhanga"
+  accentcity: "Colline Ruhanga"
 colline ruhanya: 
-  city: colline ruhanya
-  accentcity: Colline Ruhanya
+  city: "colline ruhanya"
+  accentcity: "Colline Ruhanya"
 colline ruhara: 
-  city: colline ruhara
-  accentcity: Colline Ruhara
+  city: "colline ruhara"
+  accentcity: "Colline Ruhara"
 colline ruhengeri: 
-  city: colline ruhengeri
-  accentcity: Colline Ruhengeri
+  city: "colline ruhengeri"
+  accentcity: "Colline Ruhengeri"
 colline ruhinga: 
-  city: colline ruhinga
-  accentcity: Colline Ruhinga
+  city: "colline ruhinga"
+  accentcity: "Colline Ruhinga"
 colline ruhoko: 
-  city: colline ruhoko
-  accentcity: Colline Ruhoko
+  city: "colline ruhoko"
+  accentcity: "Colline Ruhoko"
 colline ruhurura: 
-  city: colline ruhurura
-  accentcity: Colline Ruhurura
+  city: "colline ruhurura"
+  accentcity: "Colline Ruhurura"
 colline ruinihingo: 
-  city: colline ruinihingo
-  accentcity: Colline Ruinihingo
+  city: "colline ruinihingo"
+  accentcity: "Colline Ruinihingo"
 colline rukira: 
-  city: colline rukira
-  accentcity: Colline Rukira
+  city: "colline rukira"
+  accentcity: "Colline Rukira"
 colline rukoko: 
-  city: colline rukoko
-  accentcity: Colline Rukoko
+  city: "colline rukoko"
+  accentcity: "Colline Rukoko"
 colline rukoma: 
-  city: colline rukoma
-  accentcity: Colline Rukoma
+  city: "colline rukoma"
+  accentcity: "Colline Rukoma"
 colline rukona: 
-  city: colline rukona
-  accentcity: Colline Rukona
+  city: "colline rukona"
+  accentcity: "Colline Rukona"
 colline rukondo: 
-  city: colline rukondo
-  accentcity: Colline Rukondo
+  city: "colline rukondo"
+  accentcity: "Colline Rukondo"
 colline rukoro: 
-  city: colline rukoro
-  accentcity: Colline Rukoro
+  city: "colline rukoro"
+  accentcity: "Colline Rukoro"
 colline rukura: 
-  city: colline rukura
-  accentcity: Colline Rukura
+  city: "colline rukura"
+  accentcity: "Colline Rukura"
 colline runyanga: 
-  city: colline runyanga
-  accentcity: Colline Runyanga
+  city: "colline runyanga"
+  accentcity: "Colline Runyanga"
 colline runyinya: 
-  city: colline runyinya
-  accentcity: Colline Runyinya
+  city: "colline runyinya"
+  accentcity: "Colline Runyinya"
 colline rurama: 
-  city: colline rurama
-  accentcity: Colline Rurama
+  city: "colline rurama"
+  accentcity: "Colline Rurama"
 colline rusasa: 
-  city: colline rusasa
-  accentcity: Colline Rusasa
+  city: "colline rusasa"
+  accentcity: "Colline Rusasa"
 colline rusayo: 
-  city: colline rusayo
-  accentcity: Colline Rusayo
+  city: "colline rusayo"
+  accentcity: "Colline Rusayo"
 colline rusebeya: 
-  city: colline rusebeya
-  accentcity: Colline Rusebeya
+  city: "colline rusebeya"
+  accentcity: "Colline Rusebeya"
 colline rusekera: 
-  city: colline rusekera
-  accentcity: Colline Rusekera
+  city: "colline rusekera"
+  accentcity: "Colline Rusekera"
 colline rushari: 
-  city: colline rushari
-  accentcity: Colline Rushari
+  city: "colline rushari"
+  accentcity: "Colline Rushari"
 colline rushashi: 
-  city: colline rushashi
-  accentcity: Colline Rushashi
+  city: "colline rushashi"
+  accentcity: "Colline Rushashi"
 colline rushebeya: 
-  city: colline rushebeya
-  accentcity: Colline Rushebeya
+  city: "colline rushebeya"
+  accentcity: "Colline Rushebeya"
 colline rusiga: 
-  city: colline rusiga
-  accentcity: Colline Rusiga
+  city: "colline rusiga"
+  accentcity: "Colline Rusiga"
 colline rusingi: 
-  city: colline rusingi
-  accentcity: Colline Rusingi
+  city: "colline rusingi"
+  accentcity: "Colline Rusingi"
 colline rusoro: 
-  city: colline rusoro
-  accentcity: Colline Rusoro
+  city: "colline rusoro"
+  accentcity: "Colline Rusoro"
 colline rususa: 
-  city: colline rususa
-  accentcity: Colline Rususa
+  city: "colline rususa"
+  accentcity: "Colline Rususa"
 colline rutamba: 
-  city: colline rutamba
-  accentcity: Colline Rutamba
+  city: "colline rutamba"
+  accentcity: "Colline Rutamba"
 colline rutare: 
-  city: colline rutare
-  accentcity: Colline Rutare
+  city: "colline rutare"
+  accentcity: "Colline Rutare"
 colline rutarure: 
-  city: colline rutarure
-  accentcity: Colline Rutarure
+  city: "colline rutarure"
+  accentcity: "Colline Rutarure"
 colline rutonde: 
-  city: colline rutonde
-  accentcity: Colline Rutonde
+  city: "colline rutonde"
+  accentcity: "Colline Rutonde"
 colline rutondwe: 
-  city: colline rutondwe
-  accentcity: Colline Rutondwe
+  city: "colline rutondwe"
+  accentcity: "Colline Rutondwe"
 colline ruyange: 
-  city: colline ruyange
-  accentcity: Colline Ruyange
+  city: "colline ruyange"
+  accentcity: "Colline Ruyange"
 colline ruyaraka: 
-  city: colline ruyaraka
-  accentcity: Colline Ruyaraka
+  city: "colline ruyaraka"
+  accentcity: "Colline Ruyaraka"
 colline ruyenzi: 
-  city: colline ruyenzi
-  accentcity: Colline Ruyenzi
+  city: "colline ruyenzi"
+  accentcity: "Colline Ruyenzi"
 colline ruyonga: 
-  city: colline ruyonga
-  accentcity: Colline Ruyonga
+  city: "colline ruyonga"
+  accentcity: "Colline Ruyonga"
 colline rwabicuma: 
-  city: colline rwabicuma
-  accentcity: Colline Rwabicuma
+  city: "colline rwabicuma"
+  accentcity: "Colline Rwabicuma"
 colline rwabidege: 
-  city: colline rwabidege
-  accentcity: Colline Rwabidege
+  city: "colline rwabidege"
+  accentcity: "Colline Rwabidege"
 colline rwahi: 
-  city: colline rwahi
-  accentcity: Colline Rwahi
+  city: "colline rwahi"
+  accentcity: "Colline Rwahi"
 colline rwakirari: 
-  city: colline rwakirari
-  accentcity: Colline Rwakirari
+  city: "colline rwakirari"
+  accentcity: "Colline Rwakirari"
 colline rwamiko: 
-  city: colline rwamiko
-  accentcity: Colline Rwamiko
+  city: "colline rwamiko"
+  accentcity: "Colline Rwamiko"
 colline rwangara: 
-  city: colline rwangara
-  accentcity: Colline Rwangara
+  city: "colline rwangara"
+  accentcity: "Colline Rwangara"
 colline rwani: 
-  city: colline rwani
-  accentcity: Colline Rwani
+  city: "colline rwani"
+  accentcity: "Colline Rwani"
 colline rwankeri: 
-  city: colline rwankeri
-  accentcity: Colline Rwankeri
+  city: "colline rwankeri"
+  accentcity: "Colline Rwankeri"
 colline rwankomo: 
-  city: colline rwankomo
-  accentcity: Colline Rwankomo
+  city: "colline rwankomo"
+  accentcity: "Colline Rwankomo"
 colline rwankuba: 
-  city: colline rwankuba
-  accentcity: Colline Rwankuba
+  city: "colline rwankuba"
+  accentcity: "Colline Rwankuba"
 colline rwanya: 
-  city: colline rwanya
-  accentcity: Colline Rwanya
+  city: "colline rwanya"
+  accentcity: "Colline Rwanya"
 colline rwaza: 
-  city: colline rwaza
-  accentcity: Colline Rwaza
+  city: "colline rwaza"
+  accentcity: "Colline Rwaza"
 colline rwegenya: 
-  city: colline rwegenya
-  accentcity: Colline Rwegenya
+  city: "colline rwegenya"
+  accentcity: "Colline Rwegenya"
 colline rwimbogo: 
-  city: colline rwimbogo
-  accentcity: Colline Rwimbogo
+  city: "colline rwimbogo"
+  accentcity: "Colline Rwimbogo"
 colline rwinkuba: 
-  city: colline rwinkuba
-  accentcity: Colline Rwinkuba
+  city: "colline rwinkuba"
+  accentcity: "Colline Rwinkuba"
 colline rwoga: 
-  city: colline rwoga
-  accentcity: Colline Rwoga
+  city: "colline rwoga"
+  accentcity: "Colline Rwoga"
 colline rwumba: 
-  city: colline rwumba
-  accentcity: Colline Rwumba
+  city: "colline rwumba"
+  accentcity: "Colline Rwumba"
 colline ryandinzi: 
-  city: colline ryandinzi
-  accentcity: Colline Ryandinzi
+  city: "colline ryandinzi"
+  accentcity: "Colline Ryandinzi"
 colline saga: 
-  city: colline saga
-  accentcity: Colline Saga
+  city: "colline saga"
+  accentcity: "Colline Saga"
 colline sanga: 
-  city: colline sanga
-  accentcity: Colline Sanga
+  city: "colline sanga"
+  accentcity: "Colline Sanga"
 colline sayo: 
-  city: colline sayo
-  accentcity: Colline Sayo
+  city: "colline sayo"
+  accentcity: "Colline Sayo"
 colline shahara: 
-  city: colline shahara
-  accentcity: Colline Shahara
+  city: "colline shahara"
+  accentcity: "Colline Shahara"
 colline shara: 
-  city: colline shara
-  accentcity: Colline Shara
+  city: "colline shara"
+  accentcity: "Colline Shara"
 colline sheke: 
-  city: colline sheke
-  accentcity: Colline Sheke
+  city: "colline sheke"
+  accentcity: "Colline Sheke"
 colline shenga: 
-  city: colline shenga
-  accentcity: Colline Shenga
+  city: "colline shenga"
+  accentcity: "Colline Shenga"
 colline sholi: 
-  city: colline sholi
-  accentcity: Colline Sholi
+  city: "colline sholi"
+  accentcity: "Colline Sholi"
 colline shuti: 
-  city: colline shuti
-  accentcity: Colline Shuti
+  city: "colline shuti"
+  accentcity: "Colline Shuti"
 colline shyanda: 
-  city: colline shyanda
-  accentcity: Colline Shyanda
+  city: "colline shyanda"
+  accentcity: "Colline Shyanda"
 colline shyorongi: 
-  city: colline shyorongi
-  accentcity: Colline Shyorongi
+  city: "colline shyorongi"
+  accentcity: "Colline Shyorongi"
 colline songa: 
-  city: colline songa
-  accentcity: Colline Songa
+  city: "colline songa"
+  accentcity: "Colline Songa"
 colline syogi: 
-  city: colline syogi
-  accentcity: Colline Syogi
+  city: "colline syogi"
+  accentcity: "Colline Syogi"
 colline taba: 
-  city: colline taba
-  accentcity: Colline Taba
+  city: "colline taba"
+  accentcity: "Colline Taba"
 colline tambwe: 
-  city: colline tambwe
-  accentcity: Colline Tambwe
+  city: "colline tambwe"
+  accentcity: "Colline Tambwe"
 colline tanda: 
-  city: colline tanda
-  accentcity: Colline Tanda
+  city: "colline tanda"
+  accentcity: "Colline Tanda"
 colline tovu: 
-  city: colline tovu
-  accentcity: Colline Tovu
+  city: "colline tovu"
+  accentcity: "Colline Tovu"
 colline tshanzozo: 
-  city: colline tshanzozo
-  accentcity: Colline Tshanzozo
+  city: "colline tshanzozo"
+  accentcity: "Colline Tshanzozo"
 colline tsheya: 
-  city: colline tsheya
-  accentcity: Colline Tsheya
+  city: "colline tsheya"
+  accentcity: "Colline Tsheya"
 colline tshyugaro: 
-  city: colline tshyugaro
-  accentcity: Colline Tshyugaro
+  city: "colline tshyugaro"
+  accentcity: "Colline Tshyugaro"
 colline tumba: 
-  city: colline tumba
-  accentcity: Colline Tumba
+  city: "colline tumba"
+  accentcity: "Colline Tumba"
 colline umufu: 
-  city: colline umufu
-  accentcity: Colline Umufu
+  city: "colline umufu"
+  accentcity: "Colline Umufu"
 colline winteko: 
-  city: colline winteko
-  accentcity: Colline Winteko
+  city: "colline winteko"
+  accentcity: "Colline Winteko"
 colline yonde: 
-  city: colline yonde
-  accentcity: Colline Yonde
+  city: "colline yonde"
+  accentcity: "Colline Yonde"
 colline zivu: 
-  city: colline zivu
-  accentcity: Colline Zivu
+  city: "colline zivu"
+  accentcity: "Colline Zivu"
 cyabingo: 
-  city: cyabingo
-  accentcity: Cyabingo
+  city: "cyabingo"
+  accentcity: "Cyabingo"
 cyamuhinda: 
-  city: cyamuhinda
-  accentcity: Cyamuhinda
+  city: "cyamuhinda"
+  accentcity: "Cyamuhinda"
 cyamuti: 
-  city: cyamuti
-  accentcity: Cyamuti
+  city: "cyamuti"
+  accentcity: "Cyamuti"
 cyangugu: 
-  city: cyangugu
-  accentcity: Cyangugu
+  city: "cyangugu"
+  accentcity: "Cyangugu"
 cyarwa: 
-  city: cyarwa
-  accentcity: Cyarwa
+  city: "cyarwa"
+  accentcity: "Cyarwa"
 cyato: 
-  city: cyato
-  accentcity: Cyato
+  city: "cyato"
+  accentcity: "Cyato"
 cyeru: 
-  city: cyeru
-  accentcity: Cyeru
+  city: "cyeru"
+  accentcity: "Cyeru"
 cyesha: 
-  city: cyesha
-  accentcity: Cyesha
+  city: "cyesha"
+  accentcity: "Cyesha"
 cyete: 
-  city: cyete
-  accentcity: Cyete
+  city: "cyete"
+  accentcity: "Cyete"
 cyibumba: 
-  city: cyibumba
-  accentcity: Cyibumba
+  city: "cyibumba"
+  accentcity: "Cyibumba"
 cyigaro: 
-  city: cyigaro
-  accentcity: Cyigaro
+  city: "cyigaro"
+  accentcity: "Cyigaro"
 cyimbande: 
-  city: cyimbande
-  accentcity: Cyimbande
+  city: "cyimbande"
+  accentcity: "Cyimbande"
 cyimbazi: 
-  city: cyimbazi
-  accentcity: Cyimbazi
+  city: "cyimbazi"
+  accentcity: "Cyimbazi"
 cyimbogo: 
-  city: cyimbogo
-  accentcity: Cyimbogo
+  city: "cyimbogo"
+  accentcity: "Cyimbogo"
 cyimpundu: 
-  city: cyimpundu
-  accentcity: Cyimpundu
+  city: "cyimpundu"
+  accentcity: "Cyimpundu"
 cyiya: 
-  city: cyiya
-  accentcity: Cyiya
+  city: "cyiya"
+  accentcity: "Cyiya"
 cyondo: 
-  city: cyondo
-  accentcity: Cyondo
+  city: "cyondo"
+  accentcity: "Cyondo"
 cyotomakara: 
-  city: cyotomakara
-  accentcity: Cyotomakara
+  city: "cyotomakara"
+  accentcity: "Cyotomakara"
 cyumba: 
-  city: cyumba
-  accentcity: Cyumba
+  city: "cyumba"
+  accentcity: "Cyumba"
 cyungo: 
-  city: cyungo
-  accentcity: Cyungo
+  city: "cyungo"
+  accentcity: "Cyungo"
 cyuve: 
-  city: cyuve
-  accentcity: Cyuve
+  city: "cyuve"
+  accentcity: "Cyuve"
 gabegi: 
-  city: gabegi
-  accentcity: Gabegi
+  city: "gabegi"
+  accentcity: "Gabegi"
 gabiro: 
-  city: gabiro
-  accentcity: Gabiro
+  city: "gabiro"
+  accentcity: "Gabiro"
 gacundura: 
-  city: gacundura
-  accentcity: Gacundura
+  city: "gacundura"
+  accentcity: "Gacundura"
 gafuba: 
-  city: gafuba
-  accentcity: Gafuba
+  city: "gafuba"
+  accentcity: "Gafuba"
 gafunzo: 
-  city: gafunzo
-  accentcity: Gafunzo
+  city: "gafunzo"
+  accentcity: "Gafunzo"
 gahanga: 
-  city: gahanga
-  accentcity: Gahanga
+  city: "gahanga"
+  accentcity: "Gahanga"
 gaharo: 
-  city: gaharo
-  accentcity: Gaharo
+  city: "gaharo"
+  accentcity: "Gaharo"
 gahengele: 
-  city: gahengele
-  accentcity: Gahengele
+  city: "gahengele"
+  accentcity: "Gahengele"
 gahondo: 
-  city: gahondo
-  accentcity: Gahondo
+  city: "gahondo"
+  accentcity: "Gahondo"
 gakenke: 
-  city: gakenke
-  accentcity: Gakenke
+  city: "gakenke"
+  accentcity: "Gakenke"
 gako: 
-  city: gako
-  accentcity: Gako
+  city: "gako"
+  accentcity: "Gako"
 gakoma: 
-  city: gakoma
-  accentcity: Gakoma
+  city: "gakoma"
+  accentcity: "Gakoma"
 gakoni: 
-  city: gakoni
-  accentcity: Gakoni
+  city: "gakoni"
+  accentcity: "Gakoni"
 gakoro: 
-  city: gakoro
-  accentcity: Gakoro
+  city: "gakoro"
+  accentcity: "Gakoro"
 gangura: 
-  city: gangura
-  accentcity: Gangura
+  city: "gangura"
+  accentcity: "Gangura"
 garama: 
-  city: garama
-  accentcity: Garama
+  city: "garama"
+  accentcity: "Garama"
 gasaba: 
-  city: gasaba
-  accentcity: Gasaba
+  city: "gasaba"
+  accentcity: "Gasaba"
 gasagara: 
-  city: gasagara
-  accentcity: Gasagara
+  city: "gasagara"
+  accentcity: "Gasagara"
 gasaka: 
-  city: gasaka
-  accentcity: Gasaka
+  city: "gasaka"
+  accentcity: "Gasaka"
 gasambu: 
-  city: gasambu
-  accentcity: Gasambu
+  city: "gasambu"
+  accentcity: "Gasambu"
 gasambya: 
-  city: gasambya
-  accentcity: Gasambya
+  city: "gasambya"
+  accentcity: "Gasambya"
 gasana: 
-  city: gasana
-  accentcity: Gasana
+  city: "gasana"
+  accentcity: "Gasana"
 gasanze: 
-  city: gasanze
-  accentcity: Gasanze
+  city: "gasanze"
+  accentcity: "Gasanze"
 gasasa: 
-  city: gasasa
-  accentcity: Gasasa
+  city: "gasasa"
+  accentcity: "Gasasa"
 gasave: 
-  city: gasave
-  accentcity: Gasave
+  city: "gasave"
+  accentcity: "Gasave"
 gaseke: 
-  city: gaseke
-  accentcity: Gaseke
+  city: "gaseke"
+  accentcity: "Gaseke"
 gashaki: 
-  city: gashaki
-  accentcity: Gashaki
+  city: "gashaki"
+  accentcity: "Gashaki"
 gashenye: 
-  city: gashenye
-  accentcity: Gashenye
+  city: "gashenye"
+  accentcity: "Gashenye"
 gasheshe: 
-  city: gasheshe
-  accentcity: Gasheshe
+  city: "gasheshe"
+  accentcity: "Gasheshe"
 gashinia: 
-  city: gashinia
-  accentcity: Gashinia
+  city: "gashinia"
+  accentcity: "Gashinia"
 gashinya: 
-  city: gashinya
-  accentcity: Gashinya
+  city: "gashinya"
+  accentcity: "Gashinya"
 gashonga: 
-  city: gashonga
-  accentcity: Gashonga
+  city: "gashonga"
+  accentcity: "Gashonga"
 gashora: 
-  city: gashora
-  accentcity: Gashora
+  city: "gashora"
+  accentcity: "Gashora"
 gasura: 
-  city: gasura
-  accentcity: Gasura
+  city: "gasura"
+  accentcity: "Gasura"
 gatare: 
-  city: gatare
-  accentcity: Gatare
+  city: "gatare"
+  accentcity: "Gatare"
 gatatara: 
-  city: gatatara
-  accentcity: Gatatara
+  city: "gatatara"
+  accentcity: "Gatatara"
 gatete: 
-  city: gatete
-  accentcity: Gatete
+  city: "gatete"
+  accentcity: "Gatete"
 gatonde: 
-  city: gatonde
-  accentcity: Gatonde
+  city: "gatonde"
+  accentcity: "Gatonde"
 gatovu: 
-  city: gatovu
-  accentcity: Gatovu
+  city: "gatovu"
+  accentcity: "Gatovu"
 gatsibo: 
-  city: gatsibo
-  accentcity: Gatsibo
+  city: "gatsibo"
+  accentcity: "Gatsibo"
 gatsibu: 
-  city: gatsibu
-  accentcity: Gatsibu
+  city: "gatsibu"
+  accentcity: "Gatsibu"
 gatsilima: 
-  city: gatsilima
-  accentcity: Gatsilima
+  city: "gatsilima"
+  accentcity: "Gatsilima"
 gazinga: 
-  city: gazinga
-  accentcity: Gazinga
+  city: "gazinga"
+  accentcity: "Gazinga"
 gaziza: 
-  city: gaziza
-  accentcity: Gaziza
+  city: "gaziza"
+  accentcity: "Gaziza"
 genda: 
-  city: genda
-  accentcity: Genda
+  city: "genda"
+  accentcity: "Genda"
 ghasheshe: 
-  city: ghasheshe
-  accentcity: Ghasheshe
+  city: "ghasheshe"
+  accentcity: "Ghasheshe"
 giciye: 
-  city: giciye
-  accentcity: Giciye
+  city: "giciye"
+  accentcity: "Giciye"
 gicuba: 
-  city: gicuba
-  accentcity: Gicuba
+  city: "gicuba"
+  accentcity: "Gicuba"
 gihango: 
-  city: gihango
-  accentcity: Gihango
+  city: "gihango"
+  accentcity: "Gihango"
 gihe: 
-  city: gihe
-  accentcity: Gihe
+  city: "gihe"
+  accentcity: "Gihe"
 giheke: 
-  city: giheke
-  accentcity: Giheke
+  city: "giheke"
+  accentcity: "Giheke"
 giheta: 
-  city: giheta
-  accentcity: Giheta
+  city: "giheta"
+  accentcity: "Giheta"
 gihinga: 
-  city: gihinga
-  accentcity: Gihinga
+  city: "gihinga"
+  accentcity: "Gihinga"
 gihora: 
-  city: gihora
-  accentcity: Gihora
+  city: "gihora"
+  accentcity: "Gihora"
 gikomero: 
-  city: gikomero
-  accentcity: Gikomero
+  city: "gikomero"
+  accentcity: "Gikomero"
 gikondo: 
-  city: gikondo
-  accentcity: Gikondo
+  city: "gikondo"
+  accentcity: "Gikondo"
 gikongoro: 
-  city: gikongoro
-  accentcity: Gikongoro
+  city: "gikongoro"
+  accentcity: "Gikongoro"
 gikoro: 
-  city: gikoro
-  accentcity: Gikoro
+  city: "gikoro"
+  accentcity: "Gikoro"
 girgi: 
-  city: girgi
-  accentcity: Girgi
+  city: "girgi"
+  accentcity: "Girgi"
 gisagara: 
-  city: gisagara
-  accentcity: Gisagara
+  city: "gisagara"
+  accentcity: "Gisagara"
 gisa: 
-  city: gisa
-  accentcity: Gisa
+  city: "gisa"
+  accentcity: "Gisa"
 gisaka: 
-  city: gisaka
-  accentcity: Gisaka
+  city: "gisaka"
+  accentcity: "Gisaka"
 gisanze: 
-  city: gisanze
-  accentcity: Gisanze
+  city: "gisanze"
+  accentcity: "Gisanze"
 gisayura: 
-  city: gisayura
-  accentcity: Gisayura
+  city: "gisayura"
+  accentcity: "Gisayura"
 giseke: 
-  city: giseke
-  accentcity: Giseke
+  city: "giseke"
+  accentcity: "Giseke"
 gisenyi: 
-  city: gisenyi
-  accentcity: Gisenyi
+  city: "gisenyi"
+  accentcity: "Gisenyi"
 gishamvu: 
-  city: gishamvu
-  accentcity: Gishamvu
+  city: "gishamvu"
+  accentcity: "Gishamvu"
 gishike: 
-  city: gishike
-  accentcity: Gishike
+  city: "gishike"
+  accentcity: "Gishike"
 gishikiri: 
-  city: gishikiri
-  accentcity: Gishikiri
+  city: "gishikiri"
+  accentcity: "Gishikiri"
 gishoma: 
-  city: gishoma
-  accentcity: Gishoma
+  city: "gishoma"
+  accentcity: "Gishoma"
 gishute: 
-  city: gishute
-  accentcity: Gishute
+  city: "gishute"
+  accentcity: "Gishute"
 gishyita: 
-  city: gishyita
-  accentcity: Gishyita
+  city: "gishyita"
+  accentcity: "Gishyita"
 gisodzi: 
-  city: gisodzi
-  accentcity: Gisodzi
+  city: "gisodzi"
+  accentcity: "Gisodzi"
 gisongwe: 
-  city: gisongwe
-  accentcity: Gisongwe
+  city: "gisongwe"
+  accentcity: "Gisongwe"
 gisovu: 
-  city: gisovu
-  accentcity: Gisovu
+  city: "gisovu"
+  accentcity: "Gisovu"
 gisozi: 
-  city: gisozi
-  accentcity: Gisozi
+  city: "gisozi"
+  accentcity: "Gisozi"
 gisuma: 
-  city: gisuma
-  accentcity: Gisuma
+  city: "gisuma"
+  accentcity: "Gisuma"
 gitaba: 
-  city: gitaba
-  accentcity: Gitaba
+  city: "gitaba"
+  accentcity: "Gitaba"
 gitambi: 
-  city: gitambi
-  accentcity: Gitambi
+  city: "gitambi"
+  accentcity: "Gitambi"
 gitandi: 
-  city: gitandi
-  accentcity: Gitandi
+  city: "gitandi"
+  accentcity: "Gitandi"
 gitarama: 
-  city: gitarama
-  accentcity: Gitarama
+  city: "gitarama"
+  accentcity: "Gitarama"
 gitare: 
-  city: gitare
-  accentcity: Gitare
+  city: "gitare"
+  accentcity: "Gitare"
 gitega: 
-  city: gitega
-  accentcity: Gitega
+  city: "gitega"
+  accentcity: "Gitega"
 gitenga: 
-  city: gitenga
-  accentcity: Gitenga
+  city: "gitenga"
+  accentcity: "Gitenga"
 gitenge: 
-  city: gitenge
-  accentcity: Gitenge
+  city: "gitenge"
+  accentcity: "Gitenge"
 gitesi: 
-  city: gitesi
-  accentcity: Gitesi
+  city: "gitesi"
+  accentcity: "Gitesi"
 githatsha: 
-  city: githatsha
-  accentcity: Githatsha
+  city: "githatsha"
+  accentcity: "Githatsha"
 giti: 
-  city: giti
-  accentcity: Giti
+  city: "giti"
+  accentcity: "Giti"
 gitoke: 
-  city: gitoke
-  accentcity: Gitoke
+  city: "gitoke"
+  accentcity: "Gitoke"
 gitongati: 
-  city: gitongati
-  accentcity: Gitongati
+  city: "gitongati"
+  accentcity: "Gitongati"
 gitongo: 
-  city: gitongo
-  accentcity: Gitongo
+  city: "gitongo"
+  accentcity: "Gitongo"
 gitovu: 
-  city: gitovu
-  accentcity: Gitovu
+  city: "gitovu"
+  accentcity: "Gitovu"
 gitshatsha: 
-  city: gitshatsha
-  accentcity: Gitshatsha
+  city: "gitshatsha"
+  accentcity: "Gitshatsha"
 gitsimba: 
-  city: gitsimba
-  accentcity: Gitsimba
+  city: "gitsimba"
+  accentcity: "Gitsimba"
 gitsuba: 
-  city: gitsuba
-  accentcity: Gitsuba
+  city: "gitsuba"
+  accentcity: "Gitsuba"
 gituza: 
-  city: gituza
-  accentcity: Gituza
+  city: "gituza"
+  accentcity: "Gituza"
 gitwa: 
-  city: gitwa
-  accentcity: Gitwa
+  city: "gitwa"
+  accentcity: "Gitwa"
 gitwe: 
-  city: gitwe
-  accentcity: Gitwe
+  city: "gitwe"
+  accentcity: "Gitwe"
 gombaniro: 
-  city: gombaniro
-  accentcity: Gombaniro
+  city: "gombaniro"
+  accentcity: "Gombaniro"
 gorora: 
-  city: gorora
-  accentcity: Gorora
+  city: "gorora"
+  accentcity: "Gorora"
 gosenyi: 
-  city: gosenyi
-  accentcity: Gosenyi
+  city: "gosenyi"
+  accentcity: "Gosenyi"
 guhengeri: 
-  city: guhengeri
-  accentcity: Guhengeri
+  city: "guhengeri"
+  accentcity: "Guhengeri"
 hakasiru: 
-  city: hakasiru
-  accentcity: Hakasiru
+  city: "hakasiru"
+  accentcity: "Hakasiru"
 hubingo: 
-  city: hubingo
-  accentcity: Hubingo
+  city: "hubingo"
+  accentcity: "Hubingo"
 huye: 
-  city: huye
-  accentcity: Huye
+  city: "huye"
+  accentcity: "Huye"
 ibanda: 
-  city: ibanda
-  accentcity: Ibanda
+  city: "ibanda"
+  accentcity: "Ibanda"
 ilemera: 
-  city: ilemera
-  accentcity: Ilemera
+  city: "ilemera"
+  accentcity: "Ilemera"
 isenga: 
-  city: isenga
-  accentcity: Isenga
+  city: "isenga"
+  accentcity: "Isenga"
 ityazo: 
-  city: ityazo
-  accentcity: Ityazo
+  city: "ityazo"
+  accentcity: "Ityazo"
 janjagiro: 
-  city: janjagiro
-  accentcity: Janjagiro
+  city: "janjagiro"
+  accentcity: "Janjagiro"
 jari: 
-  city: jari
-  accentcity: Jari
+  city: "jari"
+  accentcity: "Jari"
 jenda: 
-  city: jenda
-  accentcity: Jenda
+  city: "jenda"
+  accentcity: "Jenda"
 jomba: 
-  city: jomba
-  accentcity: Jomba
+  city: "jomba"
+  accentcity: "Jomba"
 kabale: 
-  city: kabale
-  accentcity: Kabale
+  city: "kabale"
+  accentcity: "Kabale"
 kabalele: 
-  city: kabalele
-  accentcity: Kabalele
+  city: "kabalele"
+  accentcity: "Kabalele"
 kabanda: 
-  city: kabanda
-  accentcity: Kabanda
+  city: "kabanda"
+  accentcity: "Kabanda"
 kabare: 
-  city: kabare
-  accentcity: Kabare
+  city: "kabare"
+  accentcity: "Kabare"
 kabarondo: 
-  city: kabarondo
-  accentcity: Kabarondo
+  city: "kabarondo"
+  accentcity: "Kabarondo"
 kabaya: 
-  city: kabaya
-  accentcity: Kabaya
+  city: "kabaya"
+  accentcity: "Kabaya"
 kabilizi: 
-  city: kabilizi
-  accentcity: Kabilizi
+  city: "kabilizi"
+  accentcity: "Kabilizi"
 kabingo: 
-  city: kabingo
-  accentcity: Kabingo
+  city: "kabingo"
+  accentcity: "Kabingo"
 kabira: 
-  city: kabira
-  accentcity: Kabira
+  city: "kabira"
+  accentcity: "Kabira"
 kabirizi: 
-  city: kabirizi
-  accentcity: Kabirizi
+  city: "kabirizi"
+  accentcity: "Kabirizi"
 kabongoya: 
-  city: kabongoya
-  accentcity: Kabongoya
+  city: "kabongoya"
+  accentcity: "Kabongoya"
 kaboza: 
-  city: kaboza
-  accentcity: Kaboza
+  city: "kaboza"
+  accentcity: "Kaboza"
 kabuga: 
-  city: kabuga
-  accentcity: Kabuga
+  city: "kabuga"
+  accentcity: "Kabuga"
 kabutembo: 
-  city: kabutembo
-  accentcity: Kabutembo
+  city: "kabutembo"
+  accentcity: "Kabutembo"
 kabutindi: 
-  city: kabutindi
-  accentcity: Kabutindi
+  city: "kabutindi"
+  accentcity: "Kabutindi"
 kabuye: 
-  city: kabuye
-  accentcity: Kabuye
+  city: "kabuye"
+  accentcity: "Kabuye"
 kabyaza: 
-  city: kabyaza
-  accentcity: Kabyaza
+  city: "kabyaza"
+  accentcity: "Kabyaza"
 kacyiru: 
-  city: kacyiru
-  accentcity: Kacyiru
+  city: "kacyiru"
+  accentcity: "Kacyiru"
 kademero: 
-  city: kademero
-  accentcity: Kademero
+  city: "kademero"
+  accentcity: "Kademero"
 kadjumo: 
-  city: kadjumo
-  accentcity: Kadjumo
+  city: "kadjumo"
+  accentcity: "Kadjumo"
 kagabo: 
-  city: kagabo
-  accentcity: Kagabo
+  city: "kagabo"
+  accentcity: "Kagabo"
 kagano: 
-  city: kagano
-  accentcity: Kagano
+  city: "kagano"
+  accentcity: "Kagano"
 kagasa: 
-  city: kagasa
-  accentcity: Kagasa
+  city: "kagasa"
+  accentcity: "Kagasa"
 kagunga: 
-  city: kagunga
-  accentcity: Kagunga
+  city: "kagunga"
+  accentcity: "Kagunga"
 kakole: 
-  city: kakole
-  accentcity: Kakole
+  city: "kakole"
+  accentcity: "Kakole"
 kakoma: 
-  city: kakoma
-  accentcity: Kakoma
+  city: "kakoma"
+  accentcity: "Kakoma"
 kakute: 
-  city: kakute
-  accentcity: Kakute
+  city: "kakute"
+  accentcity: "Kakute"
 kalembule: 
-  city: kalembule
-  accentcity: Kalembule
+  city: "kalembule"
+  accentcity: "Kalembule"
 kalenda: 
-  city: kalenda
-  accentcity: Kalenda
+  city: "kalenda"
+  accentcity: "Kalenda"
 kamabara: 
-  city: kamabara
-  accentcity: Kamabara
+  city: "kamabara"
+  accentcity: "Kamabara"
 kambogo: 
-  city: kambogo
-  accentcity: Kambogo
+  city: "kambogo"
+  accentcity: "Kambogo"
 kamembe: 
-  city: kamembe
-  accentcity: Kamembe
+  city: "kamembe"
+  accentcity: "Kamembe"
 kamushuri: 
-  city: kamushuri
-  accentcity: Kamushuri
+  city: "kamushuri"
+  accentcity: "Kamushuri"
 kamuzamuzi: 
-  city: kamuzamuzi
-  accentcity: Kamuzamuzi
+  city: "kamuzamuzi"
+  accentcity: "Kamuzamuzi"
 kanama: 
-  city: kanama
-  accentcity: Kanama
+  city: "kanama"
+  accentcity: "Kanama"
 kanazi: 
-  city: kanazi
-  accentcity: Kanazi
+  city: "kanazi"
+  accentcity: "Kanazi"
 kangoma: 
-  city: kangoma
-  accentcity: Kangoma
+  city: "kangoma"
+  accentcity: "Kangoma"
 kangwandi: 
-  city: kangwandi
-  accentcity: Kangwandi
+  city: "kangwandi"
+  accentcity: "Kangwandi"
 kanogo: 
-  city: kanogo
-  accentcity: Kanogo
+  city: "kanogo"
+  accentcity: "Kanogo"
 kanombe: 
-  city: kanombe
-  accentcity: Kanombe
+  city: "kanombe"
+  accentcity: "Kanombe"
 kanyoni: 
-  city: kanyoni
-  accentcity: Kanyoni
+  city: "kanyoni"
+  accentcity: "Kanyoni"
 kanyundo: 
-  city: kanyundo
-  accentcity: Kanyundo
+  city: "kanyundo"
+  accentcity: "Kanyundo"
 kanzanza: 
-  city: kanzanza
-  accentcity: Kanzanza
+  city: "kanzanza"
+  accentcity: "Kanzanza"
 kanzenze: 
-  city: kanzenze
-  accentcity: Kanzenze
+  city: "kanzenze"
+  accentcity: "Kanzenze"
 karagari: 
-  city: karagari
-  accentcity: Karagari
+  city: "karagari"
+  accentcity: "Karagari"
 karago: 
-  city: karago
-  accentcity: Karago
+  city: "karago"
+  accentcity: "Karago"
 karama: 
-  city: karama
-  accentcity: Karama
+  city: "karama"
+  accentcity: "Karama"
 karambo: 
-  city: karambo
-  accentcity: Karambo
+  city: "karambo"
+  accentcity: "Karambo"
 karandarye: 
-  city: karandarye
-  accentcity: Karandarye
+  city: "karandarye"
+  accentcity: "Karandarye"
 karehe: 
-  city: karehe
-  accentcity: Karehe
+  city: "karehe"
+  accentcity: "Karehe"
 karengera: 
-  city: karengera
-  accentcity: Karengera
+  city: "karengera"
+  accentcity: "Karengera"
 karizinge: 
-  city: karizinge
-  accentcity: Karizinge
+  city: "karizinge"
+  accentcity: "Karizinge"
 karongo: 
-  city: karongo
-  accentcity: Karongo
+  city: "karongo"
+  accentcity: "Karongo"
 karotshyo: 
-  city: karotshyo
-  accentcity: Karotshyo
+  city: "karotshyo"
+  accentcity: "Karotshyo"
 karundi: 
-  city: karundi
-  accentcity: Karundi
+  city: "karundi"
+  accentcity: "Karundi"
 karushya: 
-  city: karushya
-  accentcity: Karushya
+  city: "karushya"
+  accentcity: "Karushya"
 kasaka: 
-  city: kasaka
-  accentcity: Kasaka
+  city: "kasaka"
+  accentcity: "Kasaka"
 kashango: 
-  city: kashango
-  accentcity: Kashango
+  city: "kashango"
+  accentcity: "Kashango"
 kataretare: 
-  city: kataretare
-  accentcity: Kataretare
+  city: "kataretare"
+  accentcity: "Kataretare"
 katshuriro: 
-  city: katshuriro
-  accentcity: Katshuriro
+  city: "katshuriro"
+  accentcity: "Katshuriro"
 kavumu: 
-  city: kavumu
-  accentcity: Kavumu
+  city: "kavumu"
+  accentcity: "Kavumu"
 kayanga: 
-  city: kayanga
-  accentcity: Kayanga
+  city: "kayanga"
+  accentcity: "Kayanga"
 kayenzi: 
-  city: kayenzi
-  accentcity: Kayenzi
+  city: "kayenzi"
+  accentcity: "Kayenzi"
 kayonza: 
-  city: kayonza
-  accentcity: Kayonza
+  city: "kayonza"
+  accentcity: "Kayonza"
 kayove: 
-  city: kayove
-  accentcity: Kayove
+  city: "kayove"
+  accentcity: "Kayove"
 kayovu: 
-  city: kayovu
-  accentcity: Kayovu
+  city: "kayovu"
+  accentcity: "Kayovu"
 kazo: 
-  city: kazo
-  accentcity: Kazo
+  city: "kazo"
+  accentcity: "Kazo"
 kendale: 
-  city: kendale
-  accentcity: Kendale
+  city: "kendale"
+  accentcity: "Kendale"
 kibadirwa: 
-  city: kibadirwa
-  accentcity: Kibadirwa
+  city: "kibadirwa"
+  accentcity: "Kibadirwa"
 kibagabaga: 
-  city: kibagabaga
-  accentcity: Kibagabaga
+  city: "kibagabaga"
+  accentcity: "Kibagabaga"
 kibali: 
-  city: kibali
-  accentcity: Kibali
+  city: "kibali"
+  accentcity: "Kibali"
 kibangu: 
-  city: kibangu
-  accentcity: Kibangu
+  city: "kibangu"
+  accentcity: "Kibangu"
 kibanza: 
-  city: kibanza
-  accentcity: Kibanza
+  city: "kibanza"
+  accentcity: "Kibanza"
 kibari: 
-  city: kibari
-  accentcity: Kibari
+  city: "kibari"
+  accentcity: "Kibari"
 kibasi: 
-  city: kibasi
-  accentcity: Kibasi
+  city: "kibasi"
+  accentcity: "Kibasi"
 kibayi: 
-  city: kibayi
-  accentcity: Kibayi
+  city: "kibayi"
+  accentcity: "Kibayi"
 kibazi: 
-  city: kibazi
-  accentcity: Kibazi
+  city: "kibazi"
+  accentcity: "Kibazi"
 kibembe: 
-  city: kibembe
-  accentcity: Kibembe
+  city: "kibembe"
+  accentcity: "Kibembe"
 kibilira: 
-  city: kibilira
-  accentcity: Kibilira
+  city: "kibilira"
+  accentcity: "Kibilira"
 kibinja: 
-  city: kibinja
-  accentcity: Kibinja
+  city: "kibinja"
+  accentcity: "Kibinja"
 kiboga: 
-  city: kiboga
-  accentcity: Kiboga
+  city: "kiboga"
+  accentcity: "Kiboga"
 kibungo: 
-  city: kibungo
-  accentcity: Kibungo
+  city: "kibungo"
+  accentcity: "Kibungo"
 kibungu: 
-  city: kibungu
-  accentcity: Kibungu
+  city: "kibungu"
+  accentcity: "Kibungu"
 kibuye: 
-  city: kibuye
-  accentcity: Kibuye
+  city: "kibuye"
+  accentcity: "Kibuye"
 kicukiro: 
-  city: kicukiro
-  accentcity: Kicukiro
+  city: "kicukiro"
+  accentcity: "Kicukiro"
 kidaho: 
-  city: kidaho
-  accentcity: Kidaho
+  city: "kidaho"
+  accentcity: "Kidaho"
 kigale: 
-  city: kigale
-  accentcity: Kigale
+  city: "kigale"
+  accentcity: "Kigale"
 kigali: 
-  city: kigali
-  accentcity: Kigali
+  city: "kigali"
+  accentcity: "Kigali"
 kiganda: 
-  city: kiganda
-  accentcity: Kiganda
+  city: "kiganda"
+  accentcity: "Kiganda"
 kigarama: 
-  city: kigarama
-  accentcity: Kigarama
+  city: "kigarama"
+  accentcity: "Kigarama"
 kigasa: 
-  city: kigasa
-  accentcity: Kigasa
+  city: "kigasa"
+  accentcity: "Kigasa"
 kigembe: 
-  city: kigembe
-  accentcity: Kigembe
+  city: "kigembe"
+  accentcity: "Kigembe"
 kigeyo: 
-  city: kigeyo
-  accentcity: Kigeyo
+  city: "kigeyo"
+  accentcity: "Kigeyo"
 kigoma: 
-  city: kigoma
-  accentcity: Kigoma
+  city: "kigoma"
+  accentcity: "Kigoma"
 kigombe: 
-  city: kigombe
-  accentcity: Kigombe
+  city: "kigombe"
+  accentcity: "Kigombe"
 kikunyu: 
-  city: kikunyu
-  accentcity: Kikunyu
+  city: "kikunyu"
+  accentcity: "Kikunyu"
 kilambi: 
-  city: kilambi
-  accentcity: Kilambi
+  city: "kilambi"
+  accentcity: "Kilambi"
 kilarambogo: 
-  city: kilarambogo
-  accentcity: Kilarambogo
+  city: "kilarambogo"
+  accentcity: "Kilarambogo"
 kilimbi: 
-  city: kilimbi
-  accentcity: Kilimbi
+  city: "kilimbi"
+  accentcity: "Kilimbi"
 kimbwebwe: 
-  city: kimbwebwe
-  accentcity: Kimbwebwe
+  city: "kimbwebwe"
+  accentcity: "Kimbwebwe"
 kimironko: 
-  city: kimironko
-  accentcity: Kimironko
+  city: "kimironko"
+  accentcity: "Kimironko"
 kimiryi: 
-  city: kimiryi
-  accentcity: Kimiryi
+  city: "kimiryi"
+  accentcity: "Kimiryi"
 kimisange: 
-  city: kimisange
-  accentcity: Kimisange
+  city: "kimisange"
+  accentcity: "Kimisange"
 kinanira: 
-  city: kinanira
-  accentcity: Kinanira
+  city: "kinanira"
+  accentcity: "Kinanira"
 kindonye: 
-  city: kindonye
-  accentcity: Kindonye
+  city: "kindonye"
+  accentcity: "Kindonye"
 kindony: 
-  city: kindony
-  accentcity: Kindony
+  city: "kindony"
+  accentcity: "Kindony"
 kinigi: 
-  city: kinigi
-  accentcity: Kinigi
+  city: "kinigi"
+  accentcity: "Kinigi"
 kinihara: 
-  city: kinihara
-  accentcity: Kinihara
+  city: "kinihara"
+  accentcity: "Kinihara"
 kinihira: 
-  city: kinihira
-  accentcity: Kinihira
+  city: "kinihira"
+  accentcity: "Kinihira"
 kinogo: 
-  city: kinogo
-  accentcity: Kinogo
+  city: "kinogo"
+  accentcity: "Kinogo"
 kintarure: 
-  city: kintarure
-  accentcity: Kintarure
+  city: "kintarure"
+  accentcity: "Kintarure"
 kinyababa: 
-  city: kinyababa
-  accentcity: Kinyababa
+  city: "kinyababa"
+  accentcity: "Kinyababa"
 kinyamakara: 
-  city: kinyamakara
-  accentcity: Kinyamakara
+  city: "kinyamakara"
+  accentcity: "Kinyamakara"
 kinyambo: 
-  city: kinyambo
-  accentcity: Kinyambo
+  city: "kinyambo"
+  accentcity: "Kinyambo"
 kinyami: 
-  city: kinyami
-  accentcity: Kinyami
+  city: "kinyami"
+  accentcity: "Kinyami"
 kinyanja: 
-  city: kinyanja
-  accentcity: Kinyanja
+  city: "kinyanja"
+  accentcity: "Kinyanja"
 kinyantozi: 
-  city: kinyantozi
-  accentcity: Kinyantozi
+  city: "kinyantozi"
+  accentcity: "Kinyantozi"
 kinyoma: 
-  city: kinyoma
-  accentcity: Kinyoma
+  city: "kinyoma"
+  accentcity: "Kinyoma"
 kinyoni: 
-  city: kinyoni
-  accentcity: Kinyoni
+  city: "kinyoni"
+  accentcity: "Kinyoni"
 kinzuzi: 
-  city: kinzuzi
-  accentcity: Kinzuzi
+  city: "kinzuzi"
+  accentcity: "Kinzuzi"
 kipuye: 
-  city: kipuye
-  accentcity: Kipuye
+  city: "kipuye"
+  accentcity: "Kipuye"
 kiraga: 
-  city: kiraga
-  accentcity: Kiraga
+  city: "kiraga"
+  accentcity: "Kiraga"
 kirambo: 
-  city: kirambo
-  accentcity: Kirambo
+  city: "kirambo"
+  accentcity: "Kirambo"
 kiranga: 
-  city: kiranga
-  accentcity: Kiranga
+  city: "kiranga"
+  accentcity: "Kiranga"
 kiraro: 
-  city: kiraro
-  accentcity: Kiraro
+  city: "kiraro"
+  accentcity: "Kiraro"
 kirengo: 
-  city: kirengo
-  accentcity: Kirengo
+  city: "kirengo"
+  accentcity: "Kirengo"
 kirwa: 
-  city: kirwa
-  accentcity: Kirwa
+  city: "kirwa"
+  accentcity: "Kirwa"
 kiryi: 
-  city: kiryi
-  accentcity: Kiryi
+  city: "kiryi"
+  accentcity: "Kiryi"
 kisigiro: 
-  city: kisigiro
-  accentcity: Kisigiro
+  city: "kisigiro"
+  accentcity: "Kisigiro"
 kisiguro: 
-  city: kisiguro
-  accentcity: Kisiguro
+  city: "kisiguro"
+  accentcity: "Kisiguro"
 kisunzu: 
-  city: kisunzu
-  accentcity: Kisunzu
+  city: "kisunzu"
+  accentcity: "Kisunzu"
 kiterwe: 
-  city: kiterwe
-  accentcity: Kiterwe
+  city: "kiterwe"
+  accentcity: "Kiterwe"
 kitongati: 
-  city: kitongati
-  accentcity: Kitongati
+  city: "kitongati"
+  accentcity: "Kitongati"
 kitshasa: 
-  city: kitshasa
-  accentcity: Kitshasa
+  city: "kitshasa"
+  accentcity: "Kitshasa"
 kivuba: 
-  city: kivuba
-  accentcity: Kivuba
+  city: "kivuba"
+  accentcity: "Kivuba"
 kivu: 
-  city: kivu
-  accentcity: Kivu
+  city: "kivu"
+  accentcity: "Kivu"
 kivumu: 
-  city: kivumu
-  accentcity: Kivumu
+  city: "kivumu"
+  accentcity: "Kivumu"
 kivuye: 
-  city: kivuye
-  accentcity: Kivuye
+  city: "kivuye"
+  accentcity: "Kivuye"
 kiyanza: 
-  city: kiyanza
-  accentcity: Kiyanza
+  city: "kiyanza"
+  accentcity: "Kiyanza"
 kiyombe: 
-  city: kiyombe
-  accentcity: Kiyombe
+  city: "kiyombe"
+  accentcity: "Kiyombe"
 kiyonza: 
-  city: kiyonza
-  accentcity: Kiyonza
+  city: "kiyonza"
+  accentcity: "Kiyonza"
 kiziguru: 
-  city: kiziguru
-  accentcity: Kiziguru
+  city: "kiziguru"
+  accentcity: "Kiziguru"
 kizinga: 
-  city: kizinga
-  accentcity: Kizinga
+  city: "kizinga"
+  accentcity: "Kizinga"
 kizirakome: 
-  city: kizirakome
-  accentcity: Kizirakome
+  city: "kizirakome"
+  accentcity: "Kizirakome"
 kugihembe: 
-  city: kugihembe
-  accentcity: Kugihembe
+  city: "kugihembe"
+  accentcity: "Kugihembe"
 kukabira: 
-  city: kukabira
-  accentcity: Kukabira
+  city: "kukabira"
+  accentcity: "Kukabira"
 kukana: 
-  city: kukana
-  accentcity: Kukana
+  city: "kukana"
+  accentcity: "Kukana"
 kulisha: 
-  city: kulisha
-  accentcity: Kulisha
+  city: "kulisha"
+  accentcity: "Kulisha"
 kumana: 
-  city: kumana
-  accentcity: Kumana
+  city: "kumana"
+  accentcity: "Kumana"
 kumunini: 
-  city: kumunini
-  accentcity: Kumunini
+  city: "kumunini"
+  accentcity: "Kumunini"
 kumutaka: 
-  city: kumutaka
-  accentcity: Kumutaka
+  city: "kumutaka"
+  accentcity: "Kumutaka"
 kununya: 
-  city: kununya
-  accentcity: Kununya
+  city: "kununya"
+  accentcity: "Kununya"
 kurukara: 
-  city: kurukara
-  accentcity: Kurukara
+  city: "kurukara"
+  accentcity: "Kurukara"
 kuwingugu: 
-  city: kuwingugu
-  accentcity: Kuwingugu
+  city: "kuwingugu"
+  accentcity: "Kuwingugu"
 kuwinkingi: 
-  city: kuwinkingi
-  accentcity: Kuwinkingi
+  city: "kuwinkingi"
+  accentcity: "Kuwinkingi"
 kwibanda: 
-  city: kwibanda
-  accentcity: Kwibanda
+  city: "kwibanda"
+  accentcity: "Kwibanda"
 kyiombe: 
-  city: kyiombe
-  accentcity: Kyiombe
+  city: "kyiombe"
+  accentcity: "Kyiombe"
 kyiri: 
-  city: kyiri
-  accentcity: Kyiri
+  city: "kyiri"
+  accentcity: "Kyiri"
 leberu: 
-  city: leberu
-  accentcity: Leberu
+  city: "leberu"
+  accentcity: "Leberu"
 lemera: 
-  city: lemera
-  accentcity: Lemera
+  city: "lemera"
+  accentcity: "Lemera"
 linganwe: 
-  city: linganwe
-  accentcity: Linganwe
+  city: "linganwe"
+  accentcity: "Linganwe"
 lubilizi: 
-  city: lubilizi
-  accentcity: Lubilizi
+  city: "lubilizi"
+  accentcity: "Lubilizi"
 lubirizi: 
-  city: lubirizi
-  accentcity: Lubirizi
+  city: "lubirizi"
+  accentcity: "Lubirizi"
 luganda: 
-  city: luganda
-  accentcity: Luganda
+  city: "luganda"
+  accentcity: "Luganda"
 lugarama: 
-  city: lugarama
-  accentcity: Lugarama
+  city: "lugarama"
+  accentcity: "Lugarama"
 lugera: 
-  city: lugera
-  accentcity: Lugera
+  city: "lugera"
+  accentcity: "Lugera"
 luhanga: 
-  city: luhanga
-  accentcity: Luhanga
+  city: "luhanga"
+  accentcity: "Luhanga"
 luhigiro: 
-  city: luhigiro
-  accentcity: Luhigiro
+  city: "luhigiro"
+  accentcity: "Luhigiro"
 luhonge: 
-  city: luhonge
-  accentcity: Luhonge
+  city: "luhonge"
+  accentcity: "Luhonge"
 luhunga: 
-  city: luhunga
-  accentcity: Luhunga
+  city: "luhunga"
+  accentcity: "Luhunga"
 lusitare: 
-  city: lusitare
-  accentcity: Lusitare
+  city: "lusitare"
+  accentcity: "Lusitare"
 lutendele: 
-  city: lutendele
-  accentcity: Lutendele
+  city: "lutendele"
+  accentcity: "Lutendele"
 luvulu: 
-  city: luvulu
-  accentcity: Luvulu
+  city: "luvulu"
+  accentcity: "Luvulu"
 mabanza: 
-  city: mabanza
-  accentcity: Mabanza
+  city: "mabanza"
+  accentcity: "Mabanza"
 mabare: 
-  city: mabare
-  accentcity: Mabare
+  city: "mabare"
+  accentcity: "Mabare"
 mabuye: 
-  city: mabuye
-  accentcity: Mabuye
+  city: "mabuye"
+  accentcity: "Mabuye"
 machuba: 
-  city: machuba
-  accentcity: Machuba
+  city: "machuba"
+  accentcity: "Machuba"
 macuba: 
-  city: macuba
-  accentcity: Macuba
+  city: "macuba"
+  accentcity: "Macuba"
 magi: 
-  city: magi
-  accentcity: Magi
+  city: "magi"
+  accentcity: "Magi"
 magina: 
-  city: magina
-  accentcity: Magina
+  city: "magina"
+  accentcity: "Magina"
 mahoko: 
-  city: mahoko
-  accentcity: Mahoko
+  city: "mahoko"
+  accentcity: "Mahoko"
 mahumbe: 
-  city: mahumbe
-  accentcity: Mahumbe
+  city: "mahumbe"
+  accentcity: "Mahumbe"
 maliba: 
-  city: maliba
-  accentcity: Maliba
+  city: "maliba"
+  accentcity: "Maliba"
 mamfu: 
-  city: mamfu
-  accentcity: Mamfu
+  city: "mamfu"
+  accentcity: "Mamfu"
 maraba: 
-  city: maraba
-  accentcity: Maraba
+  city: "maraba"
+  accentcity: "Maraba"
 marabuy: 
-  city: marabuy
-  accentcity: Marabuy
+  city: "marabuy"
+  accentcity: "Marabuy"
 mararo: 
-  city: mararo
-  accentcity: Mararo
+  city: "mararo"
+  accentcity: "Mararo"
 mareba: 
-  city: mareba
-  accentcity: Mareba
+  city: "mareba"
+  accentcity: "Mareba"
 masaka: 
-  city: masaka
-  accentcity: Masaka
+  city: "masaka"
+  accentcity: "Masaka"
 masango: 
-  city: masango
-  accentcity: Masango
+  city: "masango"
+  accentcity: "Masango"
 masha: 
-  city: masha
-  accentcity: Masha
+  city: "masha"
+  accentcity: "Masha"
 masogwe: 
-  city: masogwe
-  accentcity: Masogwe
+  city: "masogwe"
+  accentcity: "Masogwe"
 maso: 
-  city: maso
-  accentcity: Maso
+  city: "maso"
+  accentcity: "Maso"
 masoro: 
-  city: masoro
-  accentcity: Masoro
+  city: "masoro"
+  accentcity: "Masoro"
 matara: 
-  city: matara
-  accentcity: Matara
+  city: "matara"
+  accentcity: "Matara"
 mayaga: 
-  city: mayaga
-  accentcity: Mayaga
+  city: "mayaga"
+  accentcity: "Mayaga"
 maya: 
-  city: maya
-  accentcity: Maya
+  city: "maya"
+  accentcity: "Maya"
 mayange: 
-  city: mayange
-  accentcity: Mayange
+  city: "mayange"
+  accentcity: "Mayange"
 mayobe: 
-  city: mayobe
-  accentcity: Mayobe
+  city: "mayobe"
+  accentcity: "Mayobe"
 mbazi: 
-  city: mbazi
-  accentcity: Mbazi
+  city: "mbazi"
+  accentcity: "Mbazi"
 mbogo: 
-  city: mbogo
-  accentcity: Mbogo
+  city: "mbogo"
+  accentcity: "Mbogo"
 mbuye: 
-  city: mbuye
-  accentcity: Mbuye
+  city: "mbuye"
+  accentcity: "Mbuye"
 mibuba: 
-  city: mibuba
-  accentcity: Mibuba
+  city: "mibuba"
+  accentcity: "Mibuba"
 migina: 
-  city: migina
-  accentcity: Migina
+  city: "migina"
+  accentcity: "Migina"
 mikingo: 
-  city: mikingo
-  accentcity: Mikingo
+  city: "mikingo"
+  accentcity: "Mikingo"
 mitshiniro: 
-  city: mitshiniro
-  accentcity: Mitshiniro
+  city: "mitshiniro"
+  accentcity: "Mitshiniro"
 mizingo: 
-  city: mizingo
-  accentcity: Mizingo
+  city: "mizingo"
+  accentcity: "Mizingo"
 mont buzigi: 
-  city: mont buzigi
-  accentcity: Mont Buzigi
+  city: "mont buzigi"
+  accentcity: "Mont Buzigi"
 mont cyondo: 
-  city: mont cyondo
-  accentcity: Mont Cyondo
+  city: "mont cyondo"
+  accentcity: "Mont Cyondo"
 mont gabegi: 
-  city: mont gabegi
-  accentcity: Mont Gabegi
+  city: "mont gabegi"
+  accentcity: "Mont Gabegi"
 mont gaharo: 
-  city: mont gaharo
-  accentcity: Mont Gaharo
+  city: "mont gaharo"
+  accentcity: "Mont Gaharo"
 mont gahengele: 
-  city: mont gahengele
-  accentcity: Mont Gahengele
+  city: "mont gahengele"
+  accentcity: "Mont Gahengele"
 mont gatete: 
-  city: mont gatete
-  accentcity: Mont Gatete
+  city: "mont gatete"
+  accentcity: "Mont Gatete"
 mont ghasheshe: 
-  city: mont ghasheshe
-  accentcity: Mont Ghasheshe
+  city: "mont ghasheshe"
+  accentcity: "Mont Ghasheshe"
 mont giseke: 
-  city: mont giseke
-  accentcity: Mont Giseke
+  city: "mont giseke"
+  accentcity: "Mont Giseke"
 mont gishikiri: 
-  city: mont gishikiri
-  accentcity: Mont Gishikiri
+  city: "mont gishikiri"
+  accentcity: "Mont Gishikiri"
 mont jari: 
-  city: mont jari
-  accentcity: Mont Jari
+  city: "mont jari"
+  accentcity: "Mont Jari"
 mont kabare: 
-  city: mont kabare
-  accentcity: Mont Kabare
+  city: "mont kabare"
+  accentcity: "Mont Kabare"
 mont kakoma: 
-  city: mont kakoma
-  accentcity: Mont Kakoma
+  city: "mont kakoma"
+  accentcity: "Mont Kakoma"
 mont kalenda: 
-  city: mont kalenda
-  accentcity: Mont Kalenda
+  city: "mont kalenda"
+  accentcity: "Mont Kalenda"
 mont karama: 
-  city: mont karama
-  accentcity: Mont Karama
+  city: "mont karama"
+  accentcity: "Mont Karama"
 mont kayenzi: 
-  city: mont kayenzi
-  accentcity: Mont Kayenzi
+  city: "mont kayenzi"
+  accentcity: "Mont Kayenzi"
 mont kigali: 
-  city: mont kigali
-  accentcity: Mont Kigali
+  city: "mont kigali"
+  accentcity: "Mont Kigali"
 mont kurukara: 
-  city: mont kurukara
-  accentcity: Mont Kurukara
+  city: "mont kurukara"
+  accentcity: "Mont Kurukara"
 mont leberu: 
-  city: mont leberu
-  accentcity: Mont Leberu
+  city: "mont leberu"
+  accentcity: "Mont Leberu"
 mont lemera: 
-  city: mont lemera
-  accentcity: Mont Lemera
+  city: "mont lemera"
+  accentcity: "Mont Lemera"
 mont lugarama: 
-  city: mont lugarama
-  accentcity: Mont Lugarama
+  city: "mont lugarama"
+  accentcity: "Mont Lugarama"
 mont lugera: 
-  city: mont lugera
-  accentcity: Mont Lugera
+  city: "mont lugera"
+  accentcity: "Mont Lugera"
 mont luhonge: 
-  city: mont luhonge
-  accentcity: Mont Luhonge
+  city: "mont luhonge"
+  accentcity: "Mont Luhonge"
 mont masogwe: 
-  city: mont masogwe
-  accentcity: Mont Masogwe
+  city: "mont masogwe"
+  accentcity: "Mont Masogwe"
 mont mugusa: 
-  city: mont mugusa
-  accentcity: Mont Mugusa
+  city: "mont mugusa"
+  accentcity: "Mont Mugusa"
 mont murama: 
-  city: mont murama
-  accentcity: Mont Murama
+  city: "mont murama"
+  accentcity: "Mont Murama"
 mont murambi: 
-  city: mont murambi
-  accentcity: Mont Murambi
+  city: "mont murambi"
+  accentcity: "Mont Murambi"
 mont muyumbu: 
-  city: mont muyumbu
-  accentcity: Mont Muyumbu
+  city: "mont muyumbu"
+  accentcity: "Mont Muyumbu"
 mont mwulire: 
-  city: mont mwulire
-  accentcity: Mont Mwulire
+  city: "mont mwulire"
+  accentcity: "Mont Mwulire"
 mont ndjari: 
-  city: mont ndjari
-  accentcity: Mont Ndjari
+  city: "mont ndjari"
+  accentcity: "Mont Ndjari"
 mont ndoma: 
-  city: mont ndoma
-  accentcity: Mont Ndoma
+  city: "mont ndoma"
+  accentcity: "Mont Ndoma"
 mont neke: 
-  city: mont neke
-  accentcity: Mont Neke
+  city: "mont neke"
+  accentcity: "Mont Neke"
 mont nyakisu: 
-  city: mont nyakisu
-  accentcity: Mont Nyakisu
+  city: "mont nyakisu"
+  accentcity: "Mont Nyakisu"
 mont nyamisangi: 
-  city: mont nyamisangi
-  accentcity: Mont Nyamisangi
+  city: "mont nyamisangi"
+  accentcity: "Mont Nyamisangi"
 mont nyamiyaga: 
-  city: mont nyamiyaga
-  accentcity: Mont Nyamiyaga
+  city: "mont nyamiyaga"
+  accentcity: "Mont Nyamiyaga"
 mont nyangara: 
-  city: mont nyangara
-  accentcity: Mont Nyangara
+  city: "mont nyangara"
+  accentcity: "Mont Nyangara"
 mont nyaruwanga: 
-  city: mont nyaruwanga
-  accentcity: Mont Nyaruwanga
+  city: "mont nyaruwanga"
+  accentcity: "Mont Nyaruwanga"
 mont nzega: 
-  city: mont nzega
-  accentcity: Mont Nzega
+  city: "mont nzega"
+  accentcity: "Mont Nzega"
 mont rubona: 
-  city: mont rubona
-  accentcity: Mont Rubona
+  city: "mont rubona"
+  accentcity: "Mont Rubona"
 mont ruhanga: 
-  city: mont ruhanga
-  accentcity: Mont Ruhanga
+  city: "mont ruhanga"
+  accentcity: "Mont Ruhanga"
 mont rutoma: 
-  city: mont rutoma
-  accentcity: Mont Rutoma
+  city: "mont rutoma"
+  accentcity: "Mont Rutoma"
 mont shololo: 
-  city: mont shololo
-  accentcity: Mont Shololo
+  city: "mont shololo"
+  accentcity: "Mont Shololo"
 mont shori: 
-  city: mont shori
-  accentcity: Mont Shori
+  city: "mont shori"
+  accentcity: "Mont Shori"
 mpage: 
-  city: mpage
-  accentcity: Mpage
+  city: "mpage"
+  accentcity: "Mpage"
 mpanga: 
-  city: mpanga
-  accentcity: Mpanga
+  city: "mpanga"
+  accentcity: "Mpanga"
 mpare: 
-  city: mpare
-  accentcity: Mpare
+  city: "mpare"
+  accentcity: "Mpare"
 mpira: 
-  city: mpira
-  accentcity: Mpira
+  city: "mpira"
+  accentcity: "Mpira"
 mubori: 
-  city: mubori
-  accentcity: Mubori
+  city: "mubori"
+  accentcity: "Mubori"
 mubuga: 
-  city: mubuga
-  accentcity: Mubuga
+  city: "mubuga"
+  accentcity: "Mubuga"
 mubumbano: 
-  city: mubumbano
-  accentcity: Mubumbano
+  city: "mubumbano"
+  accentcity: "Mubumbano"
 mudasomwa: 
-  city: mudasomwa
-  accentcity: Mudasomwa
+  city: "mudasomwa"
+  accentcity: "Mudasomwa"
 mudende: 
-  city: mudende
-  accentcity: Mudende
+  city: "mudende"
+  accentcity: "Mudende"
 mufumba: 
-  city: mufumba
-  accentcity: Mufumba
+  city: "mufumba"
+  accentcity: "Mufumba"
 mugakindu: 
-  city: mugakindu
-  accentcity: Mugakindu
+  city: "mugakindu"
+  accentcity: "Mugakindu"
 mugamba: 
-  city: mugamba
-  accentcity: Mugamba
+  city: "mugamba"
+  accentcity: "Mugamba"
 mugambazi: 
-  city: mugambazi
-  accentcity: Mugambazi
+  city: "mugambazi"
+  accentcity: "Mugambazi"
 mugano: 
-  city: mugano
-  accentcity: Mugano
+  city: "mugano"
+  accentcity: "Mugano"
 muganza: 
-  city: muganza
-  accentcity: Muganza
+  city: "muganza"
+  accentcity: "Muganza"
 mugejuru: 
-  city: mugejuru
-  accentcity: Mugejuru
+  city: "mugejuru"
+  accentcity: "Mugejuru"
 mugera: 
-  city: mugera
-  accentcity: Mugera
+  city: "mugera"
+  accentcity: "Mugera"
 mugesera: 
-  city: mugesera
-  accentcity: Mugesera
+  city: "mugesera"
+  accentcity: "Mugesera"
 mugina: 
-  city: mugina
-  accentcity: Mugina
+  city: "mugina"
+  accentcity: "Mugina"
 mugomba: 
-  city: mugomba
-  accentcity: Mugomba
+  city: "mugomba"
+  accentcity: "Mugomba"
 mugunga: 
-  city: mugunga
-  accentcity: Mugunga
+  city: "mugunga"
+  accentcity: "Mugunga"
 mugusa: 
-  city: mugusa
-  accentcity: Mugusa
+  city: "mugusa"
+  accentcity: "Mugusa"
 muhambo: 
-  city: muhambo
-  accentcity: Muhambo
+  city: "muhambo"
+  accentcity: "Muhambo"
 muhanda: 
-  city: muhanda
-  accentcity: Muhanda
+  city: "muhanda"
+  accentcity: "Muhanda"
 muhari: 
-  city: muhari
-  accentcity: Muhari
+  city: "muhari"
+  accentcity: "Muhari"
 muhazi: 
-  city: muhazi
-  accentcity: Muhazi
+  city: "muhazi"
+  accentcity: "Muhazi"
 muhehwe: 
-  city: muhehwe
-  accentcity: Muhehwe
+  city: "muhehwe"
+  accentcity: "Muhehwe"
 muhero: 
-  city: muhero
-  accentcity: Muhero
+  city: "muhero"
+  accentcity: "Muhero"
 muhingu: 
-  city: muhingu
-  accentcity: Muhingu
+  city: "muhingu"
+  accentcity: "Muhingu"
 muhorora: 
-  city: muhorora
-  accentcity: Muhorora
+  city: "muhorora"
+  accentcity: "Muhorora"
 muhororo: 
-  city: muhororo
-  accentcity: Muhororo
+  city: "muhororo"
+  accentcity: "Muhororo"
 muhoza: 
-  city: muhoza
-  accentcity: Muhoza
+  city: "muhoza"
+  accentcity: "Muhoza"
 muhura: 
-  city: muhura
-  accentcity: Muhura
+  city: "muhura"
+  accentcity: "Muhura"
 mukarange: 
-  city: mukarange
-  accentcity: Mukarange
+  city: "mukarange"
+  accentcity: "Mukarange"
 mukingi: 
-  city: mukingi
-  accentcity: Mukingi
+  city: "mukingi"
+  accentcity: "Mukingi"
 mukingo: 
-  city: mukingo
-  accentcity: Mukingo
+  city: "mukingo"
+  accentcity: "Mukingo"
 mukoma: 
-  city: mukoma
-  accentcity: Mukoma
+  city: "mukoma"
+  accentcity: "Mukoma"
 muko: 
-  city: muko
-  accentcity: Muko
+  city: "muko"
+  accentcity: "Muko"
 mukoni: 
-  city: mukoni
-  accentcity: Mukoni
+  city: "mukoni"
+  accentcity: "Mukoni"
 mukuyu: 
-  city: mukuyu
-  accentcity: Mukuyu
+  city: "mukuyu"
+  accentcity: "Mukuyu"
 mulamoi: 
-  city: mulamoi
-  accentcity: Mulamoi
+  city: "mulamoi"
+  accentcity: "Mulamoi"
 mulemule: 
-  city: mulemule
-  accentcity: Mulemule
+  city: "mulemule"
+  accentcity: "Mulemule"
 mulindi: 
-  city: mulindi
-  accentcity: Mulindi
+  city: "mulindi"
+  accentcity: "Mulindi"
 mulinja: 
-  city: mulinja
-  accentcity: Mulinja
+  city: "mulinja"
+  accentcity: "Mulinja"
 mulire: 
-  city: mulire
-  accentcity: Mulire
+  city: "mulire"
+  accentcity: "Mulire"
 mumatyazo: 
-  city: mumatyazo
-  accentcity: Mumatyazo
+  city: "mumatyazo"
+  accentcity: "Mumatyazo"
 munini: 
-  city: munini
-  accentcity: Munini
+  city: "munini"
+  accentcity: "Munini"
 munsheke: 
-  city: munsheke
-  accentcity: Munsheke
+  city: "munsheke"
+  accentcity: "Munsheke"
 munyinya: 
-  city: munyinya
-  accentcity: Munyinya
+  city: "munyinya"
+  accentcity: "Munyinya"
 munyove: 
-  city: munyove
-  accentcity: Munyove
+  city: "munyove"
+  accentcity: "Munyove"
 murama: 
-  city: murama
-  accentcity: Murama
+  city: "murama"
+  accentcity: "Murama"
 muramba: 
-  city: muramba
-  accentcity: Muramba
+  city: "muramba"
+  accentcity: "Muramba"
 murambi: 
-  city: murambi
-  accentcity: Murambi
+  city: "murambi"
+  accentcity: "Murambi"
 murandi: 
-  city: murandi
-  accentcity: Murandi
+  city: "murandi"
+  accentcity: "Murandi"
 murangi: 
-  city: murangi
-  accentcity: Murangi
+  city: "murangi"
+  accentcity: "Murangi"
 murara: 
-  city: murara
-  accentcity: Murara
+  city: "murara"
+  accentcity: "Murara"
 muraza: 
-  city: muraza
-  accentcity: Muraza
+  city: "muraza"
+  accentcity: "Muraza"
 murehe: 
-  city: murehe
-  accentcity: Murehe
+  city: "murehe"
+  accentcity: "Murehe"
 murito: 
-  city: murito
-  accentcity: Murito
+  city: "murito"
+  accentcity: "Murito"
 murore: 
-  city: murore
-  accentcity: Murore
+  city: "murore"
+  accentcity: "Murore"
 murubaya: 
-  city: murubaya
-  accentcity: Murubaya
+  city: "murubaya"
+  accentcity: "Murubaya"
 murunda: 
-  city: murunda
-  accentcity: Murunda
+  city: "murunda"
+  accentcity: "Murunda"
 mururu: 
-  city: mururu
-  accentcity: Mururu
+  city: "mururu"
+  accentcity: "Mururu"
 muryorera: 
-  city: muryorera
-  accentcity: Muryorera
+  city: "muryorera"
+  accentcity: "Muryorera"
 musagara: 
-  city: musagara
-  accentcity: Musagara
+  city: "musagara"
+  accentcity: "Musagara"
 musama: 
-  city: musama
-  accentcity: Musama
+  city: "musama"
+  accentcity: "Musama"
 musambila: 
-  city: musambila
-  accentcity: Musambila
+  city: "musambila"
+  accentcity: "Musambila"
 musambira: 
-  city: musambira
-  accentcity: Musambira
+  city: "musambira"
+  accentcity: "Musambira"
 musange: 
-  city: musange
-  accentcity: Musange
+  city: "musange"
+  accentcity: "Musange"
 musasa: 
-  city: musasa
-  accentcity: Musasa
+  city: "musasa"
+  accentcity: "Musasa"
 musave: 
-  city: musave
-  accentcity: Musave
+  city: "musave"
+  accentcity: "Musave"
 musebeya: 
-  city: musebeya
-  accentcity: Musebeya
+  city: "musebeya"
+  accentcity: "Musebeya"
 muse: 
-  city: muse
-  accentcity: Muse
+  city: "muse"
+  accentcity: "Muse"
 musenge: 
-  city: musenge
-  accentcity: Musenge
+  city: "musenge"
+  accentcity: "Musenge"
 musenyi: 
-  city: musenyi
-  accentcity: Musenyi
+  city: "musenyi"
+  accentcity: "Musenyi"
 musezero: 
-  city: musezero
-  accentcity: Musezero
+  city: "musezero"
+  accentcity: "Musezero"
 musheri: 
-  city: musheri
-  accentcity: Musheri
+  city: "musheri"
+  accentcity: "Musheri"
 mushirarungu: 
-  city: mushirarungu
-  accentcity: Mushirarungu
+  city: "mushirarungu"
+  accentcity: "Mushirarungu"
 mushongi: 
-  city: mushongi
-  accentcity: Mushongi
+  city: "mushongi"
+  accentcity: "Mushongi"
 mushubati: 
-  city: mushubati
-  accentcity: Mushubati
+  city: "mushubati"
+  accentcity: "Mushubati"
 musoro: 
-  city: musoro
-  accentcity: Musoro
+  city: "musoro"
+  accentcity: "Musoro"
 musumba: 
-  city: musumba
-  accentcity: Musumba
+  city: "musumba"
+  accentcity: "Musumba"
 musumule: 
-  city: musumule
-  accentcity: Musumule
+  city: "musumule"
+  accentcity: "Musumule"
 mutambiko: 
-  city: mutambiko
-  accentcity: Mutambiko
+  city: "mutambiko"
+  accentcity: "Mutambiko"
 mutamo: 
-  city: mutamo
-  accentcity: Mutamo
+  city: "mutamo"
+  accentcity: "Mutamo"
 mutara: 
-  city: mutara
-  accentcity: Mutara
+  city: "mutara"
+  accentcity: "Mutara"
 mutego: 
-  city: mutego
-  accentcity: Mutego
+  city: "mutego"
+  accentcity: "Mutego"
 mutende: 
-  city: mutende
-  accentcity: Mutende
+  city: "mutende"
+  accentcity: "Mutende"
 mutima: 
-  city: mutima
-  accentcity: Mutima
+  city: "mutima"
+  accentcity: "Mutima"
 mutimasi: 
-  city: mutimasi
-  accentcity: Mutimasi
+  city: "mutimasi"
+  accentcity: "Mutimasi"
 mutimazi: 
-  city: mutimazi
-  accentcity: Mutimazi
+  city: "mutimazi"
+  accentcity: "Mutimazi"
 muti: 
-  city: muti
-  accentcity: Muti
+  city: "muti"
+  accentcity: "Muti"
 mutongo: 
-  city: mutongo
-  accentcity: Mutongo
+  city: "mutongo"
+  accentcity: "Mutongo"
 mutura: 
-  city: mutura
-  accentcity: Mutura
+  city: "mutura"
+  accentcity: "Mutura"
 muture: 
-  city: muture
-  accentcity: Muture
+  city: "muture"
+  accentcity: "Muture"
 mutusa: 
-  city: mutusa
-  accentcity: Mutusa
+  city: "mutusa"
+  accentcity: "Mutusa"
 mutuza: 
-  city: mutuza
-  accentcity: Mutuza
+  city: "mutuza"
+  accentcity: "Mutuza"
 muvumba: 
-  city: muvumba
-  accentcity: Muvumba
+  city: "muvumba"
+  accentcity: "Muvumba"
 muvumu: 
-  city: muvumu
-  accentcity: Muvumu
+  city: "muvumu"
+  accentcity: "Muvumu"
 muyaga: 
-  city: muyaga
-  accentcity: Muyaga
+  city: "muyaga"
+  accentcity: "Muyaga"
 muyage: 
-  city: muyage
-  accentcity: Muyage
+  city: "muyage"
+  accentcity: "Muyage"
 muyira: 
-  city: muyira
-  accentcity: Muyira
+  city: "muyira"
+  accentcity: "Muyira"
 muyumbu: 
-  city: muyumbu
-  accentcity: Muyumbu
+  city: "muyumbu"
+  accentcity: "Muyumbu"
 muzenga: 
-  city: muzenga
-  accentcity: Muzenga
+  city: "muzenga"
+  accentcity: "Muzenga"
 mwanabili: 
-  city: mwanabili
-  accentcity: Mwanabili
+  city: "mwanabili"
+  accentcity: "Mwanabili"
 mwegera: 
-  city: mwegera
-  accentcity: Mwegera
+  city: "mwegera"
+  accentcity: "Mwegera"
 mwendo: 
-  city: mwendo
-  accentcity: Mwendo
+  city: "mwendo"
+  accentcity: "Mwendo"
 mwenya: 
-  city: mwenya
-  accentcity: Mwenya
+  city: "mwenya"
+  accentcity: "Mwenya"
 mweru: 
-  city: mweru
-  accentcity: Mweru
+  city: "mweru"
+  accentcity: "Mweru"
 mwijanda: 
-  city: mwijanda
-  accentcity: Mwijanda
+  city: "mwijanda"
+  accentcity: "Mwijanda"
 mwishe: 
-  city: mwishe
-  accentcity: Mwishe
+  city: "mwishe"
+  accentcity: "Mwishe"
 mwite: 
-  city: mwite
-  accentcity: Mwite
+  city: "mwite"
+  accentcity: "Mwite"
 mwito: 
-  city: mwito
-  accentcity: Mwito
+  city: "mwito"
+  accentcity: "Mwito"
 mwiviro: 
-  city: mwiviro
-  accentcity: Mwiviro
+  city: "mwiviro"
+  accentcity: "Mwiviro"
 mwufe: 
-  city: mwufe
-  accentcity: Mwufe
+  city: "mwufe"
+  accentcity: "Mwufe"
 mwulira: 
-  city: mwulira
-  accentcity: Mwulira
+  city: "mwulira"
+  accentcity: "Mwulira"
 mwulire: 
-  city: mwulire
-  accentcity: Mwulire
+  city: "mwulire"
+  accentcity: "Mwulire"
 mwumba: 
-  city: mwumba
-  accentcity: Mwumba
+  city: "mwumba"
+  accentcity: "Mwumba"
 myariro: 
-  city: myariro
-  accentcity: Myariro
+  city: "myariro"
+  accentcity: "Myariro"
 ndaganzwa: 
-  city: ndaganzwa
-  accentcity: Ndaganzwa
+  city: "ndaganzwa"
+  accentcity: "Ndaganzwa"
 ndago: 
-  city: ndago
-  accentcity: Ndago
+  city: "ndago"
+  accentcity: "Ndago"
 ndera: 
-  city: ndera
-  accentcity: Ndera
+  city: "ndera"
+  accentcity: "Ndera"
 ndiza: 
-  city: ndiza
-  accentcity: Ndiza
+  city: "ndiza"
+  accentcity: "Ndiza"
 ndoma: 
-  city: ndoma
-  accentcity: Ndoma
+  city: "ndoma"
+  accentcity: "Ndoma"
 ndora: 
-  city: ndora
-  accentcity: Ndora
+  city: "ndora"
+  accentcity: "Ndora"
 ndusu: 
-  city: ndusu
-  accentcity: Ndusu
+  city: "ndusu"
+  accentcity: "Ndusu"
 neke: 
-  city: neke
-  accentcity: Neke
+  city: "neke"
+  accentcity: "Neke"
 nemba: 
-  city: nemba
-  accentcity: Nemba
+  city: "nemba"
+  accentcity: "Nemba"
 nengo: 
-  city: nengo
-  accentcity: Nengo
+  city: "nengo"
+  accentcity: "Nengo"
 ngando: 
-  city: ngando
-  accentcity: Ngando
+  city: "ngando"
+  accentcity: "Ngando"
 ngange: 
-  city: ngange
-  accentcity: Ngange
+  city: "ngange"
+  accentcity: "Ngange"
 nganzo: 
-  city: nganzo
-  accentcity: Nganzo
+  city: "nganzo"
+  accentcity: "Nganzo"
 ngarama: 
-  city: ngarama
-  accentcity: Ngarama
+  city: "ngarama"
+  accentcity: "Ngarama"
 ngenda: 
-  city: ngenda
-  accentcity: Ngenda
+  city: "ngenda"
+  accentcity: "Ngenda"
 ngeruka: 
-  city: ngeruka
-  accentcity: Ngeruka
+  city: "ngeruka"
+  accentcity: "Ngeruka"
 ngiryi: 
-  city: ngiryi
-  accentcity: Ngiryi
+  city: "ngiryi"
+  accentcity: "Ngiryi"
 ngoma: 
-  city: ngoma
-  accentcity: Ngoma
+  city: "ngoma"
+  accentcity: "Ngoma"
 nguba: 
-  city: nguba
-  accentcity: Nguba
+  city: "nguba"
+  accentcity: "Nguba"
 ngurugunzu: 
-  city: ngurugunzu
-  accentcity: Ngurugunzu
+  city: "ngurugunzu"
+  accentcity: "Ngurugunzu"
 ngyrgyi: 
-  city: ngyrgyi
-  accentcity: Ngyrgyi
+  city: "ngyrgyi"
+  accentcity: "Ngyrgyi"
 nkamba: 
-  city: nkamba
-  accentcity: Nkamba
+  city: "nkamba"
+  accentcity: "Nkamba"
 nkana: 
-  city: nkana
-  accentcity: Nkana
+  city: "nkana"
+  accentcity: "Nkana"
 nkanda: 
-  city: nkanda
-  accentcity: Nkanda
+  city: "nkanda"
+  accentcity: "Nkanda"
 nkanka: 
-  city: nkanka
-  accentcity: Nkanka
+  city: "nkanka"
+  accentcity: "Nkanka"
 nkuli: 
-  city: nkuli
-  accentcity: Nkuli
+  city: "nkuli"
+  accentcity: "Nkuli"
 nkumba: 
-  city: nkumba
-  accentcity: Nkumba
+  city: "nkumba"
+  accentcity: "Nkumba"
 nkunzuzu: 
-  city: nkunzuzu
-  accentcity: Nkunzuzu
+  city: "nkunzuzu"
+  accentcity: "Nkunzuzu"
 nkurubuye: 
-  city: nkurubuye
-  accentcity: Nkurubuye
+  city: "nkurubuye"
+  accentcity: "Nkurubuye"
 nomba: 
-  city: nomba
-  accentcity: Nomba
+  city: "nomba"
+  accentcity: "Nomba"
 nseka: 
-  city: nseka
-  accentcity: Nseka
+  city: "nseka"
+  accentcity: "Nseka"
 nshili: 
-  city: nshili
-  accentcity: Nshili
+  city: "nshili"
+  accentcity: "Nshili"
 ntarabana: 
-  city: ntarabana
-  accentcity: Ntarabana
+  city: "ntarabana"
+  accentcity: "Ntarabana"
 ntebe: 
-  city: ntebe
-  accentcity: Ntebe
+  city: "ntebe"
+  accentcity: "Ntebe"
 ntehe: 
-  city: ntehe
-  accentcity: Ntehe
+  city: "ntehe"
+  accentcity: "Ntehe"
 ntobwe: 
-  city: ntobwe
-  accentcity: Ntobwe
+  city: "ntobwe"
+  accentcity: "Ntobwe"
 ntogwe: 
-  city: ntogwe
-  accentcity: Ntogwe
+  city: "ntogwe"
+  accentcity: "Ntogwe"
 ntoma: 
-  city: ntoma
-  accentcity: Ntoma
+  city: "ntoma"
+  accentcity: "Ntoma"
 ntonde: 
-  city: ntonde
-  accentcity: Ntonde
+  city: "ntonde"
+  accentcity: "Ntonde"
 ntyazo: 
-  city: ntyazo
-  accentcity: Ntyazo
+  city: "ntyazo"
+  accentcity: "Ntyazo"
 nulambi: 
-  city: nulambi
-  accentcity: Nulambi
+  city: "nulambi"
+  accentcity: "Nulambi"
 nyabichwamba: 
-  city: nyabichwamba
-  accentcity: Nyabichwamba
+  city: "nyabichwamba"
+  accentcity: "Nyabichwamba"
 nyabihu: 
-  city: nyabihu
-  accentcity: Nyabihu
+  city: "nyabihu"
+  accentcity: "Nyabihu"
 nyabikenke: 
-  city: nyabikenke
-  accentcity: Nyabikenke
+  city: "nyabikenke"
+  accentcity: "Nyabikenke"
 nyabishambi: 
-  city: nyabishambi
-  accentcity: Nyabishambi
+  city: "nyabishambi"
+  accentcity: "Nyabishambi"
 nyabisindu: 
-  city: nyabisindu
-  accentcity: Nyabisindu
+  city: "nyabisindu"
+  accentcity: "Nyabisindu"
 nyabiteke: 
-  city: nyabiteke
-  accentcity: Nyabiteke
+  city: "nyabiteke"
+  accentcity: "Nyabiteke"
 nyabugando: 
-  city: nyabugando
-  accentcity: Nyabugando
+  city: "nyabugando"
+  accentcity: "Nyabugando"
 nyacyonga: 
-  city: nyacyonga
-  accentcity: Nyacyonga
+  city: "nyacyonga"
+  accentcity: "Nyacyonga"
 nyagahinika: 
-  city: nyagahinika
-  accentcity: Nyagahinika
+  city: "nyagahinika"
+  accentcity: "Nyagahinika"
 nyagahita: 
-  city: nyagahita
-  accentcity: Nyagahita
+  city: "nyagahita"
+  accentcity: "Nyagahita"
 nyagasozi: 
-  city: nyagasozi
-  accentcity: Nyagasozi
+  city: "nyagasozi"
+  accentcity: "Nyagasozi"
 nyagatare: 
-  city: nyagatare
-  accentcity: Nyagatare
+  city: "nyagatare"
+  accentcity: "Nyagatare"
 nyagatugunda: 
-  city: nyagatugunda
-  accentcity: Nyagatugunda
+  city: "nyagatugunda"
+  accentcity: "Nyagatugunda"
 nyagisozi: 
-  city: nyagisozi
-  accentcity: Nyagisozi
+  city: "nyagisozi"
+  accentcity: "Nyagisozi"
 nyagitabire: 
-  city: nyagitabire
-  accentcity: Nyagitabire
+  city: "nyagitabire"
+  accentcity: "Nyagitabire"
 nyakabanda: 
-  city: nyakabanda
-  accentcity: Nyakabanda
+  city: "nyakabanda"
+  accentcity: "Nyakabanda"
 nyakabongo: 
-  city: nyakabongo
-  accentcity: Nyakabongo
+  city: "nyakabongo"
+  accentcity: "Nyakabongo"
 nyakabumgo: 
-  city: nyakabumgo
-  accentcity: Nyakabumgo
+  city: "nyakabumgo"
+  accentcity: "Nyakabumgo"
 nyakabungo: 
-  city: nyakabungo
-  accentcity: Nyakabungo
+  city: "nyakabungo"
+  accentcity: "Nyakabungo"
 nyakabu: 
-  city: nyakabu
-  accentcity: Nyakabu
+  city: "nyakabu"
+  accentcity: "Nyakabu"
 nyakabuye: 
-  city: nyakabuye
-  accentcity: Nyakabuye
+  city: "nyakabuye"
+  accentcity: "Nyakabuye"
 nyakanyinya: 
-  city: nyakanyinya
-  accentcity: Nyakanyinya
+  city: "nyakanyinya"
+  accentcity: "Nyakanyinya"
 nyakayogera: 
-  city: nyakayogera
-  accentcity: Nyakayogera
+  city: "nyakayogera"
+  accentcity: "Nyakayogera"
 nyakesha: 
-  city: nyakesha
-  accentcity: Nyakesha
+  city: "nyakesha"
+  accentcity: "Nyakesha"
 nyakibanda: 
-  city: nyakibanda
-  accentcity: Nyakibanda
+  city: "nyakibanda"
+  accentcity: "Nyakibanda"
 nyakibande: 
-  city: nyakibande
-  accentcity: Nyakibande
+  city: "nyakibande"
+  accentcity: "Nyakibande"
 nyakinama: 
-  city: nyakinama
-  accentcity: Nyakinama
+  city: "nyakinama"
+  accentcity: "Nyakinama"
 nyakingandu: 
-  city: nyakingandu
-  accentcity: Nyakingandu
+  city: "nyakingandu"
+  accentcity: "Nyakingandu"
 nyakisosi: 
-  city: nyakisosi
-  accentcity: Nyakisosi
+  city: "nyakisosi"
+  accentcity: "Nyakisosi"
 nyakizu: 
-  city: nyakizu
-  accentcity: Nyakizu
+  city: "nyakizu"
+  accentcity: "Nyakizu"
 nyamabuye: 
-  city: nyamabuye
-  accentcity: Nyamabuye
+  city: "nyamabuye"
+  accentcity: "Nyamabuye"
 nyamagabe: 
-  city: nyamagabe
-  accentcity: Nyamagabe
+  city: "nyamagabe"
+  accentcity: "Nyamagabe"
 nyamagana: 
-  city: nyamagana
-  accentcity: Nyamagana
+  city: "nyamagana"
+  accentcity: "Nyamagana"
 nyamengo: 
-  city: nyamengo
-  accentcity: Nyamengo
+  city: "nyamengo"
+  accentcity: "Nyamengo"
 nyamigogo: 
-  city: nyamigogo
-  accentcity: Nyamigogo
+  city: "nyamigogo"
+  accentcity: "Nyamigogo"
 nyamikama: 
-  city: nyamikama
-  accentcity: Nyamikama
+  city: "nyamikama"
+  accentcity: "Nyamikama"
 nyamikamba: 
-  city: nyamikamba
-  accentcity: Nyamikamba
+  city: "nyamikamba"
+  accentcity: "Nyamikamba"
 nyamirembe: 
-  city: nyamirembe
-  accentcity: Nyamirembe
+  city: "nyamirembe"
+  accentcity: "Nyamirembe"
 nyamisangi: 
-  city: nyamisangi
-  accentcity: Nyamisangi
+  city: "nyamisangi"
+  accentcity: "Nyamisangi"
 nyamiyaga: 
-  city: nyamiyaga
-  accentcity: Nyamiyaga
+  city: "nyamiyaga"
+  accentcity: "Nyamiyaga"
 nyamugali: 
-  city: nyamugali
-  accentcity: Nyamugali
+  city: "nyamugali"
+  accentcity: "Nyamugali"
 nyamugari: 
-  city: nyamugari
-  accentcity: Nyamugari
+  city: "nyamugari"
+  accentcity: "Nyamugari"
 nyamutera: 
-  city: nyamutera
-  accentcity: Nyamutera
+  city: "nyamutera"
+  accentcity: "Nyamutera"
 nyamweru: 
-  city: nyamweru
-  accentcity: Nyamweru
+  city: "nyamweru"
+  accentcity: "Nyamweru"
 nyamyumba: 
-  city: nyamyumba
-  accentcity: Nyamyumba
+  city: "nyamyumba"
+  accentcity: "Nyamyumba"
 nyanda: 
-  city: nyanda
-  accentcity: Nyanda
+  city: "nyanda"
+  accentcity: "Nyanda"
 nyangara: 
-  city: nyangara
-  accentcity: Nyangara
+  city: "nyangara"
+  accentcity: "Nyangara"
 nyange: 
-  city: nyange
-  accentcity: Nyange
+  city: "nyange"
+  accentcity: "Nyange"
 nyankenke: 
-  city: nyankenke
-  accentcity: Nyankenke
+  city: "nyankenke"
+  accentcity: "Nyankenke"
 nyantomvu: 
-  city: nyantomvu
-  accentcity: Nyantomvu
+  city: "nyantomvu"
+  accentcity: "Nyantomvu"
 nyanza: 
-  city: nyanza
-  accentcity: Nyanza
+  city: "nyanza"
+  accentcity: "Nyanza"
 nyarubungu: 
-  city: nyarubungu
-  accentcity: Nyarubungu
+  city: "nyarubungu"
+  accentcity: "Nyarubungu"
 nyarubuye: 
-  city: nyarubuye
-  accentcity: Nyarubuye
+  city: "nyarubuye"
+  accentcity: "Nyarubuye"
 nyarugali: 
-  city: nyarugali
-  accentcity: Nyarugali
+  city: "nyarugali"
+  accentcity: "Nyarugali"
 nyarugenge: 
-  city: nyarugenge
-  accentcity: Nyarugenge
+  city: "nyarugenge"
+  accentcity: "Nyarugenge"
 nyarugina: 
-  city: nyarugina
-  accentcity: Nyarugina
+  city: "nyarugina"
+  accentcity: "Nyarugina"
 nyarugumba: 
-  city: nyarugumba
-  accentcity: Nyarugumba
+  city: "nyarugumba"
+  accentcity: "Nyarugumba"
 nyaruhengeli: 
-  city: nyaruhengeli
-  accentcity: Nyaruhengeli
+  city: "nyaruhengeli"
+  accentcity: "Nyaruhengeli"
 nyarukengeri: 
-  city: nyarukengeri
-  accentcity: Nyarukengeri
+  city: "nyarukengeri"
+  accentcity: "Nyarukengeri"
 nyarungu: 
-  city: nyarungu
-  accentcity: Nyarungu
+  city: "nyarungu"
+  accentcity: "Nyarungu"
 nyarurama: 
-  city: nyarurama
-  accentcity: Nyarurama
+  city: "nyarurama"
+  accentcity: "Nyarurama"
 nyarushishi: 
-  city: nyarushishi
-  accentcity: Nyarushishi
+  city: "nyarushishi"
+  accentcity: "Nyarushishi"
 nyarutembe: 
-  city: nyarutembe
-  accentcity: Nyarutembe
+  city: "nyarutembe"
+  accentcity: "Nyarutembe"
 nyaruteme: 
-  city: nyaruteme
-  accentcity: Nyaruteme
+  city: "nyaruteme"
+  accentcity: "Nyaruteme"
 nyarutovu: 
-  city: nyarutovu
-  accentcity: Nyarutovu
+  city: "nyarutovu"
+  accentcity: "Nyarutovu"
 nyarutsi: 
-  city: nyarutsi
-  accentcity: Nyarutsi
+  city: "nyarutsi"
+  accentcity: "Nyarutsi"
 nyaruvumu: 
-  city: nyaruvumu
-  accentcity: Nyaruvumu
+  city: "nyaruvumu"
+  accentcity: "Nyaruvumu"
 nyaruwanga: 
-  city: nyaruwanga
-  accentcity: Nyaruwanga
+  city: "nyaruwanga"
+  accentcity: "Nyaruwanga"
 nyenje: 
-  city: nyenje
-  accentcity: Nyenje
+  city: "nyenje"
+  accentcity: "Nyenje"
 nyondo: 
-  city: nyondo
-  accentcity: Nyondo
+  city: "nyondo"
+  accentcity: "Nyondo"
 nyonilima: 
-  city: nyonilima
-  accentcity: Nyonilima
+  city: "nyonilima"
+  accentcity: "Nyonilima"
 nyundo: 
-  city: nyundo
-  accentcity: Nyundo
+  city: "nyundo"
+  accentcity: "Nyundo"
 nyunzwe: 
-  city: nyunzwe
-  accentcity: Nyunzwe
+  city: "nyunzwe"
+  accentcity: "Nyunzwe"
 nzahaha: 
-  city: nzahaha
-  accentcity: Nzahaha
+  city: "nzahaha"
+  accentcity: "Nzahaha"
 nzangwa: 
-  city: nzangwa
-  accentcity: Nzangwa
+  city: "nzangwa"
+  accentcity: "Nzangwa"
 nzega: 
-  city: nzega
-  accentcity: Nzega
+  city: "nzega"
+  accentcity: "Nzega"
 plateau kipuye: 
-  city: plateau kipuye
-  accentcity: Plateau Kipuye
+  city: "plateau kipuye"
+  accentcity: "Plateau Kipuye"
 ramba: 
-  city: ramba
-  accentcity: Ramba
+  city: "ramba"
+  accentcity: "Ramba"
 rango: 
-  city: rango
-  accentcity: Rango
+  city: "rango"
+  accentcity: "Rango"
 rekisugi: 
-  city: rekisugi
-  accentcity: Rekisugi
+  city: "rekisugi"
+  accentcity: "Rekisugi"
 remera: 
-  city: remera
-  accentcity: Remera
+  city: "remera"
+  accentcity: "Remera"
 rimwe: 
-  city: rimwe
-  accentcity: Rimwe
+  city: "rimwe"
+  accentcity: "Rimwe"
 rongi: 
-  city: rongi
-  accentcity: Rongi
+  city: "rongi"
+  accentcity: "Rongi"
 rubaka: 
-  city: rubaka
-  accentcity: Rubaka
+  city: "rubaka"
+  accentcity: "Rubaka"
 rubavu: 
-  city: rubavu
-  accentcity: Rubavu
+  city: "rubavu"
+  accentcity: "Rubavu"
 rubaya: 
-  city: rubaya
-  accentcity: Rubaya
+  city: "rubaya"
+  accentcity: "Rubaya"
 rubeja: 
-  city: rubeja
-  accentcity: Rubeja
+  city: "rubeja"
+  accentcity: "Rubeja"
 rubona: 
-  city: rubona
-  accentcity: Rubona
+  city: "rubona"
+  accentcity: "Rubona"
 rubungo: 
-  city: rubungo
-  accentcity: Rubungo
+  city: "rubungo"
+  accentcity: "Rubungo"
 rubungu: 
-  city: rubungu
-  accentcity: Rubungu
+  city: "rubungu"
+  accentcity: "Rubungu"
 rudaga: 
-  city: rudaga
-  accentcity: Rudaga
+  city: "rudaga"
+  accentcity: "Rudaga"
 rugamba: 
-  city: rugamba
-  accentcity: Rugamba
+  city: "rugamba"
+  accentcity: "Rugamba"
 ruganda: 
-  city: ruganda
-  accentcity: Ruganda
+  city: "ruganda"
+  accentcity: "Ruganda"
 rugaragara: 
-  city: rugaragara
-  accentcity: Rugaragara
+  city: "rugaragara"
+  accentcity: "Rugaragara"
 rugarama: 
-  city: rugarama
-  accentcity: Rugarama
+  city: "rugarama"
+  accentcity: "Rugarama"
 rugari: 
-  city: rugari
-  accentcity: Rugari
+  city: "rugari"
+  accentcity: "Rugari"
 rugendabari: 
-  city: rugendabari
-  accentcity: Rugendabari
+  city: "rugendabari"
+  accentcity: "Rugendabari"
 rugende: 
-  city: rugende
-  accentcity: Rugende
+  city: "rugende"
+  accentcity: "Rugende"
 rugendo: 
-  city: rugendo
-  accentcity: Rugendo
+  city: "rugendo"
+  accentcity: "Rugendo"
 rugenge: 
-  city: rugenge
-  accentcity: Rugenge
+  city: "rugenge"
+  accentcity: "Rugenge"
 rugera: 
-  city: rugera
-  accentcity: Rugera
+  city: "rugera"
+  accentcity: "Rugera"
 rugerero: 
-  city: rugerero
-  accentcity: Rugerero
+  city: "rugerero"
+  accentcity: "Rugerero"
 rugobagoba: 
-  city: rugobagoba
-  accentcity: Rugobagoba
+  city: "rugobagoba"
+  accentcity: "Rugobagoba"
 rugogwe: 
-  city: rugogwe
-  accentcity: Rugogwe
+  city: "rugogwe"
+  accentcity: "Rugogwe"
 rugoti: 
-  city: rugoti
-  accentcity: Rugoti
+  city: "rugoti"
+  accentcity: "Rugoti"
 ruhanga: 
-  city: ruhanga
-  accentcity: Ruhanga
+  city: "ruhanga"
+  accentcity: "Ruhanga"
 ruhanya: 
-  city: ruhanya
-  accentcity: Ruhanya
+  city: "ruhanya"
+  accentcity: "Ruhanya"
 ruharabuge: 
-  city: ruharabuge
-  accentcity: Ruharabuge
+  city: "ruharabuge"
+  accentcity: "Ruharabuge"
 ruhara: 
-  city: ruhara
-  accentcity: Ruhara
+  city: "ruhara"
+  accentcity: "Ruhara"
 ruhashya: 
-  city: ruhashya
-  accentcity: Ruhashya
+  city: "ruhashya"
+  accentcity: "Ruhashya"
 ruhengeri: 
-  city: ruhengeri
-  accentcity: Ruhengeri
+  city: "ruhengeri"
+  accentcity: "Ruhengeri"
 ruhinga: 
-  city: ruhinga
-  accentcity: Ruhinga
+  city: "ruhinga"
+  accentcity: "Ruhinga"
 ruhoko: 
-  city: ruhoko
-  accentcity: Ruhoko
+  city: "ruhoko"
+  accentcity: "Ruhoko"
 ruhondo: 
-  city: ruhondo
-  accentcity: Ruhondo
+  city: "ruhondo"
+  accentcity: "Ruhondo"
 ruhurura: 
-  city: ruhurura
-  accentcity: Ruhurura
+  city: "ruhurura"
+  accentcity: "Ruhurura"
 ruinihingo: 
-  city: ruinihingo
-  accentcity: Ruinihingo
+  city: "ruinihingo"
+  accentcity: "Ruinihingo"
 rukara: 
-  city: rukara
-  accentcity: Rukara
+  city: "rukara"
+  accentcity: "Rukara"
 rukira: 
-  city: rukira
-  accentcity: Rukira
+  city: "rukira"
+  accentcity: "Rukira"
 rukoko: 
-  city: rukoko
-  accentcity: Rukoko
+  city: "rukoko"
+  accentcity: "Rukoko"
 rukoma: 
-  city: rukoma
-  accentcity: Rukoma
+  city: "rukoma"
+  accentcity: "Rukoma"
 rukomo: 
-  city: rukomo
-  accentcity: Rukomo
+  city: "rukomo"
+  accentcity: "Rukomo"
 rukona: 
-  city: rukona
-  accentcity: Rukona
+  city: "rukona"
+  accentcity: "Rukona"
 rukondo: 
-  city: rukondo
-  accentcity: Rukondo
+  city: "rukondo"
+  accentcity: "Rukondo"
 rukoro: 
-  city: rukoro
-  accentcity: Rukoro
+  city: "rukoro"
+  accentcity: "Rukoro"
 rukura: 
-  city: rukura
-  accentcity: Rukura
+  city: "rukura"
+  accentcity: "Rukura"
 runda: 
-  city: runda
-  accentcity: Runda
+  city: "runda"
+  accentcity: "Runda"
 runyanga: 
-  city: runyanga
-  accentcity: Runyanga
+  city: "runyanga"
+  accentcity: "Runyanga"
 runyinya: 
-  city: runyinya
-  accentcity: Runyinya
+  city: "runyinya"
+  accentcity: "Runyinya"
 rurama: 
-  city: rurama
-  accentcity: Rurama
+  city: "rurama"
+  accentcity: "Rurama"
 rusasa: 
-  city: rusasa
-  accentcity: Rusasa
+  city: "rusasa"
+  accentcity: "Rusasa"
 rusatira: 
-  city: rusatira
-  accentcity: Rusatira
+  city: "rusatira"
+  accentcity: "Rusatira"
 rusayo: 
-  city: rusayo
-  accentcity: Rusayo
+  city: "rusayo"
+  accentcity: "Rusayo"
 rusebeya: 
-  city: rusebeya
-  accentcity: Rusebeya
+  city: "rusebeya"
+  accentcity: "Rusebeya"
 rusekera: 
-  city: rusekera
-  accentcity: Rusekera
+  city: "rusekera"
+  accentcity: "Rusekera"
 rushari: 
-  city: rushari
-  accentcity: Rushari
+  city: "rushari"
+  accentcity: "Rushari"
 rushashi: 
-  city: rushashi
-  accentcity: Rushashi
+  city: "rushashi"
+  accentcity: "Rushashi"
 rushebeya: 
-  city: rushebeya
-  accentcity: Rushebeya
+  city: "rushebeya"
+  accentcity: "Rushebeya"
 rusiga: 
-  city: rusiga
-  accentcity: Rusiga
+  city: "rusiga"
+  accentcity: "Rusiga"
 rusingi: 
-  city: rusingi
-  accentcity: Rusingi
+  city: "rusingi"
+  accentcity: "Rusingi"
 rusororo: 
-  city: rusororo
-  accentcity: Rusororo
+  city: "rusororo"
+  accentcity: "Rusororo"
 rusoro: 
-  city: rusoro
-  accentcity: Rusoro
+  city: "rusoro"
+  accentcity: "Rusoro"
 rusumo: 
-  city: rusumo
-  accentcity: Rusumo
+  city: "rusumo"
+  accentcity: "Rusumo"
 rususa: 
-  city: rususa
-  accentcity: Rususa
+  city: "rususa"
+  accentcity: "Rususa"
 rutamba: 
-  city: rutamba
-  accentcity: Rutamba
+  city: "rutamba"
+  accentcity: "Rutamba"
 rutare: 
-  city: rutare
-  accentcity: Rutare
+  city: "rutare"
+  accentcity: "Rutare"
 rutarure: 
-  city: rutarure
-  accentcity: Rutarure
+  city: "rutarure"
+  accentcity: "Rutarure"
 rutobwe: 
-  city: rutobwe
-  accentcity: Rutobwe
+  city: "rutobwe"
+  accentcity: "Rutobwe"
 rutogbe: 
-  city: rutogbe
-  accentcity: Rutogbe
+  city: "rutogbe"
+  accentcity: "Rutogbe"
 rutoma: 
-  city: rutoma
-  accentcity: Rutoma
+  city: "rutoma"
+  accentcity: "Rutoma"
 rutonde: 
-  city: rutonde
-  accentcity: Rutonde
+  city: "rutonde"
+  accentcity: "Rutonde"
 rutondwe: 
-  city: rutondwe
-  accentcity: Rutondwe
+  city: "rutondwe"
+  accentcity: "Rutondwe"
 rutongo: 
-  city: rutongo
-  accentcity: Rutongo
+  city: "rutongo"
+  accentcity: "Rutongo"
 rutsiro: 
-  city: rutsiro
-  accentcity: Rutsiro
+  city: "rutsiro"
+  accentcity: "Rutsiro"
 ruwiri: 
-  city: ruwiri
-  accentcity: Ruwiri
+  city: "ruwiri"
+  accentcity: "Ruwiri"
 ruyange: 
-  city: ruyange
-  accentcity: Ruyange
+  city: "ruyange"
+  accentcity: "Ruyange"
 ruyaraka: 
-  city: ruyaraka
-  accentcity: Ruyaraka
+  city: "ruyaraka"
+  accentcity: "Ruyaraka"
 ruyenzi: 
-  city: ruyenzi
-  accentcity: Ruyenzi
+  city: "ruyenzi"
+  accentcity: "Ruyenzi"
 ruyonga: 
-  city: ruyonga
-  accentcity: Ruyonga
+  city: "ruyonga"
+  accentcity: "Ruyonga"
 rwabicuma: 
-  city: rwabicuma
-  accentcity: Rwabicuma
+  city: "rwabicuma"
+  accentcity: "Rwabicuma"
 rwabidege: 
-  city: rwabidege
-  accentcity: Rwabidege
+  city: "rwabidege"
+  accentcity: "Rwabidege"
 rwahi: 
-  city: rwahi
-  accentcity: Rwahi
+  city: "rwahi"
+  accentcity: "Rwahi"
 rwakirari: 
-  city: rwakirari
-  accentcity: Rwakirari
+  city: "rwakirari"
+  accentcity: "Rwakirari"
 rwamagana: 
-  city: rwamagana
-  accentcity: Rwamagana
+  city: "rwamagana"
+  accentcity: "Rwamagana"
 rwamatamu: 
-  city: rwamatamu
-  accentcity: Rwamatamu
+  city: "rwamatamu"
+  accentcity: "Rwamatamu"
 rwamiko: 
-  city: rwamiko
-  accentcity: Rwamiko
+  city: "rwamiko"
+  accentcity: "Rwamiko"
 rwangara: 
-  city: rwangara
-  accentcity: Rwangara
+  city: "rwangara"
+  accentcity: "Rwangara"
 rwani: 
-  city: rwani
-  accentcity: Rwani
+  city: "rwani"
+  accentcity: "Rwani"
 rwankeri: 
-  city: rwankeri
-  accentcity: Rwankeri
+  city: "rwankeri"
+  accentcity: "Rwankeri"
 rwankomo: 
-  city: rwankomo
-  accentcity: Rwankomo
+  city: "rwankomo"
+  accentcity: "Rwankomo"
 rwankuba: 
-  city: rwankuba
-  accentcity: Rwankuba
+  city: "rwankuba"
+  accentcity: "Rwankuba"
 rwanya: 
-  city: rwanya
-  accentcity: Rwanya
+  city: "rwanya"
+  accentcity: "Rwanya"
 rwarenga: 
-  city: rwarenga
-  accentcity: Rwarenga
+  city: "rwarenga"
+  accentcity: "Rwarenga"
 rwasama: 
-  city: rwasama
-  accentcity: Rwasama
+  city: "rwasama"
+  accentcity: "Rwasama"
 rwaza: 
-  city: rwaza
-  accentcity: Rwaza
+  city: "rwaza"
+  accentcity: "Rwaza"
 rwegenya: 
-  city: rwegenya
-  accentcity: Rwegenya
+  city: "rwegenya"
+  accentcity: "Rwegenya"
 rwempasha: 
-  city: rwempasha
-  accentcity: Rwempasha
+  city: "rwempasha"
+  accentcity: "Rwempasha"
 rwenjara: 
-  city: rwenjara
-  accentcity: Rwenjara
+  city: "rwenjara"
+  accentcity: "Rwenjara"
 rwerere: 
-  city: rwerere
-  accentcity: Rwerere
+  city: "rwerere"
+  accentcity: "Rwerere"
 rwesero: 
-  city: rwesero
-  accentcity: Rwesero
+  city: "rwesero"
+  accentcity: "Rwesero"
 rwimbogo: 
-  city: rwimbogo
-  accentcity: Rwimbogo
+  city: "rwimbogo"
+  accentcity: "Rwimbogo"
 rwimitereri: 
-  city: rwimitereri
-  accentcity: Rwimitereri
+  city: "rwimitereri"
+  accentcity: "Rwimitereri"
 rwinkuba: 
-  city: rwinkuba
-  accentcity: Rwinkuba
+  city: "rwinkuba"
+  accentcity: "Rwinkuba"
 rwinkwavu: 
-  city: rwinkwavu
-  accentcity: Rwinkwavu
+  city: "rwinkwavu"
+  accentcity: "Rwinkwavu"
 rwoga: 
-  city: rwoga
-  accentcity: Rwoga
+  city: "rwoga"
+  accentcity: "Rwoga"
 rwumba: 
-  city: rwumba
-  accentcity: Rwumba
+  city: "rwumba"
+  accentcity: "Rwumba"
 ryandinzi: 
-  city: ryandinzi
-  accentcity: Ryandinzi
+  city: "ryandinzi"
+  accentcity: "Ryandinzi"
 saga: 
-  city: saga
-  accentcity: Saga
+  city: "saga"
+  accentcity: "Saga"
 sake: 
-  city: sake
-  accentcity: Sake
+  city: "sake"
+  accentcity: "Sake"
 sanga: 
-  city: sanga
-  accentcity: Sanga
+  city: "sanga"
+  accentcity: "Sanga"
 satinsyi: 
-  city: satinsyi
-  accentcity: Satinsyi
+  city: "satinsyi"
+  accentcity: "Satinsyi"
 sayo: 
-  city: sayo
-  accentcity: Sayo
+  city: "sayo"
+  accentcity: "Sayo"
 shahara: 
-  city: shahara
-  accentcity: Shahara
+  city: "shahara"
+  accentcity: "Shahara"
 shangasha: 
-  city: shangasha
-  accentcity: Shangasha
+  city: "shangasha"
+  accentcity: "Shangasha"
 shango: 
-  city: shango
-  accentcity: Shango
+  city: "shango"
+  accentcity: "Shango"
 shangugu: 
-  city: shangugu
-  accentcity: Shangugu
+  city: "shangugu"
+  accentcity: "Shangugu"
 shara: 
-  city: shara
-  accentcity: Shara
+  city: "shara"
+  accentcity: "Shara"
 sha: 
-  city: sha
-  accentcity: Sha
+  city: "sha"
+  accentcity: "Sha"
 sheke: 
-  city: sheke
-  accentcity: Sheke
+  city: "sheke"
+  accentcity: "Sheke"
 shenga: 
-  city: shenga
-  accentcity: Shenga
+  city: "shenga"
+  accentcity: "Shenga"
 sholi: 
-  city: sholi
-  accentcity: Sholi
+  city: "sholi"
+  accentcity: "Sholi"
 shololo: 
-  city: shololo
-  accentcity: Shololo
+  city: "shololo"
+  accentcity: "Shololo"
 shonga: 
-  city: shonga
-  accentcity: Shonga
+  city: "shonga"
+  accentcity: "Shonga"
 shori: 
-  city: shori
-  accentcity: Shori
+  city: "shori"
+  accentcity: "Shori"
 shuti: 
-  city: shuti
-  accentcity: Shuti
+  city: "shuti"
+  accentcity: "Shuti"
 shyanda: 
-  city: shyanda
-  accentcity: Shyanda
+  city: "shyanda"
+  accentcity: "Shyanda"
 shyogi: 
-  city: shyogi
-  accentcity: Shyogi
+  city: "shyogi"
+  accentcity: "Shyogi"
 shyorongi: 
-  city: shyorongi
-  accentcity: Shyorongi
+  city: "shyorongi"
+  accentcity: "Shyorongi"
 songa: 
-  city: songa
-  accentcity: Songa
+  city: "songa"
+  accentcity: "Songa"
 syogi: 
-  city: syogi
-  accentcity: Syogi
+  city: "syogi"
+  accentcity: "Syogi"
 tabagwe: 
-  city: tabagwe
-  accentcity: Tabagwe
+  city: "tabagwe"
+  accentcity: "Tabagwe"
 taba: 
-  city: taba
-  accentcity: Taba
+  city: "taba"
+  accentcity: "Taba"
 tambwe: 
-  city: tambwe
-  accentcity: Tambwe
+  city: "tambwe"
+  accentcity: "Tambwe"
 tandalukara: 
-  city: tandalukara
-  accentcity: Tandalukara
+  city: "tandalukara"
+  accentcity: "Tandalukara"
 tanda: 
-  city: tanda
-  accentcity: Tanda
+  city: "tanda"
+  accentcity: "Tanda"
 tare: 
-  city: tare
-  accentcity: Tare
+  city: "tare"
+  accentcity: "Tare"
 tovu: 
-  city: tovu
-  accentcity: Tovu
+  city: "tovu"
+  accentcity: "Tovu"
 tshanzozo: 
-  city: tshanzozo
-  accentcity: Tshanzozo
+  city: "tshanzozo"
+  accentcity: "Tshanzozo"
 tshato: 
-  city: tshato
-  accentcity: Tshato
+  city: "tshato"
+  accentcity: "Tshato"
 tsheya: 
-  city: tsheya
-  accentcity: Tsheya
+  city: "tsheya"
+  accentcity: "Tsheya"
 tshyondo: 
-  city: tshyondo
-  accentcity: Tshyondo
+  city: "tshyondo"
+  accentcity: "Tshyondo"
 tshyugaro: 
-  city: tshyugaro
-  accentcity: Tshyugaro
+  city: "tshyugaro"
+  accentcity: "Tshyugaro"
 tumba: 
-  city: tumba
-  accentcity: Tumba
+  city: "tumba"
+  accentcity: "Tumba"
 umufu: 
-  city: umufu
-  accentcity: Umufu
+  city: "umufu"
+  accentcity: "Umufu"
 umwige: 
-  city: umwige
-  accentcity: Umwige
+  city: "umwige"
+  accentcity: "Umwige"
 winteko: 
-  city: winteko
-  accentcity: Winteko
+  city: "winteko"
+  accentcity: "Winteko"
 yenda: 
-  city: yenda
-  accentcity: Yenda
+  city: "yenda"
+  accentcity: "Yenda"
 yonde: 
-  city: yonde
-  accentcity: Yonde
+  city: "yonde"
+  accentcity: "Yonde"
 zivu: 
-  city: zivu
-  accentcity: Zivu
+  city: "zivu"
+  accentcity: "Zivu"

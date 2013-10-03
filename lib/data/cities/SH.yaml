@@ -1,50 +1,50 @@
 # encoding: UTF-8
 --- 
 deadwood: 
-  city: deadwood
-  accentcity: Deadwood
+  city: "deadwood"
+  accentcity: "Deadwood"
 edinburgh: 
-  city: edinburgh
-  accentcity: Edinburgh
+  city: "edinburgh"
+  accentcity: "Edinburgh"
 georgetown: 
-  city: georgetown
-  accentcity: Georgetown
+  city: "georgetown"
+  accentcity: "Georgetown"
 half tree hollow: 
-  city: half tree hollow
-  accentcity: Half Tree Hollow
+  city: "half tree hollow"
+  accentcity: "Half Tree Hollow"
 hutts gate: 
-  city: hutts gate
-  accentcity: Hutts Gate
+  city: "hutts gate"
+  accentcity: "Hutts Gate"
 jamestown: 
-  city: jamestown
-  accentcity: Jamestown
+  city: "jamestown"
+  accentcity: "Jamestown"
 levelwood: 
-  city: levelwood
-  accentcity: Levelwood
+  city: "levelwood"
+  accentcity: "Levelwood"
 longwood: 
-  city: longwood
-  accentcity: Longwood
+  city: "longwood"
+  accentcity: "Longwood"
 new ground: 
-  city: new ground
-  accentcity: New Ground
+  city: "new ground"
+  accentcity: "New Ground"
 settlement of edinburgh: 
-  city: settlement of edinburgh
-  accentcity: Settlement of Edinburgh
+  city: "settlement of edinburgh"
+  accentcity: "Settlement of Edinburgh"
 taglate: 
-  city: taglate
-  accentcity: Taglate
+  city: "taglate"
+  accentcity: "Taglate"
 thornton: 
-  city: thornton
-  accentcity: Thornton
+  city: "thornton"
+  accentcity: "Thornton"
 tristan island settlement: 
-  city: tristan island settlement
-  accentcity: Tristan Island Settlement
+  city: "tristan island settlement"
+  accentcity: "Tristan Island Settlement"
 tristan settlement: 
-  city: tristan settlement
-  accentcity: Tristan Settlement
+  city: "tristan settlement"
+  accentcity: "Tristan Settlement"
 two boats village: 
-  city: two boats village
-  accentcity: Two Boats Village
+  city: "two boats village"
+  accentcity: "Two Boats Village"
 wild cattle pound: 
-  city: wild cattle pound
-  accentcity: Wild Cattle Pound
+  city: "wild cattle pound"
+  accentcity: "Wild Cattle Pound"

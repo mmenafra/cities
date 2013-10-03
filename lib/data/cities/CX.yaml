@@ -1,20 +1,20 @@
 # encoding: UTF-8
 --- 
 drumsite: 
-  city: drumsite
-  accentcity: Drumsite
+  city: "drumsite"
+  accentcity: "Drumsite"
 flying fish cove: 
-  city: flying fish cove
-  accentcity: Flying Fish Cove
+  city: "flying fish cove"
+  accentcity: "Flying Fish Cove"
 settlement: 
-  city: settlement
-  accentcity: Settlement
+  city: "settlement"
+  accentcity: "Settlement"
 south point: 
-  city: south point
-  accentcity: South Point
+  city: "south point"
+  accentcity: "South Point"
 the settlement: 
-  city: the settlement
-  accentcity: The Settlement
+  city: "the settlement"
+  accentcity: "The Settlement"
 waterfall: 
-  city: waterfall
-  accentcity: Waterfall
+  city: "waterfall"
+  accentcity: "Waterfall"

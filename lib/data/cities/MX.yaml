@@ -1,353 +1,353 @@
 # encoding: UTF-8
 --- 
 Mexico City:
-  city: Mexico city
-  accentcity: Mexico City
+  city: "Mexico city"
+  accentcity: "Mexico City"
 Ecatepec:
-  city: Ecatepec
-  accentcity: Ecatepec
+  city: "Ecatepec"
+  accentcity: "Ecatepec"
 Guadalajara:
-  city: Guadalajara
-  accentcity: Guadalajara
+  city: "Guadalajara"
+  accentcity: "Guadalajara"
 Puebla:
-  city: Puebla
-  accentcity: Puebla
+  city: "Puebla"
+  accentcity: "Puebla"
 León:
-  city: León
-  accentcity: León
+  city: "León"
+  accentcity: "León"
 Juárez:
-  city: Juárez
-  accentcity: Juárez
+  city: "Juárez"
+  accentcity: "Juárez"
 Tijuana:
-  city: Tijuana
-  accentcity: Tijuana
+  city: "Tijuana"
+  accentcity: "Tijuana"
 Zapopan:
-  city: Zapopan
-  accentcity: Zapopan
+  city: "Zapopan"
+  accentcity: "Zapopan"
 Monterrey:
-  city: Monterrey
-  accentcity: Monterrey
+  city: "Monterrey"
+  accentcity: "Monterrey"
 Nezahualcóyotl:
-  city: Nezahualcóyotl
-  accentcity: Nezahualcóyotl
+  city: "Nezahualcóyotl"
+  accentcity: "Nezahualcóyotl"
 Chihuahua:
-  city: Chihuahua
-  accentcity: Chihuahua
+  city: "Chihuahua"
+  accentcity: "Chihuahua"
 Naucalpan:
-  city: Naucalpan
-  accentcity: Naucalpan
+  city: "Naucalpan"
+  accentcity: "Naucalpan"
 Mérida:
-  city: Mérida
-  accentcity: Mérida
+  city: "Mérida"
+  accentcity: "Mérida"
 San Luis Potosí:
-  city: San Luis Potosí
-  accentcity: San Luis Potosí
+  city: "San Luis Potosí"
+  accentcity: "San Luis Potosí"
 Aguascalientes:
-  city: Aguascalientes
-  accentcity: Aguascalientes
+  city: "Aguascalientes"
+  accentcity: "Aguascalientes"
 Hermosillo:
-  city: Hermosillo
-  accentcity: Hermosillo
+  city: "Hermosillo"
+  accentcity: "Hermosillo"
 Saltillo:
-  city: Saltillo
-  accentcity: Saltillo
+  city: "Saltillo"
+  accentcity: "Saltillo"
 Mexicali:
-  city: Mexicali
-  accentcity: Mexicali
+  city: "Mexicali"
+  accentcity: "Mexicali"
 Culiacán:
-  city: Culiacán
-  accentcity: Culiacán
+  city: "Culiacán"
+  accentcity: "Culiacán"
 Guadalupe:
-  city: Guadalupe
-  accentcity: Guadalupe
+  city: "Guadalupe"
+  accentcity: "Guadalupe"
 Acapulco:
-  city: Acapulco
-  accentcity: Acapulco
+  city: "Acapulco"
+  accentcity: "Acapulco"
 Tlalnepantla:
-  city: Tlalnepantla
-  accentcity: Tlalnepantla
+  city: "Tlalnepantla"
+  accentcity: "Tlalnepantla"
 Cancún:
-  city: Cancún
-  accentcity: Cancún
+  city: "Cancún"
+  accentcity: "Cancún"
 Querétaro:
-  city: Querétaro
-  accentcity: Querétaro
+  city: "Querétaro"
+  accentcity: "Querétaro"
 Chimalhuacán:
-  city: Chimalhuacán
-  accentcity: Chimalhuacán
+  city: "Chimalhuacán"
+  accentcity: "Chimalhuacán"
 Torreón:
-  city: Torreón
-  accentcity: Torreón
+  city: "Torreón"
+  accentcity: "Torreón"
 Morelia:
-  city: Morelia
-  accentcity: Morelia
+  city: "Morelia"
+  accentcity: "Morelia"
 Reynosa:
-  city: Reynosa
-  accentcity: Reynosa
+  city: "Reynosa"
+  accentcity: "Reynosa"
 Tlaquepaque:
-  city: Tlaquepaque
-  accentcity: Tlaquepaque
+  city: "Tlaquepaque"
+  accentcity: "Tlaquepaque"
 Tuxtla Gutiérrez:
-  city: Tuxtla Gutiérrez
-  accentcity: Tuxtla Gutiérrez
+  city: "Tuxtla Gutiérrez"
+  accentcity: "Tuxtla Gutiérrez"
 Durango:
-  city: Durango
-  accentcity: Durango
+  city: "Durango"
+  accentcity: "Durango"
 Toluca:
-  city: Toluca
-  accentcity: Toluca
+  city: "Toluca"
+  accentcity: "Toluca"
 Ciudad López Mateos:
-  city: 
-  accentcity: 
+  city: "
+  accentcity: "
 Cuautitlán Izcalli:
-  city: Cuautitlán Izcalli
-  accentcity: Cuautitlán Izcalli
+  city: "Cuautitlán Izcalli"
+  accentcity: "Cuautitlán Izcalli"
 Ciudad Apodaca:
-  city: Ciudad Apodaca
-  accentcity: Ciudad Apodaca 
+  city: "Ciudad Apodaca"
+  accentcity: "Ciudad Apodaca "
 Matamoros:
-  city: Matamoros
-  accentcity: Matamoros
+  city: "Matamoros"
+  accentcity: "Matamoros"
 San Nicolás de los Garza:
-  city: San Nicolás de los Garza
-  accentcity: San Nicolás de los Garza
+  city: "San Nicolás de los Garza"
+  accentcity: "San Nicolás de los Garza"
 Veracruz:
-  city: Veracruz
-  accentcity: Veracruz
+  city: "Veracruz"
+  accentcity: "Veracruz"
 Xalapa:
-  city: Xalapa
-  accentcity: Xalapa
+  city: "Xalapa"
+  accentcity: "Xalapa"
 Tonalá:
-  city: Tonalá
-  accentcity: Tonalá
+  city: "Tonalá"
+  accentcity: "Tonalá"
 Mazatlán:
-  city: Mazatlán
-  accentcity: Mazatlán
+  city: "Mazatlán"
+  accentcity: "Mazatlán"
 Irapuato:
-  city: Irapuato
-  accentcity: Irapuato
+  city: "Irapuato"
+  accentcity: "Irapuato"
 Nuevo Laredo:
-  city: Nuevo Laredo
-  accentcity: Nuevo Laredo
+  city: "Nuevo Laredo"
+  accentcity: "Nuevo Laredo"
 Xico:
-  city: Xico
-  accentcity: Xico
+  city: "Xico"
+  accentcity: "Xico"
 Villahermosa:
-  city: Villahermosa
-  accentcity: Villahermosa
+  city: "Villahermosa"
+  accentcity: "Villahermosa"
 General Escobedo:
-  city: General Escobedo
-  accentcity: General Escobedo
+  city: "General Escobedo"
+  accentcity: "General Escobedo"
 Celaya:
-  city: Celaya
-  accentcity: Celaya
+  city: "Celaya"
+  accentcity: "Celaya"
 Cuernavaca:
-  city: Cuernavaca
-  accentcity: Cuernavaca
+  city: "Cuernavaca"
+  accentcity: "Cuernavaca"
 Tepic:
-  city: Tepic
-  accentcity: Tepic
+  city: "Tepic"
+  accentcity: "Tepic"
 Ixtapaluca:
-  city: Ixtapaluca
-  accentcity: Ixtapaluca 
+  city: "Ixtapaluca"
+  accentcity: "Ixtapaluca "
 Ciudad Victoria:
-  city: Ciudad Victoria
-  accentcity: Ciudad Victoria
+  city: "Ciudad Victoria"
+  accentcity: "Ciudad Victoria"
 Ciudad Obregón:
-  city: Ciudad Obregón
-  accentcity: Ciudad Obregón
+  city: "Ciudad Obregón"
+  accentcity: "Ciudad Obregón"
 Tampico:
-  city: Tampico
-  accentcity: Tampico
+  city: "Tampico"
+  accentcity: "Tampico"
 Ciudad Nicolás Romero:
-  city: Ciudad Nicolás Romero
-  accentcity: Ciudad Nicolás Romero
+  city: "Ciudad Nicolás Romero"
+  accentcity: "Ciudad Nicolás Romero"
 Ensenada:
-  city: Ensenada
-  accentcity: Ensenada
+  city: "Ensenada"
+  accentcity: "Ensenada"
 Coacalco de Berriozábal:
-  city: Coacalco de Berriozábal
-  accentcity: Coacalco de Berriozábal
+  city: "Coacalco de Berriozábal"
+  accentcity: "Coacalco de Berriozábal"
 Santa Catarina:
-  city: Santa Catarina
-  accentcity: Santa Catarina
+  city: "Santa Catarina"
+  accentcity: "Santa Catarina"
 Uruapan:
-  city: Uruapan
-  accentcity: Uruapan
+  city: "Uruapan"
+  accentcity: "Uruapan"
 Gómez Palacio:
-  city: Gómez Palacio
-  accentcity: Gómez Palacio
+  city: "Gómez Palacio"
+  accentcity: "Gómez Palacio"
 Los Mochis:
-  city: Los Mochis
-  accentcity: Los Mochis
+  city: "Los Mochis"
+  accentcity: "Los Mochis"
 Pachuca:
-  city: Pachuca
-  accentcity: Pachuca
+  city: "Pachuca"
+  accentcity: "Pachuca"
 Oaxaca:
-  city: Oaxaca
-  accentcity: Oaxaca
+  city: "Oaxaca"
+  accentcity: "Oaxaca"
 Soledad de Graciano Sánchez:
-  city: Soledad de Graciano Sánchez
-  accentcity: Soledad de Graciano Sánchez
+  city: "Soledad de Graciano Sánchez"
+  accentcity: "Soledad de Graciano Sánchez"
 Tehuacán:
-  city: Tehuacán
-  accentcity: Tehuacán
+  city: "Tehuacán"
+  accentcity: "Tehuacán"
 Ojo de Agua:
-  city: Ojo de Agua
-  accentcity: Ojo de Agua
+  city: "Ojo de Agua"
+  accentcity: "Ojo de Agua"
 Coatzacoalcos:
-  city: Coatzacoalcos
-  accentcity: Coatzacoalcos
+  city: "Coatzacoalcos"
+  accentcity: "Coatzacoalcos"
 Campeche:
-  city: Campeche
-  accentcity: Campeche
+  city: "Campeche"
+  accentcity: "Campeche"
 Monclova:
-  city: Monclova
-  accentcity: Monclova
+  city: "Monclova"
+  accentcity: "Monclova"
 La Paz:
-  city: La Paz
-  accentcity: La Paz
+  city: "La Paz"
+  accentcity: "La Paz"
 Nogales:
-  city: Nogales
-  accentcity: Nogales
+  city: "Nogales"
+  accentcity: "Nogales"
 Buenavista:
-  city: Buenavista
-  accentcity: Buenavista
+  city: "Buenavista"
+  accentcity: "Buenavista"
 Puerto Vallarta:
-  city: Puerto Vallarta
-  accentcity: Puerto Vallarta
+  city: "Puerto Vallarta"
+  accentcity: "Puerto Vallarta"
 Tapachula:
-  city: Tapachula
-  accentcity: Tapachula
+  city: "Tapachula"
+  accentcity: "Tapachula"
 Ciudad Madero:
-  city: Ciudad Madero
-  accentcity: Ciudad Madero
+  city: "Ciudad Madero"
+  accentcity: "Ciudad Madero"
 San Pablo de las Salinas:
-  city: San Pablo de las Salinas
-  accentcity: San Pablo de las Salinas
+  city: "San Pablo de las Salinas"
+  accentcity: "San Pablo de las Salinas"
 Chilpancingo:
-  city: Chilpancingo
-  accentcity: Chilpancingo
+  city: "Chilpancingo"
+  accentcity: "Chilpancingo"
 Poza Rica:
-  city: Poza Rica
-  accentcity: Poza Rica
+  city: "Poza Rica"
+  accentcity: "Poza Rica"
 Chicoloapan de Juárez:
-  city: Chicoloapan de Juárez
-  accentcity: Chicoloapan de Juárez
+  city: "Chicoloapan de Juárez"
+  accentcity: "Chicoloapan de Juárez"
 Ciudad del Carmen:
-  city: Ciudad del Carmen
-  accentcity: Ciudad del Carmen
+  city: "Ciudad del Carmen"
+  accentcity: "Ciudad del Carmen"
 Chalco de Díaz Covarrubias:
-  city: Chalco de Díaz Covarrubias
-  accentcity: Chalco de Díaz Covarrubias
+  city: "Chalco de Díaz Covarrubias"
+  accentcity: "Chalco de Díaz Covarrubias"
 Jiutepec:
-  city: Jiutepec
-  accentcity: Jiutepec
+  city: "Jiutepec"
+  accentcity: "Jiutepec"
 Salamanca:
-  city: Salamanca
-  accentcity: Salamanca
+  city: "Salamanca"
+  accentcity: "Salamanca"
 San Luis Río Colorado:
-  city: San Luis Río Colorado
-  accentcity: San Luis Río Colorado
+  city: "San Luis Río Colorado"
+  accentcity: "San Luis Río Colorado"
 San Cristóbal de las Casas:
-  city: San Cristóbal de las Casas
-  accentcity: San Cristóbal de las Casas
+  city: "San Cristóbal de las Casas"
+  accentcity: "San Cristóbal de las Casas"
 Cuautla:
-  city: Cuautla
-  accentcity: Cuautla
+  city: "Cuautla"
+  accentcity: "Cuautla"
 Ciudad Benito Juárez:
-  city: Ciudad Benito Juárez
-  accentcity: Ciudad Benito Juárez
+  city: "Ciudad Benito Juárez"
+  accentcity: "Ciudad Benito Juárez"
 Chetumal:
-  city: Chetumal
-  accentcity: Chetumal
+  city: "Chetumal"
+  accentcity: "Chetumal"
 Piedras Negras:
-  city: Piedras Negras
-  accentcity: Piedras Negras
+  city: "Piedras Negras"
+  accentcity: "Piedras Negras"
 Playa del Carmen:
-  city: Playa del Carmen
-  accentcity: Playa del Carmen
+  city: "Playa del Carmen"
+  accentcity: "Playa del Carmen"
 Zamora:
-  city: Zamora
-  accentcity: Zamora
+  city: "Zamora"
+  accentcity: "Zamora"
 Córdoba:
-  city: Córdoba
-  accentcity: Córdoba
+  city: "Córdoba"
+  accentcity: "Córdoba"
 San Juan del Río:
-  city: San Juan del Río
-  accentcity: San Juan del Río
+  city: "San Juan del Río"
+  accentcity: "San Juan del Río"
 Colima:
-  city: Colima
-  accentcity: Colima
+  city: "Colima"
+  accentcity: "Colima"
 Ciudad Acuña:
-  city: Ciudad Acuña
-  accentcity: Ciudad Acuña
+  city: "Ciudad Acuña"
+  accentcity: "Ciudad Acuña"
 Manzanillo:
-  city: Manzanillo
-  accentcity: Manzanillo
+  city: "Manzanillo"
+  accentcity: "Manzanillo"
 Zacatecas:
-  city: Zacatecas
-  accentcity: Zacatecas
+  city: "Zacatecas"
+  accentcity: "Zacatecas"
 Veracruz:
-  city: Veracruz
-  accentcity: Veracruz
+  city: "Veracruz"
+  accentcity: "Veracruz"
 Ciudad Valles:
-  city: Ciudad Valles
-  accentcity: Ciudad Valles
+  city: "Ciudad Valles"
+  accentcity: "Ciudad Valles"
 Guadalupe:
-  city: Guadalupe
-  accentcity: Guadalupe
+  city: "Guadalupe"
+  accentcity: "Guadalupe"
 San Pedro Garza García:
-  city: San Pedro Garza García
-  accentcity: San Pedro Garza García
+  city: "San Pedro Garza García"
+  accentcity: "San Pedro Garza García"
 Naucalpan:
-  city: Naucalpan
-  accentcity: Naucalpan
+  city: "Naucalpan"
+  accentcity: "Naucalpan"
 Fresnillo:
-  city: Fresnillo
-  accentcity: Fresnillo
+  city: "Fresnillo"
+  accentcity: "Fresnillo"
 Orizaba:
-  city: Orizaba
-  accentcity: Orizaba
+  city: "Orizaba"
+  accentcity: "Orizaba"
 Miramar:
-  city: Miramar
-  accentcity: Miramar
+  city: "Miramar"
+  accentcity: "Miramar"
 Iguala:
-  city: Iguala
-  accentcity: Iguala
+  city: "Iguala"
+  accentcity: "Iguala"
 Delicias:
-  city: Delicias
-  accentcity: Delicias
+  city: "Delicias"
+  accentcity: "Delicias"
 Ciudad de Villa de Álvarez:
-  city: Ciudad de Villa de Álvarez
-  accentcity: Ciudad de Villa de Álvarez
+  city: "Ciudad de Villa de Álvarez"
+  accentcity: "Ciudad de Villa de Álvarez"
 Ciudad Cuauhtémoc:
-  city: Ciudad Cuauhtémoc
-  accentcity: Ciudad Cuauhtémoc
+  city: "Ciudad Cuauhtémoc"
+  accentcity: "Ciudad Cuauhtémoc"
 Navojoa:
-  city: Navojoa
-  accentcity: Navojoa
+  city: "Navojoa"
+  accentcity: "Navojoa"
 Guaymas:
-  city: Guaymas
-  accentcity: Guaymas
+  city: "Guaymas"
+  accentcity: "Guaymas"
 Minatitlán:
-  city: Minatitlán
-  accentcity: Minatitlán
+  city: "Minatitlán"
+  accentcity: "Minatitlán"
 Cuautitlán:
-  city: Cuautitlán
-  accentcity: Cuautitlán
+  city: "Cuautitlán"
+  accentcity: "Cuautitlán"
 Texcoco:
-  city: Texcoco
-  accentcity: Texcoco
+  city: "Texcoco"
+  accentcity: "Texcoco"
 Hidalgo del Parral:
-  city: Hidalgo del Parral
-  accentcity: Hidalgo del Parral
+  city: "Hidalgo del Parral"
+  accentcity: "Hidalgo del Parral"
 Tepexpan:
-  city: Tepexpan
-  accentcity: Tepexpan
+  city: "Tepexpan"
+  accentcity: "Tepexpan"
 Tulancingo:
-  city: Tulancingo
-  accentcity: Tulancingo
+  city: "Tulancingo"
+  accentcity: "Tulancingo"
 San Juan Bautista Tuxtepec:
-  city: San Juan Bautista Tuxtepec
-  accentcity: San Juan Bautista Tuxtepec
+  city: "San Juan Bautista Tuxtepec"
+  accentcity: "San Juan Bautista Tuxtepec"

@@ -1,119 +1,119 @@
 # encoding: UTF-8
 --- 
 ahoa: 
-  city: ahoa
-  accentcity: Ahoa
+  city: "ahoa"
+  accentcity: "Ahoa"
 akaka: 
-  city: akaka
-  accentcity: Akaka
+  city: "akaka"
+  accentcity: "Akaka"
 alele: 
-  city: alele
-  accentcity: Alele
+  city: "alele"
+  accentcity: "Alele"
 alo: 
-  city: alo
-  accentcity: Alo
+  city: "alo"
+  accentcity: "Alo"
 alofitai: 
-  city: alofitai
-  accentcity: Alofitai
+  city: "alofitai"
+  accentcity: "Alofitai"
 fakauita: 
-  city: fakauita
-  accentcity: Fakauita
+  city: "fakauita"
+  accentcity: "Fakauita"
 falaleu: 
-  city: falaleu
-  accentcity: Falaleu
+  city: "falaleu"
+  accentcity: "Falaleu"
 fineveke: 
-  city: fineveke
-  accentcity: Fineveke
+  city: "fineveke"
+  accentcity: "Fineveke"
 foi: 
-  city: foi
-  accentcity: Foi
+  city: "foi"
+  accentcity: "Foi"
 gahi: 
-  city: gahi
-  accentcity: Gahi
+  city: "gahi"
+  accentcity: "Gahi"
 gamua: 
-  city: gamua
-  accentcity: Gamua
+  city: "gamua"
+  accentcity: "Gamua"
 haafusia: 
-  city: haafusia
-  accentcity: Haafusia
+  city: "haafusia"
+  accentcity: "Haafusia"
 ha'alalo: 
-  city: ha'alalo
-  accentcity: Ha'alalo
+  city: "ha'alalo"
+  accentcity: "Ha'alalo"
 haatofo: 
-  city: haatofo
-  accentcity: Haatofo
+  city: "haatofo"
+  accentcity: "Haatofo"
 halalo: 
-  city: halalo
-  accentcity: Halalo
+  city: "halalo"
+  accentcity: "Halalo"
 halamaitai: 
-  city: halamaitai
-  accentcity: Halamaitai
+  city: "halamaitai"
+  accentcity: "Halamaitai"
 kolia: 
-  city: kolia
-  accentcity: Kolia
+  city: "kolia"
+  accentcity: "Kolia"
 kolopopo: 
-  city: kolopopo
-  accentcity: Kolopopo
+  city: "kolopopo"
+  accentcity: "Kolopopo"
 lano: 
-  city: lano
-  accentcity: Lano
+  city: "lano"
+  accentcity: "Lano"
 leava: 
-  city: leava
-  accentcity: Leava
+  city: "leava"
+  accentcity: "Leava"
 liku: 
-  city: liku
-  accentcity: Liku
+  city: "liku"
+  accentcity: "Liku"
 loto mua: 
-  city: loto mua
-  accentcity: Loto Mua
+  city: "loto mua"
+  accentcity: "Loto Mua"
 malae: 
-  city: malae
-  accentcity: Malae
+  city: "malae"
+  accentcity: "Malae"
 mata'utu: 
-  city: mata'utu
+  city: "mata'utu"
   accentcity: "Mat\xC3\xA2'utu"
 mua: 
-  city: mua
-  accentcity: Mua
+  city: "mua"
+  accentcity: "Mua"
 regina spit: 
-  city: regina spit
-  accentcity: Regina Spit
+  city: "regina spit"
+  accentcity: "Regina Spit"
 sigave: 
-  city: sigave
+  city: "sigave"
   accentcity: "Sigavé"
 singave: 
-  city: singave
-  accentcity: Singave
+  city: "singave"
+  accentcity: "Singave"
 tauai: 
-  city: tauai
-  accentcity: Tauai
+  city: "tauai"
+  accentcity: "Tauai"
 teesi: 
-  city: teesi
-  accentcity: Teesi
+  city: "teesi"
+  accentcity: "Teesi"
 teesse: 
-  city: teesse
+  city: "teesse"
   accentcity: "Téessé"
 tepa: 
-  city: tepa
-  accentcity: Tepa
+  city: "tepa"
+  accentcity: "Tepa"
 tufuone: 
-  city: tufuone
-  accentcity: Tufuone
+  city: "tufuone"
+  accentcity: "Tufuone"
 utufua: 
-  city: utufua
-  accentcity: Utufua
+  city: "utufua"
+  accentcity: "Utufua"
 utuloa: 
-  city: utuloa
-  accentcity: Utuloa
+  city: "utuloa"
+  accentcity: "Utuloa"
 vailala: 
-  city: vailala
-  accentcity: Vailala
+  city: "vailala"
+  accentcity: "Vailala"
 vaimatau: 
-  city: vaimatau
-  accentcity: Vaimatau
+  city: "vaimatau"
+  accentcity: "Vaimatau"
 vaitupu: 
-  city: vaitupu
-  accentcity: Vaitupu
+  city: "vaitupu"
+  accentcity: "Vaitupu"
 vele: 
-  city: vele
+  city: "vele"
   accentcity: "Velé"

@@ -1,161 +1,161 @@
 # encoding: UTF-8
 --- 
 abari: 
-  city: abari
-  accentcity: Abari
+  city: "abari"
+  accentcity: "Abari"
 abaye: 
-  city: abaye
-  accentcity: Abaye
+  city: "abaye"
+  accentcity: "Abaye"
 abdallah diori: 
-  city: abdallah diori
-  accentcity: Abdallah Diori
+  city: "abdallah diori"
+  accentcity: "Abdallah Diori"
 abdel begrou: 
-  city: abdel begrou
-  accentcity: Abdel Begrou
+  city: "abdel begrou"
+  accentcity: "Abdel Begrou"
 adabai: 
-  city: adabai
+  city: "adabai"
   accentcity: "Adaba\xC3\xAF"
 adabai deili: 
-  city: adabai deili
+  city: "adabai deili"
   accentcity: "Adaba\xC3\xAF De\xC3\xAFli"
 adabai doulel: 
-  city: adabai doulel
+  city: "adabai doulel"
   accentcity: "Adaba\xC3\xAF Doulel"
 adabai idaouach: 
-  city: adabai idaouach
+  city: "adabai idaouach"
   accentcity: "Adaba\xC3\xAF Idaouach"
 adabaye: 
-  city: adabaye
-  accentcity: Adabaye
+  city: "adabaye"
+  accentcity: "Adabaye"
 adabaye ideouache: 
-  city: adabaye ideouache
-  accentcity: Adabaye Ideouache
+  city: "adabaye ideouache"
+  accentcity: "Adabaye Ideouache"
 "'adel bagrou": 
   city: "'adel bagrou"
   accentcity: "'Adel Bagrou"
 ador: 
-  city: ador
-  accentcity: Ador
+  city: "ador"
+  accentcity: "Ador"
 aere gollere: 
-  city: aere gollere
+  city: "aere gollere"
   accentcity: "Aéré Golléré"
 aere mbar: 
-  city: aere mbar
+  city: "aere mbar"
   accentcity: "Aéré Mbar"
 afnia: 
-  city: afnia
-  accentcity: Afnia
+  city: "afnia"
+  accentcity: "Afnia"
 afrare: 
-  city: afrare
+  city: "afrare"
   accentcity: "Afraré"
 agmamine: 
-  city: agmamine
+  city: "agmamine"
   accentcity: "Agm\xC3\xA2m\xC3\xAEne"
 agnetir: 
-  city: agnetir
+  city: "agnetir"
   accentcity: "Agnétir"
 agouanit: 
-  city: agouanit
-  accentcity: Agouanit
+  city: "agouanit"
+  accentcity: "Agouanit"
 agouanitt: 
-  city: agouanitt
-  accentcity: Agouanitt
+  city: "agouanitt"
+  accentcity: "Agouanitt"
 agouemit: 
-  city: agouemit
+  city: "agouemit"
   accentcity: "Agouémit"
 agouenit: 
-  city: agouenit
+  city: "agouenit"
   accentcity: "Agouénit"
 agreyate: 
-  city: agreyate
-  accentcity: Agreyate
+  city: "agreyate"
+  accentcity: "Agreyate"
 agueni: 
-  city: agueni
-  accentcity: Agueni
+  city: "agueni"
+  accentcity: "Agueni"
 aguenni: 
-  city: aguenni
-  accentcity: Aguenni
+  city: "aguenni"
+  accentcity: "Aguenni"
 aguini: 
-  city: aguini
-  accentcity: Aguini
+  city: "aguini"
+  accentcity: "Aguini"
 aguinni: 
-  city: aguinni
-  accentcity: Aguinni
+  city: "aguinni"
+  accentcity: "Aguinni"
 agwenit: 
-  city: agwenit
-  accentcity: Agwenit
+  city: "agwenit"
+  accentcity: "Agwenit"
 ahel aimar: 
-  city: ahel aimar
+  city: "ahel aimar"
   accentcity: "Ahel A\xC3\xAFmar"
 ahel aoubak: 
-  city: ahel aoubak
-  accentcity: Ahel Aoubak
+  city: "ahel aoubak"
+  accentcity: "Ahel Aoubak"
 ahel cheiheb: 
-  city: ahel cheiheb
+  city: "ahel cheiheb"
   accentcity: "Ahel Che\xC3\xAFheb"
 ahel el jeilani: 
-  city: ahel el jeilani
+  city: "ahel el jeilani"
   accentcity: "Ahel el Je\xC3\xAFlani"
 aidou: 
-  city: aidou
+  city: "aidou"
   accentcity: "A\xC3\xAFdou"
 aime msira: 
-  city: aime msira
+  city: "aime msira"
   accentcity: "A\xC3\xAFmé Msira"
 aime msirate: 
-  city: aime msirate
-  accentcity: Aime Msirate
+  city: "aime msirate"
+  accentcity: "Aime Msirate"
 aimore: 
-  city: aimore
+  city: "aimore"
   accentcity: "A\xC3\xAFmoré"
 "'ain ben tili": 
   city: "'ain ben tili"
   accentcity: "'A\xC3\xAFn Ben Tili"
 ain bentilli: 
-  city: ain bentilli
+  city: "ain bentilli"
   accentcity: "A\xC3\xAFn Bentilli"
 ain taiss: 
-  city: ain taiss
+  city: "ain taiss"
   accentcity: "A\xC3\xAFn Taiss"
 "'ain tass": 
   city: "'ain tass"
   accentcity: "'A\xC3\xAFn Tass"
 aioun el atrouss: 
-  city: aioun el atrouss
+  city: "aioun el atrouss"
   accentcity: "A\xC3\xAFoun el Atrouss"
 ajar sarakole: 
-  city: ajar sarakole
+  city: "ajar sarakole"
   accentcity: "Ajar Sarakolé"
 ajar toucouleur: 
-  city: ajar toucouleur
-  accentcity: Ajar Toucouleur
+  city: "ajar toucouleur"
+  accentcity: "Ajar Toucouleur"
 akaouini: 
-  city: akaouini
-  accentcity: Akaouini
+  city: "akaouini"
+  accentcity: "Akaouini"
 aka wini: 
-  city: aka wini
-  accentcity: Aka Wini
+  city: "aka wini"
+  accentcity: "Aka Wini"
 akjoujt: 
-  city: akjoujt
-  accentcity: Akjoujt
+  city: "akjoujt"
+  accentcity: "Akjoujt"
 akjout: 
-  city: akjout
-  accentcity: Akjout
+  city: "akjout"
+  accentcity: "Akjout"
 akouaoui: 
-  city: akouaoui
-  accentcity: Akouaoui
+  city: "akouaoui"
+  accentcity: "Akouaoui"
 akouawi: 
-  city: akouawi
-  accentcity: Akouawi
+  city: "akouawi"
+  accentcity: "Akouawi"
 alaina: 
-  city: alaina
+  city: "alaina"
   accentcity: "Ala\xC3\xAFna"
 alanguide: 
-  city: alanguide
+  city: "alanguide"
   accentcity: "Alanguidé"
 aleg: 
-  city: aleg
-  accentcity: Aleg
+  city: "aleg"
+  accentcity: "Aleg"
 "'aleib": 
   city: "'aleib"
   accentcity: "'Ale\xC3\xAFb"
@@ -163,38 +163,38 @@ aleg:
   city: "'ali baidi"
   accentcity: "'Ali Ba\xC3\xAFdi"
 amadi fakourou: 
-  city: amadi fakourou
-  accentcity: Amadi Fakourou
+  city: "amadi fakourou"
+  accentcity: "Amadi Fakourou"
 amadou moussa: 
-  city: amadou moussa
-  accentcity: Amadou Moussa
+  city: "amadou moussa"
+  accentcity: "Amadou Moussa"
 amague bedia: 
-  city: amague bedia
+  city: "amague bedia"
   accentcity: "Amagué Bédia"
 amake: 
-  city: amake
+  city: "amake"
   accentcity: "Amaké"
 amchola: 
-  city: amchola
-  accentcity: Amchola
+  city: "amchola"
+  accentcity: "Amchola"
 amchotone: 
-  city: amchotone
-  accentcity: Amchotone
+  city: "amchotone"
+  accentcity: "Amchotone"
 amerj arr: 
-  city: amerj arr
-  accentcity: Amerj Arr
+  city: "amerj arr"
+  accentcity: "Amerj Arr"
 amriye: 
-  city: amriye
+  city: "amriye"
   accentcity: "Amriyé"
 ando reo: 
-  city: ando reo
+  city: "ando reo"
   accentcity: "Ando Réo"
 anietir: 
-  city: anietir
+  city: "anietir"
   accentcity: "Aniétir"
 aouinat: 
-  city: aouinat
-  accentcity: Aouinat
+  city: "aouinat"
+  accentcity: "Aouinat"
 "'aouinat": 
   city: "'aouinat"
   accentcity: "'Aou\xC3\xAEn\xC3\xA2t"
@@ -202,3101 +202,3101 @@ aouinat:
   city: "'aouinet nemadi"
   accentcity: "'Aou\xC3\xAEnet Némadi"
 aoujeft: 
-  city: aoujeft
-  accentcity: Aoujeft
+  city: "aoujeft"
+  accentcity: "Aoujeft"
 aoure baoude: 
-  city: aoure baoude
+  city: "aoure baoude"
   accentcity: "Aouré Baoudé"
 archane: 
-  city: archane
+  city: "archane"
   accentcity: "Arch\xC3\xA2ne"
 are koka: 
-  city: are koka
+  city: "are koka"
   accentcity: "Aré Koka"
 aroueiji: 
-  city: aroueiji
+  city: "aroueiji"
   accentcity: "Aroue\xC3\xAFji"
 arsane: 
-  city: arsane
-  accentcity: Arsane
+  city: "arsane"
+  accentcity: "Arsane"
 arsane maure: 
-  city: arsane maure
-  accentcity: Arsane Maure
+  city: "arsane maure"
+  accentcity: "Arsane Maure"
 artemou: 
-  city: artemou
+  city: "artemou"
   accentcity: "Artémou"
 atar: 
-  city: atar
+  city: "atar"
   accentcity: "At\xC3\xA2r"
 atem: 
-  city: atem
-  accentcity: Atem
+  city: "atem"
+  accentcity: "Atem"
 atila: 
-  city: atila
+  city: "atila"
   accentcity: "At\xC3\xAEla"
 atta'ine: 
-  city: atta'ine
+  city: "atta'ine"
   accentcity: "Atta'\xC3\xAEne"
 attein: 
-  city: attein
-  accentcity: "Att\xC3\xAA\xC3\xAFn"
+  city: "attein"
+  accentcity: "Attê\xC3\xAFn"
 avoinat: 
-  city: avoinat
+  city: "avoinat"
   accentcity: "Avo\xC3\xAFnat"
 awinatt: 
-  city: awinatt
+  city: "awinatt"
   accentcity: "Aw\xC3\xAFnatt"
 awinet nemadi: 
-  city: awinet nemadi
+  city: "awinet nemadi"
   accentcity: "Awinet Némadi"
 "'ayoun el 'atrous": 
   city: "'ayoun el 'atrous"
   accentcity: "'Ayo\xC3\xBBn el 'Atro\xC3\xBBs"
 bababe: 
-  city: bababe
+  city: "bababe"
   accentcity: "Bababé"
 bacikounou: 
-  city: bacikounou
-  accentcity: Bacikounou
+  city: "bacikounou"
+  accentcity: "Bacikounou"
 badaa: 
-  city: badaa
-  accentcity: Badaa
+  city: "badaa"
+  accentcity: "Badaa"
 badinke: 
-  city: badinke
+  city: "badinke"
   accentcity: "Badinké"
 baediam: 
-  city: baediam
+  city: "baediam"
   accentcity: "Baédiam"
 baediame: 
-  city: baediame
+  city: "baediame"
   accentcity: "Baédiamé"
 bagoudine: 
-  city: bagoudine
-  accentcity: Bagoudine
+  city: "bagoudine"
+  accentcity: "Bagoudine"
 bahara: 
-  city: bahara
-  accentcity: Bahara
+  city: "bahara"
+  accentcity: "Bahara"
 bandiougou: 
-  city: bandiougou
-  accentcity: Bandiougou
+  city: "bandiougou"
+  accentcity: "Bandiougou"
 bango: 
-  city: bango
-  accentcity: Bango
+  city: "bango"
+  accentcity: "Bango"
 bara: 
-  city: bara
-  accentcity: Bara
+  city: "bara"
+  accentcity: "Bara"
 baraini: 
-  city: baraini
+  city: "baraini"
   accentcity: "Bara\xC3\xAFni"
 barbarak: 
-  city: barbarak
-  accentcity: Barbarak
+  city: "barbarak"
+  accentcity: "Barbarak"
 bargatanni: 
-  city: bargatanni
-  accentcity: Bargatanni
+  city: "bargatanni"
+  accentcity: "Bargatanni"
 bargou: 
-  city: bargou
-  accentcity: Bargou
+  city: "bargou"
+  accentcity: "Bargou"
 barkeol: 
-  city: barkeol
+  city: "barkeol"
   accentcity: "Barkéol"
 barkeol el akhdar: 
-  city: barkeol el akhdar
+  city: "barkeol el akhdar"
   accentcity: "Barkéol el Akhdar"
 barkeol el arhdar: 
-  city: barkeol el arhdar
+  city: "barkeol el arhdar"
   accentcity: "Barkéol El Arhdar"
 barkeouol: 
-  city: barkeouol
+  city: "barkeouol"
   accentcity: "Barkéouol"
 barogal: 
-  city: barogal
-  accentcity: Barogal
+  city: "barogal"
+  accentcity: "Barogal"
 bassikounou: 
-  city: bassikounou
-  accentcity: Bassikounou
+  city: "bassikounou"
+  accentcity: "Bassikounou"
 bassi nguidi: 
-  city: bassi nguidi
-  accentcity: Bassi Nguidi
+  city: "bassi nguidi"
+  accentcity: "Bassi Nguidi"
 bate laye: 
-  city: bate laye
+  city: "bate laye"
   accentcity: "Baté Layé"
 beila: 
-  city: beila
+  city: "beila"
   accentcity: "Be\xC3\xAFla"
 beilogue yero: 
-  city: beilogue yero
+  city: "beilogue yero"
   accentcity: "Be\xC3\xAFlogué Yéro"
 beilougue bolol: 
-  city: beilougue bolol
+  city: "beilougue bolol"
   accentcity: "Be\xC3\xAFlougué Bolol"
 beilougue demounde: 
-  city: beilougue demounde
+  city: "beilougue demounde"
   accentcity: "Be\xC3\xAFlougué Démoundé"
 beilougue litama: 
-  city: beilougue litama
+  city: "beilougue litama"
   accentcity: "Be\xC3\xAFlougué Litama"
 beilougue yero: 
-  city: beilougue yero
+  city: "beilougue yero"
   accentcity: "Be\xC3\xAFlougué Yéro"
 belane: 
-  city: belane
+  city: "belane"
   accentcity: "Bélane"
 beledendi: 
-  city: beledendi
+  city: "beledendi"
   accentcity: "Bélédendi"
 belel abdi: 
-  city: belel abdi
+  city: "belel abdi"
   accentcity: "Bélel Abdi"
 belel gaodi: 
-  city: belel gaodi
+  city: "belel gaodi"
   accentcity: "Bélel Gaodi"
 belnabe: 
-  city: belnabe
+  city: "belnabe"
   accentcity: "Belnabé"
 benibafat: 
-  city: benibafat
-  accentcity: Benibafat
+  city: "benibafat"
+  accentcity: "Benibafat"
 berele: 
-  city: berele
+  city: "berele"
   accentcity: "Bérélé"
 bergatanni: 
-  city: bergatanni
-  accentcity: Bergatanni
+  city: "bergatanni"
+  accentcity: "Bergatanni"
 betselba: 
-  city: betselba
-  accentcity: Betselba
+  city: "betselba"
+  accentcity: "Betselba"
 bezeir: 
-  city: bezeir
+  city: "bezeir"
   accentcity: "Beze\xC3\xAFr"
 bidiske: 
-  city: bidiske
+  city: "bidiske"
   accentcity: "Bidiské"
 binndiamou: 
-  city: binndiamou
-  accentcity: Binndiamou
+  city: "binndiamou"
+  accentcity: "Binndiamou"
 bir el moghrein: 
-  city: bir el moghrein
+  city: "bir el moghrein"
   accentcity: "Bir el Moghre\xC3\xAFn"
 bir moghreim: 
-  city: bir moghreim
-  accentcity: Bir Moghreim
+  city: "bir moghreim"
+  accentcity: "Bir Moghreim"
 bir moghrein: 
-  city: bir moghrein
-  accentcity: Bir Moghrein
+  city: "bir moghrein"
+  accentcity: "Bir Moghrein"
 bir moghreine: 
-  city: bir moghreine
+  city: "bir moghreine"
   accentcity: "Bir Moghre\xC3\xAFne"
 bir moghrin: 
-  city: bir moghrin
-  accentcity: Bir Moghrin
+  city: "bir moghrin"
+  accentcity: "Bir Moghrin"
 bir mogrein: 
-  city: bir mogrein
+  city: "bir mogrein"
   accentcity: "B\xC3\xAEr Mogre\xC3\xAFn"
 bir morhrein: 
-  city: bir morhrein
-  accentcity: Bir Morhrein
+  city: "bir morhrein"
+  accentcity: "Bir Morhrein"
 bir oum el grein: 
-  city: bir oum el grein
-  accentcity: Bir Oum el Grein
+  city: "bir oum el grein"
+  accentcity: "Bir Oum el Grein"
 bir oum grein: 
-  city: bir oum grein
-  accentcity: Bir Oum Grein
+  city: "bir oum grein"
+  accentcity: "Bir Oum Grein"
 bir oum greine: 
-  city: bir oum greine
+  city: "bir oum greine"
   accentcity: "Bir Oum Gre\xC3\xAFne"
 bir umm grain: 
-  city: bir umm grain
-  accentcity: Bir Umm Grain
+  city: "bir umm grain"
+  accentcity: "Bir Umm Grain"
 blajemile: 
-  city: blajemile
-  accentcity: Blajemile
+  city: "blajemile"
+  accentcity: "Blajemile"
 blajmil: 
-  city: blajmil
-  accentcity: Blajmil
+  city: "blajmil"
+  accentcity: "Blajmil"
 blemhar: 
-  city: blemhar
-  accentcity: Blemhar
+  city: "blemhar"
+  accentcity: "Blemhar"
 bodiedie: 
-  city: bodiedie
+  city: "bodiedie"
   accentcity: "Bodiédié"
 boediam: 
-  city: boediam
-  accentcity: Boediam
+  city: "boediam"
+  accentcity: "Boediam"
 bofal: 
-  city: bofal
-  accentcity: Bofal
+  city: "bofal"
+  accentcity: "Bofal"
 boghe: 
-  city: boghe
+  city: "boghe"
   accentcity: "Boghé"
 bogue: 
-  city: bogue
+  city: "bogue"
   accentcity: "Bogué"
 bogue dow: 
-  city: bogue dow
+  city: "bogue dow"
   accentcity: "Bogué Dow"
 boguel fadoua: 
-  city: boguel fadoua
-  accentcity: Boguel Fadoua
+  city: "boguel fadoua"
+  accentcity: "Boguel Fadoua"
 boitiek elali: 
-  city: boitiek elali
-  accentcity: Boitiek Elali
+  city: "boitiek elali"
+  accentcity: "Boitiek Elali"
 boitiek eliemane: 
-  city: boitiek eliemane
+  city: "boitiek eliemane"
   accentcity: "Boitiek Eliémane"
 bokedianbi: 
-  city: bokedianbi
+  city: "bokedianbi"
   accentcity: "Bokédianbi"
 boki hamet: 
-  city: boki hamet
-  accentcity: Boki Hamet
+  city: "boki hamet"
+  accentcity: "Boki Hamet"
 bokol: 
-  city: bokol
-  accentcity: Bokol
+  city: "bokol"
+  accentcity: "Bokol"
 bolol doggo: 
-  city: bolol doggo
-  accentcity: Bolol Doggo
+  city: "bolol doggo"
+  accentcity: "Bolol Doggo"
 bolol dogo: 
-  city: bolol dogo
-  accentcity: Bolol Dogo
+  city: "bolol dogo"
+  accentcity: "Bolol Dogo"
 bondi: 
-  city: bondi
-  accentcity: Bondi
+  city: "bondi"
+  accentcity: "Bondi"
 bondieri: 
-  city: bondieri
+  city: "bondieri"
   accentcity: "Bondiéri"
 borele: 
-  city: borele
+  city: "borele"
   accentcity: "Borélé"
 borie: 
-  city: borie
+  city: "borie"
   accentcity: "Borié"
 botoula taring: 
-  city: botoula taring
-  accentcity: Botoula Taring
+  city: "botoula taring"
+  accentcity: "Botoula Taring"
 bou amama: 
-  city: bou amama
+  city: "bou amama"
   accentcity: "Bo\xC3\xBB Amama"
 bou amana: 
-  city: bou amana
-  accentcity: Bou Amana
+  city: "bou amana"
+  accentcity: "Bou Amana"
 bouanze: 
-  city: bouanze
+  city: "bouanze"
   accentcity: "Bouanzé"
 bouara: 
-  city: bouara
-  accentcity: Bouara
+  city: "bouara"
+  accentcity: "Bouara"
 bou aslete: 
-  city: bou aslete
+  city: "bou aslete"
   accentcity: "Bou Aslété"
 bou bakar: 
-  city: bou bakar
+  city: "bou bakar"
   accentcity: "Bo\xC3\xBB Bakar"
 boubou aoudi: 
-  city: boubou aoudi
-  accentcity: Boubou Aoudi
+  city: "boubou aoudi"
+  accentcity: "Boubou Aoudi"
 boubou karli: 
-  city: boubou karli
-  accentcity: Boubou Karli
+  city: "boubou karli"
+  accentcity: "Boubou Karli"
 bouda: 
-  city: bouda
-  accentcity: Bouda
+  city: "bouda"
+  accentcity: "Bouda"
 boudama peul: 
-  city: boudama peul
-  accentcity: Boudama Peul
+  city: "boudama peul"
+  accentcity: "Boudama Peul"
 boudiebaya: 
-  city: boudiebaya
+  city: "boudiebaya"
   accentcity: "Boudiébaya"
 bouele: 
-  city: bouele
+  city: "bouele"
   accentcity: "Bouélé"
 bouerik: 
-  city: bouerik
+  city: "bouerik"
   accentcity: "Bouérik"
 boufal: 
-  city: boufal
-  accentcity: Boufal
+  city: "boufal"
+  accentcity: "Boufal"
 bou gadoum: 
-  city: bou gadoum
+  city: "bou gadoum"
   accentcity: "Bo\xC3\xBB G\xC3\xA2do\xC3\xBBm"
 bou gamoul: 
-  city: bou gamoul
+  city: "bou gamoul"
   accentcity: "Bo\xC3\xBB Gamoul"
 bougoudre: 
-  city: bougoudre
+  city: "bougoudre"
   accentcity: "Bougoudré"
 bouguerha: 
-  city: bouguerha
+  city: "bouguerha"
   accentcity: "Bouguérha"
 boukereya: 
-  city: boukereya
+  city: "boukereya"
   accentcity: "Boukéréya"
 boulanouar: 
-  city: boulanouar
-  accentcity: Boulanouar
+  city: "boulanouar"
+  accentcity: "Boulanouar"
 bou lanouar: 
-  city: bou lanouar
+  city: "bou lanouar"
   accentcity: "Bo\xC3\xBB Lanou\xC3\xA2r"
 bouli borbo: 
-  city: bouli borbo
-  accentcity: Bouli Borbo
+  city: "bouli borbo"
+  accentcity: "Bouli Borbo"
 bouly: 
-  city: bouly
-  accentcity: Bouly
+  city: "bouly"
+  accentcity: "Bouly"
 boumdeit: 
-  city: boumdeit
+  city: "boumdeit"
   accentcity: "Boumde\xC3\xAFt"
 bounoir: 
-  city: bounoir
-  accentcity: Bounoir
+  city: "bounoir"
+  accentcity: "Bounoir"
 bounouar: 
-  city: bounouar
-  accentcity: Bounouar
+  city: "bounouar"
+  accentcity: "Bounouar"
 bounououara: 
-  city: bounououara
-  accentcity: Bounououara
+  city: "bounououara"
+  accentcity: "Bounououara"
 bounouwara: 
-  city: bounouwara
-  accentcity: Bounouwara
+  city: "bounouwara"
+  accentcity: "Bounouwara"
 bourele: 
-  city: bourele
+  city: "bourele"
   accentcity: "Bourélé"
 bouroudji: 
-  city: bouroudji
-  accentcity: Bouroudji
+  city: "bouroudji"
+  accentcity: "Bouroudji"
 bourougoudoun: 
-  city: bourougoudoun
-  accentcity: Bourougoudoun
+  city: "bourougoudoun"
+  accentcity: "Bourougoudoun"
 boussei ade: 
-  city: boussei ade
+  city: "boussei ade"
   accentcity: "Bousse\xC3\xAF Adé"
 bou steile: 
-  city: bou steile
+  city: "bou steile"
   accentcity: "Bo\xC3\xBB Ste\xC3\xAFlé"
 boutanda: 
-  city: boutanda
-  accentcity: Boutanda
+  city: "boutanda"
+  accentcity: "Boutanda"
 boutel ahir: 
-  city: boutel ahir
-  accentcity: Boutel Ahir
+  city: "boutel ahir"
+  accentcity: "Boutel Ahir"
 bou tezekrei: 
-  city: bou tezekrei
+  city: "bou tezekrei"
   accentcity: "Bo\xC3\xBB Tézékre\xC3\xAF"
 boutezekrey: 
-  city: boutezekrey
-  accentcity: "Boutézékr\xC3\xA8y"
+  city: "boutezekrey"
+  accentcity: "Boutézékrèy"
 boutilimit: 
-  city: boutilimit
-  accentcity: Boutilimit
+  city: "boutilimit"
+  accentcity: "Boutilimit"
 boutillmit: 
-  city: boutillmit
-  accentcity: Boutillmit
+  city: "boutillmit"
+  accentcity: "Boutillmit"
 bouyal bokar: 
-  city: bouyal bokar
-  accentcity: Bouyal Bokar
+  city: "bouyal bokar"
+  accentcity: "Bouyal Bokar"
 bou zraibie: 
-  city: bou zraibie
+  city: "bou zraibie"
   accentcity: "Bo\xC3\xBB Zra\xC3\xAFbié"
 boyo: 
-  city: boyo
-  accentcity: Boyo
+  city: "boyo"
+  accentcity: "Boyo"
 braidid: 
-  city: braidid
+  city: "braidid"
   accentcity: "Bra\xC3\xAFdid"
 braydid: 
-  city: braydid
-  accentcity: Braydid
+  city: "braydid"
+  accentcity: "Braydid"
 brenn: 
-  city: brenn
-  accentcity: Brenn
+  city: "brenn"
+  accentcity: "Brenn"
 breune: 
-  city: breune
-  accentcity: Breune
+  city: "breune"
+  accentcity: "Breune"
 cansado: 
-  city: cansado
-  accentcity: Cansado
+  city: "cansado"
+  accentcity: "Cansado"
 casba des ait maouin: 
-  city: casba des ait maouin
+  city: "casba des ait maouin"
   accentcity: "Casba des A\xC3\xAFt Maouin"
 casbah des ait maouine: 
-  city: casbah des ait maouine
+  city: "casbah des ait maouine"
   accentcity: "Casbah des A\xC3\xAFt Maouine"
 chbariat: 
-  city: chbariat
-  accentcity: Chbariat
+  city: "chbariat"
+  accentcity: "Chbariat"
 chebar: 
-  city: chebar
-  accentcity: "Ch\xC3\xA8bar"
+  city: "chebar"
+  accentcity: "Chèbar"
 chegga: 
-  city: chegga
-  accentcity: Chegga
+  city: "chegga"
+  accentcity: "Chegga"
 cheika louare: 
-  city: cheika louare
+  city: "cheika louare"
   accentcity: "Che\xC3\xAFka Louaré"
 chelka ould bannahi: 
-  city: chelka ould bannahi
-  accentcity: Chelka Ould Bannahi
+  city: "chelka ould bannahi"
+  accentcity: "Chelka Ould Bannahi"
 chelkhat rhiarhoum: 
-  city: chelkhat rhiarhoum
-  accentcity: Chelkhat Rhiarhoum
+  city: "chelkhat rhiarhoum"
+  accentcity: "Chelkhat Rhiarhoum"
 chelrhat rhiarhoum: 
-  city: chelrhat rhiarhoum
-  accentcity: Chelrhat Rhiarhoum
+  city: "chelrhat rhiarhoum"
+  accentcity: "Chelrhat Rhiarhoum"
 chig el outeidat: 
-  city: chig el outeidat
+  city: "chig el outeidat"
   accentcity: "Chig el Oute\xC3\xAFdat"
 chig louteidatt: 
-  city: chig louteidatt
+  city: "chig louteidatt"
   accentcity: "Chig Loute\xC3\xAFdatt"
 chinguetti: 
-  city: chinguetti
-  accentcity: Chinguetti
+  city: "chinguetti"
+  accentcity: "Chinguetti"
 chkata: 
-  city: chkata
-  accentcity: Chkata
+  city: "chkata"
+  accentcity: "Chkata"
 chorfa: 
-  city: chorfa
-  accentcity: Chorfa
+  city: "chorfa"
+  accentcity: "Chorfa"
 choum: 
-  city: choum
+  city: "choum"
   accentcity: "Cho\xC3\xBBm"
 cive: 
-  city: cive
+  city: "cive"
   accentcity: "Civé"
 coppolani: 
-  city: coppolani
-  accentcity: Coppolani
+  city: "coppolani"
+  accentcity: "Coppolani"
 coumba ndao: 
-  city: coumba ndao
-  accentcity: Coumba Ndao
+  city: "coumba ndao"
+  accentcity: "Coumba Ndao"
 coumta n'dao: 
-  city: coumta n'dao
-  accentcity: Coumta N'Dao
+  city: "coumta n'dao"
+  accentcity: "Coumta N'Dao"
 crampel: 
-  city: crampel
-  accentcity: Crampel
+  city: "crampel"
+  accentcity: "Crampel"
 dabai 'ain memounia: 
-  city: dabai 'ain memounia
+  city: "dabai 'ain memounia"
   accentcity: "Daba\xC3\xAF 'A\xC3\xAFn Memounia"
 dabai amamede: 
-  city: dabai amamede
+  city: "dabai amamede"
   accentcity: "Daba\xC3\xAF Amamédé"
 dabai amidi: 
-  city: dabai amidi
+  city: "dabai amidi"
   accentcity: "Daba\xC3\xAF Amidi"
 dabai bai: 
-  city: dabai bai
+  city: "dabai bai"
   accentcity: "Daba\xC3\xAF Ba\xC3\xAF"
 dabai dalouach: 
-  city: dabai dalouach
+  city: "dabai dalouach"
   accentcity: "Daba\xC3\xAF Dalouach"
 dabai dalwach: 
-  city: dabai dalwach
+  city: "dabai dalwach"
   accentcity: "Daba\xC3\xAF Dalwach"
 dabai el barke: 
-  city: dabai el barke
+  city: "dabai el barke"
   accentcity: "Daba\xC3\xAF el Barké"
 dabai el izradite: 
-  city: dabai el izradite
+  city: "dabai el izradite"
   accentcity: "Daba\xC3\xAF el Izradite"
 dabai el media: 
-  city: dabai el media
+  city: "dabai el media"
   accentcity: "Daba\xC3\xAF el Média"
 dabai el talb mousse: 
-  city: dabai el talb mousse
+  city: "dabai el talb mousse"
   accentcity: "Daba\xC3\xAF el Talb Moussé"
 dabai jidou: 
-  city: dabai jidou
+  city: "dabai jidou"
   accentcity: "Daba\xC3\xAF Jidou"
 dabai jidou oul chett: 
-  city: dabai jidou oul chett
+  city: "dabai jidou oul chett"
   accentcity: "Daba\xC3\xAF Jidou Oul Chett"
 dabai keili: 
-  city: dabai keili
+  city: "dabai keili"
   accentcity: "Daba\xC3\xAF Ke\xC3\xAFli"
 dabai laissad: 
-  city: dabai laissad
+  city: "dabai laissad"
   accentcity: "Daba\xC3\xAF La\xC3\xAFssad"
 dabaili soueli: 
-  city: dabaili soueli
+  city: "dabaili soueli"
   accentcity: "Daba\xC3\xAFli Souéli"
 dabai magui: 
-  city: dabai magui
+  city: "dabai magui"
   accentcity: "Daba\xC3\xAF Magui"
 dabai mbare: 
-  city: dabai mbare
+  city: "dabai mbare"
   accentcity: "Daba\xC3\xAF Mbaré"
 dabai mousse: 
-  city: dabai mousse
+  city: "dabai mousse"
   accentcity: "Daba\xC3\xAF Moussé"
 dabai moutraoga: 
-  city: dabai moutraoga
+  city: "dabai moutraoga"
   accentcity: "Daba\xC3\xAF Moutraoga"
 dabai saliou: 
-  city: dabai saliou
+  city: "dabai saliou"
   accentcity: "Daba\xC3\xAF Saliou"
 dabai sambayel ore: 
-  city: dabai sambayel ore
+  city: "dabai sambayel ore"
   accentcity: "Daba\xC3\xAF Sambayel Oré"
 dabai sanbayel ore: 
-  city: dabai sanbayel ore
-  accentcity: Dabai Sanbayel Ore
+  city: "dabai sanbayel ore"
+  accentcity: "Dabai Sanbayel Ore"
 dabai sonkarou: 
-  city: dabai sonkarou
+  city: "dabai sonkarou"
   accentcity: "Daba\xC3\xAF Sonkarou"
 dabal magui: 
-  city: dabal magui
-  accentcity: Dabal Magui
+  city: "dabal magui"
+  accentcity: "Dabal Magui"
 dabe: 
-  city: dabe
+  city: "dabe"
   accentcity: "Dabé"
 dafort: 
-  city: dafort
-  accentcity: Dafort
+  city: "dafort"
+  accentcity: "Dafort"
 dahakele: 
-  city: dahakele
+  city: "dahakele"
   accentcity: "Dahakélé"
 dahalague: 
-  city: dahalague
+  city: "dahalague"
   accentcity: "Dahalagué"
 dangueremou: 
-  city: dangueremou
+  city: "dangueremou"
   accentcity: "Danguérémou"
 danguidebe: 
-  city: danguidebe
+  city: "danguidebe"
   accentcity: "Danguidébé"
 dao: 
-  city: dao
-  accentcity: Dao
+  city: "dao"
+  accentcity: "Dao"
 daoua: 
-  city: daoua
-  accentcity: Daoua
+  city: "daoua"
+  accentcity: "Daoua"
 dara: 
-  city: dara
-  accentcity: Dara
+  city: "dara"
+  accentcity: "Dara"
 dar cheikh abdalaye: 
-  city: dar cheikh abdalaye
-  accentcity: Dar Cheikh Abdalaye
+  city: "dar cheikh abdalaye"
+  accentcity: "Dar Cheikh Abdalaye"
 dar cheikh abdallai: 
-  city: dar cheikh abdallai
+  city: "dar cheikh abdallai"
   accentcity: "Dar Che\xC3\xAFkh Abdalla\xC3\xAF"
 dar-cheikh-abdallaye: 
-  city: dar-cheikh-abdallaye
-  accentcity: Dar-Cheikh-Abdallaye
+  city: "dar-cheikh-abdallaye"
+  accentcity: "Dar-Cheikh-Abdallaye"
 dar el barka: 
-  city: dar el barka
-  accentcity: Dar el Barka
+  city: "dar el barka"
+  accentcity: "Dar el Barka"
 debay el barke: 
-  city: debay el barke
+  city: "debay el barke"
   accentcity: "Debay El Barké"
 debe sorfa: 
-  city: debe sorfa
+  city: "debe sorfa"
   accentcity: "Débé Sorfa"
 debous: 
-  city: debous
+  city: "debous"
   accentcity: "Débous"
 debouss: 
-  city: debouss
+  city: "debouss"
   accentcity: "Débouss"
 deguismoli: 
-  city: deguismoli
+  city: "deguismoli"
   accentcity: "Déguismoli"
 demba lembere: 
-  city: demba lembere
+  city: "demba lembere"
   accentcity: "Demba Lembéré"
 demba sambel: 
-  city: demba sambel
-  accentcity: Demba Sambel
+  city: "demba sambel"
+  accentcity: "Demba Sambel"
 deneal samba ombo: 
-  city: deneal samba ombo
+  city: "deneal samba ombo"
   accentcity: "Dénéal Samba Ombo"
 derik guirfafe: 
-  city: derik guirfafe
+  city: "derik guirfafe"
   accentcity: "Dérik Guirfafé"
 derik kelilae: 
-  city: derik kelilae
+  city: "derik kelilae"
   accentcity: "Dérik Kélilaé"
 dernie: 
-  city: dernie
+  city: "dernie"
   accentcity: "Dernié"
 desili: 
-  city: desili
+  city: "desili"
   accentcity: "Désili"
 diabaye: 
-  city: diabaye
-  accentcity: Diabaye
+  city: "diabaye"
+  accentcity: "Diabaye"
 diade: 
-  city: diade
+  city: "diade"
   accentcity: "Diadé"
 diafane: 
-  city: diafane
-  accentcity: Diafane
+  city: "diafane"
+  accentcity: "Diafane"
 diaguili: 
-  city: diaguili
-  accentcity: Diaguili
+  city: "diaguili"
+  accentcity: "Diaguili"
 diahoulel: 
-  city: diahoulel
-  accentcity: Diahoulel
+  city: "diahoulel"
+  accentcity: "Diahoulel"
 diala: 
-  city: diala
-  accentcity: Diala
+  city: "diala"
+  accentcity: "Diala"
 diam diam: 
-  city: diam diam
-  accentcity: Diam Diam
+  city: "diam diam"
+  accentcity: "Diam Diam"
 diamel vidim: 
-  city: diamel vidim
-  accentcity: Diamel Vidim
+  city: "diamel vidim"
+  accentcity: "Diamel Vidim"
 diamer: 
-  city: diamer
-  accentcity: Diamer
+  city: "diamer"
+  accentcity: "Diamer"
 diandiourou: 
-  city: diandiourou
-  accentcity: Diandiourou
+  city: "diandiourou"
+  accentcity: "Diandiourou"
 dianguina: 
-  city: dianguina
-  accentcity: Dianguina
+  city: "dianguina"
+  accentcity: "Dianguina"
 diaouara: 
-  city: diaouara
-  accentcity: Diaouara
+  city: "diaouara"
+  accentcity: "Diaouara"
 diaoube: 
-  city: diaoube
+  city: "diaoube"
   accentcity: "Diaoubé"
 diawara: 
-  city: diawara
-  accentcity: Diawara
+  city: "diawara"
+  accentcity: "Diawara"
 dida rhoule: 
-  city: dida rhoule
+  city: "dida rhoule"
   accentcity: "Dida Rhoulé"
 dieba: 
-  city: dieba
+  city: "dieba"
   accentcity: "Diéba"
 diemar: 
-  city: diemar
-  accentcity: Diemar
+  city: "diemar"
+  accentcity: "Diemar"
 dieuk: 
-  city: dieuk
-  accentcity: Dieuk
+  city: "dieuk"
+  accentcity: "Dieuk"
 dimja: 
-  city: dimja
-  accentcity: Dimja
+  city: "dimja"
+  accentcity: "Dimja"
 dimje: 
-  city: dimje
-  accentcity: Dimje
+  city: "dimje"
+  accentcity: "Dimje"
 dindi: 
-  city: dindi
-  accentcity: Dindi
+  city: "dindi"
+  accentcity: "Dindi"
 dineker: 
-  city: dineker
-  accentcity: Dineker
+  city: "dineker"
+  accentcity: "Dineker"
 diogountourou: 
-  city: diogountourou
-  accentcity: Diogountourou
+  city: "diogountourou"
+  accentcity: "Diogountourou"
 diogoutourou: 
-  city: diogoutourou
-  accentcity: Diogoutourou
+  city: "diogoutourou"
+  accentcity: "Diogoutourou"
 dioldi: 
-  city: dioldi
-  accentcity: Dioldi
+  city: "dioldi"
+  accentcity: "Dioldi"
 dioroum: 
-  city: dioroum
-  accentcity: Dioroum
+  city: "dioroum"
+  accentcity: "Dioroum"
 dios: 
-  city: dios
-  accentcity: Dios
+  city: "dios"
+  accentcity: "Dios"
 dioubali: 
-  city: dioubali
-  accentcity: Dioubali
+  city: "dioubali"
+  accentcity: "Dioubali"
 dioudi: 
-  city: dioudi
-  accentcity: Dioudi
+  city: "dioudi"
+  accentcity: "Dioudi"
 diouker: 
-  city: diouker
-  accentcity: Diouker
+  city: "diouker"
+  accentcity: "Diouker"
 dioulon: 
-  city: dioulon
-  accentcity: Dioulon
+  city: "dioulon"
+  accentcity: "Dioulon"
 diou ould sneleoum: 
-  city: diou ould sneleoum
+  city: "diou ould sneleoum"
   accentcity: "Diou Ould Snéléoum"
 diovol: 
-  city: diovol
-  accentcity: Diovol
+  city: "diovol"
+  accentcity: "Diovol"
 djadjebina: 
-  city: djadjebina
-  accentcity: Djadjebina
+  city: "djadjebina"
+  accentcity: "Djadjebina"
 djadjibine: 
-  city: djadjibine
-  accentcity: Djadjibine
+  city: "djadjibine"
+  accentcity: "Djadjibine"
 djajbine chorfa: 
-  city: djajbine chorfa
-  accentcity: Djajbine Chorfa
+  city: "djajbine chorfa"
+  accentcity: "Djajbine Chorfa"
 djajibine chorfa: 
-  city: djajibine chorfa
-  accentcity: Djajibine Chorfa
+  city: "djajibine chorfa"
+  accentcity: "Djajibine Chorfa"
 djajibine: 
-  city: djajibine
-  accentcity: Djajibine
+  city: "djajibine"
+  accentcity: "Djajibine"
 djebaba galadio: 
-  city: djebaba galadio
-  accentcity: Djebaba Galadio
+  city: "djebaba galadio"
+  accentcity: "Djebaba Galadio"
 djebaba level: 
-  city: djebaba level
-  accentcity: Djebaba Level
+  city: "djebaba level"
+  accentcity: "Djebaba Level"
 djeol: 
-  city: djeol
-  accentcity: Djeol
+  city: "djeol"
+  accentcity: "Djeol"
 djereida: 
-  city: djereida
-  accentcity: Djereida
+  city: "djereida"
+  accentcity: "Djereida"
 djib: 
-  city: djib
-  accentcity: Djib
+  city: "djib"
+  accentcity: "Djib"
 djigeni: 
-  city: djigeni
+  city: "djigeni"
   accentcity: "Djigéni"
 djigueni: 
-  city: djigueni
+  city: "djigueni"
   accentcity: "Djiguéni"
 djilalfa: 
-  city: djilalfa
-  accentcity: Djilalfa
+  city: "djilalfa"
+  accentcity: "Djilalfa"
 djllalfa: 
-  city: djllalfa
-  accentcity: Djllalfa
+  city: "djllalfa"
+  accentcity: "Djllalfa"
 djovol: 
-  city: djovol
-  accentcity: Djovol
+  city: "djovol"
+  accentcity: "Djovol"
 dolol civre: 
-  city: dolol civre
+  city: "dolol civre"
   accentcity: "Dolol Civré"
 dolol: 
-  city: dolol
-  accentcity: Dolol
+  city: "dolol"
+  accentcity: "Dolol"
 dolol sivre: 
-  city: dolol sivre
+  city: "dolol sivre"
   accentcity: "Dolol Sivré"
 dolol soubala: 
-  city: dolol soubala
-  accentcity: Dolol Soubala
+  city: "dolol soubala"
+  accentcity: "Dolol Soubala"
 douamkara: 
-  city: douamkara
-  accentcity: Douamkara
+  city: "douamkara"
+  accentcity: "Douamkara"
 douboungue: 
-  city: douboungue
+  city: "douboungue"
   accentcity: "Douboungué"
 dougoulgui: 
-  city: dougoulgui
-  accentcity: Dougoulgui
+  city: "dougoulgui"
+  accentcity: "Dougoulgui"
 douibel batha: 
-  city: douibel batha
-  accentcity: Douibel Batha
+  city: "douibel batha"
+  accentcity: "Douibel Batha"
 doulel: 
-  city: doulel
-  accentcity: Doulel
+  city: "doulel"
+  accentcity: "Doulel"
 dououara: 
-  city: dououara
-  accentcity: Dououara
+  city: "dououara"
+  accentcity: "Dououara"
 dyamawali: 
-  city: dyamawali
-  accentcity: Dyamawali
+  city: "dyamawali"
+  accentcity: "Dyamawali"
 dyamweli: 
-  city: dyamweli
+  city: "dyamweli"
   accentcity: "Dyamwéli"
 dyovol: 
-  city: dyovol
-  accentcity: Dyovol
+  city: "dyovol"
+  accentcity: "Dyovol"
 echkata: 
-  city: echkata
-  accentcity: Echkata
+  city: "echkata"
+  accentcity: "Echkata"
 egemanbenou: 
-  city: egemanbenou
+  city: "egemanbenou"
   accentcity: "Egémanbénou"
 eguemanbenou: 
-  city: eguemanbenou
+  city: "eguemanbenou"
   accentcity: "Eguémanbénou"
 el abde: 
-  city: el abde
+  city: "el abde"
   accentcity: "El Abdé"
 el aioun: 
-  city: el aioun
+  city: "el aioun"
   accentcity: "El A\xC3\xAFoun"
 elali ajar: 
-  city: elali ajar
-  accentcity: Elali Ajar
+  city: "elali ajar"
+  accentcity: "Elali Ajar"
 elali niaroual: 
-  city: elali niaroual
-  accentcity: Elali Niaroual
+  city: "elali niaroual"
+  accentcity: "Elali Niaroual"
 elali nioroual: 
-  city: elali nioroual
-  accentcity: Elali Nioroual
+  city: "elali nioroual"
+  accentcity: "Elali Nioroual"
 ela mouinesse: 
-  city: ela mouinesse
+  city: "ela mouinesse"
   accentcity: "Ela Mouinessé"
 el 'aoueinat: 
-  city: el 'aoueinat
+  city: "el 'aoueinat"
   accentcity: "El 'Aoue\xC3\xAFn\xC3\xA2t"
 el arch: 
-  city: el arch
-  accentcity: El Arch
+  city: "el arch"
+  accentcity: "El Arch"
 el atchane: 
-  city: el atchane
-  accentcity: El Atchane
+  city: "el atchane"
+  accentcity: "El Atchane"
 el awainatt: 
-  city: el awainatt
+  city: "el awainatt"
   accentcity: "El Awa\xC3\xAFnatt"
 el 'ayoun: 
-  city: el 'ayoun
+  city: "el 'ayoun"
   accentcity: "El 'Ayo\xC3\xBBn"
 el baghoui: 
-  city: el baghoui
-  accentcity: El Baghoui
+  city: "el baghoui"
+  accentcity: "El Baghoui"
 el bir: 
-  city: el bir
-  accentcity: El Bir
+  city: "el bir"
+  accentcity: "El Bir"
 el boulair: 
-  city: el boulair
+  city: "el boulair"
   accentcity: "El Boula\xC3\xAFr"
 el boussai: 
-  city: el boussai
+  city: "el boussai"
   accentcity: "El Boussa\xC3\xAF"
 el douti: 
-  city: el douti
-  accentcity: El Douti
+  city: "el douti"
+  accentcity: "El Douti"
 eleib: 
-  city: eleib
+  city: "eleib"
   accentcity: "\xC3\x8Aleib"
 elemene srhir: 
-  city: elemene srhir
+  city: "elemene srhir"
   accentcity: "Elemene Srh\xC3\xAEr"
 elemen srir: 
-  city: elemen srir
-  accentcity: Elemen Srir
+  city: "elemen srir"
+  accentcity: "Elemen Srir"
 el erg: 
-  city: el erg
-  accentcity: El Erg
+  city: "el erg"
+  accentcity: "El Erg"
 el faraa: 
-  city: el faraa
-  accentcity: El Faraa
+  city: "el faraa"
+  accentcity: "El Faraa"
 el fougue: 
-  city: el fougue
+  city: "el fougue"
   accentcity: "El Fougué"
 el fouie: 
-  city: el fouie
-  accentcity: El Fouie
+  city: "el fouie"
+  accentcity: "El Fouie"
 el gete mbeygou: 
-  city: el gete mbeygou
-  accentcity: "El G\xC3\xA8té Mb\xC3\xA8ygou"
+  city: "el gete mbeygou"
+  accentcity: "El Gèté Mbèygou"
 el goss: 
-  city: el goss
-  accentcity: El Goss
+  city: "el goss"
+  accentcity: "El Goss"
 el gouessi: 
-  city: el gouessi
-  accentcity: El Gouessi
+  city: "el gouessi"
+  accentcity: "El Gouessi"
 el grain: 
-  city: el grain
-  accentcity: El Grain
+  city: "el grain"
+  accentcity: "El Grain"
 el grair enzai: 
-  city: el grair enzai
+  city: "el grair enzai"
   accentcity: "El Gra\xC3\xAFr Enza\xC3\xAF"
 el grein: 
-  city: el grein
+  city: "el grein"
   accentcity: "El Gre\xC3\xAFn"
 el gueneiba: 
-  city: el gueneiba
+  city: "el gueneiba"
   accentcity: "El Guene\xC3\xAFba"
 el guete mbeigou: 
-  city: el guete mbeigou
-  accentcity: "El Gu\xC3\xA8té Mbe\xC3\xAFgou"
+  city: "el guete mbeigou"
+  accentcity: "El Guèté Mbe\xC3\xAFgou"
 el guilene: 
-  city: el guilene
-  accentcity: "El Guil\xC3\xA8ne"
+  city: "el guilene"
+  accentcity: "El Guilène"
 el haedi: 
-  city: el haedi
+  city: "el haedi"
   accentcity: "El Haédi"
 eli bab: 
-  city: eli bab
-  accentcity: Eli Bab
+  city: "eli bab"
+  accentcity: "Eli Bab"
 eli bati: 
-  city: eli bati
-  accentcity: Eli Bati
+  city: "eli bati"
+  accentcity: "Eli Bati"
 eli souitt: 
-  city: eli souitt
-  accentcity: Eli Souitt
+  city: "eli souitt"
+  accentcity: "Eli Souitt"
 el izabe: 
-  city: el izabe
-  accentcity: "El Izab\xC3\xA8"
+  city: "el izabe"
+  accentcity: "El Izabè"
 el joumaa: 
-  city: el joumaa
-  accentcity: El Joumaa
+  city: "el joumaa"
+  accentcity: "El Joumaa"
 el kseiba: 
-  city: el kseiba
+  city: "el kseiba"
   accentcity: "El Kse\xC3\xAFba"
 el magali: 
-  city: el magali
-  accentcity: El Magali
+  city: "el magali"
+  accentcity: "El Magali"
 el maha: 
-  city: el maha
-  accentcity: El Maha
+  city: "el maha"
+  accentcity: "El Maha"
 el mali: 
-  city: el mali
-  accentcity: El Mali
+  city: "el mali"
+  accentcity: "El Mali"
 el mamghar: 
-  city: el mamghar
-  accentcity: El Mamghar
+  city: "el mamghar"
+  accentcity: "El Mamghar"
 el mankous: 
-  city: el mankous
-  accentcity: El Mankous
+  city: "el mankous"
+  accentcity: "El Mankous"
 el mankouss: 
-  city: el mankouss
-  accentcity: El Mankouss
+  city: "el mankouss"
+  accentcity: "El Mankouss"
 el maroualeb: 
-  city: el maroualeb
-  accentcity: El Maroualeb
+  city: "el maroualeb"
+  accentcity: "El Maroualeb"
 el medda: 
-  city: el medda
-  accentcity: El Medda
+  city: "el medda"
+  accentcity: "El Medda"
 el meddah: 
-  city: el meddah
-  accentcity: El Meddah
+  city: "el meddah"
+  accentcity: "El Meddah"
 el memghar: 
-  city: el memghar
-  accentcity: El Memghar
+  city: "el memghar"
+  accentcity: "El Memghar"
 el memrhar: 
-  city: el memrhar
-  accentcity: El Memrhar
+  city: "el memrhar"
+  accentcity: "El Memrhar"
 el messiel: 
-  city: el messiel
+  city: "el messiel"
   accentcity: "El Méssiel"
 el meuzeu: 
-  city: el meuzeu
-  accentcity: El Meuzeu
+  city: "el meuzeu"
+  accentcity: "El Meuzeu"
 elminetafra: 
-  city: elminetafra
-  accentcity: Elminetafra
+  city: "elminetafra"
+  accentcity: "Elminetafra"
 el momchar: 
-  city: el momchar
-  accentcity: El Momchar
+  city: "el momchar"
+  accentcity: "El Momchar"
 el moudere: 
-  city: el moudere
+  city: "el moudere"
   accentcity: "El Moudéré"
 el moulali: 
-  city: el moulali
-  accentcity: El Moulali
+  city: "el moulali"
+  accentcity: "El Moulali"
 el roueirat: 
-  city: el roueirat
+  city: "el roueirat"
   accentcity: "El Roue\xC3\xAFrat"
 el srir: 
-  city: el srir
-  accentcity: El Srir
+  city: "el srir"
+  accentcity: "El Srir"
 el vana: 
-  city: el vana
-  accentcity: El Vana
+  city: "el vana"
+  accentcity: "El Vana"
 el zerda: 
-  city: el zerda
-  accentcity: El Zerda
+  city: "el zerda"
+  accentcity: "El Zerda"
 e-n-tatrat: 
-  city: e-n-tatrat
-  accentcity: E-n-Tatrat
+  city: "e-n-tatrat"
+  accentcity: "E-n-Tatrat"
 es srhir: 
-  city: es srhir
+  city: "es srhir"
   accentcity: "Es Srh\xC3\xAEr"
 ez zerda: 
-  city: ez zerda
-  accentcity: Ez Zerda
+  city: "ez zerda"
+  accentcity: "Ez Zerda"
 fadia: 
-  city: fadia
-  accentcity: Fadia
+  city: "fadia"
+  accentcity: "Fadia"
 fagyar: 
-  city: fagyar
-  accentcity: Fagyar
+  city: "fagyar"
+  accentcity: "Fagyar"
 fanaye niakouar: 
-  city: fanaye niakouar
-  accentcity: Fanaye Niakouar
+  city: "fanaye niakouar"
+  accentcity: "Fanaye Niakouar"
 fassale: 
-  city: fassale
+  city: "fassale"
   accentcity: "Fassalé"
 fdeirek: 
-  city: fdeirek
-  accentcity: Fdeirek
+  city: "fdeirek"
+  accentcity: "Fdeirek"
 fderick: 
-  city: fderick
+  city: "fderick"
   accentcity: "Fdérick"
 fderik: 
-  city: fderik
+  city: "fderik"
   accentcity: "Fdérik"
 feitas: 
-  city: feitas
+  city: "feitas"
   accentcity: "Fe\xC3\xAFtas"
 fereni: 
-  city: fereni
+  city: "fereni"
   accentcity: "Féréni"
 ferkane: 
-  city: ferkane
-  accentcity: Ferkane
+  city: "ferkane"
+  accentcity: "Ferkane"
 ferlankobe: 
-  city: ferlankobe
+  city: "ferlankobe"
   accentcity: "Ferlankobé"
 ferrala: 
-  city: ferrala
-  accentcity: Ferrala
+  city: "ferrala"
+  accentcity: "Ferrala"
 filke: 
-  city: filke
+  city: "filke"
   accentcity: "Filké"
 fimbo: 
-  city: fimbo
-  accentcity: Fimbo
+  city: "fimbo"
+  accentcity: "Fimbo"
 fimbo paliba: 
-  city: fimbo paliba
-  accentcity: Fimbo Paliba
+  city: "fimbo paliba"
+  accentcity: "Fimbo Paliba"
 flike: 
-  city: flike
-  accentcity: Flike
+  city: "flike"
+  accentcity: "Flike"
 fofana debe: 
-  city: fofana debe
+  city: "fofana debe"
   accentcity: "Fofana Débé"
 foile: 
-  city: foile
+  city: "foile"
   accentcity: "Fo\xC3\xAFlé"
 fora sinerabi: 
-  city: fora sinerabi
+  city: "fora sinerabi"
   accentcity: "Fora Sinérabi"
 fort cappolani: 
-  city: fort cappolani
-  accentcity: Fort Cappolani
+  city: "fort cappolani"
+  accentcity: "Fort Cappolani"
 fort gouraud: 
-  city: fort gouraud
-  accentcity: Fort Gouraud
+  city: "fort gouraud"
+  accentcity: "Fort Gouraud"
 fort goureaud: 
-  city: fort goureaud
-  accentcity: Fort Goureaud
+  city: "fort goureaud"
+  accentcity: "Fort Goureaud"
 fort repoux: 
-  city: fort repoux
-  accentcity: Fort Repoux
+  city: "fort repoux"
+  accentcity: "Fort Repoux"
 fort trinquet: 
-  city: fort trinquet
-  accentcity: Fort Trinquet
+  city: "fort trinquet"
+  accentcity: "Fort Trinquet"
 fort-trinquet: 
-  city: fort-trinquet
-  accentcity: Fort-Trinquet
+  city: "fort-trinquet"
+  accentcity: "Fort-Trinquet"
 foundou: 
-  city: foundou
-  accentcity: Foundou
+  city: "foundou"
+  accentcity: "Foundou"
 fra' el 'achouche: 
-  city: fra' el 'achouche
+  city: "fra' el 'achouche"
   accentcity: "Fra' el 'Acho\xC3\xBBché"
 fra' ladoum: 
-  city: fra' ladoum
-  accentcity: Fra' Ladoum
+  city: "fra' ladoum"
+  accentcity: "Fra' Ladoum"
 ga'at teidouma: 
-  city: ga'at teidouma
+  city: "ga'at teidouma"
   accentcity: "G\xC3\xA2'\xC3\xA2t Te\xC3\xAFdouma"
 gadiama: 
-  city: gadiama
-  accentcity: Gadiama
+  city: "gadiama"
+  accentcity: "Gadiama"
 gani: 
-  city: gani
-  accentcity: Gani
+  city: "gani"
+  accentcity: "Gani"
 ganki: 
-  city: ganki
-  accentcity: Ganki
+  city: "ganki"
+  accentcity: "Ganki"
 ganserake: 
-  city: ganserake
+  city: "ganserake"
   accentcity: "Ganséraké"
 gaouyere: 
-  city: gaouyere
+  city: "gaouyere"
   accentcity: "Gaouyéré"
 garak: 
-  city: garak
-  accentcity: Garak
+  city: "garak"
+  accentcity: "Garak"
 garalla: 
-  city: garalla
-  accentcity: Garalla
+  city: "garalla"
+  accentcity: "Garalla"
 garalol: 
-  city: garalol
-  accentcity: Garalol
+  city: "garalol"
+  accentcity: "Garalol"
 gare: 
-  city: gare
+  city: "gare"
   accentcity: "Garé"
 garli: 
-  city: garli
-  accentcity: Garli
+  city: "garli"
+  accentcity: "Garli"
 give: 
-  city: give
+  city: "give"
   accentcity: "Givé"
 gleibat boukine: 
-  city: gleibat boukine
+  city: "gleibat boukine"
   accentcity: "Gle\xC3\xAFb\xC3\xA2t Boukine"
 godiavel galaoual: 
-  city: godiavel galaoual
-  accentcity: Godiavel Galaoual
+  city: "godiavel galaoual"
+  accentcity: "Godiavel Galaoual"
 godioouel demba: 
-  city: godioouel demba
-  accentcity: Godioouel Demba
+  city: "godioouel demba"
+  accentcity: "Godioouel Demba"
 godioouel galaouel: 
-  city: godioouel galaouel
-  accentcity: Godioouel Galaouel
+  city: "godioouel galaouel"
+  accentcity: "Godioouel Galaouel"
 godioval: 
-  city: godioval
-  accentcity: Godioval
+  city: "godioval"
+  accentcity: "Godioval"
 godiovol: 
-  city: godiovol
-  accentcity: Godiovol
+  city: "godiovol"
+  accentcity: "Godiovol"
 godiowel demba: 
-  city: godiowel demba
-  accentcity: Godiowel Demba
+  city: "godiowel demba"
+  accentcity: "Godiowel Demba"
 godiowel galaoual: 
-  city: godiowel galaoual
-  accentcity: Godiowel Galaoual
+  city: "godiowel galaoual"
+  accentcity: "Godiowel Galaoual"
 goouatt: 
-  city: goouatt
-  accentcity: Goouatt
+  city: "goouatt"
+  accentcity: "Goouatt"
 goulel mouroir: 
-  city: goulel mouroir
-  accentcity: Goulel Mouroir
+  city: "goulel mouroir"
+  accentcity: "Goulel Mouroir"
 goupou: 
-  city: goupou
-  accentcity: Goupou
+  city: "goupou"
+  accentcity: "Goupou"
 gouraye: 
-  city: gouraye
-  accentcity: Gouraye
+  city: "gouraye"
+  accentcity: "Gouraye"
 gourdiouma: 
-  city: gourdiouma
-  accentcity: Gourdiouma
+  city: "gourdiouma"
+  accentcity: "Gourdiouma"
 gourel adama: 
-  city: gourel adama
-  accentcity: Gourel Adama
+  city: "gourel adama"
+  accentcity: "Gourel Adama"
 gourel ali: 
-  city: gourel ali
-  accentcity: Gourel Ali
+  city: "gourel ali"
+  accentcity: "Gourel Ali"
 gourel amadi boudari: 
-  city: gourel amadi boudari
-  accentcity: Gourel Amadi Boudari
+  city: "gourel amadi boudari"
+  accentcity: "Gourel Amadi Boudari"
 gourel baidi sori: 
-  city: gourel baidi sori
+  city: "gourel baidi sori"
   accentcity: "Gourel Ba\xC3\xAFdi Sori"
 gourel bakar sy: 
-  city: gourel bakar sy
-  accentcity: Gourel Bakar Sy
+  city: "gourel bakar sy"
+  accentcity: "Gourel Bakar Sy"
 gourel bamol: 
-  city: gourel bamol
-  accentcity: Gourel Bamol
+  city: "gourel bamol"
+  accentcity: "Gourel Bamol"
 gourel diare: 
-  city: gourel diare
+  city: "gourel diare"
   accentcity: "Gourel Diaré"
 gourel dieri: 
-  city: gourel dieri
+  city: "gourel dieri"
   accentcity: "Gourel Diéri"
 gourele: 
-  city: gourele
+  city: "gourele"
   accentcity: "Gourélé"
 gourel farba: 
-  city: gourel farba
-  accentcity: Gourel Farba
+  city: "gourel farba"
+  accentcity: "Gourel Farba"
 gourel foule: 
-  city: gourel foule
+  city: "gourel foule"
   accentcity: "Gourel Foulé"
 gourel gai: 
-  city: gourel gai
+  city: "gourel gai"
   accentcity: "Gourel Ga\xC3\xAF"
 gourel keradi: 
-  city: gourel keradi
-  accentcity: Gourel Keradi
+  city: "gourel keradi"
+  accentcity: "Gourel Keradi"
 gourel kotche: 
-  city: gourel kotche
+  city: "gourel kotche"
   accentcity: "Gourel Kotché"
 gourel mahamoud: 
-  city: gourel mahamoud
-  accentcity: Gourel Mahamoud
+  city: "gourel mahamoud"
+  accentcity: "Gourel Mahamoud"
 gourel malalfa: 
-  city: gourel malalfa
-  accentcity: Gourel Malalfa
+  city: "gourel malalfa"
+  accentcity: "Gourel Malalfa"
 gourel mama dado: 
-  city: gourel mama dado
-  accentcity: Gourel Mama Dado
+  city: "gourel mama dado"
+  accentcity: "Gourel Mama Dado"
 gourel mamadou penda: 
-  city: gourel mamadou penda
-  accentcity: Gourel Mamadou Penda
+  city: "gourel mamadou penda"
+  accentcity: "Gourel Mamadou Penda"
 gourel moussa: 
-  city: gourel moussa
-  accentcity: Gourel Moussa
+  city: "gourel moussa"
+  accentcity: "Gourel Moussa"
 gourel pe: 
-  city: gourel pe
+  city: "gourel pe"
   accentcity: "Gourel Pé"
 gourel salde: 
-  city: gourel salde
+  city: "gourel salde"
   accentcity: "Gourel Saldé"
 gourel samba sidi: 
-  city: gourel samba sidi
-  accentcity: Gourel Samba Sidi
+  city: "gourel samba sidi"
+  accentcity: "Gourel Samba Sidi"
 gourel sanetabe: 
-  city: gourel sanetabe
+  city: "gourel sanetabe"
   accentcity: "Gourel Sanétabé"
 gourel somana: 
-  city: gourel somana
-  accentcity: Gourel Somana
+  city: "gourel somana"
+  accentcity: "Gourel Somana"
 gourel tierna amadou: 
-  city: gourel tierna amadou
-  accentcity: Gourel Tierna Amadou
+  city: "gourel tierna amadou"
+  accentcity: "Gourel Tierna Amadou"
 gourel tierno: 
-  city: gourel tierno
-  accentcity: Gourel Tierno
+  city: "gourel tierno"
+  accentcity: "Gourel Tierno"
 gouret farba: 
-  city: gouret farba
-  accentcity: Gouret Farba
+  city: "gouret farba"
+  accentcity: "Gouret Farba"
 goureye: 
-  city: goureye
-  accentcity: Goureye
+  city: "goureye"
+  accentcity: "Goureye"
 gourfaf: 
-  city: gourfaf
-  accentcity: Gourfaf
+  city: "gourfaf"
+  accentcity: "Gourfaf"
 goven kare: 
-  city: goven kare
+  city: "goven kare"
   accentcity: "Goven Karé"
 govin kare: 
-  city: govin kare
+  city: "govin kare"
   accentcity: "Govin Karé"
 gowatt: 
-  city: gowatt
-  accentcity: Gowatt
+  city: "gowatt"
+  accentcity: "Gowatt"
 grair enzai: 
-  city: grair enzai
+  city: "grair enzai"
   accentcity: "Gra\xC3\xAFr Enza\xC3\xAF"
 gueleibate boukine: 
-  city: gueleibate boukine
+  city: "gueleibate boukine"
   accentcity: "Guéle\xC3\xAFbate Boukine"
 gueleibate: 
-  city: gueleibate
+  city: "gueleibate"
   accentcity: "Guelé\xC3\xAFbate"
 gueleibe: 
-  city: gueleibe
+  city: "gueleibe"
   accentcity: "Guéle\xC3\xAFbé"
 gueleoil: 
-  city: gueleoil
+  city: "gueleoil"
   accentcity: "Guéléoil"
 gueleoual: 
-  city: gueleoual
+  city: "gueleoual"
   accentcity: "Guéléoual"
 guemou: 
-  city: guemou
+  city: "guemou"
   accentcity: "Guémou"
 guenetir: 
-  city: guenetir
+  city: "guenetir"
   accentcity: "Guénétir"
 guidakar: 
-  city: guidakar
-  accentcity: Guidakar
+  city: "guidakar"
+  accentcity: "Guidakar"
 guidala: 
-  city: guidala
-  accentcity: Guidala
+  city: "guidala"
+  accentcity: "Guidala"
 guidembala: 
-  city: guidembala
-  accentcity: Guidembala
+  city: "guidembala"
+  accentcity: "Guidembala"
 guidibine: 
-  city: guidibine
+  city: "guidibine"
   accentcity: "Guidibiné"
 guidilol: 
-  city: guidilol
-  accentcity: Guidilol
+  city: "guidilol"
+  accentcity: "Guidilol"
 guiegui: 
-  city: guiegui
+  city: "guiegui"
   accentcity: "Guiégui"
 guirai: 
-  city: guirai
+  city: "guirai"
   accentcity: "Guira\xC3\xAF"
 guiraye: 
-  city: guiraye
-  accentcity: Guiraye
+  city: "guiraye"
+  accentcity: "Guiraye"
 guireye: 
-  city: guireye
-  accentcity: Guireye
+  city: "guireye"
+  accentcity: "Guireye"
 hadad: 
-  city: hadad
-  accentcity: Hadad
+  city: "hadad"
+  accentcity: "Hadad"
 haddah: 
-  city: haddah
-  accentcity: Haddah
+  city: "haddah"
+  accentcity: "Haddah"
 haere golere: 
-  city: haere golere
+  city: "haere golere"
   accentcity: "Haéré Goléré"
 haere mbar: 
-  city: haere mbar
+  city: "haere mbar"
   accentcity: "Haéré Mbar"
 hai medat: 
-  city: hai medat
+  city: "hai medat"
   accentcity: "Ha\xC3\xAF Médat"
 haire golere: 
-  city: haire golere
+  city: "haire golere"
   accentcity: "Ha\xC3\xAFré Goléré"
 haire: 
-  city: haire
+  city: "haire"
   accentcity: "Ha\xC3\xAFré"
 haire mbar: 
-  city: haire mbar
+  city: "haire mbar"
   accentcity: "Ha\xC3\xAFré Mbar"
 hamdallaye: 
-  city: hamdallaye
-  accentcity: Hamdallaye
+  city: "hamdallaye"
+  accentcity: "Hamdallaye"
 hamed jibi: 
-  city: hamed jibi
-  accentcity: Hamed Jibi
+  city: "hamed jibi"
+  accentcity: "Hamed Jibi"
 hamoud: 
-  city: hamoud
-  accentcity: Hamoud
+  city: "hamoud"
+  accentcity: "Hamoud"
 hamouria: 
-  city: hamouria
-  accentcity: Hamouria
+  city: "hamouria"
+  accentcity: "Hamouria"
 hamourya: 
-  city: hamourya
+  city: "hamourya"
   accentcity: "H\xC3\xA2moury\xC3\xA2"
 hari hara: 
-  city: hari hara
-  accentcity: Hari Hara
+  city: "hari hara"
+  accentcity: "Hari Hara"
 harouna: 
-  city: harouna
-  accentcity: Harouna
+  city: "harouna"
+  accentcity: "Harouna"
 harr: 
-  city: harr
-  accentcity: Harr
+  city: "harr"
+  accentcity: "Harr"
 hartane: 
-  city: hartane
-  accentcity: Hartane
+  city: "hartane"
+  accentcity: "Hartane"
 hasei larha: 
-  city: hasei larha
-  accentcity: "H\xC3\xA2s\xC3\xA8\xC3\xAF Larha"
+  city: "hasei larha"
+  accentcity: "H\xC3\xA2sè\xC3\xAF Larha"
 hassei larha: 
-  city: hassei larha
+  city: "hassei larha"
   accentcity: "Hasse\xC3\xAF Larha"
 hassei sidi: 
-  city: hassei sidi
+  city: "hassei sidi"
   accentcity: "Hasse\xC3\xAF Sidi"
 hassi bagara: 
-  city: hassi bagara
-  accentcity: Hassi Bagara
+  city: "hassi bagara"
+  accentcity: "Hassi Bagara"
 hassi bagra: 
-  city: hassi bagra
-  accentcity: Hassi Bagra
+  city: "hassi bagra"
+  accentcity: "Hassi Bagra"
 hassi bou sei: 
-  city: hassi bou sei
+  city: "hassi bou sei"
   accentcity: "Hassi Bo\xC3\xBB Se\xC3\xAF"
 hassi chaggar: 
-  city: hassi chaggar
-  accentcity: Hassi Chaggar
+  city: "hassi chaggar"
+  accentcity: "Hassi Chaggar"
 hassi chems: 
-  city: hassi chems
-  accentcity: Hassi Chems
+  city: "hassi chems"
+  accentcity: "Hassi Chems"
 hassi-chogar: 
-  city: hassi-chogar
-  accentcity: Hassi-Chogar
+  city: "hassi-chogar"
+  accentcity: "Hassi-Chogar"
 hassi delme: 
-  city: hassi delme
-  accentcity: Hassi Delme
+  city: "hassi delme"
+  accentcity: "Hassi Delme"
 hassi el abiod: 
-  city: hassi el abiod
-  accentcity: Hassi el Abiod
+  city: "hassi el abiod"
+  accentcity: "Hassi el Abiod"
 hassi el hamar: 
-  city: hassi el hamar
-  accentcity: Hassi el Hamar
+  city: "hassi el hamar"
+  accentcity: "Hassi el Hamar"
 hassi guenderes: 
-  city: hassi guenderes
-  accentcity: Hassi Guenderes
+  city: "hassi guenderes"
+  accentcity: "Hassi Guenderes"
 hassi guendres: 
-  city: hassi guendres
-  accentcity: Hassi Guendres
+  city: "hassi guendres"
+  accentcity: "Hassi Guendres"
 hassi sidi: 
-  city: hassi sidi
-  accentcity: Hassi Sidi
+  city: "hassi sidi"
+  accentcity: "Hassi Sidi"
 houi damour: 
-  city: houi damour
-  accentcity: Houi Damour
+  city: "houi damour"
+  accentcity: "Houi Damour"
 ibachelene: 
-  city: ibachelene
+  city: "ibachelene"
   accentcity: "Ibacheléne"
 idaouach: 
-  city: idaouach
-  accentcity: Idaouach
+  city: "idaouach"
+  accentcity: "Idaouach"
 idawache: 
-  city: idawache
-  accentcity: Idawache
+  city: "idawache"
+  accentcity: "Idawache"
 idjil: 
-  city: idjil
-  accentcity: Idjil
+  city: "idjil"
+  accentcity: "Idjil"
 iero djibel: 
-  city: iero djibel
+  city: "iero djibel"
   accentcity: "Iéro Djibel"
 imijije: 
-  city: imijije
+  city: "imijije"
   accentcity: "Imijijé"
 iouik: 
-  city: iouik
-  accentcity: Iouik
+  city: "iouik"
+  accentcity: "Iouik"
 iwik: 
-  city: iwik
-  accentcity: Iwik
+  city: "iwik"
+  accentcity: "Iwik"
 jerikay: 
-  city: jerikay
+  city: "jerikay"
   accentcity: "Jérikay"
 jilalive: 
-  city: jilalive
-  accentcity: Jilalive
+  city: "jilalive"
+  accentcity: "Jilalive"
 jirana: 
-  city: jirana
-  accentcity: Jirana
+  city: "jirana"
+  accentcity: "Jirana"
 joumanie: 
-  city: joumanie
+  city: "joumanie"
   accentcity: "Joumanié"
 jraif: 
-  city: jraif
+  city: "jraif"
   accentcity: "Jra\xC3\xAFf"
 jreida: 
-  city: jreida
+  city: "jreida"
   accentcity: "Jre\xC3\xAFda"
 kadi-el-abou: 
-  city: kadi-el-abou
-  accentcity: Kadi-el-Abou
+  city: "kadi-el-abou"
+  accentcity: "Kadi-el-Abou"
 kadie labou: 
-  city: kadie labou
+  city: "kadie labou"
   accentcity: "Kadié Labou"
 kadiel: 
-  city: kadiel
-  accentcity: Kadiel
+  city: "kadiel"
+  accentcity: "Kadiel"
 kaedi: 
-  city: kaedi
+  city: "kaedi"
   accentcity: "Kaédi"
 kaleourou: 
-  city: kaleourou
+  city: "kaleourou"
   accentcity: "Kaléourou"
 kalifa: 
-  city: kalifa
-  accentcity: Kalifa
+  city: "kalifa"
+  accentcity: "Kalifa"
 kaloua: 
-  city: kaloua
-  accentcity: Kaloua
+  city: "kaloua"
+  accentcity: "Kaloua"
 kalwa: 
-  city: kalwa
-  accentcity: Kalwa
+  city: "kalwa"
+  accentcity: "Kalwa"
 kamor: 
-  city: kamor
-  accentcity: Kamor
+  city: "kamor"
+  accentcity: "Kamor"
 kankossa: 
-  city: kankossa
-  accentcity: Kankossa
+  city: "kankossa"
+  accentcity: "Kankossa"
 karakoro: 
-  city: karakoro
-  accentcity: Karakoro
+  city: "karakoro"
+  accentcity: "Karakoro"
 karka: 
-  city: karka
-  accentcity: Karka
+  city: "karka"
+  accentcity: "Karka"
 karoulou: 
-  city: karoulou
-  accentcity: Karoulou
+  city: "karoulou"
+  accentcity: "Karoulou"
 kataouane: 
-  city: kataouane
-  accentcity: Kataouane
+  city: "kataouane"
+  accentcity: "Kataouane"
 kataouan: 
-  city: kataouan
-  accentcity: Kataouan
+  city: "kataouan"
+  accentcity: "Kataouan"
 kayoutt: 
-  city: kayoutt
-  accentcity: Kayoutt
+  city: "kayoutt"
+  accentcity: "Kayoutt"
 kelele: 
-  city: kelele
+  city: "kelele"
   accentcity: "Kélélé"
 keninkoumou: 
-  city: keninkoumou
+  city: "keninkoumou"
   accentcity: "Kéninkoumou"
 kerfi: 
-  city: kerfi
-  accentcity: Kerfi
+  city: "kerfi"
+  accentcity: "Kerfi"
 kersiniane: 
-  city: kersiniane
+  city: "kersiniane"
   accentcity: "Kersiniané"
 keurinadihe: 
-  city: keurinadihe
+  city: "keurinadihe"
   accentcity: "Keurinadihé"
 keur koure: 
-  city: keur koure
+  city: "keur koure"
   accentcity: "Keur Kouré"
 keur macene: 
-  city: keur macene
-  accentcity: Keur Macene
+  city: "keur macene"
+  accentcity: "Keur Macene"
 keur madike: 
-  city: keur madike
+  city: "keur madike"
   accentcity: "Keur Madiké"
 keur marsal: 
-  city: keur marsal
-  accentcity: Keur Marsal
+  city: "keur marsal"
+  accentcity: "Keur Marsal"
 keur massene: 
-  city: keur massene
-  accentcity: "Keur Mass\xC3\xA8ne"
+  city: "keur massene"
+  accentcity: "Keur Massène"
 keur mour: 
-  city: keur mour
-  accentcity: Keur Mour
+  city: "keur mour"
+  accentcity: "Keur Mour"
 keur per: 
-  city: keur per
-  accentcity: "Keur P\xC3\xA8r"
+  city: "keur per"
+  accentcity: "Keur Pèr"
 khabou guidimaka: 
-  city: khabou guidimaka
-  accentcity: Khabou Guidimaka
+  city: "khabou guidimaka"
+  accentcity: "Khabou Guidimaka"
 khabou: 
-  city: khabou
-  accentcity: Khabou
+  city: "khabou"
+  accentcity: "Khabou"
 kharre: 
-  city: kharre
+  city: "kharre"
   accentcity: "Kharré"
 kifa: 
-  city: kifa
+  city: "kifa"
   accentcity: "K\xC3\xAEfa"
 kiffa: 
-  city: kiffa
-  accentcity: Kiffa
+  city: "kiffa"
+  accentcity: "Kiffa"
 kilioua: 
-  city: kilioua
-  accentcity: Kilioua
+  city: "kilioua"
+  accentcity: "Kilioua"
 kiliwa: 
-  city: kiliwa
-  accentcity: Kiliwa
+  city: "kiliwa"
+  accentcity: "Kiliwa"
 kitane: 
-  city: kitane
-  accentcity: Kitane
+  city: "kitane"
+  accentcity: "Kitane"
 kobenni: 
-  city: kobenni
-  accentcity: Kobenni
+  city: "kobenni"
+  accentcity: "Kobenni"
 kobonni: 
-  city: kobonni
-  accentcity: Kobonni
+  city: "kobonni"
+  accentcity: "Kobonni"
 kooa: 
-  city: kooa
-  accentcity: Kooa
+  city: "kooa"
+  accentcity: "Kooa"
 koou: 
-  city: koou
-  accentcity: Koou
+  city: "koou"
+  accentcity: "Koou"
 koou nimadi: 
-  city: koou nimadi
-  accentcity: Koou Nimadi
+  city: "koou nimadi"
+  accentcity: "Koou Nimadi"
 koro: 
-  city: koro
-  accentcity: Koro
+  city: "koro"
+  accentcity: "Koro"
 korokoro: 
-  city: korokoro
-  accentcity: Korokoro
+  city: "korokoro"
+  accentcity: "Korokoro"
 kote: 
-  city: kote
+  city: "kote"
   accentcity: "Koté"
 kouide: 
-  city: kouide
+  city: "kouide"
   accentcity: "Kouidé"
 koumba ndao: 
-  city: koumba ndao
-  accentcity: Koumba Ndao
+  city: "koumba ndao"
+  accentcity: "Koumba Ndao"
 koumbi dyofi: 
-  city: koumbi dyofi
-  accentcity: Koumbi Dyofi
+  city: "koumbi dyofi"
+  accentcity: "Koumbi Dyofi"
 koumbou: 
-  city: koumbou
-  accentcity: Koumbou
+  city: "koumbou"
+  accentcity: "Koumbou"
 koundele: 
-  city: koundele
+  city: "koundele"
   accentcity: "Koundélé"
 koundel reo: 
-  city: koundel reo
+  city: "koundel reo"
   accentcity: "Koundel Réo"
 koundiourla: 
-  city: koundiourla
-  accentcity: Koundiourla
+  city: "koundiourla"
+  accentcity: "Koundiourla"
 kouroukere beda: 
-  city: kouroukere beda
+  city: "kouroukere beda"
   accentcity: "Kouroukéré Béda"
 kouroukere el kabar: 
-  city: kouroukere el kabar
+  city: "kouroukere el kabar"
   accentcity: "Kouroukéré el Kabar"
 kouroukere idoulcher: 
-  city: kouroukere idoulcher
+  city: "kouroukere idoulcher"
   accentcity: "Kouroukéré Idoulcher"
 kouroukere: 
-  city: kouroukere
+  city: "kouroukere"
   accentcity: "Kouroukéré"
 koussana: 
-  city: koussana
-  accentcity: Koussana
+  city: "koussana"
+  accentcity: "Koussana"
 koussane: 
-  city: koussane
+  city: "koussane"
   accentcity: "Koussané"
 kova: 
-  city: kova
-  accentcity: Kova
+  city: "kova"
+  accentcity: "Kova"
 kow: 
-  city: kow
-  accentcity: Kow
+  city: "kow"
+  accentcity: "Kow"
 kow nimadi: 
-  city: kow nimadi
-  accentcity: Kow Nimadi
+  city: "kow nimadi"
+  accentcity: "Kow Nimadi"
 kraa bou mbare: 
-  city: kraa bou mbare
+  city: "kraa bou mbare"
   accentcity: "Kra\xC3\xA2 Bou Mbaré"
 kra' bou mbare: 
-  city: kra' bou mbare
+  city: "kra' bou mbare"
   accentcity: "Kr\xC3\xA2' Bo\xC3\xBB Mbaré"
 ksar chams: 
-  city: ksar chams
-  accentcity: Ksar Chams
+  city: "ksar chams"
+  accentcity: "Ksar Chams"
 ksar el barka: 
-  city: ksar el barka
-  accentcity: Ksar el Barka
+  city: "ksar el barka"
+  accentcity: "Ksar el Barka"
 ksar el khali: 
-  city: ksar el khali
+  city: "ksar el khali"
   accentcity: "Ksar el Kh\xC3\xA2li"
 ksar: 
-  city: ksar
-  accentcity: Ksar
+  city: "ksar"
+  accentcity: "Ksar"
 ksar torchane: 
-  city: ksar torchane
-  accentcity: Ksar Torchane
+  city: "ksar torchane"
+  accentcity: "Ksar Torchane"
 la batterie: 
-  city: la batterie
-  accentcity: La Batterie
+  city: "la batterie"
+  accentcity: "La Batterie"
 lagafouya: 
-  city: lagafouya
-  accentcity: Lagafouya
+  city: "lagafouya"
+  accentcity: "Lagafouya"
 lahouvich: 
-  city: lahouvich
-  accentcity: Lahouvich
+  city: "lahouvich"
+  accentcity: "Lahouvich"
 la'ouessi: 
-  city: la'ouessi
-  accentcity: La'ouessi
+  city: "la'ouessi"
+  accentcity: "La'ouessi"
 larach: 
-  city: larach
-  accentcity: Larach
+  city: "larach"
+  accentcity: "Larach"
 lareich: 
-  city: lareich
+  city: "lareich"
   accentcity: "Lare\xC3\xAFch"
 lareych: 
-  city: lareych
-  accentcity: "Lar\xC3\xA8ych"
+  city: "lareych"
+  accentcity: "Larèych"
 leangrat: 
-  city: leangrat
+  city: "leangrat"
   accentcity: "Léangrat"
 lea ouemoua: 
-  city: lea ouemoua
+  city: "lea ouemoua"
   accentcity: "Léa Ouémoua"
 lea wemwa: 
-  city: lea wemwa
+  city: "lea wemwa"
   accentcity: "Léa Wémwa"
 leboudou ouaounde: 
-  city: leboudou ouaounde
+  city: "leboudou ouaounde"
   accentcity: "Léboudou Ouaoundé"
 leboudou waounde: 
-  city: leboudou waounde
+  city: "leboudou waounde"
   accentcity: "Leboudou Waoundé"
 legat: 
-  city: legat
-  accentcity: Legat
+  city: "legat"
+  accentcity: "Legat"
 legatt: 
-  city: legatt
-  accentcity: Legatt
+  city: "legatt"
+  accentcity: "Legatt"
 leggatt: 
-  city: leggatt
-  accentcity: Leggatt
+  city: "leggatt"
+  accentcity: "Leggatt"
 lehagid: 
-  city: lehagid
+  city: "lehagid"
   accentcity: "Léhagid"
 lehaguid: 
-  city: lehaguid
+  city: "lehaguid"
   accentcity: "Léhaguid"
 leherik: 
-  city: leherik
-  accentcity: Leherik
+  city: "leherik"
+  accentcity: "Leherik"
 lehoueidni: 
-  city: lehoueidni
+  city: "lehoueidni"
   accentcity: "Léhoue\xC3\xAFdni"
 le-kseiba: 
-  city: le-kseiba
+  city: "le-kseiba"
   accentcity: "Le-Ksé\xC3\xAFba"
 lekselba: 
-  city: lekselba
+  city: "lekselba"
   accentcity: "Lékselba"
 lema: 
-  city: lema
+  city: "lema"
   accentcity: "Léma"
 lemhaisrat: 
-  city: lemhaisrat
-  accentcity: Lemhaisrat
+  city: "lemhaisrat"
+  accentcity: "Lemhaisrat"
 lemjajta: 
-  city: lemjajta
-  accentcity: Lemjajta
+  city: "lemjajta"
+  accentcity: "Lemjajta"
 lemjatja: 
-  city: lemjatja
-  accentcity: Lemjatja
+  city: "lemjatja"
+  accentcity: "Lemjatja"
 lemrhada: 
-  city: lemrhada
-  accentcity: Lemrhada
+  city: "lemrhada"
+  accentcity: "Lemrhada"
 lerouerat: 
-  city: lerouerat
+  city: "lerouerat"
   accentcity: "Lerouérat"
 leroug: 
-  city: leroug
-  accentcity: Leroug
+  city: "leroug"
+  accentcity: "Leroug"
 leve: 
-  city: leve
+  city: "leve"
   accentcity: "Lévé"
 lexelba: 
-  city: lexelba
+  city: "lexelba"
   accentcity: "Léxelba"
 liguilkairi: 
-  city: liguilkairi
+  city: "liguilkairi"
   accentcity: "Liguilka\xC3\xAFri"
 lilia: 
-  city: lilia
-  accentcity: Lilia
+  city: "lilia"
+  accentcity: "Lilia"
 liradj: 
-  city: liradj
-  accentcity: Liradj
+  city: "liradj"
+  accentcity: "Liradj"
 litama: 
-  city: litama
-  accentcity: Litama
+  city: "litama"
+  accentcity: "Litama"
 livol: 
-  city: livol
-  accentcity: Livol
+  city: "livol"
+  accentcity: "Livol"
 lmeday: 
-  city: lmeday
+  city: "lmeday"
   accentcity: "Lméday"
 lorhvire: 
-  city: lorhvire
+  city: "lorhvire"
   accentcity: "Lorhviré"
 louad touil: 
-  city: louad touil
-  accentcity: Louad Touil
+  city: "louad touil"
+  accentcity: "Louad Touil"
 louboere: 
-  city: louboere
+  city: "louboere"
   accentcity: "Louboéré"
 l'oudeye: 
-  city: l'oudeye
-  accentcity: L'Oudeye
+  city: "l'oudeye"
+  accentcity: "L'Oudeye"
 lougat: 
-  city: lougat
-  accentcity: Lougat
+  city: "lougat"
+  accentcity: "Lougat"
 lougue boudame: 
-  city: lougue boudame
+  city: "lougue boudame"
   accentcity: "Lougué Boudamé"
 lougue potie: 
-  city: lougue potie
+  city: "lougue potie"
   accentcity: "Lougué Potié"
 louguere: 
-  city: louguere
+  city: "louguere"
   accentcity: "Louguéré"
 loumbaydi: 
-  city: loumbaydi
-  accentcity: Loumbaydi
+  city: "loumbaydi"
+  accentcity: "Loumbaydi"
 loumbol: 
-  city: loumbol
-  accentcity: Loumbol
+  city: "loumbol"
+  accentcity: "Loumbol"
 lououei: 
-  city: lououei
+  city: "lououei"
   accentcity: "Lououe\xC3\xAF"
 loureme: 
-  city: loureme
+  city: "loureme"
   accentcity: "Lourémé"
 louwei: 
-  city: louwei
+  city: "louwei"
   accentcity: "Louwe\xC3\xAF"
 madel: 
-  city: madel
-  accentcity: "Mad\xC3\xA8l"
+  city: "madel"
+  accentcity: "Madèl"
 madina: 
-  city: madina
-  accentcity: Madina
+  city: "madina"
+  accentcity: "Madina"
 mafondou: 
-  city: mafondou
-  accentcity: Mafondou
+  city: "mafondou"
+  accentcity: "Mafondou"
 magama: 
-  city: magama
-  accentcity: Magama
+  city: "magama"
+  accentcity: "Magama"
 maghama: 
-  city: maghama
-  accentcity: Maghama
+  city: "maghama"
+  accentcity: "Maghama"
 magta-lahjar: 
-  city: magta-lahjar
-  accentcity: Magta-lahjar
+  city: "magta-lahjar"
+  accentcity: "Magta-lahjar"
 magta' lahjar: 
-  city: magta' lahjar
-  accentcity: Magta' Lahjar
+  city: "magta' lahjar"
+  accentcity: "Magta' Lahjar"
 makadougou: 
-  city: makadougou
-  accentcity: Makadougou
+  city: "makadougou"
+  accentcity: "Makadougou"
 makhana: 
-  city: makhana
-  accentcity: Makhana
+  city: "makhana"
+  accentcity: "Makhana"
 makredi: 
-  city: makredi
+  city: "makredi"
   accentcity: "Makrédi"
 mamaeli: 
-  city: mamaeli
+  city: "mamaeli"
   accentcity: "Mamaéli"
 mame diak: 
-  city: mame diak
-  accentcity: Mame Diak
+  city: "mame diak"
+  accentcity: "Mame Diak"
 mansour: 
-  city: mansour
-  accentcity: Mansour
+  city: "mansour"
+  accentcity: "Mansour"
 maoudass: 
-  city: maoudass
-  accentcity: Maoudass
+  city: "maoudass"
+  accentcity: "Maoudass"
 mara: 
-  city: mara
-  accentcity: Mara
+  city: "mara"
+  accentcity: "Mara"
 marandebe: 
-  city: marandebe
+  city: "marandebe"
   accentcity: "Marandébé"
 marane: 
-  city: marane
+  city: "marane"
   accentcity: "Marané"
 mareifa: 
-  city: mareifa
+  city: "mareifa"
   accentcity: "Mare\xC3\xAFfa"
 marhandye: 
-  city: marhandye
+  city: "marhandye"
   accentcity: "Marhandyé"
 marsila: 
-  city: marsila
-  accentcity: Marsila
+  city: "marsila"
+  accentcity: "Marsila"
 massam: 
-  city: massam
-  accentcity: Massam
+  city: "massam"
+  accentcity: "Massam"
 massar: 
-  city: massar
-  accentcity: Massar
+  city: "massar"
+  accentcity: "Massar"
 mbagne: 
-  city: mbagne
-  accentcity: Mbagne
+  city: "mbagne"
+  accentcity: "Mbagne"
 mbahe: 
-  city: mbahe
+  city: "mbahe"
   accentcity: "Mbahé"
 mbalou: 
-  city: mbalou
-  accentcity: Mbalou
+  city: "mbalou"
+  accentcity: "Mbalou"
 mbedia achar: 
-  city: mbedia achar
+  city: "mbedia achar"
   accentcity: "Mbédia Achar"
 mbeida: 
-  city: mbeida
-  accentcity: MBeida
+  city: "mbeida"
+  accentcity: "MBeida"
 mbeidia: 
-  city: mbeidia
+  city: "mbeidia"
   accentcity: "Mbe\xC3\xAFdia"
 mbeidi: 
-  city: mbeidi
+  city: "mbeidi"
   accentcity: "Mbe\xC3\xAFdi"
 mbich: 
-  city: mbich
-  accentcity: Mbich
+  city: "mbich"
+  accentcity: "Mbich"
 mbidane alambe: 
-  city: mbidane alambe
+  city: "mbidane alambe"
   accentcity: "Mbidane Alambé"
 mbome kawal: 
-  city: mbome kawal
+  city: "mbome kawal"
   accentcity: "Mbomé Kawal"
 mboto: 
-  city: mboto
-  accentcity: Mboto
+  city: "mboto"
+  accentcity: "Mboto"
 mboul: 
-  city: mboul
-  accentcity: Mboul
+  city: "mboul"
+  accentcity: "Mboul"
 mbout chorfa: 
-  city: mbout chorfa
-  accentcity: Mbout Chorfa
+  city: "mbout chorfa"
+  accentcity: "Mbout Chorfa"
 mbout: 
-  city: mbout
-  accentcity: Mbout
+  city: "mbout"
+  accentcity: "Mbout"
 medala: 
-  city: medala
+  city: "medala"
   accentcity: "Médala"
 medalla: 
-  city: medalla
+  city: "medalla"
   accentcity: "Médalla"
 medd allah: 
-  city: medd allah
-  accentcity: Medd Allah
+  city: "medd allah"
+  accentcity: "Medd Allah"
 mederdra: 
-  city: mederdra
-  accentcity: Mederdra
+  city: "mederdra"
+  accentcity: "Mederdra"
 meilaha: 
-  city: meilaha
+  city: "meilaha"
   accentcity: "Me\xC3\xAFlaha"
 memrhar: 
-  city: memrhar
-  accentcity: Memrhar
+  city: "memrhar"
+  accentcity: "Memrhar"
 messelse: 
-  city: messelse
+  city: "messelse"
   accentcity: "Messelsé"
 miloatane: 
-  city: miloatane
-  accentcity: Miloatane
+  city: "miloatane"
+  accentcity: "Miloatane"
 mils: 
-  city: mils
-  accentcity: Mils
+  city: "mils"
+  accentcity: "Mils"
 mkhaizine: 
-  city: mkhaizine
+  city: "mkhaizine"
   accentcity: "Mkha\xC3\xAFzine"
 modi founti: 
-  city: modi founti
-  accentcity: Modi Founti
+  city: "modi founti"
+  accentcity: "Modi Founti"
 mohili: 
-  city: mohili
-  accentcity: Mohili
+  city: "mohili"
+  accentcity: "Mohili"
 moibra: 
-  city: moibra
+  city: "moibra"
   accentcity: "Mo\xC3\xAFbra"
 moi moi: 
-  city: moi moi
+  city: "moi moi"
   accentcity: "Mo\xC3\xAF Mo\xC3\xAF"
 mokrai mara: 
-  city: mokrai mara
+  city: "mokrai mara"
   accentcity: "Mokra\xC3\xAF Mara"
 monguel foubde dieri: 
-  city: monguel foubde dieri
+  city: "monguel foubde dieri"
   accentcity: "Monguel Foubdé Diéri"
 monguel: 
-  city: monguel
+  city: "monguel"
   accentcity: "M\xC3\xB4nguel"
 monguel tounde: 
-  city: monguel tounde
+  city: "monguel tounde"
   accentcity: "Monguel Toundé"
 moribougou: 
-  city: moribougou
-  accentcity: Moribougou
+  city: "moribougou"
+  accentcity: "Moribougou"
 mostaka: 
-  city: mostaka
-  accentcity: Mostaka
+  city: "mostaka"
+  accentcity: "Mostaka"
 moudiat: 
-  city: moudiat
-  accentcity: Moudiat
+  city: "moudiat"
+  accentcity: "Moudiat"
 moudjeria: 
-  city: moudjeria
+  city: "moudjeria"
   accentcity: "Moudjéria"
 moudji babangol: 
-  city: moudji babangol
-  accentcity: Moudji Babangol
+  city: "moudji babangol"
+  accentcity: "Moudji Babangol"
 moudji youroufa: 
-  city: moudji youroufa
-  accentcity: Moudji Youroufa
+  city: "moudji youroufa"
+  accentcity: "Moudji Youroufa"
 mouenite: 
-  city: mouenite
+  city: "mouenite"
   accentcity: "Mouénité"
 mouit: 
-  city: mouit
-  accentcity: Mouit
+  city: "mouit"
+  accentcity: "Mouit"
 moujoufane: 
-  city: moujoufane
-  accentcity: Moujoufane
+  city: "moujoufane"
+  accentcity: "Moujoufane"
 moujoufan: 
-  city: moujoufan
-  accentcity: Moujoufan
+  city: "moujoufan"
+  accentcity: "Moujoufan"
 moulessimou: 
-  city: moulessimou
-  accentcity: Moulessimou
+  city: "moulessimou"
+  accentcity: "Moulessimou"
 mounguel: 
-  city: mounguel
-  accentcity: Mounguel
+  city: "mounguel"
+  accentcity: "Mounguel"
 mounor: 
-  city: mounor
-  accentcity: Mounor
+  city: "mounor"
+  accentcity: "Mounor"
 mourtogalgar: 
-  city: mourtogalgar
-  accentcity: Mourtogalgar
+  city: "mourtogalgar"
+  accentcity: "Mourtogalgar"
 mousfouaye: 
-  city: mousfouaye
+  city: "mousfouaye"
   accentcity: "Mousfouayé"
 mousfwaye: 
-  city: mousfwaye
+  city: "mousfwaye"
   accentcity: "Mousfwayé"
 moussala: 
-  city: moussala
-  accentcity: Moussala
+  city: "moussala"
+  accentcity: "Moussala"
 moussasta: 
-  city: moussasta
-  accentcity: Moussasta
+  city: "moussasta"
+  accentcity: "Moussasta"
 moussoufoye: 
-  city: moussoufoye
+  city: "moussoufoye"
   accentcity: "Moussoufoyé"
 moutahala: 
-  city: moutahala
-  accentcity: Moutahala
+  city: "moutahala"
+  accentcity: "Moutahala"
 moutogagar: 
-  city: moutogagar
-  accentcity: Moutogagar
+  city: "moutogagar"
+  accentcity: "Moutogagar"
 moutogalgar: 
-  city: moutogalgar
-  accentcity: Moutogalgar
+  city: "moutogalgar"
+  accentcity: "Moutogalgar"
 mreimida beidane: 
-  city: mreimida beidane
+  city: "mreimida beidane"
   accentcity: "Mre\xC3\xAFmida Be\xC3\xAFdane"
 mreimida haratine: 
-  city: mreimida haratine
+  city: "mreimida haratine"
   accentcity: "Mre\xC3\xAFmida Har\xC3\xA2t\xC3\xAEne"
 mreimida haratin: 
-  city: mreimida haratin
+  city: "mreimida haratin"
   accentcity: "Mre\xC3\xAFmida Haratin"
 mta meidit: 
-  city: mta meidit
+  city: "mta meidit"
   accentcity: "Mta Me\xC3\xAFdit"
 mta meydit: 
-  city: mta meydit
-  accentcity: Mta Meydit
+  city: "mta meydit"
+  accentcity: "Mta Meydit"
 mzaimid: 
-  city: mzaimid
+  city: "mzaimid"
   accentcity: "Mza\xC3\xAFmid"
 mzaymid: 
-  city: mzaymid
-  accentcity: Mzaymid
+  city: "mzaymid"
+  accentcity: "Mzaymid"
 naile: 
-  city: naile
+  city: "naile"
   accentcity: "Na\xC3\xAFlé"
 nbak: 
-  city: nbak
+  city: "nbak"
   accentcity: "Nb\xC3\xA2k"
 nbare: 
-  city: nbare
+  city: "nbare"
   accentcity: "Nbaré"
 ndam niaraoual: 
-  city: ndam niaraoual
-  accentcity: Ndam Niaraoual
+  city: "ndam niaraoual"
+  accentcity: "Ndam Niaraoual"
 ndam niaroual: 
-  city: ndam niaroual
-  accentcity: Ndam Niaroual
+  city: "ndam niaroual"
+  accentcity: "Ndam Niaroual"
 ndam yalalbe: 
-  city: ndam yalalbe
+  city: "ndam yalalbe"
   accentcity: "Ndam Yalalbé"
 n'dan: 
-  city: n'dan
-  accentcity: N'Dan
+  city: "n'dan"
+  accentcity: "N'Dan"
 ndiago: 
-  city: ndiago
-  accentcity: Ndiago
+  city: "ndiago"
+  accentcity: "Ndiago"
 ndian dia: 
-  city: ndian dia
-  accentcity: Ndian Dia
+  city: "ndian dia"
+  accentcity: "Ndian Dia"
 ndiao reo: 
-  city: ndiao reo
+  city: "ndiao reo"
   accentcity: "Ndiao Réo"
 ndiavaldi bouli: 
-  city: ndiavaldi bouli
-  accentcity: Ndiavaldi Bouli
+  city: "ndiavaldi bouli"
+  accentcity: "Ndiavaldi Bouli"
 ndiavaldi diouma: 
-  city: ndiavaldi diouma
-  accentcity: Ndiavaldi Diouma
+  city: "ndiavaldi diouma"
+  accentcity: "Ndiavaldi Diouma"
 ndiemar: 
-  city: ndiemar
+  city: "ndiemar"
   accentcity: "Ndiémar"
 ndieo: 
-  city: ndieo
+  city: "ndieo"
   accentcity: "Ndiéo"
 ndiongo: 
-  city: ndiongo
-  accentcity: Ndiongo
+  city: "ndiongo"
+  accentcity: "Ndiongo"
 ndirol: 
-  city: ndirol
-  accentcity: Ndirol
+  city: "ndirol"
+  accentcity: "Ndirol"
 ndoumelli debe: 
-  city: ndoumelli debe
+  city: "ndoumelli debe"
   accentcity: "Ndoumelli Débé"
 ndoumelli: 
-  city: ndoumelli
-  accentcity: Ndoumelli
+  city: "ndoumelli"
+  accentcity: "Ndoumelli"
 ndrenawou: 
-  city: ndrenawou
+  city: "ndrenawou"
   accentcity: "Ndrénawou"
 nega: 
-  city: nega
+  city: "nega"
   accentcity: "Néga"
 nemahidi: 
-  city: nemahidi
-  accentcity: Nemahidi
+  city: "nemahidi"
+  accentcity: "Nemahidi"
 nema: 
-  city: nema
+  city: "nema"
   accentcity: "Néma"
 nere: 
-  city: nere
+  city: "nere"
   accentcity: "Néré"
 nere oualo: 
-  city: nere oualo
+  city: "nere oualo"
   accentcity: "Néré Oualo"
 ngalgou: 
-  city: ngalgou
-  accentcity: Ngalgou
+  city: "ngalgou"
+  accentcity: "Ngalgou"
 ngapougou: 
-  city: ngapougou
-  accentcity: Ngapougou
+  city: "ngapougou"
+  accentcity: "Ngapougou"
 n'gorai: 
-  city: n'gorai
+  city: "n'gorai"
   accentcity: "N'Gora\xC3\xAF"
 ngorel: 
-  city: ngorel
-  accentcity: Ngorel
+  city: "ngorel"
+  accentcity: "Ngorel"
 niabina: 
-  city: niabina
-  accentcity: Niabina
+  city: "niabina"
+  accentcity: "Niabina"
 niarawal: 
-  city: niarawal
-  accentcity: Niarawal
+  city: "niarawal"
+  accentcity: "Niarawal"
 nieleba haouissa: 
-  city: nieleba haouissa
+  city: "nieleba haouissa"
   accentcity: "Niéleba Haouissa"
 nieleba haouisse: 
-  city: nieleba haouisse
+  city: "nieleba haouisse"
   accentcity: "Niéléba Haouissé"
 nima: 
-  city: nima
-  accentcity: Nima
+  city: "nima"
+  accentcity: "Nima"
 nimjad: 
-  city: nimjad
-  accentcity: Nimjad
+  city: "nimjad"
+  accentcity: "Nimjad"
 niomel: 
-  city: niomel
-  accentcity: Niomel
+  city: "niomel"
+  accentcity: "Niomel"
 nouadhibou: 
-  city: nouadhibou
+  city: "nouadhibou"
   accentcity: "Nou\xC3\xA2dhibou"
 nouakchat: 
-  city: nouakchat
-  accentcity: Nouakchat
+  city: "nouakchat"
+  accentcity: "Nouakchat"
 nouakchot: 
-  city: nouakchot
-  accentcity: Nouakchot
+  city: "nouakchot"
+  accentcity: "Nouakchot"
 nouakchott: 
-  city: nouakchott
-  accentcity: Nouakchott
+  city: "nouakchott"
+  accentcity: "Nouakchott"
 nouamghar: 
-  city: nouamghar
+  city: "nouamghar"
   accentcity: "Nou\xC3\xA2mgh\xC3\xA2r"
 nouamrhar: 
-  city: nouamrhar
-  accentcity: Nouamrhar
+  city: "nouamrhar"
+  accentcity: "Nouamrhar"
 nouma: 
-  city: nouma
-  accentcity: Nouma
+  city: "nouma"
+  accentcity: "Nouma"
 ntabane: 
-  city: ntabane
-  accentcity: Ntabane
+  city: "ntabane"
+  accentcity: "Ntabane"
 n-tilimit: 
-  city: n-tilimit
+  city: "n-tilimit"
   accentcity: "N-T\xC3\xAElim\xC3\xAEt"
 ntilimitt: 
-  city: ntilimitt
-  accentcity: Ntilimitt
+  city: "ntilimitt"
+  accentcity: "Ntilimitt"
 nuadibu: 
-  city: nuadibu
-  accentcity: Nuadibu
+  city: "nuadibu"
+  accentcity: "Nuadibu"
 nwanghar: 
-  city: nwanghar
-  accentcity: Nwanghar
+  city: "nwanghar"
+  accentcity: "Nwanghar"
 olo ologo: 
-  city: olo ologo
-  accentcity: Olo Ologo
+  city: "olo ologo"
+  accentcity: "Olo Ologo"
 otiere: 
-  city: otiere
+  city: "otiere"
   accentcity: "Otiéré"
 ouadane: 
-  city: ouadane
+  city: "ouadane"
   accentcity: "Ouad\xC3\xA2ne"
 ouadio: 
-  city: ouadio
-  accentcity: Ouadio
+  city: "ouadio"
+  accentcity: "Ouadio"
 oualata: 
-  city: oualata
+  city: "oualata"
   accentcity: "Oual\xC3\xA2ta"
 ouali diamtana: 
-  city: ouali diamtana
-  accentcity: Ouali Diamtana
+  city: "ouali diamtana"
+  accentcity: "Ouali Diamtana"
 ouali: 
-  city: ouali
-  accentcity: Ouali
+  city: "ouali"
+  accentcity: "Ouali"
 oudane: 
-  city: oudane
-  accentcity: Oudane
+  city: "oudane"
+  accentcity: "Oudane"
 oudei chrak: 
-  city: oudei chrak
+  city: "oudei chrak"
   accentcity: "O\xC3\xBBde\xC3\xAF Chrak"
 oudei lebhanis: 
-  city: oudei lebhanis
+  city: "oudei lebhanis"
   accentcity: "O\xC3\xBBde\xC3\xAF Lebhanis"
 oudei: 
-  city: oudei
+  city: "oudei"
   accentcity: "O\xC3\xBBde\xC3\xAF"
 oudei talaba: 
-  city: oudei talaba
+  city: "oudei talaba"
   accentcity: "O\xC3\xBBde\xC3\xAF Talaba"
 oudelemguil: 
-  city: oudelemguil
-  accentcity: Oudelemguil
+  city: "oudelemguil"
+  accentcity: "Oudelemguil"
 oudeye lebhanis: 
-  city: oudeye lebhanis
-  accentcity: Oudeye Lebhanis
+  city: "oudeye lebhanis"
+  accentcity: "Oudeye Lebhanis"
 oudeye lebhaniss: 
-  city: oudeye lebhaniss
-  accentcity: Oudeye Lebhaniss
+  city: "oudeye lebhaniss"
+  accentcity: "Oudeye Lebhaniss"
 oudeye: 
-  city: oudeye
-  accentcity: Oudeye
+  city: "oudeye"
+  accentcity: "Oudeye"
 oudeye talaba: 
-  city: oudeye talaba
-  accentcity: Oudeye Talaba
+  city: "oudeye talaba"
+  accentcity: "Oudeye Talaba"
 ouechguech: 
-  city: ouechguech
-  accentcity: Ouechguech
+  city: "ouechguech"
+  accentcity: "Ouechguech"
 ouedamor gobingoa: 
-  city: ouedamor gobingoa
+  city: "ouedamor gobingoa"
   accentcity: "Ouédamor Gobingoa"
 ouedamor gobi: 
-  city: ouedamor gobi
+  city: "ouedamor gobi"
   accentcity: "Ouédamor Gobi"
 ouedamor: 
-  city: ouedamor
+  city: "ouedamor"
   accentcity: "Ouédamor"
 oueringuel: 
-  city: oueringuel
+  city: "oueringuel"
   accentcity: "Ouéringuel"
 ouetji: 
-  city: ouetji
-  accentcity: "Ou\xC3\xA8tji"
+  city: "ouetji"
+  accentcity: "Ouètji"
 ouiouat: 
-  city: ouiouat
-  accentcity: Ouiouat
+  city: "ouiouat"
+  accentcity: "Ouiouat"
 oujefte: 
-  city: oujefte
-  accentcity: Oujefte
+  city: "oujefte"
+  accentcity: "Oujefte"
 oujeft: 
-  city: oujeft
-  accentcity: Oujeft
+  city: "oujeft"
+  accentcity: "Oujeft"
 oulad el hadji: 
-  city: oulad el hadji
-  accentcity: Oulad el Hadji
+  city: "oulad el hadji"
+  accentcity: "Oulad el Hadji"
 oulad ouissa: 
-  city: oulad ouissa
-  accentcity: Oulad Ouissa
+  city: "oulad ouissa"
+  accentcity: "Oulad Ouissa"
 oulad talha: 
-  city: oulad talha
-  accentcity: Oulad Talha
+  city: "oulad talha"
+  accentcity: "Oulad Talha"
 oula gueile: 
-  city: oula gueile
+  city: "oula gueile"
   accentcity: "Oula Gue\xC3\xAFlé"
 oulamantess: 
-  city: oulamantess
-  accentcity: Oulamantess
+  city: "oulamantess"
+  accentcity: "Oulamantess"
 ould jiddou: 
-  city: ould jiddou
-  accentcity: Ould Jiddou
+  city: "ould jiddou"
+  accentcity: "Ould Jiddou"
 ould moilid: 
-  city: ould moilid
+  city: "ould moilid"
   accentcity: "Ould Mo\xC3\xAFlid"
 ould rami: 
-  city: ould rami
-  accentcity: Ould Rami
+  city: "ould rami"
+  accentcity: "Ould Rami"
 ould yanja: 
-  city: ould yanja
-  accentcity: Ould Yanja
+  city: "ould yanja"
+  accentcity: "Ould Yanja"
 ouled addet: 
-  city: ouled addet
-  accentcity: Ouled Addet
+  city: "ouled addet"
+  accentcity: "Ouled Addet"
 oulombome: 
-  city: oulombome
+  city: "oulombome"
   accentcity: "Oulombomé"
 oulrami-maure: 
-  city: oulrami-maure
-  accentcity: Oulrami-Maure
+  city: "oulrami-maure"
+  accentcity: "Oulrami-Maure"
 oulrami maures: 
-  city: oulrami maures
-  accentcity: Oulrami Maures
+  city: "oulrami maures"
+  accentcity: "Oulrami Maures"
 oulrami: 
-  city: oulrami
-  accentcity: Oulrami
+  city: "oulrami"
+  accentcity: "Oulrami"
 oumkchera: 
-  city: oumkchera
+  city: "oumkchera"
   accentcity: "Oumkchéra"
 oumm el barka: 
-  city: oumm el barka
-  accentcity: Oumm el Barka
+  city: "oumm el barka"
+  accentcity: "Oumm el Barka"
 oumm el bohoro: 
-  city: oumm el bohoro
-  accentcity: Oumm el Bohoro
+  city: "oumm el bohoro"
+  accentcity: "Oumm el Bohoro"
 oumoulbarka: 
-  city: oumoulbarka
-  accentcity: Oumoulbarka
+  city: "oumoulbarka"
+  accentcity: "Oumoulbarka"
 oumoulbohoro: 
-  city: oumoulbohoro
-  accentcity: Oumoulbohoro
+  city: "oumoulbohoro"
+  accentcity: "Oumoulbohoro"
 oumoussoye: 
-  city: oumoussoye
+  city: "oumoussoye"
   accentcity: "Oumoussoyé"
 oumpou: 
-  city: oumpou
-  accentcity: Oumpou
+  city: "oumpou"
+  accentcity: "Oumpou"
 ouole: 
-  city: ouole
+  city: "ouole"
   accentcity: "Ouolé"
 ouoloum atar: 
-  city: ouoloum atar
-  accentcity: Ouoloum Atar
+  city: "ouoloum atar"
+  accentcity: "Ouoloum Atar"
 ouoloum nere: 
-  city: ouoloum nere
+  city: "ouoloum nere"
   accentcity: "Ouoloum Néré"
 ouompou: 
-  city: ouompou
-  accentcity: Ouompou
+  city: "ouompou"
+  accentcity: "Ouompou"
 ourguia: 
-  city: ourguia
-  accentcity: Ourguia
+  city: "ourguia"
+  accentcity: "Ourguia"
 ouro aire: 
-  city: ouro aire
+  city: "ouro aire"
   accentcity: "Ouro A\xC3\xAFré"
 ouro boka: 
-  city: ouro boka
-  accentcity: Ouro Boka
+  city: "ouro boka"
+  accentcity: "Ouro Boka"
 ouro boki: 
-  city: ouro boki
-  accentcity: Ouro Boki
+  city: "ouro boki"
+  accentcity: "Ouro Boki"
 ouro diallo: 
-  city: ouro diallo
-  accentcity: Ouro Diallo
+  city: "ouro diallo"
+  accentcity: "Ouro Diallo"
 ouro diaoube: 
-  city: ouro diaoube
+  city: "ouro diaoube"
   accentcity: "Ouro Diaoubé"
 ouro fame: 
-  city: ouro fame
+  city: "ouro fame"
   accentcity: "Ouro Famé"
 ouro fari: 
-  city: ouro fari
-  accentcity: Ouro Fari
+  city: "ouro fari"
+  accentcity: "Ouro Fari"
 ouro haire: 
-  city: ouro haire
+  city: "ouro haire"
   accentcity: "Ouro Ha\xC3\xAFré"
 ouro ndom: 
-  city: ouro ndom
-  accentcity: Ouro Ndom
+  city: "ouro ndom"
+  accentcity: "Ouro Ndom"
 ouro sabar: 
-  city: ouro sabar
-  accentcity: Ouro Sabar
+  city: "ouro sabar"
+  accentcity: "Ouro Sabar"
 ouska: 
-  city: ouska
-  accentcity: Ouska
+  city: "ouska"
+  accentcity: "Ouska"
 patoukone: 
-  city: patoukone
-  accentcity: Patoukone
+  city: "patoukone"
+  accentcity: "Patoukone"
 pempediel: 
-  city: pempediel
+  city: "pempediel"
   accentcity: "Pempédiel"
 pendao: 
-  city: pendao
-  accentcity: Pendao
+  city: "pendao"
+  accentcity: "Pendao"
 poleti: 
-  city: poleti
-  accentcity: Poleti
+  city: "poleti"
+  accentcity: "Poleti"
 portendick: 
-  city: portendick
-  accentcity: Portendick
+  city: "portendick"
+  accentcity: "Portendick"
 port-etienne: 
-  city: port-etienne
+  city: "port-etienne"
   accentcity: "Port-\xC3\x89tienne"
 port ettienne: 
-  city: port ettienne
-  accentcity: Port Ettienne
+  city: "port ettienne"
+  accentcity: "Port Ettienne"
 puits des boradda: 
-  city: puits des boradda
-  accentcity: Puits des Boradda
+  city: "puits des boradda"
+  accentcity: "Puits des Boradda"
 puits des borradas: 
-  city: puits des borradas
-  accentcity: Puits des Borradas
+  city: "puits des borradas"
+  accentcity: "Puits des Borradas"
 rachbe: 
-  city: rachbe
+  city: "rachbe"
   accentcity: "Rachbé"
 rachide: 
-  city: rachide
-  accentcity: Rachide
+  city: "rachide"
+  accentcity: "Rachide"
 rachid: 
-  city: rachid
-  accentcity: Rachid
+  city: "rachid"
+  accentcity: "Rachid"
 raichakh: 
-  city: raichakh
+  city: "raichakh"
   accentcity: "Ra\xC3\xAFchakh"
 raifera: 
-  city: raifera
+  city: "raifera"
   accentcity: "Ra\xC3\xAFféra"
 regba: 
-  city: regba
-  accentcity: Regba
+  city: "regba"
+  accentcity: "Regba"
 regbet thila: 
-  city: regbet thila
-  accentcity: Regbet Thila
+  city: "regbet thila"
+  accentcity: "Regbet Thila"
 reguibat: 
-  city: reguibat
-  accentcity: Reguibat
+  city: "reguibat"
+  accentcity: "Reguibat"
 rgueiba-thila: 
-  city: rgueiba-thila
+  city: "rgueiba-thila"
   accentcity: "Rgue\xC3\xAFba-Thila"
 rhabra: 
-  city: rhabra
-  accentcity: Rhabra
+  city: "rhabra"
+  accentcity: "Rhabra"
 rinndiao: 
-  city: rinndiao
-  accentcity: Rinndiao
+  city: "rinndiao"
+  accentcity: "Rinndiao"
 roco: 
-  city: roco
-  accentcity: Roco
+  city: "roco"
+  accentcity: "Roco"
 rosso: 
-  city: rosso
-  accentcity: Rosso
+  city: "rosso"
+  accentcity: "Rosso"
 rouji aoudi: 
-  city: rouji aoudi
-  accentcity: Rouji Aoudi
+  city: "rouji aoudi"
+  accentcity: "Rouji Aoudi"
 roumda: 
-  city: roumda
-  accentcity: Roumda
+  city: "roumda"
+  accentcity: "Roumda"
 roumde: 
-  city: roumde
+  city: "roumde"
   accentcity: "Roumdé"
 sabala: 
-  city: sabala
-  accentcity: Sabala
+  city: "sabala"
+  accentcity: "Sabala"
 sabar: 
-  city: sabar
-  accentcity: Sabar
+  city: "sabar"
+  accentcity: "Sabar"
 saboala: 
-  city: saboala
-  accentcity: Saboala
+  city: "saboala"
+  accentcity: "Saboala"
 sabou-cire: 
-  city: sabou-cire
+  city: "sabou-cire"
   accentcity: "Sabou-Ciré"
 sabou-sire: 
-  city: sabou-sire
+  city: "sabou-sire"
   accentcity: "Sabou-Siré"
 saboussire: 
-  city: saboussire
+  city: "saboussire"
   accentcity: "Saboussiré"
 sagne: 
-  city: sagne
+  city: "sagne"
   accentcity: "Sagné"
 sahout el ma: 
-  city: sahout el ma
-  accentcity: Sahout el Ma
+  city: "sahout el ma"
+  accentcity: "Sahout el Ma"
 salka bale: 
-  city: salka bale
+  city: "salka bale"
   accentcity: "Salka Balé"
 salka dahana: 
-  city: salka dahana
-  accentcity: Salka Dahana
+  city: "salka dahana"
+  accentcity: "Salka Dahana"
 sambadebe: 
-  city: sambadebe
+  city: "sambadebe"
   accentcity: "Sambadébé"
 samba doga: 
-  city: samba doga
-  accentcity: Samba Doga
+  city: "samba doga"
+  accentcity: "Samba Doga"
 sambakagny: 
-  city: sambakagny
-  accentcity: Sambakagny
+  city: "sambakagny"
+  accentcity: "Sambakagny"
 samba kandji: 
-  city: samba kandji
-  accentcity: Samba Kandji
+  city: "samba kandji"
+  accentcity: "Samba Kandji"
 sambangoma: 
-  city: sambangoma
-  accentcity: Sambangoma
+  city: "sambangoma"
+  accentcity: "Sambangoma"
 samba sako: 
-  city: samba sako
-  accentcity: Samba Sako
+  city: "samba sako"
+  accentcity: "Samba Sako"
 samba: 
-  city: samba
-  accentcity: Samba
+  city: "samba"
+  accentcity: "Samba"
 sambou: 
-  city: sambou
-  accentcity: Sambou
+  city: "sambou"
+  accentcity: "Sambou"
 sanbadebe: 
-  city: sanbadebe
+  city: "sanbadebe"
   accentcity: "Sanbadébé"
 sanba kandji: 
-  city: sanba kandji
-  accentcity: Sanba Kandji
+  city: "sanba kandji"
+  accentcity: "Sanba Kandji"
 sanbangoma: 
-  city: sanbangoma
-  accentcity: Sanbangoma
+  city: "sanbangoma"
+  accentcity: "Sanbangoma"
 sanba: 
-  city: sanba
-  accentcity: Sanba
+  city: "sanba"
+  accentcity: "Sanba"
 sanbou: 
-  city: sanbou
-  accentcity: Sanbou
+  city: "sanbou"
+  accentcity: "Sanbou"
 sandemode: 
-  city: sandemode
+  city: "sandemode"
   accentcity: "Sandémodé"
 sangue dieri: 
-  city: sangue dieri
+  city: "sangue dieri"
   accentcity: "Sangué Diéri"
 saralebeda: 
-  city: saralebeda
+  city: "saralebeda"
   accentcity: "Saralébéda"
 sarankoite: 
-  city: sarankoite
+  city: "sarankoite"
   accentcity: "Saranko\xC3\xAFté"
 sare ndogou boubakar baili: 
-  city: sare ndogou boubakar baili
+  city: "sare ndogou boubakar baili"
   accentcity: "SAré Ndogou Boubakar Ba\xC3\xAFli"
 sare ndogou diberi: 
-  city: sare ndogou diberi
+  city: "sare ndogou diberi"
   accentcity: "Saré Ndogou Dibéri"
 saye: 
-  city: saye
+  city: "saye"
   accentcity: "Sayé"
 segui: 
-  city: segui
+  city: "segui"
   accentcity: "Ségui"
 sehout el ma: 
-  city: sehout el ma
-  accentcity: Sehout el Ma
+  city: "sehout el ma"
+  accentcity: "Sehout el Ma"
 sei deleme: 
-  city: sei deleme
+  city: "sei deleme"
   accentcity: "Se\xC3\xAF Délémé"
 sei hamar: 
-  city: sei hamar
+  city: "sei hamar"
   accentcity: "Se\xC3\xAF Hamar"
 seira fatouma: 
-  city: seira fatouma
-  accentcity: Seira Fatouma
+  city: "seira fatouma"
+  accentcity: "Seira Fatouma"
 seli atach: 
-  city: seli atach
+  city: "seli atach"
   accentcity: "Séli Atach"
 selibabi: 
-  city: selibabi
+  city: "selibabi"
   accentcity: "Sélibabi"
 selibaby: 
-  city: selibaby
+  city: "selibaby"
   accentcity: "Sélibaby"
 sellam: 
-  city: sellam
-  accentcity: Sellam
+  city: "sellam"
+  accentcity: "Sellam"
 selrazene: 
-  city: selrazene
+  city: "selrazene"
   accentcity: "Selrazéné"
 sene kouna: 
-  city: sene kouna
+  city: "sene kouna"
   accentcity: "Séné Kouna"
 setare: 
-  city: setare
+  city: "setare"
   accentcity: "Sétaré"
 seyene: 
-  city: seyene
-  accentcity: "Séy\xC3\xA8ne"
+  city: "seyene"
+  accentcity: "Séyène"
 sibar: 
-  city: sibar
-  accentcity: Sibar
+  city: "sibar"
+  accentcity: "Sibar"
 si hamel: 
-  city: si hamel
-  accentcity: Si Hamel
+  city: "si hamel"
+  accentcity: "Si Hamel"
 silla: 
-  city: silla
-  accentcity: Silla
+  city: "silla"
+  accentcity: "Silla"
 siluol: 
-  city: siluol
-  accentcity: Siluol
+  city: "siluol"
+  accentcity: "Siluol"
 simon: 
-  city: simon
-  accentcity: Simon
+  city: "simon"
+  accentcity: "Simon"
 sintiou boumaka: 
-  city: sintiou boumaka
-  accentcity: Sintiou Boumaka
+  city: "sintiou boumaka"
+  accentcity: "Sintiou Boumaka"
 sive: 
-  city: sive
+  city: "sive"
   accentcity: "Sivé"
 solou: 
-  city: solou
-  accentcity: Solou
+  city: "solou"
+  accentcity: "Solou"
 sori male: 
-  city: sori male
+  city: "sori male"
   accentcity: "Sori Malé"
 soronabougou: 
-  city: soronabougou
-  accentcity: Soronabougou
+  city: "soronabougou"
+  accentcity: "Soronabougou"
 sott: 
-  city: sott
-  accentcity: Sott
+  city: "sott"
+  accentcity: "Sott"
 souaende: 
-  city: souaende
+  city: "souaende"
   accentcity: "Souaendé"
 soueif: 
-  city: soueif
+  city: "soueif"
   accentcity: "Soue\xC3\xAFf"
 souet el ma: 
-  city: souet el ma
-  accentcity: Souet el Ma
+  city: "souet el ma"
+  accentcity: "Souet el Ma"
 soufi: 
-  city: soufi
-  accentcity: Soufi
+  city: "soufi"
+  accentcity: "Soufi"
 sountchoudebe: 
-  city: sountchoudebe
+  city: "sountchoudebe"
   accentcity: "Sountchoudébé"
 swaende: 
-  city: swaende
+  city: "swaende"
   accentcity: "Swaendé"
 tacheur: 
-  city: tacheur
-  accentcity: Tacheur
+  city: "tacheur"
+  accentcity: "Tacheur"
 tairente: 
-  city: tairente
-  accentcity: Tairente
+  city: "tairente"
+  accentcity: "Tairente"
 taizennt: 
-  city: taizennt
-  accentcity: Taizennt
+  city: "taizennt"
+  accentcity: "Taizennt"
 taizent: 
-  city: taizent
+  city: "taizent"
   accentcity: "Ta\xC3\xAFzent"
 takoutala: 
-  city: takoutala
-  accentcity: Takoutala
+  city: "takoutala"
+  accentcity: "Takoutala"
 takoutalla: 
-  city: takoutalla
-  accentcity: Takoutalla
+  city: "takoutalla"
+  accentcity: "Takoutalla"
 talhaya: 
-  city: talhaya
+  city: "talhaya"
   accentcity: "Talh\xC3\xA2ya"
 tamchaket: 
-  city: tamchaket
-  accentcity: Tamchaket
+  city: "tamchaket"
+  accentcity: "Tamchaket"
 tamchakett: 
-  city: tamchakett
-  accentcity: Tamchakett
+  city: "tamchakett"
+  accentcity: "Tamchakett"
 tamchekett: 
-  city: tamchekett
-  accentcity: Tamchekett
+  city: "tamchekett"
+  accentcity: "Tamchekett"
 tamchekket: 
-  city: tamchekket
-  accentcity: Tamchekket
+  city: "tamchekket"
+  accentcity: "Tamchekket"
 tamxat: 
-  city: tamxat
-  accentcity: Tamxat
+  city: "tamxat"
+  accentcity: "Tamxat"
 tamzak: 
-  city: tamzak
-  accentcity: Tamzak
+  city: "tamzak"
+  accentcity: "Tamzak"
 tamzakt: 
-  city: tamzakt
-  accentcity: Tamzakt
+  city: "tamzakt"
+  accentcity: "Tamzakt"
 tanaha: 
-  city: tanaha
-  accentcity: Tanaha
+  city: "tanaha"
+  accentcity: "Tanaha"
 tanit: 
-  city: tanit
+  city: "tanit"
   accentcity: "T\xC3\xA2n\xC3\xAEt"
 tanoudert: 
-  city: tanoudert
-  accentcity: Tanoudert
+  city: "tanoudert"
+  accentcity: "Tanoudert"
 tanoutalla: 
-  city: tanoutalla
-  accentcity: Tanoutalla
+  city: "tanoutalla"
+  accentcity: "Tanoutalla"
 taringuel: 
-  city: taringuel
-  accentcity: Taringuel
+  city: "taringuel"
+  accentcity: "Taringuel"
 tassota barene: 
-  city: tassota barene
+  city: "tassota barene"
   accentcity: "Tassota Baréné"
 tassota botokolo: 
-  city: tassota botokolo
-  accentcity: Tassota Botokolo
+  city: "tassota botokolo"
+  accentcity: "Tassota Botokolo"
 tata: 
-  city: tata
-  accentcity: Tata
+  city: "tata"
+  accentcity: "Tata"
 tchera idobilat: 
-  city: tchera idobilat
+  city: "tchera idobilat"
   accentcity: "Tchéra Idobilat"
 tchera oulad el faghi: 
-  city: tchera oulad el faghi
+  city: "tchera oulad el faghi"
   accentcity: "Tchéra Oulad El Faghi"
 tchera oulad el fagui: 
-  city: tchera oulad el fagui
+  city: "tchera oulad el fagui"
   accentcity: "Tchéra Oulad el Fagui"
 tchera rouissa: 
-  city: tchera rouissa
+  city: "tchera rouissa"
   accentcity: "Tchéra Rouissa"
 tchera rwisa: 
-  city: tchera rwisa
+  city: "tchera rwisa"
   accentcity: "Tchéra Rwisa"
 teguel weze: 
-  city: teguel weze
+  city: "teguel weze"
   accentcity: "Téguel Wézé"
 teidouma el makha: 
-  city: teidouma el makha
+  city: "teidouma el makha"
   accentcity: "Te\xC3\xAFdouma el Makha"
 teizir: 
-  city: teizir
+  city: "teizir"
   accentcity: "Te\xC3\xAFzir"
 tejekent: 
-  city: tejekent
-  accentcity: "T\xC3\xA8jékent"
+  city: "tejekent"
+  accentcity: "Tèjékent"
 tenouderit: 
-  city: tenouderit
+  city: "tenouderit"
   accentcity: "Ténoudérit"
 tentane: 
-  city: tentane
-  accentcity: Tentane
+  city: "tentane"
+  accentcity: "Tentane"
 terbekou: 
-  city: terbekou
+  city: "terbekou"
   accentcity: "Terbékou"
 terjit: 
-  city: terjit
-  accentcity: Terjit
+  city: "terjit"
+  accentcity: "Terjit"
 tessem: 
-  city: tessem
-  accentcity: "Tess\xC3\xA8m"
+  city: "tessem"
+  accentcity: "Tessèm"
 testai: 
-  city: testai
+  city: "testai"
   accentcity: "Testa\xC3\xAF"
 tetiane: 
-  city: tetiane
+  city: "tetiane"
   accentcity: "Tétiane"
 thiong: 
-  city: thiong
-  accentcity: Thiong
+  city: "thiong"
+  accentcity: "Thiong"
 tiale: 
-  city: tiale
+  city: "tiale"
   accentcity: "Tialé"
 tialgou: 
-  city: tialgou
-  accentcity: Tialgou
+  city: "tialgou"
+  accentcity: "Tialgou"
 tiali: 
-  city: tiali
-  accentcity: Tiali
+  city: "tiali"
+  accentcity: "Tiali"
 tiango nioro: 
-  city: tiango nioro
-  accentcity: Tiango Nioro
+  city: "tiango nioro"
+  accentcity: "Tiango Nioro"
 tichilit aganataya: 
-  city: tichilit aganataya
+  city: "tichilit aganataya"
   accentcity: "T\xC3\xAEchil\xC3\xAEt Aganataya"
 tichilit ahel baba: 
-  city: tichilit ahel baba
+  city: "tichilit ahel baba"
   accentcity: "T\xC3\xAEchil\xC3\xAEt Ahel Baba"
 tichilite aganataya: 
-  city: tichilite aganataya
+  city: "tichilite aganataya"
   accentcity: "Tich\xC3\xAFlite Aganataya"
 tichilite ahel baba: 
-  city: tichilite ahel baba
-  accentcity: Tichilite Ahel Baba
+  city: "tichilite ahel baba"
+  accentcity: "Tichilite Ahel Baba"
 tichilit el hradem: 
-  city: tichilit el hradem
+  city: "tichilit el hradem"
   accentcity: "T\xC3\xAEchil\xC3\xAEt el Hradem"
 tichilit el khadem: 
-  city: tichilit el khadem
+  city: "tichilit el khadem"
   accentcity: "T\xC3\xAEchil\xC3\xAEt el Kh\xC3\xA2dem"
 tichilit el kountaoui: 
-  city: tichilit el kountaoui
+  city: "tichilit el kountaoui"
   accentcity: "T\xC3\xAEchil\xC3\xAEt el Kountaoui"
 tichit: 
-  city: tichit
+  city: "tichit"
   accentcity: "T\xC3\xAEch\xC3\xAEt"
 tichitt: 
-  city: tichitt
-  accentcity: Tichitt
+  city: "tichitt"
+  accentcity: "Tichitt"
 tide: 
-  city: tide
+  city: "tide"
   accentcity: "Tidé"
 tidjikdja: 
-  city: tidjikdja
-  accentcity: Tidjikdja
+  city: "tidjikdja"
+  accentcity: "Tidjikdja"
 tidjikja: 
-  city: tidjikja
-  accentcity: Tidjikja
+  city: "tidjikja"
+  accentcity: "Tidjikja"
 tiekane: 
-  city: tiekane
+  city: "tiekane"
   accentcity: "Tiékane"
 tienel: 
-  city: tienel
+  city: "tienel"
   accentcity: "Tiénel"
 tienidebe: 
-  city: tienidebe
+  city: "tienidebe"
   accentcity: "Tiénidébé"
 tiguent: 
-  city: tiguent
-  accentcity: Tiguent
+  city: "tiguent"
+  accentcity: "Tiguent"
 tiguere: 
-  city: tiguere
+  city: "tiguere"
   accentcity: "Tiguéré"
 tijikja: 
-  city: tijikja
-  accentcity: Tijikja
+  city: "tijikja"
+  accentcity: "Tijikja"
 tikattane: 
-  city: tikattane
-  accentcity: Tikattane
+  city: "tikattane"
+  accentcity: "Tikattane"
 tikattan: 
-  city: tikattan
-  accentcity: Tikattan
+  city: "tikattan"
+  accentcity: "Tikattan"
 tilla: 
-  city: tilla
-  accentcity: Tilla
+  city: "tilla"
+  accentcity: "Tilla"
 timbedgha: 
-  city: timbedgha
-  accentcity: Timbedgha
+  city: "timbedgha"
+  accentcity: "Timbedgha"
 timbedra: 
-  city: timbedra
+  city: "timbedra"
   accentcity: "Timbédra"
 timebedra: 
-  city: timebedra
+  city: "timebedra"
   accentcity: "Timébédra"
 tinde: 
-  city: tinde
+  city: "tinde"
   accentcity: "Tindé"
 tineto koba: 
-  city: tineto koba
+  city: "tineto koba"
   accentcity: "Tinéto Koba"
 tingal: 
-  city: tingal
-  accentcity: Tingal
+  city: "tingal"
+  accentcity: "Tingal"
 tingoumba: 
-  city: tingoumba
-  accentcity: Tingoumba
+  city: "tingoumba"
+  accentcity: "Tingoumba"
 tinteina: 
-  city: tinteina
+  city: "tinteina"
   accentcity: "Tinte\xC3\xAFna"
 tiong: 
-  city: tiong
-  accentcity: Tiong
+  city: "tiong"
+  accentcity: "Tiong"
 tioyekit: 
-  city: tioyekit
+  city: "tioyekit"
   accentcity: "Tioyékit"
 tisent: 
-  city: tisent
-  accentcity: Tisent
+  city: "tisent"
+  accentcity: "Tisent"
 tishit: 
-  city: tishit
-  accentcity: Tishit
+  city: "tishit"
+  accentcity: "Tishit"
 tjadi: 
-  city: tjadi
-  accentcity: Tjadi
+  city: "tjadi"
+  accentcity: "Tjadi"
 tjide: 
-  city: tjide
+  city: "tjide"
   accentcity: "Tjidé"
 toeil: 
-  city: toeil
+  city: "toeil"
   accentcity: "Toéil"
 tombere djingue: 
-  city: tombere djingue
+  city: "tombere djingue"
   accentcity: "Tombéré Djingué"
 tombere guinde: 
-  city: tombere guinde
+  city: "tombere guinde"
   accentcity: "Tombéré Guindé"
 toringuel: 
-  city: toringuel
-  accentcity: Toringuel
+  city: "toringuel"
+  accentcity: "Toringuel"
 toueil: 
-  city: toueil
+  city: "toueil"
   accentcity: "Toue\xC3\xAFl"
 touemirt el gouazi: 
-  city: touemirt el gouazi
+  city: "touemirt el gouazi"
   accentcity: "Touémirt el Gouazi"
 touf: 
-  city: touf
-  accentcity: Touf
+  city: "touf"
+  accentcity: "Touf"
 tougouba: 
-  city: tougouba
-  accentcity: Tougouba
+  city: "tougouba"
+  accentcity: "Tougouba"
 touil: 
-  city: touil
-  accentcity: Touil
+  city: "touil"
+  accentcity: "Touil"
 touimert-el-bera: 
-  city: touimert-el-bera
-  accentcity: "Tou\xC3\xAFmert-el-B\xC3\xA8ra"
+  city: "touimert-el-bera"
+  accentcity: "Tou\xC3\xAFmert-el-Bèra"
 touimert lbera: 
-  city: touimert lbera
-  accentcity: "Tou\xC3\xAEmert Lb\xC3\xA8ra"
+  city: "touimert lbera"
+  accentcity: "Tou\xC3\xAEmert Lbèra"
 touimrat: 
-  city: touimrat
-  accentcity: Touimrat
+  city: "touimrat"
+  accentcity: "Touimrat"
 touimratt: 
-  city: touimratt
-  accentcity: Touimratt
+  city: "touimratt"
+  accentcity: "Touimratt"
 toukobra: 
-  city: toukobra
-  accentcity: Toukobra
+  city: "toukobra"
+  accentcity: "Toukobra"
 toulde boussobe: 
-  city: toulde boussobe
+  city: "toulde boussobe"
   accentcity: "Touldé Boussobé"
 touleli: 
-  city: touleli
+  city: "touleli"
   accentcity: "Touléli"
 toulel: 
-  city: toulel
-  accentcity: Toulel
+  city: "toulel"
+  accentcity: "Toulel"
 toule: 
-  city: toule
+  city: "toule"
   accentcity: "Toulé"
 toumbare: 
-  city: toumbare
+  city: "toumbare"
   accentcity: "Toumbaré"
 toumbere djinge: 
-  city: toumbere djinge
+  city: "toumbere djinge"
   accentcity: "Toumbéré Djingé"
 toumbere djingue: 
-  city: toumbere djingue
+  city: "toumbere djingue"
   accentcity: "Toumbéré Djingué"
 toumbou: 
-  city: toumbou
-  accentcity: Toumbou
+  city: "toumbou"
+  accentcity: "Toumbou"
 toumiat: 
-  city: toumiat
-  accentcity: Toumiat
+  city: "toumiat"
+  accentcity: "Toumiat"
 toungad: 
-  city: toungad
-  accentcity: Toungad
+  city: "toungad"
+  accentcity: "Toungad"
 tounguen: 
-  city: tounguen
-  accentcity: Tounguen
+  city: "tounguen"
+  accentcity: "Tounguen"
 tourime magia: 
-  city: tourime magia
+  city: "tourime magia"
   accentcity: "Tourimé Magia"
 tourime: 
-  city: tourime
+  city: "tourime"
   accentcity: "Tourimé"
 tourime yaka: 
-  city: tourime yaka
+  city: "tourime yaka"
   accentcity: "Tourimé Yaka"
 traif: 
-  city: traif
-  accentcity: Traif
+  city: "traif"
+  accentcity: "Traif"
 tyoyekit: 
-  city: tyoyekit
+  city: "tyoyekit"
   accentcity: "Tyoyékit"
 ualata: 
-  city: ualata
-  accentcity: Ualata
+  city: "ualata"
+  accentcity: "Ualata"
 vane vane: 
-  city: vane vane
-  accentcity: Vane Vane
+  city: "vane vane"
+  accentcity: "Vane Vane"
 vannvane: 
-  city: vannvane
-  accentcity: Vannvane
+  city: "vannvane"
+  accentcity: "Vannvane"
 velidiare: 
-  city: velidiare
+  city: "velidiare"
   accentcity: "Vélidiaré"
 vendou diabi: 
-  city: vendou diabi
-  accentcity: "V\xC3\xA8ndou Diabi"
+  city: "vendou diabi"
+  accentcity: "Vèndou Diabi"
 venedou seno: 
-  city: venedou seno
+  city: "venedou seno"
   accentcity: "Vénédou Séno"
 vinde aboidi: 
-  city: vinde aboidi
+  city: "vinde aboidi"
   accentcity: "Vindé Abo\xC3\xAFdi"
 vinde aire: 
-  city: vinde aire
+  city: "vinde aire"
   accentcity: "Vindé A\xC3\xAFré"
 vinde guibi: 
-  city: vinde guibi
+  city: "vinde guibi"
   accentcity: "Vindé Guibi"
 vinde haire: 
-  city: vinde haire
+  city: "vinde haire"
   accentcity: "Vindé Ha\xC3\xAFré"
 vinde lelel: 
-  city: vinde lelel
+  city: "vinde lelel"
   accentcity: "Vindé Lélel"
 vinde mbordi: 
-  city: vinde mbordi
+  city: "vinde mbordi"
   accentcity: "Vindé Mbordi"
 vindetile: 
-  city: vindetile
+  city: "vindetile"
   accentcity: "Vindétilé"
 vindi boke: 
-  city: vindi boke
+  city: "vindi boke"
   accentcity: "Vindi Boké"
 vinding: 
-  city: vinding
-  accentcity: Vinding
+  city: "vinding"
+  accentcity: "Vinding"
 vindou goumi: 
-  city: vindou goumi
-  accentcity: Vindou Goumi
+  city: "vindou goumi"
+  accentcity: "Vindou Goumi"
 vinnde aboidi: 
-  city: vinnde aboidi
+  city: "vinnde aboidi"
   accentcity: "Vinndé Abo\xC3\xAFdi"
 vourodialo: 
-  city: vourodialo
-  accentcity: Vourodialo
+  city: "vourodialo"
+  accentcity: "Vourodialo"
 walata: 
-  city: walata
-  accentcity: Walata
+  city: "walata"
+  accentcity: "Walata"
 wali: 
-  city: wali
-  accentcity: Wali
+  city: "wali"
+  accentcity: "Wali"
 weringuel: 
-  city: weringuel
+  city: "weringuel"
   accentcity: "Wéringuel"
 winde mbordi: 
-  city: winde mbordi
+  city: "winde mbordi"
   accentcity: "Windé Mbordi"
 wiwatt: 
-  city: wiwatt
-  accentcity: Wiwatt
+  city: "wiwatt"
+  accentcity: "Wiwatt"
 wole: 
-  city: wole
+  city: "wole"
   accentcity: "Wolé"
 wompou: 
-  city: wompou
-  accentcity: Wompou
+  city: "wompou"
+  accentcity: "Wompou"
 woumpou: 
-  city: woumpou
-  accentcity: Woumpou
+  city: "woumpou"
+  accentcity: "Woumpou"
 yama: 
-  city: yama
-  accentcity: Yama
+  city: "yama"
+  accentcity: "Yama"
 yengi: 
-  city: yengi
-  accentcity: "Y\xC3\xA8ngi"
+  city: "yengi"
+  accentcity: "Yèngi"
 yengui: 
-  city: yengui
-  accentcity: "Y\xC3\xA8ngui"
+  city: "yengui"
+  accentcity: "Yèngui"
 yeni: 
-  city: yeni
+  city: "yeni"
   accentcity: "Yéni"
 yero djibel: 
-  city: yero djibel
+  city: "yero djibel"
   accentcity: "Yéro Djibel"
 yiama: 
-  city: yiama
-  accentcity: Yiama
+  city: "yiama"
+  accentcity: "Yiama"
 youmane yire: 
-  city: youmane yire
+  city: "youmane yire"
   accentcity: "Youmane Yiré"
 zainat: 
-  city: zainat
+  city: "zainat"
   accentcity: "Za\xC3\xAFnat"
 zegueha: 
-  city: zegueha
-  accentcity: Zegueha
+  city: "zegueha"
+  accentcity: "Zegueha"
 zenegue bou: 
-  city: zenegue bou
+  city: "zenegue bou"
   accentcity: "Zénégué Bou"
 zenegue maures: 
-  city: zenegue maures
+  city: "zenegue maures"
   accentcity: "Zénégué Maures"
 zenegue maure: 
-  city: zenegue maure
+  city: "zenegue maure"
   accentcity: "Zénégué Maure"
 zenegue toucouleur: 
-  city: zenegue toucouleur
+  city: "zenegue toucouleur"
   accentcity: "Zénégué Toucouleur"
 ziouaz: 
-  city: ziouaz
-  accentcity: Ziouaz
+  city: "ziouaz"
+  accentcity: "Ziouaz"
 ziwaz: 
-  city: ziwaz
-  accentcity: Ziwaz
+  city: "ziwaz"
+  accentcity: "Ziwaz"
 zoueiratt: 
-  city: zoueiratt
+  city: "zoueiratt"
   accentcity: "Zoue\xC3\xAFratt"
 zouerate: 
-  city: zouerate
+  city: "zouerate"
   accentcity: "Zouérate"
 zouerat: 
-  city: zouerat
+  city: "zouerat"
   accentcity: "Zouérat"
 zouirat: 
-  city: zouirat
+  city: "zouirat"
   accentcity: "Zou\xC3\xAEr\xC3\xA2t"
 zref: 
-  city: zref
+  city: "zref"
   accentcity: "Zréf"
 zreif el azra: 
-  city: zreif el azra
+  city: "zreif el azra"
   accentcity: "Zre\xC3\xAFf el Azra"
 zreig: 
-  city: zreig
+  city: "zreig"
   accentcity: "Zre\xC3\xAFg"

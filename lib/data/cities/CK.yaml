@@ -1,170 +1,170 @@
 # encoding: UTF-8
 --- 
 amuri: 
-  city: amuri
-  accentcity: Amuri
+  city: "amuri"
+  accentcity: "Amuri"
 areora: 
-  city: areora
-  accentcity: Areora
+  city: "areora"
+  accentcity: "Areora"
 arorangi: 
-  city: arorangi
-  accentcity: Arorangi
+  city: "arorangi"
+  accentcity: "Arorangi"
 arutanga: 
-  city: arutanga
-  accentcity: Arutanga
+  city: "arutanga"
+  accentcity: "Arutanga"
 arutunga: 
-  city: arutunga
-  accentcity: Arutunga
+  city: "arutunga"
+  accentcity: "Arutunga"
 avarua: 
-  city: avarua
-  accentcity: Avarua
+  city: "avarua"
+  accentcity: "Avarua"
 avatiu: 
-  city: avatiu
-  accentcity: Avatiu
+  city: "avatiu"
+  accentcity: "Avatiu"
 home: 
-  city: home
-  accentcity: Home
+  city: "home"
+  accentcity: "Home"
 ivirua: 
-  city: ivirua
-  accentcity: Ivirua
+  city: "ivirua"
+  accentcity: "Ivirua"
 ivirua village: 
-  city: ivirua village
-  accentcity: Ivirua Village
+  city: "ivirua village"
+  accentcity: "Ivirua Village"
 karanga village: 
-  city: karanga village
-  accentcity: Karanga Village
+  city: "karanga village"
+  accentcity: "Karanga Village"
 kaumata village: 
-  city: kaumata village
-  accentcity: Kaumata Village
+  city: "kaumata village"
+  accentcity: "Kaumata Village"
 kimiangatau village: 
-  city: kimiangatau village
-  accentcity: Kimiangatau Village
+  city: "kimiangatau village"
+  accentcity: "Kimiangatau Village"
 mangarei village: 
-  city: mangarei village
-  accentcity: Mangarei Village
+  city: "mangarei village"
+  accentcity: "Mangarei Village"
 mapumai: 
-  city: mapumai
-  accentcity: Mapumai
+  city: "mapumai"
+  accentcity: "Mapumai"
 matavera: 
-  city: matavera
-  accentcity: Matavera
+  city: "matavera"
+  accentcity: "Matavera"
 muri: 
-  city: muri
-  accentcity: Muri
+  city: "muri"
+  accentcity: "Muri"
 natikitea: 
-  city: natikitea
-  accentcity: Natikitea
+  city: "natikitea"
+  accentcity: "Natikitea"
 ngatangiia: 
-  city: ngatangiia
-  accentcity: Ngatangiia
+  city: "ngatangiia"
+  accentcity: "Ngatangiia"
 ngatiarua: 
-  city: ngatiarua
-  accentcity: Ngatiarua
+  city: "ngatiarua"
+  accentcity: "Ngatiarua"
 nikao: 
-  city: nikao
-  accentcity: Nikao
+  city: "nikao"
+  accentcity: "Nikao"
 nikaupara: 
-  city: nikaupara
-  accentcity: Nikaupara
+  city: "nikaupara"
+  accentcity: "Nikaupara"
 nukatere: 
-  city: nukatere
-  accentcity: Nukatere
+  city: "nukatere"
+  accentcity: "Nukatere"
 nukuao: 
-  city: nukuao
-  accentcity: Nukuao
+  city: "nukuao"
+  accentcity: "Nukuao"
 omoka: 
-  city: omoka
-  accentcity: Omoka
+  city: "omoka"
+  accentcity: "Omoka"
 omoko: 
-  city: omoko
-  accentcity: Omoko
+  city: "omoko"
+  accentcity: "Omoko"
 oneroa: 
-  city: oneroa
-  accentcity: Oneroa
+  city: "oneroa"
+  accentcity: "Oneroa"
 palmerston island village: 
-  city: palmerston island village
-  accentcity: Palmerston Island Village
+  city: "palmerston island village"
+  accentcity: "Palmerston Island Village"
 palmerston: 
-  city: palmerston
-  accentcity: Palmerston
+  city: "palmerston"
+  accentcity: "Palmerston"
 papaolematuu: 
-  city: papaolematuu
-  accentcity: Papaolematuu
+  city: "papaolematuu"
+  accentcity: "Papaolematuu"
 papapapaitai: 
-  city: papapapaitai
-  accentcity: Papapapaitai
+  city: "papapapaitai"
+  accentcity: "Papapapaitai"
 papapapaiuta: 
-  city: papapapaiuta
-  accentcity: Papapapaiuta
+  city: "papapapaiuta"
+  accentcity: "Papapapaiuta"
 pue: 
-  city: pue
-  accentcity: Pue
+  city: "pue"
+  accentcity: "Pue"
 reureu: 
-  city: reureu
-  accentcity: Reureu
+  city: "reureu"
+  accentcity: "Reureu"
 roto: 
-  city: roto
-  accentcity: Roto
+  city: "roto"
+  accentcity: "Roto"
 tamarua: 
-  city: tamarua
-  accentcity: Tamarua
+  city: "tamarua"
+  accentcity: "Tamarua"
 tamarua village: 
-  city: tamarua village
-  accentcity: Tamarua Village
+  city: "tamarua village"
+  accentcity: "Tamarua Village"
 tauhunu: 
-  city: tauhunu
-  accentcity: Tauhunu
+  city: "tauhunu"
+  accentcity: "Tauhunu"
 tauhunu village: 
-  city: tauhunu village
-  accentcity: Tauhunu Village
+  city: "tauhunu village"
+  accentcity: "Tauhunu Village"
 tautua: 
-  city: tautua
-  accentcity: Tautua
+  city: "tautua"
+  accentcity: "Tautua"
 tautu: 
-  city: tautu
-  accentcity: Tautu
+  city: "tautu"
+  accentcity: "Tautu"
 tava'enga village: 
-  city: tava'enga village
-  accentcity: Tava'enga Village
+  city: "tava'enga village"
+  accentcity: "Tava'enga Village"
 teenui: 
-  city: teenui
-  accentcity: Teenui
+  city: "teenui"
+  accentcity: "Teenui"
 te enui: 
-  city: te enui
-  accentcity: Te Enui
+  city: "te enui"
+  accentcity: "Te Enui"
 temakatea village: 
-  city: temakatea village
-  accentcity: Temakatea Village
+  city: "temakatea village"
+  accentcity: "Temakatea Village"
 tengatangi: 
-  city: tengatangi
-  accentcity: Tengatangi
+  city: "tengatangi"
+  accentcity: "Tengatangi"
 tengatangi village: 
-  city: tengatangi village
-  accentcity: Tengatangi Village
+  city: "tengatangi village"
+  accentcity: "Tengatangi Village"
 te tautua: 
-  city: te tautua
-  accentcity: Te Tautua
+  city: "te tautua"
+  accentcity: "Te Tautua"
 titikaveka: 
-  city: titikaveka
-  accentcity: Titikaveka
+  city: "titikaveka"
+  accentcity: "Titikaveka"
 titikaweka: 
-  city: titikaweka
-  accentcity: Titikaweka
+  city: "titikaweka"
+  accentcity: "Titikaweka"
 toamua: 
-  city: toamua
-  accentcity: Toamua
+  city: "toamua"
+  accentcity: "Toamua"
 tukao: 
-  city: tukao
-  accentcity: Tukao
+  city: "tukao"
+  accentcity: "Tukao"
 tuko: 
-  city: tuko
-  accentcity: Tuko
+  city: "tuko"
+  accentcity: "Tuko"
 tuko village: 
-  city: tuko village
-  accentcity: Tuko Village
+  city: "tuko village"
+  accentcity: "Tuko Village"
 vaipae: 
-  city: vaipae
-  accentcity: Vaipae
+  city: "vaipae"
+  accentcity: "Vaipae"
 village: 
-  city: village
-  accentcity: Village
+  city: "village"
+  accentcity: "Village"

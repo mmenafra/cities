@@ -1,5 +1,5 @@
 # encoding: UTF-8
 --- 
 kingston: 
-  city: kingston
-  accentcity: Kingston
+  city: "kingston"
+  accentcity: "Kingston"

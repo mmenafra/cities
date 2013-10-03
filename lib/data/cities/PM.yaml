@@ -1,11 +1,11 @@
 # encoding: UTF-8
 --- 
 miquelon: 
-  city: miquelon
-  accentcity: Miquelon
+  city: "miquelon"
+  accentcity: "Miquelon"
 petit barachois: 
-  city: petit barachois
-  accentcity: Petit Barachois
+  city: "petit barachois"
+  accentcity: "Petit Barachois"
 saint-pierre: 
-  city: saint-pierre
-  accentcity: Saint-Pierre
+  city: "saint-pierre"
+  accentcity: "Saint-Pierre"

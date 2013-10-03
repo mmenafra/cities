@@ -1,26 +1,26 @@
 # encoding: UTF-8
 --- 
 acquaviva: 
-  city: acquaviva
-  accentcity: Acquaviva
+  city: "acquaviva"
+  accentcity: "Acquaviva"
 chiesanuova: 
-  city: chiesanuova
-  accentcity: Chiesanuova
+  city: "chiesanuova"
+  accentcity: "Chiesanuova"
 citta di san marino: 
-  city: citta di san marino
-  accentcity: "Citt\xC3\xA0 di San Marino"
+  city: "citta di san marino"
+  accentcity: "Città di San Marino"
 falciano: 
-  city: falciano
-  accentcity: Falciano
+  city: "falciano"
+  accentcity: "Falciano"
 poggio di chiesanuova: 
-  city: poggio di chiesanuova
-  accentcity: Poggio di Chiesanuova
+  city: "poggio di chiesanuova"
+  accentcity: "Poggio di Chiesanuova"
 san marino citta: 
-  city: san marino citta
-  accentcity: "San Marino Citt\xC3\xA0"
+  city: "san marino citta"
+  accentcity: "San Marino Città"
 san marino: 
-  city: san marino
-  accentcity: San Marino
+  city: "san marino"
+  accentcity: "San Marino"
 serravalle: 
-  city: serravalle
-  accentcity: Serravalle
+  city: "serravalle"
+  accentcity: "Serravalle"

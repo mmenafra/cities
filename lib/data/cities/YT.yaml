@@ -1,368 +1,368 @@
 # encoding: UTF-8
 --- 
 accua: 
-  city: accua
-  accentcity: Accua
+  city: "accua"
+  accentcity: "Accua"
 acoua: 
-  city: acoua
-  accentcity: Acoua
+  city: "acoua"
+  accentcity: "Acoua"
 andrema: 
-  city: andrema
+  city: "andrema"
   accentcity: "Andréma"
 apandzo: 
-  city: apandzo
-  accentcity: Apandzo
+  city: "apandzo"
+  accentcity: "Apandzo"
 bambo est: 
-  city: bambo est
-  accentcity: Bambo Est
+  city: "bambo est"
+  accentcity: "Bambo Est"
 bambo ouest: 
-  city: bambo ouest
-  accentcity: Bambo Ouest
+  city: "bambo ouest"
+  accentcity: "Bambo Ouest"
 bandraboua: 
-  city: bandraboua
-  accentcity: Bandraboua
+  city: "bandraboua"
+  accentcity: "Bandraboua"
 bandrajou: 
-  city: bandrajou
-  accentcity: Bandrajou
+  city: "bandrajou"
+  accentcity: "Bandrajou"
 bandrani: 
-  city: bandrani
-  accentcity: Bandrani
+  city: "bandrani"
+  accentcity: "Bandrani"
 bandrele: 
-  city: bandrele
+  city: "bandrele"
   accentcity: "Bandrélé"
 barakani: 
-  city: barakani
-  accentcity: Barakani
+  city: "barakani"
+  accentcity: "Barakani"
 boueni: 
-  city: boueni
+  city: "boueni"
   accentcity: "Bouéni"
 bouilloni: 
-  city: bouilloni
-  accentcity: Bouilloni
+  city: "bouilloni"
+  accentcity: "Bouilloni"
 bouyouni: 
-  city: bouyouni
-  accentcity: Bouyouni
+  city: "bouyouni"
+  accentcity: "Bouyouni"
 chembenioumba: 
-  city: chembenioumba
+  city: "chembenioumba"
   accentcity: "Chembénioumba"
 chembenyoumba: 
-  city: chembenyoumba
+  city: "chembenyoumba"
   accentcity: "Chembényoumba"
 chiconi: 
-  city: chiconi
-  accentcity: Chiconi
+  city: "chiconi"
+  accentcity: "Chiconi"
 chirongui: 
-  city: chirongui
-  accentcity: Chirongui
+  city: "chirongui"
+  accentcity: "Chirongui"
 choungui: 
-  city: choungui
-  accentcity: Choungui
+  city: "choungui"
+  accentcity: "Choungui"
 choungui keli: 
-  city: choungui keli
+  city: "choungui keli"
   accentcity: "Choungui Kéli"
 coconi: 
-  city: coconi
-  accentcity: Coconi
+  city: "coconi"
+  accentcity: "Coconi"
 combani: 
-  city: combani
-  accentcity: Combani
+  city: "combani"
+  accentcity: "Combani"
 dapani: 
-  city: dapani
-  accentcity: Dapani
+  city: "dapani"
+  accentcity: "Dapani"
 djivani: 
-  city: djivani
-  accentcity: Djivani
+  city: "djivani"
+  accentcity: "Djivani"
 doujani: 
-  city: doujani
-  accentcity: Doujani
+  city: "doujani"
+  accentcity: "Doujani"
 dzaoudzi: 
-  city: dzaoudzi
-  accentcity: Dzaoudzi
+  city: "dzaoudzi"
+  accentcity: "Dzaoudzi"
 dzoumogne: 
-  city: dzoumogne
-  accentcity: Dzoumogne
+  city: "dzoumogne"
+  accentcity: "Dzoumogne"
 dzoumonye: 
-  city: dzoumonye
+  city: "dzoumonye"
   accentcity: "Dzoumonyé"
 florence: 
-  city: florence
-  accentcity: Florence
+  city: "florence"
+  accentcity: "Florence"
 foungoujou: 
-  city: foungoujou
-  accentcity: Foungoujou
+  city: "foungoujou"
+  accentcity: "Foungoujou"
 gnambo: 
-  city: gnambo
-  accentcity: Gnambo
+  city: "gnambo"
+  accentcity: "Gnambo"
 hachenoua: 
-  city: hachenoua
+  city: "hachenoua"
   accentcity: "Hachénoua"
 hajangoua: 
-  city: hajangoua
-  accentcity: Hajangoua
+  city: "hajangoua"
+  accentcity: "Hajangoua"
 hamjago: 
-  city: hamjago
-  accentcity: Hamjago
+  city: "hamjago"
+  accentcity: "Hamjago"
 hamouro: 
-  city: hamouro
-  accentcity: Hamouro
+  city: "hamouro"
+  accentcity: "Hamouro"
 handrema: 
-  city: handrema
+  city: "handrema"
   accentcity: "Handréma"
 hanyoundrou: 
-  city: hanyoundrou
-  accentcity: Hanyoundrou
+  city: "hanyoundrou"
+  accentcity: "Hanyoundrou"
 iloni: 
-  city: iloni
-  accentcity: Iloni
+  city: "iloni"
+  accentcity: "Iloni"
 ironi be: 
-  city: ironi be
+  city: "ironi be"
   accentcity: "Ironi Bé"
 kahani: 
-  city: kahani
-  accentcity: Kahani
+  city: "kahani"
+  accentcity: "Kahani"
 kangani: 
-  city: kangani
-  accentcity: Kangani
+  city: "kangani"
+  accentcity: "Kangani"
 kani be: 
-  city: kani be
+  city: "kani be"
   accentcity: "Kani Bé"
 kani keli: 
-  city: kani keli
+  city: "kani keli"
   accentcity: "Kani Kéli"
 kaoueni: 
-  city: kaoueni
+  city: "kaoueni"
   accentcity: "Kaouéni"
 karoni: 
-  city: karoni
-  accentcity: Karoni
+  city: "karoni"
+  accentcity: "Karoni"
 kavani: 
-  city: kavani
-  accentcity: Kavani
+  city: "kavani"
+  accentcity: "Kavani"
 kongo: 
-  city: kongo
-  accentcity: Kongo
+  city: "kongo"
+  accentcity: "Kongo"
 kouale: 
-  city: kouale
+  city: "kouale"
   accentcity: "Koualé"
 kouale-legion: 
-  city: kouale-legion
+  city: "kouale-legion"
   accentcity: "Koualé-Légion"
 koungou: 
-  city: koungou
-  accentcity: Koungou
+  city: "koungou"
+  accentcity: "Koungou"
 labattoir: 
-  city: labattoir
-  accentcity: Labattoir
+  city: "labattoir"
+  accentcity: "Labattoir"
 la ferme: 
-  city: la ferme
-  accentcity: La Ferme
+  city: "la ferme"
+  accentcity: "La Ferme"
 longoni: 
-  city: longoni
-  accentcity: Longoni
+  city: "longoni"
+  accentcity: "Longoni"
 maboungani: 
-  city: maboungani
-  accentcity: Maboungani
+  city: "maboungani"
+  accentcity: "Maboungani"
 majikavo 1: 
-  city: majikavo 1
-  accentcity: Majikavo 1
+  city: "majikavo 1"
+  accentcity: "Majikavo 1"
 majikavo 2: 
-  city: majikavo 2
-  accentcity: Majikavo 2
+  city: "majikavo 2"
+  accentcity: "Majikavo 2"
 majikavo koropa: 
-  city: majikavo koropa
-  accentcity: Majikavo Koropa
+  city: "majikavo koropa"
+  accentcity: "Majikavo Koropa"
 majikavo lamir: 
-  city: majikavo lamir
-  accentcity: Majikavo Lamir
+  city: "majikavo lamir"
+  accentcity: "Majikavo Lamir"
 majimeouni: 
-  city: majimeouni
+  city: "majimeouni"
   accentcity: "Majiméouni"
 malamani: 
-  city: malamani
-  accentcity: Malamani
+  city: "malamani"
+  accentcity: "Malamani"
 mambutzou: 
-  city: mambutzou
-  accentcity: Mambutzou
+  city: "mambutzou"
+  accentcity: "Mambutzou"
 mamoudzou: 
-  city: mamoudzou
-  accentcity: Mamoudzou
+  city: "mamoudzou"
+  accentcity: "Mamoudzou"
 mamoutzou: 
-  city: mamoutzou
-  accentcity: Mamoutzou
+  city: "mamoutzou"
+  accentcity: "Mamoutzou"
 mamutzu: 
-  city: mamutzu
-  accentcity: Mamutzu
+  city: "mamutzu"
+  accentcity: "Mamutzu"
 mangajou: 
-  city: mangajou
-  accentcity: Mangajou
+  city: "mangajou"
+  accentcity: "Mangajou"
 manyassini: 
-  city: manyassini
-  accentcity: Manyassini
+  city: "manyassini"
+  accentcity: "Manyassini"
 mboueanatsa: 
-  city: mboueanatsa
+  city: "mboueanatsa"
   accentcity: "Mbouéanatsa"
 mbouini: 
-  city: mbouini
-  accentcity: Mbouini
+  city: "mbouini"
+  accentcity: "Mbouini"
 mbouyouni: 
-  city: mbouyouni
-  accentcity: Mbouyouni
+  city: "mbouyouni"
+  accentcity: "Mbouyouni"
 m'gombani: 
-  city: m'gombani
-  accentcity: M'Gombani
+  city: "m'gombani"
+  accentcity: "M'Gombani"
 mirereni: 
-  city: mirereni
+  city: "mirereni"
   accentcity: "Miréréni"
 mitseni: 
-  city: mitseni
+  city: "mitseni"
   accentcity: "Mitséni"
 m'jago: 
-  city: m'jago
-  accentcity: M'Jago
+  city: "m'jago"
+  accentcity: "M'Jago"
 mliha: 
-  city: mliha
-  accentcity: Mliha
+  city: "mliha"
+  accentcity: "Mliha"
 mouanatrindi: 
-  city: mouanatrindi
-  accentcity: Mouanatrindi
+  city: "mouanatrindi"
+  accentcity: "Mouanatrindi"
 mounadzini: 
-  city: mounadzini
-  accentcity: Mounadzini
+  city: "mounadzini"
+  accentcity: "Mounadzini"
 moutsamoudou: 
-  city: moutsamoudou
-  accentcity: Moutsamoudou
+  city: "moutsamoudou"
+  accentcity: "Moutsamoudou"
 moutsatoundou: 
-  city: moutsatoundou
-  accentcity: Moutsatoundou
+  city: "moutsatoundou"
+  accentcity: "Moutsatoundou"
 moutsoumbatsou: 
-  city: moutsoumbatsou
-  accentcity: Moutsoumbatsou
+  city: "moutsoumbatsou"
+  accentcity: "Moutsoumbatsou"
 mramadoudou: 
-  city: mramadoudou
-  accentcity: Mramadoudou
+  city: "mramadoudou"
+  accentcity: "Mramadoudou"
 mrereni be: 
-  city: mrereni be
+  city: "mrereni be"
   accentcity: "Mréréni Bé"
 mrereni: 
-  city: mrereni
+  city: "mrereni"
   accentcity: "Mréréni"
 mronaleia: 
-  city: mronaleia
+  city: "mronaleia"
   accentcity: "Mronaléia"
 mronyombeni: 
-  city: mronyombeni
+  city: "mronyombeni"
   accentcity: "Mronyombéni"
 mrowale: 
-  city: mrowale
+  city: "mrowale"
   accentcity: "Mrowalé"
 mtsahara: 
-  city: mtsahara
-  accentcity: Mtsahara
+  city: "mtsahara"
+  accentcity: "Mtsahara"
 mtsamboro: 
-  city: mtsamboro
-  accentcity: Mtsamboro
+  city: "mtsamboro"
+  accentcity: "Mtsamboro"
 mtsamgamouji: 
-  city: mtsamgamouji
-  accentcity: Mtsamgamouji
+  city: "mtsamgamouji"
+  accentcity: "Mtsamgamouji"
 mtsangachehi: 
-  city: mtsangachehi
+  city: "mtsangachehi"
   accentcity: "Mtsangachéhi"
 m'tsangadoi: 
-  city: m'tsangadoi
-  accentcity: M'Tsangadoi
+  city: "m'tsangadoi"
+  accentcity: "M'Tsangadoi"
 mtsangadoua: 
-  city: mtsangadoua
-  accentcity: Mtsangadoua
+  city: "mtsangadoua"
+  accentcity: "Mtsangadoua"
 m'tsangamboi: 
-  city: m'tsangamboi
-  accentcity: M'Tsangamboi
+  city: "m'tsangamboi"
+  accentcity: "M'Tsangamboi"
 mtsangamboua: 
-  city: mtsangamboua
-  accentcity: Mtsangamboua
+  city: "mtsangamboua"
+  accentcity: "Mtsangamboua"
 m'tsangamouji: 
-  city: m'tsangamouji
-  accentcity: M'Tsangamouji
+  city: "m'tsangamouji"
+  accentcity: "M'Tsangamouji"
 mtsapere: 
-  city: mtsapere
+  city: "mtsapere"
   accentcity: "Mtsapéré"
 musicale plage: 
-  city: musicale plage
-  accentcity: Musicale Plage
+  city: "musicale plage"
+  accentcity: "Musicale Plage"
 m'zamboro: 
-  city: m'zamboro
-  accentcity: M'Zamboro
+  city: "m'zamboro"
+  accentcity: "M'Zamboro"
 mzouazia: 
-  city: mzouazia
-  accentcity: Mzouazia
+  city: "mzouazia"
+  accentcity: "Mzouazia"
 ngouja: 
-  city: ngouja
-  accentcity: Ngouja
+  city: "ngouja"
+  accentcity: "Ngouja"
 nyambadao: 
-  city: nyambadao
-  accentcity: Nyambadao
+  city: "nyambadao"
+  accentcity: "Nyambadao"
 nyambo: 
-  city: nyambo
-  accentcity: Nyambo
+  city: "nyambo"
+  accentcity: "Nyambo"
 ongojou: 
-  city: ongojou
-  accentcity: Ongojou
+  city: "ongojou"
+  accentcity: "Ongojou"
 ouangani: 
-  city: ouangani
-  accentcity: Ouangani
+  city: "ouangani"
+  accentcity: "Ouangani"
 pamandzi: 
-  city: pamandzi
-  accentcity: Pamandzi
+  city: "pamandzi"
+  accentcity: "Pamandzi"
 passamainti: 
-  city: passamainti
+  city: "passamainti"
   accentcity: "Passama\xC3\xAFnti"
 passi keli: 
-  city: passi keli
+  city: "passi keli"
   accentcity: "Passi Kéli"
 poroani: 
-  city: poroani
-  accentcity: Poroani
+  city: "poroani"
+  accentcity: "Poroani"
 rampe cannelle: 
-  city: rampe cannelle
-  accentcity: Rampe Cannelle
+  city: "rampe cannelle"
+  accentcity: "Rampe Cannelle"
 sada: 
-  city: sada
-  accentcity: Sada
+  city: "sada"
+  accentcity: "Sada"
 sazile: 
-  city: sazile
+  city: "sazile"
   accentcity: "Sazilé"
 sohoa kavani: 
-  city: sohoa kavani
-  accentcity: Sohoa Kavani
+  city: "sohoa kavani"
+  accentcity: "Sohoa Kavani"
 sohoa keli: 
-  city: sohoa keli
+  city: "sohoa keli"
   accentcity: "Sohoa Kéli"
 sohoa: 
-  city: sohoa
-  accentcity: Sohoa
+  city: "sohoa"
+  accentcity: "Sohoa"
 tanaraki: 
-  city: tanaraki
-  accentcity: Tanaraki
+  city: "tanaraki"
+  accentcity: "Tanaraki"
 trevani: 
-  city: trevani
+  city: "trevani"
   accentcity: "Trévani"
 trotrondjeou: 
-  city: trotrondjeou
+  city: "trotrondjeou"
   accentcity: "Trotrondjéou"
 tsararano: 
-  city: tsararano
-  accentcity: Tsararano
+  city: "tsararano"
+  accentcity: "Tsararano"
 tsimkoura: 
-  city: tsimkoura
-  accentcity: Tsimkoura
+  city: "tsimkoura"
+  accentcity: "Tsimkoura"
 tsingoni: 
-  city: tsingoni
-  accentcity: Tsingoni
+  city: "tsingoni"
+  accentcity: "Tsingoni"
 tsoundzou 1: 
-  city: tsoundzou 1
-  accentcity: Tsoundzou 1
+  city: "tsoundzou 1"
+  accentcity: "Tsoundzou 1"
 tsoundzou 2: 
-  city: tsoundzou 2
-  accentcity: Tsoundzou 2
+  city: "tsoundzou 2"
+  accentcity: "Tsoundzou 2"
 vahibeni: 
-  city: vahibeni
+  city: "vahibeni"
   accentcity: "Vahibéni"
