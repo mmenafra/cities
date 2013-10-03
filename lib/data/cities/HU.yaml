@@ -2,7 +2,7 @@
 --- 
 a-akna: 
   city: "a-akna"
-  accentcity: "\xC3\x81-akna"
+  accentcity: "Á-akna"
 aba: 
   city: "aba"
   accentcity: "Aba"
@@ -59,25 +59,25 @@ abonyiuti tanyak:
   accentcity: "Abonyiúti Tanyák"
 abrahamhegy: 
   city: "abrahamhegy"
-  accentcity: "\xC3\x81brahámhegy"
+  accentcity: "Ábrahámhegy"
 abrahamtelek: 
   city: "abrahamtelek"
-  accentcity: "\xC3\x81brahámtelek"
+  accentcity: "Ábrahámtelek"
 abrahamtelep: 
   city: "abrahamtelep"
-  accentcity: "\xC3\x81brahámtelep"
+  accentcity: "Ábrahámtelep"
 abrand: 
   city: "abrand"
-  accentcity: "\xC3\x81bránd"
+  accentcity: "Ábránd"
 abranytanya: 
   city: "abranytanya"
-  accentcity: "\xC3\x81bránytanya"
+  accentcity: "Ábránytanya"
 acsa: 
   city: "acsa"
   accentcity: "Acsa"
 acs: 
   city: "acs"
-  accentcity: "\xC3\x81cs"
+  accentcity: "Ács"
 acsad: 
   city: "acsad"
   accentcity: "Acsád"
@@ -89,7 +89,7 @@ acsalag:
   accentcity: "Acsalag"
 acsas: 
   city: "acsas"
-  accentcity: "\xC3\x81csás"
+  accentcity: "Ácsás"
 acsaspuszta: 
   city: "acsaspuszta"
   accentcity: "Acsáspuszta"
@@ -104,16 +104,16 @@ acsi csoszhaz:
   accentcity: "Acsi Csoszhaz"
 acstanya: 
   city: "acstanya"
-  accentcity: "\xC3\x81cstanya"
+  accentcity: "Ácstanya"
 acsteszer: 
   city: "acsteszer"
-  accentcity: "\xC3\x81csteszér"
+  accentcity: "Ácsteszér"
 acsteszeripuszta: 
   city: "acsteszeripuszta"
-  accentcity: "\xC3\x81csteszéripuszta"
+  accentcity: "Ácsteszéripuszta"
 acsteszer-puszta: 
   city: "acsteszer-puszta"
-  accentcity: "\xC3\x81csteszér-puszta"
+  accentcity: "Ácsteszér-puszta"
 adacs: 
   city: "adacs"
   accentcity: "Adács"
@@ -125,19 +125,19 @@ adamdulo:
   accentcity: "Adamdulo"
 adamhegy: 
   city: "adamhegy"
-  accentcity: "\xC3\x81dámhegy"
+  accentcity: "Ádámhegy"
 adammajor: 
   city: "adammajor"
-  accentcity: "\xC3\x81dámmajor"
+  accentcity: "Ádámmajor"
 adam-puszta: 
   city: "adam-puszta"
-  accentcity: "\xC3\x81dám-puszta"
+  accentcity: "Ádám-puszta"
 adamtanya: 
   city: "adamtanya"
-  accentcity: "\xC3\x81dámtanya"
+  accentcity: "Ádámtanya"
 adand: 
   city: "adand"
-  accentcity: "\xC3\x81dánd"
+  accentcity: "Ádánd"
 adasztevel: 
   city: "adasztevel"
   accentcity: "Adásztevel"
@@ -176,7 +176,7 @@ afrikamajor:
   accentcity: "Afrikamajor"
 ag: 
   city: "ag"
-  accentcity: "\xC3\x81g"
+  accentcity: "Ág"
 agard: 
   city: "agard"
   accentcity: "Agárd"
@@ -200,19 +200,19 @@ agarhalom:
   accentcity: "Agárhalom"
 agasegyhaza: 
   city: "agasegyhaza"
-  accentcity: "\xC3\x81gasegyháza"
+  accentcity: "Ágasegyháza"
 agasegyhazi tanyak: 
   city: "agasegyhazi tanyak"
-  accentcity: "\xC3\x81gasegyházi Tanyák"
+  accentcity: "Ágasegyházi Tanyák"
 agaserdo: 
   city: "agaserdo"
   accentcity: "Agaserdo"
 agasto: 
   city: "agasto"
-  accentcity: "\xC3\x81gastó"
+  accentcity: "Ágastó"
 agasvar: 
   city: "agasvar"
-  accentcity: "\xC3\x81gasvár"
+  accentcity: "Ágasvár"
 agerdo: 
   city: "agerdo"
   accentcity: "Agerdo"
@@ -221,7 +221,7 @@ agerdomajor:
   accentcity: "Agerdomajor"
 agfalva: 
   city: "agfalva"
-  accentcity: "\xC3\x81gfalva"
+  accentcity: "Ágfalva"
 aggato: 
   city: "aggato"
   accentcity: "Aggató"
@@ -233,25 +233,25 @@ aggtelek:
   accentcity: "Aggtelek"
 aghely: 
   city: "aghely"
-  accentcity: "\xC3\x81ghely"
+  accentcity: "Ághely"
 agnesakna: 
   city: "agnesakna"
-  accentcity: "\xC3\x81gnesakna"
+  accentcity: "Ágnesakna"
 agnesforras: 
   city: "agnesforras"
-  accentcity: "\xC3\x81gnesforrás"
+  accentcity: "Ágnesforrás"
 agnesmajor: 
   city: "agnesmajor"
-  accentcity: "\xC3\x81gnesmajor"
+  accentcity: "Ágnesmajor"
 ago: 
   city: "ago"
-  accentcity: "\xC3\x81gó"
+  accentcity: "Ágó"
 agocpuszta: 
   city: "agocpuszta"
-  accentcity: "\xC3\x81gócpuszta"
+  accentcity: "Ágócpuszta"
 agoctanya: 
   city: "agoctanya"
-  accentcity: "\xC3\x81góctanya"
+  accentcity: "Ágóctanya"
 agoi patakdulo: 
   city: "agoi patakdulo"
   accentcity: "Agoi Patakdulo"
@@ -263,31 +263,31 @@ agoi szollo:
   accentcity: "Agoi Szollo"
 agostmajor: 
   city: "agostmajor"
-  accentcity: "\xC3\x81gostmajor"
+  accentcity: "Ágostmajor"
 agostonhalom: 
   city: "agostonhalom"
-  accentcity: "\xC3\x81gostonhalom"
+  accentcity: "Ágostonhalom"
 agostonmajor: 
   city: "agostonmajor"
-  accentcity: "\xC3\x81gostonmajor"
+  accentcity: "Ágostonmajor"
 agostonpuszta: 
   city: "agostonpuszta"
-  accentcity: "\xC3\x81gostonpuszta"
+  accentcity: "Ágostonpuszta"
 agostontanya: 
   city: "agostontanya"
-  accentcity: "\xC3\x81gostontanya"
+  accentcity: "Ágostontanya"
 agostyan: 
   city: "agostyan"
-  accentcity: "\xC3\x81gostyán"
+  accentcity: "Ágostyán"
 agotazug: 
   city: "agotazug"
-  accentcity: "\xC3\x81gotazug"
+  accentcity: "Ágotazug"
 agraregyetem: 
   city: "agraregyetem"
   accentcity: "Agráregyetem"
 agtanya: 
   city: "agtanya"
-  accentcity: "\xC3\x81gtanya"
+  accentcity: "Ágtanya"
 agyagbanya: 
   city: "agyagbanya"
   accentcity: "Agyagbánya"
@@ -500,7 +500,7 @@ aldebro:
   accentcity: "Aldebro"
 aldozo: 
   city: "aldozo"
-  accentcity: "\xC3\x81ldozó"
+  accentcity: "Áldozó"
 alekszandrapuszta: 
   city: "alekszandrapuszta"
   accentcity: "Alekszandrapuszta"
@@ -566,7 +566,7 @@ alizmajor:
   accentcity: "Alizmajor"
 allami csemetekert: 
   city: "allami csemetekert"
-  accentcity: "\xC3\x81llami Csemetekert"
+  accentcity: "Állami Csemetekert"
 allami erdo: 
   city: "allami erdo"
   accentcity: "Allami Erdo"
@@ -581,25 +581,25 @@ allami gazdakepzo:
   accentcity: "Allami Gazdakepzo"
 allami malom: 
   city: "allami malom"
-  accentcity: "\xC3\x81llami Malom"
+  accentcity: "Állami Malom"
 allami szollotelep: 
   city: "allami szollotelep"
   accentcity: "Allami Szollotelep"
 allampuszta: 
   city: "allampuszta"
-  accentcity: "\xC3\x81llampuszta"
+  accentcity: "Állampuszta"
 allaskut: 
   city: "allaskut"
-  accentcity: "\xC3\x81lláskút"
+  accentcity: "Álláskút"
 allomasszogdulo: 
   city: "allomasszogdulo"
   accentcity: "Allomasszogdulo"
 allomastanya: 
   city: "allomastanya"
-  accentcity: "\xC3\x81llomástanya"
+  accentcity: "Állomástanya"
 allomastelep: 
   city: "allomastelep"
-  accentcity: "\xC3\x81llomástelep"
+  accentcity: "Állomástelep"
 almagyardulo: 
   city: "almagyardulo"
   accentcity: "Almagyardulo"
@@ -671,13 +671,13 @@ almavolgypuszta:
   accentcity: "Almav\xC3\xB6lgypuszta"
 almosd: 
   city: "almosd"
-  accentcity: "\xC3\x81lmosd"
+  accentcity: "Álmosd"
 alomzug: 
   city: "alomzug"
-  accentcity: "\xC3\x81lomzug"
+  accentcity: "Álomzug"
 alomzugtanya: 
   city: "alomzugtanya"
-  accentcity: "\xC3\x81lomzugtanya"
+  accentcity: "Álomzugtanya"
 alpar: 
   city: "alpar"
   accentcity: "Alpár"
@@ -908,10 +908,10 @@ alsofutak:
   accentcity: "Alsófutak"
 alsofutyemajor: 
   city: "alsofutyemajor"
-  accentcity: "Alsóf\xC3\xBCtyemajor"
+  accentcity: "Alsófütyemajor"
 alsofuzes: 
   city: "alsofuzes"
-  accentcity: "Alsóf\xC3\xBCzes"
+  accentcity: "Alsófüzes"
 alsogagy: 
   city: "alsogagy"
   accentcity: "Alsógagy"
@@ -956,7 +956,7 @@ alsogyotapuszta:
   accentcity: "Alsógyótapuszta"
 alsogyukes: 
   city: "alsogyukes"
-  accentcity: "Alsógy\xC3\xBCkés"
+  accentcity: "Alsógyükés"
 alsohalom: 
   city: "alsohalom"
   accentcity: "Alsóhalom"
@@ -1472,7 +1472,7 @@ alsotovistetotanya:
   accentcity: "Alsotovistetotanya"
 alsotundermajor: 
   city: "alsotundermajor"
-  accentcity: "Alsót\xC3\xBCndérmajor"
+  accentcity: "Alsótündérmajor"
 alsoujhegy: 
   city: "alsoujhegy"
   accentcity: "Alsóújhegy"
@@ -1544,7 +1544,7 @@ alszopor:
   accentcity: "Alszopor"
 altany: 
   city: "altany"
-  accentcity: "\xC3\x81ltány"
+  accentcity: "Áltány"
 altarobanyatelep: 
   city: "altarobanyatelep"
   accentcity: "Altáróbányatelep"
@@ -1571,7 +1571,7 @@ amaliatelep:
   accentcity: "Amáliatelep"
 amand: 
   city: "amand"
-  accentcity: "\xC3\x81mánd"
+  accentcity: "Ámánd"
 ambrozfalva: 
   city: "ambrozfalva"
   accentcity: "Ambrózfalva"
@@ -1646,7 +1646,7 @@ angelamajor:
   accentcity: "Angelamajor"
 anghely: 
   city: "anghely"
-  accentcity: "\xC3\x81nghely"
+  accentcity: "Ánghely"
 angilus: 
   city: "angilus"
   accentcity: "Angilus"
@@ -1706,7 +1706,7 @@ annustanya:
   accentcity: "Annustanya"
 anos: 
   city: "anos"
-  accentcity: "\xC3\x81nos"
+  accentcity: "Ános"
 antalbokor: 
   city: "antalbokor"
   accentcity: "Antalbokor"
@@ -1751,7 +1751,7 @@ anyacsa:
   accentcity: "Anyácsa"
 anyas: 
   city: "anyas"
-  accentcity: "\xC3\x81nyás"
+  accentcity: "Ányás"
 apacapuszta: 
   city: "apacapuszta"
   accentcity: "Apácapuszta"
@@ -1814,13 +1814,13 @@ aporhaza:
   accentcity: "Aporhaza"
 aporka: 
   city: "aporka"
-  accentcity: "\xC3\x81porka"
+  accentcity: "Áporka"
 aporkaitanya: 
   city: "aporkaitanya"
-  accentcity: "\xC3\x81porkaitanya"
+  accentcity: "Áporkaitanya"
 aporkai tanyak: 
   city: "aporkai tanyak"
-  accentcity: "\xC3\x81porkai Tanyák"
+  accentcity: "Áporkai Tanyák"
 aporkai urbo-tanya: 
   city: "aporkai urbo-tanya"
   accentcity: "Aporkai Urbo-tanya"
@@ -1952,13 +1952,13 @@ aranytotanya:
   accentcity: "Aranytótanya"
 arboz: 
   city: "arboz"
-  accentcity: "\xC3\x81rboz"
+  accentcity: "Árboz"
 ardapuszta: 
   city: "ardapuszta"
   accentcity: "Ardapuszta"
 ardics: 
   city: "ardics"
-  accentcity: "\xC3\x81rdics"
+  accentcity: "Árdics"
 arendadulo: 
   city: "arendadulo"
   accentcity: "Arendadulo"
@@ -1970,13 +1970,13 @@ arkai tanyak:
   accentcity: "Arkai Tanyák"
 arkipuszta: 
   city: "arkipuszta"
-  accentcity: "\xC3\x81rkipuszta"
+  accentcity: "Árkipuszta"
 arkitanya: 
   city: "arkitanya"
-  accentcity: "\xC3\x81rkitanya"
+  accentcity: "Árkitanya"
 arkoshazapuszta: 
   city: "arkoshazapuszta"
-  accentcity: "\xC3\x81rkosházapuszta"
+  accentcity: "Árkosházapuszta"
 arkusdulo: 
   city: "arkusdulo"
   accentcity: "Arkusdulo"
@@ -1988,85 +1988,85 @@ arlo:
   accentcity: "Arló"
 arminakna: 
   city: "arminakna"
-  accentcity: "\xC3\x81rminakna"
+  accentcity: "Árminakna"
 arnot: 
   city: "arnot"
   accentcity: "Arnót"
 arnyekvolgypuszta: 
   city: "arnyekvolgypuszta"
-  accentcity: "\xC3\x81rnyékv\xC3\xB6lgypuszta"
+  accentcity: "Árnyékv\xC3\xB6lgypuszta"
 arokalja: 
   city: "arokalja"
-  accentcity: "\xC3\x81rokalja"
+  accentcity: "Árokalja"
 arokhatimajor: 
   city: "arokhatimajor"
-  accentcity: "\xC3\x81rokhátimajor"
+  accentcity: "Árokhátimajor"
 arokospuszta: 
   city: "arokospuszta"
-  accentcity: "\xC3\x81rokospuszta"
+  accentcity: "Árokospuszta"
 arokto: 
   city: "arokto"
   accentcity: "Arokto"
 arpad: 
   city: "arpad"
-  accentcity: "\xC3\x81rpád"
+  accentcity: "Árpád"
 arpadhalom: 
   city: "arpadhalom"
-  accentcity: "\xC3\x81rpádhalom"
+  accentcity: "Árpádhalom"
 arpadhalommajor: 
   city: "arpadhalommajor"
   accentcity: "Arpádhalommajor"
 arpadhaza-telep: 
   city: "arpadhaza-telep"
-  accentcity: "\xC3\x81rpádháza-telep"
+  accentcity: "Árpádháza-telep"
 arpadmajor: 
   city: "arpadmajor"
-  accentcity: "\xC3\x81rpádmajor"
+  accentcity: "Árpádmajor"
 arpadszallas: 
   city: "arpadszallas"
-  accentcity: "\xC3\x81rpádszállás"
+  accentcity: "Árpádszállás"
 arpadtanya: 
   city: "arpadtanya"
-  accentcity: "\xC3\x81rpádtanya"
+  accentcity: "Árpádtanya"
 arpadtelep: 
   city: "arpadtelep"
-  accentcity: "\xC3\x81rpádtelep"
+  accentcity: "Árpádtelep"
 arpadtelepi tanyak: 
   city: "arpadtelepi tanyak"
-  accentcity: "\xC3\x81rpádtelepi Tanyák"
+  accentcity: "Árpádtelepi Tanyák"
 arpadteto: 
   city: "arpadteto"
   accentcity: "Arpadteto"
 arpas: 
   city: "arpas"
-  accentcity: "\xC3\x81rpás"
+  accentcity: "Árpás"
 arpasi tanyak: 
   city: "arpasi tanyak"
-  accentcity: "\xC3\x81rpási Tanyák"
+  accentcity: "Árpási Tanyák"
 arpastanya: 
   city: "arpastanya"
-  accentcity: "\xC3\x81rpástanya"
+  accentcity: "Árpástanya"
 artand: 
   city: "artand"
-  accentcity: "\xC3\x81rtánd"
+  accentcity: "Ártánd"
 artanhazapuszta: 
   city: "artanhazapuszta"
-  accentcity: "\xC3\x81rtánházapuszta"
+  accentcity: "Ártánházapuszta"
 arvai janos-tanya: 
   city: "arvai janos-tanya"
-  accentcity: "\xC3\x81rvai János-tanya"
+  accentcity: "Árvai János-tanya"
 arvaitanya: 
   city: "arvaitanya"
-  accentcity: "\xC3\x81rvaitanya"
+  accentcity: "Árvaitanya"
 asca: 
   city: "asca"
   accentcity: "Asca"
 asito: 
   city: "asito"
-  accentcity: "\xC3\x81sító"
+  accentcity: "Ásító"
 asotthalom: 
   city: "asotthalom"
-  accentcity: "\xC3\x81sotthalom"
+  accentcity: "Ásotthalom"
 asszonyfa: 
   city: "asszonyfa"
   accentcity: "Asszonyfa"
@@ -2093,19 +2093,19 @@ asszuvolgyimajor:
   accentcity: "Asszúv\xC3\xB6lgyimajor"
 asvany: 
   city: "asvany"
-  accentcity: "\xC3\x81svány"
+  accentcity: "Ásvány"
 asvanyhat: 
   city: "asvanyhat"
-  accentcity: "\xC3\x81sványhát"
+  accentcity: "Ásványhát"
 asvanyhattanya: 
   city: "asvanyhattanya"
-  accentcity: "\xC3\x81sványháttanya"
+  accentcity: "Ásványháttanya"
 asvany-kut: 
   city: "asvany-kut"
-  accentcity: "\xC3\x81svány-kút"
+  accentcity: "Ásvány-kút"
 asvanyraro: 
   city: "asvanyraro"
-  accentcity: "\xC3\x81sványráró"
+  accentcity: "Ásványráró"
 aszalo: 
   city: "aszalo"
   accentcity: "Aszaló"
@@ -2120,7 +2120,7 @@ aszal-volgyi vizmu:
   accentcity: "Aszal-volgyi Vizmu"
 aszar: 
   city: "aszar"
-  accentcity: "\xC3\x81szár"
+  accentcity: "Ászár"
 aszo: 
   city: "aszo"
   accentcity: "Aszó"
@@ -2150,10 +2150,10 @@ asztalostanya:
   accentcity: "Asztalostanya"
 ata: 
   city: "ata"
-  accentcity: "\xC3\x81ta"
+  accentcity: "Áta"
 atakeleti malom: 
   city: "atakeleti malom"
-  accentcity: "\xC3\x81takeleti Malom"
+  accentcity: "Átakeleti Malom"
 atalak: 
   city: "atalak"
   accentcity: "Atalak"
@@ -2162,7 +2162,7 @@ ataleso:
   accentcity: "Ataleso"
 atany: 
   city: "atany"
-  accentcity: "\xC3\x81tány"
+  accentcity: "Átány"
 atkar: 
   city: "atkar"
   accentcity: "Atkár"
@@ -2171,7 +2171,7 @@ atkari tanyak:
   accentcity: "Atkári Tanyák"
 atokhaza: 
   city: "atokhaza"
-  accentcity: "\xC3\x81tokháza"
+  accentcity: "Átokháza"
 atracs: 
   city: "atracs"
   accentcity: "Atrács"
@@ -2225,7 +2225,7 @@ avastanya:
   accentcity: "Avastanya"
 azokiret: 
   city: "azokiret"
-  accentcity: "\xC3\x81zokirét"
+  accentcity: "Ázokirét"
 baaltanya: 
   city: "baaltanya"
   accentcity: "Baáltanya"
@@ -2531,7 +2531,7 @@ bagopuszta:
   accentcity: "Bagópuszta"
 bagosi ut: 
   city: "bagosi ut"
-  accentcity: "Bagosi \xC3\x9At"
+  accentcity: "Bagosi Út"
 bagosiuti tanyak: 
   city: "bagosiuti tanyak"
   accentcity: "Bagosiúti Tanyák"
@@ -2762,7 +2762,7 @@ bakonyszombathely:
   accentcity: "Bakonyszombathely"
 bakonyszucs: 
   city: "bakonyszucs"
-  accentcity: "Bakonysz\xC3\xBCcs"
+  accentcity: "Bakonyszücs"
 bakonytamasi: 
   city: "bakonytamasi"
   accentcity: "Bakonytamási"
@@ -2819,7 +2819,7 @@ baktergyepdulo:
   accentcity: "Baktergyepdulo"
 baktuttos: 
   city: "baktuttos"
-  accentcity: "Bakt\xC3\xBCtt\xC3\xB6s"
+  accentcity: "Baktütt\xC3\xB6s"
 balaczaidulo: 
   city: "balaczaidulo"
   accentcity: "Balaczaidulo"
@@ -2906,7 +2906,7 @@ balaton foldvar furdotelep:
   accentcity: "Balaton Foldvar Furdotelep"
 balatonfured: 
   city: "balatonfured"
-  accentcity: "Balatonf\xC3\xBCred"
+  accentcity: "Balatonfüred"
 balatonfured-furdo: 
   city: "balatonfured-furdo"
   accentcity: "Balatonfured-furdo"
@@ -3197,7 +3197,7 @@ balparaszta:
   accentcity: "Balparászta"
 balpuspokipuszta: 
   city: "balpuspokipuszta"
-  accentcity: "Balp\xC3\xBCsp\xC3\xB6kipuszta"
+  accentcity: "Balpüsp\xC3\xB6kipuszta"
 balsa: 
   city: "balsa"
   accentcity: "Balsa"
@@ -3644,7 +3644,7 @@ barczyszollo:
   accentcity: "Barczyszollo"
 bardibukk: 
   city: "bardibukk"
-  accentcity: "Bárdib\xC3\xBCkk"
+  accentcity: "Bárdibükk"
 bardiotag: 
   city: "bardiotag"
   accentcity: "Bárdiótag"
@@ -5228,7 +5228,7 @@ birkoerdo:
   accentcity: "Birkoerdo"
 birkogyumolcsos: 
   city: "birkogyumolcsos"
-  accentcity: "Birkógy\xC3\xBCm\xC3\xB6lcs\xC3\xB6s"
+  accentcity: "Birkógyüm\xC3\xB6lcs\xC3\xB6s"
 birod: 
   city: "birod"
   accentcity: "Biród"
@@ -6569,28 +6569,28 @@ budnyapuszta:
   accentcity: "Budnyapuszta"
 budosarok: 
   city: "budosarok"
-  accentcity: "B\xC3\xBCd\xC3\xB6sárok"
+  accentcity: "Büd\xC3\xB6sárok"
 budoshegy: 
   city: "budoshegy"
-  accentcity: "B\xC3\xBCd\xC3\xB6shegy"
+  accentcity: "Büd\xC3\xB6shegy"
 budoskutmajor: 
   city: "budoskutmajor"
-  accentcity: "B\xC3\xBCd\xC3\xB6skútmajor"
+  accentcity: "Büd\xC3\xB6skútmajor"
 budoskutpuszta: 
   city: "budoskutpuszta"
-  accentcity: "B\xC3\xBCd\xC3\xB6skútpuszta"
+  accentcity: "Büd\xC3\xB6skútpuszta"
 budoslapos: 
   city: "budoslapos"
-  accentcity: "B\xC3\xBCd\xC3\xB6slapos"
+  accentcity: "Büd\xC3\xB6slapos"
 budoslaposidulo: 
   city: "budoslaposidulo"
   accentcity: "Budoslaposidulo"
 budostanya: 
   city: "budostanya"
-  accentcity: "B\xC3\xBCd\xC3\xB6stanya"
+  accentcity: "Büd\xC3\xB6stanya"
 budosto: 
   city: "budosto"
-  accentcity: "B\xC3\xBCd\xC3\xB6stó"
+  accentcity: "Büd\xC3\xB6stó"
 budostodulo: 
   city: "budostodulo"
   accentcity: "Budostodulo"
@@ -6611,13 +6611,13 @@ bugattanya:
   accentcity: "Bugáttanya"
 buge: 
   city: "buge"
-  accentcity: "B\xC3\xBCge"
+  accentcity: "Büge"
 bugedulo: 
   city: "bugedulo"
   accentcity: "Bugedulo"
 buglertanya: 
   city: "buglertanya"
-  accentcity: "B\xC3\xBCglertanya"
+  accentcity: "Büglertanya"
 buglyoska: 
   city: "buglyoska"
   accentcity: "Buglyoska"
@@ -6662,7 +6662,7 @@ buj:
   accentcity: "Buj"
 buk: 
   city: "buk"
-  accentcity: "B\xC3\xBCk"
+  accentcity: "Bük"
 buki: 
   city: "buki"
   accentcity: "Buki"
@@ -6671,46 +6671,46 @@ buki csarda:
   accentcity: "Buki Csárda"
 bukkabrany: 
   city: "bukkabrany"
-  accentcity: "B\xC3\xBCkkábrány"
+  accentcity: "Bükkábrány"
 bukkaranyos: 
   city: "bukkaranyos"
-  accentcity: "B\xC3\xBCkkaranyos"
+  accentcity: "Bükkaranyos"
 bukkfej: 
   city: "bukkfej"
-  accentcity: "B\xC3\xBCkkfej"
+  accentcity: "Bükkfej"
 bukkihaz: 
   city: "bukkihaz"
-  accentcity: "B\xC3\xBCkkiház"
+  accentcity: "Bükkiház"
 bukkmogyorosd: 
   city: "bukkmogyorosd"
-  accentcity: "B\xC3\xBCkkmogyorósd"
+  accentcity: "Bükkmogyorósd"
 bukkosd: 
   city: "bukkosd"
-  accentcity: "B\xC3\xBCkk\xC3\xB6sd"
+  accentcity: "Bükk\xC3\xB6sd"
 bukkpuszta: 
   city: "bukkpuszta"
-  accentcity: "B\xC3\xBCkkpuszta"
+  accentcity: "Bükkpuszta"
 bukkszek: 
   city: "bukkszek"
-  accentcity: "B\xC3\xBCkkszék"
+  accentcity: "Bükkszék"
 bukkszenterzsebet: 
   city: "bukkszenterzsebet"
-  accentcity: "B\xC3\xBCkkszenterzsébet"
+  accentcity: "Bükkszenterzsébet"
 bukkszentkereszt: 
   city: "bukkszentkereszt"
-  accentcity: "B\xC3\xBCkkszentkereszt"
+  accentcity: "Bükkszentkereszt"
 bukkszentlaszlo: 
   city: "bukkszentlaszlo"
-  accentcity: "B\xC3\xBCkkszentlászló"
+  accentcity: "Bükkszentlászló"
 bukkszentmarton: 
   city: "bukkszentmarton"
-  accentcity: "B\xC3\xBCkkszentmárton"
+  accentcity: "Bükkszentmárton"
 bukkvolgy: 
   city: "bukkvolgy"
-  accentcity: "B\xC3\xBCkkv\xC3\xB6lgy"
+  accentcity: "Bükkv\xC3\xB6lgy"
 bukkzserc: 
   city: "bukkzserc"
-  accentcity: "B\xC3\xBCkkzsérc"
+  accentcity: "Bükkzsérc"
 bukszartanya: 
   city: "bukszartanya"
   accentcity: "Bukszártanya"
@@ -6755,7 +6755,7 @@ burospuszta:
   accentcity: "Burospuszta"
 burus: 
   city: "burus"
-  accentcity: "B\xC3\xBCr\xC3\xBCs"
+  accentcity: "Bürüs"
 busfeketepuszta: 
   city: "busfeketepuszta"
   accentcity: "Búsfeketepuszta"
@@ -6773,7 +6773,7 @@ busmajor:
   accentcity: "Búsmajor"
 bussu: 
   city: "bussu"
-  accentcity: "B\xC3\xBCss\xC3\xBC"
+  accentcity: "Büssü"
 bus-tanya: 
   city: "bus-tanya"
   accentcity: "Bús-tanya"
@@ -6794,16 +6794,16 @@ butelektanya:
   accentcity: "Bútelektanya"
 butetanya: 
   city: "butetanya"
-  accentcity: "B\xC3\xBCtetanya"
+  accentcity: "Bütetanya"
 butika: 
   city: "butika"
   accentcity: "Butika"
 buttos: 
   city: "buttos"
-  accentcity: "B\xC3\xBCtt\xC3\xB6s"
+  accentcity: "Bütt\xC3\xB6s"
 buttoslyuba: 
   city: "buttoslyuba"
-  accentcity: "B\xC3\xBCtt\xC3\xB6slyuba"
+  accentcity: "Bütt\xC3\xB6slyuba"
 butyka: 
   city: "butyka"
   accentcity: "Butyka"
@@ -6902,7 +6902,7 @@ cegledi tanyak:
   accentcity: "Ceglédi Tanyák"
 cegledi uti tanyak: 
   city: "cegledi uti tanyak"
-  accentcity: "Ceglédi \xC3\x9Ati Tanyák"
+  accentcity: "Ceglédi Úti Tanyák"
 cegledpuszta: 
   city: "cegledpuszta"
   accentcity: "Ceglédpuszta"
@@ -7046,7 +7046,7 @@ cikolasziget:
   accentcity: "Cikolasziget"
 cikola uti tanya: 
   city: "cikola uti tanya"
-  accentcity: "Cikola \xC3\x9Ati Tanya"
+  accentcity: "Cikola Úti Tanya"
 cikolauti tanyak: 
   city: "cikolauti tanyak"
   accentcity: "Cikolaúti Tanyák"
@@ -7217,7 +7217,7 @@ csaholc:
   accentcity: "Csaholc"
 csaholci allami gazdasag: 
   city: "csaholci allami gazdasag"
-  accentcity: "Csaholci \xC3\x81llami Gazdaság"
+  accentcity: "Csaholci Állami Gazdaság"
 csaholyitanya: 
   city: "csaholyitanya"
   accentcity: "Csaholyitanya"
@@ -8765,7 +8765,7 @@ csokmai hegy:
   accentcity: "Csokmai Hegy"
 csokmai ujhegy: 
   city: "csokmai ujhegy"
-  accentcity: "Csokmai \xC3\x9Ajhegy"
+  accentcity: "Csokmai Újhegy"
 csokmo: 
   city: "csokmo"
   accentcity: "Csokmo"
@@ -9104,7 +9104,7 @@ csoti malom:
   accentcity: "Csóti Malom"
 csoti ujmajor: 
   city: "csoti ujmajor"
-  accentcity: "Csóti \xC3\x9Ajmajor"
+  accentcity: "Csóti Újmajor"
 csotonyivolgy: 
   city: "csotonyivolgy"
   accentcity: "Cs\xC3\xB6t\xC3\xB6nyiv\xC3\xB6lgy"
@@ -9212,13 +9212,13 @@ csuritanya:
   accentcity: "Csuritanya"
 csurjetanya: 
   city: "csurjetanya"
-  accentcity: "Cs\xC3\xBCrjetanya"
+  accentcity: "Csürjetanya"
 csurkolesdulo: 
   city: "csurkolesdulo"
   accentcity: "Csurkolesdulo"
 csurpartitanya: 
   city: "csurpartitanya"
-  accentcity: "Cs\xC3\xBCrpartitanya"
+  accentcity: "Csürpartitanya"
 csuzdidulo: 
   city: "csuzdidulo"
   accentcity: "Csuzdidulo"
@@ -9635,7 +9635,7 @@ deli telep:
   accentcity: "Déli Telep"
 deli ujtelep: 
   city: "deli ujtelep"
-  accentcity: "Déli \xC3\x9Ajtelep"
+  accentcity: "Déli Újtelep"
 delivolgy: 
   city: "delivolgy"
   accentcity: "Déliv\xC3\xB6lgy"
@@ -9932,7 +9932,7 @@ dinyeshati tanya:
   accentcity: "Dinyésháti Tanya"
 diofasori ujtelep: 
   city: "diofasori ujtelep"
-  accentcity: "Diófasori \xC3\x9Ajtelep"
+  accentcity: "Diófasori Újtelep"
 diosbereny: 
   city: "diosbereny"
   accentcity: "Diósberény"
@@ -9947,7 +9947,7 @@ diosdulo:
   accentcity: "Diosdulo"
 diosfasori ujtelep: 
   city: "diosfasori ujtelep"
-  accentcity: "Diósfasori \xC3\x9Ajtelep"
+  accentcity: "Diósfasori Újtelep"
 diosgyor: 
   city: "diosgyor"
   accentcity: "Diosgyor"
@@ -10004,7 +10004,7 @@ disznokoszollo:
   accentcity: "Disznokoszollo"
 disznokut eszak: 
   city: "disznokut eszak"
-  accentcity: "Disznókút \xC3\x89szak"
+  accentcity: "Disznókút Észak"
 disznokuti tanyak: 
   city: "disznokuti tanyak"
   accentcity: "Disznókúti tanyák"
@@ -10301,7 +10301,7 @@ dombegyhaz:
   accentcity: "Dombegyház"
 dombegyhazi ut: 
   city: "dombegyhazi ut"
-  accentcity: "Dombegyházi \xC3\x9At"
+  accentcity: "Dombegyházi Út"
 dombhatdulo: 
   city: "dombhatdulo"
   accentcity: "Dombhatdulo"
@@ -10442,7 +10442,7 @@ dorogpuszta:
   accentcity: "Dorogpuszta"
 dorog uti tanyak: 
   city: "dorog uti tanyak"
-  accentcity: "Dorog \xC3\x9Ati Tanyák"
+  accentcity: "Dorog Úti Tanyák"
 doromlas: 
   city: "doromlas"
   accentcity: "Doromlás"
@@ -10505,7 +10505,7 @@ dozsauti tanya:
   accentcity: "Dózsaúti Tanya"
 dozsa uti tanyak: 
   city: "dozsa uti tanyak"
-  accentcity: "Dózsa \xC3\x9Ati Tanyák"
+  accentcity: "Dózsa Úti Tanyák"
 dragahegy: 
   city: "dragahegy"
   accentcity: "Drágahegy"
@@ -10634,7 +10634,7 @@ dunafoldvar:
   accentcity: "Dunaf\xC3\xB6ldvár"
 dunafured: 
   city: "dunafured"
-  accentcity: "Dunaf\xC3\xBCred"
+  accentcity: "Dunafüred"
 dunaharaszti: 
   city: "dunaharaszti"
   accentcity: "Dunaharaszti"
@@ -10853,7 +10853,7 @@ egeihalom:
   accentcity: "Egeihalom"
 egenfold: 
   city: "egenfold"
-  accentcity: "\xC3\x89genf\xC3\xB6ld"
+  accentcity: "Égenf\xC3\xB6ld"
 egerag: 
   city: "egerag"
   accentcity: "Egerág"
@@ -10919,7 +10919,7 @@ egerszegpuszta:
   accentcity: "Egerszegpuszta"
 egerszog: 
   city: "egerszog"
-  accentcity: "\xC3\x89gersz\xC3\xB6g"
+  accentcity: "Égersz\xC3\xB6g"
 egerszolat: 
   city: "egerszolat"
   accentcity: "Egerszólát"
@@ -10934,28 +10934,28 @@ egervolgy:
   accentcity: "Egerv\xC3\xB6lgy"
 egestanya: 
   city: "egestanya"
-  accentcity: "\xC3\x89géstanya"
+  accentcity: "Égéstanya"
 egetohegy: 
   city: "egetohegy"
   accentcity: "Egetohegy"
 egetthalom: 
   city: "egetthalom"
-  accentcity: "\xC3\x89getthalom"
+  accentcity: "Égetthalom"
 egetthaz: 
   city: "egetthaz"
-  accentcity: "\xC3\x89gettház"
+  accentcity: "Égettház"
 egettmajor: 
   city: "egettmajor"
-  accentcity: "\xC3\x89gettmajor"
+  accentcity: "Égettmajor"
 egettmalom: 
   city: "egettmalom"
-  accentcity: "\xC3\x89gettmalom"
+  accentcity: "Égettmalom"
 egettmalomtelep: 
   city: "egettmalomtelep"
-  accentcity: "\xC3\x89gettmalomtelep"
+  accentcity: "Égettmalomtelep"
 egettret: 
   city: "egettret"
-  accentcity: "\xC3\x89gettrét"
+  accentcity: "Égettrét"
 eggert: 
   city: "eggert"
   accentcity: "Eggert"
@@ -11057,7 +11057,7 @@ ekerestanya:
   accentcity: "Ekerestanya"
 ekestanya: 
   city: "ekestanya"
-  accentcity: "\xC3\x89kestanya"
+  accentcity: "Ékestanya"
 ekkertanya: 
   city: "ekkertanya"
   accentcity: "Ekkertanya"
@@ -11090,13 +11090,13 @@ elep:
   accentcity: "Elep"
 elesd csarda: 
   city: "elesd csarda"
-  accentcity: "\xC3\x89lesd Csárda"
+  accentcity: "Élesd Csárda"
 elesd: 
   city: "elesd"
-  accentcity: "\xC3\x89lesd"
+  accentcity: "Élesd"
 elestanya: 
   city: "elestanya"
-  accentcity: "\xC3\x89lestanya"
+  accentcity: "Élestanya"
 ellai tanyak: 
   city: "ellai tanyak"
   accentcity: "Ellai Tanyák"
@@ -11294,7 +11294,7 @@ erdeitanya:
   accentcity: "Erdeitanya"
 erd: 
   city: "erd"
-  accentcity: "\xC3\x89rd"
+  accentcity: "Érd"
 erdeytanya: 
   city: "erdeytanya"
   accentcity: "Erdeytanya"
@@ -11435,7 +11435,7 @@ erdozug:
   accentcity: "Erdozug"
 erd-parkvaros: 
   city: "erd-parkvaros"
-  accentcity: "\xC3\x89rd-Parkváros"
+  accentcity: "Érd-Parkváros"
 erduloitanyak: 
   city: "erduloitanyak"
   accentcity: "Erduloitanyak"
@@ -11471,16 +11471,16 @@ ereszvenytanya:
   accentcity: "Ereszvénytanya"
 erhat: 
   city: "erhat"
-  accentcity: "\xC3\x89rhát"
+  accentcity: "Érhát"
 eritanya: 
   city: "eritanya"
-  accentcity: "\xC3\x89ritanya"
+  accentcity: "Éritanya"
 erk: 
   city: "erk"
   accentcity: "Erk"
 erkozitanyak: 
   city: "erkozitanyak"
-  accentcity: "\xC3\x89rk\xC3\xB6zitanyák"
+  accentcity: "Érk\xC3\xB6zitanyák"
 erlau: 
   city: "erlau"
   accentcity: "Erlau"
@@ -11522,40 +11522,40 @@ erostanya:
   accentcity: "Erostanya"
 erpart: 
   city: "erpart"
-  accentcity: "\xC3\x89rpart"
+  accentcity: "Érpart"
 erpatak: 
   city: "erpatak"
-  accentcity: "\xC3\x89rpatak"
+  accentcity: "Érpatak"
 erreve: 
   city: "erreve"
-  accentcity: "\xC3\x89rréve"
+  accentcity: "Érréve"
 ersekcsanad: 
   city: "ersekcsanad"
-  accentcity: "\xC3\x89rsekcsanád"
+  accentcity: "Érsekcsanád"
 ersekhalma: 
   city: "ersekhalma"
-  accentcity: "\xC3\x89rsekhalma"
+  accentcity: "Érsekhalma"
 ersekhalom: 
   city: "ersekhalom"
-  accentcity: "\xC3\x89rsekhalom"
+  accentcity: "Érsekhalom"
 ersekiharta: 
   city: "ersekiharta"
-  accentcity: "\xC3\x89rsekiharta"
+  accentcity: "Érsekiharta"
 ersekiszentikraly: 
   city: "ersekiszentikraly"
-  accentcity: "\xC3\x89rsekiszentikrály"
+  accentcity: "Érsekiszentikrály"
 ersekiszentkiraly: 
   city: "ersekiszentkiraly"
-  accentcity: "\xC3\x89rsekiszentkirály"
+  accentcity: "Érsekiszentkirály"
 ersekvadkert: 
   city: "ersekvadkert"
-  accentcity: "\xC3\x89rsekvadkert"
+  accentcity: "Érsekvadkert"
 ertem: 
   city: "ertem"
-  accentcity: "\xC3\x89rtem"
+  accentcity: "Értem"
 erteny: 
   city: "erteny"
-  accentcity: "\xC3\x89rtény"
+  accentcity: "Értény"
 ert-major: 
   city: "ert-major"
   accentcity: "Ert-major"
@@ -11624,10 +11624,10 @@ estemajor:
   accentcity: "Estemajor"
 eszakiresz: 
   city: "eszakiresz"
-  accentcity: "\xC3\x89szakirész"
+  accentcity: "Északirész"
 eszaki telep: 
   city: "eszaki telep"
-  accentcity: "\xC3\x89szaki Telep"
+  accentcity: "Északi Telep"
 eszeki orszaguti tanyak: 
   city: "eszeki orszaguti tanyak"
   accentcity: "Eszéki Országúti Tanyák"
@@ -11729,19 +11729,19 @@ euchtanya:
   accentcity: "Euchtanya"
 evaakla: 
   city: "evaakla"
-  accentcity: "\xC3\x89vaakla"
+  accentcity: "Évaakla"
 evalak: 
   city: "evalak"
-  accentcity: "\xC3\x89valak"
+  accentcity: "Évalak"
 evamajor: 
   city: "evamajor"
-  accentcity: "\xC3\x89vamajor"
+  accentcity: "Évamajor"
 evapuszta: 
   city: "evapuszta"
-  accentcity: "\xC3\x89vapuszta"
+  accentcity: "Évapuszta"
 evatanya: 
   city: "evatanya"
-  accentcity: "\xC3\x89vatanya"
+  accentcity: "Évatanya"
 ezeres: 
   city: "ezeres"
   accentcity: "Ezeres"
@@ -11753,10 +11753,10 @@ ezrespuszta:
   accentcity: "Ezrespuszta"
 ezsiastanya: 
   city: "ezsiastanya"
-  accentcity: "\xC3\x89zsiástanya"
+  accentcity: "Ézsiástanya"
 ezusthegy: 
   city: "ezusthegy"
-  accentcity: "Ez\xC3\xBCsthegy"
+  accentcity: "Ezüsthegy"
 ezustszollo: 
   city: "ezustszollo"
   accentcity: "Ezustszollo"
@@ -11870,7 +11870,7 @@ faluhelypuszta:
   accentcity: "Faluhelypuszta"
 falu koruli tanyak: 
   city: "falu koruli tanyak"
-  accentcity: "Falu K\xC3\xB6r\xC3\xBCli Tanyák"
+  accentcity: "Falu K\xC3\xB6rüli Tanyák"
 falumalom: 
   city: "falumalom"
   accentcity: "Falumalom"
@@ -11954,7 +11954,7 @@ farkasberekpuszta:
   accentcity: "Farkasberekpuszta"
 farkasbukk: 
   city: "farkasbukk"
-  accentcity: "Farkasb\xC3\xBCkk"
+  accentcity: "Farkasbükk"
 farkasdulo: 
   city: "farkasdulo"
   accentcity: "Farkasdulo"
@@ -12587,7 +12587,7 @@ felsogaicspuszta:
   accentcity: "Felsogaicspuszta"
 felsogalambos: 
   city: "felsogalambos"
-  accentcity: "Fels\xC3\xB5galambos"
+  accentcity: "Felsõgalambos"
 felsogalla: 
   city: "felsogalla"
   accentcity: "Felsogalla"
@@ -13193,13 +13193,13 @@ felsozsunypuszta:
   accentcity: "Felsozsunypuszta"
 felszabadulas ut: 
   city: "felszabadulas ut"
-  accentcity: "Felszabadulás \xC3\x9At"
+  accentcity: "Felszabadulás Út"
 felszabadulas uti lakotelep: 
   city: "felszabadulas uti lakotelep"
-  accentcity: "Felszabadulás \xC3\x9Ati Lakótelep"
+  accentcity: "Felszabadulás Úti Lakótelep"
 felszabadulas utja: 
   city: "felszabadulas utja"
-  accentcity: "Felszabadulás \xC3\x9Atja"
+  accentcity: "Felszabadulás Útja"
 felszermajor: 
   city: "felszermajor"
   accentcity: "Félszermajor"
@@ -13574,7 +13574,7 @@ fogthuy dulo:
   accentcity: "Fogthuy Dulo"
 fogthuy tanya: 
   city: "fogthuy tanya"
-  accentcity: "Fogth\xC3\xBCy Tanya"
+  accentcity: "Fogthüy Tanya"
 fokitanya: 
   city: "fokitanya"
   accentcity: "Fokitanya"
@@ -13916,55 +13916,55 @@ fuenfkirchen:
   accentcity: "Fuenfkirchen"
 fugeditanya: 
   city: "fugeditanya"
-  accentcity: "F\xC3\xBCgeditanya"
+  accentcity: "Fügeditanya"
 fuggotanya: 
   city: "fuggotanya"
   accentcity: "Fuggotanya"
 fugod: 
   city: "fugod"
-  accentcity: "F\xC3\xBCg\xC3\xB6d"
+  accentcity: "Füg\xC3\xB6d"
 fulecspuszta: 
   city: "fulecspuszta"
-  accentcity: "F\xC3\xBClecspuszta"
+  accentcity: "Fülecspuszta"
 fuledulo: 
   city: "fuledulo"
   accentcity: "Fuledulo"
 fule: 
   city: "fule"
-  accentcity: "F\xC3\xBCle"
+  accentcity: "Füle"
 fulekitanya: 
   city: "fulekitanya"
-  accentcity: "F\xC3\xBClekitanya"
+  accentcity: "Fülekitanya"
 fuleki volgy: 
   city: "fuleki volgy"
-  accentcity: "F\xC3\xBCleki V\xC3\xB6lgy"
+  accentcity: "Füleki V\xC3\xB6lgy"
 fulekytanya: 
   city: "fulekytanya"
-  accentcity: "F\xC3\xBClekytanya"
+  accentcity: "Fülekytanya"
 fulemajor: 
   city: "fulemajor"
-  accentcity: "F\xC3\xBClemajor"
+  accentcity: "Fülemajor"
 fulesd: 
   city: "fulesd"
-  accentcity: "F\xC3\xBClesd"
+  accentcity: "Fülesd"
 fule-tanya: 
   city: "fule-tanya"
-  accentcity: "F\xC3\xBCle-tanya"
+  accentcity: "Füle-tanya"
 fulevolgy-puszta: 
   city: "fulevolgy-puszta"
-  accentcity: "F\xC3\xBClev\xC3\xB6lgy-puszta"
+  accentcity: "Fülev\xC3\xB6lgy-puszta"
 fulevolgytanya: 
   city: "fulevolgytanya"
-  accentcity: "F\xC3\xBClev\xC3\xB6lgytanya"
+  accentcity: "Fülev\xC3\xB6lgytanya"
 fulokercs: 
   city: "fulokercs"
   accentcity: "Fulókércs"
 fulop: 
   city: "fulop"
-  accentcity: "F\xC3\xBCl\xC3\xB6p"
+  accentcity: "Fül\xC3\xB6p"
 fulophaza: 
   city: "fulophaza"
-  accentcity: "F\xC3\xBCl\xC3\xB6pháza"
+  accentcity: "Fül\xC3\xB6pháza"
 fulopiszollohegy: 
   city: "fulopiszollohegy"
   accentcity: "Fulopiszollohegy"
@@ -13973,40 +13973,40 @@ fulopi szolo:
   accentcity: "Fulopi Szolo"
 fulopjakabszallas: 
   city: "fulopjakabszallas"
-  accentcity: "F\xC3\xBClopjakabszállás"
+  accentcity: "Fülopjakabszállás"
 fulopmajor: 
   city: "fulopmajor"
-  accentcity: "F\xC3\xBCl\xC3\xB6pmajor"
+  accentcity: "Fül\xC3\xB6pmajor"
 fulopmalom: 
   city: "fulopmalom"
-  accentcity: "F\xC3\xBCl\xC3\xB6pmalom"
+  accentcity: "Fül\xC3\xB6pmalom"
 fulop-puszta: 
   city: "fulop-puszta"
-  accentcity: "F\xC3\xBCl\xC3\xB6p-puszta"
+  accentcity: "Fül\xC3\xB6p-puszta"
 fulopszallas: 
   city: "fulopszallas"
-  accentcity: "F\xC3\xBCl\xC3\xB6pszállás"
+  accentcity: "Fül\xC3\xB6pszállás"
 fuloptag: 
   city: "fuloptag"
-  accentcity: "F\xC3\xBCl\xC3\xB6ptag"
+  accentcity: "Fül\xC3\xB6ptag"
 fuloptanya: 
   city: "fuloptanya"
-  accentcity: "F\xC3\xBCl\xC3\xB6ptanya"
+  accentcity: "Fül\xC3\xB6ptanya"
 fulop-tanya: 
   city: "fulop-tanya"
-  accentcity: "F\xC3\xBCl\xC3\xB6p-tanya"
+  accentcity: "Fül\xC3\xB6p-tanya"
 fulposdaroc: 
   city: "fulposdaroc"
-  accentcity: "F\xC3\xBClp\xC3\xB6sdaróc"
+  accentcity: "Fülp\xC3\xB6sdaróc"
 fulpos: 
   city: "fulpos"
-  accentcity: "F\xC3\xBClp\xC3\xB6s"
+  accentcity: "Fülp\xC3\xB6s"
 fundusalja: 
   city: "fundusalja"
   accentcity: "Fundusalja"
 funfkirchen: 
   city: "funfkirchen"
-  accentcity: "F\xC3\xBCnfkirchen"
+  accentcity: "Fünfkirchen"
 fuperegpuszta: 
   city: "fuperegpuszta"
   accentcity: "Fuperegpuszta"
@@ -14030,10 +14030,10 @@ furdo-ut:
   accentcity: "Furdo-ut"
 fureditanya: 
   city: "fureditanya"
-  accentcity: "F\xC3\xBCreditanya"
+  accentcity: "Füreditanya"
 furer: 
   city: "furer"
-  accentcity: "F\xC3\xBCrér"
+  accentcity: "Fürér"
 fureszmalom: 
   city: "fureszmalom"
   accentcity: "Fureszmalom"
@@ -14045,19 +14045,19 @@ furesztelep:
   accentcity: "Furesztelep"
 furged: 
   city: "furged"
-  accentcity: "F\xC3\xBCrged"
+  accentcity: "Fürged"
 furjanpuszta: 
   city: "furjanpuszta"
   accentcity: "Furjánpuszta"
 furjes: 
   city: "furjes"
-  accentcity: "F\xC3\xBCrjes"
+  accentcity: "Fürjes"
 furjestanya: 
   city: "furjestanya"
-  accentcity: "F\xC3\xBCrjestanya"
+  accentcity: "Fürjestanya"
 furjhalomjaras: 
   city: "furjhalomjaras"
-  accentcity: "F\xC3\xBCrjhalomjárás"
+  accentcity: "Fürjhalomjárás"
 furko: 
   city: "furko"
   accentcity: "Furkó"
@@ -14078,13 +14078,13 @@ furta:
   accentcity: "Furta"
 furtelek: 
   city: "furtelek"
-  accentcity: "F\xC3\xBCrtelek"
+  accentcity: "Fürtelek"
 furtoshegy: 
   city: "furtoshegy"
-  accentcity: "F\xC3\xBCrt\xC3\xB6shegy"
+  accentcity: "Fürt\xC3\xB6shegy"
 furtoslyuba: 
   city: "furtoslyuba"
-  accentcity: "F\xC3\xBCrt\xC3\xB6slyuba"
+  accentcity: "Fürt\xC3\xB6slyuba"
 furugyi szollok: 
   city: "furugyi szollok"
   accentcity: "Furugyi Szollok"
@@ -14096,7 +14096,7 @@ furugyiszolok:
   accentcity: "Furugyiszolok"
 fustpuszta: 
   city: "fustpuszta"
-  accentcity: "F\xC3\xBCstpuszta"
+  accentcity: "Füstpuszta"
 futeleki felso-major: 
   city: "futeleki felso-major"
   accentcity: "Futeleki Felso-major"
@@ -14117,22 +14117,22 @@ fuvelo:
   accentcity: "Fuvelo"
 fuzer: 
   city: "fuzer"
-  accentcity: "F\xC3\xBCzér"
+  accentcity: "Füzér"
 fuzerkajata: 
   city: "fuzerkajata"
-  accentcity: "F\xC3\xBCzérkajata"
+  accentcity: "Füzérkajata"
 fuzerkomlos: 
   city: "fuzerkomlos"
-  accentcity: "F\xC3\xBCzérkomlós"
+  accentcity: "Füzérkomlós"
 fuzerradvany: 
   city: "fuzerradvany"
-  accentcity: "F\xC3\xBCzérradvány"
+  accentcity: "Füzérradvány"
 fuzesabony: 
   city: "fuzesabony"
-  accentcity: "F\xC3\xBCzesabony"
+  accentcity: "Füzesabony"
 fuzesbokor: 
   city: "fuzesbokor"
-  accentcity: "F\xC3\xBCzesbokor"
+  accentcity: "Füzesbokor"
 fuzesdulo: 
   city: "fuzesdulo"
   accentcity: "Fuzesdulo"
@@ -14144,25 +14144,25 @@ fuzeserdulo:
   accentcity: "Fuzeserdulo"
 fuzeser: 
   city: "fuzeser"
-  accentcity: "F\xC3\xBCzesér"
+  accentcity: "Füzesér"
 fuzes: 
   city: "fuzes"
-  accentcity: "F\xC3\xBCzes"
+  accentcity: "Füzes"
 fuzesgyarmat: 
   city: "fuzesgyarmat"
-  accentcity: "F\xC3\xBCzesgyarmat"
+  accentcity: "Füzesgyarmat"
 fuzeskert: 
   city: "fuzeskert"
-  accentcity: "F\xC3\xBCzeskert"
+  accentcity: "Füzeskert"
 fuzespuszta: 
   city: "fuzespuszta"
-  accentcity: "F\xC3\xBCzespuszta"
+  accentcity: "Füzespuszta"
 fuzestanya: 
   city: "fuzestanya"
-  accentcity: "F\xC3\xBCzestanya"
+  accentcity: "Füzestanya"
 fuzes-tanya: 
   city: "fuzes-tanya"
-  accentcity: "F\xC3\xBCzes-tanya"
+  accentcity: "Füzes-tanya"
 fuzfakutidulo: 
   city: "fuzfakutidulo"
   accentcity: "Fuzfakutidulo"
@@ -14195,7 +14195,7 @@ fuzihegy:
   accentcity: "Fuzihegy"
 fuzilap: 
   city: "fuzilap"
-  accentcity: "F\xC3\xBCzilap"
+  accentcity: "Füzilap"
 fuzmatanya: 
   city: "fuzmatanya"
   accentcity: "Fuzmatanya"
@@ -14210,7 +14210,7 @@ fuztu:
   accentcity: "Fuztu"
 fuzvolgy: 
   city: "fuzvolgy"
-  accentcity: "F\xC3\xBCzv\xC3\xB6lgy"
+  accentcity: "Füzv\xC3\xB6lgy"
 fuzycsarda: 
   city: "fuzycsarda"
   accentcity: "Fuzycsarda"
@@ -14621,7 +14621,7 @@ gecilapos:
   accentcity: "Gécilapos"
 gecilapos-ujtelep: 
   city: "gecilapos-ujtelep"
-  accentcity: "Gécilapos-\xC3\x9Ajtelep"
+  accentcity: "Gécilapos-Újtelep"
 gecse: 
   city: "gecse"
   accentcity: "Gecse"
@@ -14921,7 +14921,7 @@ gesztered:
   accentcity: "Geszteréd"
 geszterediuti ujsor: 
   city: "geszterediuti ujsor"
-  accentcity: "Geszterédiúti \xC3\x9Ajsor"
+  accentcity: "Geszterédiúti Újsor"
 geszt: 
   city: "geszt"
   accentcity: "Geszt"
@@ -15017,7 +15017,7 @@ glimermalom:
   accentcity: "Glimermalom"
 gluckmantanya: 
   city: "gluckmantanya"
-  accentcity: "Gl\xC3\xBCckmantanya"
+  accentcity: "Glückmantanya"
 goboljaras: 
   city: "goboljaras"
   accentcity: "G\xC3\xB6b\xC3\xB6ljárás"
@@ -15374,10 +15374,10 @@ gorogkut deli:
   accentcity: "G\xC3\xB6r\xC3\xB6gkút Déli"
 gorogkut eszak: 
   city: "gorogkut eszak"
-  accentcity: "G\xC3\xB6r\xC3\xB6gkút \xC3\x89szak"
+  accentcity: "G\xC3\xB6r\xC3\xB6gkút Észak"
 gorogkut eszaki: 
   city: "gorogkut eszaki"
-  accentcity: "G\xC3\xB6r\xC3\xB6gkút \xC3\x89szaki"
+  accentcity: "G\xC3\xB6r\xC3\xB6gkút Északi"
 gorogkuti tanyak: 
   city: "gorogkuti tanyak"
   accentcity: "G\xC3\xB6r\xC3\xB6gkúti Tanyák"
@@ -15539,10 +15539,10 @@ grosztanya:
   accentcity: "Grósztanya"
 gruntanya: 
   city: "gruntanya"
-  accentcity: "Gr\xC3\xBCntanya"
+  accentcity: "Grüntanya"
 gruntanyak: 
   city: "gruntanyak"
-  accentcity: "Gr\xC3\xBCntanyák"
+  accentcity: "Grüntanyák"
 gubacor: 
   city: "gubacor"
   accentcity: "Gubacor"
@@ -15617,7 +15617,7 @@ gunartanya:
   accentcity: "Gúnártanya"
 guns: 
   city: "guns"
-  accentcity: "G\xC3\xBCns"
+  accentcity: "Güns"
 gunyadulo: 
   city: "gunyadulo"
   accentcity: "Gunyadulo"
@@ -15827,7 +15827,7 @@ gyeptelep:
   accentcity: "Gyeptelep"
 gyepukajan: 
   city: "gyepukajan"
-  accentcity: "Gyep\xC3\xBCkaján"
+  accentcity: "Gyepükaján"
 gyermekerdodulo orhaz: 
   city: "gyermekerdodulo orhaz"
   accentcity: "Gyermekerdodulo Orhaz"
@@ -16145,7 +16145,7 @@ gyotapuszta:
   accentcity: "Gyótapuszta"
 gyugye: 
   city: "gyugye"
-  accentcity: "Gy\xC3\xBCgye"
+  accentcity: "Gyügye"
 gyugy: 
   city: "gyugy"
   accentcity: "Gyugy"
@@ -16238,28 +16238,28 @@ gyulay-tanya:
   accentcity: "Gyulay-tanya"
 gyulekezetimajor: 
   city: "gyulekezetimajor"
-  accentcity: "Gy\xC3\xBClekezetimajor"
+  accentcity: "Gyülekezetimajor"
 gyulevesz: 
   city: "gyulevesz"
-  accentcity: "Gy\xC3\xBClevész"
+  accentcity: "Gyülevész"
 gyuleveszimajor: 
   city: "gyuleveszimajor"
-  accentcity: "Gy\xC3\xBClevészimajor"
+  accentcity: "Gyülevészimajor"
 gyumolcseny: 
   city: "gyumolcseny"
-  accentcity: "Gy\xC3\xBCm\xC3\xB6lcsény"
+  accentcity: "Gyüm\xC3\xB6lcsény"
 gyumolcsenyi puszta: 
   city: "gyumolcsenyi puszta"
-  accentcity: "Gy\xC3\xBCm\xC3\xB6lcsényi Puszta"
+  accentcity: "Gyüm\xC3\xB6lcsényi Puszta"
 gyumolcsenypuszta: 
   city: "gyumolcsenypuszta"
-  accentcity: "Gy\xC3\xBCm\xC3\xB6lcsénypuszta"
+  accentcity: "Gyüm\xC3\xB6lcsénypuszta"
 gyumolcsos: 
   city: "gyumolcsos"
-  accentcity: "Gy\xC3\xBCm\xC3\xB6lcs\xC3\xB6s"
+  accentcity: "Gyüm\xC3\xB6lcs\xC3\xB6s"
 gyure: 
   city: "gyure"
-  accentcity: "Gy\xC3\xBCre"
+  accentcity: "Gyüre"
 gyureszollo: 
   city: "gyureszollo"
   accentcity: "Gyureszollo"
@@ -16268,7 +16268,7 @@ gyureszolo:
   accentcity: "Gyureszolo"
 gyuretanya: 
   city: "gyuretanya"
-  accentcity: "Gy\xC3\xBCretanya"
+  accentcity: "Gyüretanya"
 gyurgyancpuszta: 
   city: "gyurgyancpuszta"
   accentcity: "Gyurgyáncpuszta"
@@ -16775,7 +16775,7 @@ hansagi tanyak:
   accentcity: "Hansági Tanyák"
 hansagi ujmajor: 
   city: "hansagi ujmajor"
-  accentcity: "Hansági \xC3\x9Ajmajor"
+  accentcity: "Hansági Újmajor"
 hansagnagyerdo: 
   city: "hansagnagyerdo"
   accentcity: "Hansagnagyerdo"
@@ -17135,7 +17135,7 @@ hatarszel:
   accentcity: "Határszél"
 hatarszeli ujtelep: 
   city: "hatarszeli ujtelep"
-  accentcity: "Határszéli \xC3\x9Ajtelep"
+  accentcity: "Határszéli Újtelep"
 hatartanya: 
   city: "hatartanya"
   accentcity: "Határtanya"
@@ -17234,7 +17234,7 @@ hatvanorr:
   accentcity: "Hatvanorr"
 hatvanorri gyumolcsos: 
   city: "hatvanorri gyumolcsos"
-  accentcity: "Hatvanorri Gy\xC3\xBCm\xC3\xB6lcs\xC3\xB6s"
+  accentcity: "Hatvanorri Gyüm\xC3\xB6lcs\xC3\xB6s"
 hatvanpuszta: 
   city: "hatvanpuszta"
   accentcity: "Hatvanpuszta"
@@ -17306,7 +17306,7 @@ hegyesbori legelo:
   accentcity: "Hegyesbori Legelo"
 hegyesbukk: 
   city: "hegyesbukk"
-  accentcity: "Hegyesb\xC3\xBCkk"
+  accentcity: "Hegyesbükk"
 hegyesd: 
   city: "hegyesd"
   accentcity: "Hegyesd"
@@ -18152,7 +18152,7 @@ homoki tanyak:
   accentcity: "Homoki Tanyák"
 homoki ujtelep: 
   city: "homoki ujtelep"
-  accentcity: "Homoki \xC3\x9Ajtelep"
+  accentcity: "Homoki Újtelep"
 homokkert: 
   city: "homokkert"
   accentcity: "Homokkert"
@@ -18683,7 +18683,7 @@ igasiugar:
   accentcity: "Igásiugar"
 igasi ut fele tanyak: 
   city: "igasi ut fele tanyak"
-  accentcity: "Igási \xC3\x9At Féle Tanyák"
+  accentcity: "Igási Út Féle Tanyák"
 ignactanya: 
   city: "ignactanya"
   accentcity: "Ignáctanya"
@@ -19025,7 +19025,7 @@ iskolafold:
   accentcity: "Iskolaf\xC3\xB6ld"
 iskola ut: 
   city: "iskola ut"
-  accentcity: "Iskola \xC3\x9At"
+  accentcity: "Iskola Út"
 ispank: 
   city: "ispank"
   accentcity: "Ispánk"
@@ -19847,7 +19847,7 @@ jonap:
   accentcity: "Jónap"
 jonasgyumolcsos: 
   city: "jonasgyumolcsos"
-  accentcity: "Jónásgy\xC3\xBCm\xC3\xB6lcs\xC3\xB6s"
+  accentcity: "Jónásgyüm\xC3\xB6lcs\xC3\xB6s"
 jonashegy: 
   city: "jonashegy"
   accentcity: "Jónáshegy"
@@ -20642,7 +20642,7 @@ kaposfo:
   accentcity: "Kaposfo"
 kaposfured: 
   city: "kaposfured"
-  accentcity: "Kaposf\xC3\xBCred"
+  accentcity: "Kaposfüred"
 kaposgyarmat: 
   city: "kaposgyarmat"
   accentcity: "Kaposgyarmat"
@@ -20717,7 +20717,7 @@ kaptalanfa:
   accentcity: "Káptalanfa"
 kaptalanfured: 
   city: "kaptalanfured"
-  accentcity: "Káptalanf\xC3\xBCred"
+  accentcity: "Káptalanfüred"
 kaptalani erdo: 
   city: "kaptalani erdo"
   accentcity: "Kaptalani Erdo"
@@ -21332,7 +21332,7 @@ keceliuti tanya:
   accentcity: "Keceliúti Tanya"
 keceli uti tanyak: 
   city: "keceli uti tanyak"
-  accentcity: "Keceli \xC3\x9Ati Tanyák"
+  accentcity: "Keceli Úti Tanyák"
 kecel: 
   city: "kecel"
   accentcity: "Kecel"
@@ -21644,7 +21644,7 @@ kendergyartelep:
   accentcity: "Kendergyártelep"
 kenderhati ujtelep: 
   city: "kenderhati ujtelep"
-  accentcity: "Kenderháti \xC3\x9Ajtelep"
+  accentcity: "Kenderháti Újtelep"
 kenderhegy: 
   city: "kenderhegy"
   accentcity: "Kenderhegy"
@@ -21725,7 +21725,7 @@ kenyervarotanya:
   accentcity: "Kenyérvárótanya"
 kenyervar uti tanyak: 
   city: "kenyervar uti tanyak"
-  accentcity: "Kenyérvár \xC3\x9Ati Tanyák"
+  accentcity: "Kenyérvár Úti Tanyák"
 kepesfold: 
   city: "kepesfold"
   accentcity: "Kepésf\xC3\xB6ld"
@@ -21902,7 +21902,7 @@ keresztes:
   accentcity: "Keresztes"
 keresztespuspoki: 
   city: "keresztespuspoki"
-  accentcity: "Keresztesp\xC3\xBCsp\xC3\xB6ki"
+  accentcity: "Keresztespüsp\xC3\xB6ki"
 keresztespuszta: 
   city: "keresztespuszta"
   accentcity: "Keresztespuszta"
@@ -22166,13 +22166,13 @@ kesztolc:
   accentcity: "Keszt\xC3\xB6lc"
 keszu: 
   city: "keszu"
-  accentcity: "Kesz\xC3\xBC"
+  accentcity: "Keszü"
 ketbodony: 
   city: "ketbodony"
   accentcity: "Kétbodony"
 ketbukkikoz: 
   city: "ketbukkikoz"
-  accentcity: "Kétb\xC3\xBCkkik\xC3\xB6z"
+  accentcity: "Kétbükkik\xC3\xB6z"
 ketegyhaza: 
   city: "ketegyhaza"
   accentcity: "Kétegyháza"
@@ -22241,10 +22241,10 @@ ketujfalu:
   accentcity: "Kétújfalu"
 ket ut koze: 
   city: "ket ut koze"
-  accentcity: "Két \xC3\x9At K\xC3\xB6ze"
+  accentcity: "Két Út K\xC3\xB6ze"
 ket ut koz: 
   city: "ket ut koz"
-  accentcity: "Két \xC3\x9At K\xC3\xB6z"
+  accentcity: "Két Út K\xC3\xB6z"
 ketvolgy: 
   city: "ketvolgy"
   accentcity: "Kétv\xC3\xB6lgy"
@@ -22388,7 +22388,7 @@ kiralyhaza:
   accentcity: "Királyháza"
 kiralyhegyesi kulterulet: 
   city: "kiralyhegyesi kulterulet"
-  accentcity: "Királyhegyesi K\xC3\xBClter\xC3\xBClet"
+  accentcity: "Királyhegyesi Külterület"
 kiralyhegyesi tanya: 
   city: "kiralyhegyesi tanya"
   accentcity: "Királyhegyesi Tanya"
@@ -22439,7 +22439,7 @@ kiralytelekiszollok:
   accentcity: "Kiralytelekiszollok"
 kiralyteleki uti tanyak: 
   city: "kiralyteleki uti tanyak"
-  accentcity: "Királyteleki \xC3\x9Ati Tanyák"
+  accentcity: "Királyteleki Úti Tanyák"
 kiralytelek: 
   city: "kiralytelek"
   accentcity: "Királytelek"
@@ -22466,7 +22466,7 @@ kirito:
   accentcity: "Kiritó"
 kisacsad allami gazdasag: 
   city: "kisacsad allami gazdasag"
-  accentcity: "Kisacsád \xC3\x81llami Gazdaság"
+  accentcity: "Kisacsád Állami Gazdaság"
 kisacsadmajor: 
   city: "kisacsadmajor"
   accentcity: "Kisacsádmajor"
@@ -22604,7 +22604,7 @@ kisbarathegy:
   accentcity: "Kisbaráthegy"
 kisbarathegy ujtelep: 
   city: "kisbarathegy ujtelep"
-  accentcity: "Kisbaráthegy \xC3\x9Ajtelep"
+  accentcity: "Kisbaráthegy Újtelep"
 kisbaratipuszta: 
   city: "kisbaratipuszta"
   accentcity: "Kisbarátipuszta"
@@ -22727,7 +22727,7 @@ kisbugac:
   accentcity: "Kisbugac"
 kisbukk: 
   city: "kisbukk"
-  accentcity: "Kisb\xC3\xBCkk"
+  accentcity: "Kisbükk"
 kis butyka-tanya: 
   city: "kis butyka-tanya"
   accentcity: "Kis Butyka-tanya"
@@ -22958,7 +22958,7 @@ kisfaludpuszta:
   accentcity: "Kisfaludpuszta"
 kisfalud ujtelep: 
   city: "kisfalud ujtelep"
-  accentcity: "Kisfalud \xC3\x9Ajtelep"
+  accentcity: "Kisfalud Újtelep"
 kisfaridulo: 
   city: "kisfaridulo"
   accentcity: "Kisfaridulo"
@@ -22997,7 +22997,7 @@ kisfolyasidulo:
   accentcity: "Kisfolyasidulo"
 kisfuzes: 
   city: "kisfuzes"
-  accentcity: "Kisf\xC3\xBCzes"
+  accentcity: "Kisfüzes"
 kisgajla: 
   city: "kisgajla"
   accentcity: "Kisgajla"
@@ -23417,7 +23417,7 @@ kiskoveshegy:
   accentcity: "Kisk\xC3\xB6veshegy"
 kiskozari ujhegy: 
   city: "kiskozari ujhegy"
-  accentcity: "Kiskozári \xC3\x9Ajhegy"
+  accentcity: "Kiskozári Újhegy"
 kiskoz: 
   city: "kiskoz"
   accentcity: "Kisk\xC3\xB6z"
@@ -24977,7 +24977,7 @@ koptanya:
   accentcity: "K\xC3\xB6ptanya"
 kopusvolgy: 
   city: "kopusvolgy"
-  accentcity: "K\xC3\xB6p\xC3\xBCsv\xC3\xB6lgy"
+  accentcity: "K\xC3\xB6püsv\xC3\xB6lgy"
 korakas: 
   city: "korakas"
   accentcity: "Korakas"
@@ -25241,7 +25241,7 @@ kortesdulo:
   accentcity: "Kortesdulo"
 kortonyeibukk: 
   city: "kortonyeibukk"
-  accentcity: "K\xC3\xB6rt\xC3\xB6nyeib\xC3\xBCkk"
+  accentcity: "K\xC3\xB6rt\xC3\xB6nyeibükk"
 kortvelyesdulo: 
   city: "kortvelyesdulo"
   accentcity: "Kortvelyesdulo"
@@ -25454,10 +25454,10 @@ kovacsbokor:
   accentcity: "Kovácsbokor"
 kovacsbukkitanyak: 
   city: "kovacsbukkitanyak"
-  accentcity: "Kovácsb\xC3\xBCkkitanyák"
+  accentcity: "Kovácsbükkitanyák"
 kovacsbukki tanya: 
   city: "kovacsbukki tanya"
-  accentcity: "Kovácsb\xC3\xBCkki Tanya"
+  accentcity: "Kovácsbükki Tanya"
 kovacsdulo: 
   city: "kovacsdulo"
   accentcity: "Kovacsdulo"
@@ -25466,7 +25466,7 @@ kovacshanyas:
   accentcity: "Kovácshányás"
 kovacshazi ut: 
   city: "kovacshazi ut"
-  accentcity: "Kovácsházi \xC3\x9At"
+  accentcity: "Kovácsházi Út"
 kovacshida: 
   city: "kovacshida"
   accentcity: "Kovácshida"
@@ -25736,7 +25736,7 @@ kozepnyirvarmajor:
   accentcity: "K\xC3\xB6zépnyirvármajor"
 kozep-odany: 
   city: "kozep-odany"
-  accentcity: "K\xC3\xB6zép-\xC3\x93dány"
+  accentcity: "K\xC3\xB6zép-Ódány"
 kozeppeszer: 
   city: "kozeppeszer"
   accentcity: "K\xC3\xB6zéppeszér"
@@ -25829,10 +25829,10 @@ kozmafa:
   accentcity: "Kozmafa"
 kozmagyumolcs: 
   city: "kozmagyumolcs"
-  accentcity: "Kozmagy\xC3\xBCm\xC3\xB6lcs"
+  accentcity: "Kozmagyüm\xC3\xB6lcs"
 kozmagyumolcsos: 
   city: "kozmagyumolcsos"
-  accentcity: "Kozmagy\xC3\xBCm\xC3\xB6lcs\xC3\xB6s"
+  accentcity: "Kozmagyüm\xC3\xB6lcs\xC3\xB6s"
 kozmaolaszfa: 
   city: "kozmaolaszfa"
   accentcity: "Kozmaolaszfa"
@@ -25973,7 +25973,7 @@ kryptontelep:
   accentcity: "Kryptontelep"
 kubekhaza: 
   city: "kubekhaza"
-  accentcity: "K\xC3\xBCbekháza"
+  accentcity: "Kübekháza"
 kubiktanya: 
   city: "kubiktanya"
   accentcity: "Kubiktanya"
@@ -26039,7 +26039,7 @@ kulapuszta:
   accentcity: "Kulapuszta"
 kulbogyiszlo: 
   city: "kulbogyiszlo"
-  accentcity: "K\xC3\xBClbogyiszló"
+  accentcity: "Külbogyiszló"
 kulcsarmajor: 
   city: "kulcsarmajor"
   accentcity: "Kulcsármajor"
@@ -26075,13 +26075,13 @@ kuller:
   accentcity: "Kullér"
 kullustanya: 
   city: "kullustanya"
-  accentcity: "K\xC3\xBCll\xC3\xBCstanya"
+  accentcity: "Küllüstanya"
 kulmajori tanya: 
   city: "kulmajori tanya"
-  accentcity: "K\xC3\xBClmajori Tanya"
+  accentcity: "Külmajori Tanya"
 kulmajor: 
   city: "kulmajor"
-  accentcity: "K\xC3\xBClmajor"
+  accentcity: "Külmajor"
 kulsoakol: 
   city: "kulsoakol"
   accentcity: "Kulsoakol"
@@ -26105,7 +26105,7 @@ kulsocsorna:
   accentcity: "Kulsocsorna"
 kulso-dalla-puszta: 
   city: "kulso-dalla-puszta"
-  accentcity: "K\xC3\xBClso-dalla-puszta"
+  accentcity: "Külso-dalla-puszta"
 kulsodulo: 
   city: "kulsodulo"
   accentcity: "Kulsodulo"
@@ -26237,7 +26237,7 @@ kulsovat:
   accentcity: "Kulsovat"
 kulvolgyipuszta: 
   city: "kulvolgyipuszta"
-  accentcity: "K\xC3\xBClv\xC3\xB6lgyipuszta"
+  accentcity: "Külv\xC3\xB6lgyipuszta"
 kunadacs: 
   city: "kunadacs"
   accentcity: "Kunadacs"
@@ -26279,7 +26279,7 @@ kunfeherto:
   accentcity: "Kunfehértó"
 kungos: 
   city: "kungos"
-  accentcity: "K\xC3\xBCng\xC3\xB6s"
+  accentcity: "Küng\xC3\xB6s"
 kungyalu: 
   city: "kungyalu"
   accentcity: "Kungyalu"
@@ -26348,7 +26348,7 @@ kuntelep:
   accentcity: "Kuntelep"
 kunules: 
   city: "kunules"
-  accentcity: "Kun\xC3\xBClés"
+  accentcity: "Kunülés"
 kupa: 
   city: "kupa"
   accentcity: "Kupa"
@@ -26426,13 +26426,13 @@ kurtilaposdulo:
   accentcity: "Kurtilaposdulo"
 kurtilapos: 
   city: "kurtilapos"
-  accentcity: "K\xC3\xBCrtilapos"
+  accentcity: "Kürtilapos"
 kurtos: 
   city: "kurtos"
-  accentcity: "K\xC3\xBCrt\xC3\xB6s"
+  accentcity: "Kürt\xC3\xB6s"
 kurtospuszta: 
   city: "kurtospuszta"
-  accentcity: "K\xC3\xBCrt\xC3\xB6spuszta"
+  accentcity: "Kürt\xC3\xB6spuszta"
 kuruckereszttelep: 
   city: "kuruckereszttelep"
   accentcity: "Kuruckereszttelep"
@@ -26564,7 +26564,7 @@ kutret:
   accentcity: "Kútrét"
 kutteltanya: 
   city: "kutteltanya"
-  accentcity: "K\xC3\xBCtteltanya"
+  accentcity: "Kütteltanya"
 kutvolgyidulo: 
   city: "kutvolgyidulo"
   accentcity: "Kutvolgyidulo"
@@ -26654,7 +26654,7 @@ ladanybene:
   accentcity: "Ladánybene"
 ladanyigyumolcsos: 
   city: "ladanyigyumolcsos"
-  accentcity: "Ladányigy\xC3\xBCm\xC3\xB6lcs\xC3\xB6s"
+  accentcity: "Ladányigyüm\xC3\xB6lcs\xC3\xB6s"
 ladanyiurbo: 
   city: "ladanyiurbo"
   accentcity: "Ladanyiurbo"
@@ -27023,7 +27023,7 @@ latortanya:
   accentcity: "Latortanya"
 lator ut: 
   city: "lator ut"
-  accentcity: "Lator \xC3\x9At"
+  accentcity: "Lator Út"
 latranpuszta: 
   city: "latranpuszta"
   accentcity: "Latránpuszta"
@@ -27140,7 +27140,7 @@ legradimajor:
   accentcity: "Légrádimajor"
 legradi ut: 
   city: "legradi ut"
-  accentcity: "Légrádi \xC3\x9At"
+  accentcity: "Légrádi Út"
 legyesbenye: 
   city: "legyesbenye"
   accentcity: "Legyesbénye"
@@ -27515,7 +27515,7 @@ liliompuszta:
   accentcity: "Liliompuszta"
 lillafured: 
   city: "lillafured"
-  accentcity: "Lillaf\xC3\xBCred"
+  accentcity: "Lillafüred"
 linahegy: 
   city: "linahegy"
   accentcity: "Linahegy"
@@ -27803,7 +27803,7 @@ lorintepuszta:
   accentcity: "Lorintepuszta"
 losonc allami csiko-telep: 
   city: "losonc allami csiko-telep"
-  accentcity: "Losonc \xC3\x81llami Csikó-telep"
+  accentcity: "Losonc Állami Csikó-telep"
 losoncihaz: 
   city: "losoncihaz"
   accentcity: "Losonciház"
@@ -28094,7 +28094,7 @@ madi tanyak:
   accentcity: "Mádi Tanyák"
 madi ut: 
   city: "madi ut"
-  accentcity: "Mádi \xC3\x9At"
+  accentcity: "Mádi Út"
 mad: 
   city: "mad"
   accentcity: "Mád"
@@ -28205,13 +28205,13 @@ magyarboly:
   accentcity: "Magyarbóly"
 magyar-bukkos telep: 
   city: "magyar-bukkos telep"
-  accentcity: "Magyar-b\xC3\xBCkk\xC3\xB6s Telep"
+  accentcity: "Magyar-bükk\xC3\xB6s Telep"
 magyarbukos: 
   city: "magyarbukos"
-  accentcity: "Magyarb\xC3\xBCk\xC3\xB6s"
+  accentcity: "Magyarbük\xC3\xB6s"
 magyarbukstelep: 
   city: "magyarbukstelep"
-  accentcity: "Magyarb\xC3\xBCkstelep"
+  accentcity: "Magyarbükstelep"
 magyarcsanadi tanyak: 
   city: "magyarcsanadi tanyak"
   accentcity: "Magyarcsanádi Tanyák"
@@ -28367,7 +28367,7 @@ magyartes:
   accentcity: "Magyartés"
 magyarurugy: 
   city: "magyarurugy"
-  accentcity: "Magyar\xC3\xBCr\xC3\xBCgy"
+  accentcity: "Magyarürügy"
 magyarytanya: 
   city: "magyarytanya"
   accentcity: "Magyarytanya"
@@ -28412,7 +28412,7 @@ majoritanya:
   accentcity: "Majoritanya"
 majori ut: 
   city: "majori ut"
-  accentcity: "Majori \xC3\x9At"
+  accentcity: "Majori Út"
 major: 
   city: "major"
   accentcity: "Major"
@@ -28436,7 +28436,7 @@ majsai hatardulo:
   accentcity: "Majsai Hatardulo"
 majsai uti tanyak: 
   city: "majsai uti tanyak"
-  accentcity: "Majsai \xC3\x9Ati Tanyák"
+  accentcity: "Majsai Úti Tanyák"
 majsamiklosvar: 
   city: "majsamiklosvar"
   accentcity: "Majsamiklósvár"
@@ -29141,7 +29141,7 @@ martonyi:
   accentcity: "Martonyi"
 masodikkeruleti banyatelep: 
   city: "masodikkeruleti banyatelep"
-  accentcity: "Másodikker\xC3\xBCleti Bányatelep"
+  accentcity: "Másodikkerületi Bányatelep"
 masodik mandi bokor: 
   city: "masodik mandi bokor"
   accentcity: "Második Mándi Bokor"
@@ -29201,10 +29201,10 @@ matetelkitanyak:
   accentcity: "Mátételkitanyák"
 mateulespuszta: 
   city: "mateulespuszta"
-  accentcity: "Máté\xC3\xBCléspuszta"
+  accentcity: "Mátéüléspuszta"
 mateulestanya: 
   city: "mateulestanya"
-  accentcity: "Máté\xC3\xBCléstanya"
+  accentcity: "Mátéüléstanya"
 matevolgye: 
   city: "matevolgye"
   accentcity: "Mátév\xC3\xB6lgye"
@@ -29261,7 +29261,7 @@ matraeromutelep:
   accentcity: "Matraeromutelep"
 matrafured: 
   city: "matrafured"
-  accentcity: "Mátraf\xC3\xBCred"
+  accentcity: "Mátrafüred"
 matrahaza: 
   city: "matrahaza"
   accentcity: "Mátraháza"
@@ -30503,7 +30503,7 @@ monoszlo:
   accentcity: "Monoszló"
 montaghi ut: 
   city: "montaghi ut"
-  accentcity: "Montághi \xC3\x9At"
+  accentcity: "Montághi Út"
 montaghkismajor: 
   city: "montaghkismajor"
   accentcity: "Montaghkismajor"
@@ -30515,7 +30515,7 @@ montagh-nagytanya:
   accentcity: "Montagh-nagytanya"
 montaghy ut: 
   city: "montaghy ut"
-  accentcity: "Montághy \xC3\x9At"
+  accentcity: "Montághy Út"
 monustanya: 
   city: "monustanya"
   accentcity: "Mónustanya"
@@ -30713,16 +30713,16 @@ mulatopark:
   accentcity: "Mulatópark"
 mullermalom: 
   city: "mullermalom"
-  accentcity: "M\xC3\xBCllermalom"
+  accentcity: "Müllermalom"
 mullerpuszta: 
   city: "mullerpuszta"
-  accentcity: "M\xC3\xBCllerpuszta"
+  accentcity: "Müllerpuszta"
 muller tanya: 
   city: "muller tanya"
-  accentcity: "M\xC3\xBCller Tanya"
+  accentcity: "Müller Tanya"
 mullertanya: 
   city: "mullertanya"
-  accentcity: "M\xC3\xBCllertanya"
+  accentcity: "Müllertanya"
 mumor: 
   city: "mumor"
   accentcity: "Mumor"
@@ -31289,10 +31289,10 @@ nagyfiter-puszta:
   accentcity: "Nagyfiter-puszta"
 nagyfugedi tanyak: 
   city: "nagyfugedi tanyak"
-  accentcity: "Nagyf\xC3\xBCgedi Tanyák"
+  accentcity: "Nagyfügedi Tanyák"
 nagyfuged: 
   city: "nagyfuged"
-  accentcity: "Nagyf\xC3\xBCged"
+  accentcity: "Nagyfüged"
 nagygajla: 
   city: "nagygajla"
   accentcity: "Nagygajla"
@@ -31370,7 +31370,7 @@ nagyhantos:
   accentcity: "Nagyhantos"
 nagyhantos-ujtelep: 
   city: "nagyhantos-ujtelep"
-  accentcity: "Nagyhantos-\xC3\x9Ajtelep"
+  accentcity: "Nagyhantos-Újtelep"
 nagyharang: 
   city: "nagyharang"
   accentcity: "Nagyharang"
@@ -31505,7 +31505,7 @@ nagykaba:
   accentcity: "Nagykaba"
 nagykalloi uti tanyak: 
   city: "nagykalloi uti tanyak"
-  accentcity: "Nagykállói \xC3\x9Ati Tanyák"
+  accentcity: "Nagykállói Úti Tanyák"
 nagykalloi vadaspuszta: 
   city: "nagykalloi vadaspuszta"
   accentcity: "Nagykállói Vadaspuszta"
@@ -31640,7 +31640,7 @@ nagy kuria-puszta:
   accentcity: "Nagy Kúria-puszta"
 nagykurtospuszta: 
   city: "nagykurtospuszta"
-  accentcity: "Nagyk\xC3\xBCrt\xC3\xB6spuszta"
+  accentcity: "Nagykürt\xC3\xB6spuszta"
 nagykustyan: 
   city: "nagykustyan"
   accentcity: "Nagykustyán"
@@ -31679,7 +31679,7 @@ nagylaposdulo:
   accentcity: "Nagylaposdulo"
 nagylaposi ujtelep: 
   city: "nagylaposi ujtelep"
-  accentcity: "Nagylaposi \xC3\x9Ajtelep"
+  accentcity: "Nagylaposi Újtelep"
 nagylapos: 
   city: "nagylapos"
   accentcity: "Nagylapos"
@@ -32459,7 +32459,7 @@ nemeditanya:
   accentcity: "Némeditanya"
 nemedi ut: 
   city: "nemedi ut"
-  accentcity: "Némedi \xC3\x9At"
+  accentcity: "Némedi Út"
 nemero: 
   city: "nemero"
   accentcity: "Nemero"
@@ -32486,10 +32486,10 @@ nemesborzova:
   accentcity: "Nemesborzova"
 nemesbukk: 
   city: "nemesbukk"
-  accentcity: "Nemesb\xC3\xBCkk"
+  accentcity: "Nemesbükk"
 nemesbuk: 
   city: "nemesbuk"
-  accentcity: "Nemesb\xC3\xBCk"
+  accentcity: "Nemesbük"
 nemescso: 
   city: "nemescso"
   accentcity: "Nemescsó"
@@ -33074,7 +33074,7 @@ nyiregyhaza:
   accentcity: "Nyíregyháza"
 nyiregyhazi uti tanyak: 
   city: "nyiregyhazi uti tanyak"
-  accentcity: "Nyíregyházi \xC3\x9Ati Tanyák"
+  accentcity: "Nyíregyházi Úti Tanyák"
 nyiresimalom: 
   city: "nyiresimalom"
   accentcity: "Nyiresimalom"
@@ -33290,64 +33290,64 @@ nyulzug:
   accentcity: "Nyúlzug"
 oalmas: 
   city: "oalmas"
-  accentcity: "\xC3\x93almás"
+  accentcity: "Óalmás"
 oballapuszta: 
   city: "oballapuszta"
-  accentcity: "\xC3\x93ballapuszta"
+  accentcity: "Óballapuszta"
 obanyai tanyak: 
   city: "obanyai tanyak"
-  accentcity: "\xC3\x93bányai Tanyák"
+  accentcity: "Óbányai Tanyák"
 obanya: 
   city: "obanya"
-  accentcity: "\xC3\x93bánya"
+  accentcity: "Óbánya"
 obanyapuszta: 
   city: "obanyapuszta"
-  accentcity: "\xC3\x93bányapuszta"
+  accentcity: "Óbányapuszta"
 obarok: 
   city: "obarok"
-  accentcity: "\xC3\x93barok"
+  accentcity: "Óbarok"
 obarokpuszta: 
   city: "obarokpuszta"
-  accentcity: "\xC3\x93barokpuszta"
+  accentcity: "Óbarokpuszta"
 obbastanya: 
   city: "obbastanya"
   accentcity: "Obbástanya"
 obebai uti tanyak: 
   city: "obebai uti tanyak"
-  accentcity: "\xC3\x93bébai \xC3\x9Ati Tanyák"
+  accentcity: "Óbébai Úti Tanyák"
 obebiuti tanyak: 
   city: "obebiuti tanyak"
-  accentcity: "\xC3\x93bébiúti Tanyák"
+  accentcity: "Óbébiúti Tanyák"
 oberek: 
   city: "oberek"
-  accentcity: "\xC3\x93berek"
+  accentcity: "Óberek"
 oberekpuszta: 
   city: "oberekpuszta"
-  accentcity: "\xC3\x93berekpuszta"
+  accentcity: "Óberekpuszta"
 obirod: 
   city: "obirod"
-  accentcity: "\xC3\x93biród"
+  accentcity: "Óbiród"
 obis: 
   city: "obis"
-  accentcity: "\xC3\x93bis"
+  accentcity: "Óbis"
 obornak: 
   city: "obornak"
   accentcity: "Obornak"
 obuda: 
   city: "obuda"
-  accentcity: "\xC3\x93buda"
+  accentcity: "Óbuda"
 obudavar: 
   city: "obudavar"
-  accentcity: "\xC3\x93budavár"
+  accentcity: "Óbudavár"
 ocsaifertodulo: 
   city: "ocsaifertodulo"
   accentcity: "Ocsaifertodulo"
 ocsa: 
   city: "ocsa"
-  accentcity: "\xC3\x93csa"
+  accentcity: "Ócsa"
 ocsard: 
   city: "ocsard"
-  accentcity: "\xC3\x93csárd"
+  accentcity: "Ócsárd"
 ocsenastanya: 
   city: "ocsenastanya"
   accentcity: "Ocsenástanya"
@@ -33368,25 +33368,25 @@ ocs:
   accentcity: "\xC3\x96cs"
 ocsodi uti tanyak: 
   city: "ocsodi uti tanyak"
-  accentcity: "\xC3\x96cs\xC3\xB6di \xC3\x9Ati Tanyák"
+  accentcity: "\xC3\x96cs\xC3\xB6di Úti Tanyák"
 ocsod: 
   city: "ocsod"
   accentcity: "\xC3\x96cs\xC3\xB6d"
 odalmand: 
   city: "odalmand"
-  accentcity: "\xC3\x93dalmand"
+  accentcity: "Ódalmand"
 odany: 
   city: "odany"
-  accentcity: "\xC3\x93dány"
+  accentcity: "Ódány"
 odanypuszta: 
   city: "odanypuszta"
-  accentcity: "\xC3\x93dánypuszta"
+  accentcity: "Ódánypuszta"
 odenburg: 
   city: "odenburg"
   accentcity: "\xC3\x96denburg"
 odobronte: 
   city: "odobronte"
-  accentcity: "\xC3\x93d\xC3\xB6br\xC3\xB6nte"
+  accentcity: "Ód\xC3\xB6br\xC3\xB6nte"
 odonmajor: 
   city: "odonmajor"
   accentcity: "\xC3\x96d\xC3\xB6nmajor"
@@ -33401,19 +33401,19 @@ odonyvolgy:
   accentcity: "\xC3\x96d\xC3\xB6nyv\xC3\xB6lgy"
 odorogd: 
   city: "odorogd"
-  accentcity: "\xC3\x93d\xC3\xB6r\xC3\xB6gd"
+  accentcity: "Ód\xC3\xB6r\xC3\xB6gd"
 odorogdpuszta: 
   city: "odorogdpuszta"
-  accentcity: "\xC3\x93d\xC3\xB6r\xC3\xB6gdpuszta"
+  accentcity: "Ód\xC3\xB6r\xC3\xB6gdpuszta"
 ofalui part: 
   city: "ofalui part"
-  accentcity: "\xC3\x93falui Part"
+  accentcity: "Ófalui Part"
 ofalu: 
   city: "ofalu"
-  accentcity: "\xC3\x93falu"
+  accentcity: "Ófalu"
 ofeherto: 
   city: "ofeherto"
-  accentcity: "\xC3\x93fehértó"
+  accentcity: "Ófehértó"
 ofen: 
   city: "ofen"
   accentcity: "Ofen"
@@ -33428,25 +33428,25 @@ ofnertelep:
   accentcity: "Ofnertelep"
 ofoldeak: 
   city: "ofoldeak"
-  accentcity: "\xC3\x93f\xC3\xB6ldeák"
+  accentcity: "Óf\xC3\xB6ldeák"
 ofoldeakpuszta: 
   city: "ofoldeakpuszta"
-  accentcity: "\xC3\x93f\xC3\xB6ldeákpuszta"
+  accentcity: "Óf\xC3\xB6ldeákpuszta"
 ohalasz: 
   city: "ohalasz"
-  accentcity: "\xC3\x93halász"
+  accentcity: "Óhalász"
 o-hecske: 
   city: "o-hecske"
-  accentcity: "\xC3\x93-hecske"
+  accentcity: "Ó-hecske"
 ohegy: 
   city: "ohegy"
-  accentcity: "\xC3\x93hegy"
+  accentcity: "Óhegy"
 ohid: 
   city: "ohid"
-  accentcity: "\xC3\x93hid"
+  accentcity: "Óhid"
 ohodospuszta: 
   city: "ohodospuszta"
-  accentcity: "\xC3\x93hódospuszta"
+  accentcity: "Óhódospuszta"
 okanyi tanya: 
   city: "okanyi tanya"
   accentcity: "Okányi Tanya"
@@ -33458,16 +33458,16 @@ okecie:
   accentcity: "Okecie"
 okecske: 
   city: "okecske"
-  accentcity: "\xC3\x93kécske"
+  accentcity: "Ókécske"
 okenez: 
   city: "okenez"
-  accentcity: "\xC3\x93kenéz"
+  accentcity: "Ókenéz"
 okeske: 
   city: "okeske"
-  accentcity: "\xC3\x93keske"
+  accentcity: "Ókeske"
 okigyos: 
   city: "okigyos"
-  accentcity: "\xC3\x93kigyós"
+  accentcity: "Ókigyós"
 okorag: 
   city: "okorag"
   accentcity: "Okorág"
@@ -33485,7 +33485,7 @@ okorhalomdulo:
   accentcity: "Okorhalomdulo"
 okoritofulpos: 
   city: "okoritofulpos"
-  accentcity: "\xC3\x96k\xC3\xB6ritóf\xC3\xBClp\xC3\xB6s"
+  accentcity: "\xC3\x96k\xC3\xB6ritófülp\xC3\xB6s"
 okorjaras: 
   city: "okorjaras"
   accentcity: "\xC3\x96k\xC3\xB6rjárás"
@@ -33521,7 +33521,7 @@ oktalan:
   accentcity: "Oktalan"
 oladany: 
   city: "oladany"
-  accentcity: "\xC3\x93ladány"
+  accentcity: "Óladány"
 olad: 
   city: "olad"
   accentcity: "Olad"
@@ -33596,16 +33596,16 @@ old:
   accentcity: "Old"
 olegyenitanyak: 
   city: "olegyenitanyak"
-  accentcity: "\xC3\x93legyenitanyák"
+  accentcity: "Ólegyenitanyák"
 olegyen: 
   city: "olegyen"
-  accentcity: "\xC3\x93legyen"
+  accentcity: "Ólegyen"
 olgamajor: 
   city: "olgamajor"
   accentcity: "Olgamajor"
 olmod: 
   city: "olmod"
-  accentcity: "\xC3\x93lmod"
+  accentcity: "Ólmod"
 oltarc: 
   city: "oltarc"
   accentcity: "Oltárc"
@@ -33617,10 +33617,10 @@ oltvanyi tanya:
   accentcity: "Oltványi Tanya"
 o-ludadpuszta: 
   city: "o-ludadpuszta"
-  accentcity: "\xC3\x93-Ludadpuszta"
+  accentcity: "Ó-Ludadpuszta"
 olvolgy: 
   city: "olvolgy"
-  accentcity: "\xC3\x93lv\xC3\xB6lgy"
+  accentcity: "Ólv\xC3\xB6lgy"
 olyved: 
   city: "olyved"
   accentcity: "\xC3\x96lyved"
@@ -33629,13 +33629,13 @@ olyvostanya:
   accentcity: "\xC3\x96lyv\xC3\xB6stanya"
 omajor: 
   city: "omajor"
-  accentcity: "\xC3\x93major"
+  accentcity: "Ómajor"
 omalomsok: 
   city: "omalomsok"
-  accentcity: "\xC3\x93malomsok"
+  accentcity: "Ómalomsok"
 omassa: 
   city: "omassa"
-  accentcity: "\xC3\x93massa"
+  accentcity: "Ómassa"
 omboly: 
   city: "omboly"
   accentcity: "\xC3\x96mb\xC3\xB6ly"
@@ -33647,7 +33647,7 @@ omezohegyes:
   accentcity: "Omezohegyes"
 onana: 
   city: "onana"
-  accentcity: "\xC3\x93nána"
+  accentcity: "Ónána"
 oncsaszeltanya: 
   city: "oncsaszeltanya"
   accentcity: "Oncsaszéltanya"
@@ -33671,10 +33671,10 @@ onga:
   accentcity: "Onga"
 onoditanya: 
   city: "onoditanya"
-  accentcity: "\xC3\x93noditanya"
+  accentcity: "Ónoditanya"
 onod: 
   city: "onod"
-  accentcity: "\xC3\x93nod"
+  accentcity: "Ónod"
 onodyszollok: 
   city: "onodyszollok"
   accentcity: "Onodyszollok"
@@ -33689,10 +33689,10 @@ ontipuszta:
   accentcity: "Ontipuszta"
 opalyi: 
   city: "opalyi"
-  accentcity: "\xC3\x93pályi"
+  accentcity: "Ópályi"
 opusztaszer: 
   city: "opusztaszer"
-  accentcity: "\xC3\x93pusztaszer"
+  accentcity: "Ópusztaszer"
 orbantanya: 
   city: "orbantanya"
   accentcity: "Orbántanya"
@@ -33791,7 +33791,7 @@ oreghegyiszolok:
   accentcity: "Oreghegyiszolok"
 oreg-hegyi ut: 
   city: "oreg-hegyi ut"
-  accentcity: "\xC3\x96reg-hegyi \xC3\x9At"
+  accentcity: "\xC3\x96reg-hegyi Út"
 oreghegy: 
   city: "oreghegy"
   accentcity: "\xC3\x96reghegy"
@@ -34160,10 +34160,10 @@ osagard:
   accentcity: "Osagard"
 osakpuszta: 
   city: "osakpuszta"
-  accentcity: "\xC3\x93sákpuszta"
+  accentcity: "Ósákpuszta"
 osara: 
   city: "osara"
-  accentcity: "\xC3\x93sára"
+  accentcity: "Ósára"
 osca: 
   city: "osca"
   accentcity: "Osca"
@@ -34172,13 +34172,13 @@ osi:
   accentcity: "Osi"
 osiska: 
   city: "osiska"
-  accentcity: "\xC3\x93siska"
+  accentcity: "Ósiska"
 oskoladulo: 
   city: "oskoladulo"
   accentcity: "Oskoladulo"
 osku: 
   city: "osku"
-  accentcity: "\xC3\x96sk\xC3\xBC"
+  accentcity: "\xC3\x96skü"
 osli: 
   city: "osli"
   accentcity: "Osli"
@@ -34202,40 +34202,40 @@ ostsfyasszonvfa:
   accentcity: "Ostsfyasszonvfa"
 osukosd: 
   city: "osukosd"
-  accentcity: "\xC3\x93s\xC3\xBCk\xC3\xB6sd"
+  accentcity: "Ósük\xC3\xB6sd"
 osveny: 
   city: "osveny"
   accentcity: "\xC3\x96svény"
 oszanda-nagymajor: 
   city: "oszanda-nagymajor"
-  accentcity: "\xC3\x93szanda-Nagymajor"
+  accentcity: "Ószanda-Nagymajor"
 oszanda: 
   city: "oszanda"
-  accentcity: "\xC3\x93szanda"
+  accentcity: "Ószanda"
 oszanda-ujtelep: 
   city: "oszanda-ujtelep"
-  accentcity: "\xC3\x93szanda-\xC3\x9Ajtelep"
+  accentcity: "Ószanda-Újtelep"
 oszentivan: 
   city: "oszentivan"
-  accentcity: "\xC3\x93szentiván"
+  accentcity: "Ószentiván"
 o-szent-ivany: 
   city: "o-szent-ivany"
-  accentcity: "\xC3\x93-Szent-Ivány"
+  accentcity: "Ó-Szent-Ivány"
 oszeszek: 
   city: "oszeszek"
   accentcity: "\xC3\x96szeszék"
 oszhelylesvar: 
   city: "oszhelylesvar"
-  accentcity: "\xC3\x93szhelylesvár"
+  accentcity: "Ószhelylesvár"
 oszhelypuszta: 
   city: "oszhelypuszta"
-  accentcity: "\xC3\x93szhelypuszta"
+  accentcity: "Ószhelypuszta"
 oszidulo: 
   city: "oszidulo"
   accentcity: "Oszidulo"
 oszilas-puszta: 
   city: "oszilas-puszta"
-  accentcity: "\xC3\x93szilas-puszta"
+  accentcity: "Ószilas-puszta"
 oszkarmajor: 
   city: "oszkarmajor"
   accentcity: "Oszkármajor"
@@ -34277,7 +34277,7 @@ oszoloskert:
   accentcity: "Oszoloskert"
 o-szony: 
   city: "o-szony"
-  accentcity: "\xC3\x93-Sz\xC3\xB6ny"
+  accentcity: "Ó-Sz\xC3\xB6ny"
 oszpotei erdoshaz: 
   city: "oszpotei erdoshaz"
   accentcity: "Oszpotei Erdoshaz"
@@ -34298,10 +34298,10 @@ oszvaldmalom:
   accentcity: "Oszvaldmalom"
 otarcspuszta: 
   city: "otarcspuszta"
-  accentcity: "\xC3\x93tarcspuszta"
+  accentcity: "Ótarcspuszta"
 otelek: 
   city: "otelek"
-  accentcity: "\xC3\x93telek"
+  accentcity: "Ótelek"
 otfa: 
   city: "otfa"
   accentcity: "\xC3\x96tfa"
@@ -34325,10 +34325,10 @@ otodresz:
   accentcity: "\xC3\x96t\xC3\xB6drész"
 otompahat: 
   city: "otompahat"
-  accentcity: "\xC3\x93tompahát"
+  accentcity: "Ótompahát"
 otompa: 
   city: "otompa"
-  accentcity: "\xC3\x93tompa"
+  accentcity: "Ótompa"
 otteveny: 
   city: "otteveny"
   accentcity: "\xC3\x96ttevény"
@@ -34382,10 +34382,10 @@ oviraghegyszolo:
   accentcity: "Oviraghegyszolo"
 ozdfalu: 
   city: "ozdfalu"
-  accentcity: "\xC3\x93zdfalu"
+  accentcity: "Ózdfalu"
 ozd: 
   city: "ozd"
-  accentcity: "\xC3\x93zd"
+  accentcity: "Ózd"
 ozedmajor: 
   city: "ozedmajor"
   accentcity: "Ozedmajor"
@@ -34403,7 +34403,7 @@ ozetanya:
   accentcity: "Ozetanya"
 ozmanbuk: 
   city: "ozmanbuk"
-  accentcity: "Ozmánb\xC3\xBCk"
+  accentcity: "Ozmánbük"
 ozora: 
   city: "ozora"
   accentcity: "Ozora"
@@ -34445,7 +34445,7 @@ pacsapuszta:
   accentcity: "Pacsapuszta"
 pacsatuttos: 
   city: "pacsatuttos"
-  accentcity: "Pacsat\xC3\xBCtt\xC3\xB6s"
+  accentcity: "Pacsatütt\xC3\xB6s"
 pacservisnye: 
   city: "pacservisnye"
   accentcity: "Pacsérvisnye"
@@ -35108,7 +35108,7 @@ patacspuszta:
   accentcity: "Patacspuszta"
 pataikurtos: 
   city: "pataikurtos"
-  accentcity: "Pataik\xC3\xBCrt\xC3\xB6s"
+  accentcity: "Pataikürt\xC3\xB6s"
 patajibojar: 
   city: "patajibojar"
   accentcity: "Patajibojár"
@@ -35642,7 +35642,7 @@ pestimre:
   accentcity: "Pestimre"
 pestiuti kultelek: 
   city: "pestiuti kultelek"
-  accentcity: "Pestiúti K\xC3\xBCltelek"
+  accentcity: "Pestiúti Kültelek"
 pestj: 
   city: "pestj"
   accentcity: "Pestj"
@@ -36641,7 +36641,7 @@ proszapuszta:
   accentcity: "Prószapuszta"
 prugy: 
   city: "prugy"
-  accentcity: "Pr\xC3\xBCgy"
+  accentcity: "Prügy"
 pruvosznya: 
   city: "pruvosznya"
   accentcity: "Pruvosznya"
@@ -36680,7 +36680,7 @@ pulykahely:
   accentcity: "Pulykahely"
 punkosdhegy: 
   city: "punkosdhegy"
-  accentcity: "P\xC3\xBCnk\xC3\xB6sdhegy"
+  accentcity: "Pünk\xC3\xB6sdhegy"
 puposhalom: 
   city: "puposhalom"
   accentcity: "Púposhalom"
@@ -36695,73 +36695,73 @@ puskastanya:
   accentcity: "Puskástanya"
 puski: 
   city: "puski"
-  accentcity: "P\xC3\xBCski"
+  accentcity: "Püski"
 puski tanyak: 
   city: "puski tanyak"
-  accentcity: "P\xC3\xBCski Tanyák"
+  accentcity: "Püski Tanyák"
 puspokalap: 
   city: "puspokalap"
-  accentcity: "P\xC3\xBCsp\xC3\xB6kalap"
+  accentcity: "Püsp\xC3\xB6kalap"
 puspokbogad: 
   city: "puspokbogad"
-  accentcity: "P\xC3\xBCsp\xC3\xB6kbogád"
+  accentcity: "Püsp\xC3\xB6kbogád"
 puspokboly: 
   city: "puspokboly"
-  accentcity: "P\xC3\xBCsp\xC3\xB6kbóly"
+  accentcity: "Püsp\xC3\xB6kbóly"
 puspokhatvan: 
   city: "puspokhatvan"
-  accentcity: "P\xC3\xBCsp\xC3\xB6khatvan"
+  accentcity: "Püsp\xC3\xB6khatvan"
 puspoki major: 
   city: "puspoki major"
-  accentcity: "P\xC3\xBCsp\xC3\xB6ki Major"
+  accentcity: "Püsp\xC3\xB6ki Major"
 puspoki tanya: 
   city: "puspoki tanya"
-  accentcity: "P\xC3\xBCsp\xC3\xB6ki Tanya"
+  accentcity: "Püsp\xC3\xB6ki Tanya"
 puspokladany: 
   city: "puspokladany"
-  accentcity: "P\xC3\xBCsp\xC3\xB6kladány"
+  accentcity: "Püsp\xC3\xB6kladány"
 puspoklak: 
   city: "puspoklak"
-  accentcity: "P\xC3\xBCsp\xC3\xB6klak"
+  accentcity: "Püsp\xC3\xB6klak"
 puspoklele: 
   city: "puspoklele"
-  accentcity: "P\xC3\xBCsp\xC3\xB6klele"
+  accentcity: "Püsp\xC3\xB6klele"
 puspokmagyalos: 
   city: "puspokmagyalos"
-  accentcity: "P\xC3\xBCsp\xC3\xB6kmagyalos"
+  accentcity: "Püsp\xC3\xB6kmagyalos"
 puspokmajor: 
   city: "puspokmajor"
-  accentcity: "P\xC3\xBCsp\xC3\xB6kmajor"
+  accentcity: "Püsp\xC3\xB6kmajor"
 puspokmarok: 
   city: "puspokmarok"
-  accentcity: "P\xC3\xBCsp\xC3\xB6kmárok"
+  accentcity: "Püsp\xC3\xB6kmárok"
 puspokmolnari: 
   city: "puspokmolnari"
-  accentcity: "P\xC3\xBCsp\xC3\xB6kmolnári"
+  accentcity: "Püsp\xC3\xB6kmolnári"
 puspoknadasd: 
   city: "puspoknadasd"
-  accentcity: "P\xC3\xBCsp\xC3\xB6knádasd"
+  accentcity: "Püsp\xC3\xB6knádasd"
 puspokpuszta: 
   city: "puspokpuszta"
-  accentcity: "P\xC3\xBCsp\xC3\xB6kpuszta"
+  accentcity: "Püsp\xC3\xB6kpuszta"
 puspokret: 
   city: "puspokret"
-  accentcity: "P\xC3\xBCsp\xC3\xB6krét"
+  accentcity: "Püsp\xC3\xB6krét"
 puspokszenterzsebet: 
   city: "puspokszenterzsebet"
-  accentcity: "P\xC3\xBCsp\xC3\xB6kszenterzsebet"
+  accentcity: "Püsp\xC3\xB6kszenterzsebet"
 puspokszentlaszlo: 
   city: "puspokszentlaszlo"
-  accentcity: "P\xC3\xBCsp\xC3\xB6kszentlászló"
+  accentcity: "Püsp\xC3\xB6kszentlászló"
 puspokszilagy: 
   city: "puspokszilagy"
-  accentcity: "P\xC3\xBCsp\xC3\xB6kszilágy"
+  accentcity: "Püsp\xC3\xB6kszilágy"
 puspoktamasi: 
   city: "puspoktamasi"
-  accentcity: "P\xC3\xBCsp\xC3\xB6ktamási"
+  accentcity: "Püsp\xC3\xB6ktamási"
 puspokugar: 
   city: "puspokugar"
-  accentcity: "P\xC3\xBCsp\xC3\xB6kugar"
+  accentcity: "Püsp\xC3\xB6kugar"
 pustomerges: 
   city: "pustomerges"
   accentcity: "Pustomérges"
@@ -36854,7 +36854,7 @@ pusztafoldvar:
   accentcity: "Pusztaf\xC3\xB6ldvár"
 puszta-fuzes: 
   city: "puszta-fuzes"
-  accentcity: "Puszta-f\xC3\xBCzes"
+  accentcity: "Puszta-füzes"
 pusztagacsa: 
   city: "pusztagacsa"
   accentcity: "Pusztagacsa"
@@ -37046,7 +37046,7 @@ pusztaszerioldali tanyak:
   accentcity: "Pusztaszerioldali Tanyák"
 pusztaszeri uti tanyak: 
   city: "pusztaszeri uti tanyak"
-  accentcity: "Pusztaszeri \xC3\x9Ati Tanyák"
+  accentcity: "Pusztaszeri Úti Tanyák"
 pusztaszer: 
   city: "pusztaszer"
   accentcity: "Pusztaszer"
@@ -37121,7 +37121,7 @@ rabacsecseny:
   accentcity: "Rábacsécsény"
 rabafuzes: 
   city: "rabafuzes"
-  accentcity: "Rábaf\xC3\xBCzes"
+  accentcity: "Rábafüzes"
 rabagyarmat: 
   city: "rabagyarmat"
   accentcity: "Rábagyarmat"
@@ -37166,7 +37166,7 @@ rabapordany:
   accentcity: "Rábapordány"
 rabapuspoki: 
   city: "rabapuspoki"
-  accentcity: "Rábap\xC3\xBCsp\xC3\xB6ki"
+  accentcity: "Rábapüsp\xC3\xB6ki"
 rabaretmajor: 
   city: "rabaretmajor"
   accentcity: "Rábarétmajor"
@@ -37685,7 +37685,7 @@ reformatustovacshaza:
   accentcity: "Reformátustovácsháza"
 reformatus ujtelep: 
   city: "reformatus ujtelep"
-  accentcity: "Református \xC3\x9Ajtelep"
+  accentcity: "Református Újtelep"
 regale: 
   city: "regale"
   accentcity: "Regálé"
@@ -37994,7 +37994,7 @@ revfalu:
   accentcity: "Révfalu"
 revfulop: 
   city: "revfulop"
-  accentcity: "Révf\xC3\xBCl\xC3\xB6p"
+  accentcity: "Révfül\xC3\xB6p"
 reviczkitag: 
   city: "reviczkitag"
   accentcity: "Reviczkitag"
@@ -38483,7 +38483,7 @@ rozsretszolo:
   accentcity: "Rozsretszolo"
 ruckerakna: 
   city: "ruckerakna"
-  accentcity: "R\xC3\xBCckerakna"
+  accentcity: "Rückerakna"
 rudabanyacska: 
   city: "rudabanyacska"
   accentcity: "Rudabányácska"
@@ -38654,7 +38654,7 @@ sajonemeti:
   accentcity: "Sajónémeti"
 sajontuli allami gazdasag: 
   city: "sajontuli allami gazdasag"
-  accentcity: "Sajóntúli \xC3\x81llami Gazdaság"
+  accentcity: "Sajóntúli Állami Gazdaság"
 sajontuli dulo: 
   city: "sajontuli dulo"
   accentcity: "Sajontuli Dulo"
@@ -38672,7 +38672,7 @@ sajopetri:
   accentcity: "Sajópetri"
 sajopuspoki: 
   city: "sajopuspoki"
-  accentcity: "Sajóp\xC3\xBCsp\xC3\xB6ki"
+  accentcity: "Sajópüsp\xC3\xB6ki"
 sajosenye: 
   city: "sajosenye"
   accentcity: "Sajósenye"
@@ -39236,7 +39236,7 @@ sastelekdulo:
   accentcity: "Sastelekdulo"
 sasules: 
   city: "sasules"
-  accentcity: "Sas\xC3\xBClés"
+  accentcity: "Sasülés"
 sata: 
   city: "sata"
   accentcity: "Sáta"
@@ -39347,7 +39347,7 @@ schrempfmalom:
   accentcity: "Schrempfmalom"
 schullertanya: 
   city: "schullertanya"
-  accentcity: "Sch\xC3\xBCllertanya"
+  accentcity: "Schüllertanya"
 schumacherpuszta: 
   city: "schumacherpuszta"
   accentcity: "Schumacherpuszta"
@@ -39905,7 +39905,7 @@ somogybabod:
   accentcity: "Somogybabod"
 somogybukkosd: 
   city: "somogybukkosd"
-  accentcity: "Somogyb\xC3\xBCkk\xC3\xB6sd"
+  accentcity: "Somogybükk\xC3\xB6sd"
 somogycsicso: 
   city: "somogycsicso"
   accentcity: "Somogycsicsó"
@@ -40427,28 +40427,28 @@ subatanya:
   accentcity: "Subatanya"
 sugyipuszta: 
   city: "sugyipuszta"
-  accentcity: "S\xC3\xBCgyipuszta"
+  accentcity: "Sügyipuszta"
 sugyi: 
   city: "sugyi"
-  accentcity: "S\xC3\xBCgyi"
+  accentcity: "Sügyi"
 sukoro: 
   city: "sukoro"
   accentcity: "Sukoró"
 sukosd: 
   city: "sukosd"
-  accentcity: "S\xC3\xBCk\xC3\xB6sd"
+  accentcity: "Sük\xC3\xB6sd"
 sulitanya: 
   city: "sulitanya"
-  accentcity: "S\xC3\xBClitanya"
+  accentcity: "Sülitanya"
 sultfejmajor: 
   city: "sultfejmajor"
-  accentcity: "S\xC3\xBCltfejmajor"
+  accentcity: "Sültfejmajor"
 sulyanbokor: 
   city: "sulyanbokor"
   accentcity: "Sulyánbokor"
 sulyi nagymajor: 
   city: "sulyi nagymajor"
-  accentcity: "S\xC3\xBClyi Nagymajor"
+  accentcity: "Sülyi Nagymajor"
 sulymostanya: 
   city: "sulymostanya"
   accentcity: "Sulymostanya"
@@ -40469,19 +40469,19 @@ sulyonalja:
   accentcity: "Sulyonalja"
 sulysziget: 
   city: "sulysziget"
-  accentcity: "S\xC3\xBClysziget"
+  accentcity: "Sülysziget"
 sumegcsehi: 
   city: "sumegcsehi"
-  accentcity: "S\xC3\xBCmegcsehi"
+  accentcity: "Sümegcsehi"
 sumegi bazaltbanya: 
   city: "sumegi bazaltbanya"
-  accentcity: "S\xC3\xBCmegi Bazaltbánya"
+  accentcity: "Sümegi Bazaltbánya"
 sumegpraga: 
   city: "sumegpraga"
-  accentcity: "S\xC3\xBCmegprága"
+  accentcity: "Sümegprága"
 sumeg: 
   city: "sumeg"
-  accentcity: "S\xC3\xBCmeg"
+  accentcity: "Sümeg"
 sumonypuszta: 
   city: "sumonypuszta"
   accentcity: "Sumonypuszta"
@@ -40514,7 +40514,7 @@ surd:
   accentcity: "Surd"
 suri-puszta: 
   city: "suri-puszta"
-  accentcity: "S\xC3\xBCri-puszta"
+  accentcity: "Süri-puszta"
 surjany: 
   city: "surjany"
   accentcity: "Surjány"
@@ -40550,7 +40550,7 @@ sutapatak:
   accentcity: "Sutapatak"
 sutfeji-major: 
   city: "sutfeji-major"
-  accentcity: "S\xC3\xBCtfeji-major"
+  accentcity: "Sütfeji-major"
 sutotag: 
   city: "sutotag"
   accentcity: "Sutotag"
@@ -40559,19 +40559,19 @@ sutotanya:
   accentcity: "Sutotanya"
 suttor: 
   city: "suttor"
-  accentcity: "S\xC3\xBCtt\xC3\xB6r"
+  accentcity: "Sütt\xC3\xB6r"
 sutto: 
   city: "sutto"
   accentcity: "Sutto"
 sutvenypuszta: 
   city: "sutvenypuszta"
-  accentcity: "S\xC3\xBCtvénypuszta"
+  accentcity: "Sütvénypuszta"
 sutveny: 
   city: "sutveny"
-  accentcity: "S\xC3\xBCtvény"
+  accentcity: "Sütvény"
 suvegestanya: 
   city: "suvegestanya"
-  accentcity: "S\xC3\xBCvegestanya"
+  accentcity: "Süvegestanya"
 svabbokor: 
   city: "svabbokor"
   accentcity: "Svábbokor"
@@ -40835,7 +40835,7 @@ szakcsimajor:
   accentcity: "Szakcsimajor"
 szakcsi uj-major: 
   city: "szakcsi uj-major"
-  accentcity: "Szakcsi \xC3\x9Aj-major"
+  accentcity: "Szakcsi Új-major"
 szakes: 
   city: "szakes"
   accentcity: "Szakes"
@@ -41582,10 +41582,10 @@ szekeresbokor:
   accentcity: "Szekeresbokor"
 szekeresbukki banya-telep: 
   city: "szekeresbukki banya-telep"
-  accentcity: "Szekeresb\xC3\xBCkki Banya-telep"
+  accentcity: "Szekeresbükki Banya-telep"
 szekeresbukk: 
   city: "szekeresbukk"
-  accentcity: "Szekeresb\xC3\xBCkk"
+  accentcity: "Szekeresbükk"
 szekeresszeri dulo: 
   city: "szekeresszeri dulo"
   accentcity: "Szekeresszeri Dulo"
@@ -42179,7 +42179,7 @@ szentmartonpuszta:
   accentcity: "Szentmártonpuszta"
 szentmarton ujpuszta: 
   city: "szentmarton ujpuszta"
-  accentcity: "Szentmárton \xC3\x9Ajpuszta"
+  accentcity: "Szentmárton Újpuszta"
 szentmihalydulo: 
   city: "szentmihalydulo"
   accentcity: "Szentmihalydulo"
@@ -42353,7 +42353,7 @@ szergeny:
   accentcity: "Szergény"
 szeruk: 
   city: "szeruk"
-  accentcity: "Szér\xC3\xBCk"
+  accentcity: "Szérük"
 szeszgyardulo: 
   city: "szeszgyardulo"
   accentcity: "Szeszgyardulo"
@@ -42764,7 +42764,7 @@ szivastanya:
   accentcity: "Szivastanya"
 szivattyu: 
   city: "szivattyu"
-  accentcity: "Szivatty\xC3\xBC"
+  accentcity: "Szivattyü"
 szivattyutelep: 
   city: "szivattyutelep"
   accentcity: "Szivattyútelep"
@@ -43355,7 +43355,7 @@ szucsdulo:
   accentcity: "Szucsdulo"
 szucsenyvolgy: 
   city: "szucsenyvolgy"
-  accentcity: "Sz\xC3\xBCcsényv\xC3\xB6lgy"
+  accentcity: "Szücsényv\xC3\xB6lgy"
 szucsidulo: 
   city: "szucsidulo"
   accentcity: "Szucsidulo"
@@ -43367,7 +43367,7 @@ szucsmajor:
   accentcity: "Szucsmajor"
 szucs: 
   city: "szucs"
-  accentcity: "Sz\xC3\xBCcs"
+  accentcity: "Szücs"
 szucstanya: 
   city: "szucstanya"
   accentcity: "Szucstanya"
@@ -43379,7 +43379,7 @@ szugoly:
   accentcity: "Szugoly"
 szugy: 
   city: "szugy"
-  accentcity: "Sz\xC3\xBCgy"
+  accentcity: "Szügy"
 szuhafo: 
   city: "szuhafo"
   accentcity: "Szuhafo"
@@ -43412,7 +43412,7 @@ szuliman:
   accentcity: "Szulimán"
 szulleolle: 
   city: "szulleolle"
-  accentcity: "Sz\xC3\xBClle\xC3\xB6lle"
+  accentcity: "Szülle\xC3\xB6lle"
 szulok: 
   city: "szulok"
   accentcity: "Szulok"
@@ -43466,7 +43466,7 @@ szurdapuszta:
   accentcity: "Szurdapuszta"
 szurdokpuspoki: 
   city: "szurdokpuspoki"
-  accentcity: "Szurdokp\xC3\xBCsp\xC3\xB6ki"
+  accentcity: "Szurdokpüsp\xC3\xB6ki"
 szurdok: 
   city: "szurdok"
   accentcity: "Szurdok"
@@ -43484,10 +43484,10 @@ szur:
   accentcity: "Szur"
 szuruk: 
   city: "szuruk"
-  accentcity: "Sz\xC3\xBCr\xC3\xBCk"
+  accentcity: "Szürük"
 szuruktanya: 
   city: "szuruktanya"
-  accentcity: "Sz\xC3\xBCr\xC3\xBCktanya"
+  accentcity: "Szürüktanya"
 szuszki: 
   city: "szuszki"
   accentcity: "Szuszki"
@@ -43751,7 +43751,7 @@ tapiosap:
   accentcity: "Tápiósáp"
 tapiosuly: 
   city: "tapiosuly"
-  accentcity: "Tápiós\xC3\xBCly"
+  accentcity: "Tápiósüly"
 tapioszecso: 
   city: "tapioszecso"
   accentcity: "Tapioszecso"
@@ -43979,7 +43979,7 @@ tassitanya:
   accentcity: "Tassitanya"
 tassi ut: 
   city: "tassi ut"
-  accentcity: "Tassi \xC3\x9At"
+  accentcity: "Tassi Út"
 tasskertes: 
   city: "tasskertes"
   accentcity: "Tasskertes"
@@ -44732,7 +44732,7 @@ tiszafoldvar:
   accentcity: "Tiszaf\xC3\xB6ldvár"
 tiszafured: 
   city: "tiszafured"
-  accentcity: "Tiszaf\xC3\xBCred"
+  accentcity: "Tiszafüred"
 tiszagyenda: 
   city: "tiszagyenda"
   accentcity: "Tiszagyenda"
@@ -44786,13 +44786,13 @@ tiszakurti oregszollo:
   accentcity: "Tiszakurti Oregszollo"
 tiszakur: 
   city: "tiszakur"
-  accentcity: "Tiszak\xC3\xBCr"
+  accentcity: "Tiszakür"
 tiszakurti tanyak: 
   city: "tiszakurti tanyak"
-  accentcity: "Tiszak\xC3\xBCrti Tanyák"
+  accentcity: "Tiszakürti Tanyák"
 tiszakurt: 
   city: "tiszakurt"
-  accentcity: "Tiszak\xC3\xBCrt"
+  accentcity: "Tiszakürt"
 tiszaladany: 
   city: "tiszaladany"
   accentcity: "Tiszaladány"
@@ -44843,7 +44843,7 @@ tiszapart:
   accentcity: "Tiszapart"
 tiszapuspoki: 
   city: "tiszapuspoki"
-  accentcity: "Tiszap\xC3\xBCsp\xC3\xB6ki"
+  accentcity: "Tiszapüsp\xC3\xB6ki"
 tiszarad: 
   city: "tiszarad"
   accentcity: "Tiszarád"
@@ -44858,10 +44858,10 @@ tiszasas:
   accentcity: "Tiszasas"
 tiszasulyi uti tanyak: 
   city: "tiszasulyi uti tanyak"
-  accentcity: "Tiszas\xC3\xBClyi \xC3\x9Ati Tanyák"
+  accentcity: "Tiszasülyi Úti Tanyák"
 tiszasuly: 
   city: "tiszasuly"
-  accentcity: "Tiszas\xC3\xBCly"
+  accentcity: "Tiszasüly"
 tiszaszalka: 
   city: "tiszaszalka"
   accentcity: "Tiszaszalka"
@@ -45560,7 +45560,7 @@ tothtelep:
   accentcity: "Tóthtelep"
 toti allami gazdasag: 
   city: "toti allami gazdasag"
-  accentcity: "Tóti \xC3\x81llami Gazdaság"
+  accentcity: "Tóti Állami Gazdaság"
 totihegy: 
   city: "totihegy"
   accentcity: "Tótihegy"
@@ -45632,7 +45632,7 @@ toutja:
   accentcity: "Tóútja"
 to utja: 
   city: "to utja"
-  accentcity: "Tó \xC3\x9Atja"
+  accentcity: "Tó Útja"
 toverotanya: 
   city: "toverotanya"
   accentcity: "Toverotanya"
@@ -45716,25 +45716,25 @@ tschurlmajor:
   accentcity: "Tschurlmajor"
 tucsokmajor: 
   city: "tucsokmajor"
-  accentcity: "T\xC3\xBCcs\xC3\xB6kmajor"
+  accentcity: "Tücs\xC3\xB6kmajor"
 tucsoktanya: 
   city: "tucsoktanya"
-  accentcity: "T\xC3\xBCcs\xC3\xB6ktanya"
+  accentcity: "Tücs\xC3\xB6ktanya"
 tukormajor: 
   city: "tukormajor"
-  accentcity: "T\xC3\xBCk\xC3\xB6rmajor"
+  accentcity: "Tük\xC3\xB6rmajor"
 tukrosmajor: 
   city: "tukrosmajor"
-  accentcity: "T\xC3\xBCkr\xC3\xB6smajor"
+  accentcity: "Tükr\xC3\xB6smajor"
 tukrospuszta: 
   city: "tukrospuszta"
-  accentcity: "T\xC3\xBCkr\xC3\xB6spuszta"
+  accentcity: "Tükr\xC3\xB6spuszta"
 tukros: 
   city: "tukros"
-  accentcity: "T\xC3\xBCkr\xC3\xB6s"
+  accentcity: "Tükr\xC3\xB6s"
 tukrosujtelep: 
   city: "tukrosujtelep"
-  accentcity: "T\xC3\xBCkr\xC3\xB6sújtelep"
+  accentcity: "Tükr\xC3\xB6sújtelep"
 tulad: 
   city: "tulad"
   accentcity: "Tulád"
@@ -45779,10 +45779,10 @@ tulsopaskom:
   accentcity: "Túlsópáskom"
 tunderhalom: 
   city: "tunderhalom"
-  accentcity: "T\xC3\xBCndérhalom"
+  accentcity: "Tündérhalom"
 tundermajor: 
   city: "tundermajor"
-  accentcity: "T\xC3\xBCndérmajor"
+  accentcity: "Tündérmajor"
 tunyogmatolcs: 
   city: "tunyogmatolcs"
   accentcity: "Tunyogmatolcs"
@@ -45836,7 +45836,7 @@ turjanyos:
   accentcity: "Turjányos"
 turje: 
   city: "turje"
-  accentcity: "T\xC3\xBCrje"
+  accentcity: "Türje"
 turkedd: 
   city: "turkedd"
   accentcity: "Túrkedd"
@@ -45881,28 +45881,28 @@ tuskesdulo:
   accentcity: "Tuskesdulo"
 tuskes-major: 
   city: "tuskes-major"
-  accentcity: "T\xC3\xBCskés-major"
+  accentcity: "Tüskés-major"
 tuskesmajor: 
   city: "tuskesmajor"
-  accentcity: "T\xC3\xBCskésmajor"
+  accentcity: "Tüskésmajor"
 tuskespuszta: 
   city: "tuskespuszta"
-  accentcity: "T\xC3\xBCskéspuszta"
+  accentcity: "Tüskéspuszta"
 tuskes: 
   city: "tuskes"
-  accentcity: "T\xC3\xBCskés"
+  accentcity: "Tüskés"
 tuskeszentpeter: 
   city: "tuskeszentpeter"
-  accentcity: "T\xC3\xBCskeszentpéter"
+  accentcity: "Tüskeszentpéter"
 tuske: 
   city: "tuske"
-  accentcity: "T\xC3\xBCske"
+  accentcity: "Tüske"
 tuskevarimajor: 
   city: "tuskevarimajor"
-  accentcity: "T\xC3\xBCskevárimajor"
+  accentcity: "Tüskevárimajor"
 tuskevar: 
   city: "tuskevar"
-  accentcity: "T\xC3\xBCskevár"
+  accentcity: "Tüskevár"
 tuskofold: 
   city: "tuskofold"
   accentcity: "Tuskóf\xC3\xB6ld"
@@ -45926,7 +45926,7 @@ tusko:
   accentcity: "Tuskó"
 tuttos: 
   city: "tuttos"
-  accentcity: "T\xC3\xBCtt\xC3\xB6s"
+  accentcity: "Tütt\xC3\xB6s"
 tutyimajor: 
   city: "tutyimajor"
   accentcity: "Tutyimajor"
@@ -45938,7 +45938,7 @@ tuzberek:
   accentcity: "Túzberek"
 tuzerlaktanya: 
   city: "tuzerlaktanya"
-  accentcity: "T\xC3\xBCzérlaktanya"
+  accentcity: "Tüzérlaktanya"
 tuzesszollo: 
   city: "tuzesszollo"
   accentcity: "Tuzesszollo"
@@ -45962,7 +45962,7 @@ tyukhegy:
   accentcity: "Tyúkhegy"
 tyukodi ujtelep: 
   city: "tyukodi ujtelep"
-  accentcity: "Tyukodi \xC3\x9Ajtelep"
+  accentcity: "Tyukodi Újtelep"
 tyukod: 
   city: "tyukod"
   accentcity: "Tyukod"
@@ -45974,7 +45974,7 @@ tyuktelep:
   accentcity: "Tyúktelep"
 ubaldpuszta: 
   city: "ubaldpuszta"
-  accentcity: "\xC3\x9Abaldpuszta"
+  accentcity: "Úbaldpuszta"
 udulotelep: 
   city: "udulotelep"
   accentcity: "Udulotelep"
@@ -46031,73 +46031,73 @@ ugyer:
   accentcity: "Ugyer"
 ujakna-telep: 
   city: "ujakna-telep"
-  accentcity: "\xC3\x9Ajakna-telep"
+  accentcity: "Újakna-telep"
 ujakna: 
   city: "ujakna"
-  accentcity: "\xC3\x9Ajakna"
+  accentcity: "Újakna"
 ujaladar: 
   city: "ujaladar"
-  accentcity: "\xC3\x9Ajaladár"
+  accentcity: "Újaladár"
 ujavaspuszta: 
   city: "ujavaspuszta"
-  accentcity: "\xC3\x9Ajavaspuszta"
+  accentcity: "Újavaspuszta"
 ujbalazsfalva: 
   city: "ujbalazsfalva"
-  accentcity: "\xC3\x9Ajbalázsfalva"
+  accentcity: "Újbalázsfalva"
 ujballatag: 
   city: "ujballatag"
-  accentcity: "\xC3\x9Ajballatag"
+  accentcity: "Újballatag"
 ujballa: 
   city: "ujballa"
-  accentcity: "\xC3\x9Ajballa"
+  accentcity: "Újballa"
 ujbarok: 
   city: "ujbarok"
-  accentcity: "\xC3\x9Ajbarok"
+  accentcity: "Újbarok"
 ujberekpuszta: 
   city: "ujberekpuszta"
-  accentcity: "\xC3\x9Ajberekpuszta"
+  accentcity: "Újberekpuszta"
 ujberek: 
   city: "ujberek"
-  accentcity: "\xC3\x9Ajberek"
+  accentcity: "Újberek"
 ujbirod: 
   city: "ujbirod"
-  accentcity: "\xC3\x9Ajbiród"
+  accentcity: "Újbiród"
 ujbogaras: 
   city: "ujbogaras"
-  accentcity: "\xC3\x9Ajbogaras"
+  accentcity: "Újbogaras"
 ujbogardpuszta: 
   city: "ujbogardpuszta"
-  accentcity: "\xC3\x9Ajbogárdpuszta"
+  accentcity: "Újbogárdpuszta"
 ujborjad: 
   city: "ujborjad"
-  accentcity: "\xC3\x9Ajborjád"
+  accentcity: "Újborjád"
 ujcsaford: 
   city: "ujcsaford"
-  accentcity: "\xC3\x9Ajcsáford"
+  accentcity: "Újcsáford"
 ujcsanalos: 
   city: "ujcsanalos"
-  accentcity: "\xC3\x9Ajcsanálos"
+  accentcity: "Újcsanálos"
 ujdalmand: 
   city: "ujdalmand"
-  accentcity: "\xC3\x9Ajdalmand"
+  accentcity: "Újdalmand"
 ujdombovar: 
   city: "ujdombovar"
-  accentcity: "\xC3\x9Ajdombóvár"
+  accentcity: "Újdombóvár"
 ujdombrad: 
   city: "ujdombrad"
-  accentcity: "\xC3\x9Ajdombrád"
+  accentcity: "Újdombrád"
 ujdongokut: 
   city: "ujdongokut"
-  accentcity: "\xC3\x9Ajdongókút"
+  accentcity: "Újdongókút"
 ujdorogdpuszta: 
   city: "ujdorogdpuszta"
-  accentcity: "\xC3\x9Ajd\xC3\xB6r\xC3\xB6gdpuszta"
+  accentcity: "Újd\xC3\xB6r\xC3\xB6gdpuszta"
 ujdorogd: 
   city: "ujdorogd"
-  accentcity: "\xC3\x9Ajd\xC3\xB6r\xC3\xB6gd"
+  accentcity: "Újd\xC3\xB6r\xC3\xB6gd"
 ujdragszel: 
   city: "ujdragszel"
-  accentcity: "\xC3\x9Ajdrágszél"
+  accentcity: "Újdrágszél"
 ujerdostanya: 
   city: "ujerdostanya"
   accentcity: "Ujerdostanya"
@@ -46109,43 +46109,43 @@ ujfalusi major:
   accentcity: "Ujfalusi Major"
 ujfalussytag: 
   city: "ujfalussytag"
-  accentcity: "\xC3\x9Ajfalussytag"
+  accentcity: "Újfalussytag"
 ujfalussytanya: 
   city: "ujfalussytanya"
-  accentcity: "\xC3\x9Ajfalussytanya"
+  accentcity: "Újfalussytanya"
 ujfalu: 
   city: "ujfalu"
-  accentcity: "\xC3\x9Ajfalu"
+  accentcity: "Újfalu"
 ujfehertoi uti tanyak: 
   city: "ujfehertoi uti tanyak"
-  accentcity: "\xC3\x9Ajfehértói \xC3\x9Ati Tanyák"
+  accentcity: "Újfehértói Úti Tanyák"
 ujfeherto: 
   city: "ujfeherto"
-  accentcity: "\xC3\x9Ajfehértó"
+  accentcity: "Újfehértó"
 uj fejerto: 
   city: "uj fejerto"
-  accentcity: "\xC3\x9Aj Fejertó"
+  accentcity: "Új Fejertó"
 ujfenyos: 
   city: "ujfenyos"
   accentcity: "Ujfenyos"
 ujfokitanya: 
   city: "ujfokitanya"
-  accentcity: "\xC3\x9Ajfokitanya"
+  accentcity: "Újfokitanya"
 ujfok: 
   city: "ujfok"
-  accentcity: "\xC3\x9Ajfok"
+  accentcity: "Újfok"
 ujfoldek: 
   city: "ujfoldek"
-  accentcity: "\xC3\x9Ajf\xC3\xB6ldek"
+  accentcity: "Újf\xC3\xB6ldek"
 ujfold: 
   city: "ujfold"
-  accentcity: "\xC3\x9Ajf\xC3\xB6ld"
+  accentcity: "Újf\xC3\xB6ld"
 ujgalambospuszta: 
   city: "ujgalambospuszta"
-  accentcity: "\xC3\x9Ajgalambospuszta"
+  accentcity: "Újgalambospuszta"
 ujgalambos: 
   city: "ujgalambos"
-  accentcity: "\xC3\x9Ajgalambos"
+  accentcity: "Újgalambos"
 ujgut: 
   city: "ujgut"
   accentcity: "Ujgút"
@@ -46154,28 +46154,28 @@ ujhangyasi szollo:
   accentcity: "Ujhangyasi Szollo"
 ujharangod: 
   city: "ujharangod"
-  accentcity: "\xC3\x9Ajharangod"
+  accentcity: "Újharangod"
 ujhartyan: 
   city: "ujhartyan"
-  accentcity: "\xC3\x9Ajhartyán"
+  accentcity: "Újhartyán"
 ujhazhelyek: 
   city: "ujhazhelyek"
-  accentcity: "\xC3\x9Ajházhelyek"
+  accentcity: "Újházhelyek"
 ujhazhely: 
   city: "ujhazhely"
-  accentcity: "\xC3\x9Ajházhely"
+  accentcity: "Újházhely"
 ujhazitanya: 
   city: "ujhazitanya"
-  accentcity: "\xC3\x9Ajházitanya"
+  accentcity: "Újházitanya"
 ujhazmajor: 
   city: "ujhazmajor"
-  accentcity: "\xC3\x9Ajházmajor"
+  accentcity: "Újházmajor"
 ujhazpuszta: 
   city: "ujhazpuszta"
-  accentcity: "\xC3\x9Ajházpuszta"
+  accentcity: "Újházpuszta"
 ujhedrehely: 
   city: "ujhedrehely"
-  accentcity: "\xC3\x9Ajhedrehely"
+  accentcity: "Újhedrehely"
 ujhegyidulok: 
   city: "ujhegyidulok"
   accentcity: "Ujhegyidulok"
@@ -46184,241 +46184,241 @@ ujhegyi szollok:
   accentcity: "Ujhegyi Szollok"
 ujhegy: 
   city: "ujhegy"
-  accentcity: "\xC3\x9Ajhegy"
+  accentcity: "Újhegy"
 ujhelyitanya: 
   city: "ujhelyitanya"
-  accentcity: "\xC3\x9Ajhelyitanya"
+  accentcity: "Újhelyitanya"
 ujhely: 
   city: "ujhely"
-  accentcity: "\xC3\x9Ajhely"
+  accentcity: "Újhely"
 ujhidegkutpuszta: 
   city: "ujhidegkutpuszta"
-  accentcity: "\xC3\x9Ajhidegkútpuszta"
+  accentcity: "Újhidegkútpuszta"
 ujhidi-major: 
   city: "ujhidi-major"
-  accentcity: "\xC3\x9Ajhídi-major"
+  accentcity: "Újhídi-major"
 ujhidmajor: 
   city: "ujhidmajor"
-  accentcity: "\xC3\x9Ajhídmajor"
+  accentcity: "Újhídmajor"
 ujhodospuszta: 
   city: "ujhodospuszta"
-  accentcity: "\xC3\x9Ajhódospuszta"
+  accentcity: "Újhódospuszta"
 uj-homokkert: 
   city: "uj-homokkert"
-  accentcity: "\xC3\x9Aj-Homokkert"
+  accentcity: "Új-Homokkert"
 ujiraz: 
   city: "ujiraz"
-  accentcity: "\xC3\x9Ajiráz"
+  accentcity: "Újiráz"
 ujireg: 
   city: "ujireg"
-  accentcity: "\xC3\x9Ajireg"
+  accentcity: "Újireg"
 ujiskola: 
   city: "ujiskola"
-  accentcity: "\xC3\x9Ajiskola"
+  accentcity: "Újiskola"
 ujistallopuszta: 
   city: "ujistallopuszta"
-  accentcity: "\xC3\x9Ajistállópuszta"
+  accentcity: "Újistállópuszta"
 ujistallo: 
   city: "ujistallo"
-  accentcity: "\xC3\x9Ajistálló"
+  accentcity: "Újistálló"
 ujjaras: 
   city: "ujjaras"
-  accentcity: "\xC3\x9Ajjárás"
+  accentcity: "Újjárás"
 ujkecske: 
   city: "ujkecske"
-  accentcity: "\xC3\x9Ajkécske"
+  accentcity: "Újkécske"
 ujkenez: 
   city: "ujkenez"
-  accentcity: "\xC3\x9Ajkenéz"
+  accentcity: "Újkenéz"
 ujkerttanya: 
   city: "ujkerttanya"
-  accentcity: "\xC3\x9Ajkerttanya"
+  accentcity: "Újkerttanya"
 ujkert: 
   city: "ujkert"
-  accentcity: "\xC3\x9Ajkert"
+  accentcity: "Újkert"
 ujker: 
   city: "ujker"
-  accentcity: "\xC3\x9Ajkér"
+  accentcity: "Újkér"
 ujkigyos: 
   city: "ujkigyos"
-  accentcity: "\xC3\x9Ajkígyós"
+  accentcity: "Újkígyós"
 ujkiosztas: 
   city: "ujkiosztas"
-  accentcity: "\xC3\x9Ajkiosztás"
+  accentcity: "Újkiosztás"
 ujkovar: 
   city: "ujkovar"
-  accentcity: "\xC3\x9Ajkóvár"
+  accentcity: "Újkóvár"
 ujkutdulo: 
   city: "ujkutdulo"
   accentcity: "Ujkutdulo"
 ujkutpuszta: 
   city: "ujkutpuszta"
-  accentcity: "\xC3\x9Ajkútpuszta"
+  accentcity: "Újkútpuszta"
 ujkut: 
   city: "ujkut"
-  accentcity: "\xC3\x9Ajkút"
+  accentcity: "Újkút"
 ujladany: 
   city: "ujladany"
-  accentcity: "\xC3\x9Ajladány"
+  accentcity: "Újladány"
 ujlakitanya: 
   city: "ujlakitanya"
-  accentcity: "\xC3\x9Ajlakitanya"
+  accentcity: "Újlakitanya"
 ujlakpuszta: 
   city: "ujlakpuszta"
-  accentcity: "\xC3\x9Ajlakpuszta"
+  accentcity: "Újlakpuszta"
 ujlengyel: 
   city: "ujlengyel"
-  accentcity: "\xC3\x9Ajlengyel"
+  accentcity: "Újlengyel"
 ujletai tanyak: 
   city: "ujletai tanyak"
-  accentcity: "\xC3\x9Ajlétai Tanyák"
+  accentcity: "Újlétai Tanyák"
 ujleta: 
   city: "ujleta"
-  accentcity: "\xC3\x9Ajléta"
+  accentcity: "Újléta"
 ujlivadapuszta: 
   city: "ujlivadapuszta"
-  accentcity: "\xC3\x9Ajlivadapuszta"
+  accentcity: "Újlivadapuszta"
 ujlorincfalva: 
   city: "ujlorincfalva"
   accentcity: "Ujlorincfalva"
 uj-magasd: 
   city: "uj-magasd"
-  accentcity: "\xC3\x9Aj-Magasd"
+  accentcity: "Új-Magasd"
 ujmajor: 
   city: "ujmajor"
-  accentcity: "\xC3\x9Ajmajor"
+  accentcity: "Újmajor"
 uj-major: 
   city: "uj-major"
-  accentcity: "\xC3\x9Aj-major"
+  accentcity: "Új-major"
 ujmalomsok: 
   city: "ujmalomsok"
-  accentcity: "\xC3\x9Ajmalomsok"
+  accentcity: "Újmalomsok"
 ujmalom: 
   city: "ujmalom"
-  accentcity: "\xC3\x9Ajmalom"
+  accentcity: "Újmalom"
 ujmassa: 
   city: "ujmassa"
-  accentcity: "\xC3\x9Ajmassa"
+  accentcity: "Újmassa"
 ujmenyod: 
   city: "ujmenyod"
   accentcity: "Ujmenyod"
 ujmeszestelepek: 
   city: "ujmeszestelepek"
-  accentcity: "\xC3\x9Ajmeszestelepek"
+  accentcity: "Újmeszestelepek"
 ujmezohegyes: 
   city: "ujmezohegyes"
   accentcity: "Ujmezohegyes"
 ujmihalyfa: 
   city: "ujmihalyfa"
-  accentcity: "\xC3\x9Ajmihályfa"
+  accentcity: "Újmihályfa"
 ujmohacs: 
   city: "ujmohacs"
-  accentcity: "\xC3\x9Ajmohács"
+  accentcity: "Újmohács"
 ujneppuszta: 
   city: "ujneppuszta"
-  accentcity: "\xC3\x9Ajnéppuszta"
+  accentcity: "Újnéppuszta"
 ujosztalydulo: 
   city: "ujosztalydulo"
   accentcity: "Ujosztalydulo"
 ujosztastelep: 
   city: "ujosztastelep"
-  accentcity: "\xC3\x9Ajosztástelep"
+  accentcity: "Újosztástelep"
 ujosztas: 
   city: "ujosztas"
-  accentcity: "\xC3\x9Ajosztás"
+  accentcity: "Újosztás"
 ujpest: 
   city: "ujpest"
-  accentcity: "\xC3\x9Ajpest"
+  accentcity: "Újpest"
 uj-peterhida: 
   city: "uj-peterhida"
-  accentcity: "\xC3\x9Aj-Péterhida"
+  accentcity: "Új-Péterhida"
 ujpetre: 
   city: "ujpetre"
-  accentcity: "\xC3\x9Ajpetre"
+  accentcity: "Újpetre"
 ujpogany: 
   city: "ujpogany"
-  accentcity: "\xC3\x9Ajpogány"
+  accentcity: "Újpogány"
 ujpuszta: 
   city: "ujpuszta"
-  accentcity: "\xC3\x9Ajpuszta"
+  accentcity: "Újpuszta"
 ujrakodo: 
   city: "ujrakodo"
-  accentcity: "\xC3\x9Ajrakodó"
+  accentcity: "Újrakodó"
 uj romogy-puszta: 
   city: "uj romogy-puszta"
-  accentcity: "\xC3\x9Aj Romogy-puszta"
+  accentcity: "Új Romogy-puszta"
 ujronafo: 
   city: "ujronafo"
   accentcity: "Ujronafo"
 ujsalyi: 
   city: "ujsalyi"
-  accentcity: "\xC3\x9Ajsályi"
+  accentcity: "Újsályi"
 ujsiska: 
   city: "ujsiska"
-  accentcity: "\xC3\x9Ajsiska"
+  accentcity: "Újsiska"
 ujsolt: 
   city: "ujsolt"
-  accentcity: "\xC3\x9Ajsolt"
+  accentcity: "Újsolt"
 ujsomlo: 
   city: "ujsomlo"
-  accentcity: "\xC3\x9Ajsomló"
+  accentcity: "Újsomló"
 ujsornyepuszta: 
   city: "ujsornyepuszta"
-  accentcity: "\xC3\x9Ajs\xC3\xB6rnyepuszta"
+  accentcity: "Újs\xC3\xB6rnyepuszta"
 ujsortanya: 
   city: "ujsortanya"
-  accentcity: "\xC3\x9Ajsortanya"
+  accentcity: "Újsortanya"
 ujsor: 
   city: "ujsor"
-  accentcity: "\xC3\x9Ajsor"
+  accentcity: "Újsor"
 ujszabar: 
   city: "ujszabar"
-  accentcity: "\xC3\x9Ajszabar"
+  accentcity: "Újszabar"
 ujszajdamajor: 
   city: "ujszajdamajor"
-  accentcity: "\xC3\x9Ajszajdamajor"
+  accentcity: "Újszajdamajor"
 ujszallaspuszta: 
   city: "ujszallaspuszta"
-  accentcity: "\xC3\x9Ajszálláspuszta"
+  accentcity: "Újszálláspuszta"
 ujszalontai tanyak: 
   city: "ujszalontai tanyak"
-  accentcity: "\xC3\x9Ajszalontai Tanyák"
+  accentcity: "Újszalontai Tanyák"
 ujszalonta: 
   city: "ujszalonta"
-  accentcity: "\xC3\x9Ajszalonta"
+  accentcity: "Újszalonta"
 ujszanda sirbolt: 
   city: "ujszanda sirbolt"
-  accentcity: "\xC3\x9Ajszanda Sírbolt"
+  accentcity: "Újszanda Sírbolt"
 ujszanda: 
   city: "ujszanda"
-  accentcity: "\xC3\x9Ajszanda"
+  accentcity: "Újszanda"
 ujszasz: 
   city: "ujszasz"
-  accentcity: "\xC3\x9Ajszász"
+  accentcity: "Újszász"
 ujszeged: 
   city: "ujszeged"
-  accentcity: "\xC3\x9Ajszeged"
+  accentcity: "Újszeged"
 uj szent-gyorgy puszta: 
   city: "uj szent-gyorgy puszta"
   accentcity: "Uj Szent-Gy\xC3\xB6rgy Puszta"
 ujszentgyorgy: 
   city: "ujszentgyorgy"
-  accentcity: "\xC3\x9Ajszentgy\xC3\xB6rgy"
+  accentcity: "Újszentgy\xC3\xB6rgy"
 ujszentivan: 
   city: "ujszentivan"
-  accentcity: "\xC3\x9Ajszentiván"
+  accentcity: "Újszentiván"
 uj-szent-ivany: 
   city: "uj-szent-ivany"
-  accentcity: "\xC3\x9Aj-Szent-Ivány"
+  accentcity: "Új-Szent-Ivány"
 ujszentmargita: 
   city: "ujszentmargita"
-  accentcity: "\xC3\x9Ajszentmargita"
+  accentcity: "Újszentmargita"
 ujszilas-puszta: 
   city: "ujszilas-puszta"
-  accentcity: "\xC3\x9Ajszilas-puszta"
+  accentcity: "Újszilas-puszta"
 ujszilvas: 
   city: "ujszilvas"
-  accentcity: "\xC3\x9Ajszilvás"
+  accentcity: "Újszilvás"
 ujszollodulo: 
   city: "ujszollodulo"
   accentcity: "Ujszollodulo"
@@ -46451,97 +46451,97 @@ ujtabladulo:
   accentcity: "Ujtabladulo"
 ujtabla: 
   city: "ujtabla"
-  accentcity: "\xC3\x9Ajtábla"
+  accentcity: "Újtábla"
 ujtagmajor: 
   city: "ujtagmajor"
-  accentcity: "\xC3\x9Ajtagmajor"
+  accentcity: "Újtagmajor"
 ujtanya: 
   city: "ujtanya"
-  accentcity: "\xC3\x9Ajtanya"
+  accentcity: "Újtanya"
 ujtelekbokor: 
   city: "ujtelekbokor"
-  accentcity: "\xC3\x9Ajtelekbokor"
+  accentcity: "Újtelekbokor"
 ujtelek: 
   city: "ujtelek"
-  accentcity: "\xC3\x9Ajtelek"
+  accentcity: "Újtelek"
 ujtelep: 
   city: "ujtelep"
-  accentcity: "\xC3\x9Ajtelep"
+  accentcity: "Újtelep"
 ujtelkibokor: 
   city: "ujtelkibokor"
-  accentcity: "\xC3\x9Ajtelkibokor"
+  accentcity: "Újtelkibokor"
 ujtikos: 
   city: "ujtikos"
-  accentcity: "\xC3\x9Ajtikos"
+  accentcity: "Újtikos"
 ujtitkos: 
   city: "ujtitkos"
-  accentcity: "\xC3\x9Ajtitkos"
+  accentcity: "Újtitkos"
 ujtompa: 
   city: "ujtompa"
-  accentcity: "\xC3\x9Ajtompa"
+  accentcity: "Újtompa"
 ujtoresdulo: 
   city: "ujtoresdulo"
   accentcity: "Ujtoresdulo"
 ujtotanya: 
   city: "ujtotanya"
-  accentcity: "\xC3\x9Ajtótanya"
+  accentcity: "Újtótanya"
 ujudvar: 
   city: "ujudvar"
-  accentcity: "\xC3\x9Ajudvar"
+  accentcity: "Újudvar"
 ujvarfalva: 
   city: "ujvarfalva"
-  accentcity: "\xC3\x9Ajvárfalva"
+  accentcity: "Újvárfalva"
 ujvarhegy: 
   city: "ujvarhegy"
-  accentcity: "\xC3\x9Ajvárhegy"
+  accentcity: "Újvárhegy"
 ujvaritanya: 
   city: "ujvaritanya"
-  accentcity: "\xC3\x9Ajváritanya"
+  accentcity: "Újváritanya"
 ujvaros: 
   city: "ujvaros"
-  accentcity: "\xC3\x9Ajváros"
+  accentcity: "Újváros"
 ujvarsanypuszta: 
   city: "ujvarsanypuszta"
-  accentcity: "\xC3\x9Ajvarsánypuszta"
+  accentcity: "Újvarsánypuszta"
 ujvarsany-tanya: 
   city: "ujvarsany-tanya"
-  accentcity: "\xC3\x9Ajvarsány-tanya"
+  accentcity: "Újvarsány-tanya"
 ujvarsany: 
   city: "ujvarsany"
-  accentcity: "\xC3\x9Ajvarsány"
+  accentcity: "Újvarsány"
 ujvartanya: 
   city: "ujvartanya"
-  accentcity: "\xC3\x9Ajvártanya"
+  accentcity: "Újvártanya"
 ujviag: 
   city: "ujviag"
-  accentcity: "\xC3\x9Ajviág"
+  accentcity: "Újviág"
 ujvilag: 
   city: "ujvilag"
-  accentcity: "\xC3\x9Ajvilág"
+  accentcity: "Újvilág"
 ujvillasor: 
   city: "ujvillasor"
-  accentcity: "\xC3\x9Ajvillasor"
+  accentcity: "Újvillasor"
 ujvillongo: 
   city: "ujvillongo"
-  accentcity: "\xC3\x9Ajvillongó"
+  accentcity: "Újvillongó"
 ujviraghegyszollo: 
   city: "ujviraghegyszollo"
   accentcity: "Ujviraghegyszollo"
 ujvolgyimajor: 
   city: "ujvolgyimajor"
-  accentcity: "\xC3\x9Ajv\xC3\xB6lgyimajor"
+  accentcity: "Újv\xC3\xB6lgyimajor"
 ujvolgy: 
   city: "ujvolgy"
-  accentcity: "\xC3\x9Ajv\xC3\xB6lgy"
+  accentcity: "Újv\xC3\xB6lgy"
 ujzoborpuszta: 
   city: "ujzoborpuszta"
-  accentcity: "\xC3\x9Ajzoborpuszta"
+  accentcity: "Újzoborpuszta"
 ujzsippo: 
   city: "ujzsippo"
-  accentcity: "\xC3\x9Ajzsippó"
+  accentcity: "Újzsippó"
 ujzsunypuszta: 
   city: "ujzsunypuszta"
-  accentcity: "\xC3\x9Ajzsúnypuszta"
+  accentcity: "Újzsúnypuszta"
 ukk: 
   city: "ukk"
   accentcity: "Ukk"
@@ -46580,7 +46580,7 @@ ungvariresz:
   accentcity: "Ungvárirész"
 uny: 
   city: "uny"
-  accentcity: "\xC3\x9Any"
+  accentcity: "Úny"
 uppony: 
   city: "uppony"
   accentcity: "Uppony"
@@ -46613,10 +46613,10 @@ urban jozsef-tanya:
   accentcity: "Urbán József-tanya"
 urber-erdeszhaz: 
   city: "urber-erdeszhaz"
-  accentcity: "\xC3\x9Arbér-erdészház"
+  accentcity: "Úrbér-erdészház"
 urberpuszta: 
   city: "urberpuszta"
-  accentcity: "\xC3\x9Arbérpuszta"
+  accentcity: "Úrbérpuszta"
 urbopuszta: 
   city: "urbopuszta"
   accentcity: "Urbopuszta"
@@ -46652,22 +46652,22 @@ urgevar:
   accentcity: "\xC3\x9Crgevár"
 urhazimalom: 
   city: "urhazimalom"
-  accentcity: "\xC3\x9Arházimalom"
+  accentcity: "Úrházimalom"
 urhegyipuszta: 
   city: "urhegyipuszta"
-  accentcity: "\xC3\x9Arhegyipuszta"
+  accentcity: "Úrhegyipuszta"
 urhida: 
   city: "urhida"
-  accentcity: "\xC3\x9Arhida"
+  accentcity: "Úrhida"
 urihegy: 
   city: "urihegy"
-  accentcity: "\xC3\x9Arihegy"
+  accentcity: "Úrihegy"
 uri: 
   city: "uri"
-  accentcity: "\xC3\x9Ari"
+  accentcity: "Úri"
 urkut: 
   city: "urkut"
-  accentcity: "\xC3\x9Arkút"
+  accentcity: "Úrkút"
 urmoshat: 
   city: "urmoshat"
   accentcity: "\xC3\x9Crm\xC3\xB6shát"
@@ -46679,16 +46679,16 @@ urom:
   accentcity: "\xC3\x9Cr\xC3\xB6m"
 urrettanya: 
   city: "urrettanya"
-  accentcity: "\xC3\x9Arréttanya"
+  accentcity: "Úrréttanya"
 urret: 
   city: "urret"
-  accentcity: "\xC3\x9Arrét"
+  accentcity: "Úrrét"
 urszegmajor: 
   city: "urszegmajor"
-  accentcity: "\xC3\x9Arszegmajor"
+  accentcity: "Úrszegmajor"
 urumajor: 
   city: "urumajor"
-  accentcity: "\xC3\x9Cr\xC3\xBCmajor"
+  accentcity: "\xC3\x9Crümajor"
 usokfotanya: 
   city: "usokfotanya"
   accentcity: "Usokfotanya"
@@ -46712,19 +46712,19 @@ uszog:
   accentcity: "\xC3\x9Csz\xC3\xB6g"
 uszotanya: 
   city: "uszotanya"
-  accentcity: "\xC3\x9Aszótanya"
+  accentcity: "Úszótanya"
 usztatomajor: 
   city: "usztatomajor"
-  accentcity: "\xC3\x9Asztatómajor"
+  accentcity: "Úsztatómajor"
 usztato: 
   city: "usztato"
-  accentcity: "\xC3\x9Asztató"
+  accentcity: "Úsztató"
 uszthegy: 
   city: "uszthegy"
   accentcity: "Uszthegy"
 utagitanyak: 
   city: "utagitanyak"
-  accentcity: "\xC3\x9Atagitanyák"
+  accentcity: "Útagitanyák"
 utfeldulo: 
   city: "utfeldulo"
   accentcity: "Utfeldulo"
@@ -47354,7 +47354,7 @@ varsad:
   accentcity: "Varsád"
 varsanygyure: 
   city: "varsanygyure"
-  accentcity: "Varsánygy\xC3\xBCre"
+  accentcity: "Varsánygyüre"
 varsanyhely: 
   city: "varsanyhely"
   accentcity: "Varsányhely"
@@ -47528,7 +47528,7 @@ vasutisor:
   accentcity: "Vasútisor"
 vasuti ujlaktanya: 
   city: "vasuti ujlaktanya"
-  accentcity: "Vasúti \xC3\x9Ajlaktanya"
+  accentcity: "Vasúti Újlaktanya"
 vasvari pal-telep: 
   city: "vasvari pal-telep"
   accentcity: "Vasvári Pál-telep"
@@ -47744,7 +47744,7 @@ verebestanya:
   accentcity: "Verebestanya"
 verebiuti ujtelep: 
   city: "verebiuti ujtelep"
-  accentcity: "Verebiúti \xC3\x9Ajtelep"
+  accentcity: "Verebiúti Újtelep"
 verebtanya: 
   city: "verebtanya"
   accentcity: "Verébtanya"
@@ -48698,7 +48698,7 @@ vorosvolgy:
   accentcity: "V\xC3\xB6r\xC3\xB6sv\xC3\xB6lgy"
 vorru: 
   city: "vorru"
-  accentcity: "V\xC3\xB6rr\xC3\xBC"
+  accentcity: "V\xC3\xB6rrü"
 vors: 
   city: "vors"
   accentcity: "V\xC3\xB6rs"
@@ -48791,7 +48791,7 @@ wolfmajor:
   accentcity: "Wolfmajor"
 wurthmajor: 
   city: "wurthmajor"
-  accentcity: "W\xC3\xBCrthmajor"
+  accentcity: "Würthmajor"
 zabar: 
   city: "zabar"
   accentcity: "Zabar"
@@ -49259,7 +49259,7 @@ zollertanya:
   accentcity: "Zollertanya"
 zoltangyumolcsos: 
   city: "zoltangyumolcsos"
-  accentcity: "Zoltángy\xC3\xBCm\xC3\xB6lcs\xC3\xB6s"
+  accentcity: "Zoltángyüm\xC3\xB6lcs\xC3\xB6s"
 zoltanhaza: 
   city: "zoltanhaza"
   accentcity: "Zoltánháza"

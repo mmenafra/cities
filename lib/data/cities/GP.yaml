@@ -314,10 +314,10 @@ chassaing:
   accentcity: "Chassaing"
 chateaubrun: 
   city: "chateaubrun"
-  accentcity: "Ch\xC3\xA2teaubrun"
+  accentcity: "Châteaubrun"
 chateau-gaillard: 
   city: "chateau-gaillard"
-  accentcity: "Ch\xC3\xA2teau-Gaillard"
+  accentcity: "Château-Gaillard"
 chazeau: 
   city: "chazeau"
   accentcity: "Chazeau"
@@ -383,7 +383,7 @@ de poyen:
   accentcity: "De Poyen"
 d equainville: 
   city: "d' equainville"
-  accentcity: "D' \xC3\x89quainville"
+  accentcity: "D' Équainville"
 desbonnes: 
   city: "desbonnes"
   accentcity: "Desbonnes"
@@ -428,7 +428,7 @@ diavet:
   accentcity: "Diavet"
 dole: 
   city: "dole"
-  accentcity: "D\xC3\xB4lé"
+  accentcity: "Dôlé"
 dorilas: 
   city: "dorilas"
   accentcity: "Dorilas"
@@ -464,7 +464,7 @@ duzer:
   accentcity: "Duzer"
 emilien: 
   city: "emilien"
-  accentcity: "\xC3\x89milien"
+  accentcity: "Émilien"
 faup: 
   city: "faup"
   accentcity: "Faup"
@@ -596,7 +596,7 @@ grande savane:
   accentcity: "Grande Savane"
 grand etang: 
   city: "grand etang"
-  accentcity: "Grand \xC3\x89tang"
+  accentcity: "Grand Étang"
 grand fond: 
   city: "grand fond"
   accentcity: "Grand Fond"
@@ -899,7 +899,7 @@ lesueur:
   accentcity: "Lesueur"
 letang noir: 
   city: "l'etang noir"
-  accentcity: "L'\xC3\x89tang Noir"
+  accentcity: "L'Étang Noir"
 lezarde: 
   city: "lezarde"
   accentcity: "Lézarde"
@@ -1088,7 +1088,7 @@ neree:
   accentcity: "Nerée"
 neuf-chateau: 
   city: "neuf-chateau"
-  accentcity: "Neuf-Ch\xC3\xA2teau"
+  accentcity: "Neuf-Château"
 nogent: 
   city: "nogent"
   accentcity: "Nogent"

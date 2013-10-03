@@ -104,10 +104,10 @@ bellay:
   accentcity: "Bellay"
 belle ame: 
   city: "belle ame"
-  accentcity: "Belle \xC3\x82me"
+  accentcity: "Belle Âme"
 belle etoile: 
   city: "belle etoile"
-  accentcity: "Belle \xC3\x89toile"
+  accentcity: "Belle Étoile"
 bellefontaine: 
   city: "bellefontaine"
   accentcity: "Bellefontaine"
@@ -242,7 +242,7 @@ chapelle villarson:
   accentcity: "Chateaub\xC3\x85\xC2\x93uf"
 chateau gaillard: 
   city: "chateau gaillard"
-  accentcity: "Ch\xC3\xA2teau Gaillard"
+  accentcity: "Château Gaillard"
 chertine: 
   city: "chertine"
   accentcity: "Chertine"
@@ -1289,10 +1289,10 @@ quartier belfort:
   accentcity: "Quartier Belfort"
 quartier belle ame: 
   city: "quartier belle ame"
-  accentcity: "Quartier Belle \xC3\x82me"
+  accentcity: "Quartier Belle Âme"
 quartier belle-etoile: 
   city: "quartier belle-etoile"
-  accentcity: "Quartier Belle-\xC3\x89toile"
+  accentcity: "Quartier Belle-Étoile"
 quartier bellevue: 
   city: "quartier bellevue"
   accentcity: "Quartier Bellevue"
@@ -1373,10 +1373,10 @@ quartier chapelle villarson:
   accentcity: "Quartier Chapelle Villarson"
 quartier chateauboeuf: 
   city: "quartier chateauboeuf"
-  accentcity: "Quartier Ch\xC3\xA2teauboeuf"
+  accentcity: "Quartier Châteauboeuf"
 quartier chere epice: 
   city: "quartier chere epice"
-  accentcity: "Quartier Chère \xC3\x89pice"
+  accentcity: "Quartier Chère Épice"
 quartier chertine: 
   city: "quartier chertine"
   accentcity: "Quartier Chertine"
@@ -1568,7 +1568,7 @@ quartier fond masson:
   accentcity: "Quartier Fond Masson"
 quartier fond mulatre: 
   city: "quartier fond mulatre"
-  accentcity: "Quartier Fond Mul\xC3\xA2tre"
+  accentcity: "Quartier Fond Mulâtre"
 quartier fond panier: 
   city: "quartier fond panier"
   accentcity: "Quartier Fond Panier"
@@ -2132,7 +2132,7 @@ quartier saint-vincent:
   accentcity: "Quartier Saint-Vincent"
 quartiers anse a lane: 
   city: "quartiers anse a l'ane"
-  accentcity: "Quartiers Anse à l'\xC3\x82ne"
+  accentcity: "Quartiers Anse à l'Âne"
 quartier sans pareil: 
   city: "quartier sans pareil"
   accentcity: "Quartier Sans Pareil"

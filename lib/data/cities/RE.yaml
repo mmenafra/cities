@@ -122,7 +122,7 @@ bourbier:
   accentcity: "Bourbier"
 bout de letang: 
   city: "bout de l'etang"
-  accentcity: "Bout de l'\xC3\x89tang"
+  accentcity: "Bout de l'Étang"
 bras canot: 
   city: "bras canot"
   accentcity: "Bras Canot"
@@ -239,13 +239,13 @@ domenjod:
   accentcity: "Domenjod"
 dos dane: 
   city: "dos d'ane"
-  accentcity: "Dos d'\xC3\x82ne"
+  accentcity: "Dos d'Âne"
 entre-deux: 
   city: "entre-deux"
   accentcity: "Entre-Deux"
 eperon: 
   city: "eperon"
-  accentcity: "\xC3\x89peron"
+  accentcity: "Éperon"
 esperance: 
   city: "esperance"
   accentcity: "Espérance"
@@ -257,19 +257,19 @@ etang:
   accentcity: "Etang"
 etang-les hauts: 
   city: "etang-les hauts"
-  accentcity: "\xC3\x89tang-les Hauts"
+  accentcity: "Étang-les Hauts"
 etang-sale: 
   city: "etang-sale"
-  accentcity: "\xC3\x89tang-Salé"
+  accentcity: "Étang-Salé"
 etang-sale les bains: 
   city: "etang-sale les bains"
-  accentcity: "\xC3\x89tang-Salé les Bains"
+  accentcity: "Étang-Salé les Bains"
 etanq les hauts: 
   city: "etanq les hauts"
   accentcity: "Etanq les Hauts"
 etan-sale-les-hauts: 
   city: "etan-sale-les-hauts"
-  accentcity: "\xC3\x89tan-Salé-les-Hauts"
+  accentcity: "Étan-Salé-les-Hauts"
 fiague: 
   city: "fiague"
   accentcity: "Fiague"
@@ -302,10 +302,10 @@ girofle:
   accentcity: "Girofle"
 gol: 
   city: "gol"
-  accentcity: "G\xC3\xB4l"
+  accentcity: "Gôl"
 gol-le haut: 
   city: "gol-le haut"
-  accentcity: "G\xC3\xB4l-le Haut"
+  accentcity: "Gôl-le Haut"
 grand bassin: 
   city: "grand bassin"
   accentcity: "Grand Bassin"
@@ -593,7 +593,7 @@ le fond de maurice:
   accentcity: "Le Fond de Maurice"
 le gol: 
   city: "le gol"
-  accentcity: "Le G\xC3\xB4l"
+  accentcity: "Le Gôl"
 le goyave: 
   city: "le goyave"
   accentcity: "Le Goyave"
@@ -626,7 +626,7 @@ le pavillon:
   accentcity: "Le Pavillon"
 leperon: 
   city: "l'eperon"
-  accentcity: "L'\xC3\x89peron"
+  accentcity: "L'Éperon"
 le petit brule: 
   city: "le petit brule"
   accentcity: "Le Petit Br\xC3\xBBlé"
@@ -722,10 +722,10 @@ le tampon:
   accentcity: "Le Tampon"
 letang: 
   city: "l'etang"
-  accentcity: "L'\xC3\x89tang"
+  accentcity: "L'Étang"
 letang-sale: 
   city: "l'etang-sale"
-  accentcity: "L'\xC3\x89tang-Salé"
+  accentcity: "L'Étang-Salé"
 le tevelave: 
   city: "le tevelave"
   accentcity: "Le Tévelave"
@@ -965,7 +965,7 @@ ravine des chevres:
   accentcity: "Ravine des Chèvres"
 ravine du mat les bas: 
   city: "ravine du mat les bas"
-  accentcity: "Ravine du M\xC3\xA2t les Bas"
+  accentcity: "Ravine du Mât les Bas"
 ravine du pont-les bas: 
   city: "ravine du pont-les bas"
   accentcity: "Ravine du Pont-les Bas"
@@ -1004,16 +1004,16 @@ riviere des pluies:
   accentcity: "Rivière des Pluies"
 riviere du mat-les bas: 
   city: "riviere du mat-les bas"
-  accentcity: "Rivière du M\xC3\xA2t-les Bas"
+  accentcity: "Rivière du Mât-les Bas"
 riviere du mat-les hauts: 
   city: "riviere du mat-les hauts"
-  accentcity: "Rivière du M\xC3\xA2t-les Hauts"
+  accentcity: "Rivière du Mât-les Hauts"
 riviere du mat: 
   city: "riviere du mat"
-  accentcity: "Rivière du M\xC3\xA2t"
+  accentcity: "Rivière du Mât"
 riviere du mat usine: 
   city: "riviere du mat usine"
-  accentcity: "Rivière du M\xC3\xA2t Usine"
+  accentcity: "Rivière du Mât Usine"
 riviere du rempart: 
   city: "riviere du rempart"
   accentcity: "Rivière du Rempart"

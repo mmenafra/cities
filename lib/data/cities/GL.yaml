@@ -20,7 +20,7 @@ agdluitsoq:
   accentcity: "Agdluitsoq"
 agdluitsup pa: 
   city: "agdluitsup pa"
-  accentcity: "Agdluitsup P\xC3\xA2"
+  accentcity: "Agdluitsup Pâ"
 agpamiut: 
   city: "agpamiut"
   accentcity: "Agpamiut"
@@ -38,7 +38,7 @@ akigsungek:
   accentcity: "Akigsungek"
 akinaitsat: 
   city: "akinaitsat"
-  accentcity: "Akínaits\xC3\xA2t"
+  accentcity: "Akínaitsât"
 akinatsiait: 
   city: "akinatsiait"
   accentcity: "Akínátsiait"
@@ -65,7 +65,7 @@ akumak:
   accentcity: "Akumak"
 akunaq: 
   city: "akunaq"
-  accentcity: "Akún\xC3\xA2q"
+  accentcity: "Akúnâq"
 akunnaaq: 
   city: "akunnaaq"
   accentcity: "Akunnaaq"
@@ -140,7 +140,7 @@ ataa:
   accentcity: "Ataa"
 ata: 
   city: "ata"
-  accentcity: "At\xC3\xA2"
+  accentcity: "Atâ"
 atammik: 
   city: "atammik"
   accentcity: "Atammik"
@@ -326,7 +326,7 @@ igdlorpait:
   accentcity: "Igdlorpait"
 igdlorqortormiut: 
   city: "igdlorqortormiut"
-  accentcity: "Igdlorqort\xC3\xB4rmiut"
+  accentcity: "Igdlorqortôrmiut"
 igdlorssuit: 
   city: "igdlorssuit"
   accentcity: "Igdlorssuit"
@@ -371,7 +371,7 @@ igterajivit:
   accentcity: "Igterajivit"
 igtorqortormit: 
   city: "igtorqortormit"
-  accentcity: "Igtorqort\xC3\xB4rm\xC3\xAEt"
+  accentcity: "Igtorqortôrm\xC3\xAEt"
 igtumit: 
   city: "igtumit"
   accentcity: "Igtum\xC3\xAEt"
@@ -380,10 +380,10 @@ ikamiut:
   accentcity: "Ikamiut"
 ikateq: 
   city: "ikateq"
-  accentcity: "\xC3\x8Dkáteq"
+  accentcity: "Íkáteq"
 ikerarssuk: 
   city: "ikerarssuk"
-  accentcity: "Iker\xC3\xA2rssuk"
+  accentcity: "Ikerârssuk"
 ikerasaarsuk: 
   city: "ikerasaarsuk"
   accentcity: "Ikerasaarsuk"
@@ -398,7 +398,7 @@ ikerasak:
   accentcity: "Ikerasak"
 ikerasarssuk: 
   city: "ikerasarssuk"
-  accentcity: "Ikeras\xC3\xA2rssuk"
+  accentcity: "Ikerasârssuk"
 ikerasassuaq: 
   city: "ikerasassuaq"
   accentcity: "Ikerasassuaq"
@@ -518,7 +518,7 @@ ivnalik:
   accentcity: "Ivnalik"
 ivnanganek: 
   city: "ivnanganek"
-  accentcity: "Ivn\xC3\xA2nganek"
+  accentcity: "Ivnânganek"
 ivssorigseg: 
   city: "ivssorigseg"
   accentcity: "Ivssorigseg"
@@ -563,10 +563,10 @@ kakortok:
   accentcity: "Kakortok"
 kanak: 
   city: "kanak"
-  accentcity: "Kan\xC3\xA2k"
+  accentcity: "Kanâk"
 kanaq: 
   city: "kanaq"
-  accentcity: "Kan\xC3\xA2q"
+  accentcity: "Kanâq"
 kangaamiut: 
   city: "kangaamiut"
   accentcity: "Kangaamiut"
@@ -578,22 +578,22 @@ kangaatsiaq:
   accentcity: "Kangaatsiaq"
 kangamiut: 
   city: "kangamiut"
-  accentcity: "Kang\xC3\xA2miut"
+  accentcity: "Kangâmiut"
 kanganiut: 
   city: "kanganiut"
   accentcity: "Kanganiut"
 kangarssuk: 
   city: "kangarssuk"
-  accentcity: "Kang\xC3\xA2rssuk"
+  accentcity: "Kangârssuk"
 kangatok: 
   city: "kangatok"
-  accentcity: "Kangat\xC3\xB4k"
+  accentcity: "Kangatôk"
 kangatsiak: 
   city: "kangatsiak"
   accentcity: "Kangatsiak"
 kangatsiaq: 
   city: "kangatsiaq"
-  accentcity: "Kang\xC3\xA2tsiaq"
+  accentcity: "Kangâtsiaq"
 kangek: 
   city: "kangek"
   accentcity: "Kangek"
@@ -929,7 +929,7 @@ narssarssuaq:
   accentcity: "Narssarssuaq"
 narssarssuk: 
   city: "narssarssuk"
-  accentcity: "Narss\xC3\xA2rssuk"
+  accentcity: "Narssârssuk"
 narssatsiait: 
   city: "narssatsiait"
   accentcity: "Narssatsiait"
@@ -947,7 +947,7 @@ natsillvik:
   accentcity: "Natsillvik"
 naujat: 
   city: "naujat"
-  accentcity: "Nauj\xC3\xA2t"
+  accentcity: "Naujât"
 neke: 
   city: "neke"
   accentcity: "Neke"
@@ -977,7 +977,7 @@ niaqornaq:
   accentcity: "Niaqornaq"
 niaqornarssuk: 
   city: "niaqornarssuk"
-  accentcity: "Niaqorn\xC3\xA2rssuk"
+  accentcity: "Niaqornârssuk"
 niaqornat: 
   city: "niaqornat"
   accentcity: "Niaqornat"
@@ -989,7 +989,7 @@ nivak:
   accentcity: "Nivak"
 nivaq: 
   city: "nivaq"
-  accentcity: "Niv\xC3\xA2q"
+  accentcity: "Nivâq"
 nord: 
   city: "nord"
   accentcity: "Nord"
@@ -1004,13 +1004,13 @@ nugak:
   accentcity: "Nugak"
 nugaq: 
   city: "nugaq"
-  accentcity: "N\xC3\xBBg\xC3\xA2q"
+  accentcity: "N\xC3\xBBgâq"
 nugatsiaq: 
   city: "nugatsiaq"
-  accentcity: "N\xC3\xBBg\xC3\xA2tsiaq"
+  accentcity: "N\xC3\xBBgâtsiaq"
 nugssuta: 
   city: "nugssuta"
-  accentcity: "N\xC3\xBBgss\xC3\xBBt\xC3\xA2"
+  accentcity: "N\xC3\xBBgss\xC3\xBBtâ"
 nuk: 
   city: "nuk"
   accentcity: "Nuk"
@@ -1043,7 +1043,7 @@ nussaq:
   accentcity: "N\xC3\xBBssaq"
 nutat: 
   city: "nutat"
-  accentcity: "Nut\xC3\xA2t"
+  accentcity: "Nutât"
 nuugaaq: 
   city: "nuugaaq"
   accentcity: "Nuugaaq"
@@ -1100,7 +1100,7 @@ portusooq:
   accentcity: "Portusooq"
 portusoq: 
   city: "portusoq"
-  accentcity: "Portus\xC3\xB4q"
+  accentcity: "Portusôq"
 prins christianssund: 
   city: "prins christianssund"
   accentcity: "Prins Christianssund"
@@ -1145,7 +1145,7 @@ qallimiut:
   accentcity: "Qallimiut"
 qanaq: 
   city: "qanaq"
-  accentcity: "Q\xC3\xA2n\xC3\xA2q"
+  accentcity: "Qânâq"
 qangatait: 
   city: "qangatait"
   accentcity: "Qangátait"
@@ -1199,7 +1199,7 @@ qeqertarssuatsiaq:
   accentcity: "Qeqertarssuatsiaq"
 qeqertarssuk: 
   city: "qeqertarssuk"
-  accentcity: "Qeqert\xC3\xA2rssuk"
+  accentcity: "Qeqertârssuk"
 qeqertarssuq: 
   city: "qeqertarssuq"
   accentcity: "Qeqertarssuq"
@@ -1241,7 +1241,7 @@ qiqdlussat:
   accentcity: "Qiqdlussat"
 qitdlorfik: 
   city: "qitdlorfik"
-  accentcity: "Qitdl\xC3\xB4rfik"
+  accentcity: "Qitdlôrfik"
 qooqqut: 
   city: "qooqqut"
   accentcity: "Qooqqut"
@@ -1250,10 +1250,10 @@ qoornoq:
   accentcity: "Qoornoq"
 qornoq: 
   city: "qornoq"
-  accentcity: "Q\xC3\xB4rnoq"
+  accentcity: "Qôrnoq"
 qorqut: 
   city: "qorqut"
-  accentcity: "Q\xC3\xB4rqut"
+  accentcity: "Qôrqut"
 qubdligssat: 
   city: "qubdligssat"
   accentcity: "Qubdligssat"
@@ -1274,7 +1274,7 @@ qunnermiut:
   accentcity: "Qunnermiut"
 qutdligssarqat: 
   city: "qutdligssarqat"
-  accentcity: "Qutdligss\xC3\xA2rqat"
+  accentcity: "Qutdligssârqat"
 qutdligssat: 
   city: "qutdligssat"
   accentcity: "Qutdligssat"
@@ -1325,7 +1325,7 @@ sardlok:
   accentcity: "Sardlok"
 sardloq: 
   city: "sardloq"
-  accentcity: "S\xC3\xA2rdloq"
+  accentcity: "Sârdloq"
 sarfanguak: 
   city: "sarfanguak"
   accentcity: "Sarfanguak"
@@ -1382,7 +1382,7 @@ sermiligaaq:
   accentcity: "Sermiligaaq"
 sermiligaq: 
   city: "sermiligaq"
-  accentcity: "Sermilig\xC3\xA2q"
+  accentcity: "Sermiligâq"
 sermilik: 
   city: "sermilik"
   accentcity: "Sermilik"
@@ -1508,13 +1508,13 @@ tiniteqilaarmiit:
   accentcity: "Tiniteqilaarmiit"
 tiniteqilaq: 
   city: "tiniteqilaq"
-  accentcity: "Tiniteqil\xC3\xA2q"
+  accentcity: "Tiniteqilâq"
 tiniteqilarmit: 
   city: "tiniteqilarmit"
-  accentcity: "Tiniteqil\xC3\xA2rm\xC3\xAEt"
+  accentcity: "Tiniteqilârm\xC3\xAEt"
 tinuteqissaq: 
   city: "tinuteqissaq"
-  accentcity: "Tinuteqiss\xC3\xA2q"
+  accentcity: "Tinuteqissâq"
 toqqusaq: 
   city: "toqqusaq"
   accentcity: "Toqqusaq"
@@ -1535,7 +1535,7 @@ tuapait:
   accentcity: "Tuapait"
 tugssaq: 
   city: "tugssaq"
-  accentcity: "Tugss\xC3\xA2q"
+  accentcity: "Tugssâq"
 tunungassoq: 
   city: "tunungassoq"
   accentcity: "Tunúngassoq"
@@ -1547,10 +1547,10 @@ tussaaq:
   accentcity: "Tussaaq"
 tuvgssaq: 
   city: "tuvgssaq"
-  accentcity: "Tuvgss\xC3\xA2q"
+  accentcity: "Tuvgssâq"
 tuvssaq: 
   city: "tuvssaq"
-  accentcity: "Tuvss\xC3\xA2q"
+  accentcity: "Tuvssâq"
 ujaraat: 
   city: "ujaraat"
   accentcity: "Ujaraat"
@@ -1583,7 +1583,7 @@ umanaq:
   accentcity: "Umanaq"
 umanarssuk: 
   city: "umanarssuk"
-  accentcity: "Umán\xC3\xA2rssuk"
+  accentcity: "Umánârssuk"
 umanatsiak: 
   city: "umanatsiak"
   accentcity: "Umanatsiak"

@@ -221,7 +221,7 @@ belizon:
   accentcity: "Bélizon"
 belle etoile: 
   city: "belle etoile"
-  accentcity: "Belle \xC3\x89toile"
+  accentcity: "Belle Étoile"
 bellevue: 
   city: "bellevue"
   accentcity: "Bellevue"
@@ -431,7 +431,7 @@ chatenay:
   accentcity: "Chatenay"
 chaton: 
   city: "chaton"
-  accentcity: "Ch\xC3\xA2ton"
+  accentcity: "Châton"
 chatonnet: 
   city: "chatonnet"
   accentcity: "Chatonnet"
@@ -788,7 +788,7 @@ degrad roche:
   accentcity: "Dégrad Roche"
 degrad saint-eloi: 
   city: "degrad saint-eloi"
-  accentcity: "Dégrad Saint-\xC3\x89loi"
+  accentcity: "Dégrad Saint-Éloi"
 degrad saint-leon: 
   city: "degrad saint-leon"
   accentcity: "Dégrad Saint-Léon"
@@ -836,10 +836,10 @@ depot lezand:
   accentcity: "Dépot Lezand"
 depot lezand ruines: 
   city: "depot lezand ruines"
-  accentcity: "Dép\xC3\xB4t Lézand Ruines"
+  accentcity: "Dépôt Lézand Ruines"
 depot lezard: 
   city: "depot lezard"
-  accentcity: "Dép\xC3\xB4t Lézard"
+  accentcity: "Dépôt Lézard"
 desirade: 
   city: "desirade"
   accentcity: "Désirade"
@@ -905,7 +905,7 @@ edmont:
   accentcity: "Edmont"
 edouard: 
   city: "edouard"
-  accentcity: "\xC3\x89douard"
+  accentcity: "Édouard"
 edwin: 
   city: "edwin"
   accentcity: "Edwin"
@@ -920,10 +920,10 @@ elae:
   accentcity: "Elaé"
 elysee: 
   city: "elysee"
-  accentcity: "\xC3\x89lysée"
+  accentcity: "Élysée"
 emerillon: 
   city: "emerillon"
-  accentcity: "\xC3\x89merillon"
+  accentcity: "Émerillon"
 emerillons: 
   city: "emerillons"
   accentcity: "Emérillons"
@@ -956,10 +956,10 @@ espoir:
   accentcity: "Espoir"
 etats-unis: 
   city: "etats-unis"
-  accentcity: "\xC3\x89tats-Unis"
+  accentcity: "États-Unis"
 etienne: 
   city: "etienne"
-  accentcity: "\xC3\x89tienne"
+  accentcity: "Étienne"
 farnous: 
   city: "farnous"
   accentcity: "Farnous"
@@ -968,7 +968,7 @@ faubourg labri:
   accentcity: "Faubourg l'Abri"
 fermes de saint-elie: 
   city: "fermes de saint-elie"
-  accentcity: "Fermes de Saint-\xC3\x89lie"
+  accentcity: "Fermes de Saint-Élie"
 filon doyle: 
   city: "filon doyle"
   accentcity: "Filon Doyle"
@@ -1274,7 +1274,7 @@ lamonet:
   accentcity: "Lamonet"
 lamphitheatre: 
   city: "l'amphitheatre"
-  accentcity: "L'Amphithé\xC3\xA2tre"
+  accentcity: "L'Amphithéâtre"
 langa tabiki: 
   city: "langa tabiki"
   accentcity: "Langa Tabiki"
@@ -1868,7 +1868,7 @@ sainte-anne:
   accentcity: "Sainte-Anne"
 sainte elie: 
   city: "sainte elie"
-  accentcity: "Sainte \xC3\x89lie"
+  accentcity: "Sainte Élie"
 sainte-helene: 
   city: "sainte-helene"
   accentcity: "Sainte-Hélène"
@@ -1877,10 +1877,10 @@ sainte laurent:
   accentcity: "Sainte Laurent"
 saint-elie: 
   city: "saint-elie"
-  accentcity: "Saint-\xC3\x89lie"
+  accentcity: "Saint-Élie"
 saint-eloi: 
   city: "saint-eloi"
-  accentcity: "Saint-\xC3\x89loi"
+  accentcity: "Saint-Éloi"
 sainte-marie-les-mines: 
   city: "sainte-marie-les-mines"
   accentcity: "Sainte-Marie-les-Mines"
@@ -1949,7 +1949,7 @@ saulnier:
   accentcity: "Saulnier"
 saul: 
   city: "saul"
-  accentcity: "Sa\xC3\xBCl"
+  accentcity: "Saül"
 sautero: 
   city: "sautero"
   accentcity: "Sautero"

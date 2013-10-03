@@ -56,10 +56,10 @@ adas:
   accentcity: "Adás"
 adendro: 
   city: "adendro"
-  accentcity: "\xC3\x81dendro"
+  accentcity: "Ádendro"
 adendron: 
   city: "adendron"
-  accentcity: "\xC3\x81dendron"
+  accentcity: "Ádendron"
 adham: 
   city: "adham"
   accentcity: "Adhám"
@@ -77,16 +77,16 @@ adhamion:
   accentcity: "Adhámion"
 adhele: 
   city: "adhele"
-  accentcity: "\xC3\x81dhele"
+  accentcity: "Ádhele"
 adhelfikon: 
   city: "adhelfikon"
   accentcity: "Adhelfikón"
 adhendhron: 
   city: "adhendhron"
-  accentcity: "\xC3\x81dhendhron"
+  accentcity: "Ádhendhron"
 adhendron: 
   city: "adhendron"
-  accentcity: "\xC3\x81dhendron"
+  accentcity: "Ádhendron"
 adhiakopos: 
   city: "adhiakopos"
   accentcity: "Adhiákopos"
@@ -227,13 +227,13 @@ afissos:
   accentcity: "Afissós"
 afitos: 
   city: "afitos"
-  accentcity: "\xC3\x81fitos"
+  accentcity: "Áfitos"
 aflakion: 
   city: "aflakion"
   accentcity: "Aflákion"
 afra: 
   city: "afra"
-  accentcity: "\xC3\x81fra"
+  accentcity: "Áfra"
 afrata: 
   city: "afrata"
   accentcity: "Afráta"
@@ -359,7 +359,7 @@ agia anastasia:
   accentcity: "Agía Anastasía"
 agia anna: 
   city: "agia anna"
-  accentcity: "Agía \xC3\x81nna"
+  accentcity: "Agía Ánna"
 agia eleousa: 
   city: "agia eleousa"
   accentcity: "Agía Eleoúsa"
@@ -431,100 +431,100 @@ agiofyllon:
   accentcity: "Agiófyllon"
 agioi: 
   city: "agioi"
-  accentcity: "\xC3\x81gioi"
+  accentcity: "Ágioi"
 agioi anargyroi: 
   city: "agioi anargyroi"
-  accentcity: "\xC3\x81gioi Anárgyroi"
+  accentcity: "Ágioi Anárgyroi"
 agioi apostoloi: 
   city: "agioi apostoloi"
-  accentcity: "\xC3\x81gioi Apóstoloi"
+  accentcity: "Ágioi Apóstoloi"
 agioi deka: 
   city: "agioi deka"
-  accentcity: "\xC3\x81gioi Déka"
+  accentcity: "Ágioi Déka"
 agioi douloi: 
   city: "agioi douloi"
-  accentcity: "\xC3\x81gioi Doúloi"
+  accentcity: "Ágioi Doúloi"
 (( agioi pantes )): 
   city: "(( agioi pantes ))"
-  accentcity: "(( \xC3\x81gioi Pántes ))"
+  accentcity: "(( Ágioi Pántes ))"
 agioi pantes: 
   city: "agioi pantes"
-  accentcity: "\xC3\x81gioi Pántes"
+  accentcity: "Ágioi Pántes"
 agioi theodori: 
   city: "agioi theodori"
-  accentcity: "\xC3\x81gioi Theódori"
+  accentcity: "Ágioi Theódori"
 agioi theodoroi: 
   city: "agioi theodoroi"
-  accentcity: "\xC3\x81gioi Theódoroi"
+  accentcity: "Ágioi Theódoroi"
 (( agioi theodoroi )): 
   city: "(( agioi theodoroi ))"
-  accentcity: "(( \xC3\x81gioi Theódoroi ))"
+  accentcity: "(( Ágioi Theódoroi ))"
 agioneri: 
   city: "agioneri"
   accentcity: "Agionéri"
 agion gala: 
   city: "agion gala"
-  accentcity: "\xC3\x81gion Gála"
+  accentcity: "Ágion Gála"
 agiopigi: 
   city: "agiopigi"
   accentcity: "Agiopigí"
 agios achilleios: 
   city: "agios achilleios"
-  accentcity: "\xC3\x81gios Achílleios"
+  accentcity: "Ágios Achílleios"
 agios ahileos: 
   city: "agios ahileos"
   accentcity: "Agios Ahileos"
 agios aimilianos: 
   city: "agios aimilianos"
-  accentcity: "\xC3\x81gios Aimilianós"
+  accentcity: "Ágios Aimilianós"
 agios akakios: 
   city: "agios akakios"
-  accentcity: "\xC3\x81gios Akákios"
+  accentcity: "Ágios Akákios"
 agios andreas: 
   city: "agios andreas"
-  accentcity: "\xC3\x81gios Andréas"
+  accentcity: "Ágios Andréas"
 agios antonios: 
   city: "agios antonios"
-  accentcity: "\xC3\x81gios Antónios"
+  accentcity: "Ágios Antónios"
 agios arsenios: 
   city: "agios arsenios"
-  accentcity: "\xC3\x81gios Arsénios"
+  accentcity: "Ágios Arsénios"
 agios athanasios: 
   city: "agios athanasios"
-  accentcity: "\xC3\x81gios Athanásios"
+  accentcity: "Ágios Athanásios"
 agios charalampos: 
   city: "agios charalampos"
-  accentcity: "\xC3\x81gios Charálampos"
+  accentcity: "Ágios Charálampos"
 agios christofos: 
   city: "agios christofos"
-  accentcity: "\xC3\x81gios Christófos"
+  accentcity: "Ágios Christófos"
 agios dimitrios: 
   city: "agios dimitrios"
-  accentcity: "\xC3\x81gios Dimítrios"
+  accentcity: "Ágios Dimítrios"
 (( agios dimitrios )): 
   city: "(( agios dimitrios ))"
-  accentcity: "(( \xC3\x81gios Dimítrios ))"
+  accentcity: "(( Ágios Dimítrios ))"
 agios donatos: 
   city: "agios donatos"
-  accentcity: "\xC3\x81gios Donátos"
+  accentcity: "Ágios Donátos"
 agios fokas: 
   city: "agios fokas"
-  accentcity: "\xC3\x81gios Fokás"
+  accentcity: "Ágios Fokás"
 agios georgios: 
   city: "agios georgios"
-  accentcity: "\xC3\x81gios Geórgios"
+  accentcity: "Ágios Geórgios"
 (( agios georgios )): 
   city: "(( agios georgios ))"
-  accentcity: "(( \xC3\x81gios Geórgios ))"
+  accentcity: "(( Ágios Geórgios ))"
 agios georgios glykorrizou: 
   city: "agios georgios glykorrizou"
-  accentcity: "\xC3\x81gios Geórgios Glykorrízou"
+  accentcity: "Ágios Geórgios Glykorrízou"
 agios georgios sykousis: 
   city: "agios georgios sykousis"
-  accentcity: "\xC3\x81gios Geórgios Sykoúsis"
+  accentcity: "Ágios Geórgios Sykoúsis"
 agios ilias: 
   city: "agios ilias"
-  accentcity: "\xC3\x81gios Ilías"
+  accentcity: "Ágios Ilías"
 agios ioanis gigenon: 
   city: "agios ioanis gigenon"
   accentcity: "Agios Ioanis Gigenon"
@@ -533,79 +533,79 @@ agios ioanis ofis:
   accentcity: "Agios Ioanis Ofis"
 agios ioannis: 
   city: "agios ioannis"
-  accentcity: "\xC3\x81gios Ioánnis"
+  accentcity: "Ágios Ioánnis"
 agios ioannis prodromos: 
   city: "agios ioannis prodromos"
-  accentcity: "\xC3\x81gios Ioánnis Pródromos"
+  accentcity: "Ágios Ioánnis Pródromos"
 agios isidoros: 
   city: "agios isidoros"
-  accentcity: "\xC3\x81gios Isídoros"
+  accentcity: "Ágios Isídoros"
 agios kirykos: 
   city: "agios kirykos"
-  accentcity: "\xC3\x81gios Kírykos"
+  accentcity: "Ágios Kírykos"
 agios konstantinos: 
   city: "agios konstantinos"
-  accentcity: "\xC3\x81gios Konstantínos"
+  accentcity: "Ágios Konstantínos"
 agios kosmas: 
   city: "agios kosmas"
-  accentcity: "\xC3\x81gios Kosmás"
+  accentcity: "Ágios Kosmás"
 agios loukas: 
   city: "agios loukas"
-  accentcity: "\xC3\x81gios Loukás"
+  accentcity: "Ágios Loukás"
 agios markos: 
   city: "agios markos"
-  accentcity: "\xC3\x81gios Márkos"
+  accentcity: "Ágios Márkos"
 agios matthaios: 
   city: "agios matthaios"
-  accentcity: "\xC3\x81gios Matthaíos"
+  accentcity: "Ágios Matthaíos"
 agios merkourios: 
   city: "agios merkourios"
-  accentcity: "\xC3\x81gios Merkoúrios"
+  accentcity: "Ágios Merkoúrios"
 agios minas: 
   city: "agios minas"
-  accentcity: "\xC3\x81gios Minás"
+  accentcity: "Ágios Minás"
 agios nikolaos: 
   city: "agios nikolaos"
-  accentcity: "\xC3\x81gios Nikólaos"
+  accentcity: "Ágios Nikólaos"
 (( agios nikolaos )): 
   city: "(( agios nikolaos ))"
-  accentcity: "(( \xC3\x81gios Nikólaos ))"
+  accentcity: "(( Ágios Nikólaos ))"
 agios panteleimon: 
   city: "agios panteleimon"
   accentcity: "Agios Panteleimon"
 agios panteleimonas: 
   city: "agios panteleimonas"
-  accentcity: "\xC3\x81gios Panteleímonas"
+  accentcity: "Ágios Panteleímonas"
 agios pavlos: 
   city: "agios pavlos"
-  accentcity: "\xC3\x81gios Pávlos"
+  accentcity: "Ágios Pávlos"
 agios petros: 
   city: "agios petros"
-  accentcity: "\xC3\x81gios Pétros"
+  accentcity: "Ágios Pétros"
 agios prokopios: 
   city: "agios prokopios"
-  accentcity: "\xC3\x81gios Prokópios"
+  accentcity: "Ágios Prokópios"
 agios rokkos: 
   city: "agios rokkos"
-  accentcity: "\xC3\x81gios Rókkos"
+  accentcity: "Ágios Rókkos"
 agios spyridon: 
   city: "agios spyridon"
-  accentcity: "\xC3\x81gios Spyrídon"
+  accentcity: "Ágios Spyrídon"
 (( agios stefanos )): 
   city: "(( agios stefanos ))"
-  accentcity: "(( \xC3\x81gios Stéfanos ))"
+  accentcity: "(( Ágios Stéfanos ))"
 agios stefanos: 
   city: "agios stefanos"
-  accentcity: "\xC3\x81gios Stéfanos"
+  accentcity: "Ágios Stéfanos"
 agios vasileios: 
   city: "agios vasileios"
-  accentcity: "\xC3\x81gios Vasíleios"
+  accentcity: "Ágios Vasíleios"
 agios vissarion: 
   city: "agios vissarion"
-  accentcity: "\xC3\x81gios Vissaríon"
+  accentcity: "Ágios Vissaríon"
 agios vlasios: 
   city: "agios vlasios"
-  accentcity: "\xC3\x81gios Vlásios"
+  accentcity: "Ágios Vlásios"
 agiou georgiou: 
   city: "agiou georgiou"
   accentcity: "Agíou Georgíou"
@@ -626,7 +626,7 @@ agloudhista:
   accentcity: "Agloudhísta"
 agnanda: 
   city: "agnanda"
-  accentcity: "\xC3\x81gnanda"
+  accentcity: "Ágnanda"
 agnanderi: 
   city: "agnanderi"
   accentcity: "Agnanderí"
@@ -638,13 +638,13 @@ agnandia:
   accentcity: "Agnandiá"
 agnandi: 
   city: "agnandi"
-  accentcity: "\xC3\x81gnandi"
+  accentcity: "Ágnandi"
 agnandion: 
   city: "agnandion"
   accentcity: "Agnándion"
 agnanta: 
   city: "agnanta"
-  accentcity: "\xC3\x81gnanta"
+  accentcity: "Ágnanta"
 agnantero: 
   city: "agnantero"
   accentcity: "Agnanteró"
@@ -692,16 +692,16 @@ agourelitsa:
   accentcity: "Agourélitsa"
 agova: 
   city: "agova"
-  accentcity: "\xC3\x81gova"
+  accentcity: "Ágova"
 agoyia: 
   city: "agoyia"
   accentcity: "Agóyia"
 agra: 
   city: "agra"
-  accentcity: "\xC3\x81gra"
+  accentcity: "Ágra"
 agrafa: 
   city: "agrafa"
-  accentcity: "\xC3\x81grafa"
+  accentcity: "Ágrafa"
 agrafoi: 
   city: "agrafoi"
   accentcity: "Agrafoí"
@@ -734,7 +734,7 @@ agrapidoula:
   accentcity: "Agrapidoúla"
 agras: 
   city: "agras"
-  accentcity: "\xC3\x81gras"
+  accentcity: "Ágras"
 agrelia: 
   city: "agrelia"
   accentcity: "Agreliá"
@@ -818,7 +818,7 @@ agrillokhori:
   accentcity: "Agrillokhóri"
 agrilos: 
   city: "agrilos"
-  accentcity: "\xC3\x81grilos"
+  accentcity: "Ágrilos"
 agrilovounon: 
   city: "agrilovounon"
   accentcity: "Agrilóvounon"
@@ -1019,7 +1019,7 @@ aira:
   accentcity: "Aira"
 ai seris: 
   city: "ai seris"
-  accentcity: "\xC3\x81\xC3\xAF Seris"
+  accentcity: "Á\xC3\xAF Seris"
 aisimi: 
   city: "aisimi"
   accentcity: "Aisími"
@@ -1097,7 +1097,7 @@ akakies:
   accentcity: "Akakíes"
 akarpon: 
   city: "akarpon"
-  accentcity: "\xC3\x81karpon"
+  accentcity: "Ákarpon"
 ak-bunar: 
   city: "ak-bunar"
   accentcity: "Ak-Bunár"
@@ -1241,19 +1241,19 @@ akhouria ayiou nikolaou:
   accentcity: "Akhoúria Ayíou Nikoláou"
 akia: 
   city: "akia"
-  accentcity: "\xC3\x81kia"
+  accentcity: "Ákia"
 akinjali: 
   city: "akinjali"
   accentcity: "Akinjalí"
 akitsi: 
   city: "akitsi"
-  accentcity: "\xC3\x81kitsi"
+  accentcity: "Ákitsi"
 akmanjali: 
   city: "akmanjali"
   accentcity: "Akmanjalí"
 akoli: 
   city: "akoli"
-  accentcity: "\xC3\x81koli"
+  accentcity: "Ákoli"
 akondion: 
   city: "akondion"
   accentcity: "Akóndion"
@@ -1268,22 +1268,22 @@ akoumia:
   accentcity: "Akoúmia"
 akova: 
   city: "akova"
-  accentcity: "\xC3\x81kova"
+  accentcity: "Ákova"
 akovitika: 
   city: "akovitika"
   accentcity: "Akovítika"
 akovo: 
   city: "akovo"
-  accentcity: "\xC3\x81kovo"
+  accentcity: "Ákovo"
 akovos: 
   city: "akovos"
-  accentcity: "\xC3\x81kovos"
+  accentcity: "Ákovos"
 akra: 
   city: "akra"
-  accentcity: "\xC3\x81kra"
+  accentcity: "Ákra"
 akrai: 
   city: "akrai"
-  accentcity: "\xC3\x81krai"
+  accentcity: "Ákrai"
 akraifnion: 
   city: "akraifnion"
   accentcity: "Akraífnion"
@@ -1298,13 +1298,13 @@ akrata:
   accentcity: "Akráta"
 akres: 
   city: "akres"
-  accentcity: "\xC3\x81kres"
+  accentcity: "Ákres"
 akria: 
   city: "akria"
-  accentcity: "\xC3\x81kria"
+  accentcity: "Ákria"
 akri: 
   city: "akri"
-  accentcity: "\xC3\x81kri"
+  accentcity: "Ákri"
 akrini: 
   city: "akrini"
   accentcity: "Akriní"
@@ -1424,7 +1424,7 @@ alanli:
   accentcity: "Alanlí"
 alari: 
   city: "alari"
-  accentcity: "\xC3\x81lari"
+  accentcity: "Álari"
 alataria: 
   city: "alataria"
   accentcity: "Alatariá"
@@ -1439,10 +1439,10 @@ alatra:
   accentcity: "Alatrá"
 alatro: 
   city: "alatro"
-  accentcity: "\xC3\x81latro"
+  accentcity: "Álatro"
 alatron: 
   city: "alatron"
-  accentcity: "\xC3\x81latron"
+  accentcity: "Álatron"
 albani: 
   city: "albani"
   accentcity: "Albáni"
@@ -1553,7 +1553,7 @@ alfa:
   accentcity: "Alfá"
 alfas: 
   city: "alfas"
-  accentcity: "\xC3\x81lfas"
+  accentcity: "Álfas"
 alfios: 
   city: "alfios"
   accentcity: "Alfiós"
@@ -1589,7 +1589,7 @@ alifira:
   accentcity: "Alífira"
 alika: 
   city: "alika"
-  accentcity: "\xC3\x81lika"
+  accentcity: "Álika"
 alikambos: 
   city: "alikambos"
   accentcity: "Alíkambos"
@@ -1619,7 +1619,7 @@ aliki dhomvrainis:
   accentcity: "Alikí Dhomvraínis"
 alikon: 
   city: "alikon"
-  accentcity: "\xC3\x81likon"
+  accentcity: "Álikon"
 alikutuzi: 
   city: "alikutuzi"
   accentcity: "Alikutúzi"
@@ -1640,7 +1640,7 @@ alimnia:
   accentcity: "Alimniá"
 alinda: 
   city: "alinda"
-  accentcity: "\xC3\x81linda"
+  accentcity: "Álinda"
 alinna: 
   city: "alinna"
   accentcity: "Alinna"
@@ -1703,13 +1703,13 @@ allexi:
   accentcity: "Alléxi"
 alli meria: 
   city: "alli meria"
-  accentcity: "\xC3\x81lli Meriá"
+  accentcity: "Álli Meriá"
 allitzani: 
   city: "allitzani"
   accentcity: "Allitzáni"
 alma: 
   city: "alma"
-  accentcity: "\xC3\x81lma"
+  accentcity: "Álma"
 almandar: 
   city: "almandar"
   accentcity: "Almandár"
@@ -1748,7 +1748,7 @@ aloizianika:
   accentcity: "Alo\xC3\xAFziánika"
 alona: 
   city: "alona"
-  accentcity: "\xC3\x81lona"
+  accentcity: "Álona"
 alonai: 
   city: "alonai"
   accentcity: "Alónai"
@@ -1763,7 +1763,7 @@ alonakion:
   accentcity: "Alonákion"
 alonas: 
   city: "alonas"
-  accentcity: "\xC3\x81lonas"
+  accentcity: "Álonas"
 alones: 
   city: "alones"
   accentcity: "Alónes"
@@ -1784,10 +1784,10 @@ alonnisos:
   accentcity: "Alónnisos"
 aloron: 
   city: "aloron"
-  accentcity: "\xC3\x81loron"
+  accentcity: "Áloron"
 aloros: 
   city: "aloros"
-  accentcity: "\xC3\x81loros"
+  accentcity: "Áloros"
 aloutoyiannaiika: 
   city: "aloutoyiannaiika"
   accentcity: "Aloutoyiannaíika"
@@ -1805,7 +1805,7 @@ alpospita:
   accentcity: "Alpóspita"
 alsos: 
   city: "alsos"
-  accentcity: "\xC3\x81lsos"
+  accentcity: "Álsos"
 altomira: 
   city: "altomira"
   accentcity: "Altomirá"
@@ -1820,7 +1820,7 @@ alvena:
   accentcity: "Alvena"
 alvina: 
   city: "alvina"
-  accentcity: "\xC3\x81lvina"
+  accentcity: "Álvina"
 alyfanta: 
   city: "alyfanta"
   accentcity: "Alyfantá"
@@ -1979,7 +1979,7 @@ ambelofiton:
   accentcity: "Ambelófiton"
 ambeloi: 
   city: "ambeloi"
-  accentcity: "\xC3\x81mbeloi"
+  accentcity: "Ámbeloi"
 ambelokambos: 
   city: "ambelokambos"
   accentcity: "Ambelókambos"
@@ -2000,13 +2000,13 @@ ambelosalesi:
   accentcity: "Ambelosálesi"
 ambelos: 
   city: "ambelos"
-  accentcity: "\xC3\x81mbelos"
+  accentcity: "Ámbelos"
 ambelouzos: 
   city: "ambelouzos"
   accentcity: "Ambeloúzos"
 ambliani: 
   city: "ambliani"
-  accentcity: "\xC3\x81mbliani"
+  accentcity: "Ámbliani"
 ambonus: 
   city: "ambonus"
   accentcity: "Ambonus"
@@ -2021,7 +2021,7 @@ amelandes:
   accentcity: "Amélandes"
 amfia: 
   city: "amfia"
-  accentcity: "\xC3\x81mfia"
+  accentcity: "Ámfia"
 amfiklia: 
   city: "amfiklia"
   accentcity: "Amfíklia"
@@ -2036,7 +2036,7 @@ amfipolis:
   accentcity: "Amfípolis"
 amfissa: 
   city: "amfissa"
-  accentcity: "\xC3\x81mfissa"
+  accentcity: "Ámfissa"
 amfithea: 
   city: "amfithea"
   accentcity: "Amfithéa"
@@ -2114,7 +2114,7 @@ ammolokhos:
   accentcity: "Ammólokhos"
 ammos: 
   city: "ammos"
-  accentcity: "\xC3\x81mmos"
+  accentcity: "Ámmos"
 ammos meryion: 
   city: "ammos meryion"
   accentcity: "Ammos Méryion"
@@ -2246,7 +2246,7 @@ ampelonas:
   accentcity: "Ampelónas"
 ampelos: 
   city: "ampelos"
-  accentcity: "\xC3\x81mpelos"
+  accentcity: "Ámpelos"
 amvlota: 
   city: "amvlota"
   accentcity: "Amvlóta"
@@ -2390,7 +2390,7 @@ anchialos:
   accentcity: "Anchíalos"
 anda: 
   city: "anda"
-  accentcity: "\xC3\x81nda"
+  accentcity: "Ánda"
 andartikon: 
   city: "andartikon"
   accentcity: "Andartikón"
@@ -2402,7 +2402,7 @@ andemaki:
   accentcity: "Andemaki"
 anderas: 
   city: "anderas"
-  accentcity: "\xC3\x81nderas"
+  accentcity: "Ánderas"
 andhania: 
   city: "andhania"
   accentcity: "Andhanía"
@@ -2480,7 +2480,7 @@ andiskarion:
   accentcity: "Andiskárion"
 andissa: 
   city: "andissa"
-  accentcity: "\xC3\x81ndissa"
+  accentcity: "Ándissa"
 andonaiika: 
   city: "andonaiika"
   accentcity: "Andonaíika"
@@ -2537,7 +2537,7 @@ andronion:
   accentcity: "Andrónion"
 andros: 
   city: "andros"
-  accentcity: "\xC3\x81ndros"
+  accentcity: "Ándros"
 androusa: 
   city: "androusa"
   accentcity: "Androúsa"
@@ -2708,13 +2708,13 @@ angistrion:
   accentcity: "Angístrion"
 angistron: 
   city: "angistron"
-  accentcity: "\xC3\x81ngistron"
+  accentcity: "Ángistron"
 angitis: 
   city: "angitis"
   accentcity: "Angítis"
 ango mahala: 
   city: "ango mahala"
-  accentcity: "\xC3\x81ngo Mahalá"
+  accentcity: "Ángo Mahalá"
 angon: 
   city: "angon"
   accentcity: "Angón"
@@ -2732,13 +2732,13 @@ aniadha:
   accentcity: "Aniádha"
 anidhroi: 
   city: "anidhroi"
-  accentcity: "\xC3\x81nidhroi"
+  accentcity: "Ánidhroi"
 anidhron: 
   city: "anidhron"
-  accentcity: "\xC3\x81nidhron"
+  accentcity: "Ánidhron"
 anidhros: 
   city: "anidhros"
-  accentcity: "\xC3\x81nidhros"
+  accentcity: "Ánidhros"
 anifi: 
   city: "anifi"
   accentcity: "Anifí"
@@ -2792,97 +2792,97 @@ anninou:
   accentcity: "Annínou"
 ano aetos: 
   city: "ano aetos"
-  accentcity: "\xC3\x81no Aëtós"
+  accentcity: "Áno Aëtós"
 ano afroxilia: 
   city: "ano afroxilia"
-  accentcity: "\xC3\x81no Afroxiliá"
+  accentcity: "Áno Afroxiliá"
 ano agali: 
   city: "ano agali"
-  accentcity: "\xC3\x81no Agali"
+  accentcity: "Áno Agali"
 ano agalis: 
   city: "ano agalis"
-  accentcity: "\xC3\x81no \xC3\x81galis"
+  accentcity: "Áno Ágalis"
 ano agioi anargyroi: 
   city: "ano agioi anargyroi"
-  accentcity: "\xC3\x81no \xC3\x81gioi Anárgyroi"
+  accentcity: "Áno Ágioi Anárgyroi"
 ano agios ioannis: 
   city: "ano agios ioannis"
-  accentcity: "\xC3\x81no \xC3\x81gios Ioánnis"
+  accentcity: "Áno Ágios Ioánnis"
 ano agios konstantinos: 
   city: "ano agios konstantinos"
-  accentcity: "\xC3\x81no \xC3\x81gios Konstantínos"
+  accentcity: "Áno Ágios Konstantínos"
 ano agoriani: 
   city: "ano agoriani"
-  accentcity: "\xC3\x81no Agóriani"
+  accentcity: "Áno Agóriani"
 ano aiyialos: 
   city: "ano aiyialos"
-  accentcity: "\xC3\x81no Aiyialós"
+  accentcity: "Áno Aiyialós"
 ano akhaia: 
   city: "ano akhaia"
   accentcity: "Ano Akhaia"
 ano akria: 
   city: "ano akria"
-  accentcity: "\xC3\x81no \xC3\x81kria"
+  accentcity: "Áno Ákria"
 ano alepokhori: 
   city: "ano alepokhori"
-  accentcity: "\xC3\x81no Alepokhóri"
+  accentcity: "Áno Alepokhóri"
 ano alepokhorion: 
   city: "ano alepokhorion"
-  accentcity: "\xC3\x81no Alepokhórion"
+  accentcity: "Áno Alepokhórion"
 ano alissos: 
   city: "ano alissos"
-  accentcity: "\xC3\x81no Alissós"
+  accentcity: "Áno Alissós"
 ano almiri: 
   city: "ano almiri"
-  accentcity: "\xC3\x81no Almirí"
+  accentcity: "Áno Almirí"
 ano amfia: 
   city: "ano amfia"
-  accentcity: "\xC3\x81no \xC3\x81mfia"
+  accentcity: "Áno Ámfia"
 ano anavriton: 
   city: "ano anavriton"
-  accentcity: "\xC3\x81no Anavritón"
+  accentcity: "Áno Anavritón"
 ano apostoloi: 
   city: "ano apostoloi"
-  accentcity: "\xC3\x81no Apóstoloi"
+  accentcity: "Áno Apóstoloi"
 ano arfara: 
   city: "ano arfara"
-  accentcity: "\xC3\x81no Arfará"
+  accentcity: "Áno Arfará"
 ano arkhanai: 
   city: "ano arkhanai"
   accentcity: "Ano Arkhánai"
 ano arkhanes: 
   city: "ano arkhanes"
-  accentcity: "\xC3\x81no Arkhánes"
+  accentcity: "Áno Arkhánes"
 ano aroi: 
   city: "ano aroi"
-  accentcity: "\xC3\x81no Arói"
+  accentcity: "Áno Arói"
 ano aryilokhorion: 
   city: "ano aryilokhorion"
-  accentcity: "\xC3\x81no Aryilokhórion"
+  accentcity: "Áno Aryilokhórion"
 ano asitai: 
   city: "ano asitai"
-  accentcity: "\xC3\x81no Asítai"
+  accentcity: "Áno Asítai"
 ano asitais: 
   city: "ano asitais"
   accentcity: "Ano Asítais"
 ano asites: 
   city: "ano asites"
-  accentcity: "\xC3\x81no Asítes"
+  accentcity: "Áno Asítes"
 ano astrakoi: 
   city: "ano astrakoi"
-  accentcity: "\xC3\x81no Astrakoí"
+  accentcity: "Áno Astrakoí"
 ano ayia marina: 
   city: "ano ayia marina"
-  accentcity: "\xC3\x81no Ayía Marína"
+  accentcity: "Áno Ayía Marína"
 ano ayia paraskevi: 
   city: "ano ayia paraskevi"
-  accentcity: "\xC3\x81no Ayía Paraskeví"
+  accentcity: "Áno Ayía Paraskeví"
 ano ayios ioannis: 
   city: "ano ayios ioannis"
-  accentcity: "\xC3\x81no \xC3\x81yios Ioánnis"
+  accentcity: "Áno Áyios Ioánnis"
 ano ayios vlasios: 
   city: "ano ayios vlasios"
-  accentcity: "\xC3\x81no \xC3\x81yios Vlásios"
+  accentcity: "Áno Áyios Vlásios"
 ano belesi: 
   city: "ano belesi"
   accentcity: "Ano Bélesi"
@@ -2891,178 +2891,178 @@ ano botinon:
   accentcity: "Ano Botinón"
 ano boularioi: 
   city: "ano boularioi"
-  accentcity: "\xC3\x81no Boularioí"
+  accentcity: "Áno Boularioí"
 ano boularyoi: 
   city: "ano boularyoi"
-  accentcity: "\xC3\x81no Boularyoí"
+  accentcity: "Áno Boularyoí"
 ano bourlesia: 
   city: "ano bourlesia"
   accentcity: "Ano Bourlésia"
 ano boursiani: 
   city: "ano boursiani"
-  accentcity: "\xC3\x81no Boúrsiani"
+  accentcity: "Áno Boúrsiani"
 ano brallos: 
   city: "ano brallos"
-  accentcity: "\xC3\x81no Brallós"
+  accentcity: "Áno Brallós"
 ano bralos: 
   city: "ano bralos"
-  accentcity: "\xC3\x81no Brálos"
+  accentcity: "Áno Brálos"
 ano chahmati: 
   city: "ano chahmati"
-  accentcity: "\xC3\x81no Chahmáti"
+  accentcity: "Áno Chahmáti"
 (( ano chalasmata )): 
   city: "(( ano chalasmata ))"
-  accentcity: "(( \xC3\x81no Chalásmata ))"
+  accentcity: "(( Áno Chalásmata ))"
 ano chalikas: 
   city: "ano chalikas"
-  accentcity: "\xC3\x81no Chálikas"
+  accentcity: "Áno Chálikas"
 ano chorion: 
   city: "ano chorion"
   accentcity: "Ano Chorion"
 ano davyia: 
   city: "ano davyia"
-  accentcity: "\xC3\x81no Davyiá"
+  accentcity: "Áno Davyiá"
 ano derekli: 
   city: "ano derekli"
-  accentcity: "\xC3\x81no Dereklí"
+  accentcity: "Áno Dereklí"
 ano derengli: 
   city: "ano derengli"
   accentcity: "Ano Derengli"
 ano despotikon: 
   city: "ano despotikon"
-  accentcity: "\xC3\x81no Despotikón"
+  accentcity: "Áno Despotikón"
 ano dhafni: 
   city: "ano dhafni"
-  accentcity: "\xC3\x81no Dháfni"
+  accentcity: "Áno Dháfni"
 ano dhafnoudhi: 
   city: "ano dhafnoudhi"
-  accentcity: "\xC3\x81no Dhafnoúdhi"
+  accentcity: "Áno Dhafnoúdhi"
 ano dhamasta: 
   city: "ano dhamasta"
-  accentcity: "\xC3\x81no Dhamásta"
+  accentcity: "Áno Dhamásta"
 ano dhaton: 
   city: "ano dhaton"
-  accentcity: "\xC3\x81no Dháton"
+  accentcity: "Áno Dháton"
 ano dhavia: 
   city: "ano dhavia"
-  accentcity: "\xC3\x81no Dhaviá"
+  accentcity: "Áno Dhaviá"
 ano dherekli: 
   city: "ano dherekli"
-  accentcity: "\xC3\x81no Dhereklí"
+  accentcity: "Áno Dhereklí"
 ano dherenglion: 
   city: "ano dherenglion"
-  accentcity: "\xC3\x81no Dherenglíon"
+  accentcity: "Áno Dherenglíon"
 ano dhespotiko: 
   city: "ano dhespotiko"
-  accentcity: "\xC3\x81no Dhespotikó"
+  accentcity: "Áno Dhespotikó"
 ano dhespotikon: 
   city: "ano dhespotikon"
-  accentcity: "\xC3\x81no Dhespotikón"
+  accentcity: "Áno Dhespotikón"
 ano dhiakopton: 
   city: "ano dhiakopton"
-  accentcity: "\xC3\x81no Dhiakoptón"
+  accentcity: "Áno Dhiakoptón"
 ano dhiminio: 
   city: "ano dhiminio"
-  accentcity: "\xC3\x81no Dhiminió"
+  accentcity: "Áno Dhiminió"
 ano dhio vouna: 
   city: "ano dhio vouna"
-  accentcity: "\xC3\x81no Dhío Vouná"
+  accentcity: "Áno Dhío Vouná"
 ano dholiana: 
   city: "ano dholiana"
-  accentcity: "\xC3\x81no Dholianá"
+  accentcity: "Áno Dholianá"
 ano dholoi: 
   city: "ano dholoi"
-  accentcity: "\xC3\x81no Dholoí"
+  accentcity: "Áno Dholoí"
 ano dhorion: 
   city: "ano dhorion"
-  accentcity: "\xC3\x81no Dhórion"
+  accentcity: "Áno Dhórion"
 ano dhranista: 
   city: "ano dhranista"
   accentcity: "Ano Dhranísta"
 ano dhrimalaiika: 
   city: "ano dhrimalaiika"
-  accentcity: "\xC3\x81no Dhrimalaíika"
+  accentcity: "Áno Dhrimalaíika"
 ano dhrimon: 
   city: "ano dhrimon"
-  accentcity: "\xC3\x81no Dhrimón"
+  accentcity: "Áno Dhrimón"
 ano dhrosini: 
   city: "ano dhrosini"
-  accentcity: "\xC3\x81no Dhrosiní"
+  accentcity: "Áno Dhrosiní"
 ano doumina: 
   city: "ano doumina"
-  accentcity: "\xC3\x81no Douminá"
+  accentcity: "Áno Douminá"
 ano drosini: 
   city: "ano drosini"
-  accentcity: "\xC3\x81no Drosiní"
+  accentcity: "Áno Drosiní"
 ano drymon: 
   city: "ano drymon"
-  accentcity: "\xC3\x81no Drymón"
+  accentcity: "Áno Drymón"
 ano duvlatan: 
   city: "ano duvlatan"
-  accentcity: "\xC3\x81no Duvlatán"
+  accentcity: "Áno Duvlatán"
 ano esokhoria: 
   city: "ano esokhoria"
-  accentcity: "\xC3\x81no Esokhória"
+  accentcity: "Áno Esokhória"
 ano evinokhorion: 
   city: "ano evinokhorion"
-  accentcity: "\xC3\x81no Evinokhórion"
+  accentcity: "Áno Evinokhórion"
 ano exanthia: 
   city: "ano exanthia"
-  accentcity: "\xC3\x81no Exánthia"
+  accentcity: "Áno Exánthia"
 ano fanari: 
   city: "ano fanari"
-  accentcity: "\xC3\x81no Fanári"
+  accentcity: "Áno Fanári"
 ano fanarion: 
   city: "ano fanarion"
-  accentcity: "\xC3\x81no Fanárion"
+  accentcity: "Áno Fanárion"
 ano fortesa: 
   city: "ano fortesa"
-  accentcity: "\xC3\x81no Fortésa"
+  accentcity: "Áno Fortésa"
 ano fortetsa: 
   city: "ano fortetsa"
-  accentcity: "\xC3\x81no Fortétsa"
+  accentcity: "Áno Fortétsa"
 ano frastaina: 
   city: "ano frastaina"
-  accentcity: "\xC3\x81no Frástaina"
+  accentcity: "Áno Frástaina"
 ano fteria: 
   city: "ano fteria"
-  accentcity: "\xC3\x81no Fteriá"
+  accentcity: "Áno Fteriá"
 ano fteri: 
   city: "ano fteri"
-  accentcity: "\xC3\x81no Ftéri"
+  accentcity: "Áno Ftéri"
 ano fterias: 
   city: "ano fterias"
-  accentcity: "\xC3\x81no Fteriás"
+  accentcity: "Áno Fteriás"
 ano garantza: 
   city: "ano garantza"
-  accentcity: "\xC3\x81no Garántza"
+  accentcity: "Áno Garántza"
 ano gardhenitsa: 
   city: "ano gardhenitsa"
-  accentcity: "\xC3\x81no Gardhenítsa"
+  accentcity: "Áno Gardhenítsa"
 ano garefeio: 
   city: "ano garefeio"
-  accentcity: "\xC3\x81no Garéfeio"
+  accentcity: "Áno Garéfeio"
 ano garefeion: 
   city: "ano garefeion"
-  accentcity: "\xC3\x81no Garéfeion"
+  accentcity: "Áno Garéfeion"
 ano garefi: 
   city: "ano garefi"
-  accentcity: "\xC3\x81no Garéfi"
+  accentcity: "Áno Garéfi"
 ano garefion: 
   city: "ano garefion"
-  accentcity: "\xC3\x81no Garéfion"
+  accentcity: "Áno Garéfion"
 ano garouna: 
   city: "ano garouna"
-  accentcity: "\xC3\x81no Garoúna"
+  accentcity: "Áno Garoúna"
 ano gatzea: 
   city: "ano gatzea"
-  accentcity: "\xC3\x81no Gatzéa"
+  accentcity: "Áno Gatzéa"
 ano gavalou: 
   city: "ano gavalou"
-  accentcity: "\xC3\x81no Gavaloú"
+  accentcity: "Áno Gavaloú"
 ano gavrion: 
   city: "ano gavrion"
-  accentcity: "\xC3\x81no Gávrion"
+  accentcity: "Áno Gávrion"
 anogeia: 
   city: "anogeia"
   accentcity: "Anógeia"
@@ -3083,31 +3083,31 @@ anogia:
   accentcity: "Anógia"
 ano girbas: 
   city: "ano girbas"
-  accentcity: "\xC3\x81no Girbás"
+  accentcity: "Áno Girbás"
 ano glikovrisi: 
   city: "ano glikovrisi"
-  accentcity: "\xC3\x81no Glikóvrisi"
+  accentcity: "Áno Glikóvrisi"
 ano goumenitsa: 
   city: "ano goumenitsa"
-  accentcity: "\xC3\x81no Goumenítsa"
+  accentcity: "Áno Goumenítsa"
 ano graikiko: 
   city: "ano graikiko"
-  accentcity: "\xC3\x81no Graikikó"
+  accentcity: "Áno Graikikó"
 ano graikikon: 
   city: "ano graikikon"
-  accentcity: "\xC3\x81no Graikikón"
+  accentcity: "Áno Graikikón"
 ano grammatikon: 
   city: "ano grammatikon"
-  accentcity: "\xC3\x81no Grammatikón"
+  accentcity: "Áno Grammatikón"
 ano idhrousa: 
   city: "ano idhrousa"
-  accentcity: "\xC3\x81no Idhroúsa"
+  accentcity: "Áno Idhroúsa"
 ano idhroussa: 
   city: "ano idhroussa"
-  accentcity: "\xC3\x81no Idhroússa"
+  accentcity: "Áno Idhroússa"
 ano ilia: 
   city: "ano ilia"
-  accentcity: "\xC3\x81no \xC3\x8Dlia"
+  accentcity: "Áno Ília"
 anoinata: 
   city: "anoinata"
   accentcity: "Anoináta"
@@ -3116,160 +3116,160 @@ ano ionikon:
   accentcity: "Ano Ionikón"
 ano iraklion: 
   city: "ano iraklion"
-  accentcity: "\xC3\x81no Iráklion"
+  accentcity: "Áno Iráklion"
 anoixia: 
   city: "anoixia"
   accentcity: "Anoixiá"
 anoixi: 
   city: "anoixi"
-  accentcity: "\xC3\x81noixi"
+  accentcity: "Ánoixi"
 anoixiatikon: 
   city: "anoixiatikon"
   accentcity: "Anoixiátikon"
 anoixis: 
   city: "anoixis"
-  accentcity: "\xC3\x81noixis"
+  accentcity: "Ánoixis"
 ano kaberler: 
   city: "ano kaberler"
-  accentcity: "\xC3\x81no Kaberlér"
+  accentcity: "Áno Kaberlér"
 ano kalamaki: 
   city: "ano kalamaki"
-  accentcity: "\xC3\x81no Kalamáki"
+  accentcity: "Áno Kalamáki"
 ano kalendini: 
   city: "ano kalendini"
-  accentcity: "\xC3\x81no Kalendíni"
+  accentcity: "Áno Kalendíni"
 ano kalentini: 
   city: "ano kalentini"
-  accentcity: "\xC3\x81no Kalentíni"
+  accentcity: "Áno Kalentíni"
 ano kalesa: 
   city: "ano kalesa"
-  accentcity: "\xC3\x81no Kalésa"
+  accentcity: "Áno Kalésa"
 ano kalesia: 
   city: "ano kalesia"
-  accentcity: "\xC3\x81no Kalésia"
+  accentcity: "Áno Kalésia"
 ano kalesmenon: 
   city: "ano kalesmenon"
-  accentcity: "\xC3\x81no Kalesménon"
+  accentcity: "Áno Kalesménon"
 ano kalivia: 
   city: "ano kalivia"
-  accentcity: "\xC3\x81no Kalívia"
+  accentcity: "Áno Kalívia"
 ano kalivia filion: 
   city: "ano kalivia filion"
-  accentcity: "\xC3\x81no Kalívia Filíon"
+  accentcity: "Áno Kalívia Filíon"
 ano kalliniki: 
   city: "ano kalliniki"
-  accentcity: "\xC3\x81no Kalliníki"
+  accentcity: "Áno Kalliníki"
 ano kallithea: 
   city: "ano kallithea"
-  accentcity: "\xC3\x81no Kallithéa"
+  accentcity: "Áno Kallithéa"
 ano kalon neron: 
   city: "ano kalon neron"
-  accentcity: "\xC3\x81no Kalón Nerón"
+  accentcity: "Áno Kalón Nerón"
 ano kamari: 
   city: "ano kamari"
-  accentcity: "\xC3\x81no Kamári"
+  accentcity: "Áno Kamári"
 ano kamarion: 
   city: "ano kamarion"
-  accentcity: "\xC3\x81no Kamárion"
+  accentcity: "Áno Kamárion"
 ano kambia: 
   city: "ano kambia"
-  accentcity: "\xC3\x81no Kambiá"
+  accentcity: "Áno Kambiá"
 ano kambi: 
   city: "ano kambi"
-  accentcity: "\xC3\x81no Kambí"
+  accentcity: "Áno Kambí"
 ano kamila: 
   city: "ano kamila"
-  accentcity: "\xC3\x81no Kamíla"
+  accentcity: "Áno Kamíla"
 ano kanalia: 
   city: "ano kanalia"
-  accentcity: "\xC3\x81no Kanália"
+  accentcity: "Áno Kanália"
 ano kaniani: 
   city: "ano kaniani"
-  accentcity: "\xC3\x81no Kániani"
+  accentcity: "Áno Kániani"
 ano karajakoi: 
   city: "ano karajakoi"
-  accentcity: "\xC3\x81no Karajáko\xC3\xAF"
+  accentcity: "Áno Karajáko\xC3\xAF"
 ano kardhamos: 
   city: "ano kardhamos"
-  accentcity: "\xC3\x81no Kárdhamos"
+  accentcity: "Áno Kárdhamos"
 ano karea: 
   city: "ano karea"
-  accentcity: "\xC3\x81no Karéa"
+  accentcity: "Áno Karéa"
 ano karia: 
   city: "ano karia"
-  accentcity: "\xC3\x81no Kariá"
+  accentcity: "Áno Kariá"
 ano kariai: 
   city: "ano kariai"
-  accentcity: "\xC3\x81no Kariaí"
+  accentcity: "Áno Kariaí"
 ano kariofiton: 
   city: "ano kariofiton"
-  accentcity: "\xC3\x81no Kariófiton"
+  accentcity: "Áno Kariófiton"
 ano karitsa: 
   city: "ano karitsa"
-  accentcity: "\xC3\x81no Karítsa"
+  accentcity: "Áno Karítsa"
 ano karnezaiika: 
   city: "ano karnezaiika"
-  accentcity: "\xC3\x81no Karnezaíika"
+  accentcity: "Áno Karnezaíika"
 ano karnezeika: 
   city: "ano karnezeika"
-  accentcity: "\xC3\x81no Karnezé\xC3\xAFka"
+  accentcity: "Áno Karnezé\xC3\xAFka"
 ano karouzana: 
   city: "ano karouzana"
-  accentcity: "\xC3\x81no Karouzaná"
+  accentcity: "Áno Karouzaná"
 ano karyes: 
   city: "ano karyes"
-  accentcity: "\xC3\x81no Karyés"
+  accentcity: "Áno Karyés"
 ano kastanea: 
   city: "ano kastanea"
-  accentcity: "\xC3\x81no Kastanéa"
+  accentcity: "Áno Kastanéa"
 ano kastania: 
   city: "ano kastania"
-  accentcity: "\xC3\x81no Kastaniá"
+  accentcity: "Áno Kastaniá"
 ano kastelliana: 
   city: "ano kastelliana"
-  accentcity: "\xC3\x81no Kastellianá"
+  accentcity: "Áno Kastellianá"
 ano kastritsion: 
   city: "ano kastritsion"
-  accentcity: "\xC3\x81no Kastrítsion"
+  accentcity: "Áno Kastrítsion"
 ano katelios: 
   city: "ano katelios"
-  accentcity: "\xC3\x81no Kateliós"
+  accentcity: "Áno Kateliós"
 ano kefala: 
   city: "ano kefala"
-  accentcity: "\xC3\x81no Kefála"
+  accentcity: "Áno Kefála"
 ano kefalarion: 
   city: "ano kefalarion"
-  accentcity: "\xC3\x81no Kefalárion"
+  accentcity: "Áno Kefalárion"
 ano kerasea: 
   city: "ano kerasea"
-  accentcity: "\xC3\x81no Keraséa"
+  accentcity: "Áno Keraséa"
 ano kerasia: 
   city: "ano kerasia"
-  accentcity: "\xC3\x81no Kerasiá"
+  accentcity: "Áno Kerasiá"
 ano kerasovon: 
   city: "ano kerasovon"
-  accentcity: "\xC3\x81no Kerásovon"
+  accentcity: "Áno Kerásovon"
 ano khalasmata: 
   city: "ano khalasmata"
-  accentcity: "\xC3\x81no Khalásmata"
+  accentcity: "Áno Khalásmata"
 ano khalikas: 
   city: "ano khalikas"
-  accentcity: "\xC3\x81no Khálikas"
+  accentcity: "Áno Khálikas"
 ano kharvati: 
   city: "ano kharvati"
-  accentcity: "\xC3\x81no Kharváti"
+  accentcity: "Áno Kharváti"
 ano khionokhoron: 
   city: "ano khionokhoron"
-  accentcity: "\xC3\x81no Khionókhoron"
+  accentcity: "Áno Khionókhoron"
 ano khlamoriani: 
   city: "ano khlamoriani"
-  accentcity: "\xC3\x81no Khlamóriani"
+  accentcity: "Áno Khlamóriani"
 ano khomondhos: 
   city: "ano khomondhos"
-  accentcity: "\xC3\x81no Khomóndhos"
+  accentcity: "Áno Khomóndhos"
 ano khora: 
   city: "ano khora"
-  accentcity: "\xC3\x81no Khóra"
+  accentcity: "Áno Khóra"
 anokhori: 
   city: "anokhori"
   accentcity: "Anokhóri"
@@ -3281,682 +3281,682 @@ anokhorion:
   accentcity: "Anokhórion"
 ano khorion: 
   city: "ano khorion"
-  accentcity: "\xC3\x81no Khoríon"
+  accentcity: "Áno Khoríon"
 ano khouni: 
   city: "ano khouni"
-  accentcity: "\xC3\x81no Khoúni"
+  accentcity: "Áno Khoúni"
 ano khovoli: 
   city: "ano khovoli"
-  accentcity: "\xC3\x81no Khóvoli"
+  accentcity: "Áno Khóvoli"
 ano khrisovitsa: 
   city: "ano khrisovitsa"
-  accentcity: "\xC3\x81no Khrisovítsa"
+  accentcity: "Áno Khrisovítsa"
 ano khristos: 
   city: "ano khristos"
-  accentcity: "\xC3\x81no Khristós"
+  accentcity: "Áno Khristós"
 ano klinai: 
   city: "ano klinai"
-  accentcity: "\xC3\x81no Klinaí"
+  accentcity: "Áno Klinaí"
 ano klitoria: 
   city: "ano klitoria"
-  accentcity: "\xC3\x81no Klitoría"
+  accentcity: "Áno Klitoría"
 ano kollinai: 
   city: "ano kollinai"
-  accentcity: "\xC3\x81no Kollínai"
+  accentcity: "Áno Kollínai"
 ano komi: 
   city: "ano komi"
-  accentcity: "\xC3\x81no Kómi"
+  accentcity: "Áno Kómi"
 ano konstandinia: 
   city: "ano konstandinia"
-  accentcity: "\xC3\x81no Konstandiniá"
+  accentcity: "Áno Konstandiniá"
 ano kontogoni: 
   city: "ano kontogoni"
-  accentcity: "\xC3\x81no Kontogóni"
+  accentcity: "Áno Kontogóni"
 ano kopanaki: 
   city: "ano kopanaki"
-  accentcity: "\xC3\x81no Kopanáki"
+  accentcity: "Áno Kopanáki"
 ano kopanakion: 
   city: "ano kopanakion"
-  accentcity: "\xC3\x81no Kopanákion"
+  accentcity: "Áno Kopanákion"
 ano kopanitsa: 
   city: "ano kopanitsa"
-  accentcity: "\xC3\x81no Kopánitsa"
+  accentcity: "Áno Kopánitsa"
 ano kopanos: 
   city: "ano kopanos"
-  accentcity: "\xC3\x81no Kopanós"
+  accentcity: "Áno Kopanós"
 ano korakiana: 
   city: "ano korakiana"
-  accentcity: "\xC3\x81no Korakiána"
+  accentcity: "Áno Korakiána"
 ano korikani: 
   city: "ano korikani"
-  accentcity: "\xC3\x81no Korikani"
+  accentcity: "Áno Korikani"
 ano koritiani: 
   city: "ano koritiani"
-  accentcity: "\xC3\x81no Korítiani"
+  accentcity: "Áno Korítiani"
 ano korthion: 
   city: "ano korthion"
-  accentcity: "\xC3\x81no Kórthion"
+  accentcity: "Áno Kórthion"
 ano kotsanopoulo: 
   city: "ano kotsanopoulo"
-  accentcity: "\xC3\x81no Kotsanópoulo"
+  accentcity: "Áno Kotsanópoulo"
 ano kotsanopoulon: 
   city: "ano kotsanopoulon"
-  accentcity: "\xC3\x81no Kotsanópoulon"
+  accentcity: "Áno Kotsanópoulon"
 ano kottori: 
   city: "ano kottori"
-  accentcity: "\xC3\x81no Kóttori"
+  accentcity: "Áno Kóttori"
 ano koudhouni: 
   city: "ano koudhouni"
-  accentcity: "\xC3\x81no Koudhoúni"
+  accentcity: "Áno Koudhoúni"
 ano koudhounion: 
   city: "ano koudhounion"
-  accentcity: "\xC3\x81no Koudhoúnion"
+  accentcity: "Áno Koudhoúnion"
 (( ano koufalia )): 
   city: "(( ano koufalia ))"
-  accentcity: "(( \xC3\x81no Koufália ))"
+  accentcity: "(( Áno Koufália ))"
 ano kourounion: 
   city: "ano kourounion"
-  accentcity: "\xC3\x81no Kouroúnion"
+  accentcity: "Áno Kouroúnion"
 ano kourtaga: 
   city: "ano kourtaga"
-  accentcity: "\xC3\x81no Koúrtaga"
+  accentcity: "Áno Koúrtaga"
 ano kranionas: 
   city: "ano kranionas"
-  accentcity: "\xC3\x81no Kraniónas"
+  accentcity: "Áno Kraniónas"
 ano kremmidhia: 
   city: "ano kremmidhia"
-  accentcity: "\xC3\x81no Kremmídhia"
+  accentcity: "Áno Kremmídhia"
 ano ktimeni: 
   city: "ano ktimeni"
-  accentcity: "\xC3\x81no Ktiméni"
+  accentcity: "Áno Ktiméni"
 ano kurtaga: 
   city: "ano kurtaga"
-  accentcity: "\xC3\x81no Kúrtaga"
+  accentcity: "Áno Kúrtaga"
 ano lapsista: 
   city: "ano lapsista"
-  accentcity: "\xC3\x81no Lapsísta"
+  accentcity: "Áno Lapsísta"
 ano lefkimmi: 
   city: "ano lefkimmi"
-  accentcity: "\xC3\x81no Lefkímmi"
+  accentcity: "Áno Lefkímmi"
 ano leika: 
   city: "ano leika"
-  accentcity: "\xC3\x81no Lé\xC3\xAFka"
+  accentcity: "Áno Lé\xC3\xAFka"
 ano lekhonia: 
   city: "ano lekhonia"
-  accentcity: "\xC3\x81no Lekhónia"
+  accentcity: "Áno Lekhónia"
 ano lendekadha: 
   city: "ano lendekadha"
-  accentcity: "\xC3\x81no Lendekádha"
+  accentcity: "Áno Lendekádha"
 ano levkadhion: 
   city: "ano levkadhion"
-  accentcity: "\xC3\x81no Levkádhion"
+  accentcity: "Áno Levkádhion"
 ano levki: 
   city: "ano levki"
-  accentcity: "\xC3\x81no Lévki"
+  accentcity: "Áno Lévki"
 ano liosia: 
   city: "ano liosia"
-  accentcity: "\xC3\x81no Liósia"
+  accentcity: "Áno Liósia"
 (( ano lipochorion )): 
   city: "(( ano lipochorion ))"
-  accentcity: "(( \xC3\x81no Lipochórion ))"
+  accentcity: "(( Áno Lipochórion ))"
 ano lipokhorion: 
   city: "ano lipokhorion"
-  accentcity: "\xC3\x81no Lipokhórion"
+  accentcity: "Áno Lipokhórion"
 ano lithochorion: 
   city: "ano lithochorion"
-  accentcity: "\xC3\x81no Lithochórion"
+  accentcity: "Áno Lithochórion"
 ano livera: 
   city: "ano livera"
-  accentcity: "\xC3\x81no Liverá"
+  accentcity: "Áno Liverá"
 ano loukavitsa: 
   city: "ano loukavitsa"
-  accentcity: "\xC3\x81no Loukávitsa"
+  accentcity: "Áno Loukávitsa"
 ano lousoi: 
   city: "ano lousoi"
-  accentcity: "\xC3\x81no Lousoí"
+  accentcity: "Áno Lousoí"
 ano loutraki: 
   city: "ano loutraki"
   accentcity: "Ano Loutráki"
 ano loutro: 
   city: "ano loutro"
-  accentcity: "\xC3\x81no Loutró"
+  accentcity: "Áno Loutró"
 ano loutron: 
   city: "ano loutron"
-  accentcity: "\xC3\x81no Loutrón"
+  accentcity: "Áno Loutrón"
 ano makrinou: 
   city: "ano makrinou"
-  accentcity: "\xC3\x81no Makrinoú"
+  accentcity: "Áno Makrinoú"
 ano malakion: 
   city: "ano malakion"
-  accentcity: "\xC3\x81no Malákion"
+  accentcity: "Áno Malákion"
 ano malataiikon: 
   city: "ano malataiikon"
-  accentcity: "\xC3\x81no Malataíikon"
+  accentcity: "Áno Malataíikon"
 ano malateikon: 
   city: "ano malateikon"
-  accentcity: "\xC3\x81no Malaté\xC3\xAFkon"
+  accentcity: "Áno Malaté\xC3\xAFkon"
 ano mamakon: 
   city: "ano mamakon"
-  accentcity: "\xC3\x81no Mamákon"
+  accentcity: "Áno Mamákon"
 ano mammako: 
   city: "ano mammako"
-  accentcity: "\xC3\x81no Mammáko"
+  accentcity: "Áno Mammáko"
 ano mamoula: 
   city: "ano mamoula"
-  accentcity: "\xC3\x81no Mámoula"
+  accentcity: "Áno Mámoula"
 ano manolas: 
   city: "ano manolas"
-  accentcity: "\xC3\x81no Manolás"
+  accentcity: "Áno Manolás"
 ano mathrakion: 
   city: "ano mathrakion"
-  accentcity: "\xC3\x81no Mathrákion"
+  accentcity: "Áno Mathrákion"
 ano mavrikion: 
   city: "ano mavrikion"
-  accentcity: "\xC3\x81no Mavríkion"
+  accentcity: "Áno Mavríkion"
 ano mavrolofos: 
   city: "ano mavrolofos"
-  accentcity: "\xC3\x81no Mavrólofos"
+  accentcity: "Áno Mavrólofos"
 ano mazaraki: 
   city: "ano mazaraki"
-  accentcity: "\xC3\x81no Mazaráki"
+  accentcity: "Áno Mazaráki"
 ano mazarakion: 
   city: "ano mazarakion"
-  accentcity: "\xC3\x81no Mazarákion"
+  accentcity: "Áno Mazarákion"
 ano megali ada: 
   city: "ano megali ada"
-  accentcity: "\xC3\x81no Megáli \xC3\x81da"
+  accentcity: "Áno Megáli Áda"
 ano megali adha: 
   city: "ano megali adha"
-  accentcity: "\xC3\x81no Megáli \xC3\x81dha"
+  accentcity: "Áno Megáli Ádha"
 ano melas: 
   city: "ano melas"
-  accentcity: "\xC3\x81no Melás"
+  accentcity: "Áno Melás"
 ano melpia: 
   city: "ano melpia"
-  accentcity: "\xC3\x81no Mélpia"
+  accentcity: "Áno Mélpia"
 ano mera: 
   city: "ano mera"
-  accentcity: "\xC3\x81no Merá"
+  accentcity: "Áno Merá"
 anomeria: 
   city: "anomeria"
   accentcity: "Anomeriá"
 ano meria: 
   city: "ano meria"
-  accentcity: "\xC3\x81no Meriá"
+  accentcity: "Áno Meriá"
 ano meros: 
   city: "ano meros"
-  accentcity: "\xC3\x81no Méros"
+  accentcity: "Áno Méros"
 ano metapa: 
   city: "ano metapa"
-  accentcity: "\xC3\x81no Metápa"
+  accentcity: "Áno Metápa"
 ano militsa: 
   city: "ano militsa"
-  accentcity: "\xC3\x81no Milítsa"
+  accentcity: "Áno Milítsa"
 ano minayia: 
   city: "ano minayia"
-  accentcity: "\xC3\x81no Minayiá"
+  accentcity: "Áno Minayiá"
 ano mirtia: 
   city: "ano mirtia"
-  accentcity: "\xC3\x81no Mirtiá"
+  accentcity: "Áno Mirtiá"
 ano mistros: 
   city: "ano mistros"
-  accentcity: "\xC3\x81no Místros"
+  accentcity: "Áno Místros"
 ano mitikas: 
   city: "ano mitikas"
-  accentcity: "\xC3\x81no Mítikas"
+  accentcity: "Áno Mítikas"
 ano mitrousi: 
   city: "ano mitrousi"
-  accentcity: "\xC3\x81no Mitroúsi"
+  accentcity: "Áno Mitroúsi"
 ano mitrousion: 
   city: "ano mitrousion"
-  accentcity: "\xC3\x81no Mitroúsion"
+  accentcity: "Áno Mitroúsion"
 ano mitrousis: 
   city: "ano mitrousis"
-  accentcity: "\xC3\x81no Mitroúsis"
+  accentcity: "Áno Mitroúsis"
 ano moulia: 
   city: "ano moulia"
-  accentcity: "\xC3\x81no Moúlia"
+  accentcity: "Áno Moúlia"
 ano mousiotitsa: 
   city: "ano mousiotitsa"
-  accentcity: "\xC3\x81no Mousiotítsa"
+  accentcity: "Áno Mousiotítsa"
 ano mousonitsa: 
   city: "ano mousonitsa"
-  accentcity: "\xC3\x81no Mousonítsa"
+  accentcity: "Áno Mousonítsa"
 ano mousounitsa: 
   city: "ano mousounitsa"
-  accentcity: "\xC3\x81no Mousounítsa"
+  accentcity: "Áno Mousounítsa"
 ano mousoura: 
   city: "ano mousoura"
-  accentcity: "\xC3\x81no Moúsoura"
+  accentcity: "Áno Moúsoura"
 ano mousouroi: 
   city: "ano mousouroi"
-  accentcity: "\xC3\x81no Mousoúroi"
+  accentcity: "Áno Mousoúroi"
 ano nevoliani: 
   city: "ano nevoliani"
-  accentcity: "\xC3\x81no Nevóliani"
+  accentcity: "Áno Nevóliani"
 ano nuska: 
   city: "ano nuska"
-  accentcity: "\xC3\x81no Núska"
+  accentcity: "Áno Núska"
 ano orfana: 
   city: "ano orfana"
-  accentcity: "\xC3\x81no Orfaná"
+  accentcity: "Áno Orfaná"
 ano orini: 
   city: "ano orini"
-  accentcity: "\xC3\x81no Oriní"
+  accentcity: "Áno Oriní"
 ano palaeoxari: 
   city: "ano palaeoxari"
   accentcity: "Ano Palaeoxari"
 ano palaiokaria: 
   city: "ano palaiokaria"
-  accentcity: "\xC3\x81no Palaiokariá"
+  accentcity: "Áno Palaiokariá"
 ano palaiokarya: 
   city: "ano palaiokarya"
-  accentcity: "\xC3\x81no Palaiokaryá"
+  accentcity: "Áno Palaiokaryá"
 ano palaiokastro: 
   city: "ano palaiokastro"
-  accentcity: "\xC3\x81no Palaiókastro"
+  accentcity: "Áno Palaiókastro"
 ano palaioxari: 
   city: "ano palaioxari"
-  accentcity: "\xC3\x81no Palaioxári"
+  accentcity: "Áno Palaioxári"
 ano palaioxarion: 
   city: "ano palaioxarion"
-  accentcity: "\xC3\x81no Palaioxárion"
+  accentcity: "Áno Palaioxárion"
 ano paliokaria: 
   city: "ano paliokaria"
-  accentcity: "\xC3\x81no Paliokariá"
+  accentcity: "Áno Paliokariá"
 ano paliokarya: 
   city: "ano paliokarya"
-  accentcity: "\xC3\x81no Paliokaryá"
+  accentcity: "Áno Paliokaryá"
 ano paliozoglopi: 
   city: "ano paliozoglopi"
-  accentcity: "\xC3\x81no Paliozoglópi"
+  accentcity: "Áno Paliozoglópi"
 (( ano paliozoglopi )): 
   city: "(( ano paliozoglopi ))"
-  accentcity: "(( \xC3\x81no Paliozoglópi ))"
+  accentcity: "(( Áno Paliozoglópi ))"
 ano papratskon: 
   city: "ano papratskon"
-  accentcity: "\xC3\x81no Paprátskon"
+  accentcity: "Áno Paprátskon"
 ano paradhision: 
   city: "ano paradhision"
-  accentcity: "\xC3\x81no Paradhísion"
+  accentcity: "Áno Paradhísion"
 ano pavliana: 
   city: "ano pavliana"
-  accentcity: "\xC3\x81no Pavliána"
+  accentcity: "Áno Pavliána"
 ano pedhina: 
   city: "ano pedhina"
-  accentcity: "\xC3\x81no Pedhiná"
+  accentcity: "Áno Pedhiná"
 ano pedina: 
   city: "ano pedina"
-  accentcity: "\xC3\x81no Pediná"
+  accentcity: "Áno Pediná"
 ano perliango: 
   city: "ano perliango"
-  accentcity: "\xC3\x81no Perliángo"
+  accentcity: "Áno Perliángo"
 ano petali: 
   city: "ano petali"
-  accentcity: "\xC3\x81no Petáli"
+  accentcity: "Áno Petáli"
 ano petalion: 
   city: "ano petalion"
-  accentcity: "\xC3\x81no Petálion"
+  accentcity: "Áno Petálion"
 ano petra: 
   city: "ano petra"
-  accentcity: "\xC3\x81no Pétra"
+  accentcity: "Áno Pétra"
 ano pitsa: 
   city: "ano pitsa"
-  accentcity: "\xC3\x81no Pitsá"
+  accentcity: "Áno Pitsá"
 ano pixarion: 
   city: "ano pixarion"
-  accentcity: "\xC3\x81no Pixárion"
+  accentcity: "Áno Pixárion"
 ano platanos: 
   city: "ano platanos"
-  accentcity: "\xC3\x81no Plátanos"
+  accentcity: "Áno Plátanos"
 ano platikambos: 
   city: "ano platikambos"
-  accentcity: "\xC3\x81no Platíkambos"
+  accentcity: "Áno Platíkambos"
 ano polidhendrion: 
   city: "ano polidhendrion"
-  accentcity: "\xC3\x81no Polidhéndrion"
+  accentcity: "Áno Polidhéndrion"
 ano polidhrosos: 
   city: "ano polidhrosos"
-  accentcity: "\xC3\x81no Polídhrosos"
+  accentcity: "Áno Polídhrosos"
 anopolis: 
   city: "anopolis"
   accentcity: "Anópolis"
 ano poroia: 
   city: "ano poroia"
-  accentcity: "\xC3\x81no Poró\xC3\xAFa"
+  accentcity: "Áno Poró\xC3\xAFa"
 ano porroia: 
   city: "ano porroia"
-  accentcity: "\xC3\x81no Porró\xC3\xAFa"
+  accentcity: "Áno Porró\xC3\xAFa"
 ano potamia: 
   city: "ano potamia"
-  accentcity: "\xC3\x81no Potamiá"
+  accentcity: "Áno Potamiá"
 ano poulia: 
   city: "ano poulia"
-  accentcity: "\xC3\x81no Pouliá"
+  accentcity: "Áno Pouliá"
 ano prostovas: 
   city: "ano prostovas"
-  accentcity: "\xC3\x81no Próstovas"
+  accentcity: "Áno Próstovas"
 ano psikhiko: 
   city: "ano psikhiko"
-  accentcity: "\xC3\x81no Psikhikó"
+  accentcity: "Áno Psikhikó"
 ano psikhikon: 
   city: "ano psikhikon"
-  accentcity: "\xC3\x81no Psikhikón"
+  accentcity: "Áno Psikhikón"
 ano pteria: 
   city: "ano pteria"
-  accentcity: "\xC3\x81no Pteriá"
+  accentcity: "Áno Pteriá"
 ano pteri: 
   city: "ano pteri"
-  accentcity: "\xC3\x81no Ptéri"
+  accentcity: "Áno Ptéri"
 ano rachi: 
   city: "ano rachi"
-  accentcity: "\xC3\x81no Ráchi"
+  accentcity: "Áno Ráchi"
 ano rakhi: 
   city: "ano rakhi"
-  accentcity: "\xC3\x81no Rákhi"
+  accentcity: "Áno Rákhi"
 ano ravenia: 
   city: "ano ravenia"
-  accentcity: "\xC3\x81no Ravénia"
+  accentcity: "Áno Ravénia"
 ano retsina: 
   city: "ano retsina"
-  accentcity: "\xC3\x81no Rétsina"
+  accentcity: "Áno Rétsina"
 ano ringlia: 
   city: "ano ringlia"
-  accentcity: "\xC3\x81no Rínglia"
+  accentcity: "Áno Rínglia"
 ano rodhakinon: 
   city: "ano rodhakinon"
-  accentcity: "\xC3\x81no Rodhákinon"
+  accentcity: "Áno Rodhákinon"
 ano rodhonia: 
   city: "ano rodhonia"
-  accentcity: "\xC3\x81no Rodhoniá"
+  accentcity: "Áno Rodhoniá"
 ano rodonia: 
   city: "ano rodonia"
-  accentcity: "\xC3\x81no Rodoniá"
+  accentcity: "Áno Rodoniá"
 anorrakhi: 
   city: "anorrakhi"
   accentcity: "Anorrákhi"
 ano salajak: 
   city: "ano salajak"
-  accentcity: "\xC3\x81no Salaják"
+  accentcity: "Áno Salaják"
 ano salatzak: 
   city: "ano salatzak"
-  accentcity: "\xC3\x81no Salatzák"
+  accentcity: "Áno Salatzák"
 ano salmenikon: 
   city: "ano salmenikon"
-  accentcity: "\xC3\x81no Salménikon"
+  accentcity: "Áno Salménikon"
 ano salmenikos: 
   city: "ano salmenikos"
-  accentcity: "\xC3\x81no Salmeníkos"
+  accentcity: "Áno Salmeníkos"
 ano sangrion: 
   city: "ano sangrion"
-  accentcity: "\xC3\x81no Sangríon"
+  accentcity: "Áno Sangríon"
 ano selitsa: 
   city: "ano selitsa"
-  accentcity: "\xC3\x81no Sélitsa"
+  accentcity: "Áno Sélitsa"
 ano seta: 
   city: "ano seta"
-  accentcity: "\xC3\x81no Séta"
+  accentcity: "Áno Séta"
 ano sfinari: 
   city: "ano sfinari"
-  accentcity: "\xC3\x81no Sfinári"
+  accentcity: "Áno Sfinári"
 ano sfinarion: 
   city: "ano sfinarion"
-  accentcity: "\xC3\x81no Sfinárion"
+  accentcity: "Áno Sfinárion"
 ano siaterli: 
   city: "ano siaterli"
-  accentcity: "\xC3\x81no Siaterlí"
+  accentcity: "Áno Siaterlí"
 ano siaterlion: 
   city: "ano siaterlion"
-  accentcity: "\xC3\x81no Siaterlíon"
+  accentcity: "Áno Siaterlíon"
 ano sikhaina: 
   city: "ano sikhaina"
-  accentcity: "\xC3\x81no Sikhainá"
+  accentcity: "Áno Sikhainá"
 ano simi: 
   city: "ano simi"
-  accentcity: "\xC3\x81no Sími"
+  accentcity: "Áno Sími"
 ano sinoikia: 
   city: "ano sinoikia"
-  accentcity: "\xC3\x81no Sinoikía"
+  accentcity: "Áno Sinoikía"
 ano siros: 
   city: "ano siros"
-  accentcity: "\xC3\x81no Síros"
+  accentcity: "Áno Síros"
 ano skafidhoti: 
   city: "ano skafidhoti"
-  accentcity: "\xC3\x81no Skafidhotí"
+  accentcity: "Áno Skafidhotí"
 ano skafidoti: 
   city: "ano skafidoti"
-  accentcity: "\xC3\x81no Skafidotí"
+  accentcity: "Áno Skafidotí"
 anoskeli: 
   city: "anoskeli"
   accentcity: "Anóskeli"
 ano skholarion: 
   city: "ano skholarion"
-  accentcity: "\xC3\x81no Skholárion"
+  accentcity: "Áno Skholárion"
 ano skotina: 
   city: "ano skotina"
-  accentcity: "\xC3\x81no Skotína"
+  accentcity: "Áno Skotína"
 ano skotousa: 
   city: "ano skotousa"
-  accentcity: "\xC3\x81no Skotoúsa"
+  accentcity: "Áno Skotoúsa"
 ano skotoussa: 
   city: "ano skotoussa"
-  accentcity: "\xC3\x81no Skotoússa"
+  accentcity: "Áno Skotoússa"
 ano soudena: 
   city: "ano soudena"
-  accentcity: "\xC3\x81no Soudená"
+  accentcity: "Áno Soudená"
 ano soudeneika: 
   city: "ano soudeneika"
-  accentcity: "\xC3\x81no Soudené\xC3\xAFka"
+  accentcity: "Áno Soudené\xC3\xAFka"
 ano soudhenaiika: 
   city: "ano soudhenaiika"
-  accentcity: "\xC3\x81no Soudhenaíika"
+  accentcity: "Áno Soudhenaíika"
 ano soudheneika: 
   city: "ano soudheneika"
-  accentcity: "\xC3\x81no Soudhené\xC3\xAFka"
+  accentcity: "Áno Soudhené\xC3\xAFka"
 ano souli: 
   city: "ano souli"
-  accentcity: "\xC3\x81no Soúli"
+  accentcity: "Áno Soúli"
 ano soulima: 
   city: "ano soulima"
-  accentcity: "\xC3\x81no Soulimá"
+  accentcity: "Áno Soulimá"
 ano soulion: 
   city: "ano soulion"
-  accentcity: "\xC3\x81no Soúlion"
+  accentcity: "Áno Soúlion"
 ano sourmena: 
   city: "ano sourmena"
-  accentcity: "\xC3\x81no Soúrmena"
+  accentcity: "Áno Soúrmena"
 ano souvala: 
   city: "ano souvala"
-  accentcity: "\xC3\x81no Souvála"
+  accentcity: "Áno Souvála"
 ano stavros: 
   city: "ano stavros"
-  accentcity: "\xC3\x81no Stavrós"
+  accentcity: "Áno Stavrós"
 ano strapodhion: 
   city: "ano strapodhion"
-  accentcity: "\xC3\x81no Strapódhion"
+  accentcity: "Áno Strapódhion"
 ano strouza: 
   city: "ano strouza"
-  accentcity: "\xC3\x81no Stroúza"
+  accentcity: "Áno Stroúza"
 ano syra: 
   city: "ano syra"
   accentcity: "Ano Syra"
 ano tarsinon: 
   city: "ano tarsinon"
-  accentcity: "\xC3\x81no Tarsinón"
+  accentcity: "Áno Tarsinón"
 ano tarsos: 
   city: "ano tarsos"
-  accentcity: "\xC3\x81no Tarsós"
+  accentcity: "Áno Tarsós"
 ano theodhoraki: 
   city: "ano theodhoraki"
-  accentcity: "\xC3\x81no Theodhoráki"
+  accentcity: "Áno Theodhoráki"
 ano theodhorakion: 
   city: "ano theodhorakion"
-  accentcity: "\xC3\x81no Theodhorákion"
+  accentcity: "Áno Theodhorákion"
 ano theologos: 
   city: "ano theologos"
-  accentcity: "\xC3\x81no Theólogos"
+  accentcity: "Áno Theólogos"
 ano thermai: 
   city: "ano thermai"
-  accentcity: "\xC3\x81no Thérmai"
+  accentcity: "Áno Thérmai"
 ano trikkala: 
   city: "ano trikkala"
-  accentcity: "\xC3\x81no Tríkkala"
+  accentcity: "Áno Tríkkala"
 ano tripodho: 
   city: "ano tripodho"
-  accentcity: "\xC3\x81no Tripódho"
+  accentcity: "Áno Tripódho"
 ano tripodhon: 
   city: "ano tripodhon"
-  accentcity: "\xC3\x81no Tripódhon"
+  accentcity: "Áno Tripódhon"
 ano tzineriana: 
   city: "ano tzineriana"
-  accentcity: "\xC3\x81no Tzinerianá"
+  accentcity: "Áno Tzinerianá"
 ano tzineryiana: 
   city: "ano tzineryiana"
-  accentcity: "\xC3\x81no Tzineryianá"
+  accentcity: "Áno Tzineryianá"
 ano valsamoneron: 
   city: "ano valsamoneron"
-  accentcity: "\xC3\x81no Valsamóneron"
+  accentcity: "Áno Valsamóneron"
 ano valtai: 
   city: "ano valtai"
-  accentcity: "\xC3\x81no Váltai"
+  accentcity: "Áno Váltai"
 ano vanitsa: 
   city: "ano vanitsa"
-  accentcity: "\xC3\x81no Vánitsa"
+  accentcity: "Áno Vánitsa"
 ano vardhatai: 
   city: "ano vardhatai"
-  accentcity: "\xC3\x81no Vardhátai"
+  accentcity: "Áno Vardhátai"
 ano-vardhatais: 
   city: "ano-vardhatais"
-  accentcity: "\xC3\x81no-Vardhátais"
+  accentcity: "Áno-Vardhátais"
 ano varibobi: 
   city: "ano varibobi"
-  accentcity: "\xC3\x81no Varibóbi"
+  accentcity: "Áno Varibóbi"
 ano varibopi: 
   city: "ano varibopi"
-  accentcity: "\xC3\x81no Varibópi"
+  accentcity: "Áno Varibópi"
 ano varimbopi: 
   city: "ano varimbopi"
-  accentcity: "\xC3\x81no Varimbópi"
+  accentcity: "Áno Varimbópi"
 ano varsamoneron: 
   city: "ano varsamoneron"
   accentcity: "Ano Varsamóneron"
 ano vasilika: 
   city: "ano vasilika"
-  accentcity: "\xC3\x81no Vasiliká"
+  accentcity: "Áno Vasiliká"
 ano vasiliki: 
   city: "ano vasiliki"
-  accentcity: "\xC3\x81no Vasilikí"
+  accentcity: "Áno Vasilikí"
 ano vasilikon: 
   city: "ano vasilikon"
-  accentcity: "\xC3\x81no Vasilikón"
+  accentcity: "Áno Vasilikón"
 ano vasilikon i: 
   city: "ano vasilikon i"
-  accentcity: "\xC3\x81no Vasilikón I"
+  accentcity: "Áno Vasilikón I"
 ano vasilikon ii: 
   city: "ano vasilikon ii"
-  accentcity: "\xC3\x81no Vasilikón II"
+  accentcity: "Áno Vasilikón II"
 ano vaskina: 
   city: "ano vaskina"
-  accentcity: "\xC3\x81no Vaskína"
+  accentcity: "Áno Vaskína"
 ano vathia: 
   city: "ano vathia"
-  accentcity: "\xC3\x81no Váthia"
+  accentcity: "Áno Váthia"
 ano vathi: 
   city: "ano vathi"
-  accentcity: "\xC3\x81no Vathí"
+  accentcity: "Áno Vathí"
 ano velisa: 
   city: "ano velisa"
-  accentcity: "\xC3\x81no Velisá"
+  accentcity: "Áno Velisá"
 ano velitsai: 
   city: "ano velitsai"
-  accentcity: "\xC3\x81no Velitsaí"
+  accentcity: "Áno Velitsaí"
 ano verga: 
   city: "ano verga"
-  accentcity: "\xC3\x81no Vérga"
+  accentcity: "Áno Vérga"
 ano verziani: 
   city: "ano verziani"
-  accentcity: "\xC3\x81no Verzianí"
+  accentcity: "Áno Verzianí"
 ano viannos: 
   city: "ano viannos"
-  accentcity: "\xC3\x81no Viánnos"
+  accentcity: "Áno Viánnos"
 ano virou: 
   city: "ano virou"
-  accentcity: "\xC3\x81no Viroú"
+  accentcity: "Áno Viroú"
 ano vitali: 
   city: "ano vitali"
-  accentcity: "\xC3\x81no Vitáli"
+  accentcity: "Áno Vitáli"
 ano vitsa: 
   city: "ano vitsa"
-  accentcity: "\xC3\x81no Vítsa"
+  accentcity: "Áno Vítsa"
 ano vlasia: 
   city: "ano vlasia"
-  accentcity: "\xC3\x81no Vlasía"
+  accentcity: "Áno Vlasía"
 ano vlassia: 
   city: "ano vlassia"
-  accentcity: "\xC3\x81no Vlássia"
+  accentcity: "Áno Vlássia"
 ano vlokhos: 
   city: "ano vlokhos"
-  accentcity: "\xC3\x81no Vlokhós"
+  accentcity: "Áno Vlokhós"
 ano volimai: 
   city: "ano volimai"
-  accentcity: "\xC3\x81no Volímai"
+  accentcity: "Áno Volímai"
 ano volimais: 
   city: "ano volimais"
-  accentcity: "\xC3\x81no Volímais"
+  accentcity: "Áno Volímais"
 ano volos: 
   city: "ano volos"
-  accentcity: "\xC3\x81no Vólos"
+  accentcity: "Áno Vólos"
 ano voskina: 
   city: "ano voskina"
-  accentcity: "\xC3\x81no Voskína"
+  accentcity: "Áno Voskína"
 ano voukolies: 
   city: "ano voukolies"
-  accentcity: "\xC3\x81no Voukoliés"
+  accentcity: "Áno Voukoliés"
 ano vounaina: 
   city: "ano vounaina"
   accentcity: "Ano Voúnaina"
 ano voutaina: 
   city: "ano voutaina"
-  accentcity: "\xC3\x81no Voútaina"
+  accentcity: "Áno Voútaina"
 ano voutina: 
   city: "ano voutina"
-  accentcity: "\xC3\x81no Voútina"
+  accentcity: "Áno Voútina"
 ano vouvai: 
   city: "ano vouvai"
-  accentcity: "\xC3\x81no Voúvai"
+  accentcity: "Áno Voúvai"
 ano vouvas: 
   city: "ano vouvas"
-  accentcity: "\xC3\x81no Voúvas"
+  accentcity: "Áno Voúvas"
 ano vrondou: 
   city: "ano vrondou"
-  accentcity: "\xC3\x81no Vrondoú"
+  accentcity: "Áno Vrondoú"
 ano vrontou: 
   city: "ano vrontou"
-  accentcity: "\xC3\x81no Vróntou"
+  accentcity: "Áno Vróntou"
 ano xechoron: 
   city: "ano xechoron"
   accentcity: "Ano Xéchoron"
 ano xekhoron: 
   city: "ano xekhoron"
-  accentcity: "\xC3\x81no Xékhoron"
+  accentcity: "Áno Xékhoron"
 ano xirokhori: 
   city: "ano xirokhori"
-  accentcity: "\xC3\x81no Xirokhóri"
+  accentcity: "Áno Xirokhóri"
 ano yerakari: 
   city: "ano yerakari"
-  accentcity: "\xC3\x81no Yerakári"
+  accentcity: "Áno Yerakári"
 ano yerakarion: 
   city: "ano yerakarion"
-  accentcity: "\xC3\x81no Yerakaríon"
+  accentcity: "Áno Yerakaríon"
 anoyia: 
   city: "anoyia"
   accentcity: "Anóyia"
 ano yiannaioi: 
   city: "ano yiannaioi"
-  accentcity: "\xC3\x81no Yiannaíoi"
+  accentcity: "Áno Yiannaíoi"
 ano yianneika: 
   city: "ano yianneika"
-  accentcity: "\xC3\x81no Yianné\xC3\xAFka"
+  accentcity: "Áno Yianné\xC3\xAFka"
 anoyi: 
   city: "anoyi"
   accentcity: "Anoyí"
@@ -3965,34 +3965,34 @@ anoyion:
   accentcity: "Anóyion"
 ano zaimoglion: 
   city: "ano zaimoglion"
-  accentcity: "\xC3\x81no Za\xC3\xAFmóglion"
+  accentcity: "Áno Za\xC3\xAFmóglion"
 ano zakhlorou: 
   city: "ano zakhlorou"
-  accentcity: "\xC3\x81no Zakhloroú"
+  accentcity: "Áno Zakhloroú"
 ano zalogkon: 
   city: "ano zalogkon"
   accentcity: "Ano Zálogkon"
 ano zalongon: 
   city: "ano zalongon"
-  accentcity: "\xC3\x81no Zálongon"
+  accentcity: "Áno Zálongon"
 ano zaros: 
   city: "ano zaros"
-  accentcity: "\xC3\x81no Zarós"
+  accentcity: "Áno Zarós"
 ano zervochori: 
   city: "ano zervochori"
-  accentcity: "\xC3\x81no Zervochóri"
+  accentcity: "Áno Zervochóri"
 ano zervochorion: 
   city: "ano zervochorion"
-  accentcity: "\xC3\x81no Zervochórion"
+  accentcity: "Áno Zervochórion"
 ano zervokhori: 
   city: "ano zervokhori"
-  accentcity: "\xC3\x81no Zervokhóri"
+  accentcity: "Áno Zervokhóri"
 ano zervokhorion: 
   city: "ano zervokhorion"
-  accentcity: "\xC3\x81no Zervokhórion"
+  accentcity: "Áno Zervokhórion"
 ano ziria: 
   city: "ano ziria"
-  accentcity: "\xC3\x81no Zíria"
+  accentcity: "Áno Zíria"
 anrilia: 
   city: "anrilia"
   accentcity: "Anriliá"
@@ -4004,10 +4004,10 @@ antheron:
   accentcity: "Antherón"
 anthia: 
   city: "anthia"
-  accentcity: "\xC3\x81nthia"
+  accentcity: "Ánthia"
 anthia iteon: 
   city: "anthia iteon"
-  accentcity: "\xC3\x81nthia Iteón"
+  accentcity: "Ánthia Iteón"
 anthili: 
   city: "anthili"
   accentcity: "Anthíli"
@@ -4085,7 +4085,7 @@ antirhion:
   accentcity: "Antirhion"
 antissa: 
   city: "antissa"
-  accentcity: "\xC3\x81ntissa"
+  accentcity: "Ántissa"
 antonaiika: 
   city: "antonaiika"
   accentcity: "Antonaíika"
@@ -4094,13 +4094,13 @@ antrachlias:
   accentcity: "Antrachliás"
 anydro: 
   city: "anydro"
-  accentcity: "\xC3\x81nydro"
+  accentcity: "Ánydro"
 (( anydron )): 
   city: "(( anydron ))"
-  accentcity: "(( \xC3\x81nydron ))"
+  accentcity: "(( Ánydron ))"
 anydron: 
   city: "anydron"
-  accentcity: "\xC3\x81nydron"
+  accentcity: "Ánydron"
 aofaloti: 
   city: "aofaloti"
   accentcity: "Aofalotí"
@@ -4169,7 +4169,7 @@ apikia:
   accentcity: "Apikia"
 apion: 
   city: "apion"
-  accentcity: "\xC3\x81pion"
+  accentcity: "Ápion"
 apiranthos: 
   city: "apiranthos"
   accentcity: "Apíranthos"
@@ -4298,16 +4298,16 @@ aprovatou:
   accentcity: "Aprovátou"
 apsalos: 
   city: "apsalos"
-  accentcity: "\xC3\x81psalos"
+  accentcity: "Ápsalos"
 aptera: 
   city: "aptera"
-  accentcity: "\xC3\x81ptera"
+  accentcity: "Áptera"
 aqrafi: 
   city: "aqrafi"
   accentcity: "Aqrafi"
 arachos: 
   city: "arachos"
-  accentcity: "\xC3\x81rachos"
+  accentcity: "Árachos"
 arachova: 
   city: "arachova"
   accentcity: "Aráchova"
@@ -4334,7 +4334,7 @@ arakhnaion:
   accentcity: "Arakhnaíon"
 arakhos: 
   city: "arakhos"
-  accentcity: "\xC3\x81rakhos"
+  accentcity: "Árakhos"
 arakhova: 
   city: "arakhova"
   accentcity: "Arákhova"
@@ -4373,7 +4373,7 @@ arapolakka:
   accentcity: "Arapólakka"
 aratos: 
   city: "aratos"
-  accentcity: "\xC3\x81ratos"
+  accentcity: "Áratos"
 aravissos: 
   city: "aravissos"
   accentcity: "Aravissós"
@@ -4382,7 +4382,7 @@ aravonitsa:
   accentcity: "Aravonítsa"
 araxos: 
   city: "araxos"
-  accentcity: "\xC3\x81raxos"
+  accentcity: "Áraxos"
 arbaouti: 
   city: "arbaouti"
   accentcity: "Arbaoúti"
@@ -4427,7 +4427,7 @@ ardanovon:
   accentcity: "Ardánovon"
 ardassa: 
   city: "ardassa"
-  accentcity: "\xC3\x81rdassa"
+  accentcity: "Árdassa"
 ardhakhthia: 
   city: "ardhakhthia"
   accentcity: "Ardhákhthia"
@@ -4439,7 +4439,7 @@ ardhaktia:
   accentcity: "Ardháktia"
 ardhaktos: 
   city: "ardhaktos"
-  accentcity: "\xC3\x81rdhaktos"
+  accentcity: "Árdhaktos"
 ardhameri: 
   city: "ardhameri"
   accentcity: "Ardhaméri"
@@ -4457,7 +4457,7 @@ ardhanion:
   accentcity: "Ardhánion"
 ardhassa: 
   city: "ardhassa"
-  accentcity: "\xC3\x81rdhassa"
+  accentcity: "Árdhassa"
 ardhea: 
   city: "ardhea"
   accentcity: "Ardhéa"
@@ -4469,16 +4469,16 @@ ardhomitsa:
   accentcity: "Ardhomítsa"
 ardhosi: 
   city: "ardhosi"
-  accentcity: "\xC3\x81rdhosi"
+  accentcity: "Árdhosi"
 ardhosis: 
   city: "ardhosis"
-  accentcity: "\xC3\x81rdhosis"
+  accentcity: "Árdhosis"
 ardhosos: 
   city: "ardhosos"
-  accentcity: "\xC3\x81rdhosos"
+  accentcity: "Árdhosos"
 ardosis: 
   city: "ardosis"
-  accentcity: "\xC3\x81rdosis"
+  accentcity: "Árdosis"
 arduan: 
   city: "arduan"
   accentcity: "Arduán"
@@ -4538,7 +4538,7 @@ argenia:
   accentcity: "Argenia"
 argennos: 
   city: "argennos"
-  accentcity: "\xC3\x81rgennos"
+  accentcity: "Árgennos"
 arghinonda: 
   city: "arghinonda"
   accentcity: "Arghinonda"
@@ -4553,10 +4553,10 @@ argolikon:
   accentcity: "Argolikón"
 argos: 
   city: "argos"
-  accentcity: "\xC3\x81rgos"
+  accentcity: "Árgos"
 argos orestikon: 
   city: "argos orestikon"
-  accentcity: "\xC3\x81rgos Orestikón"
+  accentcity: "Árgos Orestikón"
 argostoli: 
   city: "argostoli"
   accentcity: "Argostóli"
@@ -4607,7 +4607,7 @@ argyroupolis:
   accentcity: "Argyroupolis"
 aria: 
   city: "aria"
-  accentcity: "\xC3\x81ria"
+  accentcity: "Ária"
 ariadha: 
   city: "ariadha"
   accentcity: "Ariádha"
@@ -4643,7 +4643,7 @@ ariokhorion:
   accentcity: "Ariokhórion"
 aris: 
   city: "aris"
-  accentcity: "\xC3\x81ris"
+  accentcity: "Áris"
 aristi: 
   city: "aristi"
   accentcity: "Arísti"
@@ -4778,10 +4778,10 @@ arkouditsi:
   accentcity: "Arkoudítsi"
 arla: 
   city: "arla"
-  accentcity: "\xC3\x81rla"
+  accentcity: "Árla"
 arma: 
   city: "arma"
-  accentcity: "\xC3\x81rma"
+  accentcity: "Árma"
 armakha: 
   city: "armakha"
   accentcity: "Armákha"
@@ -4793,7 +4793,7 @@ armanoyia:
   accentcity: "Armanóyia"
 armata: 
   city: "armata"
-  accentcity: "\xC3\x81rmata"
+  accentcity: "Ármata"
 armatlikon: 
   city: "armatlikon"
   accentcity: "Armatlikón"
@@ -4808,7 +4808,7 @@ armatovon:
   accentcity: "Armátovon"
 armbounas: 
   city: "armbounas"
-  accentcity: "\xC3\x81rmbounas"
+  accentcity: "Ármbounas"
 armenades: 
   city: "armenades"
   accentcity: "Armenádes"
@@ -4838,7 +4838,7 @@ armenokhorion:
   accentcity: "Armenokhórion"
 armenskon: 
   city: "armenskon"
-  accentcity: "\xC3\x81rmenskon"
+  accentcity: "Ármenskon"
 armiropotamos: 
   city: "armiropotamos"
   accentcity: "Armiropótamos"
@@ -4853,7 +4853,7 @@ armyropotamo:
   accentcity: "Armyropotamo"
 arna: 
   city: "arna"
-  accentcity: "\xC3\x81rna"
+  accentcity: "Árna"
 arnadhos: 
   city: "arnadhos"
   accentcity: "Arnádhos"
@@ -4868,13 +4868,13 @@ arnas:
   accentcity: "Arnás"
 arnautli: 
   city: "arnautli"
-  accentcity: "Arna\xC3\xBCtlí"
+  accentcity: "Arnaütlí"
 arnianoyia: 
   city: "arnianoyia"
   accentcity: "Arnianóyia"
 arni: 
   city: "arni"
-  accentcity: "\xC3\x81rni"
+  accentcity: "Árni"
 arnikon: 
   city: "arnikon"
   accentcity: "Arnikón"
@@ -4883,7 +4883,7 @@ arnikou:
   accentcity: "Arnikoú"
 arnissa: 
   city: "arnissa"
-  accentcity: "\xC3\x81rnissa"
+  accentcity: "Árnissa"
 arnita: 
   city: "arnita"
   accentcity: "Arnita"
@@ -4931,7 +4931,7 @@ arphara:
   accentcity: "Arphara"
 arpissa: 
   city: "arpissa"
-  accentcity: "\xC3\x81rpissa"
+  accentcity: "Árpissa"
 arpitsa: 
   city: "arpitsa"
   accentcity: "Arpítsa"
@@ -4958,7 +4958,7 @@ arsinoi:
   accentcity: "Arsinói"
 arta: 
   city: "arta"
-  accentcity: "\xC3\x81rta"
+  accentcity: "Árta"
 artemion: 
   city: "artemion"
   accentcity: "Artémion"
@@ -4985,7 +4985,7 @@ artikion:
   accentcity: "Artíkion"
 artissa: 
   city: "artissa"
-  accentcity: "\xC3\x81rtissa"
+  accentcity: "Ártissa"
 artopoula: 
   city: "artopoula"
   accentcity: "Artopoúla"
@@ -5045,25 +5045,25 @@ arvitanokhori:
   accentcity: "Arvitanokhóri"
 arvitsa: 
   city: "arvitsa"
-  accentcity: "\xC3\x81rvitsa"
+  accentcity: "Árvitsa"
 aryennos: 
   city: "aryennos"
-  accentcity: "\xC3\x81ryennos"
+  accentcity: "Áryennos"
 aryenos: 
   city: "aryenos"
-  accentcity: "\xC3\x81ryenos"
+  accentcity: "Áryenos"
 aryilia: 
   city: "aryilia"
   accentcity: "Aryiliá"
 aryillos: 
   city: "aryillos"
-  accentcity: "\xC3\x81ryillos"
+  accentcity: "Áryillos"
 aryilokhorion: 
   city: "aryilokhorion"
   accentcity: "Aryilokhórion"
 aryilos: 
   city: "aryilos"
-  accentcity: "\xC3\x81ryilos"
+  accentcity: "Áryilos"
 aryinia: 
   city: "aryinia"
   accentcity: "Aryínia"
@@ -5126,7 +5126,7 @@ aryithea:
   accentcity: "Aryithéa"
 arzos: 
   city: "arzos"
-  accentcity: "\xC3\x81rzos"
+  accentcity: "Árzos"
 asaa-mahale: 
   city: "asaa-mahale"
   accentcity: "Asaá-Mahalé"
@@ -5138,7 +5138,7 @@ asanion:
   accentcity: "Asánion"
 asari: 
   city: "asari"
-  accentcity: "\xC3\x81sari"
+  accentcity: "Ásari"
 asarlik: 
   city: "asarlik"
   accentcity: "Asarlík"
@@ -5177,7 +5177,7 @@ asfendhon:
   accentcity: "Asféndhon"
 asfendhos: 
   city: "asfendhos"
-  accentcity: "\xC3\x81sfendhos"
+  accentcity: "Ásfendhos"
 asfendiles: 
   city: "asfendiles"
   accentcity: "Asfendilés"
@@ -5240,7 +5240,7 @@ askifou:
   accentcity: "Askífou"
 askira: 
   city: "askira"
-  accentcity: "\xC3\x81skira"
+  accentcity: "Áskira"
 askitai: 
   city: "askitai"
   accentcity: "Askitaí"
@@ -5285,13 +5285,13 @@ asopos:
   accentcity: "Asopós"
 asos: 
   city: "asos"
-  accentcity: "\xC3\x81sos"
+  accentcity: "Ásos"
 asoutena: 
   city: "asoutena"
   accentcity: "Asoútena"
 asova: 
   city: "asova"
-  accentcity: "\xC3\x81sova"
+  accentcity: "Ásova"
 aspiotades: 
   city: "aspiotades"
   accentcity: "Aspiotádes"
@@ -5303,7 +5303,7 @@ asprakoi:
   accentcity: "Asprakoí"
 aspra nera: 
   city: "aspra nera"
-  accentcity: "\xC3\x81spra Nerá"
+  accentcity: "Áspra Nerá"
 asprangeloi: 
   city: "asprangeloi"
   accentcity: "Asprángeloi"
@@ -5312,13 +5312,13 @@ aspras:
   accentcity: "Asprás"
 aspra spitia: 
   city: "aspra spitia"
-  accentcity: "\xC3\x81spra Spítia"
+  accentcity: "Áspra Spítia"
 aspria: 
   city: "aspria"
   accentcity: "Aspriá"
 aspro: 
   city: "aspro"
-  accentcity: "\xC3\x81spro"
+  accentcity: "Áspro"
 asprochoma: 
   city: "asprochoma"
   accentcity: "Aspróchoma"
@@ -5345,7 +5345,7 @@ asprokklisia:
   accentcity: "Asprokklisiá"
 aspron: 
   city: "aspron"
-  accentcity: "\xC3\x81spron"
+  accentcity: "Áspron"
 asproneri: 
   city: "asproneri"
   accentcity: "Aspronéri"
@@ -5354,7 +5354,7 @@ aspronerion:
   accentcity: "Aspronérion"
 aspro nero: 
   city: "aspro nero"
-  accentcity: "\xC3\x81spro Neró"
+  accentcity: "Áspro Neró"
 aspropilia: 
   city: "aspropilia"
   accentcity: "Aspropiliá"
@@ -5378,7 +5378,7 @@ asprorrevma:
   accentcity: "Asprórrevma"
 aspros: 
   city: "aspros"
-  accentcity: "\xC3\x81spros"
+  accentcity: "Áspros"
 asprosikia: 
   city: "asprosikia"
   accentcity: "Asprosikiá"
@@ -5417,19 +5417,19 @@ asproyia:
   accentcity: "Aspróyia"
 assa: 
   city: "assa"
-  accentcity: "\xC3\x81ssa"
+  accentcity: "Ássa"
 assini: 
   city: "assini"
   accentcity: "Assíni"
 assiros: 
   city: "assiros"
-  accentcity: "\xC3\x81ssiros"
+  accentcity: "Ássiros"
 assirotoi: 
   city: "assirotoi"
   accentcity: "Assirótoi"
 assos: 
   city: "assos"
-  accentcity: "\xC3\x81ssos"
+  accentcity: "Ássos"
 astako: 
   city: "astako"
   accentcity: "Astako"
@@ -5477,10 +5477,10 @@ astratigos:
   accentcity: "Astrátigos"
 astrikas: 
   city: "astrikas"
-  accentcity: "\xC3\x81strikas"
+  accentcity: "Ástrikas"
 astrikos: 
   city: "astrikos"
-  accentcity: "\xC3\x81strikos"
+  accentcity: "Ástrikos"
 astris: 
   city: "astris"
   accentcity: "Astrís"
@@ -5498,7 +5498,7 @@ astrochorion:
   accentcity: "Astrochórion"
 astros: 
   city: "astros"
-  accentcity: "\xC3\x81stros"
+  accentcity: "Ástros"
 astrova: 
   city: "astrova"
   accentcity: "Astróva"
@@ -5630,16 +5630,16 @@ athinioi:
   accentcity: "Athinioí"
 athira: 
   city: "athira"
-  accentcity: "\xC3\x81thira"
+  accentcity: "Áthira"
 athiras: 
   city: "athiras"
   accentcity: "Athíras"
 athitos: 
   city: "athitos"
-  accentcity: "\xC3\x81thitos"
+  accentcity: "Áthitos"
 athyra: 
   city: "athyra"
-  accentcity: "\xC3\x81thyra"
+  accentcity: "Áthyra"
 atrapos: 
   city: "atrapos"
   accentcity: "Atrapós"
@@ -5678,13 +5678,13 @@ atsoupadhes:
   accentcity: "Atsoupádhes"
 attali: 
   city: "attali"
-  accentcity: "\xC3\x81ttali"
+  accentcity: "Áttali"
 attiki: 
   city: "attiki"
   accentcity: "Attikí"
 auioi theodhoroi: 
   city: "auioi theodhoroi"
-  accentcity: "\xC3\x81uioi Theódhoroi"
+  accentcity: "Áuioi Theódhoroi"
 avadhou: 
   city: "avadhou"
   accentcity: "Avadhoú"
@@ -5699,10 +5699,10 @@ avaritsa:
   accentcity: "Avarítsa"
 avas: 
   city: "avas"
-  accentcity: "\xC3\x81vas"
+  accentcity: "Ávas"
 avaton: 
   city: "avaton"
-  accentcity: "\xC3\x81vaton"
+  accentcity: "Ávaton"
 avdela: 
   city: "avdela"
   accentcity: "Avdela"
@@ -5726,7 +5726,7 @@ avdhellas:
   accentcity: "Avdhellás"
 avdhira: 
   city: "avdhira"
-  accentcity: "\xC3\x81vdhira"
+  accentcity: "Ávdhira"
 avdhou: 
   city: "avdhou"
   accentcity: "Avdhoú"
@@ -5738,7 +5738,7 @@ avdhouliana:
   accentcity: "Avdhoulianá"
 averna: 
   city: "averna"
-  accentcity: "\xC3\x81verna"
+  accentcity: "Áverna"
 avernai: 
   city: "avernai"
   accentcity: "Avérnai"
@@ -5768,7 +5768,7 @@ avgonyma:
   accentcity: "Avgónyma"
 avgos: 
   city: "avgos"
-  accentcity: "\xC3\x81vgos"
+  accentcity: "Ávgos"
 avia: 
   city: "avia"
   accentcity: "Avía"
@@ -5849,10 +5849,10 @@ avorani:
   accentcity: "Avórani"
 avoros: 
   city: "avoros"
-  accentcity: "\xC3\x81voros"
+  accentcity: "Ávoros"
 avra: 
   city: "avra"
-  accentcity: "\xC3\x81vra"
+  accentcity: "Ávra"
 avrakonde: 
   city: "avrakonde"
   accentcity: "Avrakónde"
@@ -5924,7 +5924,7 @@ ayeli:
   accentcity: "Ayéli"
 ayeni: 
   city: "ayeni"
-  accentcity: "\xC3\x81yeni"
+  accentcity: "Áyeni"
 ayeranos: 
   city: "ayeranos"
   accentcity: "Ayeranós"
@@ -5939,7 +5939,7 @@ ayia anastasia:
   accentcity: "Ayía Anastasía"
 ayia anna: 
   city: "ayia anna"
-  accentcity: "Ayía \xC3\x81nna"
+  accentcity: "Ayía Ánna"
 ayia: 
   city: "ayia"
   accentcity: "Ayiá"
@@ -5969,7 +5969,7 @@ ayia galini:
   accentcity: "Ayía Galíni"
 ayiai paraskiai: 
   city: "ayiai paraskiai"
-  accentcity: "\xC3\x81yiai Paraskiaí"
+  accentcity: "Áyiai Paraskiaí"
 ayia irini: 
   city: "ayia irini"
   accentcity: "Ayía Iríni"
@@ -6008,7 +6008,7 @@ ayia roumeli:
   accentcity: "Ayía Roúmeli"
 ayias: 
   city: "ayias"
-  accentcity: "\xC3\x81yias"
+  accentcity: "Áyias"
 ayia semni: 
   city: "ayia semni"
   accentcity: "Ayía Semní"
@@ -6077,37 +6077,37 @@ ayiofillos:
   accentcity: "Ayiófillos"
 ayioi anaryiroi: 
   city: "ayioi anaryiroi"
-  accentcity: "\xC3\x81yioi Anáryiroi"
+  accentcity: "Áyioi Anáryiroi"
 ayioi apostoloi: 
   city: "ayioi apostoloi"
-  accentcity: "\xC3\x81yioi Apóstoloi"
+  accentcity: "Áyioi Apóstoloi"
 ayioi asomatoi: 
   city: "ayioi asomatoi"
-  accentcity: "\xC3\x81yioi Asómatoi"
+  accentcity: "Áyioi Asómatoi"
 ayioi: 
   city: "ayioi"
-  accentcity: "\xC3\x81yioi"
+  accentcity: "Áyioi"
 ayioi dheka: 
   city: "ayioi dheka"
-  accentcity: "\xC3\x81yioi Dhéka"
+  accentcity: "Áyioi Dhéka"
 ayioi dhouli: 
   city: "ayioi dhouli"
-  accentcity: "\xC3\x81yioi Dhoúli"
+  accentcity: "Áyioi Dhoúli"
 ayioi dhouloi: 
   city: "ayioi dhouloi"
-  accentcity: "\xC3\x81yioi Dhoúloi"
+  accentcity: "Áyioi Dhoúloi"
 ayioi pandes: 
   city: "ayioi pandes"
-  accentcity: "\xC3\x81yioi Pándes"
+  accentcity: "Áyioi Pándes"
 ayioi saranda: 
   city: "ayioi saranda"
-  accentcity: "\xC3\x81yioi Saránda"
+  accentcity: "Áyioi Saránda"
 ayioi taxiarkhai: 
   city: "ayioi taxiarkhai"
-  accentcity: "\xC3\x81yioi Taxiárkhai"
+  accentcity: "Áyioi Taxiárkhai"
 ayioi theodhoroi: 
   city: "ayioi theodhoroi"
-  accentcity: "\xC3\x81yioi Theódhoroi"
+  accentcity: "Áyioi Theódhoroi"
 ayiokhori: 
   city: "ayiokhori"
   accentcity: "Ayiokhóri"
@@ -6122,7 +6122,7 @@ ayionerion:
   accentcity: "Ayionérion"
 ayion gala: 
   city: "ayion gala"
-  accentcity: "\xC3\x81yion Gála"
+  accentcity: "Áyion Gála"
 ayionori: 
   city: "ayionori"
   accentcity: "Ayiónori"
@@ -6131,10 +6131,10 @@ ayionorion:
   accentcity: "Ayionórion"
 ayion pneuma: 
   city: "ayion pneuma"
-  accentcity: "\xC3\x81yion Pnéuma"
+  accentcity: "Áyion Pnéuma"
 ayion pnevma: 
   city: "ayion pnevma"
-  accentcity: "\xC3\x81yion Pnévma"
+  accentcity: "Áyion Pnévma"
 ayiopiyi: 
   city: "ayiopiyi"
   accentcity: "Ayiopiyí"
@@ -6143,283 +6143,283 @@ ayioryitika:
   accentcity: "Ayioryítika"
 ayios adhrianos: 
   city: "ayios adhrianos"
-  accentcity: "\xC3\x81yios Adhrianós"
+  accentcity: "Áyios Adhrianós"
 ayios akakios: 
   city: "ayios akakios"
-  accentcity: "\xC3\x81yios Akákios"
+  accentcity: "Áyios Akákios"
 ayios akhillios: 
   city: "ayios akhillios"
-  accentcity: "\xC3\x81yios Akhíllios"
+  accentcity: "Áyios Akhíllios"
 ayios alexandhros: 
   city: "ayios alexandhros"
-  accentcity: "\xC3\x81yios Aléxandhros"
+  accentcity: "Áyios Aléxandhros"
 ayios alexandros: 
   city: "ayios alexandros"
-  accentcity: "\xC3\x81yios Aléxandros"
+  accentcity: "Áyios Aléxandros"
 ayios andhreas: 
   city: "ayios andhreas"
-  accentcity: "\xC3\x81yios Andhreas"
+  accentcity: "Áyios Andhreas"
 ayios andonias: 
   city: "ayios andonias"
-  accentcity: "\xC3\x81yios Andónias"
+  accentcity: "Áyios Andónias"
 ayios andonios: 
   city: "ayios andonios"
-  accentcity: "\xC3\x81yios Andónios"
+  accentcity: "Áyios Andónios"
 ayios andreas: 
   city: "ayios andreas"
-  accentcity: "\xC3\x81yios Andréas"
+  accentcity: "Áyios Andréas"
 ayios antonios: 
   city: "ayios antonios"
-  accentcity: "\xC3\x81yios Antónios"
+  accentcity: "Áyios Antónios"
 ayios arsenios: 
   city: "ayios arsenios"
-  accentcity: "\xC3\x81yios Arsénios"
+  accentcity: "Áyios Arsénios"
 ayios artemios: 
   city: "ayios artemios"
-  accentcity: "\xC3\x81yios Artémios"
+  accentcity: "Áyios Artémios"
 ayios astratigos: 
   city: "ayios astratigos"
-  accentcity: "\xC3\x81yios Astrátigos"
+  accentcity: "Áyios Astrátigos"
 ayios athanasios: 
   city: "ayios athanasios"
-  accentcity: "\xC3\x81yios Athanásios"
+  accentcity: "Áyios Athanásios"
 ayios: 
   city: "ayios"
-  accentcity: "\xC3\x81yios"
+  accentcity: "Áyios"
 ayios dhikaios: 
   city: "ayios dhikaios"
-  accentcity: "\xC3\x81yios Dhikaíos"
+  accentcity: "Áyios Dhikaíos"
 ayios dhimitrio: 
   city: "ayios dhimitrio"
-  accentcity: "\xC3\x81yios Dhimitrió"
+  accentcity: "Áyios Dhimitrió"
 ayios dhimitrios: 
   city: "ayios dhimitrios"
-  accentcity: "\xC3\x81yios Dhimítrios"
+  accentcity: "Áyios Dhimítrios"
 ayios dhonatos: 
   city: "ayios dhonatos"
-  accentcity: "\xC3\x81yios Dhonátos"
+  accentcity: "Áyios Dhonátos"
 ayios elisaios: 
   city: "ayios elisaios"
-  accentcity: "\xC3\x81yios Elisaíos"
+  accentcity: "Áyios Elisaíos"
 ayios elissaios: 
   city: "ayios elissaios"
-  accentcity: "\xC3\x81yios Elissaíos"
+  accentcity: "Áyios Elissaíos"
 ayios evstratios: 
   city: "ayios evstratios"
-  accentcity: "\xC3\x81yios Evstrátios"
+  accentcity: "Áyios Evstrátios"
 ayios floros: 
   city: "ayios floros"
-  accentcity: "\xC3\x81yios Flóros"
+  accentcity: "Áyios Flóros"
 ayios fokas: 
   city: "ayios fokas"
-  accentcity: "\xC3\x81yios Fokás"
+  accentcity: "Áyios Fokás"
 ayios fotios: 
   city: "ayios fotios"
-  accentcity: "\xC3\x81yios Fótios"
+  accentcity: "Áyios Fótios"
 ayios ilias: 
   city: "ayios ilias"
-  accentcity: "\xC3\x81yios Ilías"
+  accentcity: "Áyios Ilías"
 ayios ioannis: 
   city: "ayios ioannis"
-  accentcity: "\xC3\x81yios Ioánnis"
+  accentcity: "Áyios Ioánnis"
 ayios ioannis kareas: 
   city: "ayios ioannis kareas"
-  accentcity: "\xC3\x81yios Ioánnis Karéas"
+  accentcity: "Áyios Ioánnis Karéas"
 ayios ioannis prodhromos: 
   city: "ayios ioannis prodhromos"
-  accentcity: "\xC3\x81yios Ioánnis Pródhromos"
+  accentcity: "Áyios Ioánnis Pródhromos"
 ayios ioannis theologos: 
   city: "ayios ioannis theologos"
-  accentcity: "\xC3\x81yios Ioánnis Theológos"
+  accentcity: "Áyios Ioánnis Theológos"
 ayios isidhoros: 
   city: "ayios isidhoros"
-  accentcity: "\xC3\x81yios Isídhoros"
+  accentcity: "Áyios Isídhoros"
 ayios kharalambos: 
   city: "ayios kharalambos"
-  accentcity: "\xC3\x81yios Kharálambos"
+  accentcity: "Áyios Kharálambos"
 ayios khristoforos: 
   city: "ayios khristoforos"
-  accentcity: "\xC3\x81yios Khristóforos"
+  accentcity: "Áyios Khristóforos"
 ayios kiprianos: 
   city: "ayios kiprianos"
-  accentcity: "\xC3\x81yios Kiprianós"
+  accentcity: "Áyios Kiprianós"
 ayios kirikos: 
   city: "ayios kirikos"
-  accentcity: "\xC3\x81yios Kírikos"
+  accentcity: "Áyios Kírikos"
 ayios kirillos: 
   city: "ayios kirillos"
-  accentcity: "\xC3\x81yios Kírillos"
+  accentcity: "Áyios Kírillos"
 ayios kirilos: 
   city: "ayios kirilos"
   accentcity: "Ayios Kírilos"
 ayios kirix: 
   city: "ayios kirix"
-  accentcity: "\xC3\x81yios Kírix"
+  accentcity: "Áyios Kírix"
 ayios konstandinos: 
   city: "ayios konstandinos"
-  accentcity: "\xC3\x81yios Konstandínos"
+  accentcity: "Áyios Konstandínos"
 ayios kosmas: 
   city: "ayios kosmas"
-  accentcity: "\xC3\x81yios Kosmás"
+  accentcity: "Áyios Kosmás"
 ayios lavrendios: 
   city: "ayios lavrendios"
-  accentcity: "\xC3\x81yios Lavréndios"
+  accentcity: "Áyios Lavréndios"
 ayios leon: 
   city: "ayios leon"
-  accentcity: "\xC3\x81yios Léon"
+  accentcity: "Áyios Léon"
 ayios loukas: 
   city: "ayios loukas"
-  accentcity: "\xC3\x81yios Loukás"
+  accentcity: "Áyios Loukás"
 ayios mamas: 
   city: "ayios mamas"
-  accentcity: "\xC3\x81yios Mámas"
+  accentcity: "Áyios Mámas"
 ayios mammas: 
   city: "ayios mammas"
-  accentcity: "\xC3\x81yios Mámmas"
+  accentcity: "Áyios Mámmas"
 ayios markos: 
   city: "ayios markos"
-  accentcity: "\xC3\x81yios Márkos"
+  accentcity: "Áyios Márkos"
 ayios matthaios: 
   city: "ayios matthaios"
-  accentcity: "\xC3\x81yios Matthaíos"
+  accentcity: "Áyios Matthaíos"
 ayios meletios: 
   city: "ayios meletios"
-  accentcity: "\xC3\x81yios Melétios"
+  accentcity: "Áyios Melétios"
 ayios merkourios: 
   city: "ayios merkourios"
-  accentcity: "\xC3\x81yios Merkoúrios"
+  accentcity: "Áyios Merkoúrios"
 ayios merkourlos: 
   city: "ayios merkourlos"
   accentcity: "Ayios Merkourlos"
 ayios minas: 
   city: "ayios minas"
-  accentcity: "\xC3\x81yios Minás"
+  accentcity: "Áyios Minás"
 ayios miron: 
   city: "ayios miron"
-  accentcity: "\xC3\x81yios Míron"
+  accentcity: "Áyios Míron"
 ayios nestor: 
   city: "ayios nestor"
-  accentcity: "\xC3\x81yios Néstor"
+  accentcity: "Áyios Néstor"
 ayios nikitas: 
   city: "ayios nikitas"
-  accentcity: "\xC3\x81yios Nikítas"
+  accentcity: "Áyios Nikítas"
 ayios nikolaos: 
   city: "ayios nikolaos"
-  accentcity: "\xC3\x81yios Nikólaos"
+  accentcity: "Áyios Nikólaos"
 ayios nikolaos niras: 
   city: "ayios nikolaos niras"
-  accentcity: "\xC3\x81yios Nikólaos Nirás"
+  accentcity: "Áyios Nikólaos Nirás"
 ayios nikolaos varvaras: 
   city: "ayios nikolaos varvaras"
   accentcity: "Ayios Nikólaos Várvaras"
 ayios nikolaos voion: 
   city: "ayios nikolaos voion"
-  accentcity: "\xC3\x81yios Nikólaos Voión"
+  accentcity: "Áyios Nikólaos Voión"
 ayios nikon: 
   city: "ayios nikon"
-  accentcity: "\xC3\x81yios Níkon"
+  accentcity: "Áyios Níkon"
 ayios pandeleimon: 
   city: "ayios pandeleimon"
   accentcity: "Ayios Pandeleimon"
 ayios pavlos: 
   city: "ayios pavlos"
-  accentcity: "\xC3\x81yios Pávlos"
+  accentcity: "Áyios Pávlos"
 ayios petros: 
   city: "ayios petros"
-  accentcity: "\xC3\x81yios Pétros"
+  accentcity: "Áyios Pétros"
 ayios polikarpos: 
   city: "ayios polikarpos"
-  accentcity: "\xC3\x81yios Políkarpos"
+  accentcity: "Áyios Políkarpos"
 ayios prodhromos: 
   city: "ayios prodhromos"
-  accentcity: "\xC3\x81yios Pródhromos"
+  accentcity: "Áyios Pródhromos"
 ayios prokopios: 
   city: "ayios prokopios"
-  accentcity: "\xC3\x81yios Prokópios"
+  accentcity: "Áyios Prokópios"
 ayios rokkos: 
   city: "ayios rokkos"
-  accentcity: "\xC3\x81yios Rókkos"
+  accentcity: "Áyios Rókkos"
 ayios rokos: 
   city: "ayios rokos"
-  accentcity: "\xC3\x81yios Rókos"
+  accentcity: "Áyios Rókos"
 ayios sarandos: 
   city: "ayios sarandos"
-  accentcity: "\xC3\x81yios Sarándos"
+  accentcity: "Áyios Sarándos"
 ayios serafim: 
   city: "ayios serafim"
-  accentcity: "\xC3\x81yios Serafím"
+  accentcity: "Áyios Serafím"
 ayios sillas: 
   city: "ayios sillas"
-  accentcity: "\xC3\x81yios Síllas"
+  accentcity: "Áyios Síllas"
 ayios simeon: 
   city: "ayios simeon"
-  accentcity: "\xC3\x81yios Simeón"
+  accentcity: "Áyios Simeón"
 ayios sostis: 
   city: "ayios sostis"
-  accentcity: "\xC3\x81yios Sóstis"
+  accentcity: "Áyios Sóstis"
 ayios spiridhon: 
   city: "ayios spiridhon"
-  accentcity: "\xC3\x81yios Spirídhon"
+  accentcity: "Áyios Spirídhon"
 ayios stefanos: 
   city: "ayios stefanos"
-  accentcity: "\xC3\x81yios Stéfanos"
+  accentcity: "Áyios Stéfanos"
 ayios stratis: 
   city: "ayios stratis"
-  accentcity: "\xC3\x81yios Stratis"
+  accentcity: "Áyios Stratis"
 ayios theodhoroi: 
   city: "ayios theodhoroi"
-  accentcity: "\xC3\x81yios Theódhoroi"
+  accentcity: "Áyios Theódhoroi"
 ayios theodhoros: 
   city: "ayios theodhoros"
-  accentcity: "\xC3\x81yios Theódhoros"
+  accentcity: "Áyios Theódhoros"
 ayios theodoros: 
   city: "ayios theodoros"
   accentcity: "Ayios Theódoros"
 ayios thomas: 
   city: "ayios thomas"
-  accentcity: "\xC3\x81yios Thomás"
+  accentcity: "Áyios Thomás"
 ayios vartholomaios: 
   city: "ayios vartholomaios"
-  accentcity: "\xC3\x81yios Vartholomaíos"
+  accentcity: "Áyios Vartholomaíos"
 ayios vasilios: 
   city: "ayios vasilios"
-  accentcity: "\xC3\x81yios Vasílios"
+  accentcity: "Áyios Vasílios"
 ayios vasilios nevs: 
   city: "ayios vasilios nevs"
-  accentcity: "\xC3\x81yios Vasílios Nevs"
+  accentcity: "Áyios Vasílios Nevs"
 ayios vasilis: 
   city: "ayios vasilis"
-  accentcity: "\xC3\x81yios Vasílis"
+  accentcity: "Áyios Vasílis"
 ayios vissarion: 
   city: "ayios vissarion"
-  accentcity: "\xC3\x81yios Vissaríon"
+  accentcity: "Áyios Vissaríon"
 ayios vlasios: 
   city: "ayios vlasios"
-  accentcity: "\xC3\x81yios Vlásios"
+  accentcity: "Áyios Vlásios"
 ayios yedheon: 
   city: "ayios yedheon"
-  accentcity: "\xC3\x81yios Yedheón"
+  accentcity: "Áyios Yedheón"
 ayios yeoryios: 
   city: "ayios yeoryios"
-  accentcity: "\xC3\x81yios Yeóryios"
+  accentcity: "Áyios Yeóryios"
 ayios yeoryios keratsiniou: 
   city: "ayios yeoryios keratsiniou"
   accentcity: "Ayios Yeoryios Keratsiniou"
 ayios yeoryios nilias: 
   city: "ayios yeoryios nilias"
-  accentcity: "\xC3\x81yios Yeóryios Nilías"
+  accentcity: "Áyios Yeóryios Nilías"
 ayios yeoryios riou: 
   city: "ayios yeoryios riou"
-  accentcity: "\xC3\x81yios Yeóryios Ríou"
+  accentcity: "Áyios Yeóryios Ríou"
 ayios yeoryios sikousis: 
   city: "ayios yeoryios sikousis"
-  accentcity: "\xC3\x81yios Yeóryios Sikoúsis"
+  accentcity: "Áyios Yeóryios Sikoúsis"
 ayios yermanos: 
   city: "ayios yermanos"
-  accentcity: "\xC3\x81yios Yermanós"
+  accentcity: "Áyios Yermanós"
 ayios yiannis: 
   city: "ayios yiannis"
-  accentcity: "\xC3\x81yios Yiánnis"
+  accentcity: "Áyios Yiánnis"
 ayios yiannis theologos: 
   city: "ayios yiannis theologos"
   accentcity: "Ayios Yiánnis Theológos"
@@ -6452,7 +6452,7 @@ azolimnos:
   accentcity: "Azólimnos"
 azoros: 
   city: "azoros"
-  accentcity: "\xC3\x81zoros"
+  accentcity: "Ázoros"
 azoyiras: 
   city: "azoyiras"
   accentcity: "Azoyirás"
@@ -8084,7 +8084,7 @@ chausi:
   accentcity: "Chaúsi"
 chausli: 
   city: "chausli"
-  accentcity: "Cha\xC3\xBCslí"
+  accentcity: "Chaüslí"
 chavari: 
   city: "chavari"
   accentcity: "Chávari"
@@ -8255,7 +8255,7 @@ chori:
   accentcity: "Chorí"
 chorio agios aimilianos: 
   city: "chorio agios aimilianos"
-  accentcity: "Chorió \xC3\x81gios Aimilianós"
+  accentcity: "Chorió Ágios Aimilianós"
 chorio avlakia: 
   city: "chorio avlakia"
   accentcity: "Chorió Avlákia"
@@ -8294,10 +8294,10 @@ chorio oinoussai:
   accentcity: "Chorió Oinoússai"
 chorio ormos koumaiikon: 
   city: "chorio ormos koumaiikon"
-  accentcity: "Chorió \xC3\x93rmos Koumaí\xC3\xAFkon"
+  accentcity: "Chorió Órmos Koumaí\xC3\xAFkon"
 chorio ormos marathokampou: 
   city: "chorio ormos marathokampou"
-  accentcity: "Chorió \xC3\x93rmos Marathokámpou"
+  accentcity: "Chorió Órmos Marathokámpou"
 chorio potokaki: 
   city: "chorio potokaki"
   accentcity: "Chorió Potokáki"
@@ -8306,7 +8306,7 @@ chorio pserimos:
   accentcity: "Chorió Psérimos"
 chorio psili ammos: 
   city: "chorio psili ammos"
-  accentcity: "Chorió Psilí \xC3\x81mmos"
+  accentcity: "Chorió Psilí Ámmos"
 chorio riva: 
   city: "chorio riva"
   accentcity: "Chorió Ríva"
@@ -8585,22 +8585,22 @@ dasso:
   accentcity: "Dasso"
 daukli: 
   city: "daukli"
-  accentcity: "Da\xC3\xBCklí"
+  accentcity: "Daüklí"
 dautbali: 
   city: "dautbali"
-  accentcity: "Da\xC3\xBCtbalí"
+  accentcity: "Daütbalí"
 dauti: 
   city: "dauti"
   accentcity: "Daúti"
 dautli: 
   city: "dautli"
-  accentcity: "Da\xC3\xBCtlí"
+  accentcity: "Daütlí"
 dautlu: 
   city: "dautlu"
-  accentcity: "Da\xC3\xBCtlú"
+  accentcity: "Daütlú"
 dautlu mahale: 
   city: "dautlu mahale"
-  accentcity: "Da\xC3\xBCtlú Mahalé"
+  accentcity: "Daütlú Mahalé"
 davia: 
   city: "davia"
   accentcity: "Daviá"
@@ -10910,10 +10910,10 @@ echinosa:
   accentcity: "Echinosa"
 edessa: 
   city: "edessa"
-  accentcity: "\xC3\x89dessa"
+  accentcity: "Édessa"
 edhessa: 
   city: "edhessa"
-  accentcity: "\xC3\x89dhessa"
+  accentcity: "Édhessa"
 edhothe khomiriani: 
   city: "edhothe khomiriani"
   accentcity: "Edhóthe Khomíriani"
@@ -11045,7 +11045,7 @@ elafopidima:
   accentcity: "Elafopídima"
 elafos: 
   city: "elafos"
-  accentcity: "\xC3\x89lafos"
+  accentcity: "Élafos"
 elafotopoe: 
   city: "elafotopoe"
   accentcity: "Elafótopoe"
@@ -11123,7 +11123,7 @@ elatokhorion:
   accentcity: "Elatokhórion"
 elatos: 
   city: "elatos"
-  accentcity: "\xC3\x89latos"
+  accentcity: "Élatos"
 elatou: 
   city: "elatou"
   accentcity: "Elatoú"
@@ -11243,7 +11243,7 @@ elevtheroupolis:
   accentcity: "Elevtheroúpolis"
 elezna: 
   city: "elezna"
-  accentcity: "\xC3\x89lezna"
+  accentcity: "Élezna"
 elia: 
   city: "elia"
   accentcity: "Eliá"
@@ -11264,7 +11264,7 @@ elimbies:
   accentcity: "Elimbiés"
 elimbos: 
   city: "elimbos"
-  accentcity: "\xC3\x89limbos"
+  accentcity: "Élimbos"
 elinos: 
   city: "elinos"
   accentcity: "Elínos"
@@ -11276,7 +11276,7 @@ elis:
   accentcity: "Elis"
 ellevi: 
   city: "ellevi"
-  accentcity: "\xC3\x89llevi"
+  accentcity: "Éllevi"
 ellinika: 
   city: "ellinika"
   accentcity: "Elliniká"
@@ -11324,13 +11324,13 @@ eloga:
   accentcity: "Eloga"
 elonas: 
   city: "elonas"
-  accentcity: "\xC3\x89lonas"
+  accentcity: "Élonas"
 elopoia: 
   city: "elopoia"
   accentcity: "Elopoía"
 elos: 
   city: "elos"
-  accentcity: "\xC3\x89los"
+  accentcity: "Élos"
 elounda: 
   city: "elounda"
   accentcity: "Eloúnda"
@@ -11339,28 +11339,28 @@ elouthorna:
   accentcity: "Elouthorna"
 elovon: 
   city: "elovon"
-  accentcity: "\xC3\x89lovon"
+  accentcity: "Élovon"
 elsiani: 
   city: "elsiani"
-  accentcity: "\xC3\x89lsiani"
+  accentcity: "Élsiani"
 elymbos: 
   city: "elymbos"
   accentcity: "Elymbos"
 embaron: 
   city: "embaron"
-  accentcity: "\xC3\x89mbaron"
+  accentcity: "Émbaron"
 embaros: 
   city: "embaros"
-  accentcity: "\xC3\x89mbaros"
+  accentcity: "Émbaros"
 embesos: 
   city: "embesos"
   accentcity: "Embesós"
 embona: 
   city: "embona"
-  accentcity: "\xC3\x89mbona"
+  accentcity: "Émbona"
 embonas: 
   city: "embonas"
-  accentcity: "\xC3\x89mbonas"
+  accentcity: "Émbonas"
 emborio: 
   city: "emborio"
   accentcity: "Emborió"
@@ -11396,10 +11396,10 @@ emporia:
   accentcity: "Emporia"
 emvolo: 
   city: "emvolo"
-  accentcity: "\xC3\x89mvolo"
+  accentcity: "Émvolo"
 emvolon: 
   city: "emvolon"
-  accentcity: "\xC3\x89mvolon"
+  accentcity: "Émvolon"
 emvolos: 
   city: "emvolos"
   accentcity: "Emvolos"
@@ -11411,7 +11411,7 @@ engares:
   accentcity: "Engarés"
 englikas: 
   city: "englikas"
-  accentcity: "\xC3\x89nglikas"
+  accentcity: "Énglikas"
 englouvi: 
   city: "englouvi"
   accentcity: "Englouví"
@@ -11633,7 +11633,7 @@ erakleion:
   accentcity: "Erakleion"
 eranos: 
   city: "eranos"
-  accentcity: "\xC3\x89ranos"
+  accentcity: "Éranos"
 erasmion: 
   city: "erasmion"
   accentcity: "Erásmion"
@@ -11693,7 +11693,7 @@ eretria:
   accentcity: "Erétria"
 erfoi: 
   city: "erfoi"
-  accentcity: "\xC3\x89rfoi"
+  accentcity: "Érfoi"
 ergani: 
   city: "ergani"
   accentcity: "Ergáni"
@@ -11723,7 +11723,7 @@ erikoussa:
   accentcity: "Erikoússa"
 erima kalivia: 
   city: "erima kalivia"
-  accentcity: "\xC3\x89rima Kalívia"
+  accentcity: "Érima Kalívia"
 erimanthia: 
   city: "erimanthia"
   accentcity: "Erimánthia"
@@ -11732,7 +11732,7 @@ erimokastron:
   accentcity: "Erimókastron"
 erimos: 
   city: "erimos"
-  accentcity: "\xC3\x89rimos"
+  accentcity: "Érimos"
 erimoupolis: 
   city: "erimoupolis"
   accentcity: "Erimoúpolis"
@@ -11795,7 +11795,7 @@ esokhoria:
   accentcity: "Esokhória"
 eso nifi: 
   city: "eso nifi"
-  accentcity: "\xC3\x89so Nífi"
+  accentcity: "Éso Nífi"
 eso nimfi: 
   city: "eso nimfi"
   accentcity: "Eso Nímfi"
@@ -11804,7 +11804,7 @@ esovalta:
   accentcity: "Esóvalta"
 eso vlakh: 
   city: "eso vlakh"
-  accentcity: "\xC3\x89so Vlakh"
+  accentcity: "Éso Vlakh"
 esti tarla: 
   city: "esti tarla"
   accentcity: "Estí Tarlá"
@@ -11825,16 +11825,16 @@ euripos:
   accentcity: "Euripos"
 eva: 
   city: "eva"
-  accentcity: "\xC3\x89va"
+  accentcity: "Éva"
 evandhros: 
   city: "evandhros"
-  accentcity: "\xC3\x89vandhros"
+  accentcity: "Évandhros"
 evandron: 
   city: "evandron"
-  accentcity: "\xC3\x89vandron"
+  accentcity: "Évandron"
 evandros: 
   city: "evandros"
-  accentcity: "\xC3\x89vandros"
+  accentcity: "Évandros"
 evangelismos: 
   city: "evangelismos"
   accentcity: "Evangelismós"
@@ -11843,7 +11843,7 @@ evangelistria:
   accentcity: "Evangelístria"
 evdhilos: 
   city: "evdhilos"
-  accentcity: "\xC3\x89vdhilos"
+  accentcity: "Évdhilos"
 evfimiana: 
   city: "evfimiana"
   accentcity: "Evfimianá"
@@ -11858,22 +11858,22 @@ evkarpia:
   accentcity: "Evkarpía"
 evlalon: 
   city: "evlalon"
-  accentcity: "\xC3\x89vlalon"
+  accentcity: "Évlalon"
 evmoiron: 
   city: "evmoiron"
-  accentcity: "\xC3\x89vmoiron"
+  accentcity: "Évmoiron"
 evosmo: 
   city: "evosmo"
-  accentcity: "\xC3\x89vosmo"
+  accentcity: "Évosmo"
 evosmon: 
   city: "evosmon"
-  accentcity: "\xC3\x89vosmon"
+  accentcity: "Évosmon"
 evpalion: 
   city: "evpalion"
   accentcity: "Evpálion"
 evrenos: 
   city: "evrenos"
-  accentcity: "\xC3\x89vrenos"
+  accentcity: "Évrenos"
 evreti: 
   city: "evreti"
   accentcity: "Evretí"
@@ -11885,7 +11885,7 @@ evripedhon:
   accentcity: "Evrípedhon"
 evropos: 
   city: "evropos"
-  accentcity: "\xC3\x89vropos"
+  accentcity: "Évropos"
 evropouloi: 
   city: "evropouloi"
   accentcity: "Evropoúloi"
@@ -11909,10 +11909,10 @@ evyenikon:
   accentcity: "Evyenikón"
 evyiros: 
   city: "evyiros"
-  accentcity: "\xC3\x89vyiros"
+  accentcity: "Évyiros"
 evzonoi: 
   city: "evzonoi"
-  accentcity: "\xC3\x89vzonoi"
+  accentcity: "Évzonoi"
 exalofos: 
   city: "exalofos"
   accentcity: "Exálofos"
@@ -11954,7 +11954,7 @@ exaplatanos:
   accentcity: "Exaplátanos"
 exarkhos: 
   city: "exarkhos"
-  accentcity: "\xC3\x89xarkhos"
+  accentcity: "Éxarkhos"
 exati: 
   city: "exati"
   accentcity: "Exáti"
@@ -11963,31 +11963,31 @@ exi su:
   accentcity: "Exí Su"
 (( exo achladochorion )): 
   city: "(( exo achladochorion ))"
-  accentcity: "(( \xC3\x89xo Achladochórion ))"
+  accentcity: "(( Éxo Achladochórion ))"
 exo apidhi: 
   city: "exo apidhi"
   accentcity: "Exo Apídhi"
 exo apidhion: 
   city: "exo apidhion"
-  accentcity: "\xC3\x89xo Apídhion"
+  accentcity: "Éxo Apídhion"
 exochi: 
   city: "exochi"
   accentcity: "Exochí"
 exo dhidhima: 
   city: "exo dhidhima"
-  accentcity: "\xC3\x89xo Dhidhíma"
+  accentcity: "Éxo Dhidhíma"
 exo dhimaristika: 
   city: "exo dhimaristika"
-  accentcity: "\xC3\x89xo Dhimarístika"
+  accentcity: "Éxo Dhimarístika"
 exo didyma: 
   city: "exo didyma"
-  accentcity: "\xC3\x89xo Did\xC3\xBDma"
+  accentcity: "Éxo Did\xC3\xBDma"
 exo gonia: 
   city: "exo gonia"
-  accentcity: "\xC3\x89xo Goniá"
+  accentcity: "Éxo Goniá"
 exo goni: 
   city: "exo goni"
-  accentcity: "\xC3\x89xo Goní"
+  accentcity: "Éxo Goní"
 exokhi: 
   city: "exokhi"
   accentcity: "Exokhí"
@@ -11999,7 +11999,7 @@ exokhi-tovliani:
   accentcity: "Exokhí-Tóvliani"
 exo khora: 
   city: "exo khora"
-  accentcity: "\xC3\x89xo Khóra"
+  accentcity: "Éxo Khóra"
 exokhori: 
   city: "exokhori"
   accentcity: "Exokhóri"
@@ -12008,28 +12008,28 @@ exokhorion:
   accentcity: "Exokhórion"
 exo lakkonia: 
   city: "exo lakkonia"
-  accentcity: "\xC3\x89xo Lakkónia"
+  accentcity: "Éxo Lakkónia"
 exo lakonia: 
   city: "exo lakonia"
-  accentcity: "\xC3\x89xo Lakónia"
+  accentcity: "Éxo Lakónia"
 exo mouliana: 
   city: "exo mouliana"
-  accentcity: "\xC3\x89xo Moulianá"
+  accentcity: "Éxo Moulianá"
 exo nifi: 
   city: "exo nifi"
-  accentcity: "\xC3\x89xo Nífi"
+  accentcity: "Éxo Nífi"
 exo-nimfi: 
   city: "exo-nimfi"
-  accentcity: "\xC3\x89xo-Nímfi"
+  accentcity: "Éxo-Nímfi"
 exo nimfion: 
   city: "exo nimfion"
-  accentcity: "\xC3\x89xo Nímfion"
+  accentcity: "Éxo Nímfion"
 exopolis: 
   city: "exopolis"
   accentcity: "Exópolis"
 exo potamoi: 
   city: "exo potamoi"
-  accentcity: "\xC3\x89xo Potámoi"
+  accentcity: "Éxo Potámoi"
 exostis: 
   city: "exostis"
   accentcity: "Exóstis"
@@ -12038,13 +12038,13 @@ exoyi:
   accentcity: "Exoyí"
 ezerets: 
   city: "ezerets"
-  accentcity: "\xC3\x89zerets"
+  accentcity: "Ézerets"
 eziova: 
   city: "eziova"
-  accentcity: "\xC3\x89ziova"
+  accentcity: "Éziova"
 ezvonoi: 
   city: "ezvonoi"
-  accentcity: "\xC3\x89zvonoi"
+  accentcity: "Ézvonoi"
 (( fagkos )): 
   city: "(( fagkos ))"
   accentcity: "(( Fágkos ))"
@@ -13085,7 +13085,7 @@ frosyni:
   accentcity: "Fros\xC3\xBDni"
 frourion assos: 
   city: "frourion assos"
-  accentcity: "Froúrion \xC3\x81ssos"
+  accentcity: "Froúrion Ássos"
 frourion: 
   city: "frourion"
   accentcity: "Froúrion"
@@ -13124,7 +13124,7 @@ ftelopoula:
   accentcity: "Ftelopoúla"
 fteria ano: 
   city: "fteria ano"
-  accentcity: "Fteriá \xC3\x81no"
+  accentcity: "Fteriá Áno"
 fteria: 
   city: "fteria"
   accentcity: "Fteriá"
@@ -14675,7 +14675,7 @@ gumenich:
   accentcity: "Gúmenich"
 gumulcine: 
   city: "gumulcine"
-  accentcity: "G\xC3\xBCm\xC3\xBClcine"
+  accentcity: "Gümülcine"
 gumuljina: 
   city: "gumuljina"
   accentcity: "Gumuljína"
@@ -14840,7 +14840,7 @@ hasan-koi:
   accentcity: "Hasán-Kó\xC3\xAF"
 hasan obasi: 
   city: "hasan obasi"
-  accentcity: "Hasán \xC3\x93basi"
+  accentcity: "Hasán Óbasi"
 hasanovon: 
   city: "hasanovon"
   accentcity: "Hasánovon"
@@ -14951,7 +14951,7 @@ iasion:
   accentcity: "Iásion"
 iasmos: 
   city: "iasmos"
-  accentcity: "\xC3\x8Dasmos"
+  accentcity: "Íasmos"
 ibisler: 
   city: "ibisler"
   accentcity: "Ibislér"
@@ -14963,13 +14963,13 @@ ibraim:
   accentcity: "Ibraim"
 ida: 
   city: "ida"
-  accentcity: "\xC3\x8Dda"
+  accentcity: "Ída"
 idelova: 
   city: "idelova"
   accentcity: "Idélova"
 idha: 
   city: "idha"
-  accentcity: "\xC3\x8Ddha"
+  accentcity: "Ídha"
 idhomeni: 
   city: "idhomeni"
   accentcity: "Idhoméni"
@@ -14978,7 +14978,7 @@ idhraia:
   accentcity: "Idhraía"
 idhra: 
   city: "idhra"
-  accentcity: "\xC3\x8Ddhra"
+  accentcity: "Ídhra"
 idhrea: 
   city: "idhrea"
   accentcity: "Idhréa"
@@ -15047,10 +15047,10 @@ ikhtiar makhalas:
   accentcity: "Ikhtiár Makhalás"
 iklaina: 
   city: "iklaina"
-  accentcity: "\xC3\x8Dklaina"
+  accentcity: "Íklaina"
 iklena: 
   city: "iklena"
-  accentcity: "\xC3\x8Dklena"
+  accentcity: "Íklena"
 ilektra: 
   city: "ilektra"
   accentcity: "Iléktra"
@@ -15059,7 +15059,7 @@ ilesli:
   accentcity: "Ileslí"
 ilia: 
   city: "ilia"
-  accentcity: "\xC3\x8Dlia"
+  accentcity: "Ília"
 ilias: 
   city: "ilias"
   accentcity: "Ilías"
@@ -15125,19 +15125,19 @@ iliovounion:
   accentcity: "Iliovoúnion"
 ilis: 
   city: "ilis"
-  accentcity: "\xC3\x8Dlis"
+  accentcity: "Ílis"
 ilis nea: 
   city: "ilis nea"
-  accentcity: "\xC3\x8Dlis Néa"
+  accentcity: "Ílis Néa"
 ilitra: 
   city: "ilitra"
   accentcity: "Ilitrá"
 illaroi: 
   city: "illaroi"
-  accentcity: "\xC3\x8Dllaroi"
+  accentcity: "Íllaroi"
 imam chaus: 
   city: "imam chaus"
-  accentcity: "Imám Cha\xC3\xBCs"
+  accentcity: "Imám Chaüs"
 imam-tsaous: 
   city: "imam-tsaous"
   accentcity: "Imám-Tsaoús"
@@ -15146,19 +15146,19 @@ imbraim:
   accentcity: "Imbra\xC3\xAFm"
 imbros: 
   city: "imbros"
-  accentcity: "\xC3\x8Dmbros"
+  accentcity: "Ímbros"
 imera: 
   city: "imera"
-  accentcity: "\xC3\x8Dmera"
+  accentcity: "Ímera"
 imere: 
   city: "imere"
   accentcity: "Imere"
 imeron: 
   city: "imeron"
-  accentcity: "\xC3\x8Dmeron"
+  accentcity: "Ímeron"
 imeros: 
   city: "imeros"
-  accentcity: "\xC3\x8Dmeros"
+  accentcity: "Ímeros"
 imeroviglion: 
   city: "imeroviglion"
   accentcity: "Imerovíglion"
@@ -15170,7 +15170,7 @@ imrenli:
   accentcity: "Imrenlí"
 imvros: 
   city: "imvros"
-  accentcity: "\xC3\x8Dmvros"
+  accentcity: "Ímvros"
 ineli: 
   city: "ineli"
   accentcity: "Inelí"
@@ -15182,16 +15182,16 @@ inglis:
   accentcity: "Inglís"
 inia: 
   city: "inia"
-  accentcity: "\xC3\x8Dnia"
+  accentcity: "Ínia"
 ini: 
   city: "ini"
-  accentcity: "\xC3\x8Dni"
+  accentcity: "Íni"
 inikon: 
   city: "inikon"
   accentcity: "Inikón"
 inion: 
   city: "inion"
-  accentcity: "\xC3\x8Dnion"
+  accentcity: "Ínion"
 injirlik: 
   city: "injirlik"
   accentcity: "Injirlík"
@@ -15212,25 +15212,25 @@ ionikon:
   accentcity: "Ionikón"
 ios: 
   city: "ios"
-  accentcity: "\xC3\x8Dos"
+  accentcity: "Íos"
 ipati: 
   city: "ipati"
   accentcity: "Ipáti"
 ipaton: 
   city: "ipaton"
-  accentcity: "\xC3\x8Dpaton"
+  accentcity: "Ípaton"
 ipion: 
   city: "ipion"
-  accentcity: "\xC3\x8Dpion"
+  accentcity: "Ípion"
 ipousi: 
   city: "ipousi"
   accentcity: "Ipoúsi"
 ippeion: 
   city: "ippeion"
-  accentcity: "\xC3\x8Dppeion"
+  accentcity: "Íppeion"
 ippion: 
   city: "ippion"
-  accentcity: "\xC3\x8Dppion"
+  accentcity: "Íppion"
 ippoforvion: 
   city: "ippoforvion"
   accentcity: "Ippoforvíon"
@@ -15260,7 +15260,7 @@ ipsilon khorion:
   accentcity: "Ipsilón Khoríon"
 ipsos: 
   city: "ipsos"
-  accentcity: "\xC3\x8Dpsos"
+  accentcity: "Ípsos"
 ipsous: 
   city: "ipsous"
   accentcity: "Ipsoús"
@@ -15308,7 +15308,7 @@ ireni:
   accentcity: "Irení"
 iria: 
   city: "iria"
-  accentcity: "\xC3\x8Dria"
+  accentcity: "Íria"
 irinikon: 
   city: "irinikon"
   accentcity: "Irinikón"
@@ -15332,16 +15332,16 @@ isaklar:
   accentcity: "Isaklár"
 isalon: 
   city: "isalon"
-  accentcity: "\xC3\x8Dsalon"
+  accentcity: "Ísalon"
 isa obasi: 
   city: "isa obasi"
-  accentcity: "Isá \xC3\x93basi"
+  accentcity: "Isá Óbasi"
 isari: 
   city: "isari"
-  accentcity: "\xC3\x8Dsari"
+  accentcity: "Ísari"
 isaris: 
   city: "isaris"
-  accentcity: "\xC3\x8Dsaris"
+  accentcity: "Ísaris"
 isarlik: 
   city: "isarlik"
   accentcity: "Isarlík"
@@ -15368,10 +15368,10 @@ isna:
   accentcity: "Isna"
 isoma: 
   city: "isoma"
-  accentcity: "\xC3\x8Dsoma"
+  accentcity: "Ísoma"
 isoma karion: 
   city: "isoma karion"
-  accentcity: "\xC3\x8Dsoma Karión"
+  accentcity: "Ísoma Karión"
 (( isomata )): 
   city: "(( isomata ))"
   accentcity: "(( Isómata ))"
@@ -15407,16 +15407,16 @@ istrio:
   accentcity: "Istrio"
 istrios: 
   city: "istrios"
-  accentcity: "\xC3\x8Dstrios"
+  accentcity: "Ístrios"
 isvor: 
   city: "isvor"
-  accentcity: "\xC3\x8Dsvor"
+  accentcity: "Ísvor"
 isvoron: 
   city: "isvoron"
-  accentcity: "\xC3\x8Dsvoron"
+  accentcity: "Ísvoron"
 isvoros: 
   city: "isvoros"
-  accentcity: "\xC3\x8Dsvoros"
+  accentcity: "Ísvoros"
 italika: 
   city: "italika"
   accentcity: "Italiká"
@@ -15443,10 +15443,10 @@ ities:
   accentcity: "Itiés"
 ivira: 
   city: "ivira"
-  accentcity: "\xC3\x8Dvira"
+  accentcity: "Ívira"
 ixglimbi: 
   city: "ixglimbi"
-  accentcity: "\xC3\x8Dxglimbi"
+  accentcity: "Íxglimbi"
 ixia: 
   city: "ixia"
   accentcity: "Ixiá"
@@ -18647,7 +18647,7 @@ kastro:
   accentcity: "Kastro"
 kastron assos: 
   city: "kastron assos"
-  accentcity: "Kástron \xC3\x81ssos"
+  accentcity: "Kástron Ássos"
 kastron: 
   city: "kastron"
   accentcity: "Kástron"
@@ -18668,7 +18668,7 @@ kastro torneze:
   accentcity: "Kástro Tornéze"
 kastro tou ayiou yeoryiou: 
   city: "kastro tou ayiou yeoryiou"
-  accentcity: "Kastro tou \xC3\x81yiou Yeoryiou"
+  accentcity: "Kastro tou Áyiou Yeoryiou"
 kastroungaina: 
   city: "kastroungaina"
   accentcity: "Kastroúngaina"
@@ -18920,13 +18920,13 @@ kato afroxilia:
   accentcity: "Káto Afroxiliá"
 kato agali: 
   city: "kato agali"
-  accentcity: "Káto \xC3\x81gali"
+  accentcity: "Káto Ágali"
 kato agalis: 
   city: "kato agalis"
-  accentcity: "Káto \xC3\x81galis"
+  accentcity: "Káto Ágalis"
 kato agios ioannis: 
   city: "kato agios ioannis"
-  accentcity: "Káto \xC3\x81gios Ioánnis"
+  accentcity: "Káto Ágios Ioánnis"
 kato agoriani: 
   city: "kato agoriani"
   accentcity: "Káto Agóriani"
@@ -18941,7 +18941,7 @@ kato akhaia:
   accentcity: "Káto Akha\xC3\xAFa"
 kato akria: 
   city: "kato akria"
-  accentcity: "Káto \xC3\x81kria"
+  accentcity: "Káto Ákria"
 kato alepokhori: 
   city: "kato alepokhori"
   accentcity: "Káto Alepokhóri"
@@ -18965,7 +18965,7 @@ kato ambelokipoi:
   accentcity: "Káto Ambelókipoi"
 kato amfia: 
   city: "kato amfia"
-  accentcity: "Káto \xC3\x81mfia"
+  accentcity: "Káto Ámfia"
 kato anavriton: 
   city: "kato anavriton"
   accentcity: "Káto Anavritón"
@@ -18998,7 +18998,7 @@ kato asitais:
   accentcity: "Káto Asítais"
 kato assos: 
   city: "kato assos"
-  accentcity: "Káto \xC3\x81ssos"
+  accentcity: "Káto Ássos"
 kato astrakoi: 
   city: "kato astrakoi"
   accentcity: "Káto Astrakoí"
@@ -19007,7 +19007,7 @@ kato ayia marina:
   accentcity: "Káto Ayía Marína"
 kato ayios vlasios: 
   city: "kato ayios vlasios"
-  accentcity: "Káto \xC3\x81yios Vlásios"
+  accentcity: "Káto Áyios Vlásios"
 kato belesi: 
   city: "kato belesi"
   accentcity: "Káto Bélesi"
@@ -19202,7 +19202,7 @@ kato idhrousa:
   accentcity: "Káto Idhroúsa"
 kato ilia: 
   city: "kato ilia"
-  accentcity: "Káto \xC3\x8Dlia"
+  accentcity: "Káto Ília"
 kato ionikon: 
   city: "kato ionikon"
   accentcity: "Káto Ionikón"
@@ -19607,10 +19607,10 @@ kato mazarakion:
   accentcity: "Káto Mazarákion"
 kato megali ada: 
   city: "kato megali ada"
-  accentcity: "Káto Megáli \xC3\x81da"
+  accentcity: "Káto Megáli Áda"
 kato megali adha: 
   city: "kato megali adha"
-  accentcity: "Káto Megáli \xC3\x81dha"
+  accentcity: "Káto Megáli Ádha"
 kato melas: 
   city: "kato melas"
   accentcity: "Káto Melás"
@@ -19706,7 +19706,7 @@ kato nuska:
   accentcity: "Káto Núska"
 kato olga: 
   city: "kato olga"
-  accentcity: "Káto \xC3\x93lga"
+  accentcity: "Káto Ólga"
 kato orfana: 
   city: "kato orfana"
   accentcity: "Káto Orfaná"
@@ -22961,7 +22961,7 @@ klistos:
   accentcity: "Klistós"
 klitoria ano: 
   city: "klitoria ano"
-  accentcity: "Klitoría \xC3\x81no"
+  accentcity: "Klitoría Áno"
 klitor: 
   city: "klitor"
   accentcity: "Klítor"
@@ -25178,7 +25178,7 @@ kourounia:
   accentcity: "Kouroúnia"
 kourouni ano: 
   city: "kourouni ano"
-  accentcity: "Kouroúni \xC3\x81no"
+  accentcity: "Kouroúni Áno"
 kourouni kato: 
   city: "kourouni kato"
   accentcity: "Kouroúni Káto"
@@ -27587,7 +27587,7 @@ liangaiika:
   accentcity: "Liangaíika"
 liani ammos: 
   city: "liani ammos"
-  accentcity: "Lianí \xC3\x81mmos"
+  accentcity: "Lianí Ámmos"
 lianianika: 
   city: "lianianika"
   accentcity: "Lianiánika"
@@ -30143,7 +30143,7 @@ markopoulon:
   accentcity: "Markópoulon"
 markopoulon oropion: 
   city: "markopoulon oropion"
-  accentcity: "Markópoulon \xC3\x93ropion"
+  accentcity: "Markópoulon Óropion"
 markopoulon oropou: 
   city: "markopoulon oropou"
   accentcity: "Markópoulon Oropoú"
@@ -30626,7 +30626,7 @@ mavronoros:
   accentcity: "Mavronóros"
 mavron oros: 
   city: "mavron oros"
-  accentcity: "Mávron \xC3\x93ros"
+  accentcity: "Mávron Óros"
 mavropetra: 
   city: "mavropetra"
   accentcity: "Mavrópetra"
@@ -30818,7 +30818,7 @@ mega evidhrion:
   accentcity: "Méga Evídhrion"
 mega evmoiron: 
   city: "mega evmoiron"
-  accentcity: "Méga \xC3\x89vmoiron"
+  accentcity: "Méga Évmoiron"
 mega gardhikion: 
   city: "mega gardhikion"
   accentcity: "Méga Gardhíkion"
@@ -30893,7 +30893,7 @@ megales mandinies:
   accentcity: "Megáles Mandínies"
 megali ada: 
   city: "megali ada"
-  accentcity: "Megáli \xC3\x81da"
+  accentcity: "Megáli Áda"
 megali dhoxipara: 
   city: "megali dhoxipara"
   accentcity: "Megáli Dhoxipára"
@@ -32213,7 +32213,7 @@ metokhi:
   accentcity: "Metókhi"
 metokhi moni idhras: 
   city: "metokhi moni idhras"
-  accentcity: "Metókhi Moní \xC3\x8Ddhras"
+  accentcity: "Metókhi Moní Ídhras"
 metokhion agapiou: 
   city: "metokhion agapiou"
   accentcity: "Metókhion Agapíou"
@@ -32456,10 +32456,10 @@ mikonos:
   accentcity: "Míkonos"
 mikra ada: 
   city: "mikra ada"
-  accentcity: "Mikrá \xC3\x81da"
+  accentcity: "Mikrá Áda"
 mikra adha: 
   city: "mikra adha"
-  accentcity: "Mikrá \xC3\x81dha"
+  accentcity: "Mikrá Ádha"
 mikra besikia: 
   city: "mikra besikia"
   accentcity: "Mikrá Besíkia"
@@ -33866,7 +33866,7 @@ mousionas:
   accentcity: "Mousiónas"
 mouskha ano: 
   city: "mouskha ano"
-  accentcity: "Moúskha \xC3\x81no"
+  accentcity: "Moúskha Áno"
 mouskha kato: 
   city: "mouskha kato"
   accentcity: "Moúskha Káto"
@@ -34238,7 +34238,7 @@ nea alikarnassos:
   accentcity: "Néa Alikarnassós"
 nea ambliani: 
   city: "nea ambliani"
-  accentcity: "Néa \xC3\x81mbliani"
+  accentcity: "Néa Ámbliani"
 nea amisos: 
   city: "nea amisos"
   accentcity: "Néa Amisós"
@@ -34277,7 +34277,7 @@ nea dorkas:
   accentcity: "Néa Dorkás"
 nea efesos: 
   city: "nea efesos"
-  accentcity: "Néa \xC3\x89fesos"
+  accentcity: "Néa Éfesos"
 nea epidhavros: 
   city: "nea epidhavros"
   accentcity: "Néa Epídhavros"
@@ -34328,7 +34328,7 @@ neai kydoniai:
   accentcity: "Néai Kydoníai"
 nea ilis: 
   city: "nea ilis"
-  accentcity: "Néa \xC3\x8Dlis"
+  accentcity: "Néa Ílis"
 neai lykorrachi: 
   city: "neai lykorrachi"
   accentcity: "Néai Lykórrachi"
@@ -34532,7 +34532,7 @@ nea nikopolis:
   accentcity: "Néa Nikópolis"
 nea olinthos: 
   city: "nea olinthos"
-  accentcity: "Néa \xC3\x93linthos"
+  accentcity: "Néa Ólinthos"
 nea orestias: 
   city: "nea orestias"
   accentcity: "Néa Orestiás"
@@ -34730,7 +34730,7 @@ nefs amarion:
   accentcity: "Néfs Amárion"
 nefs ayios vasilios: 
   city: "nefs ayios vasilios"
-  accentcity: "Néfs \xC3\x81yios Vasílios"
+  accentcity: "Néfs Áyios Vasílios"
 negades: 
   city: "negades"
   accentcity: "Negádes"
@@ -35114,10 +35114,10 @@ neo rysi:
   accentcity: "Néo R\xC3\xBDsi"
 neos ammos: 
   city: "neos ammos"
-  accentcity: "Néos \xC3\x81mmos"
+  accentcity: "Néos Ámmos"
 neos ayios vasilios: 
   city: "neos ayios vasilios"
-  accentcity: "Néos \xC3\x81yios Vasílios"
+  accentcity: "Néos Áyios Vasílios"
 neos dhoriskos: 
   city: "neos dhoriskos"
   accentcity: "Néos Dhorískos"
@@ -35759,13 +35759,13 @@ nymphi:
   accentcity: "Nymphi"
 oasis: 
   city: "oasis"
-  accentcity: "\xC3\x93asis"
+  accentcity: "Óasis"
 obar: 
   city: "obar"
-  accentcity: "\xC3\x93bar"
+  accentcity: "Óbar"
 ochthia: 
   city: "ochthia"
-  accentcity: "\xC3\x93chthia"
+  accentcity: "Óchthia"
 octonia: 
   city: "octonia"
   accentcity: "Octonia"
@@ -35798,7 +35798,7 @@ oikismos agiasmata:
   accentcity: "Oikismós Agiásmata"
 oikismos agios ioannis: 
   city: "oikismos agios ioannis"
-  accentcity: "Oikismós \xC3\x81gios Ioánnis"
+  accentcity: "Oikismós Ágios Ioánnis"
 oikismos lilikas: 
   city: "oikismos lilikas"
   accentcity: "Oikismós Lilikás"
@@ -35867,7 +35867,7 @@ okhiron:
   accentcity: "Okhirón"
 okhthia: 
   city: "okhthia"
-  accentcity: "\xC3\x93khthia"
+  accentcity: "Ókhthia"
 okhthonia: 
   city: "okhthonia"
   accentcity: "Okhthonía"
@@ -35894,13 +35894,13 @@ olejiki:
   accentcity: "Olejíki"
 olena: 
   city: "olena"
-  accentcity: "\xC3\x93lena"
+  accentcity: "Ólena"
 oleni: 
   city: "oleni"
   accentcity: "Oléni"
 olga: 
   city: "olga"
-  accentcity: "\xC3\x93lga"
+  accentcity: "Ólga"
 olimbia arkhaia: 
   city: "olimbia arkhaia"
   accentcity: "Olimbía Arkhaía"
@@ -35918,13 +35918,13 @@ olimbo:
   accentcity: "Olimbo"
 olimbos: 
   city: "olimbos"
-  accentcity: "\xC3\x93limbos"
+  accentcity: "Ólimbos"
 olinthos: 
   city: "olinthos"
-  accentcity: "\xC3\x93linthos"
+  accentcity: "Ólinthos"
 olvion: 
   city: "olvion"
-  accentcity: "\xC3\x93lvion"
+  accentcity: "Ólvion"
 olymbia: 
   city: "olymbia"
   accentcity: "Olymbía"
@@ -35936,7 +35936,7 @@ olympoi:
   accentcity: "Ol\xC3\xBDmpoi"
 olympos: 
   city: "olympos"
-  accentcity: "\xC3\x93lympos"
+  accentcity: "Ólympos"
 omalai: 
   city: "omalai"
   accentcity: "Omalaí"
@@ -35963,7 +35963,7 @@ ombalar:
   accentcity: "Ombalár"
 ombar: 
   city: "ombar"
-  accentcity: "\xC3\x93mbar"
+  accentcity: "Ómbar"
 omerchausi: 
   city: "omerchausi"
   accentcity: "Omerchaúsi"
@@ -35999,7 +35999,7 @@ onithe:
   accentcity: "Onithé"
 opagia: 
   city: "opagia"
-  accentcity: "\xC3\x93pagia"
+  accentcity: "Ópagia"
 opagija: 
   city: "opagija"
   accentcity: "Opagija"
@@ -36014,7 +36014,7 @@ opa:
   accentcity: "Opa"
 opayia: 
   city: "opayia"
-  accentcity: "\xC3\x93payia"
+  accentcity: "Ópayia"
 opiso meria: 
   city: "opiso meria"
   accentcity: "Opíso Meriá"
@@ -36104,7 +36104,7 @@ organtzi:
   accentcity: "Organtzí"
 orhova: 
   city: "orhova"
-  accentcity: "\xC3\x93rhova"
+  accentcity: "Órhova"
 oria: 
   city: "oria"
   accentcity: "Oriá"
@@ -36122,7 +36122,7 @@ orinon:
   accentcity: "Orinón"
 orion: 
   city: "orion"
-  accentcity: "\xC3\x93rion"
+  accentcity: "Órion"
 orizarion: 
   city: "orizarion"
   accentcity: "Orizárion"
@@ -36134,7 +36134,7 @@ orkhomenos:
   accentcity: "Orkhomenós"
 orliakon: 
   city: "orliakon"
-  accentcity: "\xC3\x93rliakon"
+  accentcity: "Órliakon"
 orman chifliki: 
   city: "orman chifliki"
   accentcity: "Ormán Chiflíki"
@@ -36146,7 +36146,7 @@ ormano:
   accentcity: "Ormáno"
 orma: 
   city: "orma"
-  accentcity: "\xC3\x93rma"
+  accentcity: "Órma"
 ormenion: 
   city: "ormenion"
   accentcity: "Orménion"
@@ -36155,37 +36155,37 @@ ormilia:
   accentcity: "Ormília"
 ormos agios isidoros: 
   city: "ormos agios isidoros"
-  accentcity: "\xC3\x93rmos \xC3\x81gios Isídoros"
+  accentcity: "Órmos Ágios Isídoros"
 ormos agiou isidorou: 
   city: "ormos agiou isidorou"
-  accentcity: "\xC3\x93rmos Agíou Isidórou"
+  accentcity: "Órmos Agíou Isidórou"
 ormos aiyialis: 
   city: "ormos aiyialis"
-  accentcity: "\xC3\x93rmos Aiyialís"
+  accentcity: "Órmos Aiyialís"
 ormos athinios: 
   city: "ormos athinios"
-  accentcity: "\xC3\x93rmos Athiniós"
+  accentcity: "Órmos Athiniós"
 ormos epanomis: 
   city: "ormos epanomis"
-  accentcity: "\xC3\x93rmos Epanomís"
+  accentcity: "Órmos Epanomís"
 ormos korthiou: 
   city: "ormos korthiou"
-  accentcity: "\xC3\x93rmos Korthíou"
+  accentcity: "Órmos Korthíou"
 ormos koumaiikon: 
   city: "ormos koumaiikon"
-  accentcity: "\xC3\x93rmos Koumaí\xC3\xAFkon"
+  accentcity: "Órmos Koumaí\xC3\xAFkon"
 ormos marathokampou: 
   city: "ormos marathokampou"
-  accentcity: "\xC3\x93rmos Marathokámpou"
+  accentcity: "Órmos Marathokámpou"
 ormos methonis: 
   city: "ormos methonis"
-  accentcity: "\xC3\x93rmos Methónis"
+  accentcity: "Órmos Methónis"
 ormos: 
   city: "ormos"
-  accentcity: "\xC3\x93rmos"
+  accentcity: "Órmos"
 ormos prinou: 
   city: "ormos prinou"
-  accentcity: "\xC3\x93rmos Prínou"
+  accentcity: "Órmos Prínou"
 ormylia: 
   city: "ormylia"
   accentcity: "Ormylia"
@@ -36206,7 +36206,7 @@ oropus:
   accentcity: "Oropus"
 oros: 
   city: "oros"
-  accentcity: "\xC3\x93ros"
+  accentcity: "Óros"
 orova: 
   city: "orova"
   accentcity: "Orová"
@@ -36215,7 +36215,7 @@ orovas:
   accentcity: "Orovás"
 orovnik: 
   city: "orovnik"
-  accentcity: "\xC3\x93rovnik"
+  accentcity: "Órovnik"
 orta-koi: 
   city: "orta-koi"
   accentcity: "Ortá-Kó\xC3\xAF"
@@ -36251,7 +36251,7 @@ orthovouni:
   accentcity: "Orthovoúni"
 orva: 
   city: "orva"
-  accentcity: "\xC3\x93rva"
+  accentcity: "Órva"
 osdhina: 
   city: "osdhina"
   accentcity: "Osdhína"
@@ -36260,13 +36260,13 @@ osenitsa:
   accentcity: "Osenítsa"
 osiani: 
   city: "osiani"
-  accentcity: "\xC3\x93siani"
+  accentcity: "Ósiani"
 osliani: 
   city: "osliani"
-  accentcity: "\xC3\x93sliani"
+  accentcity: "Ósliani"
 oslovon: 
   city: "oslovon"
-  accentcity: "\xC3\x93slovon"
+  accentcity: "Óslovon"
 osman aga: 
   city: "osman aga"
   accentcity: "Osmán Agá"
@@ -36281,19 +36281,19 @@ osnitsani:
   accentcity: "Osnítsani"
 ossa: 
   city: "ossa"
-  accentcity: "\xC3\x93ssa"
+  accentcity: "Óssa"
 ossiani: 
   city: "ossiani"
-  accentcity: "\xC3\x93ssiani"
+  accentcity: "Óssiani"
 ostima: 
   city: "ostima"
-  accentcity: "\xC3\x93stima"
+  accentcity: "Óstima"
 ostitsa: 
   city: "ostitsa"
   accentcity: "Ostítsa"
 ostrovon: 
   city: "ostrovon"
-  accentcity: "\xC3\x93strovon"
+  accentcity: "Óstrovon"
 ostrovo: 
   city: "ostrovo"
   accentcity: "Ostrovo"
@@ -36308,7 +36308,7 @@ othonoi:
   accentcity: "Othonoí"
 othos: 
   city: "othos"
-  accentcity: "\xC3\x93thos"
+  accentcity: "Óthos"
 otmanli: 
   city: "otmanli"
   accentcity: "Otmanlí"
@@ -36359,7 +36359,7 @@ oxinia:
   accentcity: "Oxínia"
 oxo lakonia: 
   city: "oxo lakonia"
-  accentcity: "\xC3\x93xo Lakónia"
+  accentcity: "Óxo Lakónia"
 oxya: 
   city: "oxya"
   accentcity: "Oxyá"
@@ -36461,7 +36461,7 @@ paitounia:
   accentcity: "Paitouniá"
 pakhia ammos: 
   city: "pakhia ammos"
-  accentcity: "Pakhía \xC3\x81mmos"
+  accentcity: "Pakhía Ámmos"
 pakhiammos: 
   city: "pakhiammos"
   accentcity: "Pakhiámmos"
@@ -36905,7 +36905,7 @@ palaion mitaton:
   accentcity: "Palaíon Mitáton"
 palaion olvion: 
   city: "palaion olvion"
-  accentcity: "Palaión \xC3\x93lvion"
+  accentcity: "Palaión Ólvion"
 palaion: 
   city: "palaion"
   accentcity: "Palaión"
@@ -37457,7 +37457,7 @@ panayaiika:
   accentcity: "Panayaíika"
 panayia elona: 
   city: "panayia elona"
-  accentcity: "Panayía \xC3\x89lona"
+  accentcity: "Panayía Élona"
 panayia kalamiotissa: 
   city: "panayia kalamiotissa"
   accentcity: "Panayía Kalamiótissa"
@@ -37946,10 +37946,10 @@ paralimni:
   accentcity: "Paralímni"
 paralion astros: 
   city: "paralion astros"
-  accentcity: "Parálion \xC3\x81stros"
+  accentcity: "Parálion Ástros"
 paralion astrous: 
   city: "paralion astrous"
-  accentcity: "Parálion \xC3\x81strous"
+  accentcity: "Parálion Ástrous"
 paralongoi: 
   city: "paralongoi"
   accentcity: "Paralongoí"
@@ -38642,7 +38642,7 @@ peraia:
   accentcity: "Peraía"
 pera iria: 
   city: "pera iria"
-  accentcity: "Péra \xC3\x8Dria"
+  accentcity: "Péra Íria"
 perakaiika: 
   city: "perakaiika"
   accentcity: "Perakaíika"
@@ -40232,7 +40232,7 @@ plathianos:
   accentcity: "Plathianós"
 platia ammos: 
   city: "platia ammos"
-  accentcity: "Platiá \xC3\x81mmos"
+  accentcity: "Platiá Ámmos"
 platiana: 
   city: "platiana"
   accentcity: "Platianá"
@@ -41030,7 +41030,7 @@ potaki:
   accentcity: "Potáki"
 potamia ano: 
   city: "potamia ano"
-  accentcity: "Potamiá \xC3\x81no"
+  accentcity: "Potamiá Áno"
 potamiai: 
   city: "potamiai"
   accentcity: "Potamiaí"
@@ -41753,7 +41753,7 @@ psila alonia:
   accentcity: "Psilá Alónia"
 psili ammos: 
   city: "psili ammos"
-  accentcity: "Psilí \xC3\x81mmos"
+  accentcity: "Psilí Ámmos"
 psili rakhi: 
   city: "psili rakhi"
   accentcity: "Psilí Rákhi"
@@ -44576,7 +44576,7 @@ silli:
   accentcity: "Sílli"
 silmin os: 
   city: "silmin os"
-  accentcity: "Silmín \xC3\x93s"
+  accentcity: "Silmín Ós"
 simandiriana: 
   city: "simandiriana"
   accentcity: "Simandirianá"
@@ -44738,7 +44738,7 @@ sinista:
   accentcity: "Sinísta"
 sinoikia ano trikalon: 
   city: "sinoikia ano trikalon"
-  accentcity: "Sinoikía \xC3\x81no Trikálon"
+  accentcity: "Sinoikía Áno Trikálon"
 sinoikia kato trikalon: 
   city: "sinoikia kato trikalon"
   accentcity: "Sinoikía Káto Trikálon"
@@ -44765,7 +44765,7 @@ sinoikismos anginaras:
   accentcity: "Sinoikismós Angináras"
 sinoikismos ano kefala: 
   city: "sinoikismos ano kefala"
-  accentcity: "Sinoikismós \xC3\x81no Kefála"
+  accentcity: "Sinoikismós Áno Kefála"
 sinoikismosarkalokefali: 
   city: "sinoikismosarkalokefali"
   accentcity: "SinoikismósArkalokeFáli"
@@ -44780,10 +44780,10 @@ sinoikismos averof:
   accentcity: "Sinoikismós Avérof"
 sinoikismos ayioi apostoloi: 
   city: "sinoikismos ayioi apostoloi"
-  accentcity: "Sinoikismós \xC3\x81yioi Apóstoloi"
+  accentcity: "Sinoikismós Áyioi Apóstoloi"
 sinoikismos ayios ioannis: 
   city: "sinoikismos ayios ioannis"
-  accentcity: "Sinoikismós \xC3\x81yios Ioánnis"
+  accentcity: "Sinoikismós Áyios Ioánnis"
 sinoikismos ayiou ioannou: 
   city: "sinoikismos ayiou ioannou"
   accentcity: "Sinoikismós Ayíou Ioánnou"
@@ -45812,7 +45812,7 @@ skisma metokhi:
   accentcity: "Skísma Metókhi"
 skiti ayias annis: 
   city: "skiti ayias annis"
-  accentcity: "Skíti Ayías \xC3\x81nnis"
+  accentcity: "Skíti Ayías Ánnis"
 skiti ayias triadhos: 
   city: "skiti ayias triadhos"
   accentcity: "Skíti Ayías Triádhos"
@@ -46505,7 +46505,7 @@ sougleika:
   accentcity: "Souglé\xC3\xAFka"
 soujak: 
   city: "soujak"
-  accentcity: "So\xC3\xBCják"
+  accentcity: "Soüják"
 soularion: 
   city: "soularion"
   accentcity: "Soulárion"
@@ -48011,7 +48011,7 @@ tatsi:
   accentcity: "Tátsi"
 tausan: 
   city: "tausan"
-  accentcity: "Ta\xC3\xBCsán"
+  accentcity: "Taüsán"
 taverna: 
   city: "taverna"
   accentcity: "Tavérna"
@@ -50468,7 +50468,7 @@ ubaya:
   accentcity: "Ubayá"
 uchana: 
   city: "uchana"
-  accentcity: "\xC3\x9Achana"
+  accentcity: "Úchana"
 urisoules: 
   city: "urisoules"
   accentcity: "Urisoules"
@@ -52637,7 +52637,7 @@ volia:
   accentcity: "Vólia"
 volimais ano: 
   city: "volimais ano"
-  accentcity: "Volímais \xC3\x81no"
+  accentcity: "Volímais Áno"
 volimais kato: 
   city: "volimais kato"
   accentcity: "Volímais Káto"

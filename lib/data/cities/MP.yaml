@@ -143,10 +143,10 @@ bel air:
   accentcity: "Bel Air"
 bel etang: 
   city: "bel etang"
-  accentcity: "Bel \xC3\x89tang"
+  accentcity: "Bel Étang"
 belle etoile: 
   city: "belle etoile"
-  accentcity: "Belle \xC3\x89toile"
+  accentcity: "Belle Étoile"
 belle isle: 
   city: "belle isle"
   accentcity: "Belle Isle"
@@ -512,7 +512,7 @@ coteau rafin:
   accentcity: "Coteau Rafin"
 cote dor: 
   city: "cote d'or"
-  accentcity: "C\xC3\xB4te d'Or"
+  accentcity: "Côte d'Or"
 cottage: 
   city: "cottage"
   accentcity: "Cottage"
@@ -953,7 +953,7 @@ lesur:
   accentcity: "Lesur"
 letoile: 
   city: "l'etoile"
-  accentcity: "L'\xC3\x89toile"
+  accentcity: "L'Étoile"
 le val: 
   city: "le val"
   accentcity: "Le Val"

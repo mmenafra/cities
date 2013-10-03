@@ -2,7 +2,7 @@
 --- 
 abaer: 
   city: "abaer"
-  accentcity: "\xC3\x81b\xC3\xA6r"
+  accentcity: "Áb\xC3\xA6r"
 abaer kirkja: 
   city: "abaer kirkja"
   accentcity: "Ab\xC3\xA6r Kirkja"
@@ -20,31 +20,31 @@ akureyri:
   accentcity: "Akureyri"
 alafoss: 
   city: "alafoss"
-  accentcity: "\xC3\x81lafoss"
+  accentcity: "Álafoss"
 alftamyri: 
   city: "alftamyri"
-  accentcity: "\xC3\x81lftam\xC3\xBDri"
+  accentcity: "Álftam\xC3\xBDri"
 alftanes: 
   city: "alftanes"
-  accentcity: "\xC3\x81lftanes"
+  accentcity: "Álftanes"
 alftartunga: 
   city: "alftartunga"
-  accentcity: "\xC3\x81lftártunga"
+  accentcity: "Álftártunga"
 alptamyri: 
   city: "alptamyri"
-  accentcity: "\xC3\x81lptam\xC3\xBDri"
+  accentcity: "Álptam\xC3\xBDri"
 alttanes: 
   city: "alttanes"
   accentcity: "Alttanes"
 arbaer: 
   city: "arbaer"
-  accentcity: "\xC3\x81rb\xC3\xA6r"
+  accentcity: "Árb\xC3\xA6r"
 argerdareyri: 
   city: "argerdareyri"
   accentcity: "Argerdareyri"
 arnes: 
   city: "arnes"
-  accentcity: "\xC3\x81rnes"
+  accentcity: "Árnes"
 "arnger\xC3\xB0areyri": 
   city: "arnger\xC3\xB0areyri"
   accentcity: "Arnger\xC3\xB0areyri"
@@ -53,16 +53,16 @@ arnes:
   accentcity: "Arnger\xC3\xB0eyri"
 as: 
   city: "as"
-  accentcity: "\xC3\x81s"
+  accentcity: "Ás"
 ashverfi: 
   city: "ashverfi"
-  accentcity: "\xC3\x81shverfi"
+  accentcity: "Áshverfi"
 "aslakssta\xC3\xB0ir": 
   city: "aslakssta\xC3\xB0ir"
-  accentcity: "\xC3\x81slákssta\xC3\xB0ir"
+  accentcity: "Áslákssta\xC3\xB0ir"
 asolfsskali: 
   city: "asolfsskali"
-  accentcity: "\xC3\x81sólfsskáli"
+  accentcity: "Ásólfsskáli"
 "au\xC3\xB0kula": 
   city: "au\xC3\xB0kula"
   accentcity: "Au\xC3\xB0kúla"
@@ -683,10 +683,10 @@ isafiordr:
   accentcity: "Isafiordr"
 isafjardardjup: 
   city: "isafjardardjup"
-  accentcity: "\xC3\x8Dsafjardardjup"
+  accentcity: "Ísafjardardjup"
 "isafjor\xC3\xB0ur": 
   city: "isafjor\xC3\xB0ur"
-  accentcity: "\xC3\x8Dsafj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Ísafj\xC3\xB6r\xC3\xB0ur"
 "issafjor\xC3\xB0ur": 
   city: "issafjor\xC3\xB0ur"
   accentcity: "Issafj\xC3\xB6r\xC3\xB0ur"
@@ -860,7 +860,7 @@ liosavatn:
   accentcity: "Liósavatn"
 litli-arskogssandur: 
   city: "litli-arskogssandur"
-  accentcity: "Litli-\xC3\x81rskógssandur"
+  accentcity: "Litli-Árskógssandur"
 litlibaer: 
   city: "litlibaer"
   accentcity: "Litlib\xC3\xA6r"
@@ -1010,7 +1010,7 @@ ofanleiti:
   accentcity: "Ofanleiti"
 "ofeigsfjor\xC3\xB0ur": 
   city: "ofeigsfjor\xC3\xB0ur"
-  accentcity: "\xC3\x93feigsfj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Ófeigsfj\xC3\xB6r\xC3\xB0ur"
 ogur: 
   city: "ogur"
   accentcity: "\xC3\x96gur"
@@ -1019,19 +1019,19 @@ olafsfjordhur:
   accentcity: "Olafsfj\xC3\xB6rdhur"
 "olafsfjor\xC3\xB0ur": 
   city: "olafsfjor\xC3\xB0ur"
-  accentcity: "\xC3\x93lafsfj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Ólafsfj\xC3\xB6r\xC3\xB0ur"
 olafsvellir: 
   city: "olafsvellir"
-  accentcity: "\xC3\x93lafsvellir"
+  accentcity: "Ólafsvellir"
 olafsvik: 
   city: "olafsvik"
-  accentcity: "\xC3\x93lafsvík"
+  accentcity: "Ólafsvík"
 "oliusto\xC3\xB0": 
   city: "oliusto\xC3\xB0"
   accentcity: "Olíust\xC3\xB6\xC3\xB0"
 ospakseyri: 
   city: "ospakseyri"
-  accentcity: "\xC3\x93spakseyri"
+  accentcity: "Óspakseyri"
 patreksfjordhur: 
   city: "patreksfjordhur"
   accentcity: "Patreksfjordhur"
@@ -1292,7 +1292,7 @@ stadarfell:
   accentcity: "Sta\xC3\xB0ur"
 staerri-arskogur: 
   city: "staerri-arskogur"
-  accentcity: "St\xC3\xA6rri-\xC3\x81rskógur"
+  accentcity: "St\xC3\xA6rri-Árskógur"
 stafafell: 
   city: "stafafell"
   accentcity: "Stafafell"
@@ -1328,7 +1328,7 @@ stora-vatnsleysa:
   accentcity: "Stóra-Vatnsléysa"
 stori-as: 
   city: "stori-as"
-  accentcity: "Stóri-\xC3\x81s"
+  accentcity: "Stóri-Ás"
 storidalur: 
   city: "storidalur"
   accentcity: "Stóridalur"
@@ -1409,10 +1409,10 @@ tungufell:
   accentcity: "Tungufell"
 ulfljotsvatn: 
   city: "ulfljotsvatn"
-  accentcity: "\xC3\x9Alfljótsvatn"
+  accentcity: "Úlfljótsvatn"
 ulfsa: 
   city: "ulfsa"
-  accentcity: "\xC3\x9Alfsá"
+  accentcity: "Úlfsá"
 "una\xC3\xB0sdalur": 
   city: "una\xC3\xB0sdalur"
   accentcity: "Una\xC3\xB0sdalur"
@@ -1430,13 +1430,13 @@ upsnir church:
   accentcity: "Ur\xC3\xB0ir"
 utskalar: 
   city: "utskalar"
-  accentcity: "\xC3\x9Atskálar"
+  accentcity: "Útskálar"
 utskaler church: 
   city: "utskaler church"
-  accentcity: "\xC3\x9Atskáler Church"
+  accentcity: "Útskáler Church"
 "u\xC3\xBEli\xC3\xB0": 
   city: "u\xC3\xBEli\xC3\xB0"
-  accentcity: "\xC3\x9A\xC3\xBElí\xC3\xB0"
+  accentcity: "Ú\xC3\xBElí\xC3\xB0"
 "va\xC3\xB0laekir": 
   city: "va\xC3\xB0laekir"
   accentcity: "Va\xC3\xB0l\xC3\xA6kir"

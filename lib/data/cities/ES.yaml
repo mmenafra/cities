@@ -47,10 +47,10 @@ aballe:
   accentcity: "Aballe"
 abalo: 
   city: "abalo"
-  accentcity: "\xC3\x81balo"
+  accentcity: "Ábalo"
 abalos: 
   city: "abalos"
-  accentcity: "\xC3\x81balos"
+  accentcity: "Ábalos"
 abamia: 
   city: "abamia"
   accentcity: "Abamia"
@@ -494,7 +494,7 @@ acrijos:
   accentcity: "Acrijos"
 acula: 
   city: "acula"
-  accentcity: "\xC3\x81cula"
+  accentcity: "Ácula"
 acumuer: 
   city: "acumuer"
   accentcity: "Acumuer"
@@ -677,7 +677,7 @@ agranzon:
   accentcity: "Agranzón"
 agreda: 
   city: "agreda"
-  accentcity: "\xC3\x81greda"
+  accentcity: "Ágreda"
 agrela: 
   city: "agrela"
   accentcity: "Agrela"
@@ -797,34 +797,34 @@ agudo:
   accentcity: "Agudo"
 aguela: 
   city: "aguela"
-  accentcity: "Ag\xC3\xBCela"
+  accentcity: "Agüela"
 aguera: 
   city: "aguera"
-  accentcity: "Ag\xC3\xBCera"
+  accentcity: "Agüera"
 aguera de carriles: 
   city: "aguera de carriles"
-  accentcity: "Ag\xC3\xBCera de Carriles"
+  accentcity: "Agüera de Carriles"
 aguera de castanedo: 
   city: "aguera de castanedo"
-  accentcity: "Ag\xC3\xBCera de Castañedo"
+  accentcity: "Agüera de Castañedo"
 aguera del coto: 
   city: "aguera del coto"
-  accentcity: "Ag\xC3\xBCera del Coto"
+  accentcity: "Agüera del Coto"
 agueras: 
   city: "agueras"
-  accentcity: "Ag\xC3\xBCeras"
+  accentcity: "Agüeras"
 agueria: 
   city: "agueria"
-  accentcity: "Ag\xC3\xBCería"
+  accentcity: "Agüería"
 aguerina: 
   city: "aguerina"
-  accentcity: "Ag\xC3\xBCerina"
+  accentcity: "Agüerina"
 aguero: 
   city: "aguero"
-  accentcity: "Ag\xC3\xBCero"
+  accentcity: "Agüero"
 agues: 
   city: "agues"
-  accentcity: "Ag\xC3\xBCés"
+  accentcity: "Agüés"
 aguiar: 
   city: "aguiar"
   accentcity: "Aguiar"
@@ -884,7 +884,7 @@ aguilarejo:
   accentcity: "Aguilarejo"
 aguilas: 
   city: "aguilas"
-  accentcity: "\xC3\x81guilas"
+  accentcity: "Águilas"
 aguilera: 
   city: "aguilera"
   accentcity: "Aguilera"
@@ -899,7 +899,7 @@ aguilon:
   accentcity: "Aguilón"
 aguimes: 
   city: "aguimes"
-  accentcity: "Ag\xC3\xBCimes"
+  accentcity: "Agüimes"
 aguinaga: 
   city: "aguinaga"
   accentcity: "Aguinaga"
@@ -956,7 +956,7 @@ ahin:
   accentcity: "Ahín"
 aibar: 
   city: "aibar"
-  accentcity: "\xC3\x81ibar"
+  accentcity: "Áibar"
 aigas: 
   city: "aigas"
   accentcity: "Aigas"
@@ -1079,7 +1079,7 @@ alagon:
   accentcity: "Alagón"
 alagueces: 
   city: "alagueces"
-  accentcity: "Alag\xC3\xBCeces"
+  accentcity: "Alagüeces"
 alais: 
   city: "alais"
   accentcity: "Alais"
@@ -1178,7 +1178,7 @@ alatoz:
   accentcity: "Alatoz"
 alava: 
   city: "alava"
-  accentcity: "\xC3\x81lava"
+  accentcity: "Álava"
 alayor: 
   city: "alayor"
   accentcity: "Alayor"
@@ -1283,7 +1283,7 @@ albanchez:
   accentcity: "Albánchez"
 albanchez de ubeda: 
   city: "albanchez de ubeda"
-  accentcity: "Albanchez de \xC3\x9Abeda"
+  accentcity: "Albanchez de Úbeda"
 albandi: 
   city: "albandi"
   accentcity: "Albandi"
@@ -2219,7 +2219,7 @@ aldehuela:
   accentcity: "Aldehuela"
 aldehuela de agreda: 
   city: "aldehuela de agreda"
-  accentcity: "Aldehuela de \xC3\x81greda"
+  accentcity: "Aldehuela de Ágreda"
 aldehuela de boveda: 
   city: "aldehuela de boveda"
   accentcity: "Aldehuela de Bóveda"
@@ -3386,7 +3386,7 @@ alustante:
   accentcity: "Alustante"
 alvare: 
   city: "alvare"
-  accentcity: "\xC3\x81lvare"
+  accentcity: "Álvare"
 alveavila de la ribera: 
   city: "alveavila de la ribera"
   accentcity: "Alveavila de la Ribera"
@@ -3872,7 +3872,7 @@ anfeoz:
   accentcity: "Anfeoz"
 angeles: 
   city: "angeles"
-  accentcity: "\xC3\x81ngeles"
+  accentcity: "Ángeles"
 angeriz: 
   city: "angeriz"
   accentcity: "Angeriz"
@@ -3908,7 +3908,7 @@ angueiros:
   accentcity: "Angueiros"
 angues: 
   city: "angues"
-  accentcity: "Ang\xC3\xBCés"
+  accentcity: "Angüés"
 anguiano: 
   city: "anguiano"
   accentcity: "Anguiano"
@@ -4043,7 +4043,7 @@ anso:
   accentcity: "Ansó"
 ansola: 
   city: "ansola"
-  accentcity: "\xC3\x81nsola"
+  accentcity: "Ánsola"
 anta: 
   city: "anta"
   accentcity: "Anta"
@@ -4076,7 +4076,7 @@ antezana:
   accentcity: "Antezana"
 antezana de alava: 
   city: "antezana de alava"
-  accentcity: "Antezana de \xC3\x81lava"
+  accentcity: "Antezana de Álava"
 antezana de la ribera: 
   city: "antezana de la ribera"
   accentcity: "Antezana de la Ribera"
@@ -4088,7 +4088,7 @@ antigua:
   accentcity: "Antigua"
 antiguedad: 
   city: "antiguedad"
-  accentcity: "Antig\xC3\xBCedad"
+  accentcity: "Antigüedad"
 antillon: 
   city: "antillon"
   accentcity: "Antillón"
@@ -4247,7 +4247,7 @@ araguas del solano:
   accentcity: "Araguás del Solano"
 aragues del puerto: 
   city: "aragues del puerto"
-  accentcity: "Arag\xC3\xBCés del Puerto"
+  accentcity: "Aragüés del Puerto"
 arahal: 
   city: "arahal"
   accentcity: "Arahal"
@@ -4475,7 +4475,7 @@ arboces:
   accentcity: "Arboces"
 arbol: 
   city: "arbol"
-  accentcity: "\xC3\x81rbol"
+  accentcity: "Árbol"
 arboleas: 
   city: "arboleas"
   accentcity: "Arboleas"
@@ -4577,7 +4577,7 @@ archena:
   accentcity: "Archena"
 archez: 
   city: "archez"
-  accentcity: "\xC3\x81rchez"
+  accentcity: "Árchez"
 archidona: 
   city: "archidona"
   accentcity: "Archidona"
@@ -5027,16 +5027,16 @@ arguedes:
   accentcity: "Arguedes"
 arguelles: 
   city: "arguelles"
-  accentcity: "Arg\xC3\xBCelles"
+  accentcity: "Argüelles"
 arguellite: 
   city: "arguellite"
   accentcity: "Arguellite"
 arguero: 
   city: "arguero"
-  accentcity: "Arg\xC3\xBCero"
+  accentcity: "Argüero"
 argueso: 
   city: "argueso"
-  accentcity: "Arg\xC3\xBCeso"
+  accentcity: "Argüeso"
 arguijo: 
   city: "arguijo"
   accentcity: "Arguijo"
@@ -6236,13 +6236,13 @@ aviados:
   accentcity: "Aviados"
 avila: 
   city: "avila"
-  accentcity: "\xC3\x81vila"
+  accentcity: "Ávila"
 avila de los caballeros: 
   city: "avila de los caballeros"
-  accentcity: "\xC3\x81vila de los Caballeros"
+  accentcity: "Ávila de los Caballeros"
 avila de los santos: 
   city: "avila de los santos"
-  accentcity: "\xC3\x81vila de los Santos"
+  accentcity: "Ávila de los Santos"
 aviles: 
   city: "aviles"
   accentcity: "Avilés"
@@ -6650,10 +6650,10 @@ baguena:
   accentcity: "Báguena"
 bagues: 
   city: "bagues"
-  accentcity: "Bag\xC3\xBCés"
+  accentcity: "Bagüés"
 bagueste: 
   city: "bagueste"
-  accentcity: "Bag\xC3\xBCeste"
+  accentcity: "Bagüeste"
 baguio: 
   city: "baguio"
   accentcity: "Baguio"
@@ -10064,7 +10064,7 @@ bergua:
   accentcity: "Bergua"
 berguenda: 
   city: "berguenda"
-  accentcity: "Berg\xC3\xBCenda"
+  accentcity: "Bergüenda"
 berguno: 
   city: "berguno"
   accentcity: "Berguño"
@@ -10535,7 +10535,7 @@ bigastro:
   accentcity: "Bigastro"
 biguezal: 
   city: "biguezal"
-  accentcity: "Big\xC3\xBCézal"
+  accentcity: "Bigüézal"
 bijuesca: 
   city: "bijuesca"
   accentcity: "Bijuesca"
@@ -15263,7 +15263,7 @@ caregne:
   accentcity: "Caregné"
 careguela: 
   city: "careguela"
-  accentcity: "Careg\xC3\xBCela"
+  accentcity: "Caregüela"
 carelle: 
   city: "carelle"
   accentcity: "Carelle"
@@ -17780,7 +17780,7 @@ caserio aincialde de arizcun:
   accentcity: "Caserío Aincialde de Arizcun"
 caserio alagueces: 
   city: "caserio alagueces"
-  accentcity: "Caserío Alag\xC3\xBCeces"
+  accentcity: "Caserío Alagüeces"
 caserio alameda del obispo: 
   city: "caserio alameda del obispo"
   accentcity: "Caserio Alameda del Obispo"
@@ -18449,7 +18449,7 @@ caserio cardiles:
   accentcity: "Caserío Cardiles"
 caserio careguela: 
   city: "caserio careguela"
-  accentcity: "Caserío Careg\xC3\xBCela"
+  accentcity: "Caserío Caregüela"
 caserio carija: 
   city: "caserio carija"
   accentcity: "Caserío Carija"
@@ -23486,7 +23486,7 @@ casillas de flores:
   accentcity: "Casillas de Flores"
 casillas del angel: 
   city: "casillas del angel"
-  accentcity: "Casillas del \xC3\x81ngel"
+  accentcity: "Casillas del Ángel"
 casillas de las erias: 
   city: "casillas de las erias"
   accentcity: "Casillas de las Erías"
@@ -25301,13 +25301,13 @@ cerro de hierro:
   accentcity: "Cerro de Hierro"
 cerro del aguila: 
   city: "cerro del aguila"
-  accentcity: "Cerro del \xC3\x81guila"
+  accentcity: "Cerro del Águila"
 cerro del aquila: 
   city: "cerro del aquila"
   accentcity: "Cerro del Aquila"
 cerro de las aguilas: 
   city: "cerro de las aguilas"
-  accentcity: "Cerro de las \xC3\x81guilas"
+  accentcity: "Cerro de las Águilas"
 cerrogordo: 
   city: "cerrogordo"
   accentcity: "Cerrogordo"
@@ -25853,7 +25853,7 @@ chirivella:
   accentcity: "Chirivella"
 chisagues: 
   city: "chisagues"
-  accentcity: "Chisag\xC3\xBCés"
+  accentcity: "Chisagüés"
 chite: 
   city: "chite"
   accentcity: "Chite"
@@ -26042,10 +26042,10 @@ cigudosa:
   accentcity: "Cigudosa"
 ciguedres: 
   city: "ciguedres"
-  accentcity: "Cig\xC3\xBCedres"
+  accentcity: "Cigüedres"
 ciguenza: 
   city: "ciguenza"
-  accentcity: "Cig\xC3\xBCenza"
+  accentcity: "Cigüenza"
 ciguera: 
   city: "ciguera"
   accentcity: "Ciguera"
@@ -28400,7 +28400,7 @@ cortijada rambla de valdiquin:
   accentcity: "Cortijada Rambla de Valdiquín"
 cortijada reguelo: 
   city: "cortijada reguelo"
-  accentcity: "Cortijada Reg\xC3\xBCelo"
+  accentcity: "Cortijada Regüelo"
 cortijada rioseco alto: 
   city: "cortijada rioseco alto"
   accentcity: "Cortijada Ríoseco Alto"
@@ -30095,7 +30095,7 @@ cueva:
   accentcity: "Cueva"
 cueva de agreda: 
   city: "cueva de agreda"
-  accentcity: "Cueva de \xC3\x81greda"
+  accentcity: "Cueva de Ágreda"
 cueva de juarros: 
   city: "cueva de juarros"
   accentcity: "Cueva de Juarros"
@@ -30467,7 +30467,7 @@ daganzo de arriba:
   accentcity: "Daganzo de Arriba"
 dagueno: 
   city: "dagueno"
-  accentcity: "Dag\xC3\xBCeño"
+  accentcity: "Dagüeño"
 daimalos: 
   city: "daimalos"
   accentcity: "Daimalos"
@@ -30791,7 +30791,7 @@ dices:
   accentcity: "Dices"
 diego alvaro: 
   city: "diego alvaro"
-  accentcity: "Diego \xC3\x81lvaro"
+  accentcity: "Diego Álvaro"
 diezma: 
   city: "diezma"
   accentcity: "Diezma"
@@ -30920,7 +30920,7 @@ donalbay:
   accentcity: "Donalbay"
 don alvaro: 
   city: "don alvaro"
-  accentcity: "Don \xC3\x81lvaro"
+  accentcity: "Don Álvaro"
 donamaria: 
   city: "donamaria"
   accentcity: "Donamaría"
@@ -31205,7 +31205,7 @@ ecay:
   accentcity: "Ecay"
 echaguen: 
   city: "echaguen"
-  accentcity: "Echag\xC3\xBCen"
+  accentcity: "Echagüen"
 echaide de elizondo: 
   city: "echaide de elizondo"
   accentcity: "Echaide de Elizondo"
@@ -31265,7 +31265,7 @@ echeverri:
   accentcity: "Echeverri"
 ecija: 
   city: "ecija"
-  accentcity: "\xC3\x89cija"
+  accentcity: "Écija"
 econ: 
   city: "econ"
   accentcity: "Ecón"
@@ -31310,7 +31310,7 @@ egusquitza:
   accentcity: "Egusquitza"
 eibar: 
   city: "eibar"
-  accentcity: "\xC3\x89ibar"
+  accentcity: "Éibar"
 eibedo: 
   city: "eibedo"
   accentcity: "Eibedo"
@@ -31397,7 +31397,7 @@ el aguadero:
   accentcity: "El Aguadero"
 el aguila: 
   city: "el aguila"
-  accentcity: "El \xC3\x81guila"
+  accentcity: "El Águila"
 el ajo: 
   city: "el ajo"
   accentcity: "El Ajo"
@@ -31412,7 +31412,7 @@ el alamillo:
   accentcity: "El Alamillo"
 el alamo: 
   city: "el alamo"
-  accentcity: "El \xC3\x81lamo"
+  accentcity: "El Álamo"
 el albaches: 
   city: "el albaches"
   accentcity: "El Albachés"
@@ -31487,7 +31487,7 @@ el anchuron:
   accentcity: "El Anchurón"
 el angel: 
   city: "el angel"
-  accentcity: "El \xC3\x81ngel"
+  accentcity: "El Ángel"
 el arahal: 
   city: "el arahal"
   accentcity: "El Arahal"
@@ -31565,10 +31565,10 @@ el barcenal:
   accentcity: "El Barcenal"
 el barco de avila: 
   city: "el barco de avila"
-  accentcity: "El Barco de \xC3\x81vila"
+  accentcity: "El Barco de Ávila"
 el barco de avile: 
   city: "el barco de avile"
-  accentcity: "El Barco de \xC3\x81vile"
+  accentcity: "El Barco de Ávile"
 el barco de valdeorras: 
   city: "el barco de valdeorras"
   accentcity: "El Barco de Valdeorras"
@@ -32636,7 +32636,7 @@ el laminador:
   accentcity: "El Laminador"
 ellar: 
   city: "ellar"
-  accentcity: "\xC3\x89llar"
+  accentcity: "Éllar"
 el lituero: 
   city: "el lituero"
   accentcity: "El Lituero"
@@ -33920,7 +33920,7 @@ encrucilladas:
   accentcity: "Encrucilladas"
 endriga: 
   city: "endriga"
-  accentcity: "\xC3\x89ndriga"
+  accentcity: "Éndriga"
 endrinal: 
   city: "endrinal"
   accentcity: "Endrinal"
@@ -33962,7 +33962,7 @@ eno:
   accentcity: "Eno"
 enova: 
   city: "enova"
-  accentcity: "\xC3\x89nova"
+  accentcity: "Énova"
 enquerentes: 
   city: "enquerentes"
   accentcity: "Enquerentes"
@@ -34049,7 +34049,7 @@ eparoz:
   accentcity: "Epároz"
 epila: 
   city: "epila"
-  accentcity: "\xC3\x89pila"
+  accentcity: "Épila"
 eptadelfos: 
   city: "eptadelfos"
   accentcity: "Eptadelfos"
@@ -35234,7 +35234,7 @@ etulain:
   accentcity: "Etuláin"
 etura: 
   city: "etura"
-  accentcity: "\xC3\x89tura"
+  accentcity: "Étura"
 eugui: 
   city: "eugui"
   accentcity: "Eugui"
@@ -35261,7 +35261,7 @@ extremera:
   accentcity: "Extremera"
 ezaro: 
   city: "ezaro"
-  accentcity: "\xC3\x89zaro"
+  accentcity: "Ézaro"
 ezcaray: 
   city: "ezcaray"
   accentcity: "Ezcaray"
@@ -35990,7 +35990,7 @@ florejachs:
   accentcity: "Florejachs"
 flores de avila: 
   city: "flores de avila"
-  accentcity: "Flores de \xC3\x81vila"
+  accentcity: "Flores de Ávila"
 flores: 
   city: "flores"
   accentcity: "Flores"
@@ -37049,10 +37049,10 @@ fuensauco lugar:
   accentcity: "Fuensaúco Lugar"
 fuente-alamo de murcia: 
   city: "fuente-alamo de murcia"
-  accentcity: "Fuente-\xC3\x81lamo de Murcia"
+  accentcity: "Fuente-Álamo de Murcia"
 fuente-alamo: 
   city: "fuente-alamo"
-  accentcity: "Fuente-\xC3\x81lamo"
+  accentcity: "Fuente-Álamo"
 fuentealbilla: 
   city: "fuentealbilla"
   accentcity: "Fuentealbilla"
@@ -37424,7 +37424,7 @@ fuentesclaras:
   accentcity: "Fuentesclaras"
 fuentes de agreda: 
   city: "fuentes de agreda"
-  accentcity: "Fuentes de \xC3\x81greda"
+  accentcity: "Fuentes de Ágreda"
 fuentes de andalucia: 
   city: "fuentes de andalucia"
   accentcity: "Fuentes de Andalucía"
@@ -38222,7 +38222,7 @@ gargoles de arriba:
   accentcity: "Gárgoles de Arriba"
 garguera: 
   city: "garguera"
-  accentcity: "Garg\xC3\xBCera"
+  accentcity: "Gargüera"
 garibay: 
   city: "garibay"
   accentcity: "Garibay"
@@ -39584,7 +39584,7 @@ guajar alto:
   accentcity: "Guájar Alto"
 guajar-faraguit: 
   city: "guajar-faraguit"
-  accentcity: "Guájar-Farag\xC3\xBCit"
+  accentcity: "Guájar-Faragüit"
 guajar fondon: 
   city: "guajar fondon"
   accentcity: "Guájar Fondón"
@@ -39617,7 +39617,7 @@ gualta:
   accentcity: "Gualta"
 gualtares de orbigo: 
   city: "gualtares de orbigo"
-  accentcity: "Gualtares de \xC3\x93rbigo"
+  accentcity: "Gualtares de Órbigo"
 gualtares: 
   city: "gualtares"
   accentcity: "Gualtares"
@@ -39749,7 +39749,7 @@ gueimonde:
   accentcity: "Gueimonde"
 guejar-sierra: 
   city: "guejar-sierra"
-  accentcity: "G\xC3\xBCéjar-Sierra"
+  accentcity: "Güéjar-Sierra"
 guellano: 
   city: "guellano"
   accentcity: "Guellano"
@@ -39758,7 +39758,7 @@ guembe:
   accentcity: "Guembe"
 guemes: 
   city: "guemes"
-  accentcity: "G\xC3\xBCemes"
+  accentcity: "Güemes"
 guendica: 
   city: "guendica"
   accentcity: "Guendica"
@@ -39767,7 +39767,7 @@ guendulain:
   accentcity: "Guenduláin"
 guenes: 
   city: "guenes"
-  accentcity: "G\xC3\xBCeñes"
+  accentcity: "Güeñes"
 gueral: 
   city: "gueral"
   accentcity: "Gueral"
@@ -39803,7 +39803,7 @@ guerricaiz:
   accentcity: "Guerricaiz"
 guesa: 
   city: "guesa"
-  accentcity: "G\xC3\xBCesa"
+  accentcity: "Güesa"
 guetaria: 
   city: "guetaria"
   accentcity: "Guetaria"
@@ -39812,7 +39812,7 @@ guevara:
   accentcity: "Guevara"
 guevejar: 
   city: "guevejar"
-  accentcity: "G\xC3\xBCevéjar"
+  accentcity: "Güevéjar"
 guezala: 
   city: "guezala"
   accentcity: "Guezala"
@@ -39845,7 +39845,7 @@ guijasalbas:
   accentcity: "Guijasalbas"
 guijo de avila: 
   city: "guijo de avila"
-  accentcity: "Guijo de \xC3\x81vila"
+  accentcity: "Guijo de Ávila"
 guijo de coria: 
   city: "guijo de coria"
   accentcity: "Guijo de Coria"
@@ -39908,13 +39908,13 @@ guimar:
   accentcity: "Guimar"
 guime: 
   city: "guime"
-  accentcity: "G\xC3\xBCime"
+  accentcity: "Güime"
 guimera: 
   city: "guimera"
   accentcity: "Guimerá"
 guimil: 
   city: "guimil"
-  accentcity: "G\xC3\xBCimil"
+  accentcity: "Güimil"
 guinate: 
   city: "guinate"
   accentcity: "Guinate"
@@ -39926,7 +39926,7 @@ guingueta:
   accentcity: "Guingueta"
 guin: 
   city: "guin"
-  accentcity: "G\xC3\xBCin"
+  accentcity: "Güin"
 guinicio: 
   city: "guinicio"
   accentcity: "Guinicio"
@@ -39956,7 +39956,7 @@ guisona:
   accentcity: "Guisona"
 guitamarin: 
   city: "guitamarin"
-  accentcity: "G\xC3\xBCitamarín"
+  accentcity: "Güitamarín"
 guitiriz: 
   city: "guitiriz"
   accentcity: "Guitiriz"
@@ -40871,7 +40871,7 @@ hortigal:
   accentcity: "Hortigal"
 hortiguela: 
   city: "hortiguela"
-  accentcity: "Hortig\xC3\xBCela"
+  accentcity: "Hortigüela"
 hortizuela: 
   city: "hortizuela"
   accentcity: "Hortizuela"
@@ -40889,7 +40889,7 @@ hospinal:
   accentcity: "Hospinal"
 hospital de orbigo: 
   city: "hospital de orbigo"
-  accentcity: "Hospital de \xC3\x93rbigo"
+  accentcity: "Hospital de Órbigo"
 hospitalet de llobregat: 
   city: "hospitalet de llobregat"
   accentcity: "Hospitalet de Llobregat"
@@ -41228,7 +41228,7 @@ huertas concejo:
   accentcity: "Huertas Concejo"
 huertas de animas: 
   city: "huertas de animas"
-  accentcity: "Huertas de \xC3\x81nimas"
+  accentcity: "Huertas de Ánimas"
 huertas del concejo: 
   city: "huertas del concejo"
   accentcity: "Huertas del Concejo"
@@ -41429,7 +41429,7 @@ ibeas de juarros:
   accentcity: "Ibeas de Juarros"
 ibero: 
   city: "ibero"
-  accentcity: "\xC3\x8Dbero"
+  accentcity: "Íbero"
 ibias: 
   city: "ibias"
   accentcity: "Ibias"
@@ -41588,7 +41588,7 @@ igueldo:
   accentcity: "Igueldo"
 iguena: 
   city: "iguena"
-  accentcity: "Ig\xC3\xBCeña"
+  accentcity: "Igüeña"
 igueste de candelaria: 
   city: "igueste de candelaria"
   accentcity: "Igueste de Candelaria"
@@ -41765,7 +41765,7 @@ inigo-blasco:
   accentcity: "Iñigo-Blasco"
 inigo: 
   city: "inigo"
-  accentcity: "\xC3\x8Dñigo"
+  accentcity: "Íñigo"
 injerto de abajo: 
   city: "injerto de abajo"
   accentcity: "Injerto de Abajo"
@@ -42032,7 +42032,7 @@ itero seco:
   accentcity: "Itero Seco"
 itrabo: 
   city: "itrabo"
-  accentcity: "\xC3\x8Dtrabo"
+  accentcity: "Ítrabo"
 ituerino: 
   city: "ituerino"
   accentcity: "Ituerino"
@@ -44165,10 +44165,10 @@ la gudina:
   accentcity: "La Gudiña"
 lagueiro: 
   city: "lagueiro"
-  accentcity: "Lag\xC3\xBCeiro"
+  accentcity: "Lagüeiro"
 laguelles: 
   city: "laguelles"
-  accentcity: "Lag\xC3\xBCelles"
+  accentcity: "Lagüelles"
 lagueruela: 
   city: "lagueruela"
   accentcity: "Lagueruela"
@@ -46037,7 +46037,7 @@ las aguas:
   accentcity: "Las Aguas"
 las agueras: 
   city: "las agueras"
-  accentcity: "Las Ag\xC3\xBCeras"
+  accentcity: "Las Agüeras"
 la salada: 
   city: "la salada"
   accentcity: "La Salada"
@@ -46091,7 +46091,7 @@ las angladas:
   accentcity: "Las Angladas"
 las animas: 
   city: "las animas"
-  accentcity: "Las \xC3\x81nimas"
+  accentcity: "Las Ánimas"
 las anorias: 
   city: "las anorias"
   accentcity: "Las Anorias"
@@ -46397,7 +46397,7 @@ las cuevas de los medinas:
   accentcity: "Las Cuevas de los Medinas"
 las cuevas de los ubedas: 
   city: "las cuevas de los ubedas"
-  accentcity: "Las Cuevas de los \xC3\x9Abedas"
+  accentcity: "Las Cuevas de los Úbedas"
 las cuevas de maria: 
   city: "las cuevas de maria"
   accentcity: "Las Cuevas de María"
@@ -48218,13 +48218,13 @@ ligos:
   accentcity: "Ligos"
 liguerre de ara: 
   city: "liguerre de ara"
-  accentcity: "Lig\xC3\xBCerre de Ara"
+  accentcity: "Ligüerre de Ara"
 liguerre de cinca: 
   city: "liguerre de cinca"
-  accentcity: "Lig\xC3\xBCerre de Cinca"
+  accentcity: "Ligüerre de Cinca"
 liguerzana: 
   city: "liguerzana"
-  accentcity: "Lig\xC3\xBCérzana"
+  accentcity: "Ligüérzana"
 lijar: 
   city: "lijar"
   accentcity: "Lijar"
@@ -49307,7 +49307,7 @@ los alagones:
   accentcity: "Los Alagones"
 los alamos: 
   city: "los alamos"
-  accentcity: "Los \xC3\x81lamos"
+  accentcity: "Los Álamos"
 los alares: 
   city: "los alares"
   accentcity: "Los Alares"
@@ -49364,7 +49364,7 @@ los andreses:
   accentcity: "Los Andreses"
 los angeles: 
   city: "los angeles"
-  accentcity: "Los \xC3\x81ngeles"
+  accentcity: "Los Ángeles"
 losanglis: 
   city: "losanglis"
   accentcity: "Losanglis"
@@ -51557,7 +51557,7 @@ manganeses:
   accentcity: "Manganeses"
 mangueiro: 
   city: "mangueiro"
-  accentcity: "Mang\xC3\xBCeiro"
+  accentcity: "Mangüeiro"
 manilva: 
   city: "manilva"
   accentcity: "Manilva"
@@ -54221,7 +54221,7 @@ miudes:
   accentcity: "Miudes"
 miyangues: 
   city: "miyangues"
-  accentcity: "Miyang\xC3\xBCes"
+  accentcity: "Miyangües"
 miyares: 
   city: "miyares"
   accentcity: "Miyares"
@@ -54464,7 +54464,7 @@ molino de la matanza:
   accentcity: "Molino de la Matanza"
 molino de las animas: 
   city: "molino de las animas"
-  accentcity: "Molino de las \xC3\x81nimas"
+  accentcity: "Molino de las Ánimas"
 molino de la vereda: 
   city: "molino de la vereda"
   accentcity: "Molino de la Vereda"
@@ -55142,7 +55142,7 @@ montenastro:
   accentcity: "Montenastró"
 montenegro de agreda: 
   city: "montenegro de agreda"
-  accentcity: "Montenegro de \xC3\x81greda"
+  accentcity: "Montenegro de Ágreda"
 montenegro de cameras: 
   city: "montenegro de cameras"
   accentcity: "Montenegro de Cameras"
@@ -55496,7 +55496,7 @@ moral del condado:
   accentcity: "Moral del Condado"
 moral de orbigo: 
   city: "moral de orbigo"
-  accentcity: "Moral de \xC3\x93rbigo"
+  accentcity: "Moral de Órbigo"
 moral de sayago: 
   city: "moral de sayago"
   accentcity: "Moral de Sayago"
@@ -55664,7 +55664,7 @@ mordomo:
   accentcity: "Mórdomo"
 moreda de alava: 
   city: "moreda de alava"
-  accentcity: "Moreda de \xC3\x81lava"
+  accentcity: "Moreda de Álava"
 moreda: 
   city: "moreda"
   accentcity: "Moreda"
@@ -56390,7 +56390,7 @@ muro-astrain:
   accentcity: "Muro-Astrain"
 muro de agreda: 
   city: "muro de agreda"
-  accentcity: "Muro de \xC3\x81greda"
+  accentcity: "Muro de Ágreda"
 muro de aguas: 
   city: "muro de aguas"
   accentcity: "Muro de Aguas"
@@ -56648,7 +56648,7 @@ naron:
   accentcity: "Narón"
 narrillos del alamo: 
   city: "narrillos del alamo"
-  accentcity: "Narrillos del \xC3\x81lamo"
+  accentcity: "Narrillos del Álamo"
 narrillos del rebollar: 
   city: "narrillos del rebollar"
   accentcity: "Narrillos del Rebollar"
@@ -57377,10 +57377,10 @@ nigueiroa:
   accentcity: "Nigueiroá"
 niguelas: 
   city: "niguelas"
-  accentcity: "Nig\xC3\xBCelas"
+  accentcity: "Nigüelas"
 niguella: 
   city: "niguella"
-  accentcity: "Nig\xC3\xBCella"
+  accentcity: "Nigüella"
 niharra: 
   city: "niharra"
   accentcity: "Niharra"
@@ -58046,7 +58046,7 @@ olagorta:
   accentcity: "Olagorta"
 olague: 
   city: "olague"
-  accentcity: "Olag\xC3\xBCe"
+  accentcity: "Olagüe"
 olalla: 
   city: "olalla"
   accentcity: "Olalla"
@@ -58664,7 +58664,7 @@ ordejon de arriba:
   accentcity: "Ordejón de Arriba"
 ordenes: 
   city: "ordenes"
-  accentcity: "\xC3\x93rdenes"
+  accentcity: "Órdenes"
 orderias: 
   city: "orderias"
   accentcity: "Orderías"
@@ -58823,7 +58823,7 @@ orjais:
   accentcity: "Orjais"
 orjiva: 
   city: "orjiva"
-  accentcity: "\xC3\x93rjiva"
+  accentcity: "Órjiva"
 orle: 
   city: "orle"
   accentcity: "Orlé"
@@ -59273,7 +59273,7 @@ ouson:
   accentcity: "Ousón"
 outara: 
   city: "outara"
-  accentcity: "\xC3\x93utara"
+  accentcity: "Óutara"
 outariz: 
   city: "outariz"
   accentcity: "Outariz"
@@ -59765,7 +59765,7 @@ palazuelo de la valcueva:
   accentcity: "Palazuelo de la Valcueva"
 palazuelo de orbigo: 
   city: "palazuelo de orbigo"
-  accentcity: "Palazuelo de \xC3\x93rbigo"
+  accentcity: "Palazuelo de Órbigo"
 palazuelo de sayago: 
   city: "palazuelo de sayago"
   accentcity: "Palazuelo de Sayago"
@@ -60041,7 +60041,7 @@ pantano de cijara:
   accentcity: "Pantano de Cijara"
 pantano del aguila: 
   city: "pantano del aguila"
-  accentcity: "Pantano del \xC3\x81guila"
+  accentcity: "Pantano del Águila"
 pantano de puentes: 
   city: "pantano de puentes"
   accentcity: "Pantano de Puentes"
@@ -60362,7 +60362,7 @@ paredes de nava:
   accentcity: "Paredes de Nava"
 paredes de siguenza: 
   city: "paredes de siguenza"
-  accentcity: "Paredes de Sig\xC3\xBCenza"
+  accentcity: "Paredes de Sigüenza"
 paredes: 
   city: "paredes"
   accentcity: "Paredes"
@@ -60791,7 +60791,7 @@ pedro abad:
   accentcity: "Pedro Abad"
 pedro alvarez: 
   city: "pedro alvarez"
-  accentcity: "Pedro \xC3\x81lvarez"
+  accentcity: "Pedro Álvarez"
 pedro alvaro: 
   city: "pedro alvaro"
   accentcity: "Pedro Alvaro"
@@ -61109,7 +61109,7 @@ penahorada:
   accentcity: "Peñahorada"
 penalba de avila: 
   city: "penalba de avila"
-  accentcity: "Peñalba de \xC3\x81vila"
+  accentcity: "Peñalba de Ávila"
 penalba de castro: 
   city: "penalba de castro"
   accentcity: "Peñalba de Castro"
@@ -61946,13 +61946,13 @@ pigara:
   accentcity: "Pígara"
 piguece: 
   city: "piguece"
-  accentcity: "Pig\xC3\xBCece"
+  accentcity: "Pigüece"
 pigueces: 
   city: "pigueces"
-  accentcity: "Pig\xC3\xBCeces"
+  accentcity: "Pigüeces"
 piguena: 
   city: "piguena"
-  accentcity: "Pig\xC3\xBCeña"
+  accentcity: "Pigüeña"
 pijeiros: 
   city: "pijeiros"
   accentcity: "Pijeiros"
@@ -62060,7 +62060,7 @@ pineda de arriba:
   accentcity: "Piñeda de Arriba"
 pineda de giguela: 
   city: "pineda de giguela"
-  accentcity: "Pineda de Gig\xC3\xBCela"
+  accentcity: "Pineda de Gigüela"
 pineda de la sierra: 
   city: "pineda de la sierra"
   accentcity: "Pineda de la Sierra"
@@ -62480,7 +62480,7 @@ plaza de olzerin-mendi e ibarguen:
   accentcity: "Plaza de Olzerin-Mendi e Ibarguen"
 plaza de otzerin-mendi e ibarguen: 
   city: "plaza de otzerin-mendi e ibarguen"
-  accentcity: "Plaza de Otzerin-Mendi e Ibarg\xC3\xBCen"
+  accentcity: "Plaza de Otzerin-Mendi e Ibargüen"
 plaza: 
   city: "plaza"
   accentcity: "Plaza"
@@ -64055,7 +64055,7 @@ puendeluna:
   accentcity: "Puendeluna"
 puente aguero: 
   city: "puente aguero"
-  accentcity: "Puente Ag\xC3\xBCero"
+  accentcity: "Puente Agüero"
 puente-almuhey: 
   city: "puente-almuhey"
   accentcity: "Puente-Almuhey"
@@ -64304,7 +64304,7 @@ puerto de gran tarajal:
   accentcity: "Puerto de Gran Tarajal"
 puerto de guimar: 
   city: "puerto de guimar"
-  accentcity: "Puerto de G\xC3\xBCimar"
+  accentcity: "Puerto de Güimar"
 puerto de la calderilla: 
   city: "puerto de la calderilla"
   accentcity: "Puerto de la Calderilla"
@@ -65237,7 +65237,7 @@ quintanilla-sobresierra:
   accentcity: "Quintanilla-Sobresierra"
 quintanilla-sociguenza: 
   city: "quintanilla-sociguenza"
-  accentcity: "Quintanilla-Socig\xC3\xBCenza"
+  accentcity: "Quintanilla-Socigüenza"
 quintanilla-somuno: 
   city: "quintanilla-somuno"
   accentcity: "Quintanilla-Somuñó"
@@ -65999,10 +65999,10 @@ regueiro:
   accentcity: "Regueiro"
 reguela: 
   city: "reguela"
-  accentcity: "Reg\xC3\xBCela"
+  accentcity: "Regüela"
 reguelo: 
   city: "reguelo"
-  accentcity: "Reg\xC3\xBCelo"
+  accentcity: "Regüelo"
 reguengo: 
   city: "reguengo"
   accentcity: "Reguengo"
@@ -67607,7 +67607,7 @@ roelos:
   accentcity: "Roelos"
 roguela: 
   city: "roguela"
-  accentcity: "Rog\xC3\xBCela"
+  accentcity: "Rogüela"
 roiles: 
   city: "roiles"
   accentcity: "Roiles"
@@ -68291,7 +68291,7 @@ sadaba:
   accentcity: "Sádaba"
 sada de sanguesa: 
   city: "sada de sanguesa"
-  accentcity: "Sada de Sang\xC3\xBCesa"
+  accentcity: "Sada de Sangüesa"
 sada: 
   city: "sada"
   accentcity: "Sada"
@@ -68369,13 +68369,13 @@ sagra:
   accentcity: "Sagra"
 saguera de luna: 
   city: "saguera de luna"
-  accentcity: "Sag\xC3\xBCera de Luna"
+  accentcity: "Sagüera de Luna"
 saguera: 
   city: "saguera"
-  accentcity: "Sag\xC3\xBCera"
+  accentcity: "Sagüera"
 sagues: 
   city: "sagues"
-  accentcity: "Sag\xC3\xBCés"
+  accentcity: "Sagüés"
 sagunto: 
   city: "sagunto"
   accentcity: "Sagunto"
@@ -68561,7 +68561,7 @@ salgueiros:
   accentcity: "Salgueiros"
 salguero de juarros: 
   city: "salguero de juarros"
-  accentcity: "Salg\xC3\xBCero de Juarros"
+  accentcity: "Salgüero de Juarros"
 salices: 
   city: "salices"
   accentcity: "Salices"
@@ -68882,7 +68882,7 @@ san acisclo:
   accentcity: "San Acisclo"
 san adria del besos: 
   city: "san adria del besos"
-  accentcity: "San Adria del Bes\xC3\xB2s"
+  accentcity: "San Adria del Besòs"
 san adrian de besos: 
   city: "san adrian de besos"
   accentcity: "San Adrián de Besós"
@@ -69623,7 +69623,7 @@ san feliz de la vega:
   accentcity: "San Feliz de la Vega"
 san feliz de orbigo: 
   city: "san feliz de orbigo"
-  accentcity: "San Feliz de \xC3\x93rbigo"
+  accentcity: "San Feliz de Órbigo"
 san feliz de torio: 
   city: "san feliz de torio"
   accentcity: "San Feliz de Torío"
@@ -69731,7 +69731,7 @@ sangroniz:
   accentcity: "Sangróniz"
 sanguesa: 
   city: "sanguesa"
-  accentcity: "Sang\xC3\xBCesa"
+  accentcity: "Sangüesa"
 sanguineda: 
   city: "sanguineda"
   accentcity: "Sanguiñeda"
@@ -69839,7 +69839,7 @@ san juan de duz:
   accentcity: "San Juan de Duz"
 san juan de enova: 
   city: "san juan de enova"
-  accentcity: "San Juan de \xC3\x89nova"
+  accentcity: "San Juan de Énova"
 san juan de fabregas: 
   city: "san juan de fabregas"
   accentcity: "San Juan de Fábregas"
@@ -70052,7 +70052,7 @@ san leandro:
   accentcity: "San Leandro"
 san leonardo de yague: 
   city: "san leonardo de yague"
-  accentcity: "San Leonardo de Yag\xC3\xBCe"
+  accentcity: "San Leonardo de Yagüe"
 san leonardo: 
   city: "san leonardo"
   accentcity: "San Leonardo"
@@ -71180,7 +71180,7 @@ sans:
   accentcity: "Sans"
 santa agueda: 
   city: "santa agueda"
-  accentcity: "Santa \xC3\x81gueda"
+  accentcity: "Santa Águeda"
 santa amalia: 
   city: "santa amalia"
   accentcity: "Santa Amalia"
@@ -72161,7 +72161,7 @@ santa teresa:
   accentcity: "Santa Teresa"
 santa ursula: 
   city: "santa ursula"
-  accentcity: "Santa \xC3\x9Arsula"
+  accentcity: "Santa Úrsula"
 santayana: 
   city: "santayana"
   accentcity: "Santayana"
@@ -72557,7 +72557,7 @@ santo adriano del monte:
   accentcity: "Santo Adriano del Monte"
 santo angel: 
   city: "santo angel"
-  accentcity: "Santo \xC3\x81ngel"
+  accentcity: "Santo Ángel"
 santocildes: 
   city: "santocildes"
   accentcity: "Santocildes"
@@ -72908,7 +72908,7 @@ saragosse:
   accentcity: "Saragosse"
 saragueta: 
   city: "saragueta"
-  accentcity: "Sarag\xC3\xBCeta"
+  accentcity: "Saragüeta"
 sarahis: 
   city: "sarahis"
   accentcity: "Sarahís"
@@ -72977,7 +72977,7 @@ sardon de duero:
   accentcity: "Sardón de Duero"
 sardon de los alamos: 
   city: "sardon de los alamos"
-  accentcity: "Sardón de los \xC3\x81lamos"
+  accentcity: "Sardón de los Álamos"
 sardon de los frailes: 
   city: "sardon de los frailes"
   accentcity: "Sardón de los Frailes"
@@ -73328,7 +73328,7 @@ segoyuela de los conejos:
   accentcity: "Segoyuela de los Conejos"
 seguenco: 
   city: "seguenco"
-  accentcity: "Seg\xC3\xBCenco"
+  accentcity: "Següenco"
 seguin: 
   city: "seguin"
   accentcity: "Seguín"
@@ -73511,7 +73511,7 @@ sendon:
   accentcity: "Sendón"
 senegue: 
   city: "senegue"
-  accentcity: "Seneg\xC3\xBCé"
+  accentcity: "Senegüé"
 senera: 
   city: "senera"
   accentcity: "Señera"
@@ -74051,10 +74051,10 @@ sigras:
   accentcity: "Sigrás"
 sigueiro: 
   city: "sigueiro"
-  accentcity: "Sig\xC3\xBCeiro"
+  accentcity: "Sigüeiro"
 siguenza: 
   city: "siguenza"
-  accentcity: "Sig\xC3\xBCenza"
+  accentcity: "Sigüenza"
 siguero: 
   city: "siguero"
   accentcity: "Siguero"
@@ -74063,10 +74063,10 @@ sigueruelo:
   accentcity: "Sigueruelo"
 sigues: 
   city: "sigues"
-  accentcity: "Sig\xC3\xBCés"
+  accentcity: "Sigüés"
 sigueya: 
   city: "sigueya"
-  accentcity: "Sig\xC3\xBCeya"
+  accentcity: "Sigüeya"
 silanes: 
   city: "silanes"
   accentcity: "Silanes"
@@ -75194,7 +75194,7 @@ subeiro:
   accentcity: "Subeiro"
 subijana de alava: 
   city: "subijana de alava"
-  accentcity: "Subijana de \xC3\x81lava"
+  accentcity: "Subijana de Álava"
 subijana: 
   city: "subijana"
   accentcity: "Subijana"
@@ -77108,7 +77108,7 @@ tornadizos de arevalo:
   accentcity: "Tornadizos de Arévalo"
 tornadizos de avila: 
   city: "tornadizos de avila"
-  accentcity: "Tornadizos de \xC3\x81vila"
+  accentcity: "Tornadizos de Ávila"
 tornadizos: 
   city: "tornadizos"
   accentcity: "Tornadizos"
@@ -77207,7 +77207,7 @@ torre-agicampe:
   accentcity: "Torre-Agicampe"
 torreaguera: 
   city: "torreaguera"
-  accentcity: "Torreag\xC3\xBCera"
+  accentcity: "Torreagüera"
 torre alhaquime: 
   city: "torre alhaquime"
   accentcity: "Torre Alháquime"
@@ -77300,7 +77300,7 @@ torrecilla del monte:
   accentcity: "Torrecilla del Monte"
 torrecilla de los angeles: 
   city: "torrecilla de los angeles"
-  accentcity: "Torrecilla de los \xC3\x81ngeles"
+  accentcity: "Torrecilla de los Ángeles"
 torrecilla del pinar: 
   city: "torrecilla del pinar"
   accentcity: "Torrecilla del Pinar"
@@ -77396,7 +77396,7 @@ torre de la horadada:
   accentcity: "Torre de la Horadada"
 torre del angel: 
   city: "torre del angel"
-  accentcity: "Torre del \xC3\x81ngel"
+  accentcity: "Torre del Ángel"
 torre de la sal: 
   city: "torre de la sal"
   accentcity: "Torre de la Sal"
@@ -78620,7 +78620,7 @@ tudanca:
   accentcity: "Tudanca"
 tudela-agueria: 
   city: "tudela-agueria"
-  accentcity: "Tudela-Ag\xC3\xBCeria"
+  accentcity: "Tudela-Agüeria"
 tudela de duera: 
   city: "tudela de duera"
   accentcity: "Tudela de Duera"
@@ -78800,7 +78800,7 @@ ubani:
   accentcity: "Ubani"
 ubeda: 
   city: "ubeda"
-  accentcity: "\xC3\x9Abeda"
+  accentcity: "Úbeda"
 ubera: 
   city: "ubera"
   accentcity: "Ubera"
@@ -78824,7 +78824,7 @@ ubrique:
   accentcity: "Ubrique"
 ucar: 
   city: "ucar"
-  accentcity: "\xC3\x9Acar"
+  accentcity: "Úcar"
 uceda: 
   city: "uceda"
   accentcity: "Uceda"
@@ -80543,7 +80543,7 @@ valle del agua:
   accentcity: "Valle del Agua"
 valle del alamo: 
   city: "valle del alamo"
-  accentcity: "Valle del \xC3\x81lamo"
+  accentcity: "Valle del Álamo"
 valle de la serena: 
   city: "valle de la serena"
   accentcity: "Valle de la Serena"
@@ -81353,7 +81353,7 @@ veguellina de fondo:
   accentcity: "Veguellina de Fondo"
 veguellina de orbigo: 
   city: "veguellina de orbigo"
-  accentcity: "Veguellina de \xC3\x93rbigo"
+  accentcity: "Veguellina de Órbigo"
 veguellina: 
   city: "veguellina"
   accentcity: "Veguellina"
@@ -82709,7 +82709,7 @@ villabrizan de trevino:
   accentcity: "Villabrizán de Treviño"
 villabuena de alava: 
   city: "villabuena de alava"
-  accentcity: "Villabuena de \xC3\x81lava"
+  accentcity: "Villabuena de Álava"
 villabuena del puente: 
   city: "villabuena del puente"
   accentcity: "Villabuena del Puente"
@@ -83159,7 +83159,7 @@ villafrial:
   accentcity: "Villafrial"
 villafria: 
   city: "villafria"
-  accentcity: "V\xC3\xACllafría"
+  accentcity: "Vìllafría"
 villafrime: 
   city: "villafrime"
   accentcity: "Villafrime"
@@ -83261,7 +83261,7 @@ villagudel:
   accentcity: "Villagudel"
 villaguiz: 
   city: "villaguiz"
-  accentcity: "Villag\xC3\xBCiz"
+  accentcity: "Villagüiz"
 villagundu: 
   city: "villagundu"
   accentcity: "Villagundú"
@@ -83894,7 +83894,7 @@ villamor de los escuderos:
   accentcity: "Villamor de los Escuderos"
 villamor de orbigo: 
   city: "villamor de orbigo"
-  accentcity: "Villamor de \xC3\x93rbigo"
+  accentcity: "Villamor de Órbigo"
 villamorel: 
   city: "villamorel"
   accentcity: "Villamorel"
@@ -84146,7 +84146,7 @@ villanueva de la pena:
   accentcity: "Villanueva de la Peña"
 villanueva del arbol: 
   city: "villanueva del arbol"
-  accentcity: "Villanueva del \xC3\x81rbol"
+  accentcity: "Villanueva del Árbol"
 villanueva de la reina: 
   city: "villanueva de la reina"
   accentcity: "Villanueva de la Reina"
@@ -84704,7 +84704,7 @@ villar de la encina:
   accentcity: "Villar de la Encina"
 villar del aguila: 
   city: "villar del aguila"
-  accentcity: "Villar del \xC3\x81guila"
+  accentcity: "Villar del Águila"
 villar del ala: 
   city: "villar del ala"
   accentcity: "Villar del Ala"
@@ -84752,7 +84752,7 @@ villar del olmo:
   accentcity: "Villar del Olmo"
 villar de los alamos: 
   city: "villar de los alamos"
-  accentcity: "Villar de los \xC3\x81lamos"
+  accentcity: "Villar de los Álamos"
 villar de los navarros: 
   city: "villar de los navarros"
   accentcity: "Villar de los Navarros"
@@ -84968,7 +84968,7 @@ villarejo de montalban:
   accentcity: "Villarejo de Montalbán"
 villarejo de orbigo: 
   city: "villarejo de orbigo"
-  accentcity: "Villarejo de \xC3\x93rbigo"
+  accentcity: "Villarejo de Órbigo"
 villarejo de salvanes: 
   city: "villarejo de salvanes"
   accentcity: "Villarejo de Salvanés"
@@ -85007,7 +85007,7 @@ villares del saz:
   accentcity: "Villares del Saz"
 villares de orbigo: 
   city: "villares de orbigo"
-  accentcity: "Villares de \xC3\x93rbigo"
+  accentcity: "Villares de Órbigo"
 villares de yeltes: 
   city: "villares de yeltes"
   accentcity: "Villares de Yeltes"
@@ -85037,7 +85037,7 @@ villarguende:
   accentcity: "Villarguende"
 villarguide: 
   city: "villarguide"
-  accentcity: "Villarg\xC3\xBCide"
+  accentcity: "Villargüide"
 villarguite: 
   city: "villarguite"
   accentcity: "Villarguite"
@@ -85253,7 +85253,7 @@ villarratel:
   accentcity: "Villarratel"
 villarreal de alava: 
   city: "villarreal de alava"
-  accentcity: "Villarreal de \xC3\x81lava"
+  accentcity: "Villarreal de Álava"
 villarreal de huerva: 
   city: "villarreal de huerva"
   accentcity: "Villarreal de Huerva"
@@ -85949,7 +85949,7 @@ villoria de buenamadre:
   accentcity: "Villoría de Buenamadre"
 villoria de orbigo: 
   city: "villoria de orbigo"
-  accentcity: "Villoría de \xC3\x93rbigo"
+  accentcity: "Villoría de Órbigo"
 villoria: 
   city: "villoria"
   accentcity: "Villoría"
@@ -86768,7 +86768,7 @@ zaldua:
   accentcity: "Zaldua"
 zalduendo de alava: 
   city: "zalduendo de alava"
-  accentcity: "Zalduendo de \xC3\x81lava"
+  accentcity: "Zalduendo de Álava"
 zalduendo: 
   city: "zalduendo"
   accentcity: "Zalduendo"

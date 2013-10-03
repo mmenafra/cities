@@ -14,7 +14,7 @@ aerne:
   accentcity: "\xC3\x85erne"
 a heyggi: 
   city: "a heyggi"
-  accentcity: "\xC3\x81 Heyggi"
+  accentcity: "Á Heyggi"
 akraberg: 
   city: "akraberg"
   accentcity: "Akraberg"
@@ -32,10 +32,10 @@ andefjord:
   accentcity: "Andefjord"
 anir: 
   city: "anir"
-  accentcity: "\xC3\x81nir"
+  accentcity: "Ánir"
 anirnar: 
   city: "anirnar"
-  accentcity: "\xC3\x81nirnar"
+  accentcity: "Ánirnar"
 arge: 
   city: "arge"
   accentcity: "Arge"
@@ -44,7 +44,7 @@ argir:
   accentcity: "Argir"
 "arnafjor\xC3\xB0ur": 
   city: "arnafjor\xC3\xB0ur"
-  accentcity: "\xC3\x81rnafj\xC3\xB8r\xC3\xB0ur"
+  accentcity: "Árnafj\xC3\xB8r\xC3\xB0ur"
 arnefiord: 
   city: "arnefiord"
   accentcity: "Arnefiord"
@@ -53,7 +53,7 @@ arnefjord:
   accentcity: "Arnefjord"
 a steig: 
   city: "a steig"
-  accentcity: "\xC3\x81 Steig"
+  accentcity: "Á Steig"
 avevig: 
   city: "avevig"
   accentcity: "Avevig"
@@ -380,16 +380,16 @@ hvitanes:
   accentcity: "Iansager\xC3\xB0i"
 i botni: 
   city: "i botni"
-  accentcity: "\xC3\x8D Botni"
+  accentcity: "Í Botni"
 i famara: 
   city: "i famara"
-  accentcity: "\xC3\x8D Fámara"
+  accentcity: "Í Fámara"
 i horg: 
   city: "i horg"
-  accentcity: "\xC3\x8D H\xC3\xB8rg"
+  accentcity: "Í H\xC3\xB8rg"
 i husi: 
   city: "i husi"
-  accentcity: "\xC3\x8D Húsi"
+  accentcity: "Í Húsi"
 innan glyvur: 
   city: "innan glyvur"
   accentcity: "Innan Glyvur"

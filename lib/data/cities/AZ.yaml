@@ -1955,7 +1955,7 @@ arafsa:
   accentcity: "Arafsa"
 arakul: 
   city: "arakul"
-  accentcity: "Arak\xC3\xBCl"
+  accentcity: "Arakül"
 arakyul: 
   city: "arakyul'"
   accentcity: "Arakyul'"
@@ -2138,7 +2138,7 @@ aronovka:
   accentcity: "Aronovka"
 arpaduzu: 
   city: "arpaduzu"
-  accentcity: "Arpad\xC3\xBCz\xC3\xBC"
+  accentcity: "Arpadüzü"
 "arpagc\xC2\x9Ddik": 
   city: "arpagc\xC2\x9Ddik"
   accentcity: "Arpag\xC3\x87\xC2\x9Ddik"
@@ -3269,7 +3269,7 @@ aybasanly:
   accentcity: "Ayd\xC3\x84\xC2\xB1nq\xC3\x84\xC2\xB1slaq"
 "aydi-kenda\xC2\x80\xC2\x9D": 
   city: "aydi-kenda\xC2\x80\xC2\x9D"
-  accentcity: "Aydi-Kend\xC3\xA2\xC2\x80\xC2\x9D"
+  accentcity: "Aydi-Kendâ\xC2\x80\xC2\x9D"
 aydin-kishlyag: 
   city: "aydin-kishlyag"
   accentcity: "Aydin-Kishlyag"
@@ -3299,7 +3299,7 @@ aygestan:
   accentcity: "Aygestan"
 aygunlu: 
   city: "aygunlu"
-  accentcity: "Ayg\xC3\xBCnl\xC3\xBC"
+  accentcity: "Aygünlü"
 aygyunli: 
   city: "aygyunli"
   accentcity: "Aygyunli"
@@ -3539,7 +3539,7 @@ bagbanlar:
   accentcity: "Bagbanlar"
 bagcakurd: 
   city: "bagcakurd"
-  accentcity: "Bagçak\xC3\xBCrd"
+  accentcity: "Bagçakürd"
 bagchilyar: 
   city: "bagchilyar"
   accentcity: "Bagchilyar"
@@ -3764,7 +3764,7 @@ balakon:
   accentcity: "Balakon"
 balakurd: 
   city: "balakurd"
-  accentcity: "Balak\xC3\xBCrd"
+  accentcity: "Balakürd"
 bala-kurtlar: 
   city: "bala-kurtlar"
   accentcity: "Bala-Kurtlar"
@@ -3812,7 +3812,7 @@ bala-soltanly:
   accentcity: "Bala-Soltanly"
 bala soyudlu: 
   city: "bala soyudlu"
-  accentcity: "Bala S\xC3\xB6y\xC3\xBCdl\xC3\xBC"
+  accentcity: "Bala S\xC3\xB6yüdlü"
 bala surra: 
   city: "bala surra"
   accentcity: "Bala Surra"
@@ -5126,7 +5126,7 @@ borsunly:
   accentcity: "Borsunly"
 boru: 
   city: "boru"
-  accentcity: "B\xC3\xB6r\xC3\xBC"
+  accentcity: "B\xC3\xB6rü"
 "boscala\xC2\xB1": 
   city: "boscala\xC2\xB1"
   accentcity: "Boscal\xC3\x84\xC2\xB1"
@@ -5201,13 +5201,13 @@ boynakar:
   accentcity: "Boyuk D\xC3\x87\xC2\x9Dhn\xC3\x87\xC2\x9D"
 boyuk duz: 
   city: "boyuk duz"
-  accentcity: "B\xC3\xB6y\xC3\xBCk D\xC3\xBCz"
+  accentcity: "B\xC3\xB6yük Düz"
 "boyuk galadc\xC2\x9Drc\xC2\x9Dsi": 
   city: "boyuk galadc\xC2\x9Drc\xC2\x9Dsi"
   accentcity: "Boyuk Galad\xC3\x87\xC2\x9Dr\xC3\x87\xC2\x9Dsi"
 boyuk gangarli: 
   city: "boyuk gangarli"
-  accentcity: "B\xC3\xB6y\xC3\xBCk G\xC3\xA4ng\xC3\xA4rli"
+  accentcity: "B\xC3\xB6yük G\xC3\xA4ng\xC3\xA4rli"
 "boyuk gilc\xC2\x9Dtag": 
   city: "boyuk gilc\xC2\x9Dtag"
   accentcity: "Boyuk Gil\xC3\x87\xC2\x9Dtag"
@@ -5228,16 +5228,16 @@ boyuk goyuslu:
   accentcity: "Boyuk K\xC3\x87\xC2\x9Dsik"
 boyuk kolatan: 
   city: "boyuk kolatan"
-  accentcity: "B\xC3\xB6y\xC3\xBCk Kolatan"
+  accentcity: "B\xC3\xB6yük Kolatan"
 boyuk kulatan: 
   city: "boyuk kulatan"
-  accentcity: "B\xC3\xB6y\xC3\xBCk K\xC3\xBClatan"
+  accentcity: "B\xC3\xB6yük Külatan"
 "boyuk mc\xC2\x9Drcanla\xC2\xB1": 
   city: "boyuk mc\xC2\x9Drcanla\xC2\xB1"
   accentcity: "Boyuk M\xC3\x87\xC2\x9Drcanl\xC3\x84\xC2\xB1"
 boyukmuruq: 
   city: "boyukmuruq"
-  accentcity: "B\xC3\xB6y\xC3\xBCkMuruq"
+  accentcity: "B\xC3\xB6yükMuruq"
 "boyuk pirc\xC2\x9Dli": 
   city: "boyuk pirc\xC2\x9Dli"
   accentcity: "Boyuk Pir\xC3\x87\xC2\x9Dli"
@@ -5246,7 +5246,7 @@ boyukmuruq:
   accentcity: "Boyuk Qalad\xC3\x87\xC2\x9Dr\xC3\x87\xC2\x9Dsi"
 boyuk qaramurad: 
   city: "boyuk qaramurad"
-  accentcity: "B\xC3\xB6y\xC3\xBCk Qaramurad"
+  accentcity: "B\xC3\xB6yük Qaramurad"
 "boyukqa\xC2\xB1slaq": 
   city: "boyukqa\xC2\xB1slaq"
   accentcity: "Boyukq\xC3\x84\xC2\xB1slaq"
@@ -5258,7 +5258,7 @@ boyuk qaramurad:
   accentcity: "Boyuk Saml\xC3\x84\xC2\xB1q"
 boyuk soyudlu: 
   city: "boyuk soyudlu"
-  accentcity: "B\xC3\xB6y\xC3\xBCk S\xC3\xB6y\xC3\xBCdl\xC3\xBC"
+  accentcity: "B\xC3\xB6yük S\xC3\xB6yüdlü"
 boyuk taglar: 
   city: "boyuk taglar"
   accentcity: "Boyuk Taglar"
@@ -5306,7 +5306,7 @@ boz-bozanganly:
   accentcity: "Boz-Bozanganly"
 bozguney: 
   city: "bozguney"
-  accentcity: "Bozg\xC3\xBCney"
+  accentcity: "Bozgüney"
 bozgyuney: 
   city: "bozgyuney"
   accentcity: "Bozgyuney"
@@ -5390,7 +5390,7 @@ bulgan:
   accentcity: "Bulgan"
 bululduz: 
   city: "bululduz"
-  accentcity: "B\xC3\xBCl\xC3\xBCld\xC3\xBCz"
+  accentcity: "Bülüldüz"
 bulutan: 
   city: "bulutan"
   accentcity: "Bulutan"
@@ -5441,10 +5441,10 @@ burovdal:
   accentcity: "Burovdal"
 bursulum: 
   city: "bursulum"
-  accentcity: "B\xC3\xBCrs\xC3\xBCl\xC3\xBCm"
+  accentcity: "Bürsülüm"
 bursumlu: 
   city: "bursumlu"
-  accentcity: "B\xC3\xBCrs\xC3\xBCml\xC3\xBC"
+  accentcity: "Bürsümlü"
 bursut: 
   city: "bursut"
   accentcity: "Bursut"
@@ -5501,7 +5501,7 @@ burzumbul:
   accentcity: "Burzumbul'"
 burzunbul: 
   city: "burzunbul"
-  accentcity: "Burzunb\xC3\xBCl"
+  accentcity: "Burzunbül"
 burzunbyul: 
   city: "burzunbyul'"
   accentcity: "Burzunbyul'"
@@ -5771,7 +5771,7 @@ cay tumas:
   accentcity: "\xC3\x87ay Tumas"
 cay uzu: 
   city: "cay uzu"
-  accentcity: "\xC3\x87ay \xC3\x9Cz\xC3\xBC"
+  accentcity: "\xC3\x87ay \xC3\x9Czü"
 "cc\xC2\x9Dbrayil": 
   city: "cc\xC2\x9Dbrayil"
   accentcity: "C\xC3\x87\xC2\x9Dbrayil"
@@ -6422,7 +6422,7 @@ chukhonly:
   accentcity: "Chukhonly"
 "chukhura\xC2\x80\xC2\x9Dyurt": 
   city: "chukhura\xC2\x80\xC2\x9Dyurt"
-  accentcity: "Chukhur\xC3\xA2\xC2\x80\xC2\x9Dyurt"
+  accentcity: "Chukhurâ\xC2\x80\xC2\x9Dyurt"
 chukhurazami: 
   city: "chukhurazami"
   accentcity: "Chukhurazami"
@@ -6638,7 +6638,7 @@ cullu:
   accentcity: "\xC3\x87ullu"
 culyan: 
   city: "culyan"
-  accentcity: "C\xC3\xBClyan"
+  accentcity: "Cülyan"
 cumay: 
   city: "cumay"
   accentcity: "Cumay"
@@ -6650,7 +6650,7 @@ cunut:
   accentcity: "Cunut"
 cutcu: 
   city: "cutcu"
-  accentcity: "C\xC3\xBCtç\xC3\xBC"
+  accentcity: "Cütçü"
 "cuvarla\xC2\xB1": 
   city: "cuvarla\xC2\xB1"
   accentcity: "Cuvarl\xC3\x84\xC2\xB1"
@@ -7691,7 +7691,7 @@ donguli:
   accentcity: "Dordl\xC3\x87\xC2\x9Dr"
 dorduncu barak: 
   city: "dorduncu barak"
-  accentcity: "D\xC3\xB6rd\xC3\xBCnc\xC3\xBC Barak"
+  accentcity: "D\xC3\xB6rdüncü Barak"
 dortchinar: 
   city: "dortchinar"
   accentcity: "Dortchinar"
@@ -7793,7 +7793,7 @@ dudukchi:
   accentcity: "Dudukchi"
 dudukcu: 
   city: "dudukcu"
-  accentcity: "D\xC3\xBCd\xC3\xBCkç\xC3\xBC"
+  accentcity: "Düdükçü"
 dugyarli: 
   city: "dugyarli"
   accentcity: "Dugyarli"
@@ -7850,10 +7850,10 @@ duyannaya:
   accentcity: "Duy\xC3\x87\xC2\x9Drli"
 duylun: 
   city: "duylun"
-  accentcity: "D\xC3\xBCyl\xC3\xBCn"
+  accentcity: "Düylün"
 duz bilici: 
   city: "duz bilici"
-  accentcity: "D\xC3\xBCz Bilici"
+  accentcity: "Düz Bilici"
 "duz ca\xC2\xB1rdaxan": 
   city: "duz ca\xC2\xB1rdaxan"
   accentcity: "Duz C\xC3\x84\xC2\xB1rdaxan"
@@ -7871,13 +7871,13 @@ duz bilici:
   accentcity: "Duz R\xC3\x87\xC2\x9Dsullu"
 duztahir: 
   city: "duztahir"
-  accentcity: "D\xC3\xBCztahir"
+  accentcity: "Düztahir"
 duztahiroba: 
   city: "duztahiroba"
-  accentcity: "D\xC3\xBCztahiroba"
+  accentcity: "Düztahiroba"
 duzyurd: 
   city: "duzyurd"
-  accentcity: "D\xC3\xBCzyurd"
+  accentcity: "Düzyurd"
 dvadtsat vosmogo aprelya: 
   city: "dvadtsat' vos'mogo aprelya"
   accentcity: "Dvadtsat' Vos'mogo Aprelya"
@@ -8396,7 +8396,7 @@ dzhuga:
   accentcity: "Dzhuga"
 "dzhugutara\xC2\x80\xC2\x9D": 
   city: "dzhugutara\xC2\x80\xC2\x9D"
-  accentcity: "Dzhugutar\xC3\xA2\xC2\x80\xC2\x9D"
+  accentcity: "Dzhugutarâ\xC2\x80\xC2\x9D"
 dzhulfa: 
   city: "dzhul'fa"
   accentcity: "Dzhul'fa"
@@ -8621,7 +8621,7 @@ eshlya:
   accentcity: "Esl\xC3\x87\xC2\x9D"
 "eta\xC2\x80\xC2\x9Dyemezli": 
   city: "eta\xC2\x80\xC2\x9Dyemezli"
-  accentcity: "Et\xC3\xA2\xC2\x80\xC2\x9Dyemezli"
+  accentcity: "Etâ\xC2\x80\xC2\x9Dyemezli"
 etcheler: 
   city: "etcheler"
   accentcity: "Etcheler"
@@ -8882,7 +8882,7 @@ fuganly:
   accentcity: "Fuqanl\xC3\x84\xC2\xB1"
 fuzuli: 
   city: "fuzuli"
-  accentcity: "F\xC3\xBCzuli"
+  accentcity: "Füzuli"
 fyndygan: 
   city: "fyndygan"
   accentcity: "Fyndygan"
@@ -9530,7 +9530,7 @@ geliakeran:
   accentcity: "Geliakeran"
 "gemira\xC2\x80\xC2\x9D-dagnya": 
   city: "gemira\xC2\x80\xC2\x9D-dagnya"
-  accentcity: "Gemir\xC3\xA2\xC2\x80\xC2\x9D-dagnya"
+  accentcity: "Gemirâ\xC2\x80\xC2\x9D-dagnya"
 gemyur: 
   city: "gemyur"
   accentcity: "Gëmyur"
@@ -10031,7 +10031,7 @@ golyeri:
   accentcity: "G\xC3\xB6lyeri"
 gomur: 
   city: "gomur"
-  accentcity: "G\xC3\xB6m\xC3\xBCr"
+  accentcity: "G\xC3\xB6mür"
 gomuscu: 
   city: "gomuscu"
   accentcity: "Gomuscu"
@@ -10190,7 +10190,7 @@ goytala:
   accentcity: "Goyt\xC3\x87\xC2\x9Dp\xC3\x87\xC2\x9D"
 goyuk: 
   city: "goyuk"
-  accentcity: "G\xC3\xB6y\xC3\xBCk"
+  accentcity: "G\xC3\xB6yük"
 goyuniusnykhly: 
   city: "goyuniusnykhly"
   accentcity: "Goyuniusnykhly"
@@ -10241,10 +10241,10 @@ guishi:
   accentcity: "Gulluc\xC3\x87\xC2\x9D"
 gulluk: 
   city: "gulluk"
-  accentcity: "G\xC3\xBCll\xC3\xBCk"
+  accentcity: "Güllük"
 gullutapa: 
   city: "gullutapa"
-  accentcity: "G\xC3\xBCll\xC3\xBCt\xC3\xA4p\xC3\xA4"
+  accentcity: "Güllüt\xC3\xA4p\xC3\xA4"
 gulmamedly: 
   city: "gul'mamedly"
   accentcity: "Gul'mamedly"
@@ -10262,7 +10262,7 @@ guloglular:
   accentcity: "Guls\xC3\x87\xC2\x9Dnabad"
 gulullu: 
   city: "gulullu"
-  accentcity: "G\xC3\xBCl\xC3\xBCll\xC3\xBC"
+  accentcity: "Gülüllü"
 gulustan: 
   city: "gulustan"
   accentcity: "Gulustan"
@@ -10274,10 +10274,10 @@ guluzan-bina:
   accentcity: "Guluz\xC3\x87\xC2\x9Dnbin\xC3\x87\xC2\x9D"
 gulyatan: 
   city: "gulyatan"
-  accentcity: "G\xC3\xBClyatan"
+  accentcity: "Gülyatan"
 gulyataq: 
   city: "gulyataq"
-  accentcity: "G\xC3\xBClyataq"
+  accentcity: "Gülyataq"
 gumuslu: 
   city: "gumuslu"
   accentcity: "Gumuslu"
@@ -10289,7 +10289,7 @@ gumuslu:
   accentcity: "Gun\xC3\x87\xC2\x9Dvsa"
 gunduzqala: 
   city: "gunduzqala"
-  accentcity: "G\xC3\xBCnd\xC3\xBCzqala"
+  accentcity: "Gündüzqala"
 "gunesla\xC2\xB1": 
   city: "gunesla\xC2\xB1"
   accentcity: "Gunesl\xC3\x84\xC2\xB1"
@@ -10298,7 +10298,7 @@ gunesli:
   accentcity: "Gunesli"
 guneycartar: 
   city: "guneycartar"
-  accentcity: "G\xC3\xBCneyçartar"
+  accentcity: "Güneyçartar"
 "guneykc\xC2\x9Dnd": 
   city: "guneykc\xC2\x9Dnd"
   accentcity: "Guneyk\xC3\x87\xC2\x9Dnd"
@@ -10307,25 +10307,25 @@ guneycartar:
   accentcity: "Guneyp\xC3\x87\xC2\x9Dy\xC3\x87\xC2\x9D"
 guneyqaler: 
   city: "guneyqaler"
-  accentcity: "G\xC3\xBCneyqaler"
+  accentcity: "Güneyqaler"
 "guneyxa\xC2\xB1rman": 
   city: "guneyxa\xC2\xB1rman"
   accentcity: "Guneyx\xC3\x84\xC2\xB1rman"
 gunnut: 
   city: "gunnut"
-  accentcity: "G\xC3\xBCnn\xC3\xBCt"
+  accentcity: "Günnüt"
 gurbulaq: 
   city: "gurbulaq"
-  accentcity: "G\xC3\xBCrbulaq"
+  accentcity: "Gürbulaq"
 gurculu: 
   city: "gurculu"
-  accentcity: "G\xC3\xBCrc\xC3\xBCl\xC3\xBC"
+  accentcity: "Gürcülü"
 gurcuva: 
   city: "gurcuva"
-  accentcity: "G\xC3\xBCrcuva"
+  accentcity: "Gürcuva"
 gurcuvan: 
   city: "gurcuvan"
-  accentcity: "G\xC3\xBCrc\xC3\xBCvan"
+  accentcity: "Gürcüvan"
 "gurcuvc\xC2\x9Dn": 
   city: "gurcuvc\xC2\x9Dn"
   accentcity: "Gurcuv\xC3\x87\xC2\x9Dn"
@@ -10340,7 +10340,7 @@ gurdzhili:
   accentcity: "Gurdzhili"
 gurgan: 
   city: "gurgan"
-  accentcity: "G\xC3\xBCrgan"
+  accentcity: "Gürgan"
 guruushagy: 
   city: "guruushagy"
   accentcity: "Guruushagy"
@@ -10406,7 +10406,7 @@ guytul:
   accentcity: "Guytul"
 guyum: 
   city: "guyum"
-  accentcity: "G\xC3\xBCy\xC3\xBCm"
+  accentcity: "Güyüm"
 "guzdc\xC2\x9Dk": 
   city: "guzdc\xC2\x9Dk"
   accentcity: "Guzd\xC3\x87\xC2\x9Dk"
@@ -10415,7 +10415,7 @@ guze-kaler:
   accentcity: "Guze-Kaler"
 guznut: 
   city: "guznut"
-  accentcity: "G\xC3\xBCzn\xC3\xBCt"
+  accentcity: "Güznüt"
 gyadik: 
   city: "gyadik"
   accentcity: "Gyadik"
@@ -10640,7 +10640,7 @@ gyumushchi:
   accentcity: "Gyumushchi"
 "gyumyura\xC2\x80\xC2\x9D": 
   city: "gyumyura\xC2\x80\xC2\x9D"
-  accentcity: "Gyumyur\xC3\xA2\xC2\x80\xC2\x9D"
+  accentcity: "Gyumyurâ\xC2\x80\xC2\x9D"
 gyumyurdekhnya: 
   city: "gyumyurdekhnya"
   accentcity: "Gyumyurdekhnya"
@@ -11186,13 +11186,13 @@ hovuzbulaq:
   accentcity: "Hovuzbulaq"
 hubi: 
   city: "hubi"
-  accentcity: "H\xC3\xBCbi"
+  accentcity: "Hübi"
 hucu: 
   city: "hucu"
-  accentcity: "H\xC3\xBCc\xC3\xBC"
+  accentcity: "Hücü"
 hulovlu: 
   city: "hulovlu"
-  accentcity: "H\xC3\xBCl\xC3\xB6vl\xC3\xBC"
+  accentcity: "Hül\xC3\xB6vlü"
 "huruusaga\xC2\xB1": 
   city: "huruusaga\xC2\xB1"
   accentcity: "Huruusag\xC3\x84\xC2\xB1"
@@ -11204,13 +11204,13 @@ hulovlu:
   accentcity: "Huseynb\xC3\x87\xC2\x9Dyli"
 huseynli: 
   city: "huseynli"
-  accentcity: "H\xC3\xBCseynli"
+  accentcity: "Hüseynli"
 huseynqulular: 
   city: "huseynqulular"
-  accentcity: "H\xC3\xBCseynqulular"
+  accentcity: "Hüseynqulular"
 husulu: 
   city: "husulu"
-  accentcity: "H\xC3\xBCs\xC3\xBCl\xC3\xBC"
+  accentcity: "Hüsülü"
 husun: 
   city: "husun"
   accentcity: "Husun"
@@ -11528,7 +11528,7 @@ imash-verdylyar:
   accentcity: "Imash-Verdylyar"
 "imeni a\xC2\x80\xC2\x9Ddvadtsati shestia\xC2\x80\xC2\x9D": 
   city: "imeni a\xC2\x80\xC2\x9Ddvadtsati shestia\xC2\x80\xC2\x9D"
-  accentcity: "Imeni \xC3\xA2\xC2\x80\xC2\x9DDvadtsati Shesti\xC3\xA2\xC2\x80\xC2\x9D"
+  accentcity: "Imeni â\xC2\x80\xC2\x9DDvadtsati Shestiâ\xC2\x80\xC2\x9D"
 imeni artema: 
   city: "imeni artema"
   accentcity: "Imeni Artema"
@@ -13697,7 +13697,7 @@ keravud:
   accentcity: "Keravud"
 "kera\xC2\x80\xC2\x9Dyadi": 
   city: "kera\xC2\x80\xC2\x9Dyadi"
-  accentcity: "Ker\xC3\xA2\xC2\x80\xC2\x9Dyadi"
+  accentcity: "Kerâ\xC2\x80\xC2\x9Dyadi"
 kerbakhiar: 
   city: "kerbakhiar"
   accentcity: "Kerbakhiar"
@@ -14069,7 +14069,7 @@ khalsa:
   accentcity: "Khalsa"
 "khaltana\xC2\x80\xC2\x9Ddagnya": 
   city: "khaltana\xC2\x80\xC2\x9Ddagnya"
-  accentcity: "Khaltan\xC3\xA2\xC2\x80\xC2\x9Ddagnya"
+  accentcity: "Khaltanâ\xC2\x80\xC2\x9Ddagnya"
 khaltandekhnya: 
   city: "khaltandekhnya"
   accentcity: "Khaltandekhnya"
@@ -14648,7 +14648,7 @@ khtsabert:
   accentcity: "Khtsabert"
 "khuba\xC2\x80\xC2\x9Dyarly": 
   city: "khuba\xC2\x80\xC2\x9Dyarly"
-  accentcity: "Khub\xC3\xA2\xC2\x80\xC2\x9Dyarly"
+  accentcity: "Khubâ\xC2\x80\xC2\x9Dyarly"
 khuchbala: 
   city: "khuchbala"
   accentcity: "Khuchbala"
@@ -14882,7 +14882,7 @@ kicik baraxum:
   accentcity: "Kicik D\xC3\x87\xC2\x9Dhn\xC3\x87\xC2\x9D"
 kicik duzyurd: 
   city: "kicik duzyurd"
-  accentcity: "Kiçik D\xC3\xBCzy\xC3\xBCrd"
+  accentcity: "Kiçik Düzyürd"
 kicik pireli: 
   city: "kicik pireli"
   accentcity: "Kiçik Pireli"
@@ -15251,7 +15251,7 @@ kogna-kushchi:
   accentcity: "Kohn\xC3\x87\xC2\x9D Xudat Qazmalar"
 kohunlu: 
   city: "kohunlu"
-  accentcity: "K\xC3\xB6h\xC3\xBCnl\xC3\xBC"
+  accentcity: "K\xC3\xB6hünlü"
 kokhmukh: 
   city: "kokhmukh"
   accentcity: "Kokhmukh"
@@ -15377,7 +15377,7 @@ konstantinovka:
   accentcity: "Konstantinovka"
 konullu: 
   city: "konullu"
-  accentcity: "K\xC3\xB6n\xC3\xBCll\xC3\xBC"
+  accentcity: "K\xC3\xB6nüllü"
 konzhavu: 
   city: "konzhavu"
   accentcity: "Konzhavu"
@@ -15524,7 +15524,7 @@ kovlarsary:
   accentcity: "Kovlarsary"
 kovluc: 
   city: "kovluc"
-  accentcity: "K\xC3\xB6vl\xC3\xBCc"
+  accentcity: "K\xC3\xB6vlüc"
 kovlyar: 
   city: "kovlyar"
   accentcity: "Kovlyar"
@@ -15542,7 +15542,7 @@ kovushut:
   accentcity: "Kovushut"
 kovuzbulaq: 
   city: "kovuzbulaq"
-  accentcity: "K\xC3\xB6v\xC3\xBCzbulaq"
+  accentcity: "K\xC3\xB6vüzbulaq"
 "koxanc\xC2\x9Dbi": 
   city: "koxanc\xC2\x9Dbi"
   accentcity: "Koxan\xC3\x87\xC2\x9Dbi"
@@ -15560,7 +15560,7 @@ koynashen:
   accentcity: "Koynashen"
 koynuk: 
   city: "koynuk"
-  accentcity: "K\xC3\xB6yn\xC3\xBCk"
+  accentcity: "K\xC3\xB6ynük"
 koysa: 
   city: "koysa"
   accentcity: "Koysa"
@@ -15671,7 +15671,7 @@ kubatly:
   accentcity: "Kubatly"
 kucay: 
   city: "kucay"
-  accentcity: "K\xC3\xBCçay"
+  accentcity: "Küçay"
 "kucc\xC2\x9Dkc\xC2\x9Dnd": 
   city: "kucc\xC2\x9Dkc\xC2\x9Dnd"
   accentcity: "Kuc\xC3\x87\xC2\x9Dk\xC3\x87\xC2\x9Dnd"
@@ -15680,7 +15680,7 @@ kudula:
   accentcity: "Kudula"
 kudurlu: 
   city: "kudurlu"
-  accentcity: "K\xC3\xBCd\xC3\xBCrl\xC3\xBC"
+  accentcity: "Küdürlü"
 kufoba: 
   city: "kufoba"
   accentcity: "Kufoba"
@@ -15701,10 +15701,10 @@ kukhuroba:
   accentcity: "Kukhuroba"
 kuku: 
   city: "kuku"
-  accentcity: "K\xC3\xBCk\xC3\xBC"
+  accentcity: "Kükü"
 kukurd: 
   city: "kukurd"
-  accentcity: "K\xC3\xBCk\xC3\xBCrd"
+  accentcity: "Kükürd"
 kulabend: 
   city: "kulabend"
   accentcity: "Kulabend"
@@ -15725,13 +15725,13 @@ kultuk:
   accentcity: "Kul'tuk"
 kulullu: 
   city: "kulullu"
-  accentcity: "K\xC3\xBCl\xC3\xBCll\xC3\xBC"
+  accentcity: "Külüllü"
 kululu: 
   city: "kululu"
   accentcity: "Kululu"
 kulus: 
   city: "kulus"
-  accentcity: "K\xC3\xBCl\xC3\xBCs"
+  accentcity: "Külüs"
 kumbashi: 
   city: "kumbashi"
   accentcity: "Kumbashi"
@@ -15758,7 +15758,7 @@ kunshady:
   accentcity: "Kunx\xC3\x84\xC2\xB1rt"
 kupcal: 
   city: "kupcal"
-  accentcity: "K\xC3\xBCpçal"
+  accentcity: "Küpçal"
 kurbanchi: 
   city: "kurbanchi"
   accentcity: "Kurbanchi"
@@ -15782,10 +15782,10 @@ kurbanzade:
   accentcity: "Kur\xC3\x87\xC2\x9Dkci"
 kurdbayram: 
   city: "kurdbayram"
-  accentcity: "K\xC3\xBCrdbayram"
+  accentcity: "Kürdbayram"
 kurdboragi: 
   city: "kurdboragi"
-  accentcity: "K\xC3\xBCrdboragi"
+  accentcity: "Kürdboragi"
 "kurdc\xC2\x9Dmir": 
   city: "kurdc\xC2\x9Dmir"
   accentcity: "Kurd\xC3\x87\xC2\x9Dmir"
@@ -15797,7 +15797,7 @@ kurdboragi:
   accentcity: "Kurd\xC3\x87\xC2\x9Ds\xC3\x87\xC2\x9Dr"
 kurdcu: 
   city: "kurdcu"
-  accentcity: "K\xC3\xBCrdç\xC3\xBC"
+  accentcity: "Kürdçü"
 "kurdc\xC2\x9Dxana\xC2\xB1": 
   city: "kurdc\xC2\x9Dxana\xC2\xB1"
   accentcity: "Kurd\xC3\x87\xC2\x9Dxan\xC3\x84\xC2\xB1"
@@ -15809,10 +15809,10 @@ kurdcu:
   accentcity: "Kurdhac\xC3\x84\xC2\xB1"
 kur dili: 
   city: "kur dili"
-  accentcity: "K\xC3\xBCr Dili"
+  accentcity: "Kür Dili"
 kurd: 
   city: "kurd"
-  accentcity: "K\xC3\xBCrd"
+  accentcity: "Kürd"
 "kurdlc\xC2\x9Dr": 
   city: "kurdlc\xC2\x9Dr"
   accentcity: "Kurdl\xC3\x87\xC2\x9Dr"
@@ -15821,7 +15821,7 @@ kurdlyar:
   accentcity: "Kurdlyar"
 kurdmahmudlu: 
   city: "kurdmahmudlu"
-  accentcity: "K\xC3\xBCrdmahmudlu"
+  accentcity: "Kürdmahmudlu"
 "kurd mahra\xC2\xB1zla\xC2\xB1": 
   city: "kurd mahra\xC2\xB1zla\xC2\xB1"
   accentcity: "Kurd Mahr\xC3\x84\xC2\xB1zl\xC3\x84\xC2\xB1"
@@ -15833,7 +15833,7 @@ kurdsaban:
   accentcity: "Kurdsaban"
 kurduvan: 
   city: "kurduvan"
-  accentcity: "K\xC3\xBCrd\xC3\xBCvan"
+  accentcity: "Kürdüvan"
 kurgan kara-tapa: 
   city: "kurgan kara-tapa"
   accentcity: "Kurgan Kara-Tapa"
@@ -15851,10 +15851,10 @@ kurkosa:
   accentcity: "Kurkosa"
 kurkun: 
   city: "kurkun"
-  accentcity: "K\xC3\xBCrk\xC3\xBCn"
+  accentcity: "Kürkün"
 kur: 
   city: "kur"
-  accentcity: "K\xC3\xBCr"
+  accentcity: "Kür"
 kuropatkino: 
   city: "kuropatkino"
   accentcity: "Kuropatkino"
@@ -16046,7 +16046,7 @@ kyalbi-guseynly:
   accentcity: "Kyal'bi-Guseynly"
 "kyal'byanda\xC2\x80\xC2\x9D": 
   city: "kyal'byanda\xC2\x80\xC2\x9D"
-  accentcity: "Kyal'byand\xC3\xA2\xC2\x80\xC2\x9D"
+  accentcity: "Kyal'byandâ\xC2\x80\xC2\x9D"
 kyalva: 
   city: "kyalva"
   accentcity: "Kyalva"
@@ -16271,7 +16271,7 @@ kyumaty:
   accentcity: "Kyumaty"
 kyuncal: 
   city: "kyuncal"
-  accentcity: "Ky\xC3\xBCnçal"
+  accentcity: "Kyünçal"
 kyunchal: 
   city: "kyunchal"
   accentcity: "Kyunchal"
@@ -16829,7 +16829,7 @@ loyti:
   accentcity: "L\xC3\xB6yti"
 luksemburq: 
   city: "luksemburq"
-  accentcity: "L\xC3\xBCksemburq"
+  accentcity: "Lüksemburq"
 lulasaz: 
   city: "lulasaz"
   accentcity: "Lulasaz"
@@ -18467,7 +18467,7 @@ mohtatac:
   accentcity: "M\xC3\xB6ht\xC3\xA4tac"
 mohuc: 
   city: "mohuc"
-  accentcity: "M\xC3\xB6h\xC3\xBCc"
+  accentcity: "M\xC3\xB6hüc"
 mokhratagh: 
   city: "mokhrat'agh"
   accentcity: "Mokhrat'agh"
@@ -18497,7 +18497,7 @@ molla-buran:
   accentcity: "Mollaburhanl\xC3\x84\xC2\xB1"
 mollaburhan: 
   city: "mollaburhan"
-  accentcity: "Mollab\xC3\xBCrhan"
+  accentcity: "Mollabürhan"
 mollaburkhanly: 
   city: "mollaburkhanly"
   accentcity: "Mollaburkhanly"
@@ -18683,7 +18683,7 @@ movas:
   accentcity: "Movas"
 movdut: 
   city: "movdut"
-  accentcity: "M\xC3\xB6vd\xC3\xBCt"
+  accentcity: "M\xC3\xB6vdüt"
 "mozkc\xC2\x9Dnd": 
   city: "mozkc\xC2\x9Dnd"
   accentcity: "Mozk\xC3\x87\xC2\x9Dnd"
@@ -18713,7 +18713,7 @@ mucuq:
   accentcity: "Mudr\xC3\x87\xC2\x9Ds\xC3\x87\xC2\x9D"
 mudri: 
   city: "mudri"
-  accentcity: "M\xC3\xBCdri"
+  accentcity: "Müdri"
 mudzhakhbina: 
   city: "mudzhakhbina"
   accentcity: "Mudzhakhbina"
@@ -18791,7 +18791,7 @@ mulalan:
   accentcity: "Mulkud\xC3\x87\xC2\x9Dr\xC3\x87\xC2\x9D"
 mulkulu: 
   city: "mulkulu"
-  accentcity: "M\xC3\xBClk\xC3\xBCl\xC3\xBC"
+  accentcity: "Mülkülü"
 mulla: 
   city: "mulla"
   accentcity: "Mulla"
@@ -18803,7 +18803,7 @@ mulux:
   accentcity: "Mulux"
 mumgulqazma: 
   city: "mumgulqazma"
-  accentcity: "M\xC3\xBCmg\xC3\xBClqazma"
+  accentcity: "Mümgülqazma"
 mundzhuglu: 
   city: "mundzhuglu"
   accentcity: "Mundzhuglu"
@@ -18980,7 +18980,7 @@ muskapat:
   accentcity: "Musk\xC3\x87\xC2\x9Dmir"
 muskurlu: 
   city: "muskurlu"
-  accentcity: "M\xC3\xBCsk\xC3\xBCrl\xC3\xBC"
+  accentcity: "Müskürlü"
 "mustafaagala\xC2\xB1": 
   city: "mustafaagala\xC2\xB1"
   accentcity: "Mustafaagal\xC3\x84\xC2\xB1"
@@ -19013,7 +19013,7 @@ musurman-sarov:
   accentcity: "Musurman-Sarov"
 mususlu: 
   city: "mususlu"
-  accentcity: "M\xC3\xBCs\xC3\xBCsl\xC3\xBC"
+  accentcity: "Müsüslü"
 mutudere: 
   city: "mutudere"
   accentcity: "Mutudere"
@@ -19706,7 +19706,7 @@ noda:
   accentcity: "Noda"
 nohurduzu: 
   city: "nohurduzu"
-  accentcity: "Nohurd\xC3\xBCz\xC3\xBC"
+  accentcity: "Nohurdüzü"
 nohurlar: 
   city: "nohurlar"
   accentcity: "Nohurlar"
@@ -19793,7 +19793,7 @@ novaya teklya:
   accentcity: "Novaya Teklya"
 novcu: 
   city: "novcu"
-  accentcity: "N\xC3\xB6vc\xC3\xBC"
+  accentcity: "N\xC3\xB6vcü"
 novdzhu: 
   city: "novdzhu"
   accentcity: "Novdzhu"
@@ -19904,13 +19904,13 @@ noyabut:
   accentcity: "Noyabut"
 noydun: 
   city: "noydun"
-  accentcity: "N\xC3\xB6yd\xC3\xBCn"
+  accentcity: "N\xC3\xB6ydün"
 nucha: 
   city: "nucha"
   accentcity: "Nucha"
 nucu: 
   city: "nucu"
-  accentcity: "N\xC3\xBCc\xC3\xBC"
+  accentcity: "Nücü"
 "nugc\xC2\x9Ddi": 
   city: "nugc\xC2\x9Ddi"
   accentcity: "Nug\xC3\x87\xC2\x9Ddi"
@@ -19931,7 +19931,7 @@ nuravad:
   accentcity: "Nuravad"
 nuravud: 
   city: "nuravud"
-  accentcity: "N\xC3\xBCravud"
+  accentcity: "Nüravud"
 nuravut: 
   city: "nuravut"
   accentcity: "Nuravut"
@@ -19940,10 +19940,10 @@ nuravut:
   accentcity: "Nur\xC3\x87\xC2\x9Dddin"
 nurgut: 
   city: "nurgut"
-  accentcity: "N\xC3\xBCrg\xC3\xBCt"
+  accentcity: "Nürgüt"
 nurkut: 
   city: "nurkut"
-  accentcity: "N\xC3\xBCrk\xC3\xBCt"
+  accentcity: "Nürküt"
 nurs: 
   city: "nurs"
   accentcity: "Nurs"
@@ -19958,10 +19958,10 @@ nuruzly:
   accentcity: "Nuruzly"
 nusnus: 
   city: "nusnus"
-  accentcity: "N\xC3\xBCsn\xC3\xBCs"
+  accentcity: "Nüsnüs"
 nusomurya: 
   city: "nusomurya"
-  accentcity: "N\xC3\xBCsomurya"
+  accentcity: "Nüsomurya"
 "nutc\xC2\x9Dh": 
   city: "nutc\xC2\x9Dh"
   accentcity: "Nut\xC3\x87\xC2\x9Dh"
@@ -19976,10 +19976,10 @@ nuxa:
   accentcity: "Nuxa"
 nuydi: 
   city: "nuydi"
-  accentcity: "N\xC3\xBCydi"
+  accentcity: "Nüydi"
 nuydu: 
   city: "nuydu"
-  accentcity: "N\xC3\xBCyd\xC3\xBC"
+  accentcity: "Nüydü"
 "nuzgc\xC2\x9Dr": 
   city: "nuzgc\xC2\x9Dr"
   accentcity: "Nuzg\xC3\x87\xC2\x9Dr"
@@ -20045,7 +20045,7 @@ oazhakly:
   accentcity: "Oazhakly"
 "oba\xC2\x80\xC2\x9Dyedinenka": 
   city: "oba\xC2\x80\xC2\x9Dyedinenka"
-  accentcity: "Ob\xC3\xA2\xC2\x80\xC2\x9Dyedinenka"
+  accentcity: "Obâ\xC2\x80\xC2\x9Dyedinenka"
 obdulyany: 
   city: "obdulyany"
   accentcity: "Obdulyany"
@@ -20126,7 +20126,7 @@ oktyabr:
   accentcity: "Oktyabr'"
 oku: 
   city: "oku"
-  accentcity: "\xC3\x96k\xC3\xBC"
+  accentcity: "\xC3\x96kü"
 okyu: 
   city: "okyu"
   accentcity: "Okyu"
@@ -20213,7 +20213,7 @@ orduch:
   accentcity: "Orduch"
 orduc: 
   city: "orduc"
-  accentcity: "\xC3\x96rd\xC3\xBCc"
+  accentcity: "\xC3\x96rdüc"
 ordzhonikidze: 
   city: "ordzhonikidze"
   accentcity: "Ordzhonikidze"
@@ -21155,7 +21155,7 @@ pushtbina:
   accentcity: "Pust\xC3\x87\xC2\x9Dtala"
 pusyan: 
   city: "pusyan"
-  accentcity: "P\xC3\xBCsyan"
+  accentcity: "Püsyan"
 puta: 
   city: "puta"
   accentcity: "Puta"
@@ -21380,7 +21380,7 @@ qaracuxur:
   accentcity: "Qaraçuxur"
 qaracuzlu: 
   city: "qaracuzlu"
-  accentcity: "Qarac\xC3\xBCzl\xC3\xBC"
+  accentcity: "Qaracüzlü"
 "qaradagla\xC2\xB1": 
   city: "qaradagla\xC2\xB1"
   accentcity: "Qaradagl\xC3\x84\xC2\xB1"
@@ -21650,7 +21650,7 @@ qarnakar:
   accentcity: "Q\xC3\x84\xC2\xB1rn\xC3\x84\xC2\xB1z\xC3\x84\xC2\xB1 Oktyabr"
 qarovulustu: 
   city: "qarovulustu"
-  accentcity: "Qarovul\xC3\xBCst\xC3\xBC"
+  accentcity: "Qarovulüstü"
 qarqar: 
   city: "qarqar"
   accentcity: "Qarqar"
@@ -22421,7 +22421,7 @@ rudakenar:
   accentcity: "Rud\xC3\x87\xC2\x9Dk\xC3\x87\xC2\x9Dnar"
 ruk: 
   city: "ruk"
-  accentcity: "R\xC3\xBCk"
+  accentcity: "Rük"
 rusan: 
   city: "rusan"
   accentcity: "Rusan"
@@ -23099,7 +23099,7 @@ sarvan:
   accentcity: "Sarvan"
 "sarvena\xC2\x80\xC2\x9D": 
   city: "sarvena\xC2\x80\xC2\x9D"
-  accentcity: "Sarven\xC3\xA2\xC2\x80\xC2\x9D"
+  accentcity: "Sarvenâ\xC2\x80\xC2\x9D"
 "sarxanla\xC2\xB1": 
   city: "sarxanla\xC2\xB1"
   accentcity: "Sarxanl\xC3\x84\xC2\xB1"
@@ -23471,7 +23471,7 @@ seidkyshlak:
   accentcity: "Seidkyshlak"
 "seidlikenda\xC2\x80\xC2\x9Dyeri": 
   city: "seidlikenda\xC2\x80\xC2\x9Dyeri"
-  accentcity: "Seidlikend\xC3\xA2\xC2\x80\xC2\x9Dyeri"
+  accentcity: "Seidlikendâ\xC2\x80\xC2\x9Dyeri"
 seidli: 
   city: "seidli"
   accentcity: "Seidli"
@@ -24701,7 +24701,7 @@ sogyutlyu:
   accentcity: "Sohb\xC3\x87\xC2\x9Dtli"
 sohub: 
   city: "sohub"
-  accentcity: "S\xC3\xB6h\xC3\xBCb"
+  accentcity: "S\xC3\xB6hüb"
 sokhbetli: 
   city: "sokhbetli"
   accentcity: "Sokhbetli"
@@ -24824,7 +24824,7 @@ sovla:
   accentcity: "Soyudl\xC3\x87\xC2\x9Dr"
 soyudlu: 
   city: "soyudlu"
-  accentcity: "S\xC3\xB6y\xC3\xBCdl\xC3\xBC"
+  accentcity: "S\xC3\xB6yüdlü"
 soyukbulag: 
   city: "soyukbulag"
   accentcity: "Soyukbulag"
@@ -25028,7 +25028,7 @@ sunasar:
   accentcity: "Sunasar"
 sundu: 
   city: "sundu"
-  accentcity: "S\xC3\xBCnd\xC3\xBC"
+  accentcity: "Sündü"
 sundy: 
   city: "sundy"
   accentcity: "Sundy"
@@ -25112,7 +25112,7 @@ sus:
   accentcity: "Sus"
 sust: 
   city: "sust"
-  accentcity: "S\xC3\xBCst"
+  accentcity: "Süst"
 susulu: 
   city: "susulu"
   accentcity: "Susulu"
@@ -25364,7 +25364,7 @@ talrinj:
   accentcity: "T'alrinj"
 "talysha\xC2\x80\xC2\x9D-nuri": 
   city: "talysha\xC2\x80\xC2\x9D-nuri"
-  accentcity: "Talysh\xC3\xA2\xC2\x80\xC2\x9D-Nuri"
+  accentcity: "Talyshâ\xC2\x80\xC2\x9D-Nuri"
 talyshnuru: 
   city: "talyshnuru"
   accentcity: "Talyshnuru"
@@ -25472,7 +25472,7 @@ tarnaut:
   accentcity: "Tarnaut"
 tarnoyut: 
   city: "tarnoyut"
-  accentcity: "Tarn\xC3\xB6y\xC3\xBCt"
+  accentcity: "Tarn\xC3\xB6yüt"
 tarovlu: 
   city: "tarovlu"
   accentcity: "Tarovlu"
@@ -25937,7 +25937,7 @@ torpakhkerpyu:
   accentcity: "Torpakhkërpyu"
 torpaqkorpu: 
   city: "torpaqkorpu"
-  accentcity: "Torpaqk\xC3\xB6rp\xC3\xBC"
+  accentcity: "Torpaqk\xC3\xB6rpü"
 toumi: 
   city: "toumi"
   accentcity: "Toumi"
@@ -26048,7 +26048,7 @@ tug:
   accentcity: "Tug"
 tukavila: 
   city: "tukavila"
-  accentcity: "T\xC3\xBCk\xC3\xA4vil\xC3\xA4"
+  accentcity: "Tük\xC3\xA4vil\xC3\xA4"
 tukhnakal: 
   city: "tukhnakal"
   accentcity: "Tukhnakal"
@@ -26084,7 +26084,7 @@ tullyar:
   accentcity: "Tullyar"
 tulu: 
   city: "tulu"
-  accentcity: "T\xC3\xBCl\xC3\xBC"
+  accentcity: "Tülü"
 "tumasla\xC2\xB1": 
   city: "tumasla\xC2\xB1"
   accentcity: "Tumasl\xC3\x84\xC2\xB1"
@@ -26102,7 +26102,7 @@ tumi:
   accentcity: "Tumi"
 tuntul: 
   city: "tuntul"
-  accentcity: "T\xC3\xBCnt\xC3\xBCl"
+  accentcity: "Tüntül"
 turabad: 
   city: "turabad"
   accentcity: "Turabad"
@@ -26126,7 +26126,7 @@ turist:
   accentcity: "Turist"
 turkan: 
   city: "turkan"
-  accentcity: "T\xC3\xBCrkan"
+  accentcity: "Türkan"
 "turkc\xC2\x9Dci": 
   city: "turkc\xC2\x9Dci"
   accentcity: "Turk\xC3\x87\xC2\x9Dci"
@@ -26141,7 +26141,7 @@ turkan:
   accentcity: "Turkm\xC3\x87\xC2\x9Dn"
 turkoba: 
   city: "turkoba"
-  accentcity: "T\xC3\xBCrkoba"
+  accentcity: "Türkoba"
 turkyandzhil: 
   city: "turkyandzhil'"
   accentcity: "Turkyandzhil'"
@@ -26153,7 +26153,7 @@ turssu:
   accentcity: "Turssu"
 turyancay: 
   city: "turyancay"
-  accentcity: "T\xC3\xBCryançay"
+  accentcity: "Türyançay"
 tusova: 
   city: "tusova"
   accentcity: "Tusova"
@@ -26282,7 +26282,7 @@ ucbulaq:
   accentcity: "Ucgunq\xC3\x84\xC2\xB1slaq"
 ucgun: 
   city: "ucgun"
-  accentcity: "Uçg\xC3\xBCn"
+  accentcity: "Uçgün"
 uchakh: 
   city: "uchakh"
   accentcity: "Uchakh"
@@ -26315,7 +26315,7 @@ ucoglan:
   accentcity: "Ucuncu Beyn\xC3\x87\xC2\x9Dlmil\xC3\x87\xC2\x9Dl"
 ucuncu mahmudlu: 
   city: "ucuncu mahmudlu"
-  accentcity: "\xC3\x9Cç\xC3\xBCnc\xC3\xBC Mahmudlu"
+  accentcity: "\xC3\x9Cçüncü Mahmudlu"
 udgyun: 
   city: "udgyun"
   accentcity: "Udgyun"
@@ -27833,7 +27833,7 @@ yeni erivan:
   accentcity: "Yeni Goyc\xC3\x87\xC2\x9D"
 yenigun: 
   city: "yenigun"
-  accentcity: "Yenig\xC3\xBCn"
+  accentcity: "Yenigün"
 yenigyun: 
   city: "yenigyun"
   accentcity: "Yenigyun"
@@ -27920,7 +27920,7 @@ yerfi:
   accentcity: "Yerfi"
 yerguc: 
   city: "yerguc"
-  accentcity: "Yerg\xC3\xBCc"
+  accentcity: "Yergüc"
 yergyuch: 
   city: "yergyuch"
   accentcity: "Yergyuch"
@@ -28784,7 +28784,7 @@ zargyar:
   accentcity: "Zargyar"
 zarigumaco: 
   city: "zarigumaco"
-  accentcity: "Z\xC3\xA4rig\xC3\xBCm\xC3\xA4co"
+  accentcity: "Z\xC3\xA4rigüm\xC3\xA4co"
 zarisli: 
   city: "zarisli"
   accentcity: "Zarisli"
@@ -29114,7 +29114,7 @@ zultagarly:
   accentcity: "Zultagarly"
 zumurxac: 
   city: "zumurxac"
-  accentcity: "Z\xC3\xBCm\xC3\xBCrxaç"
+  accentcity: "Zümürxaç"
 zungulyash: 
   city: "zungulyash"
   accentcity: "Zungulyash"
@@ -29159,7 +29159,7 @@ zuvuch:
   accentcity: "Zuvuch"
 zuvuc: 
   city: "zuvuc"
-  accentcity: "Zuv\xC3\xBCc"
+  accentcity: "Zuvüc"
 zuxuloba: 
   city: "zuxuloba"
   accentcity: "Zuxuloba"

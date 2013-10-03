@@ -1115,7 +1115,7 @@ budinci:
   accentcity: "Budinci"
 budincz: 
   city: "budincz"
-  accentcity: "B\xC3\xBCdincz"
+  accentcity: "Büdincz"
 budna: 
   city: "budna"
   accentcity: "Budna"
@@ -1529,7 +1529,7 @@ clenico:
   accentcity: "Clenico"
 cobbia: 
   city: "cobbia"
-  accentcity: "C\xC3\xB2bbia"
+  accentcity: "Còbbia"
 cocce: 
   city: "cocce"
   accentcity: "Cocce"
@@ -1565,7 +1565,7 @@ cosana del collio:
   accentcity: "Cosana del Collio"
 cosana nel collio: 
   city: "cosana nel collio"
-  accentcity: "Cosana nel C\xC3\xB2llio"
+  accentcity: "Cosana nel Còllio"
 cosbana nel collio: 
   city: "cosbana nel collio"
   accentcity: "Cosbana nel Collio"
@@ -2804,13 +2804,13 @@ friedau:
   accentcity: "Friedau"
 fuchselsdorf: 
   city: "fuchselsdorf"
-  accentcity: "F\xC3\xBCchselsdorf"
+  accentcity: "Füchselsdorf"
 fuxlinc: 
   city: "fuxlinc"
-  accentcity: "F\xC3\xBCxlinc"
+  accentcity: "Füxlinc"
 fuxlinci: 
   city: "fuxlinci"
-  accentcity: "F\xC3\xBCxlinci"
+  accentcity: "Füxlinci"
 fuzina: 
   city: "fuzina"
   accentcity: "Fuzina"
@@ -7031,10 +7031,10 @@ muracsermely:
   accentcity: "Muracsermely"
 murafured: 
   city: "murafured"
-  accentcity: "Muraf\xC3\xBCred"
+  accentcity: "Murafüred"
 murafuzes: 
   city: "murafuzes"
-  accentcity: "Muraf\xC3\xBCzes"
+  accentcity: "Murafüzes"
 murahalmos: 
   city: "murahalmos"
   accentcity: "Murahalmos"
@@ -11399,7 +11399,7 @@ stehanja vas:
   accentcity: "Stehanja Vas"
 steinbruck: 
   city: "steinbruck"
-  accentcity: "Steinbr\xC3\xBCck"
+  accentcity: "Steinbrück"
 stein: 
   city: "stein"
   accentcity: "Stein"
@@ -11636,10 +11636,10 @@ sulinci:
   accentcity: "Sulinci"
 suruhaza: 
   city: "suruhaza"
-  accentcity: "S\xC3\xBCr\xC3\xBCháza"
+  accentcity: "Sürüháza"
 suruhaz: 
   city: "suruhaz"
-  accentcity: "S\xC3\xBCr\xC3\xBCház"
+  accentcity: "Sürüház"
 susak: 
   city: "susak"
   accentcity: "Susak"
@@ -12377,7 +12377,7 @@ tublje:
   accentcity: "Tublje"
 tuffer: 
   city: "tuffer"
-  accentcity: "T\xC3\xBCffer"
+  accentcity: "Tüffer"
 tunjica: 
   city: "tunjica"
   accentcity: "Tunjica"
@@ -12407,7 +12407,7 @@ tusev dol:
   accentcity: "Tusev Dol"
 tuskeszer: 
   city: "tuskeszer"
-  accentcity: "T\xC3\xBCskeszer"
+  accentcity: "Tüskeszer"
 udje: 
   city: "udje"
   accentcity: "Udje"
@@ -12416,10 +12416,10 @@ uhk:
   accentcity: "Uhk"
 ujkokenyes: 
   city: "ujkokenyes"
-  accentcity: "\xC3\x9Ajk\xC3\xB6kényes"
+  accentcity: "Újk\xC3\xB6kényes"
 ujtolgyes: 
   city: "ujtolgyes"
-  accentcity: "\xC3\x9Ajt\xC3\xB6lgyes"
+  accentcity: "Újt\xC3\xB6lgyes"
 ulaka: 
   city: "ulaka"
   accentcity: "Ulaka"
@@ -12443,10 +12443,10 @@ urabtsche:
   accentcity: "Urabtsche"
 urdomb: 
   city: "urdomb"
-  accentcity: "\xC3\x9Ardomb"
+  accentcity: "Úrdomb"
 uriszek: 
   city: "uriszek"
-  accentcity: "\xC3\x9Ariszék"
+  accentcity: "Úriszék"
 ursic: 
   city: "ursic"
   accentcity: "Ursic"

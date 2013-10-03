@@ -266,7 +266,7 @@ alpe trescolmine:
   accentcity: "Alpe Trescolmine"
 alp grum: 
   city: "alp grum"
-  accentcity: "Alp Gr\xC3\xBCm"
+  accentcity: "Alp Grüm"
 al piano: 
   city: "al piano"
   accentcity: "Al Piano"
@@ -644,7 +644,7 @@ bach:
   accentcity: "B\xC3\xA4ch"
 bachenbulach: 
   city: "bachenbulach"
-  accentcity: "Bachenb\xC3\xBClach"
+  accentcity: "Bachenbülach"
 bachlen: 
   city: "bachlen"
   accentcity: "B\xC3\xA4chlen"
@@ -677,7 +677,7 @@ bains de lavey:
   accentcity: "Bains de Lavey"
 bale: 
   city: "bale"
-  accentcity: "B\xC3\xA2le"
+  accentcity: "Bâle"
 balen: 
   city: "balen"
   accentcity: "Balen"
@@ -692,7 +692,7 @@ ballaigues:
   accentcity: "Ballaigues"
 ballaluna: 
   city: "ballaluna"
-  accentcity: "Ballal\xC3\xBCna"
+  accentcity: "Ballalüna"
 ballens: 
   city: "ballens"
   accentcity: "Ballens"
@@ -902,7 +902,7 @@ berg:
   accentcity: "Berg"
 bergun: 
   city: "bergun"
-  accentcity: "Berg\xC3\xBCn"
+  accentcity: "Bergün"
 berikon: 
   city: "berikon"
   accentcity: "Berikon"
@@ -935,7 +935,7 @@ bernina suot:
   accentcity: "Bernina Suot"
 beromunster: 
   city: "beromunster"
-  accentcity: "Berom\xC3\xBCnster"
+  accentcity: "Beromünster"
 berschis: 
   city: "berschis"
   accentcity: "Berschis"
@@ -995,7 +995,7 @@ biber:
   accentcity: "Biber"
 biberbrucke: 
   city: "biberbrucke"
-  accentcity: "Biberbr\xC3\xBCcke"
+  accentcity: "Biberbrücke"
 biberen: 
   city: "biberen"
   accentcity: "Biberen"
@@ -1367,16 +1367,16 @@ brot-plamboz:
   accentcity: "Brot-Plamboz"
 brucke: 
   city: "brucke"
-  accentcity: "Br\xC3\xBCcke"
+  accentcity: "Brücke"
 brugg: 
   city: "brugg"
-  accentcity: "Br\xC3\xBCgg"
+  accentcity: "Brügg"
 bruggen: 
   city: "bruggen"
   accentcity: "Bruggen"
 brunigen: 
   city: "brunigen"
-  accentcity: "Br\xC3\xBCnigen"
+  accentcity: "Brünigen"
 brunnadern: 
   city: "brunnadern"
   accentcity: "Brunnadern"
@@ -1397,13 +1397,13 @@ bruson:
   accentcity: "Bruson"
 bruttelen: 
   city: "bruttelen"
-  accentcity: "Br\xC3\xBCttelen"
+  accentcity: "Brüttelen"
 brutten: 
   city: "brutten"
-  accentcity: "Br\xC3\xBCtten"
+  accentcity: "Brütten"
 bruttisellen: 
   city: "bruttisellen"
-  accentcity: "Br\xC3\xBCttisellen"
+  accentcity: "Brüttisellen"
 bubendorf: 
   city: "bubendorf"
   accentcity: "Bubendorf"
@@ -1424,7 +1424,7 @@ buchholterberg:
   accentcity: "Buchholterberg"
 buchler: 
   city: "buchler"
-  accentcity: "B\xC3\xBCchler"
+  accentcity: "Büchler"
 buchrain: 
   city: "buchrain"
   accentcity: "Buchrain"
@@ -1436,13 +1436,13 @@ buchthalen:
   accentcity: "Buchthalen"
 buhlen: 
   city: "buhlen"
-  accentcity: "B\xC3\xBChlen"
+  accentcity: "Bühlen"
 buhler: 
   city: "buhler"
-  accentcity: "B\xC3\xBChler"
+  accentcity: "Bühler"
 buhlruti: 
   city: "buhlruti"
-  accentcity: "B\xC3\xBChlr\xC3\xBCti"
+  accentcity: "Bühlrüti"
 buholz: 
   city: "buholz"
   accentcity: "Buholz"
@@ -1451,7 +1451,7 @@ buix:
   accentcity: "Buix"
 bulach: 
   city: "bulach"
-  accentcity: "B\xC3\xBClach"
+  accentcity: "Bülach"
 bulle: 
   city: "bulle"
   accentcity: "Bulle"
@@ -1463,7 +1463,7 @@ bumbach:
   accentcity: "Bumbach"
 bumpliz: 
   city: "bumpliz"
-  accentcity: "B\xC3\xBCmpliz"
+  accentcity: "Bümpliz"
 bundtels: 
   city: "bundtels"
   accentcity: "Bundtels"
@@ -1475,19 +1475,19 @@ buonas:
   accentcity: "Buonas"
 burchen: 
   city: "burchen"
-  accentcity: "B\xC3\xBCrchen"
+  accentcity: "Bürchen"
 bure: 
   city: "bure"
   accentcity: "Bure"
 buren an der aare: 
   city: "buren an der aare"
-  accentcity: "B\xC3\xBCren an der Aare"
+  accentcity: "Büren an der Aare"
 buren: 
   city: "buren"
-  accentcity: "B\xC3\xBCren"
+  accentcity: "Büren"
 buren nid dem bach: 
   city: "buren nid dem bach"
-  accentcity: "B\xC3\xBCren nid dem Bach"
+  accentcity: "Büren nid dem Bach"
 burg: 
   city: "burg"
   accentcity: "Burg"
@@ -1502,10 +1502,10 @@ burgistein:
   accentcity: "Burgistein"
 burglen: 
   city: "burglen"
-  accentcity: "B\xC3\xBCrglen"
+  accentcity: "Bürglen"
 buron: 
   city: "buron"
-  accentcity: "B\xC3\xBCron"
+  accentcity: "Büron"
 bursinel: 
   city: "bursinel"
   accentcity: "Bursinel"
@@ -1529,7 +1529,7 @@ buseno:
   accentcity: "Buseno"
 busserach: 
   city: "busserach"
-  accentcity: "B\xC3\xBCsserach"
+  accentcity: "Büsserach"
 busserein: 
   city: "busserein"
   accentcity: "Busserein"
@@ -1541,13 +1541,13 @@ busskirch:
   accentcity: "Busskirch"
 busswil bei buren an der aare: 
   city: "busswil bei buren an der aare"
-  accentcity: "Busswil bei B\xC3\xBCren an der Aare"
+  accentcity: "Busswil bei Büren an der Aare"
 busswil: 
   city: "busswil"
   accentcity: "Busswil"
 butschwil: 
   city: "butschwil"
-  accentcity: "B\xC3\xBCtschwil"
+  accentcity: "Bütschwil"
 buttes: 
   city: "buttes"
   accentcity: "Buttes"
@@ -1559,13 +1559,13 @@ buttwil:
   accentcity: "Buttwil"
 butzberg: 
   city: "butzberg"
-  accentcity: "B\xC3\xBCtzberg"
+  accentcity: "Bützberg"
 buus: 
   city: "buus"
   accentcity: "Buus"
 buzberg: 
   city: "buzberg"
-  accentcity: "B\xC3\xBCzberg"
+  accentcity: "Büzberg"
 cabbiola: 
   city: "cabbiola"
   accentcity: "Cabbiola"
@@ -1808,28 +1808,28 @@ charrat-les-chenes:
   accentcity: "Charrat-les-Chênes"
 chateau de bonmont: 
   city: "chateau de bonmont"
-  accentcity: "Ch\xC3\xA2teau de Bonmont"
+  accentcity: "Château de Bonmont"
 chateau-doex: 
   city: "chateau-d'oex"
   accentcity: "Chateau-d'Oex"
 chateauneuf: 
   city: "chateauneuf"
-  accentcity: "Ch\xC3\xA2teauneuf"
+  accentcity: "Châteauneuf"
 chatelaine: 
   city: "chatelaine"
-  accentcity: "Ch\xC3\xA2telaine"
+  accentcity: "Châtelaine"
 chatelaine-geneve: 
   city: "chatelaine-geneve"
-  accentcity: "Ch\xC3\xA2telaine-Genève"
+  accentcity: "Châtelaine-Genève"
 chatelard: 
   city: "chatelard"
-  accentcity: "Ch\xC3\xA2telard"
+  accentcity: "Châtelard"
 chatel-saint-denis: 
   city: "chatel-saint-denis"
-  accentcity: "Ch\xC3\xA2tel-Saint-Denis"
+  accentcity: "Châtel-Saint-Denis"
 chatonnaye: 
   city: "chatonnaye"
-  accentcity: "Ch\xC3\xA2tonnaye"
+  accentcity: "Châtonnaye"
 chaumont: 
   city: "chaumont"
   accentcity: "Chaumont"
@@ -1862,7 +1862,7 @@ chene-bourg:
   accentcity: "Chêne-Bourg"
 chene-paquier: 
   city: "chene-paquier"
-  accentcity: "Chêne-P\xC3\xA2quier"
+  accentcity: "Chêne-Pâquier"
 chermignon: 
   city: "chermignon"
   accentcity: "Chermignon"
@@ -2090,7 +2090,7 @@ cossonay-ville:
   accentcity: "Cossonay-Ville"
 cote aux fees: 
   city: "cote aux fees"
-  accentcity: "C\xC3\xB4te aux Fées"
+  accentcity: "Côte aux Fées"
 cottens: 
   city: "cottens"
   accentcity: "Cottens"
@@ -2291,7 +2291,7 @@ delsberg:
   accentcity: "Delsberg"
 densburen: 
   city: "densburen"
-  accentcity: "Densb\xC3\xBCren"
+  accentcity: "Densbüren"
 derendingen: 
   city: "derendingen"
   accentcity: "Derendingen"
@@ -2423,13 +2423,13 @@ dreiligass:
   accentcity: "Dreiligass"
 dreischubel: 
   city: "dreischubel"
-  accentcity: "Dreisch\xC3\xBCbel"
+  accentcity: "Dreischübel"
 dubendorf: 
   city: "dubendorf"
-  accentcity: "D\xC3\xBCbendorf"
+  accentcity: "Dübendorf"
 dudingen: 
   city: "dudingen"
-  accentcity: "D\xC3\xBCdingen"
+  accentcity: "Düdingen"
 duno: 
   city: "duno"
   accentcity: "Duno"
@@ -2438,19 +2438,19 @@ duranna:
   accentcity: "Duranna"
 durnten: 
   city: "durnten"
-  accentcity: "D\xC3\xBCrnten"
+  accentcity: "Dürnten"
 durrboden: 
   city: "durrboden"
-  accentcity: "D\xC3\xBCrrboden"
+  accentcity: "Dürrboden"
 durrenasch: 
   city: "durrenasch"
-  accentcity: "D\xC3\xBCrren\xC3\xA4sch"
+  accentcity: "Dürren\xC3\xA4sch"
 durrenboden: 
   city: "durrenboden"
-  accentcity: "D\xC3\xBCrrenboden"
+  accentcity: "Dürrenboden"
 durrenroth: 
   city: "durrenroth"
-  accentcity: "D\xC3\xBCrrenroth"
+  accentcity: "Dürrenroth"
 dutgien: 
   city: "dutgien"
   accentcity: "Dutgien"
@@ -2483,7 +2483,7 @@ echarlens:
   accentcity: "Echarlens"
 econe: 
   city: "econe"
-  accentcity: "Ec\xC3\xB4ne"
+  accentcity: "Ecône"
 ecublens: 
   city: "ecublens"
   accentcity: "Ecublens"
@@ -2591,7 +2591,7 @@ embrach:
   accentcity: "Embrach"
 emmenbrucke: 
   city: "emmenbrucke"
-  accentcity: "Emmenbr\xC3\xBCcke"
+  accentcity: "Emmenbrücke"
 emmen: 
   city: "emmen"
   accentcity: "Emmen"
@@ -2633,7 +2633,7 @@ ennenda:
   accentcity: "Ennenda"
 ennetburgen: 
   city: "ennetburgen"
-  accentcity: "Ennetb\xC3\xBCrgen"
+  accentcity: "Ennetbürgen"
 ennetegg: 
   city: "ennetegg"
   accentcity: "Ennetegg"
@@ -2666,7 +2666,7 @@ ependes:
   accentcity: "Ependes"
 epinassey: 
   city: "epinassey"
-  accentcity: "\xC3\x89pinassey"
+  accentcity: "Épinassey"
 eptingen: 
   city: "eptingen"
   accentcity: "Eptingen"
@@ -2846,7 +2846,7 @@ faoug:
   accentcity: "Faoug"
 fardun: 
   city: "fardun"
-  accentcity: "Fard\xC3\xBCn"
+  accentcity: "Fardün"
 farnigen: 
   city: "farnigen"
   accentcity: "F\xC3\xA4rnigen"
@@ -2993,7 +2993,7 @@ finhaut:
   accentcity: "Finhaut"
 finstermunz: 
   city: "finstermunz"
-  accentcity: "Finsterm\xC3\xBCnz"
+  accentcity: "Finstermünz"
 fionnay: 
   city: "fionnay"
   accentcity: "Fionnay"
@@ -3038,19 +3038,19 @@ flond:
   accentcity: "Flond"
 flueli: 
   city: "flueli"
-  accentcity: "Fl\xC3\xBCeli"
+  accentcity: "Flüeli"
 flueln: 
   city: "flueln"
-  accentcity: "Fl\xC3\xBCeln"
+  accentcity: "Flüeln"
 fluhalp: 
   city: "fluhalp"
   accentcity: "Fluhalp"
 fluhli: 
   city: "fluhli"
-  accentcity: "Fl\xC3\xBChli"
+  accentcity: "Flühli"
 fluhli ranft: 
   city: "fluhli ranft"
-  accentcity: "Fl\xC3\xBChli Ranft"
+  accentcity: "Flühli Ranft"
 flums: 
   city: "flums"
   accentcity: "Flums"
@@ -3167,7 +3167,7 @@ full:
   accentcity: "Full"
 fullinsdorf: 
   city: "fullinsdorf"
-  accentcity: "F\xC3\xBCllinsdorf"
+  accentcity: "Füllinsdorf"
 fully: 
   city: "fully"
   accentcity: "Fully"
@@ -3185,7 +3185,7 @@ furna:
   accentcity: "Furna"
 furstenaubruck: 
   city: "furstenaubruck"
-  accentcity: "F\xC3\xBCrstenaubruck"
+  accentcity: "Fürstenaubruck"
 furth: 
   city: "furth"
   accentcity: "Furth"
@@ -3284,13 +3284,13 @@ genolier:
   accentcity: "Genolier"
 gentalhutten: 
   city: "gentalhutten"
-  accentcity: "Gentalh\xC3\xBCtten"
+  accentcity: "Gentalhütten"
 genthalalp: 
   city: "genthalalp"
   accentcity: "Genthalalp"
 genthalhutten: 
   city: "genthalhutten"
-  accentcity: "Genthalh\xC3\xBCtten"
+  accentcity: "Genthalhütten"
 geretsried: 
   city: "geretsried"
   accentcity: "Geretsried"
@@ -3620,7 +3620,7 @@ grolley:
   accentcity: "Grolley"
 grone: 
   city: "grone"
-  accentcity: "Gr\xC3\xB4ne"
+  accentcity: "Grône"
 grono: 
   city: "grono"
   accentcity: "Grono"
@@ -3662,10 +3662,10 @@ grun:
   accentcity: "Grun"
 gruningen: 
   city: "gruningen"
-  accentcity: "Gr\xC3\xBCningen"
+  accentcity: "Grüningen"
 grusch: 
   city: "grusch"
-  accentcity: "Gr\xC3\xBCsch"
+  accentcity: "Grüsch"
 gruyeres: 
   city: "gruyeres"
   accentcity: "Gruyères"
@@ -3695,13 +3695,13 @@ gumegna:
   accentcity: "Gumegna"
 gumligen: 
   city: "gumligen"
-  accentcity: "G\xC3\xBCmligen"
+  accentcity: "Gümligen"
 gummeli: 
   city: "gummeli"
   accentcity: "Gummeli"
 gummenen: 
   city: "gummenen"
-  accentcity: "G\xC3\xBCmmenen"
+  accentcity: "Gümmenen"
 gunten: 
   city: "gunten"
   accentcity: "Gunten"
@@ -3731,13 +3731,13 @@ gurtnellen:
   accentcity: "Gurtnellen"
 gutsch: 
   city: "gutsch"
-  accentcity: "G\xC3\xBCtsch"
+  accentcity: "Gütsch"
 guttannen: 
   city: "guttannen"
   accentcity: "Guttannen"
 guttingen: 
   city: "guttingen"
-  accentcity: "G\xC3\xBCttingen"
+  accentcity: "Güttingen"
 gwatt: 
   city: "gwatt"
   accentcity: "Gwatt"
@@ -3803,7 +3803,7 @@ haslen:
   accentcity: "Haslen"
 hasle-ruegsau: 
   city: "hasle-ruegsau"
-  accentcity: "Hasle-R\xC3\xBCegsau"
+  accentcity: "Hasle-Rüegsau"
 hasli: 
   city: "hasli"
   accentcity: "Hasli"
@@ -3842,7 +3842,7 @@ hegi:
   accentcity: "Hegi"
 heidbuhl: 
   city: "heidbuhl"
-  accentcity: "Heidb\xC3\xBChl"
+  accentcity: "Heidbühl"
 heiden: 
   city: "heiden"
   accentcity: "Heiden"
@@ -3866,7 +3866,7 @@ heitmannsegg:
   accentcity: "Heitmannsegg"
 hellbuhl: 
   city: "hellbuhl"
-  accentcity: "Hellb\xC3\xBChl"
+  accentcity: "Hellbühl"
 hemberg: 
   city: "hemberg"
   accentcity: "Hemberg"
@@ -3986,7 +3986,7 @@ hinterlochen:
   accentcity: "Hinterlochen"
 hinter netschbuhl: 
   city: "hinter netschbuhl"
-  accentcity: "Hinter Netschb\xC3\xBChl"
+  accentcity: "Hinter Netschbühl"
 hinterrhein: 
   city: "hinterrhein"
   accentcity: "Hinterrhein"
@@ -4016,7 +4016,7 @@ hochdorf:
   accentcity: "Hochdorf"
 hochfinstermunz: 
   city: "hochfinstermunz"
-  accentcity: "Hochfinsterm\xC3\xBCnz"
+  accentcity: "Hochfinstermünz"
 hochwald: 
   city: "hochwald"
   accentcity: "Hochwald"
@@ -4046,7 +4046,7 @@ hollerbiel:
   accentcity: "Hollerbiel"
 hollerbuhl: 
   city: "hollerbuhl"
-  accentcity: "Hollerb\xC3\xBChl"
+  accentcity: "Hollerbühl"
 holstein: 
   city: "holstein"
   accentcity: "H\xC3\xB6lstein"
@@ -4103,19 +4103,19 @@ hundwil:
   accentcity: "Hundwil"
 hunenberg: 
   city: "hunenberg"
-  accentcity: "H\xC3\xBCnenberg"
+  accentcity: "Hünenberg"
 hunibach: 
   city: "hunibach"
-  accentcity: "H\xC3\xBCnibach"
+  accentcity: "Hünibach"
 huntwangen: 
   city: "huntwangen"
-  accentcity: "H\xC3\xBCntwangen"
+  accentcity: "Hüntwangen"
 hunzigenbrugg: 
   city: "hunzigenbrugg"
-  accentcity: "Hunzigenbr\xC3\xBCgg"
+  accentcity: "Hunzigenbrügg"
 hunzikenbrucke: 
   city: "hunzikenbrucke"
-  accentcity: "Hunzikenbr\xC3\xBCcke"
+  accentcity: "Hunzikenbrücke"
 hurden: 
   city: "hurden"
   accentcity: "Hurden"
@@ -4124,16 +4124,16 @@ husen:
   accentcity: "Husen"
 huttenberg: 
   city: "huttenberg"
-  accentcity: "H\xC3\xBCttenberg"
+  accentcity: "Hüttenberg"
 hutten: 
   city: "hutten"
-  accentcity: "H\xC3\xBCtten"
+  accentcity: "Hütten"
 huttlingen: 
   city: "huttlingen"
-  accentcity: "H\xC3\xBCttlingen"
+  accentcity: "Hüttlingen"
 huttwilen: 
   city: "huttwilen"
-  accentcity: "H\xC3\xBCttwilen"
+  accentcity: "Hüttwilen"
 huttwil: 
   city: "huttwil"
   accentcity: "Huttwil"
@@ -4487,10 +4487,10 @@ kleinhochstetten:
   accentcity: "Kleinh\xC3\xB6chstetten"
 kleinhuningen: 
   city: "kleinhuningen"
-  accentcity: "Kleinh\xC3\xBCningen"
+  accentcity: "Kleinhüningen"
 kleinlutzel: 
   city: "kleinlutzel"
-  accentcity: "Kleinl\xC3\xBCtzel"
+  accentcity: "Kleinlützel"
 klingnau: 
   city: "klingnau"
   accentcity: "Klingnau"
@@ -4499,7 +4499,7 @@ kloster:
   accentcity: "Kloster"
 klosters brucke: 
   city: "klosters brucke"
-  accentcity: "Klosters Br\xC3\xBCcke"
+  accentcity: "Klosters Brücke"
 klosters dorf: 
   city: "klosters dorf"
   accentcity: "Klosters Dorf"
@@ -4565,7 +4565,7 @@ krautmettli:
   accentcity: "Krautmettli"
 kreuzbrucke: 
   city: "kreuzbrucke"
-  accentcity: "Kreuzbr\xC3\xBCcke"
+  accentcity: "Kreuzbrücke"
 kreuzlingen: 
   city: "kreuzlingen"
   accentcity: "Kreuzlingen"
@@ -4595,10 +4595,10 @@ krinau:
   accentcity: "Krinau"
 kronbuhl bei sankt gallen: 
   city: "kronbuhl bei sankt gallen"
-  accentcity: "Kronb\xC3\xBChl bei Sankt Gallen"
+  accentcity: "Kronbühl bei Sankt Gallen"
 kronbuhl: 
   city: "kronbuhl"
-  accentcity: "Kronb\xC3\xBChl"
+  accentcity: "Kronbühl"
 kroschenbrunnen: 
   city: "kroschenbrunnen"
   accentcity: "Kr\xC3\xB6schenbrunnen"
@@ -4607,7 +4607,7 @@ krummenau:
   accentcity: "Krummenau"
 kublis: 
   city: "kublis"
-  accentcity: "K\xC3\xBCblis"
+  accentcity: "Küblis"
 kuenz: 
   city: "kuenz"
   accentcity: "Kuenz"
@@ -4619,7 +4619,7 @@ kumma:
   accentcity: "Kumma"
 kunten: 
   city: "kunten"
-  accentcity: "K\xC3\xBCnten"
+  accentcity: "Künten"
 kuoni: 
   city: "kuoni"
   accentcity: "Kuoni"
@@ -4637,19 +4637,19 @@ kurheim-grimmialp:
   accentcity: "Kurheim-Grimmialp"
 kusnacht: 
   city: "kusnacht"
-  accentcity: "K\xC3\xBCsnacht"
+  accentcity: "Küsnacht"
 kussnacht am rigi: 
   city: "kussnacht am rigi"
-  accentcity: "K\xC3\xBCssnacht am Rigi"
+  accentcity: "Küssnacht am Rigi"
 kussnacht: 
   city: "kussnacht"
-  accentcity: "K\xC3\xBCssnacht"
+  accentcity: "Küssnacht"
 kuttigen: 
   city: "kuttigen"
-  accentcity: "K\xC3\xBCttigen"
+  accentcity: "Küttigen"
 kuttigkofen: 
   city: "kuttigkofen"
-  accentcity: "K\xC3\xBCttigkofen"
+  accentcity: "Küttigkofen"
 kyburg: 
   city: "kyburg"
   accentcity: "Kyburg"
@@ -4700,10 +4700,10 @@ la comballaz:
   accentcity: "La Comballaz"
 la cote-aux-fees: 
   city: "la cote-aux-fees"
-  accentcity: "La C\xC3\xB4te-aux-Fées"
+  accentcity: "La Côte-aux-Fées"
 la cote: 
   city: "la cote"
-  accentcity: "La C\xC3\xB4te"
+  accentcity: "La Côte"
 la coulouvreniere: 
   city: "la coulouvreniere"
   accentcity: "La Coulouvrenière"
@@ -4967,16 +4967,16 @@ le bry:
   accentcity: "Le Bry"
 le chable: 
   city: "le chable"
-  accentcity: "Le Ch\xC3\xA2ble"
+  accentcity: "Le Châble"
 le chalet-a-gobet: 
   city: "le chalet-a-gobet"
   accentcity: "Le Chalet-à-Gobet"
 le chatelard: 
   city: "le chatelard"
-  accentcity: "Le Ch\xC3\xA2telard"
+  accentcity: "Le Châtelard"
 le chatelard-montreux: 
   city: "le chatelard-montreux"
-  accentcity: "Le Ch\xC3\xA2telard-Montreux"
+  accentcity: "Le Châtelard-Montreux"
 lechelles: 
   city: "lechelles"
   accentcity: "Léchelles"
@@ -5063,7 +5063,7 @@ lenz:
   accentcity: "Lenz"
 le paquier: 
   city: "le paquier"
-  accentcity: "Le P\xC3\xA2quier"
+  accentcity: "Le Pâquier"
 le peuchapatte: 
   city: "le peuchapatte"
   accentcity: "Le Peuchapatte"
@@ -5147,7 +5147,7 @@ les moulins:
   accentcity: "Les Moulins"
 les paquis: 
   city: "les paquis"
-  accentcity: "Les P\xC3\xA2quis"
+  accentcity: "Les Pâquis"
 les plans: 
   city: "les plans"
   accentcity: "Les Plans"
@@ -5279,10 +5279,10 @@ linththal:
   accentcity: "Linththal"
 liplisbuhl: 
   city: "liplisbuhl"
-  accentcity: "Liplisb\xC3\xBChl"
+  accentcity: "Liplisbühl"
 lipplisbuhl: 
   city: "lipplisbuhl"
-  accentcity: "Lipplisb\xC3\xBChl"
+  accentcity: "Lipplisbühl"
 lisle: 
   city: "l'isle"
   accentcity: "L'Isle"
@@ -5372,7 +5372,7 @@ lully:
   accentcity: "Lully"
 lu: 
   city: "lu"
-  accentcity: "L\xC3\xBC"
+  accentcity: "Lü"
 lumbreineralp: 
   city: "lumbreineralp"
   accentcity: "Lumbreineralp"
@@ -5402,25 +5402,25 @@ luthern:
   accentcity: "Luthern"
 lutisburg-dorf: 
   city: "lutisburg-dorf"
-  accentcity: "L\xC3\xBCtisburg-Dorf"
+  accentcity: "Lütisburg-Dorf"
 lutisburg: 
   city: "lutisburg"
-  accentcity: "L\xC3\xBCtisburg"
+  accentcity: "Lütisburg"
 lutmerken: 
   city: "lutmerken"
-  accentcity: "L\xC3\xBCtmerken"
+  accentcity: "Lütmerken"
 lutry: 
   city: "lutry"
   accentcity: "Lutry"
 lutschental: 
   city: "lutschental"
-  accentcity: "L\xC3\xBCtschental"
+  accentcity: "Lütschental"
 lutschenthal: 
   city: "lutschenthal"
-  accentcity: "L\xC3\xBCtschenthal"
+  accentcity: "Lütschenthal"
 lutzelfluh: 
   city: "lutzelfluh"
-  accentcity: "L\xC3\xBCtzelfl\xC3\xBCh"
+  accentcity: "Lützelflüh"
 luven: 
   city: "luven"
   accentcity: "Luven"
@@ -5831,7 +5831,7 @@ miglieglia:
   accentcity: "Miglieglia"
 miliut: 
   city: "miliut"
-  accentcity: "Mili\xC3\xBCt"
+  accentcity: "Miliüt"
 minusio: 
   city: "minusio"
   accentcity: "Minusio"
@@ -5990,7 +5990,7 @@ monti della trinita:
   accentcity: "Monti della Trinità"
 monti di co: 
   city: "monti di co"
-  accentcity: "Monti di C\xC3\xB2"
+  accentcity: "Monti di Cò"
 monti di lanes: 
   city: "monti di lanes"
   accentcity: "Monti di Lanés"
@@ -6110,10 +6110,10 @@ motet:
   accentcity: "Motet"
 motiers: 
   city: "motiers"
-  accentcity: "M\xC3\xB4tiers"
+  accentcity: "Môtiers"
 motot: 
   city: "motot"
-  accentcity: "Mot\xC3\xB4t"
+  accentcity: "Motôt"
 motto: 
   city: "motto"
   accentcity: "Motto"
@@ -6137,25 +6137,25 @@ muhen:
   accentcity: "Muhen"
 muhlau: 
   city: "muhlau"
-  accentcity: "M\xC3\xBChlau"
+  accentcity: "Mühlau"
 muhlebach: 
   city: "muhlebach"
-  accentcity: "M\xC3\xBChlebach"
+  accentcity: "Mühlebach"
 muhleberg: 
   city: "muhleberg"
-  accentcity: "M\xC3\xBChleberg"
+  accentcity: "Mühleberg"
 muhlehorn: 
   city: "muhlehorn"
-  accentcity: "M\xC3\xBChlehorn"
+  accentcity: "Mühlehorn"
 muhlen: 
   city: "muhlen"
-  accentcity: "M\xC3\xBChlen"
+  accentcity: "Mühlen"
 muhlethurnen: 
   city: "muhlethurnen"
-  accentcity: "M\xC3\xBChlethurnen"
+  accentcity: "Mühlethurnen"
 muhlruti: 
   city: "muhlruti"
-  accentcity: "M\xC3\xBChlr\xC3\xBCti"
+  accentcity: "Mühlrüti"
 muldain: 
   city: "muldain"
   accentcity: "Muldain"
@@ -6164,37 +6164,37 @@ mulegns:
   accentcity: "Mulegns"
 mullheim: 
   city: "mullheim"
-  accentcity: "M\xC3\xBCllheim"
+  accentcity: "Müllheim"
 mumliswil: 
   city: "mumliswil"
-  accentcity: "M\xC3\xBCmliswil"
+  accentcity: "Mümliswil"
 mumpf: 
   city: "mumpf"
   accentcity: "Mumpf"
 munchenbuchsee: 
   city: "munchenbuchsee"
-  accentcity: "M\xC3\xBCnchenbuchsee"
+  accentcity: "Münchenbuchsee"
 munchenstein: 
   city: "munchenstein"
-  accentcity: "M\xC3\xBCnchenstein"
+  accentcity: "Münchenstein"
 munchwilen: 
   city: "munchwilen"
-  accentcity: "M\xC3\xBCnchwilen"
+  accentcity: "Münchwilen"
 mund: 
   city: "mund"
   accentcity: "Mund"
 munsingen: 
   city: "munsingen"
-  accentcity: "M\xC3\xBCnsingen"
+  accentcity: "Münsingen"
 munsterlingen: 
   city: "munsterlingen"
-  accentcity: "M\xC3\xBCnsterlingen"
+  accentcity: "Münsterlingen"
 munster: 
   city: "munster"
-  accentcity: "M\xC3\xBCnster"
+  accentcity: "Münster"
 munstschemier: 
   city: "munstschemier"
-  accentcity: "M\xC3\xBCnstschemier"
+  accentcity: "Münstschemier"
 munter: 
   city: "munter"
   accentcity: "Munter"
@@ -6224,16 +6224,16 @@ muri:
   accentcity: "Muri"
 murren: 
   city: "murren"
-  accentcity: "M\xC3\xBCrren"
+  accentcity: "Mürren"
 murten: 
   city: "murten"
   accentcity: "Murten"
 mussen: 
   city: "mussen"
-  accentcity: "M\xC3\xBCssen"
+  accentcity: "Müssen"
 mustair: 
   city: "mustair"
-  accentcity: "M\xC3\xBCstair"
+  accentcity: "Müstair"
 mutten: 
   city: "mutten"
   accentcity: "Mutten"
@@ -6242,7 +6242,7 @@ muttenz:
   accentcity: "Muttenz"
 mutzlenberg: 
   city: "mutzlenberg"
-  accentcity: "M\xC3\xBCtzlenberg"
+  accentcity: "Mützlenberg"
 nafels: 
   city: "nafels"
   accentcity: "N\xC3\xA4fels"
@@ -6299,7 +6299,7 @@ netstal:
   accentcity: "Netstal"
 neuchatel: 
   city: "neuchatel"
-  accentcity: "Neuch\xC3\xA2tel"
+  accentcity: "Neuchâtel"
 neudorf: 
   city: "neudorf"
   accentcity: "Neudorf"
@@ -6338,7 +6338,7 @@ neukirch:
   accentcity: "Neukirch"
 neumuhle: 
   city: "neumuhle"
-  accentcity: "Neum\xC3\xBChle"
+  accentcity: "Neumühle"
 neunforn: 
   city: "neunforn"
   accentcity: "Neunforn"
@@ -6368,7 +6368,7 @@ niederbuchsiten:
   accentcity: "Niederbuchsiten"
 niederburen: 
   city: "niederburen"
-  accentcity: "Niederb\xC3\xBCren"
+  accentcity: "Niederbüren"
 niedererlinsbach: 
   city: "niedererlinsbach"
   accentcity: "Niedererlinsbach"
@@ -6491,7 +6491,7 @@ nunningen:
   accentcity: "Nunningen"
 nurensdorf: 
   city: "nurensdorf"
-  accentcity: "N\xC3\xBCrensdorf"
+  accentcity: "Nürensdorf"
 nuschlau: 
   city: "nuschlau"
   accentcity: "Nuschlau"
@@ -6536,10 +6536,10 @@ oberbuchsiten:
   accentcity: "Oberbuchsiten"
 oberburen: 
   city: "oberburen"
-  accentcity: "Oberb\xC3\xBCren"
+  accentcity: "Oberbüren"
 oberbure: 
   city: "oberbure"
-  accentcity: "Oberb\xC3\xBCre"
+  accentcity: "Oberbüre"
 oberburg: 
   city: "oberburg"
   accentcity: "Oberburg"
@@ -6677,7 +6677,7 @@ ober rohrmoos:
   accentcity: "Ober Rohrmoos"
 oberruti: 
   city: "oberruti"
-  accentcity: "Oberr\xC3\xBCti"
+  accentcity: "Oberrüti"
 obersaxen: 
   city: "obersaxen"
   accentcity: "Obersaxen"
@@ -6728,7 +6728,7 @@ ober trubsee alm:
   accentcity: "Ober Trubsee Alm"
 ober trubsee alp: 
   city: "ober trubsee alp"
-  accentcity: "Ober Tr\xC3\xBCbsee Alp"
+  accentcity: "Ober Trübsee Alp"
 ober tschappina: 
   city: "ober tschappina"
   accentcity: "Ober Tschappina"
@@ -6929,7 +6929,7 @@ pany:
   accentcity: "Pany"
 papiermuhle: 
   city: "papiermuhle"
-  accentcity: "Papierm\xC3\xBChle"
+  accentcity: "Papiermühle"
 pardatsch: 
   city: "pardatsch"
   accentcity: "Pardatsch"
@@ -7268,7 +7268,7 @@ pusced di sopra:
   accentcity: "Pusced di Sopra"
 puscen negro: 
   city: "puscen negro"
-  accentcity: "P\xC3\xBCscen Negro"
+  accentcity: "Püscen Negro"
 pusserein: 
   city: "pusserein"
   accentcity: "Pusserein"
@@ -7301,7 +7301,7 @@ ragaz:
   accentcity: "Ragaz"
 ramismuhle: 
   city: "ramismuhle"
-  accentcity: "R\xC3\xA4mism\xC3\xBChle"
+  accentcity: "R\xC3\xA4mismühle"
 ramiswil: 
   city: "ramiswil"
   accentcity: "Ramiswil"
@@ -7319,7 +7319,7 @@ randogne:
   accentcity: "Randogne"
 ranfluh: 
   city: "ranfluh"
-  accentcity: "Ranfl\xC3\xBCh"
+  accentcity: "Ranflüh"
 ranft: 
   city: "ranft"
   accentcity: "Ranft"
@@ -7403,7 +7403,7 @@ rempen:
   accentcity: "Rempen"
 remus: 
   city: "remus"
-  accentcity: "Rem\xC3\xBCs"
+  accentcity: "Remüs"
 renan: 
   city: "renan"
   accentcity: "Renan"
@@ -7421,7 +7421,7 @@ reutigen:
   accentcity: "Reutigen"
 rhazuns: 
   city: "rhazuns"
-  accentcity: "Rh\xC3\xA4z\xC3\xBCns"
+  accentcity: "Rh\xC3\xA4züns"
 rheinau: 
   city: "rheinau"
   accentcity: "Rheinau"
@@ -7607,7 +7607,7 @@ rolle:
   accentcity: "Rolle"
 romainmotier: 
   city: "romainmotier"
-  accentcity: "Romainm\xC3\xB4tier"
+  accentcity: "Romainmôtier"
 romanel: 
   city: "romanel"
   accentcity: "Romanel"
@@ -7637,7 +7637,7 @@ ronco sopra ascona:
   accentcity: "Ronco sopra Ascona"
 rondchatel: 
   city: "rondchatel"
-  accentcity: "Rondch\xC3\xA2tel"
+  accentcity: "Rondchâtel"
 rongellen: 
   city: "rongellen"
   accentcity: "Rongellen"
@@ -7742,16 +7742,16 @@ ruden:
   accentcity: "Ruden"
 ruderswil: 
   city: "ruderswil"
-  accentcity: "R\xC3\xBCderswil"
+  accentcity: "Rüderswil"
 rudlingen: 
   city: "rudlingen"
-  accentcity: "R\xC3\xBCdlingen"
+  accentcity: "Rüdlingen"
 rudolfstetten: 
   city: "rudolfstetten"
   accentcity: "Rudolfstetten"
 rueggisberg: 
   city: "rueggisberg"
-  accentcity: "R\xC3\xBCeggisberg"
+  accentcity: "Rüeggisberg"
 rueras: 
   city: "rueras"
   accentcity: "Ruèras"
@@ -7760,7 +7760,7 @@ rue:
   accentcity: "Rue"
 rueschegg: 
   city: "rueschegg"
-  accentcity: "R\xC3\xBCeschegg"
+  accentcity: "Rüeschegg"
 rueun: 
   city: "rueun"
   accentcity: "Rueun"
@@ -7775,13 +7775,13 @@ ruis:
   accentcity: "Ruis"
 rumikon: 
   city: "rumikon"
-  accentcity: "R\xC3\xBCmikon"
+  accentcity: "Rümikon"
 rumlang: 
   city: "rumlang"
-  accentcity: "R\xC3\xBCmlang"
+  accentcity: "Rümlang"
 runenberg: 
   city: "runenberg"
-  accentcity: "R\xC3\xBCnenberg"
+  accentcity: "Rünenberg"
 ruppen: 
   city: "ruppen"
   accentcity: "Ruppen"
@@ -7790,16 +7790,16 @@ rupperswil:
   accentcity: "Rupperswil"
 ruschegg-graben: 
   city: "ruschegg-graben"
-  accentcity: "R\xC3\xBCschegg-Graben"
+  accentcity: "Rüschegg-Graben"
 ruschegg: 
   city: "ruschegg"
-  accentcity: "R\xC3\xBCschegg"
+  accentcity: "Rüschegg"
 ruschein: 
   city: "ruschein"
   accentcity: "Ruschein"
 ruschlikon: 
   city: "ruschlikon"
-  accentcity: "R\xC3\xBCschlikon"
+  accentcity: "Rüschlikon"
 russikon: 
   city: "russikon"
   accentcity: "Russikon"
@@ -7808,22 +7808,22 @@ russin:
   accentcity: "Russin"
 rustenschwil: 
   city: "rustenschwil"
-  accentcity: "R\xC3\xBCstenschwil"
+  accentcity: "Rüstenschwil"
 ruswil: 
   city: "ruswil"
   accentcity: "Ruswil"
 ruthi: 
   city: "ruthi"
-  accentcity: "R\xC3\xBCthi"
+  accentcity: "Rüthi"
 ruti: 
   city: "ruti"
-  accentcity: "R\xC3\xBCti"
+  accentcity: "Rüti"
 rutli: 
   city: "rutli"
-  accentcity: "R\xC3\xBCtli"
+  accentcity: "Rütli"
 rutti: 
   city: "rutti"
-  accentcity: "R\xC3\xBCtti"
+  accentcity: "Rütti"
 ryborg: 
   city: "ryborg"
   accentcity: "Ryborg"
@@ -7994,7 +7994,7 @@ salategnas:
   accentcity: "Salategnas"
 sales: 
   city: "sales"
-  accentcity: "S\xC3\xA2les"
+  accentcity: "Sâles"
 salez: 
   city: "salez"
   accentcity: "Salez"
@@ -8336,7 +8336,7 @@ schoftland:
   accentcity: "Sch\xC3\xB6ftland"
 schonbuhl: 
   city: "schonbuhl"
-  accentcity: "Sch\xC3\xB6nb\xC3\xBChl"
+  accentcity: "Sch\xC3\xB6nbühl"
 schoneck: 
   city: "schoneck"
   accentcity: "Sch\xC3\xB6neck"
@@ -8378,7 +8378,7 @@ schrickmatten:
   accentcity: "Schrickmatten"
 schubelbach: 
   city: "schubelbach"
-  accentcity: "Sch\xC3\xBCbelbach"
+  accentcity: "Schübelbach"
 schuders: 
   city: "schuders"
   accentcity: "Schuders"
@@ -8390,16 +8390,16 @@ schuls:
   accentcity: "Schuls"
 schupbach: 
   city: "schupbach"
-  accentcity: "Sch\xC3\xBCpbach"
+  accentcity: "Schüpbach"
 schupfen: 
   city: "schupfen"
-  accentcity: "Sch\xC3\xBCpfen"
+  accentcity: "Schüpfen"
 schupfheim: 
   city: "schupfheim"
-  accentcity: "Sch\xC3\xBCpfheim"
+  accentcity: "Schüpfheim"
 schurlialp: 
   city: "schurlialp"
-  accentcity: "Sch\xC3\xBCrlialp"
+  accentcity: "Schürlialp"
 schwaderloch: 
   city: "schwaderloch"
   accentcity: "Schwaderloch"
@@ -8618,7 +8618,7 @@ sigriswil:
   accentcity: "Sigriswil"
 sihlbrucke: 
   city: "sihlbrucke"
-  accentcity: "Sihlbr\xC3\xBCcke"
+  accentcity: "Sihlbrücke"
 sihlbrugg dorf: 
   city: "sihlbrugg dorf"
   accentcity: "Sihlbrugg Dorf"
@@ -8654,7 +8654,7 @@ silvrettahaus:
   accentcity: "Silvrettahaus"
 silvretta hutte: 
   city: "silvretta hutte"
-  accentcity: "Silvretta H\xC3\xBCtte"
+  accentcity: "Silvretta Hütte"
 simpeln: 
   city: "simpeln"
   accentcity: "Simpeln"
@@ -8795,7 +8795,7 @@ spiringen:
   accentcity: "Spiringen"
 spitelruti: 
   city: "spitelruti"
-  accentcity: "Spitelr\xC3\xBCti"
+  accentcity: "Spitelrüti"
 spitzenhaus: 
   city: "spitzenhaus"
   accentcity: "Spitzenhaus"
@@ -8804,7 +8804,7 @@ spluga:
   accentcity: "Spluga"
 splugen: 
   city: "splugen"
-  accentcity: "Spl\xC3\xBCgen"
+  accentcity: "Splügen"
 sporz: 
   city: "sporz"
   accentcity: "Sporz"
@@ -8972,7 +8972,7 @@ stuls:
   accentcity: "Stuls"
 sturvis: 
   city: "sturvis"
-  accentcity: "St\xC3\xBCrvis"
+  accentcity: "Stürvis"
 suberg: 
   city: "suberg"
   accentcity: "Suberg"
@@ -8984,7 +8984,7 @@ suchy:
   accentcity: "Suchy"
 sudern: 
   city: "sudern"
-  accentcity: "S\xC3\xBCdern"
+  accentcity: "Südern"
 sufers: 
   city: "sufers"
   accentcity: "Sufers"
@@ -9047,7 +9047,7 @@ susauna:
   accentcity: "Susauna"
 sus: 
   city: "sus"
-  accentcity: "S\xC3\xBCs"
+  accentcity: "Süs"
 tafers: 
   city: "tafers"
   accentcity: "Tafers"
@@ -9188,7 +9188,7 @@ thierrens:
   accentcity: "Thierrens"
 thonex: 
   city: "thonex"
-  accentcity: "Th\xC3\xB4nex"
+  accentcity: "Thônex"
 thorberg: 
   city: "thorberg"
   accentcity: "Thorberg"
@@ -9329,7 +9329,7 @@ trins dorf:
   accentcity: "Trins Dorf"
 trinsermuhle: 
   city: "trinsermuhle"
-  accentcity: "Trinserm\xC3\xBChle"
+  accentcity: "Trinsermühle"
 trins: 
   city: "trins"
   accentcity: "Trins"
@@ -9341,7 +9341,7 @@ troistorrents:
   accentcity: "Troistorrents"
 trubbach: 
   city: "trubbach"
-  accentcity: "Tr\xC3\xBCbbach"
+  accentcity: "Trübbach"
 trubschachen: 
   city: "trubschachen"
   accentcity: "Trubschachen"
@@ -9350,7 +9350,7 @@ trub:
   accentcity: "Trub"
 trullikon: 
   city: "trullikon"
-  accentcity: "Tr\xC3\xBCllikon"
+  accentcity: "Trüllikon"
 truns: 
   city: "truns"
   accentcity: "Truns"
@@ -9518,7 +9518,7 @@ unter-laret:
   accentcity: "Unter-Laret"
 unter lauchbuhl: 
   city: "unter lauchbuhl"
-  accentcity: "Unter Lauchb\xC3\xBChl"
+  accentcity: "Unter Lauchbühl"
 unterlunkhofen: 
   city: "unterlunkhofen"
   accentcity: "Unterlunkhofen"
@@ -9809,7 +9809,7 @@ villars-le-grand:
   accentcity: "Villars-le-Grand"
 villars-sur-glane: 
   city: "villars-sur-glane"
-  accentcity: "Villars-sur-Gl\xC3\xA2ne"
+  accentcity: "Villars-sur-Glâne"
 villars-sur-marly: 
   city: "villars-sur-marly"
   accentcity: "Villars-sur-Marly"
@@ -10280,22 +10280,22 @@ worb:
   accentcity: "Worb"
 wuadingen: 
   city: "wuadingen"
-  accentcity: "W\xC3\xBCadingen"
+  accentcity: "Wüadingen"
 wunnewil: 
   city: "wunnewil"
-  accentcity: "W\xC3\xBCnnewil"
+  accentcity: "Wünnewil"
 wuppenau: 
   city: "wuppenau"
   accentcity: "Wuppenau"
 wurenlingen: 
   city: "wurenlingen"
-  accentcity: "W\xC3\xBCrenlingen"
+  accentcity: "Würenlingen"
 wurenling: 
   city: "wurenling"
-  accentcity: "W\xC3\xBCrenling"
+  accentcity: "Würenling"
 wurenlos: 
   city: "wurenlos"
-  accentcity: "W\xC3\xBCrenlos"
+  accentcity: "Würenlos"
 wyhlen: 
   city: "wyhlen"
   accentcity: "Wyhlen"
@@ -10334,7 +10334,7 @@ yvorne:
   accentcity: "Yvorne"
 zaloner hutten: 
   city: "zaloner hutten"
-  accentcity: "Zal\xC3\xB6ner H\xC3\xBCtten"
+  accentcity: "Zal\xC3\xB6ner Hütten"
 zaziwil: 
   city: "zaziwil"
   accentcity: "Z\xC3\xA4ziwil"
@@ -10376,7 +10376,7 @@ zervreila:
   accentcity: "Zervreila"
 ziegelbrucke: 
   city: "ziegelbrucke"
-  accentcity: "Ziegelbr\xC3\xBCcke"
+  accentcity: "Ziegelbrücke"
 zignau: 
   city: "zignau"
   accentcity: "Zignau"
@@ -10400,7 +10400,7 @@ zofingen:
   accentcity: "Zofingen"
 zollbruck: 
   city: "zollbruck"
-  accentcity: "Zollbr\xC3\xBCck"
+  accentcity: "Zollbrück"
 zollikofen: 
   city: "zollikofen"
   accentcity: "Zollikofen"
@@ -10442,13 +10442,13 @@ zuoz:
   accentcity: "Zuoz"
 zurchersmuhle: 
   city: "zurchersmuhle"
-  accentcity: "Z\xC3\xBCrchersm\xC3\xBChle"
+  accentcity: "Zürchersmühle"
 zurichhorn: 
   city: "zurichhorn"
-  accentcity: "Z\xC3\xBCrichhorn"
+  accentcity: "Zürichhorn"
 zurich: 
   city: "zurich"
-  accentcity: "Z\xC3\xBCrich"
+  accentcity: "Zürich"
 zurzach: 
   city: "zurzach"
   accentcity: "Zurzach"
@@ -10460,7 +10460,7 @@ zuzwil:
   accentcity: "Zuzwil"
 zweilutschinen: 
   city: "zweilutschinen"
-  accentcity: "Zweil\xC3\xBCtschinen"
+  accentcity: "Zweilütschinen"
 zweisimmen: 
   city: "zweisimmen"
   accentcity: "Zweisimmen"

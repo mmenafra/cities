@@ -68,7 +68,7 @@ auf der hohe:
   accentcity: "Auf der H\xC3\xB6he"
 bachermuhle: 
   city: "bachermuhle"
-  accentcity: "Bacherm\xC3\xBChle"
+  accentcity: "Bachermühle"
 banzelt: 
   city: "banzelt"
   accentcity: "Banzelt"
@@ -479,7 +479,7 @@ chateau dreiborn:
   accentcity: "Chateau Dreiborn"
 chateau faubourg: 
   city: "chateau faubourg"
-  accentcity: "Ch\xC3\xA2teau Faubourg"
+  accentcity: "Château Faubourg"
 chateau meysembourg: 
   city: "chateau meysembourg"
   accentcity: "Chateau Meysembourg"
@@ -689,7 +689,7 @@ eich:
   accentcity: "Eich"
 eimeschbaach: 
   city: "eimeschbaach"
-  accentcity: "\xC3\x89imeschbaach"
+  accentcity: "Éimeschbaach"
 eischen: 
   city: "eischen"
   accentcity: "Eischen"
@@ -890,7 +890,7 @@ ferme wickelescht:
   accentcity: "Ferme Wickelescht"
 ferrantsmuhle: 
   city: "ferrantsmuhle"
-  accentcity: "Ferrantsm\xC3\xBChle"
+  accentcity: "Ferrantsmühle"
 festenhof: 
   city: "festenhof"
   accentcity: "Festenhof"
@@ -974,13 +974,13 @@ fronayhof:
   accentcity: "Fronayhof"
 funfbrunnen: 
   city: "funfbrunnen"
-  accentcity: "F\xC3\xBCnfbrunnen"
+  accentcity: "Fünfbrunnen"
 gaichel: 
   city: "gaichel"
   accentcity: "Gaichel"
 gantenbeinmuhle: 
   city: "gantenbeinmuhle"
-  accentcity: "Gantenbeinm\xC3\xBChle"
+  accentcity: "Gantenbeinmühle"
 garnich: 
   city: "garnich"
   accentcity: "Garnich"
@@ -1127,7 +1127,7 @@ grumelscheid:
   accentcity: "Grumelscheid"
 grummelscheid: 
   city: "grummelscheid"
-  accentcity: "Gr\xC3\xBCmmelscheid"
+  accentcity: "Grümmelscheid"
 grund: 
   city: "grund"
   accentcity: "Grund"
@@ -1553,7 +1553,7 @@ kuentzig:
   accentcity: "Kuentzig"
 kuntzig: 
   city: "kuntzig"
-  accentcity: "K\xC3\xBCntzig"
+  accentcity: "Küntzig"
 la croniere: 
   city: "la croniere"
   accentcity: "La Cronière"
@@ -1913,25 +1913,25 @@ muellendorf:
   accentcity: "Muellendorf"
 muhlenbach: 
   city: "muhlenbach"
-  accentcity: "M\xC3\xBChlenbach"
+  accentcity: "Mühlenbach"
 mullendorf: 
   city: "mullendorf"
-  accentcity: "M\xC3\xBCllendorf"
+  accentcity: "Müllendorf"
 mullerthal: 
   city: "mullerthal"
-  accentcity: "M\xC3\xBCllerthal"
+  accentcity: "Müllerthal"
 munsbach: 
   city: "munsbach"
-  accentcity: "M\xC3\xBCnsbach"
+  accentcity: "Münsbach"
 munschecker: 
   city: "munschecker"
-  accentcity: "M\xC3\xBCnschecker"
+  accentcity: "Münschecker"
 munshausen: 
   city: "munshausen"
   accentcity: "Munshausen"
 musbach: 
   city: "musbach"
-  accentcity: "M\xC3\xBCsbach"
+  accentcity: "Müsbach"
 nachtmanderscheid: 
   city: "nachtmanderscheid"
   accentcity: "Nachtmanderscheid"
@@ -1964,7 +1964,7 @@ neulocher:
   accentcity: "Neul\xC3\xB6cher"
 neumuhle: 
   city: "neumuhle"
-  accentcity: "Neum\xC3\xBChle"
+  accentcity: "Neumühle"
 neunhausen: 
   city: "neunhausen"
   accentcity: "Neunhausen"
@@ -2090,7 +2090,7 @@ oetrange:
   accentcity: "Oetrange"
 ohligsmuhle: 
   city: "ohligsmuhle"
-  accentcity: "Ohligsm\xC3\xBChle"
+  accentcity: "Ohligsmühle"
 olingen: 
   city: "olingen"
   accentcity: "Olingen"
@@ -2108,7 +2108,7 @@ osweiler:
   accentcity: "Osweiler"
 paffenmuhle: 
   city: "paffenmuhle"
-  accentcity: "Paffenm\xC3\xBChle"
+  accentcity: "Paffenmühle"
 peppange: 
   city: "peppange"
   accentcity: "Peppange"
@@ -2177,7 +2177,7 @@ prettingen:
   accentcity: "Prettingen"
 pulvermuhle: 
   city: "pulvermuhle"
-  accentcity: "Pulverm\xC3\xBChle"
+  accentcity: "Pulvermühle"
 putscheid: 
   city: "putscheid"
   accentcity: "Putscheid"
@@ -2348,13 +2348,13 @@ rumlange:
   accentcity: "Rumlange"
 saegemuhle: 
   city: "saegemuhle"
-  accentcity: "Saegem\xC3\xBChle"
+  accentcity: "Saegemühle"
 saeul: 
   city: "saeul"
   accentcity: "Saeul"
 sagemuhle: 
   city: "sagemuhle"
-  accentcity: "S\xC3\xA4gem\xC3\xBChle"
+  accentcity: "S\xC3\xA4gemühle"
 sandweiler: 
   city: "sandweiler"
   accentcity: "Sandweiler"
@@ -2447,7 +2447,7 @@ schuttrange:
   accentcity: "Schuttrange"
 schwachtgesmuhle: 
   city: "schwachtgesmuhle"
-  accentcity: "Schwachtgesm\xC3\xBChle"
+  accentcity: "Schwachtgesmühle"
 schwebach: 
   city: "schwebach"
   accentcity: "Schwebach"
@@ -2576,7 +2576,7 @@ thom:
   accentcity: "Thom"
 tockenmuhle: 
   city: "tockenmuhle"
-  accentcity: "Tockenm\xC3\xBChle"
+  accentcity: "Tockenmühle"
 tockmuhle: 
   city: "tockmuhle"
   accentcity: "Tockmuhle"
@@ -2771,7 +2771,7 @@ wiltgeshof:
   accentcity: "Wiltgeshof"
 wiltzermuhle: 
   city: "wiltzermuhle"
-  accentcity: "Wiltzerm\xC3\xBChle"
+  accentcity: "Wiltzermühle"
 wiltz: 
   city: "wiltz"
   accentcity: "Wiltz"
@@ -2786,7 +2786,7 @@ wilwerwilz:
   accentcity: "Wilwerwilz"
 wilzermuhle: 
   city: "wilzermuhle"
-  accentcity: "Wilzerm\xC3\xBChle"
+  accentcity: "Wilzermühle"
 wilz: 
   city: "wilz"
   accentcity: "Wilz"
@@ -2813,7 +2813,7 @@ wolfsmuhle les wasserbillig:
   accentcity: "Wolfsmuhle lès Wasserbillig"
 wolfsmuhle: 
   city: "wolfsmuhle"
-  accentcity: "Wolfsm\xC3\xBChle"
+  accentcity: "Wolfsmühle"
 wollefsmillen: 
   city: "wollefsmillen"
   accentcity: "Wollefsmillen"

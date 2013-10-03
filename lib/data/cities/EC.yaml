@@ -47,7 +47,7 @@ adriana:
   accentcity: "Adriana"
 africa: 
   city: "africa"
-  accentcity: "\xC3\x81frica"
+  accentcity: "África"
 agato: 
   city: "agato"
   accentcity: "Agato"
@@ -449,10 +449,10 @@ angasmayo:
   accentcity: "Angasmayo"
 angela maria: 
   city: "angela maria"
-  accentcity: "\xC3\x81ngela María"
+  accentcity: "Ángela María"
 angela maria numero dos: 
   city: "angela maria numero dos"
-  accentcity: "\xC3\x81ngela María Número Dos"
+  accentcity: "Ángela María Número Dos"
 angeles: 
   city: "angeles"
   accentcity: "Angeles"
@@ -482,7 +482,7 @@ anguasha:
   accentcity: "Anguasha"
 animas: 
   city: "animas"
-  accentcity: "\xC3\x81nimas"
+  accentcity: "Ánimas"
 ankuash: 
   city: "ankuash"
   accentcity: "Ankuash"
@@ -722,7 +722,7 @@ avelina:
   accentcity: "Avelina"
 avila: 
   city: "avila"
-  accentcity: "\xC3\x81vila"
+  accentcity: "Ávila"
 ayabamba: 
   city: "ayabamba"
   accentcity: "Ayabamba"
@@ -752,7 +752,7 @@ ayangue:
   accentcity: "Ayangue"
 ayanque: 
   city: "ayanque"
-  accentcity: "Ayanq\xC3\xBCe"
+  accentcity: "Ayanqüe"
 ayantar: 
   city: "ayantar"
   accentcity: "Ayantar"
@@ -2768,7 +2768,7 @@ chiguinda:
   accentcity: "Chiguinda"
 chiguipe: 
   city: "chiguipe"
-  accentcity: "Chig\xC3\xBCipe"
+  accentcity: "Chigüipe"
 chihuango: 
   city: "chihuango"
   accentcity: "Chihuango"
@@ -4379,7 +4379,7 @@ el anegano:
   accentcity: "El Anegano"
 el angel: 
   city: "el angel"
-  accentcity: "El \xC3\x81ngel"
+  accentcity: "El Ángel"
 el apretadero: 
   city: "el apretadero"
   accentcity: "El Apretadero"
@@ -4832,7 +4832,7 @@ el organa:
   accentcity: "El Organa"
 el organo: 
   city: "el organo"
-  accentcity: "El \xC3\x93rgano"
+  accentcity: "El Órgano"
 el ovalo: 
   city: "el ovalo"
   accentcity: "El Ovalo"
@@ -6143,13 +6143,13 @@ guelemon:
   accentcity: "Guelemón"
 guel: 
   city: "guel"
-  accentcity: "G\xC3\xBCel"
+  accentcity: "Güel"
 guembi: 
   city: "guembi"
   accentcity: "Guembí"
 guiguan: 
   city: "guiguan"
-  accentcity: "G\xC3\xBCiguán"
+  accentcity: "Güiguán"
 guilbud: 
   city: "guilbud"
   accentcity: "Guilbud"
@@ -6161,7 +6161,7 @@ guillermo ortega:
   accentcity: "Guillermo Ortega"
 guimbi: 
   city: "guimbi"
-  accentcity: "G\xC3\xBCimbi"
+  accentcity: "Güimbi"
 guinandel: 
   city: "guinandel"
   accentcity: "Guiñandel"
@@ -6170,7 +6170,7 @@ guineo grande:
   accentcity: "Guineo Grande"
 guingopana: 
   city: "guingopana"
-  accentcity: "G\xC3\xBCingopana"
+  accentcity: "Güingopana"
 guintur: 
   city: "guintur"
   accentcity: "Guintur"
@@ -6191,7 +6191,7 @@ guisme:
   accentcity: "Guisme"
 guitig bajo: 
   city: "guitig bajo"
-  accentcity: "G\xC3\xBCitig Bajo"
+  accentcity: "Güitig Bajo"
 guizhaguina: 
   city: "guizhaguina"
   accentcity: "Guizhaguiña"
@@ -6248,7 +6248,7 @@ gurgur:
   accentcity: "Gurgur"
 gushaguina: 
   city: "gushaguina"
-  accentcity: "Gushag\xC3\xBCiña"
+  accentcity: "Gushagüiña"
 guucacocha: 
   city: "guucacocha"
   accentcity: "Guucacocha"
@@ -6389,7 +6389,7 @@ hacienda andahualo:
   accentcity: "Hacienda Andahualo"
 hacienda angela maria numero dos: 
   city: "hacienda angela maria numero dos"
-  accentcity: "Hacienda \xC3\x81ngela María Número Dos"
+  accentcity: "Hacienda Ángela María Número Dos"
 hacienda angelina: 
   city: "hacienda angelina"
   accentcity: "Hacienda Angelina"
@@ -7667,13 +7667,13 @@ hacienda guayas:
   accentcity: "Hacienda Guayas"
 hacienda guiguan: 
   city: "hacienda guiguan"
-  accentcity: "Hacienda G\xC3\xBCiguán"
+  accentcity: "Hacienda Güiguán"
 hacienda guintza: 
   city: "hacienda guintza"
   accentcity: "Hacienda Guintza"
 hacienda guitig bajo: 
   city: "hacienda guitig bajo"
-  accentcity: "Hacienda G\xC3\xBCitig Bajo"
+  accentcity: "Hacienda Güitig Bajo"
 hacienda gulchan: 
   city: "hacienda gulchan"
   accentcity: "Hacienda Gulchan"
@@ -8279,7 +8279,7 @@ hacienda lopez:
   accentcity: "Hacienda López"
 hacienda los alamos: 
   city: "hacienda los alamos"
-  accentcity: "Hacienda Los \xC3\x81lamos"
+  accentcity: "Hacienda Los Álamos"
 hacienda los cantares: 
   city: "hacienda los cantares"
   accentcity: "Hacienda Los Cantares"
@@ -10403,7 +10403,7 @@ ingueza:
   accentcity: "Ingueza"
 inguiza: 
   city: "inguiza"
-  accentcity: "Ing\xC3\xBCiza"
+  accentcity: "Ingüiza"
 iniayu: 
   city: "iniayu"
   accentcity: "Iniayu"
@@ -10697,7 +10697,7 @@ jibaria anangu:
   accentcity: "Jibaría Añangu"
 jibaria conguime: 
   city: "jibaria conguime"
-  accentcity: "Jibaría Cong\xC3\xBCime"
+  accentcity: "Jibaría Congüime"
 jibaria shurupe: 
   city: "jibaria shurupe"
   accentcity: "Jibaría Shurupe"
@@ -11771,10 +11771,10 @@ las americas:
   accentcity: "Las Américas"
 las animas de abajo: 
   city: "las animas de abajo"
-  accentcity: "Las \xC3\x81nimas de Abajo"
+  accentcity: "Las Ánimas de Abajo"
 las animas: 
   city: "las animas"
-  accentcity: "Las \xC3\x81nimas"
+  accentcity: "Las Ánimas"
 la saquea: 
   city: "la saquea"
   accentcity: "La Saquea"
@@ -12425,7 +12425,7 @@ los ajos:
   accentcity: "Los Ajos"
 los alamos: 
   city: "los alamos"
-  accentcity: "Los \xC3\x81lamos"
+  accentcity: "Los Álamos"
 los alpes: 
   city: "los alpes"
   accentcity: "Los Alpes"
@@ -12437,7 +12437,7 @@ los andes:
   accentcity: "Los Andes"
 los angeles: 
   city: "los angeles"
-  accentcity: "Los \xC3\x81ngeles"
+  accentcity: "Los Ángeles"
 los angosturas: 
   city: "los angosturas"
   accentcity: "Los Angosturas"
@@ -15674,7 +15674,7 @@ puerto de cayo:
   accentcity: "Puerto de Cayo"
 puerto de ebano: 
   city: "puerto de ebano"
-  accentcity: "Puerto de \xC3\x89bano"
+  accentcity: "Puerto de Ébano"
 puerto de el morro: 
   city: "puerto de el morro"
   accentcity: "Puerto de El Morro"
@@ -16238,7 +16238,7 @@ quingueo:
   accentcity: "Quingueo"
 quingue: 
   city: "quingue"
-  accentcity: "Quing\xC3\xBCe"
+  accentcity: "Quingüe"
 quininde: 
   city: "quininde"
   accentcity: "Quininde"
@@ -16940,7 +16940,7 @@ samrondon:
   accentcity: "Samrondón"
 sanaguin: 
   city: "sanaguin"
-  accentcity: "Sanag\xC3\xBCin"
+  accentcity: "Sanagüin"
 san agustin de callo: 
   city: "san agustin de callo"
   accentcity: "San Agustín de Callo"
@@ -17219,7 +17219,7 @@ san jose del alcote:
   accentcity: "San José del Alcote"
 san jose de los angeles: 
   city: "san jose de los angeles"
-  accentcity: "San José de Los \xC3\x81ngeles"
+  accentcity: "San José de Los Ángeles"
 san jose del tambo: 
   city: "san jose del tambo"
   accentcity: "San José del Tambo"
@@ -18128,13 +18128,13 @@ sigualo:
   accentcity: "Sigualo"
 sigue nuevo: 
   city: "sigue nuevo"
-  accentcity: "Sig\xC3\xBCe Nuevo"
+  accentcity: "Sigüe Nuevo"
 siguenza: 
   city: "siguenza"
   accentcity: "Siguenza"
 sigue: 
   city: "sigue"
-  accentcity: "Sig\xC3\xBCe"
+  accentcity: "Sigüe"
 siguitag: 
   city: "siguitag"
   accentcity: "Siguitag"
@@ -19043,7 +19043,7 @@ tonchigua:
   accentcity: "Tonchigua"
 tonchigue: 
   city: "tonchigue"
-  accentcity: "Tonchig\xC3\xBCe"
+  accentcity: "Tonchigüe"
 tondoa: 
   city: "tondoa"
   accentcity: "Tondoa"
@@ -19391,7 +19391,7 @@ tzunantza bajo:
   accentcity: "Tzunantza Bajo"
 tzungui: 
   city: "tzungui"
-  accentcity: "Tzung\xC3\xBCi"
+  accentcity: "Tzungüi"
 ubillus: 
   city: "ubillus"
   accentcity: "Ubillús"

@@ -65,7 +65,7 @@ achadh an iuir:
   accentcity: "Achadh an Iúir"
 achadh ur: 
   city: "achadh ur"
-  accentcity: "Achadh \xC3\x9Ar"
+  accentcity: "Achadh Úr"
 achill: 
   city: "achill"
   accentcity: "Achill"
@@ -464,7 +464,7 @@ anascaul:
   accentcity: "Anascaul"
 an baile atha hulla: 
   city: "an baile atha hulla"
-  accentcity: "An Baile \xC3\x81tha h\xC3\x9Alla"
+  accentcity: "An Baile Átha hÚlla"
 an baile beag: 
   city: "an baile beag"
   accentcity: "An Baile Beag"
@@ -521,7 +521,7 @@ an charraig:
   accentcity: "An Charraig"
 an chathair: 
   city: "an chathair"
-  accentcity: "\xC3\x81n Chathair"
+  accentcity: "Án Chathair"
 an cheapach: 
   city: "an cheapach"
   accentcity: "An Cheapach"
@@ -1109,7 +1109,7 @@ arless:
   accentcity: "Arless"
 armhach: 
   city: "armhach"
-  accentcity: "\xC3\x81rmhach"
+  accentcity: "Ármhach"
 arnagragh: 
   city: "arnagragh"
   accentcity: "Arnagragh"
@@ -1193,25 +1193,25 @@ athabatteen:
   accentcity: "Athabatteen"
 ath an chlair: 
   city: "ath an chlair"
-  accentcity: "\xC3\x81th an Chláir"
+  accentcity: "Áth an Chláir"
 ath an choiste: 
   city: "ath an choiste"
-  accentcity: "\xC3\x81th an Chóiste"
+  accentcity: "Áth an Chóiste"
 ath an mhuilinn: 
   city: "ath an mhuilinn"
-  accentcity: "\xC3\x81th an Mhuilinn"
+  accentcity: "Áth an Mhuilinn"
 ath an tsleibhe: 
   city: "ath an tsleibhe"
-  accentcity: "\xC3\x81th an tSléibhe"
+  accentcity: "Áth an tSléibhe"
 athboy: 
   city: "athboy"
   accentcity: "Athboy"
 ath cinn: 
   city: "ath cinn"
-  accentcity: "\xC3\x81th Cinn"
+  accentcity: "Áth Cinn"
 ath dara: 
   city: "ath dara"
-  accentcity: "\xC3\x81th Dara"
+  accentcity: "Áth Dara"
 athdown: 
   city: "athdown"
   accentcity: "Athdown"
@@ -1220,7 +1220,7 @@ athea:
   accentcity: "Athea"
 ath eascrach: 
   city: "ath eascrach"
-  accentcity: "\xC3\x81th Eascrach"
+  accentcity: "Áth Eascrach"
 athenry: 
   city: "athenry"
   accentcity: "Athenry"
@@ -1238,10 +1238,10 @@ athleague:
   accentcity: "Athleague"
 ath leathen: 
   city: "ath leathen"
-  accentcity: "\xC3\x81th Leathen"
+  accentcity: "Áth Leathen"
 ath liag: 
   city: "ath liag"
-  accentcity: "\xC3\x81th Liag"
+  accentcity: "Áth Liag"
 athlone: 
   city: "athlone"
   accentcity: "Athlone"
@@ -1259,25 +1259,25 @@ athnanangle bridge:
   accentcity: "Athnanangle Bridge"
 ath na nurlainn: 
   city: "ath na nurlainn"
-  accentcity: "\xC3\x81th na nUrlainn"
+  accentcity: "Áth na nUrlainn"
 ath na sceire: 
   city: "ath na sceire"
-  accentcity: "\xC3\x81th na Sceire"
+  accentcity: "Áth na Sceire"
 ath na sraide: 
   city: "ath na sraide"
-  accentcity: "\xC3\x81th na Sráide"
+  accentcity: "Áth na Sráide"
 athnid: 
   city: "athnid"
   accentcity: "Athnid"
 ath ti an mheasaigh: 
   city: "ath ti an mheasaigh"
-  accentcity: "\xC3\x81th Tí an Mheasaigh"
+  accentcity: "Áth Tí an Mheasaigh"
 ath tiomain: 
   city: "ath tiomain"
-  accentcity: "\xC3\x81th Tíomáin"
+  accentcity: "Áth Tíomáin"
 ath trasna: 
   city: "ath trasna"
-  accentcity: "\xC3\x81th Trasna"
+  accentcity: "Áth Trasna"
 athy: 
   city: "athy"
   accentcity: "Athy"
@@ -1499,28 +1499,28 @@ baile an tsratha:
   accentcity: "Baile an tSratha"
 baile atha an ri: 
   city: "baile atha an ri"
-  accentcity: "Baile \xC3\x81tha an Rí"
+  accentcity: "Baile Átha an Rí"
 baile atha an roine: 
   city: "baile atha an roine"
-  accentcity: "Baile \xC3\x81tha an Róine"
+  accentcity: "Baile Átha an Róine"
 baile atha bui: 
   city: "baile atha bui"
-  accentcity: "Baile \xC3\x81tha Buí"
+  accentcity: "Baile Átha Buí"
 baile atha cliath: 
   city: "baile atha cliath"
-  accentcity: "Baile \xC3\x81tha Cliath"
+  accentcity: "Baile Átha Cliath"
 baile atha fhirdhia: 
   city: "baile atha fhirdhia"
-  accentcity: "Baile \xC3\x81tha Fhirdhia"
+  accentcity: "Baile Átha Fhirdhia"
 baile atha i: 
   city: "baile atha i"
-  accentcity: "Baile \xC3\x81tha \xC3\x8D"
+  accentcity: "Baile Átha Í"
 baile atha luain: 
   city: "baile atha luain"
-  accentcity: "Baile \xC3\x81tha Luain"
+  accentcity: "Baile Átha Luain"
 baile atha troim: 
   city: "baile atha troim"
-  accentcity: "Baile \xC3\x81tha Troim"
+  accentcity: "Baile Átha Troim"
 baile bhlainseir: 
   city: "baile bhlainseir"
   accentcity: "Baile Bhlainséir"
@@ -1580,7 +1580,7 @@ baile idir dha abhainn:
   accentcity: "Baile idir dhá Abhainn"
 baile iomhair: 
   city: "baile iomhair"
-  accentcity: "Baile \xC3\x8Domhair"
+  accentcity: "Baile Íomhair"
 baile lifin: 
   city: "baile lifin"
   accentcity: "Baile Lifín"
@@ -1595,7 +1595,7 @@ baile mhic gormain:
   accentcity: "Baile Mhic Gormáin"
 baile mhic ire: 
   city: "baile mhic ire"
-  accentcity: "Baile Mhic \xC3\x8Dre"
+  accentcity: "Baile Mhic Íre"
 baile mhisteala: 
   city: "baile mhisteala"
   accentcity: "Baile Mhistéala"
@@ -4262,13 +4262,13 @@ bealahareagh bridge:
   accentcity: "Bealahareagh Bridge"
 beal an atha: 
   city: "beal an atha"
-  accentcity: "Béal An \xC3\x81tha"
+  accentcity: "Béal An Átha"
 beal an atha fada: 
   city: "beal an atha fada"
-  accentcity: "Béal an \xC3\x81tha Fada"
+  accentcity: "Béal an Átha Fada"
 beal an atha moir: 
   city: "beal an atha moir"
-  accentcity: "Béal an \xC3\x81tha Móir"
+  accentcity: "Béal an Átha Móir"
 beal an da chab: 
   city: "beal an da chab"
   accentcity: "Béal an dá Chab"
@@ -4280,79 +4280,79 @@ beal an mhuirthead:
   accentcity: "Béal an Mhuirthead"
 beal atha an ghaorthaidh: 
   city: "beal atha an ghaorthaidh"
-  accentcity: "Béal \xC3\x81tha an Ghaorthaidh"
+  accentcity: "Béal Átha an Ghaorthaidh"
 beal atha an spideil: 
   city: "beal atha an spideil"
-  accentcity: "Béal \xC3\x81tha an Spidéil"
+  accentcity: "Béal Átha an Spidéil"
 beal atha an tuair: 
   city: "beal atha an tuair"
   accentcity: "Béal Atha an Tuair"
 beal atha beithe: 
   city: "beal atha beithe"
-  accentcity: "Béal \xC3\x81tha Beithe"
+  accentcity: "Béal Átha Beithe"
 beal atha bhearaigh: 
   city: "beal atha bhearaigh"
-  accentcity: "Béal \xC3\x81tha Bhearaigh"
+  accentcity: "Béal Átha Bhearaigh"
 beal atha chomair: 
   city: "beal atha chomair"
-  accentcity: "Béal \xC3\x81tha Chomair"
+  accentcity: "Béal Átha Chomair"
 beal atha conaill: 
   city: "beal atha conaill"
-  accentcity: "Béal \xC3\x81tha Conaill"
+  accentcity: "Béal Átha Conaill"
 beal atha fearnain: 
   city: "beal atha fearnain"
-  accentcity: "Béal \xC3\x81tha Fearnáin"
+  accentcity: "Béal Átha Fearnáin"
 beal atha fhinin: 
   city: "beal atha fhinin"
-  accentcity: "Béal \xC3\x81tha Fhínín"
+  accentcity: "Béal Átha Fhínín"
 beal atha gabhann: 
   city: "beal atha gabhann"
-  accentcity: "Béal \xC3\x81tha Gabhann"
+  accentcity: "Béal Átha Gabhann"
 beal atha ghartha: 
   city: "beal atha ghartha"
-  accentcity: "Béal \xC3\x81tha Ghártha"
+  accentcity: "Béal Átha Ghártha"
 beal atha hamhnais: 
   city: "beal atha hamhnais"
-  accentcity: "Béal \xC3\x81tha hAmhnais"
+  accentcity: "Béal Átha hAmhnais"
 beal atha heis: 
   city: "beal atha heis"
-  accentcity: "Béal \xC3\x81tha h\xC3\x89is"
+  accentcity: "Béal Átha hÉis"
 beal atha liag: 
   city: "beal atha liag"
-  accentcity: "Béal \xC3\x81tha Liag"
+  accentcity: "Béal Átha Liag"
 beal atha longfoirt: 
   city: "beal atha longfoirt"
-  accentcity: "Béal \xC3\x81tha Longfoirt"
+  accentcity: "Béal Átha Longfoirt"
 beal atha mo: 
   city: "beal atha mo"
-  accentcity: "Béal \xC3\x81tha Mó"
+  accentcity: "Béal Átha Mó"
 beal atha na beithe: 
   city: "beal atha na beithe"
-  accentcity: "Béal \xC3\x81tha na Beithe"
+  accentcity: "Béal Átha na Beithe"
 beal atha na gcarr: 
   city: "beal atha na gcarr"
-  accentcity: "Béal \xC3\x81tha na gCarr"
+  accentcity: "Béal Átha na gCarr"
 beal atha na lao: 
   city: "beal atha na lao"
-  accentcity: "Béal \xC3\x81tha na Lao"
+  accentcity: "Béal Átha na Lao"
 beal atha na muice: 
   city: "beal atha na muice"
-  accentcity: "Béal \xC3\x81tha na Muice"
+  accentcity: "Béal Átha na Muice"
 beal atha na neach: 
   city: "beal atha na neach"
-  accentcity: "Béal \xC3\x81tha na nEach"
+  accentcity: "Béal Átha na nEach"
 beal atha na sluaighe: 
   city: "beal atha na sluaighe"
-  accentcity: "Béal \xC3\x81tha na Sluaighe"
+  accentcity: "Béal Átha na Sluaighe"
 beal atha poirin: 
   city: "beal atha poirin"
-  accentcity: "Béal \xC3\x81tha Póirin"
+  accentcity: "Béal Átha Póirin"
 beal atha ragad: 
   city: "beal atha ragad"
-  accentcity: "Béal \xC3\x81tha Ragad"
+  accentcity: "Béal Átha Ragad"
 beal atha seanaidh: 
   city: "beal atha seanaidh"
-  accentcity: "Béal \xC3\x81tha Seanaidh"
+  accentcity: "Béal Átha Seanaidh"
 beal: 
   city: "beal"
   accentcity: "Beal"
@@ -4697,7 +4697,7 @@ binkeeragh:
   accentcity: "Binkeeragh"
 binn eadair: 
   city: "binn eadair"
-  accentcity: "Binn \xC3\x89adair"
+  accentcity: "Binn Éadair"
 biorra: 
   city: "biorra"
   accentcity: "Biorra"
@@ -5831,7 +5831,7 @@ caislean na mainge:
   accentcity: "Caisleán na Mainge"
 caislean o liathain: 
   city: "caislean o liathain"
-  accentcity: "Caisleán \xC3\x93 Liatháin"
+  accentcity: "Caisleán Ó Liatháin"
 caislean ui chonaill: 
   city: "caislean ui chonaill"
   accentcity: "Caisleáñ Ui Chonaill"
@@ -6230,7 +6230,7 @@ carraig airt:
   accentcity: "Carraig Airt"
 carraig alainn: 
   city: "carraig alainn"
-  accentcity: "Carraig \xC3\x81lainn"
+  accentcity: "Carraig Álainn"
 carraig an chabhaltaigh: 
   city: "carraig an chabhaltaigh"
   accentcity: "Carraig an Chabhaltaigh"
@@ -7103,7 +7103,7 @@ cill inion leinin:
   accentcity: "Cill Iníon Léinín"
 cill iomair: 
   city: "cill iomair"
-  accentcity: "Cill \xC3\x8Domair"
+  accentcity: "Cill Íomair"
 cill liucainne: 
   city: "cill liucainne"
   accentcity: "Cill Liúcainne"
@@ -7199,7 +7199,7 @@ cinn mhara:
   accentcity: "Cinn Mhara"
 cionn atha gad: 
   city: "cionn atha gad"
-  accentcity: "Cionn \xC3\x81tha Gad"
+  accentcity: "Cionn Átha Gad"
 cionn caslach: 
   city: "cionn caslach"
   accentcity: "Cionn Caslach"
@@ -7412,7 +7412,7 @@ cliffort:
   accentcity: "Cliffort"
 cloch amainn: 
   city: "cloch amainn"
-  accentcity: "Cloch \xC3\x81mainn"
+  accentcity: "Cloch Ámainn"
 cloch na ron: 
   city: "cloch na ron"
   accentcity: "Cloch na Rón"
@@ -8237,7 +8237,7 @@ clynacartan:
   accentcity: "Clynacartan"
 cnoc aine: 
   city: "cnoc aine"
-  accentcity: "Cnoc \xC3\x81ine"
+  accentcity: "Cnoc Áine"
 cnoc an chrochaire: 
   city: "cnoc an chrochaire"
   accentcity: "Cnoc an Chrochaire"
@@ -9587,7 +9587,7 @@ cuherdaniel:
   accentcity: "Cuherdaniel"
 cuil aine: 
   city: "cuil aine"
-  accentcity: "Cúil \xC3\x81ine"
+  accentcity: "Cúil Áine"
 cuil an tsudaire: 
   city: "cuil an tsudaire"
   accentcity: "Cúil an tSúdaire"
@@ -10745,7 +10745,7 @@ drohidaspaunig bridge:
   accentcity: "Drohidaspaunig Bridge"
 droichead abhann o gcearnaigh: 
   city: "droichead abhann o gcearnaigh"
-  accentcity: "Droíchead Abhann \xC3\x93 gCearnaigh"
+  accentcity: "Droíchead Abhann Ó gCearnaigh"
 droichead an bhuitlearaigh: 
   city: "droichead an bhuitlearaigh"
   accentcity: "Droichead an Bhuitléaraigh"
@@ -10760,7 +10760,7 @@ droichead an chlairin:
   accentcity: "Droichead an Chláirín"
 droichead atha: 
   city: "droichead atha"
-  accentcity: "Droichead \xC3\x81tha"
+  accentcity: "Droichead Átha"
 droichead bineid: 
   city: "droichead bineid"
   accentcity: "Droichead Binéid"
@@ -11711,7 +11711,7 @@ eadargoil:
   accentcity: "Eadargóil"
 eaden doire: 
   city: "eaden doire"
-  accentcity: "\xC3\x89aden Doire"
+  accentcity: "Éaden Doire"
 eadestown: 
   city: "eadestown"
   accentcity: "Eadestown"
@@ -12311,7 +12311,7 @@ finuge:
   accentcity: "Finuge"
 fiodh an atha: 
   city: "fiodh an atha"
-  accentcity: "Fiodh an \xC3\x81tha"
+  accentcity: "Fiodh an Átha"
 fiodh ard: 
   city: "fiodh ard"
   accentcity: "Fiodh Ard"
@@ -18320,7 +18320,7 @@ mainistir na feile:
   accentcity: "Mainistir na Féile"
 mainistir o dtorna: 
   city: "mainistir o d'torna"
-  accentcity: "Mainistir \xC3\x93 d'Torna"
+  accentcity: "Mainistir Ó d'Torna"
 malahide: 
   city: "malahide"
   accentcity: "Malahide"
@@ -19472,7 +19472,7 @@ mullabryan:
   accentcity: "Mullabryan"
 mullach ide: 
   city: "mullach ide"
-  accentcity: "Mullach \xC3\x8Dde"
+  accentcity: "Mullach Íde"
 mullach: 
   city: "mullach"
   accentcity: "Mullach"
@@ -20225,7 +20225,7 @@ omeath:
   accentcity: "Omeath"
 o meith: 
   city: "o meith"
-  accentcity: "\xC3\x93 Méith"
+  accentcity: "Ó Méith"
 onaght: 
   city: "onaght"
   accentcity: "Onaght"
@@ -20243,7 +20243,7 @@ oranmore:
   accentcity: "Oranmore"
 oran mor: 
   city: "oran mor"
-  accentcity: "\xC3\x93rán Mór"
+  accentcity: "Órán Mór"
 oran: 
   city: "oran"
   accentcity: "Oran"
@@ -21803,7 +21803,7 @@ rosnamullane:
   accentcity: "Rosnamullane"
 ros o gcairbre: 
   city: "ros o gcairbre"
-  accentcity: "Ros \xC3\x93 gCairbre"
+  accentcity: "Ros Ó gCairbre"
 rossacoosane: 
   city: "rossacoosane"
   accentcity: "Rossacoosane"
@@ -22622,7 +22622,7 @@ single street:
   accentcity: "Single Street"
 siol ealaigh: 
   city: "siol ealaigh"
-  accentcity: "Síol \xC3\x89alaigh"
+  accentcity: "Síol Éalaigh"
 sionainn: 
   city: "sionainn"
   accentcity: "Sionainn"
@@ -23720,7 +23720,7 @@ tigh molaige:
   accentcity: "Tigh Molaige"
 tigh na heille: 
   city: "tigh na heille"
-  accentcity: "Tigh na h\xC3\x89ille"
+  accentcity: "Tigh na hÉille"
 tikincor: 
   city: "tikincor"
   accentcity: "Tikincor"
@@ -23798,7 +23798,7 @@ tinvaun:
   accentcity: "Tinvaun"
 tiobraid arann: 
   city: "tiobraid arann"
-  accentcity: "Tiobraid \xC3\x81rann"
+  accentcity: "Tiobraid Árann"
 tipperary: 
   city: "tipperary"
   accentcity: "Tipperary"
@@ -24545,7 +24545,7 @@ ullard:
   accentcity: "Ullard"
 ulla: 
   city: "ulla"
-  accentcity: "\xC3\x9Alla"
+  accentcity: "Úlla"
 umgall: 
   city: "umgall"
   accentcity: "Umgall"

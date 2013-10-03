@@ -1,6 +1,6 @@
 # encoding: UTF-8
 --- 
-abadila: 
+abadila:
   city: "abadila"
   accentcity: "Abadila"
 abadilah: 
@@ -2207,7 +2207,7 @@ al gap:
   accentcity: "Al Gap"
 al genadib: 
   city: "al genadib"
-  accentcity: "Al Gen\xC3\xA2d\xC3\xAEb"
+  accentcity: "Al Genâd\xC3\xAEb"
 al ghabbayshah: 
   city: "al ghabbayshah"
   accentcity: "Al Ghabbayshah"
@@ -11078,7 +11078,7 @@ at taraif:
   accentcity: "At Tara'if"
 attar: 
   city: "`attar"
-  accentcity: "`Att\xC3\xA2r"
+  accentcity: "`Attâr"
 at tarayn: 
   city: "at tarayn"
   accentcity: "At Tarayn"
@@ -11504,7 +11504,7 @@ badhai:
   accentcity: "Badhai"
 badjil: 
   city: "badjil"
-  accentcity: "B\xC3\xA2djil"
+  accentcity: "Bâdjil"
 badr: 
   city: "badr"
   accentcity: "Badr"
@@ -12038,7 +12038,7 @@ bani nukay:
   accentcity: "Bani Nukay`"
 bani otban: 
   city: "bani otban"
-  accentcity: "Ban\xC3\xAE Otb\xC3\xA2n"
+  accentcity: "Ban\xC3\xAE Otbân"
 bani qadim: 
   city: "bani qadim"
   accentcity: "Bani Qadim"
@@ -13391,7 +13391,7 @@ beit el-faqih:
   accentcity: "Beit el-Faqih"
 beit el gabili: 
   city: "beit el gabili"
-  accentcity: "Beit el G\xC3\xA2bili"
+  accentcity: "Beit el Gâbili"
 beit-el-gire: 
   city: "beit-el-gire"
   accentcity: "Beit-el-Gire"
@@ -13421,7 +13421,7 @@ beit-el-wass:
   accentcity: "Beit-el-Wass"
 beit en nam: 
   city: "beit en n`am"
-  accentcity: "Beit en N`\xC3\xA2m"
+  accentcity: "Beit en N`âm"
 beit-er-rasas: 
   city: "beit-er-rasas"
   accentcity: "Beit-er-Rasas"
@@ -15962,7 +15962,7 @@ denuba:
   accentcity: "Denuba"
 der baba: 
   city: "der baba"
-  accentcity: "Dêr B\xC3\xA2ba"
+  accentcity: "Dêr Bâba"
 derebe: 
   city: "derebe"
   accentcity: "Derebe"
@@ -15971,13 +15971,13 @@ dermie:
   accentcity: "Dermie"
 der mzaraa: 
   city: "der mzara`a"
-  accentcity: "Dêr Mz\xC3\xA2ra`a"
+  accentcity: "Dêr Mzâra`a"
 der sufa: 
   city: "der sufa"
   accentcity: "Dêr Sufa"
 der taham: 
   city: "der taham"
-  accentcity: "Dêr Tah\xC3\xA2m"
+  accentcity: "Dêr Tahâm"
 der zenaka: 
   city: "der zenaka"
   accentcity: "Dêr Zenaka"
@@ -17912,7 +17912,7 @@ gozan:
   accentcity: "Gozan"
 graf: 
   city: "graf"
-  accentcity: "Gr\xC3\xA2f"
+  accentcity: "Grâf"
 grunhin: 
   city: "grunhin"
   accentcity: "Grunhin"
@@ -22979,7 +22979,7 @@ lokhaimi:
   accentcity: "Lokhaimi"
 lomi: 
   city: "lomi"
-  accentcity: "L\xC3\xB4m\xC3\xAE"
+  accentcity: "Lôm\xC3\xAE"
 lubaib: 
   city: "lubaib"
   accentcity: "Lubaib"
@@ -25157,7 +25157,7 @@ melhame:
   accentcity: "Melhame"
 menacha: 
   city: "menacha"
-  accentcity: "Men\xC3\xA2cha"
+  accentcity: "Menâcha"
 menakha: 
   city: "menakha"
   accentcity: "Menakha"
@@ -25574,7 +25574,7 @@ muhafa:
   accentcity: "Muhafa"
 muhagira: 
   city: "muhagira"
-  accentcity: "Muh\xC3\xA2gira"
+  accentcity: "Muhâgira"
 muhammad ali bin fatha sumana: 
   city: "muhammad `ali bin fatha sumana"
   accentcity: "Muhammad `Ali Bin Fatha Sumana"
@@ -25745,7 +25745,7 @@ muraga:
   accentcity: "Muraga"
 muraiga: 
   city: "muraiga"
-  accentcity: "Muraig\xC3\xA2"
+  accentcity: "Muraigâ"
 murait: 
   city: "murait"
   accentcity: "Murait"
@@ -28124,7 +28124,7 @@ reshan:
   accentcity: "Reshan"
 riam: 
   city: "riam"
-  accentcity: "Ri\xC3\xA2m"
+  accentcity: "Riâm"
 ribat al harari: 
   city: "ribat al harari"
   accentcity: "Ribat al Harari"
@@ -28184,7 +28184,7 @@ ridhon:
   accentcity: "Ridhon"
 ridjam: 
   city: "ridjam"
-  accentcity: "Ridj\xC3\xA2m"
+  accentcity: "Ridjâm"
 rifa: 
   city: "rifa"
   accentcity: "Rifa"
@@ -28373,7 +28373,7 @@ ruhm as sufla:
   accentcity: "Ruhm as Suflá"
 ruhm es sufla: 
   city: "ruhm es sufla"
-  accentcity: "Ruhm es Sufl\xC3\xA2"
+  accentcity: "Ruhm es Suflâ"
 ruhub: 
   city: "ruhub"
   accentcity: "Ruhub"
@@ -29240,7 +29240,7 @@ sehab-el-kus:
   accentcity: "Sehab-el-Kus"
 seijan: 
   city: "seijan"
-  accentcity: "Seij\xC3\xA2n"
+  accentcity: "Seijân"
 selami: 
   city: "selami"
   accentcity: "Selami"

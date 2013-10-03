@@ -41,7 +41,7 @@ acnu:
   accentcity: "Acnú"
 acoco: 
   city: "acoco"
-  accentcity: "Ac\xC3\xB4có"
+  accentcity: "Acôcó"
 acom: 
   city: "acom"
   accentcity: "Acom"
@@ -59,19 +59,19 @@ afanque:
   accentcity: "Afanque"
 afia: 
   city: "afia"
-  accentcity: "\xC3\x81fià"
+  accentcity: "Áfià"
 afia ba demba: 
   city: "afia ba demba"
-  accentcity: "\xC3\x81fia Ba Demba"
+  accentcity: "Áfia Ba Demba"
 afia demba: 
   city: "afia demba"
-  accentcity: "\xC3\x81fià Demba"
+  accentcity: "Áfià Demba"
 afia demba jamanca: 
   city: "afia demba jamanca"
-  accentcity: "\xC3\x81fià Demba Jamanca"
+  accentcity: "Áfià Demba Jamanca"
 afia do governador: 
   city: "afia do governador"
-  accentcity: "\xC3\x81fià do Governador"
+  accentcity: "Áfià do Governador"
 afuossa nabiole: 
   city: "afuossa nabiole"
   accentcity: "Afuossa Nabiole"
@@ -86,16 +86,16 @@ agongo-eguba:
   accentcity: "Agongo-Eguba"
 agua verde: 
   city: "agua verde"
-  accentcity: "\xC3\x81gua Verde"
+  accentcity: "Água Verde"
 aguira: 
   city: "aguira"
-  accentcity: "\xC3\x81guirà"
+  accentcity: "Águirà"
 aidara balanta: 
   city: "aidara balanta"
-  accentcity: "\xC3\x81idarà Balanta"
+  accentcity: "Áidarà Balanta"
 aidara beafada: 
   city: "aidara beafada"
-  accentcity: "\xC3\x81idarà Beafada"
+  accentcity: "Áidarà Beafada"
 alabato: 
   city: "alabato"
   accentcity: "Alabato"
@@ -125,7 +125,7 @@ algodao:
   accentcity: "Algodão"
 alia: 
   city: "alia"
-  accentcity: "\xC3\x81lià"
+  accentcity: "Álià"
 aliel: 
   city: "aliel"
   accentcity: "Aliel"
@@ -245,7 +245,7 @@ anane:
   accentcity: "Anane"
 ananho: 
   city: "ananho"
-  accentcity: "Ananh\xC3\xB4"
+  accentcity: "Ananhô"
 ancabasse: 
   city: "ancabasse"
   accentcity: "Ancabasse"
@@ -395,13 +395,13 @@ an-onhe:
   accentcity: "An-onhe"
 anonho: 
   city: "anonho"
-  accentcity: "Anonh\xC3\xB4"
+  accentcity: "Anonhô"
 anora: 
   city: "anora"
   accentcity: "Anóra"
 anor: 
   city: "anor"
-  accentcity: "An\xC3\xB4r"
+  accentcity: "Anôr"
 anpinche: 
   city: "anpinche"
   accentcity: "Anpinche"
@@ -530,7 +530,7 @@ bachute:
   accentcity: "Bachute"
 bada: 
   city: "bada"
-  accentcity: "Bad\xC3\xA2"
+  accentcity: "Badâ"
 badancar: 
   city: "badancar"
   accentcity: "Badancar"
@@ -755,7 +755,7 @@ banca:
   accentcity: "Bancá"
 banco: 
   city: "banco"
-  accentcity: "Banc\xC3\xB2"
+  accentcity: "Bancò"
 bancobunje: 
   city: "bancobunje"
   accentcity: "Bancobunje"
@@ -1019,10 +1019,10 @@ bataca:
   accentcity: "Batacã"
 batambali balanta: 
   city: "batambali balanta"
-  accentcity: "Bat\xC3\xA2mbali Balanta"
+  accentcity: "Batâmbali Balanta"
 batambali beafada: 
   city: "batambali beafada"
-  accentcity: "Bat\xC3\xA2mbali Beafada"
+  accentcity: "Batâmbali Beafada"
 batau: 
   city: "batau"
   accentcity: "Batau"
@@ -1190,7 +1190,7 @@ beracolom:
   accentcity: "Beracolom"
 beracozinho: 
   city: "beracozinho"
-  accentcity: "Berac\xC3\xB2zinho"
+  accentcity: "Beracòzinho"
 berame: 
   city: "berame"
   accentcity: "Berame"
@@ -1532,7 +1532,7 @@ bissalanca:
   accentcity: "Bissalanca"
 bissamal: 
   city: "bissamal"
-  accentcity: "Biss\xC3\xA2mal"
+  accentcity: "Bissâmal"
 bissamali: 
   city: "bissamali"
   accentcity: "Bissamali"
@@ -1664,7 +1664,7 @@ bobe:
   accentcity: "Bobé"
 bobede: 
   city: "bobede"
-  accentcity: "B\xC3\xB4bedè"
+  accentcity: "Bôbedè"
 bocana balanta: 
   city: "bocana balanta"
   accentcity: "Bocana Balanta"
@@ -1700,13 +1700,13 @@ boe:
   accentcity: "Boe"
 boeme: 
   city: "boeme"
-  accentcity: "B\xC3\xB4eme"
+  accentcity: "Bôeme"
 bofe: 
   city: "bofe"
-  accentcity: "B\xC3\xB4fe"
+  accentcity: "Bôfe"
 boido embalo: 
   city: "boido embalo"
-  accentcity: "Boido Embal\xC3\xB4"
+  accentcity: "Boido Embalô"
 boihela: 
   city: "boihela"
   accentcity: "Boihelà"
@@ -1718,13 +1718,13 @@ boja:
   accentcity: "Boja"
 bojabu: 
   city: "bojabu"
-  accentcity: "B\xC3\xB4jabu"
+  accentcity: "Bôjabu"
 bojandim: 
   city: "bojandim"
   accentcity: "Bojandim"
 bojo fulbe: 
   city: "bojo fulbe"
-  accentcity: "B\xC3\xB4jo Fulbè"
+  accentcity: "Bôjo Fulbè"
 bojol balanta: 
   city: "bojol balanta"
   accentcity: "Bojol Balanta"
@@ -1760,7 +1760,7 @@ bolel samba:
   accentcity: "Bolel Samba"
 bolo: 
   city: "bolo"
-  accentcity: "Ból\xC3\xB4"
+  accentcity: "Bólô"
 bolola: 
   city: "bolola"
   accentcity: "Bolola"
@@ -1778,7 +1778,7 @@ bombocunda:
   accentcity: "Bombocunda"
 bonco: 
   city: "bonco"
-  accentcity: "Bonc\xC3\xB2"
+  accentcity: "Boncò"
 boncom: 
   city: "boncom"
   accentcity: "Boncom"
@@ -1967,7 +1967,7 @@ bucul:
   accentcity: "Bucul"
 bucure afia: 
   city: "bucure afia"
-  accentcity: "Bucuré \xC3\x81fià"
+  accentcity: "Bucuré Áfià"
 bucure concha: 
   city: "bucure concha"
   accentcity: "Bucuré Concha"
@@ -2051,7 +2051,7 @@ bugumbo:
   accentcity: "Bugumbo"
 buio: 
   city: "buio"
-  accentcity: "Bui\xC3\xB2"
+  accentcity: "Buiò"
 bujeme: 
   city: "bujeme"
   accentcity: "Bujemê"
@@ -2234,13 +2234,13 @@ cabaz balanta:
   accentcity: "Cabaz Balanta"
 cabaz sosso: 
   city: "cabaz sosso"
-  accentcity: "Cabaz S\xC3\xB4sso"
+  accentcity: "Cabaz Sôsso"
 ca beafada: 
   city: "ca beafada"
   accentcity: "Cã Beafada"
 cabe: 
   city: "cabe"
-  accentcity: "C\xC3\xA2be"
+  accentcity: "Câbe"
 cabedu balanta: 
   city: "cabedu balanta"
   accentcity: "Cabedu Balanta"
@@ -2249,7 +2249,7 @@ cabedu:
   accentcity: "Cabedu"
 cabedu nalu e sosso: 
   city: "cabedu nalu e sosso"
-  accentcity: "Cabedu Nalu e S\xC3\xB4sso"
+  accentcity: "Cabedu Nalu e Sôsso"
 cabele: 
   city: "cabele"
   accentcity: "Cabélè"
@@ -2261,7 +2261,7 @@ cabele nhado:
   accentcity: "Cabelé Nhado"
 cabele pataco: 
   city: "cabele pataco"
-  accentcity: "Cabelé Patac\xC3\xB2"
+  accentcity: "Cabelé Patacò"
 cabele uale: 
   city: "cabele uale"
   accentcity: "Cabelé Uale"
@@ -2417,7 +2417,7 @@ cachamba papel:
   accentcity: "Cachamba Papel"
 cachamba sosso: 
   city: "cachamba sosso"
-  accentcity: "Cachamba S\xC3\xB4sso"
+  accentcity: "Cachamba Sôsso"
 cachame: 
   city: "cachame"
   accentcity: "Cachame"
@@ -2453,7 +2453,7 @@ cachile:
   accentcity: "Cachile"
 cachobar: 
   city: "cachobar"
-  accentcity: "Cach\xC3\xB4bar"
+  accentcity: "Cachôbar"
 cacice: 
   city: "cacice"
   accentcity: "Cacice"
@@ -2699,7 +2699,7 @@ calema nalu:
   accentcity: "Calema Nalu"
 calema sosso: 
   city: "calema sosso"
-  accentcity: "Calema S\xC3\xB4sso"
+  accentcity: "Calema Sôsso"
 calequechusse: 
   city: "calequechusse"
   accentcity: "Calèquechusse"
@@ -2804,7 +2804,7 @@ camancote:
   accentcity: "Camancotê"
 camancoto: 
   city: "camancoto"
-  accentcity: "Camanc\xC3\xB4t\xC3\xB4"
+  accentcity: "Camancôtô"
 camande: 
   city: "camande"
   accentcity: "Camandé"
@@ -2897,7 +2897,7 @@ cambian:
   accentcity: "Cambian"
 cambiro: 
   city: "cambiro"
-  accentcity: "Cambir\xC3\xB2"
+  accentcity: "Cambirò"
 camboido: 
   city: "camboido"
   accentcity: "Camboido"
@@ -3152,7 +3152,7 @@ canchungozinho:
   accentcity: "Canchungozinho"
 cancobo: 
   city: "cancobo"
-  accentcity: "Canc\xC3\xB4b\xC3\xB4"
+  accentcity: "Cancôbô"
 cancodea balanta: 
   city: "cancodea balanta"
   accentcity: "Cancodeà Balanta"
@@ -3338,7 +3338,7 @@ canha:
   accentcity: "Canhà"
 canhaco: 
   city: "canhaco"
-  accentcity: "Canhac\xC3\xB2"
+  accentcity: "Canhacò"
 canhaga: 
   city: "canhaga"
   accentcity: "Canhaga"
@@ -3347,7 +3347,7 @@ canhamando:
   accentcity: "Canhamando"
 canhamina: 
   city: "canhamina"
-  accentcity: "Canh\xC3\xA2mina"
+  accentcity: "Canhâmina"
 canhamondo: 
   city: "canhamondo"
   accentcity: "Canhamondo"
@@ -4100,7 +4100,7 @@ changue bedeta:
   accentcity: "Changue Bedeta"
 changue: 
   city: "changue"
-  accentcity: "Ch\xC3\xA2ngue"
+  accentcity: "Chângue"
 changue iaia: 
   city: "changue iaia"
   accentcity: "Changue Iaià"
@@ -4280,7 +4280,7 @@ cobete:
   accentcity: "Cobete"
 cobeto: 
   city: "cobeto"
-  accentcity: "Cóbet\xC3\xB4"
+  accentcity: "Cóbetô"
 coboroto: 
   city: "coboroto"
   accentcity: "Coboroto"
@@ -4301,7 +4301,7 @@ co:
   accentcity: "Có"
 coco: 
   city: "coco"
-  accentcity: "Cóc\xC3\xB2"
+  accentcity: "Cócò"
 code: 
   city: "code"
   accentcity: "Códè"
@@ -4424,7 +4424,7 @@ concania:
   accentcity: "Concánia"
 concodi: 
   city: "concodi"
-  accentcity: "Conc\xC3\xB4di"
+  accentcity: "Concôdi"
 concolim: 
   city: "concolim"
   accentcity: "Concolim"
@@ -4433,7 +4433,7 @@ concomelo maunde:
   accentcity: "Concomelo Maundè"
 conconto: 
   city: "conconto"
-  accentcity: "Concont\xC3\xB2"
+  accentcity: "Concontò"
 condjande: 
   city: "condjande"
   accentcity: "Condjande"
@@ -4517,7 +4517,7 @@ corubal:
   accentcity: "Corubal"
 corubo: 
   city: "corubo"
-  accentcity: "Corub\xC3\xB2"
+  accentcity: "Corubò"
 cossarandim: 
   city: "cossarandim"
   accentcity: "Cossarandim"
@@ -4595,7 +4595,7 @@ cudoco:
   accentcity: "Cudoco"
 cuduco: 
   city: "cuduco"
-  accentcity: "Cuduc\xC3\xB2"
+  accentcity: "Cuducò"
 cudum governo: 
   city: "cudum governo"
   accentcity: "Cudum Govêrno"
@@ -4622,7 +4622,7 @@ cufongul:
   accentcity: "Cufongul"
 cuguto: 
   city: "cuguto"
-  accentcity: "Cugut\xC3\xB4"
+  accentcity: "Cugutô"
 cuiame: 
   city: "cuiame"
   accentcity: "Cuiame"
@@ -4640,7 +4640,7 @@ culaba:
   accentcity: "Culabá"
 culobo: 
   city: "culobo"
-  accentcity: "Cul\xC3\xB4bo"
+  accentcity: "Culôbo"
 cumano: 
   city: "cumano"
   accentcity: "Cumano"
@@ -4694,7 +4694,7 @@ cumule:
   accentcity: "Cumule"
 cunaco: 
   city: "cunaco"
-  accentcity: "Cunac\xC3\xB2"
+  accentcity: "Cunacò"
 cunaia: 
   city: "cunaia"
   accentcity: "Cunaiá"
@@ -4757,7 +4757,7 @@ curauele:
   accentcity: "Curauele"
 curco: 
   city: "curco"
-  accentcity: "Curc\xC3\xB4"
+  accentcity: "Curcô"
 curdia: 
   city: "curdia"
   accentcity: "Curdiá"
@@ -4931,16 +4931,16 @@ deba:
   accentcity: "Dêba"
 decantem: 
   city: "decantem"
-  accentcity: "Dec\xC3\xA2ntem"
+  accentcity: "Decântem"
 decunda: 
   city: "decunda"
   accentcity: "Decunda"
 demba arabe: 
   city: "demba arabe"
-  accentcity: "Demba \xC3\x81rabe"
+  accentcity: "Demba Árabe"
 demba arabo: 
   city: "demba arabo"
-  accentcity: "Demba \xC3\x81rabo"
+  accentcity: "Demba Árabo"
 demba baio: 
   city: "demba baio"
   accentcity: "Demba Baió"
@@ -5003,7 +5003,7 @@ demba leguel:
   accentcity: "Demba Leguel"
 dembalo: 
   city: "dembalo"
-  accentcity: "Dembal\xC3\xB4"
+  accentcity: "Dembalô"
 demba meta: 
   city: "demba meta"
   accentcity: "Demba Meta"
@@ -5027,7 +5027,7 @@ demba tacoba:
   accentcity: "Demba Tacoba"
 demba taco: 
   city: "demba taco"
-  accentcity: "Demba Tac\xC3\xB2"
+  accentcity: "Demba Tacò"
 dembel: 
   city: "dembel"
   accentcity: "Dembel"
@@ -5039,7 +5039,7 @@ dembel jumpora:
   accentcity: "Dembel Jumpora"
 dembel molo: 
   city: "dembel molo"
-  accentcity: "Dembel Mól\xC3\xB4"
+  accentcity: "Dembel Mólô"
 dembel uri: 
   city: "dembel uri"
   accentcity: "Dembel Uri"
@@ -5120,10 +5120,10 @@ dntebande:
   accentcity: "Dntebande"
 doaire: 
   city: "doaire"
-  accentcity: "D\xC3\xB4aire"
+  accentcity: "Dôaire"
 doco: 
   city: "doco"
-  accentcity: "D\xC3\xB4co"
+  accentcity: "Dôco"
 dodoco: 
   city: "dodoco"
   accentcity: "Dodoco"
@@ -5540,7 +5540,7 @@ farol:
   accentcity: "Farol"
 faro modi mutaro: 
   city: "faro modi mutaro"
-  accentcity: "Far\xC3\xB4 Modi Mutaro"
+  accentcity: "Farô Modi Mutaro"
 farroba: 
   city: "farroba"
   accentcity: "Farroba"
@@ -5621,7 +5621,7 @@ flaque cibe:
   accentcity: "Flaque Cibe"
 flaque dulo: 
   city: "flaque dulo"
-  accentcity: "Flaque Dul\xC3\xB4"
+  accentcity: "Flaque Dulô"
 flaque imbana: 
   city: "flaque imbana"
   accentcity: "Flaque Imbaná"
@@ -5654,7 +5654,7 @@ flaque passe:
   accentcity: "Flaque Passe"
 flaque sonco: 
   city: "flaque sonco"
-  accentcity: "Flaque Sonc\xC3\xB2"
+  accentcity: "Flaque Soncò"
 flaque sunha: 
   city: "flaque sunha"
   accentcity: "Flaque Sunha"
@@ -5732,7 +5732,7 @@ funtofuntula:
   accentcity: "Funtofuntula"
 futa-forro: 
   city: "futa-forro"
-  accentcity: "Futa-F\xC3\xB4rro"
+  accentcity: "Futa-Fôrro"
 futa fula: 
   city: "futa fula"
   accentcity: "Futa Fula"
@@ -5804,7 +5804,7 @@ ga gregorio:
   accentcity: "Gã Gregório"
 ga guiro: 
   city: "ga guiro"
-  accentcity: "Gã Guir\xC3\xB4"
+  accentcity: "Gã Guirô"
 ga joao: 
   city: "ga joao"
   accentcity: "Gã João"
@@ -6041,7 +6041,7 @@ gancole:
   accentcity: "Gancole"
 gancoli bilo: 
   city: "gancoli bilo"
-  accentcity: "Ganc\xC3\xB4li Bil\xC3\xB2"
+  accentcity: "Gancôli Bilò"
 gancoli: 
   city: "gancoli"
   accentcity: "Gancoli"
@@ -6053,7 +6053,7 @@ gancumba:
   accentcity: "Gancumba"
 gandabo: 
   city: "gandabo"
-  accentcity: "Gandab\xC3\xB2"
+  accentcity: "Gandabò"
 gandemba: 
   city: "gandemba"
   accentcity: "Gandemba"
@@ -6095,7 +6095,7 @@ ganguetra:
   accentcity: "Ganguetra"
 ganguiro: 
   city: "ganguiro"
-  accentcity: "Ganguir\xC3\xB4"
+  accentcity: "Ganguirô"
 ganha balanta: 
   city: "ganha balanta"
   accentcity: "Ganhà Balanta"
@@ -6158,7 +6158,7 @@ gansona:
   accentcity: "Gansonà"
 gansonco: 
   city: "gansonco"
-  accentcity: "Gansonc\xC3\xB2"
+  accentcity: "Gansoncò"
 gansuleimane: 
   city: "gansuleimane"
   accentcity: "Gansuleimane"
@@ -6311,7 +6311,7 @@ gorse:
   accentcity: "Gorse"
 gosca: 
   city: "gosca"
-  accentcity: "G\xC3\xB4sca"
+  accentcity: "Gôsca"
 goto: 
   city: "goto"
   accentcity: "Goto"
@@ -6398,7 +6398,7 @@ guirocunda:
   accentcity: "Guirocunda"
 guiro iero bocari: 
   city: "guiro iero bocari"
-  accentcity: "Guiro Ier\xC3\xB2 B\xC3\xB4cari"
+  accentcity: "Guiro Ierò Bôcari"
 guiro jau: 
   city: "guiro jau"
   accentcity: "Guiro Jau"
@@ -6533,7 +6533,7 @@ iero egue:
   accentcity: "Iero Eguè"
 iero embalo: 
   city: "iero embalo"
-  accentcity: "Iero Embal\xC3\xB4"
+  accentcity: "Iero Embalô"
 ieroiel: 
   city: "ieroiel"
   accentcity: "Ieroiel"
@@ -6797,7 +6797,7 @@ ionfarim:
   accentcity: "Ionfarim"
 iongoto: 
   city: "iongoto"
-  accentcity: "Iongot\xC3\xB4"
+  accentcity: "Iongotô"
 irabato: 
   city: "irabato"
   accentcity: "Irabato"
@@ -6884,7 +6884,7 @@ jaimanto:
   accentcity: "Jaimanto"
 jai sambalo: 
   city: "jai sambalo"
-  accentcity: "Jai Sambál\xC3\xB4"
+  accentcity: "Jai Sambálô"
 jai seidi: 
   city: "jai seidi"
   accentcity: "Jai Seidi"
@@ -7067,10 +7067,10 @@ jolmete:
   accentcity: "Jolmete"
 jolo balanta: 
   city: "jolo balanta"
-  accentcity: "Jol\xC3\xB4 Balanta"
+  accentcity: "Jolô Balanta"
 jolo papel: 
   city: "jolo papel"
-  accentcity: "Jol\xC3\xB4 Papel"
+  accentcity: "Jolô Papel"
 jombocari: 
   city: "jombocari"
   accentcity: "Jombocari"
@@ -7088,7 +7088,7 @@ jopa:
   accentcity: "Jopá"
 joro: 
   city: "joro"
-  accentcity: "Jór\xC3\xB2"
+  accentcity: "Jórò"
 jufa: 
   city: "jufa"
   accentcity: "Jufá"
@@ -7181,7 +7181,7 @@ lanchande:
   accentcity: "Lanchandé"
 lantar: 
   city: "lantar"
-  accentcity: "L\xC3\xA2ntar"
+  accentcity: "Lântar"
 late: 
   city: "late"
   accentcity: "Late"
@@ -7361,7 +7361,7 @@ madina bina:
   accentcity: "Madina Bina"
 madina bocar: 
   city: "madina bocar"
-  accentcity: "Madina B\xC3\xB4car"
+  accentcity: "Madina Bôcar"
 madina boe: 
   city: "madina boe"
   accentcity: "Madina Boé"
@@ -7418,7 +7418,7 @@ madina fula:
   accentcity: "Madina Fula"
 madina iero balde: 
   city: "madina iero balde"
-  accentcity: "Madina Ier\xC3\xB2 Baldè"
+  accentcity: "Madina Ierò Baldè"
 madina iero: 
   city: "madina iero"
   accentcity: "Madina Iero"
@@ -7535,7 +7535,7 @@ mafango:
   accentcity: "Mafango"
 maherjo: 
   city: "maherjo"
-  accentcity: "Maherj\xC3\xB2"
+  accentcity: "Maherjò"
 majancal: 
   city: "majancal"
   accentcity: "Majancal"
@@ -7583,7 +7583,7 @@ mamadi:
   accentcity: "Mamadi"
 mamadu molo: 
   city: "mamadu molo"
-  accentcity: "Mamadu Mól\xC3\xB4"
+  accentcity: "Mamadu Mólô"
 mamaja: 
   city: "mamaja"
   accentcity: "Mamajá"
@@ -7601,7 +7601,7 @@ mambaiao:
   accentcity: "Mambaião"
 mambonco: 
   city: "mambonco"
-  accentcity: "Mambonc\xC3\xB2"
+  accentcity: "Mamboncò"
 mampala: 
   city: "mampala"
   accentcity: "Mampalá"
@@ -7643,7 +7643,7 @@ manambo:
   accentcity: "Manambo"
 manato: 
   city: "manato"
-  accentcity: "Manat\xC3\xB2"
+  accentcity: "Manatò"
 mancaje: 
   city: "mancaje"
   accentcity: "Mancaje"
@@ -7706,7 +7706,7 @@ mangicai:
   accentcity: "Mangicai"
 mangomuca: 
   city: "mangomuca"
-  accentcity: "Mang\xC3\xB4muca"
+  accentcity: "Mangômuca"
 mangue: 
   city: "mangue"
   accentcity: "Mangue"
@@ -7772,7 +7772,7 @@ mansidi:
   accentcity: "Mansidi"
 mansoa: 
   city: "mansoa"
-  accentcity: "Mans\xC3\xB4a"
+  accentcity: "Mansôa"
 mansode: 
   city: "mansode"
   accentcity: "Mansodé"
@@ -8003,7 +8003,7 @@ moia fara:
   accentcity: "Moia Fará"
 molo: 
   city: "molo"
-  accentcity: "M\xC3\xB2l\xC3\xB4"
+  accentcity: "Mòlô"
 mompata: 
   city: "mompata"
   accentcity: "Mompatá"
@@ -8204,7 +8204,7 @@ nhalom:
   accentcity: "Nhalom"
 nhalo: 
   city: "nhalo"
-  accentcity: "Nhal\xC3\xB4"
+  accentcity: "Nhalô"
 nhamael: 
   city: "nhamael"
   accentcity: "Nhamael"
@@ -8342,10 +8342,10 @@ nonguena:
   accentcity: "Nonguena"
 noni: 
   city: "noni"
-  accentcity: "N\xC3\xB4ni"
+  accentcity: "Nôni"
 nonodala: 
   city: "nonodala"
-  accentcity: "N\xC3\xB2nódala"
+  accentcity: "Nònódala"
 norobanta fula: 
   city: "norobanta fula"
   accentcity: "Norobanta Fula"
@@ -8393,7 +8393,7 @@ ogoiel:
   accentcity: "Ogoiel"
 ogo: 
   city: "ogo"
-  accentcity: "\xC3\x94g\xC3\xB2"
+  accentcity: "Ôgò"
 olocunda: 
   city: "olocunda"
   accentcity: "Olocunda"
@@ -8408,7 +8408,7 @@ olossato:
   accentcity: "Olossato"
 oloto: 
   city: "oloto"
-  accentcity: "Ol\xC3\xB4to"
+  accentcity: "Olôto"
 olucunda: 
   city: "olucunda"
   accentcity: "Olucunda"
@@ -8471,7 +8471,7 @@ ossadu:
   accentcity: "Ossadú"
 ossocone: 
   city: "ossocone"
-  accentcity: "Oss\xC3\xB4cone"
+  accentcity: "Ossôcone"
 ossocono: 
   city: "ossocono"
   accentcity: "Ossocono"
@@ -8540,7 +8540,7 @@ paiai:
   accentcity: "Paiai"
 paiama dadi: 
   city: "paiama dadi"
-  accentcity: "Paiama D\xC3\xA2di"
+  accentcity: "Paiama Dâdi"
 paiama maca: 
   city: "paiama maca"
   accentcity: "Paiama Macã"
@@ -8603,7 +8603,7 @@ panja:
   accentcity: "Panja"
 pansor: 
   city: "pansor"
-  accentcity: "Pans\xC3\xB4r"
+  accentcity: "Pansôr"
 panta joaquim pereira: 
   city: "panta joaquim pereira"
   accentcity: "Panta Joaquim Pereira"
@@ -8624,7 +8624,7 @@ papia:
   accentcity: "Papiá"
 paquer guro: 
   city: "paquer guro"
-  accentcity: "Paquer Gur\xC3\xB4"
+  accentcity: "Paquer Gurô"
 paquer guru: 
   city: "paquer guru"
   accentcity: "Paquer Guru"
@@ -8678,7 +8678,7 @@ pate buia:
   accentcity: "Pate Buià"
 pate embalo: 
   city: "pate embalo"
-  accentcity: "Patè Embal\xC3\xB4"
+  accentcity: "Patè Embalô"
 pate gibel: 
   city: "pate gibel"
   accentcity: "Pate Gibel"
@@ -9047,7 +9047,7 @@ ponta alfredo neves:
   accentcity: "Ponta Alfredo Neves"
 ponta amancio: 
   city: "ponta amancio"
-  accentcity: "Ponta Am\xC3\xA2ncio"
+  accentcity: "Ponta Amâncio"
 ponta amaro: 
   city: "ponta amaro"
   accentcity: "Ponta Amaro"
@@ -9305,7 +9305,7 @@ ponta manuel da agua:
   accentcity: "Ponta Manuel da Agua"
 ponta manuel das aguas: 
   city: "ponta manuel das aguas"
-  accentcity: "Ponta Manuel das \xC3\x81guas"
+  accentcity: "Ponta Manuel das Águas"
 ponta manuel: 
   city: "ponta manuel"
   accentcity: "Ponta Manuel"
@@ -9479,7 +9479,7 @@ port beaver:
   accentcity: "Port Beaver"
 porto de corco: 
   city: "porto de corco"
-  accentcity: "Porto de Corc\xC3\xB4"
+  accentcity: "Porto de Corcô"
 porto gole: 
   city: "porto gole"
   accentcity: "Porto Gole"
@@ -9542,7 +9542,7 @@ pujunguto:
   accentcity: "Pujunguto"
 pumoa: 
   city: "pumoa"
-  accentcity: "Pum\xC3\xB4a"
+  accentcity: "Pumôa"
 punconche: 
   city: "punconche"
   accentcity: "Punconche"
@@ -9626,7 +9626,7 @@ quelele:
   accentcity: "Quelele"
 quendo: 
   city: "quendo"
-  accentcity: "Quend\xC3\xB2"
+  accentcity: "Quendò"
 queneba: 
   city: "queneba"
   accentcity: "Quenebà"
@@ -9725,7 +9725,7 @@ quete:
   accentcity: "Quete"
 quetuba: 
   city: "quetuba"
-  accentcity: "Quetub\xC3\xA2"
+  accentcity: "Quetubâ"
 quetubo: 
   city: "quetubo"
   accentcity: "Quetubo"
@@ -9848,7 +9848,7 @@ quixangue:
   accentcity: "Quixangue"
 raba: 
   city: "raba"
-  accentcity: "R\xC3\xA2ba"
+  accentcity: "Râba"
 rauna: 
   city: "rauna"
   accentcity: "Rauna"
@@ -9881,7 +9881,7 @@ reino de jal:
   accentcity: "Reino de Jal"
 reino de pintampil: 
   city: "reino de pintampil"
-  accentcity: "Reino de Pint\xC3\xA2mpil"
+  accentcity: "Reino de Pintâmpil"
 reino de quecete: 
   city: "reino de quecete"
   accentcity: "Reino de Quecete"
@@ -9923,7 +9923,7 @@ rogunhe:
   accentcity: "Rogunhe"
 ronco: 
   city: "ronco"
-  accentcity: "Ronc\xC3\xB2"
+  accentcity: "Roncò"
 rosa: 
   city: "rosa"
   accentcity: "Rosa"
@@ -9932,7 +9932,7 @@ rossin:
   accentcity: "Rossin"
 rossum ole: 
   city: "rossum ole"
-  accentcity: "Rossum \xC3\x94le"
+  accentcity: "Rossum Ôle"
 rossum: 
   city: "rossum"
   accentcity: "Rossum"
@@ -9998,7 +9998,7 @@ sa guelage:
   accentcity: "Sã Guelage"
 saiamcototo: 
   city: "saiamcototo"
-  accentcity: "Saiamc\xC3\xB4toto"
+  accentcity: "Saiamcôtoto"
 saiamcutoto: 
   city: "saiamcutoto"
   accentcity: "Saiamcutoto"
@@ -10109,7 +10109,7 @@ samba ali:
   accentcity: "Samba Ali"
 samba arabe: 
   city: "samba arabe"
-  accentcity: "Samba \xC3\x81rabe"
+  accentcity: "Samba Árabe"
 samba ari: 
   city: "samba ari"
   accentcity: "Samba Ari"
@@ -10154,7 +10154,7 @@ samba gana:
   accentcity: "Samba Gana"
 samba gorco: 
   city: "samba gorco"
-  accentcity: "Samba Gorc\xC3\xB2"
+  accentcity: "Samba Gorcò"
 samba ioba: 
   city: "samba ioba"
   accentcity: "Samba Iobà"
@@ -10208,7 +10208,7 @@ samba si:
   accentcity: "Samba Si"
 sambaso: 
   city: "sambaso"
-  accentcity: "Sambas\xC3\xB2"
+  accentcity: "Sambasò"
 sambassi: 
   city: "sambassi"
   accentcity: "Sambassi"
@@ -10232,7 +10232,7 @@ sambel cocar:
   accentcity: "Sambel Cocar"
 sambel embalo: 
   city: "sambel embalo"
-  accentcity: "Sambel Embal\xC3\xB4"
+  accentcity: "Sambel Embalô"
 sambelsim: 
   city: "sambelsim"
   accentcity: "Sambelsim"
@@ -10268,7 +10268,7 @@ samenau:
   accentcity: "Samenau"
 samene: 
   city: "samene"
-  accentcity: "S\xC3\xA2mene"
+  accentcity: "Sâmene"
 samenhinte: 
   city: "samenhinte"
   accentcity: "Samenhinte"
@@ -10325,7 +10325,7 @@ sancalancunda:
   accentcity: "Sancalancunda"
 sancancoto: 
   city: "sancancoto"
-  accentcity: "Sancanc\xC3\xB4to"
+  accentcity: "Sancancôto"
 sancatuto: 
   city: "sancatuto"
   accentcity: "Sancatuto"
@@ -10457,7 +10457,7 @@ santo antonio:
   accentcity: "Santo António"
 sanuma: 
   city: "sanuma"
-  accentcity: "Sanum\xC3\xA2"
+  accentcity: "Sanumâ"
 sanu: 
   city: "sanu"
   accentcity: "Sanú"
@@ -10607,7 +10607,7 @@ sare birom:
   accentcity: "Sare Birom"
 sare biro: 
   city: "sare biro"
-  accentcity: "Sare Bir\xC3\xB2"
+  accentcity: "Sare Birò"
 sare bobo: 
   city: "sare bobo"
   accentcity: "Sare Bóbo"
@@ -10625,7 +10625,7 @@ sare buba:
   accentcity: "Sare Buba"
 sare buco: 
   city: "sare buco"
-  accentcity: "Sare Buc\xC3\xB2"
+  accentcity: "Sare Bucò"
 sare budi: 
   city: "sare budi"
   accentcity: "Sare Budi"
@@ -10658,7 +10658,7 @@ sare cole:
   accentcity: "Sare Cole"
 sare coli cebo: 
   city: "sare coli cebo"
-  accentcity: "Sare Coli Ceb\xC3\xB4"
+  accentcity: "Sare Coli Cebô"
 sare coli embalo: 
   city: "sare coli embalo"
   accentcity: "Sare Coli Embalo"
@@ -10682,10 +10682,10 @@ sare dabel:
   accentcity: "Sare Dabel"
 sare delo mamadu: 
   city: "sare delo mamadu"
-  accentcity: "Sare Dél\xC3\xB2 Mamadu"
+  accentcity: "Sare Délò Mamadu"
 sare delo maunde: 
   city: "sare delo maunde"
-  accentcity: "Sare Dêl\xC3\xB4 Maundè"
+  accentcity: "Sare Dêlô Maundè"
 sare delo: 
   city: "sare delo"
   accentcity: "Sárè Dèló"
@@ -10697,7 +10697,7 @@ sare demba baderal:
   accentcity: "Sare Demba Baderal"
 sare demba embalo: 
   city: "sare demba embalo"
-  accentcity: "Sare Demba Embal\xC3\xB4"
+  accentcity: "Sare Demba Embalô"
 sare demba jicoi: 
   city: "sare demba jicoi"
   accentcity: "Sare Demba Jicoi"
@@ -10718,7 +10718,7 @@ sare dibane:
   accentcity: "Sare Dibane"
 sare dico: 
   city: "sare dico"
-  accentcity: "Sare Dic\xC3\xB2"
+  accentcity: "Sare Dicò"
 sare diure: 
   city: "sare diure"
   accentcity: "Sare Díurè"
@@ -10733,7 +10733,7 @@ sare famora:
   accentcity: "Sare Famorã"
 sare gana dulo: 
   city: "sare gana dulo"
-  accentcity: "Sare Ganà Dul\xC3\xB2"
+  accentcity: "Sare Ganà Dulò"
 sare gana: 
   city: "sare gana"
   accentcity: "Sare Ganà"
@@ -10766,7 +10766,7 @@ sare ieroba:
   accentcity: "Sare Ierobà"
 sare iero embalo: 
   city: "sare iero embalo"
-  accentcity: "Sare Iero Embal\xC3\xB4"
+  accentcity: "Sare Iero Embalô"
 sare iero jau: 
   city: "sare iero jau"
   accentcity: "Sare Iero Jau"
@@ -10778,7 +10778,7 @@ sare iero:
   accentcity: "Sare Iero"
 sare ilo: 
   city: "sare ilo"
-  accentcity: "Sare Il\xC3\xB4"
+  accentcity: "Sare Ilô"
 sare ina: 
   city: "sare ina"
   accentcity: "Sare Ina"
@@ -10910,7 +10910,7 @@ sare mori:
   accentcity: "Sare Mori"
 sare morso: 
   city: "sare morso"
-  accentcity: "Sare Mórs\xC3\xB4"
+  accentcity: "Sare Mórsô"
 sare mulai: 
   city: "sare mulai"
   accentcity: "Sare Mulai"
@@ -10934,7 +10934,7 @@ sare nhobum:
   accentcity: "Sare Nhobum"
 sare ogo: 
   city: "sare ogo"
-  accentcity: "Sare \xC3\x94g\xC3\xB2"
+  accentcity: "Sare Ôgò"
 sare pate: 
   city: "sare pate"
   accentcity: "Sare Pate"
@@ -11105,7 +11105,7 @@ sau:
   accentcity: "Sau"
 saxo valere: 
   city: "saxo valere"
-  accentcity: "Sax\xC3\xB4 Valérè"
+  accentcity: "Saxô Valérè"
 sebanda: 
   city: "sebanda"
   accentcity: "Sebanda"
@@ -11231,7 +11231,7 @@ sibija:
   accentcity: "Sibijá"
 sibito: 
   city: "sibito"
-  accentcity: "Síbit\xC3\xB2"
+  accentcity: "Síbitò"
 sichan bancapi: 
   city: "sichan bancapi"
   accentcity: "Sichan Bancapi"
@@ -11282,7 +11282,7 @@ sincha ajanco:
   accentcity: "Sinchã Ajanco"
 sincha ajango: 
   city: "sincha ajango"
-  accentcity: "Sinchã \xC3\x81jango"
+  accentcity: "Sinchã Ájango"
 sincha alage: 
   city: "sincha alage"
   accentcity: "Sinchã Alage"
@@ -11369,10 +11369,10 @@ sincha birom:
   accentcity: "Sinchã Birom"
 sincha biro: 
   city: "sincha biro"
-  accentcity: "Sinchã Bir\xC3\xB2"
+  accentcity: "Sinchã Birò"
 sincha bobo: 
   city: "sincha bobo"
-  accentcity: "Sinchã B\xC3\xB4b\xC3\xB4"
+  accentcity: "Sinchã Bôbô"
 sincha bocar: 
   city: "sincha bocar"
   accentcity: "Sinchã Bocar"
@@ -11399,19 +11399,19 @@ sincha bojel:
   accentcity: "Sinchã Bojel"
 sincha bojo: 
   city: "sincha bojo"
-  accentcity: "Sinchã Bój\xC3\xB2"
+  accentcity: "Sinchã Bójò"
 sincha bolama: 
   city: "sincha bolama"
   accentcity: "Sinchã Bolama"
 sincha bolo: 
   city: "sincha bolo"
-  accentcity: "Sinchã Bol\xC3\xB4"
+  accentcity: "Sinchã Bolô"
 sincha bona: 
   city: "sincha bona"
   accentcity: "Sinchã Bona"
 sincha bonco: 
   city: "sincha bonco"
-  accentcity: "Sinchã Bonc\xC3\xB2"
+  accentcity: "Sinchã Boncò"
 sincha bonde: 
   city: "sincha bonde"
   accentcity: "Sinchã Bondè"
@@ -11516,7 +11516,7 @@ sincha chicamo:
   accentcity: "Sinchã Chicamo"
 sincha cibo: 
   city: "sincha cibo"
-  accentcity: "Sinch\xC3\xA2 Cibo"
+  accentcity: "Sinchâ Cibo"
 sincha coba: 
   city: "sincha coba"
   accentcity: "Sinchã Cóbà"
@@ -11552,7 +11552,7 @@ sincha cuia:
   accentcity: "Sinchã Cuia"
 sincha culo: 
   city: "sincha culo"
-  accentcity: "Sinchã Cul\xC3\xB2"
+  accentcity: "Sinchã Culò"
 sincha cunade: 
   city: "sincha cunade"
   accentcity: "Sinchã Cunade"
@@ -11561,7 +11561,7 @@ sincha cunadi:
   accentcity: "Sinchã Cunadi"
 sincha cupe: 
   city: "sincha cupe"
-  accentcity: "Sinch\xC3\xA2 Cupè"
+  accentcity: "Sinchâ Cupè"
 sincha cutael: 
   city: "sincha cutael"
   accentcity: "Sinchã Cutael"
@@ -11573,7 +11573,7 @@ sincha dade:
   accentcity: "Sinchã Dadé"
 sincha dadi: 
   city: "sincha dadi"
-  accentcity: "Sinchã D\xC3\xA2di"
+  accentcity: "Sinchã Dâdi"
 sincha dama: 
   city: "sincha dama"
   accentcity: "Sinchã Damã"
@@ -11642,7 +11642,7 @@ sincha dembuel:
   accentcity: "Sinchã Dembuel"
 sincha dico: 
   city: "sincha dico"
-  accentcity: "Sinchã Dic\xC3\xB2"
+  accentcity: "Sinchã Dicò"
 sincha doia: 
   city: "sincha doia"
   accentcity: "Sinchã Doiã"
@@ -11663,13 +11663,13 @@ sincha dulde:
   accentcity: "Sinchã Duldè"
 sincha dulo bana: 
   city: "sincha dulo bana"
-  accentcity: "Sinchã Dul\xC3\xB2 Bana"
+  accentcity: "Sinchã Dulò Bana"
 sincha duloiel: 
   city: "sincha duloiel"
   accentcity: "Sinchã Duloiel"
 sincha dulo: 
   city: "sincha dulo"
-  accentcity: "Sinchã Dúl\xC3\xB2"
+  accentcity: "Sinchã Dúlò"
 sincha duntum: 
   city: "sincha duntum"
   accentcity: "Sinchã Duntum"
@@ -11678,19 +11678,19 @@ sincha dura:
   accentcity: "Sinchã Durà"
 sincha duro buaro: 
   city: "sincha duro buaro"
-  accentcity: "Sinchã Dur\xC3\xB4 Buaro"
+  accentcity: "Sinchã Durô Buaro"
 sincha el: 
   city: "sincha el"
   accentcity: "Sinchã El"
 sincha ere: 
   city: "sincha ere"
-  accentcity: "Sinchã \xC3\x8Arê"
+  accentcity: "Sinchã Êrê"
 sincha eri: 
   city: "sincha eri"
   accentcity: "Sincha Eri"
 sincha faco: 
   city: "sincha faco"
-  accentcity: "Sinchã Fac\xC3\xB2"
+  accentcity: "Sinchã Facò"
 sincha faja: 
   city: "sincha faja"
   accentcity: "Sinchã Faja"
@@ -11738,7 +11738,7 @@ sincha folonco:
   accentcity: "Sinchã Folonco"
 sincha foro: 
   city: "sincha foro"
-  accentcity: "Sinchã F\xC3\xB4ro"
+  accentcity: "Sinchã Fôro"
 sincha fouro: 
   city: "sincha fouro"
   accentcity: "Sinchã Fouro"
@@ -11810,7 +11810,7 @@ sincha iero jaga:
   accentcity: "Sinchã Iero Jaga"
 sincha iero jalo: 
   city: "sincha iero jalo"
-  accentcity: "Sinchã Iero Jál\xC3\xB2"
+  accentcity: "Sinchã Iero Jálò"
 sincha iero leluma: 
   city: "sincha iero leluma"
   accentcity: "Sinchã Iero Leluma"
@@ -11819,7 +11819,7 @@ sincha iero maro:
   accentcity: "Sinchã Iero Maro"
 sincha iero molo: 
   city: "sincha iero molo"
-  accentcity: "Sinchã Iero Mól\xC3\xB4"
+  accentcity: "Sinchã Iero Mólô"
 sincha ierondim: 
   city: "sincha ierondim"
   accentcity: "Sinchã Ierondim"
@@ -11906,7 +11906,7 @@ sincha jote:
   accentcity: "Sinchã Jótè"
 sincha jujo: 
   city: "sincha jujo"
-  accentcity: "Sinchã Juj\xC3\xB4"
+  accentcity: "Sinchã Jujô"
 sincha jumboro: 
   city: "sincha jumboro"
   accentcity: "Sinchã Jumboro"
@@ -11921,7 +11921,7 @@ sincha lale:
   accentcity: "Sinchã Lale"
 sincha lali: 
   city: "sincha lali"
-  accentcity: "Sinchã L\xC3\xA2li"
+  accentcity: "Sinchã Lâli"
 sincha lama: 
   city: "sincha lama"
   accentcity: "Sinchã Lamã"
@@ -11951,10 +11951,10 @@ sincha lunta:
   accentcity: "Sinchã Luntã"
 sincha madi maudo: 
   city: "sincha madi maudo"
-  accentcity: "Sinchã Mãdi Maud\xC3\xB4"
+  accentcity: "Sinchã Mãdi Maudô"
 sincha madina iero: 
   city: "sincha madina iero"
-  accentcity: "Sinchã Madina Ier\xC3\xB2"
+  accentcity: "Sinchã Madina Ierò"
 sincha madina maudu: 
   city: "sincha madina maudu"
   accentcity: "Sinchã Madina Maudu"
@@ -11963,7 +11963,7 @@ sincha madina:
   accentcity: "Sinchã Madina"
 sincha madi: 
   city: "sincha madi"
-  accentcity: "Sinchã M\xC3\xA2di"
+  accentcity: "Sinchã Mâdi"
 sincha madiu: 
   city: "sincha madiu"
   accentcity: "Sinchã Madiu"
@@ -11984,7 +11984,7 @@ sincha mamadi:
   accentcity: "Sinchã Mamadi"
 sincha mamadu embalo: 
   city: "sincha mamadu embalo"
-  accentcity: "Sinchã Mamadu Embál\xC3\xB4"
+  accentcity: "Sinchã Mamadu Embálô"
 sincha mamadu nhobum: 
   city: "sincha mamadu nhobum"
   accentcity: "Sinchã Mamadu Nhobum"
@@ -12008,7 +12008,7 @@ sincha mansaroto:
   accentcity: "Sinchã Mansaroto"
 sincha mansarroto: 
   city: "sincha mansarroto"
-  accentcity: "Sinchã Mansarr\xC3\xB4to"
+  accentcity: "Sinchã Mansarrôto"
 sincha maribe: 
   city: "sincha maribe"
   accentcity: "Sinchã Maribê"
@@ -12026,10 +12026,10 @@ sincha maudo:
   accentcity: "Sinchã Maúdo"
 sincha maunde buco: 
   city: "sincha maunde buco"
-  accentcity: "Sinchã Maundè Buc\xC3\xB4"
+  accentcity: "Sinchã Maundè Bucô"
 sincha maunde nhanjo: 
   city: "sincha maunde nhanjo"
-  accentcity: "Sinchã Maundè Nhanj\xC3\xB4"
+  accentcity: "Sinchã Maundè Nhanjô"
 sincha maunde: 
   city: "sincha maunde"
   accentcity: "Sinchã Maundè"
@@ -12056,7 +12056,7 @@ sincha molele:
   accentcity: "Sinchã Molele"
 sincha molo: 
   city: "sincha molo"
-  accentcity: "Sinchã Mól\xC3\xB2"
+  accentcity: "Sinchã Mólò"
 sincha momo: 
   city: "sincha momo"
   accentcity: "Sinchã Momo"
@@ -12077,7 +12077,7 @@ sincha nafa:
   accentcity: "Sinchã Nafà"
 sincha nambo: 
   city: "sincha nambo"
-  accentcity: "Sinchã Namb\xC3\xB2"
+  accentcity: "Sinchã Nambò"
 sinchan bacari: 
   city: "sinchan bacari"
   accentcity: "Sinchan Bacari"
@@ -12113,10 +12113,10 @@ sincha nunco:
   accentcity: "Sinchã Nunco"
 sincha ogo lamoi: 
   city: "sincha ogo lamoi"
-  accentcity: "Sinchã \xC3\x94g\xC3\xB2 Lamoi"
+  accentcity: "Sinchã Ôgò Lamoi"
 sincha ogo: 
   city: "sincha ogo"
-  accentcity: "Sinchã \xC3\x94g\xC3\xB2"
+  accentcity: "Sinchã Ôgò"
 sincha ossa: 
   city: "sincha ossa"
   accentcity: "Sinchã Ossa"
@@ -12302,7 +12302,7 @@ sincha sarmento:
   accentcity: "Sinchã Sarmento"
 sincha sebo: 
   city: "sincha sebo"
-  accentcity: "Sinchã Sêb\xC3\xB2"
+  accentcity: "Sinchã Sêbò"
 sincha seco: 
   city: "sincha seco"
   accentcity: "Sinchã Seco"
@@ -12335,7 +12335,7 @@ sincha:
   accentcity: "Sinchã"
 sincha solo: 
   city: "sincha solo"
-  accentcity: "Sinchã Sól\xC3\xB2"
+  accentcity: "Sinchã Sólò"
 sincha sori jomel: 
   city: "sincha sori jomel"
   accentcity: "Sinchã Sori Jomel"
@@ -12362,7 +12362,7 @@ sincha suncare:
   accentcity: "Sinchã Suncare"
 sincha suncaro: 
   city: "sincha suncaro"
-  accentcity: "Sinchã Suncar\xC3\xB2"
+  accentcity: "Sinchã Suncarò"
 sincha suquel: 
   city: "sincha suquel"
   accentcity: "Sinchã Suquel"
@@ -12383,10 +12383,10 @@ sincha tenquiname:
   accentcity: "Sinchã Tenquiname"
 sincha tombo: 
   city: "sincha tombo"
-  accentcity: "Sinchã Tomb\xC3\xB5"
+  accentcity: "Sinchã Tombõ"
 sincha tonto: 
   city: "sincha tonto"
-  accentcity: "Sinchã Tont\xC3\xB2"
+  accentcity: "Sinchã Tontò"
 sincha totala: 
   city: "sincha totala"
   accentcity: "Sinchã Totala"
@@ -12410,10 +12410,10 @@ sincha uachico silate:
   accentcity: "Sinchã Uachico Silate"
 sincha uachico silati: 
   city: "sincha uachico silati"
-  accentcity: "Sinchã Uachic\xC3\xB2 Silati"
+  accentcity: "Sinchã Uachicò Silati"
 sincha uacho: 
   city: "sincha uacho"
-  accentcity: "Sinchã Uach\xC3\xB2"
+  accentcity: "Sinchã Uachò"
 sincha uale: 
   city: "sincha uale"
   accentcity: "Sinchã Uale"
@@ -12422,7 +12422,7 @@ sincha ualom:
   accentcity: "Sinchã Ualom"
 sincha ulo: 
   city: "sincha ulo"
-  accentcity: "Sinchã \xC3\x9Al\xC3\xB2"
+  accentcity: "Sinchã Úlò"
 sincha ulu: 
   city: "sincha ulu"
   accentcity: "Sinchã Ulú"
@@ -12518,7 +12518,7 @@ sissau:
   accentcity: "Sissau"
 sitato: 
   city: "sitato"
-  accentcity: "Sitat\xC3\xB4"
+  accentcity: "Sitatô"
 sobea: 
   city: "sobea"
   accentcity: "Sobeá"
@@ -12596,7 +12596,7 @@ sototon:
   accentcity: "Sototon"
 sototo: 
   city: "sototo"
-  accentcity: "Sotot\xC3\xB4"
+  accentcity: "Sototô"
 soukoudiak: 
   city: "soukoudiak"
   accentcity: "Soukoudiak"
@@ -12731,7 +12731,7 @@ tabajenque:
   accentcity: "Tabajenque"
 tabalo: 
   city: "tabalo"
-  accentcity: "Tabal\xC3\xB2"
+  accentcity: "Tabalò"
 tabanane: 
   city: "tabanane"
   accentcity: "Tabanane"
@@ -12971,7 +12971,7 @@ timba:
   accentcity: "Timba"
 timbinto: 
   city: "timbinto"
-  accentcity: "Timbint\xC3\xB4"
+  accentcity: "Timbintô"
 timbo: 
   city: "timbo"
   accentcity: "Timbó"
@@ -13079,7 +13079,7 @@ uachicha:
   accentcity: "Uáchicha"
 uachico: 
   city: "uachico"
-  accentcity: "Uachic\xC3\xB2"
+  accentcity: "Uachicò"
 uac: 
   city: "uac"
   accentcity: "Uac"
@@ -13283,7 +13283,7 @@ ufoia sabana:
   accentcity: "Ufoia Sabaná"
 ufoia saje embalo: 
   city: "ufoia saje embalo"
-  accentcity: "Ufoia Saje Embal\xC3\xB4"
+  accentcity: "Ufoia Saje Embalô"
 ufoia sambuia: 
   city: "ufoia sambuia"
   accentcity: "Ufoia Sambuiã"
@@ -13508,7 +13508,7 @@ veligara:
   accentcity: "Velígarà"
 velingara dulo: 
   city: "velingara dulo"
-  accentcity: "Velíngarà Dul\xC3\xB2"
+  accentcity: "Velíngarà Dulò"
 velingara ii: 
   city: "velingara ii"
   accentcity: "Velingará II"

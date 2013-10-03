@@ -14,7 +14,7 @@ achab:
   accentcity: "Achab"
 affenrucken: 
   city: "affenrucken"
-  accentcity: "Affenr\xC3\xBCcken"
+  accentcity: "Affenrücken"
 ai-ais: 
   city: "ai-ais"
   accentcity: "Ai-Ais"
@@ -173,7 +173,7 @@ augustinium:
   accentcity: "Augustinium"
 auputz: 
   city: "auputz"
-  accentcity: "Aup\xC3\xBCtz"
+  accentcity: "Aupütz"
 aurus: 
   city: "aurus"
   accentcity: "Aurus"
@@ -335,7 +335,7 @@ charliesputs:
   accentcity: "Charliesputs"
 charlys putz: 
   city: "charlys putz"
-  accentcity: "Charlys P\xC3\xBCtz"
+  accentcity: "Charlys Pütz"
 chausib: 
   city: "chausib"
   accentcity: "Chausib"
@@ -353,7 +353,7 @@ chrisjansputs:
   accentcity: "Chrisjansputs"
 christians putz: 
   city: "christians putz"
-  accentcity: "Christians P\xC3\xBCtz"
+  accentcity: "Christians Pütz"
 claratal: 
   city: "claratal"
   accentcity: "Claratal"
@@ -398,7 +398,7 @@ davignab:
   accentcity: "Davignab"
 davignab sud: 
   city: "davignab sud"
-  accentcity: "Davignab S\xC3\xBCd"
+  accentcity: "Davignab Süd"
 davignab suid: 
   city: "davignab suid"
   accentcity: "Davignab Suid"
@@ -431,13 +431,13 @@ de start:
   accentcity: "De Start"
 devillers putz: 
   city: "devillers putz"
-  accentcity: "Devillers P\xC3\xBCtz"
+  accentcity: "Devillers Pütz"
 de villiersputs: 
   city: "de villiersputs"
   accentcity: "De Villiersputs"
 de villiers putz: 
   city: "de villiers putz"
-  accentcity: "De Villiers P\xC3\xBCtz"
+  accentcity: "De Villiers Pütz"
 die end: 
   city: "die end"
   accentcity: "Die End"
@@ -530,7 +530,7 @@ duurdrift:
   accentcity: "Duurdrift"
 duurdrift sud: 
   city: "duurdrift sud"
-  accentcity: "Duurdrift S\xC3\xBCd"
+  accentcity: "Duurdrift Süd"
 duwib: 
   city: "duwib"
   accentcity: "Duwib"
@@ -1082,10 +1082,10 @@ groutfontein:
   accentcity: "Groutfontein"
 grunau: 
   city: "grunau"
-  accentcity: "Gr\xC3\xBCnau"
+  accentcity: "Grünau"
 grundorn: 
   city: "grundorn"
-  accentcity: "Gr\xC3\xBCndorn"
+  accentcity: "Gründorn"
 guichabis: 
   city: "guichabis"
   accentcity: "Guichabis"
@@ -2081,7 +2081,7 @@ lizauli:
   accentcity: "Lizauli"
 luderitz: 
   city: "luderitz"
-  accentcity: "L\xC3\xBCderitz"
+  accentcity: "Lüderitz"
 ludwigsdorf: 
   city: "ludwigsdorf"
   accentcity: "Ludwigsdorf"
@@ -2117,7 +2117,7 @@ lusu:
   accentcity: "Lusu"
 lutzelhohe: 
   city: "lutzelhohe"
-  accentcity: "L\xC3\xBCtzelh\xC3\xB6he"
+  accentcity: "Lützelh\xC3\xB6he"
 luzibalule: 
   city: "luzibalule"
   accentcity: "Luzibalule"
@@ -2456,7 +2456,7 @@ mopolilo:
   accentcity: "Mopolilo"
 morester: 
   city: "morester"
-  accentcity: "M\xC3\xB4rester"
+  accentcity: "Môrester"
 mowebaai: 
   city: "mowebaai"
   accentcity: "M\xC3\xB6webaai"
@@ -6059,7 +6059,7 @@ steinhausen:
   accentcity: "Steinhausen"
 sterlingsputs: 
   city: "sterlingsputs"
-  accentcity: "Sterlingsp\xC3\xBCts"
+  accentcity: "Sterlingspüts"
 stilhoek: 
   city: "stilhoek"
   accentcity: "Stilhoek"
@@ -6089,7 +6089,7 @@ summerdown:
   accentcity: "Summerdown"
 superlingsputz: 
   city: "superlingsputz"
-  accentcity: "Superlingsp\xC3\xBCtz"
+  accentcity: "Superlingspütz"
 swakopmund: 
   city: "swakopmund"
   accentcity: "Swakopmund"
@@ -6173,10 +6173,10 @@ toakas:
   accentcity: "Toakas"
 toasis ii: 
   city: "toasis ii"
-  accentcity: "T\xC3\xB4asis II"
+  accentcity: "Tôasis II"
 toasis i: 
   city: "toasis i"
-  accentcity: "T\xC3\xB4asis I"
+  accentcity: "Tôasis I"
 toekoms: 
   city: "toekoms"
   accentcity: "Toekoms"
@@ -6605,7 +6605,7 @@ witsand:
   accentcity: "Witsand"
 wittputz: 
   city: "wittputz"
-  accentcity: "Wittp\xC3\xBCtz"
+  accentcity: "Wittpütz"
 witvlei: 
   city: "witvlei"
   accentcity: "Witvlei"

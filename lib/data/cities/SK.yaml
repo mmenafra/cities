@@ -5,7 +5,7 @@ abafalva:
   accentcity: "Abafalva"
 abelova: 
   city: "abelova"
-  accentcity: "\xC3\x81belová"
+  accentcity: "Ábelová"
 abovce: 
   city: "abovce"
   accentcity: "Abovce"
@@ -38,7 +38,7 @@ aggerdo pusta:
   accentcity: "Aggerdo Pusta"
 agota majer: 
   city: "agota majer"
-  accentcity: "\xC3\x81gota Majer"
+  accentcity: "Ágota Majer"
 agov: 
   city: "agov"
   accentcity: "Agov"
@@ -1604,7 +1604,7 @@ bzovik:
   accentcity: "Bzovík"
 bzovska lehotka: 
   city: "bzovska lehotka"
-  accentcity: "Bzovská Leh\xC3\xB4tka"
+  accentcity: "Bzovská Lehôtka"
 cabaj: 
   city: "cabaj"
   accentcity: "Cabaj"
@@ -2252,7 +2252,7 @@ csalar:
   accentcity: "Csalár"
 csallokoz kurt: 
   city: "csallokoz kurt"
-  accentcity: "Csallók\xC3\xB6z K\xC3\xBCrt"
+  accentcity: "Csallók\xC3\xB6z Kürt"
 csarnnaho: 
   city: "csarnnaho"
   accentcity: "Csarnnahó"
@@ -2309,7 +2309,7 @@ csucsom:
   accentcity: "Csucsom"
 csutortok: 
   city: "csutortok"
-  accentcity: "Cs\xC3\xBCt\xC3\xB6rt\xC3\xB6k"
+  accentcity: "Csüt\xC3\xB6rt\xC3\xB6k"
 cucma: 
   city: "cucma"
   accentcity: "Cucma"
@@ -3569,7 +3569,7 @@ duna-szerdahely:
   accentcity: "Duna-Szerdahely"
 duna-ujfalu: 
   city: "duna-ujfalu"
-  accentcity: "Duna-\xC3\x9Ajfalu"
+  accentcity: "Duna-Újfalu"
 duna-vajka: 
   city: "duna-vajka"
   accentcity: "Duna-Vajka"
@@ -4217,7 +4217,7 @@ einsiedel an der gollnitz:
   accentcity: "Einsiedel an der G\xC3\xB6llnitz"
 eisenbrunndel: 
   city: "eisenbrunndel"
-  accentcity: "Eisenbr\xC3\xBCnndel"
+  accentcity: "Eisenbrünndel"
 ekec: 
   city: "ekec"
   accentcity: "Ekec"
@@ -4259,7 +4259,7 @@ ersek-lel:
   accentcity: "Ersek-Lél"
 ersekujvar: 
   city: "ersekujvar"
-  accentcity: "\xC3\x89rsekújvár"
+  accentcity: "Érsekújvár"
 etre-karcsa: 
   city: "etre-karcsa"
   accentcity: "Etre-Karcsa"
@@ -4481,13 +4481,13 @@ fulanka:
   accentcity: "Fulanka"
 fulek: 
   city: "fulek"
-  accentcity: "F\xC3\xBClek"
+  accentcity: "Fülek"
 fulek-kelecseny: 
   city: "fulek-kelecseny"
-  accentcity: "F\xC3\xBClek-Kelecsény"
+  accentcity: "Fülek-Kelecsény"
 fulek-kovacsi: 
   city: "fulek-kovacsi"
-  accentcity: "F\xC3\xBClek-Kovácsi"
+  accentcity: "Fülek-Kovácsi"
 fulianka: 
   city: "fulianka"
   accentcity: "Fulianka"
@@ -4499,10 +4499,10 @@ furmanici:
   accentcity: "Furmanici"
 fuss: 
   city: "fuss"
-  accentcity: "F\xC3\xBCss"
+  accentcity: "Füss"
 fuzes-gyarmat: 
   city: "fuzes-gyarmat"
-  accentcity: "F\xC3\xBCzes-Gyarmat"
+  accentcity: "Füzes-Gyarmat"
 fyr: 
   city: "fyr"
   accentcity: "Fyr"
@@ -4760,7 +4760,7 @@ gortva:
   accentcity: "Gortva"
 gotovany: 
   city: "gotovany"
-  accentcity: "G\xC3\xB4tovany"
+  accentcity: "Gôtovany"
 granastov: 
   city: "granastov"
   accentcity: "Granastov"
@@ -4808,7 +4808,7 @@ gross-schlagendorf:
   accentcity: "Gross-Schlagendorf"
 grunau: 
   city: "grunau"
-  accentcity: "Gr\xC3\xBCnau"
+  accentcity: "Grünau"
 gruzovce: 
   city: "gruzovce"
   accentcity: "Gruzovce"
@@ -4853,10 +4853,10 @@ gyorke:
   accentcity: "Gy\xC3\xB6rke"
 "gyua\xC2\x80\xC2\x9Drmajor": 
   city: "gyua\xC2\x80\xC2\x9Drmajor"
-  accentcity: "Gyu\xC3\xA2\xC2\x80\xC2\x9Drmajor"
+  accentcity: "Gyuâ\xC2\x80\xC2\x9Drmajor"
 gyurki: 
   city: "gyurki"
-  accentcity: "Gy\xC3\xBCrki"
+  accentcity: "Gyürki"
 habovka: 
   city: "habovka"
   accentcity: "Habovka"
@@ -5165,7 +5165,7 @@ hiadel:
   accentcity: "Hiadel"
 hidas kurt: 
   city: "hidas kurt"
-  accentcity: "Hidas K\xC3\xBCrt"
+  accentcity: "Hidas Kürt"
 hideghet: 
   city: "hideghet"
   accentcity: "Hideghét"
@@ -5342,7 +5342,7 @@ hontianske tesary:
   accentcity: "Hontianske Tesáry"
 hora: 
   city: "hora"
-  accentcity: "H\xC3\xB4ra"
+  accentcity: "Hôra"
 horalica: 
   city: "horalica"
   accentcity: "Horalica"
@@ -5363,13 +5363,13 @@ horenice:
   accentcity: "Horenice"
 horka: 
   city: "horka"
-  accentcity: "H\xC3\xB4rka"
+  accentcity: "Hôrka"
 horka nad vahom: 
   city: "horka nad vahom"
-  accentcity: "H\xC3\xB4rka nad Váhom"
+  accentcity: "Hôrka nad Váhom"
 horky: 
   city: "horky"
-  accentcity: "H\xC3\xB4rky"
+  accentcity: "Hôrky"
 horna arma: 
   city: "horna arma"
   accentcity: "Horná Arma"
@@ -6380,7 +6380,7 @@ hutka:
   accentcity: "Hutka"
 huttgrund: 
   city: "huttgrund"
-  accentcity: "H\xC3\xBCttgrund"
+  accentcity: "Hüttgrund"
 huty: 
   city: "huty"
   accentcity: "Huty"
@@ -7484,7 +7484,7 @@ kis olved:
   accentcity: "Kis \xC3\x96lved"
 kis-ovar: 
   city: "kis-ovar"
-  accentcity: "Kis-\xC3\x93var"
+  accentcity: "Kis-Óvar"
 kis-paka: 
   city: "kis-paka"
   accentcity: "Kis-Paka"
@@ -7526,7 +7526,7 @@ kis udvarnok:
   accentcity: "Kis Udvarnok"
 kis-ujfalu: 
   city: "kis-ujfalu"
-  accentcity: "Kis-\xC3\x9Ajfalu"
+  accentcity: "Kis-Újfalu"
 klacany: 
   city: "klacany"
   accentcity: "Klacany"
@@ -7670,7 +7670,7 @@ knezova lehota:
   accentcity: "Knezova Lehota"
 "koa\xC2\x80\xC2\x9D keszi": 
   city: "koa\xC2\x80\xC2\x9D keszi"
-  accentcity: "Ko\xC3\xA2\xC2\x80\xC2\x9D Keszi"
+  accentcity: "Koâ\xC2\x80\xC2\x9D Keszi"
 kobeliarovo: 
   city: "kobeliarovo"
   accentcity: "Kobeliarovo"
@@ -8252,7 +8252,7 @@ kraskovo:
   accentcity: "Kraskovo"
 krasna horka: 
   city: "krasna horka"
-  accentcity: "Krásna H\xC3\xB4rka"
+  accentcity: "Krásna Hôrka"
 krasna: 
   city: "krasna"
   accentcity: "Krásna"
@@ -8615,7 +8615,7 @@ kurta keszi:
   accentcity: "Kurta Keszi"
 kurt: 
   city: "kurt"
-  accentcity: "K\xC3\xBCrt"
+  accentcity: "Kürt"
 kusin: 
   city: "kusin"
   accentcity: "Kusín"
@@ -8810,7 +8810,7 @@ lastovce:
   accentcity: "Lastovce"
 laszlomuve: 
   city: "laszlomuve"
-  accentcity: "Lászlóm\xC3\xBCve"
+  accentcity: "Lászlómüve"
 laszlo tanya: 
   city: "laszlo tanya"
   accentcity: "László Tanya"
@@ -8891,10 +8891,10 @@ lehota:
   accentcity: "Lehota"
 lehotka: 
   city: "lehotka"
-  accentcity: "Leh\xC3\xB4tka"
+  accentcity: "Lehôtka"
 lehotka pod brehy: 
   city: "lehotka pod brehy"
-  accentcity: "Leh\xC3\xB4tka pod Brehy"
+  accentcity: "Lehôtka pod Brehy"
 lehotska: 
   city: "lehotska"
   accentcity: "Lehotská"
@@ -9683,7 +9683,7 @@ mala lehota:
   accentcity: "Malá Lehota"
 mala lehotka: 
   city: "mala lehotka"
-  accentcity: "Malá Leh\xC3\xB4tka"
+  accentcity: "Malá Lehôtka"
 mala lihotka: 
   city: "mala lihotka"
   accentcity: "Malá Lihotka"
@@ -10043,7 +10043,7 @@ maly tarkan:
   accentcity: "Mal\xC3\xBD Tarkan"
 maly ujlak: 
   city: "maly ujlak"
-  accentcity: "Mal\xC3\xBD \xC3\x9Ajlak"
+  accentcity: "Mal\xC3\xBD Újlak"
 maly valkaz: 
   city: "maly valkaz"
   accentcity: "Mal\xC3\xBD Valkáz"
@@ -10178,7 +10178,7 @@ mathilden dvor:
   accentcity: "Mathilden Dvor"
 mathildenhutte: 
   city: "mathildenhutte"
-  accentcity: "Mathildenh\xC3\xBCtte"
+  accentcity: "Mathildenhütte"
 matiaska: 
   city: "matiaska"
   accentcity: "Matiaska"
@@ -10826,7 +10826,7 @@ mulka:
   accentcity: "Mulka"
 muller: 
   city: "muller"
-  accentcity: "M\xC3\xBCller"
+  accentcity: "Müller"
 muran: 
   city: "muran"
   accentcity: "Muran"
@@ -10952,7 +10952,7 @@ nagy-dioszeg:
   accentcity: "Nagy-Diószeg"
 nagydurpuszta: 
   city: "nagydurpuszta"
-  accentcity: "Nagyd\xC3\xBCrpuszta"
+  accentcity: "Nagydürpuszta"
 nagyfalu: 
   city: "nagyfalu"
   accentcity: "Nagyfalu"
@@ -11816,10 +11816,10 @@ nyrovce:
   accentcity: "N\xC3\xBDrovce"
 o bars: 
   city: "o bars"
-  accentcity: "\xC3\x93 Bars"
+  accentcity: "Ó Bars"
 o-bast: 
   city: "o-bast"
-  accentcity: "\xC3\x93-Bást"
+  accentcity: "Ó-Bást"
 obeckov: 
   city: "obeckov"
   accentcity: "Obeckov"
@@ -11879,13 +11879,13 @@ odorin:
   accentcity: "Odorín"
 o-gelle: 
   city: "o-gelle"
-  accentcity: "\xC3\x93-Gelle"
+  accentcity: "Ó-Gelle"
 o-gutapuszta: 
   city: "o-gutapuszta"
-  accentcity: "\xC3\x93-Gutapuszta"
+  accentcity: "Ó-Gutapuszta"
 ogyalla: 
   city: "ogyalla"
-  accentcity: "\xC3\x93gyalla"
+  accentcity: "Ógyalla"
 ohrady: 
   city: "ohrady"
   accentcity: "Ohrady"
@@ -12125,7 +12125,7 @@ orovnica:
   accentcity: "Orovnica"
 ors-ujfalu: 
   city: "ors-ujfalu"
-  accentcity: "\xC3\x96rs-\xC3\x9Ajfalu"
+  accentcity: "\xC3\x96rs-Újfalu"
 ortase: 
   city: "ortase"
   accentcity: "Ortase"
@@ -12215,13 +12215,13 @@ ottenthal:
   accentcity: "Ottenthal"
 otura: 
   city: "otura"
-  accentcity: "\xC3\x93tura"
+  accentcity: "Ótura"
 ovarky: 
   city: "ovarky"
   accentcity: "Ovárky"
 ovar: 
   city: "ovar"
-  accentcity: "\xC3\x93vár"
+  accentcity: "Óvár"
 ovciarsko: 
   city: "ovciarsko"
   accentcity: "Ovciarsko"
@@ -13142,7 +13142,7 @@ potoky:
   accentcity: "Potoky"
 potor: 
   city: "potor"
-  accentcity: "P\xC3\xB4tor"
+  accentcity: "Pôtor"
 potvorice: 
   city: "potvorice"
   accentcity: "Potvorice"
@@ -13463,7 +13463,7 @@ pusovce:
   accentcity: "Pusovce"
 puspoki: 
   city: "puspoki"
-  accentcity: "P\xC3\xBCsp\xC3\xB6ki"
+  accentcity: "Püsp\xC3\xB6ki"
 pusta dapsa: 
   city: "pusta dapsa"
   accentcity: "Pusta Dapsa"
@@ -13526,7 +13526,7 @@ pustatina stara guta:
   accentcity: "Pustatina Stará Guta"
 "pustatina svaa\xC2\x80\xC2\x9Dta chrast'": 
   city: "pustatina svaa\xC2\x80\xC2\x9Dta chrast'"
-  accentcity: "Pustatina Sva\xC3\xA2\xC2\x80\xC2\x9Dta Chrast'"
+  accentcity: "Pustatina Svaâ\xC2\x80\xC2\x9Dta Chrast'"
 pustatina zahrada: 
   city: "pustatina zahrada"
   accentcity: "Pustatina Záhrada"
@@ -13613,7 +13613,7 @@ radosovce:
   accentcity: "Radosovce"
 radostka: 
   city: "radostka"
-  accentcity: "Rad\xC3\xB4stka"
+  accentcity: "Radôstka"
 radovce: 
   city: "radovce"
   accentcity: "Radovce"
@@ -14480,7 +14480,7 @@ schmollnitzer hutta:
   accentcity: "Schmollnitzer Hutta"
 schmollnitzer hutte: 
   city: "schmollnitzer hutte"
-  accentcity: "Schm\xC3\xB6llnitzer H\xC3\xBCtte"
+  accentcity: "Schm\xC3\xB6llnitzer Hütte"
 schmollnitz: 
   city: "schmollnitz"
   accentcity: "Schm\xC3\xB6llnitz"
@@ -14810,7 +14810,7 @@ sisulaky:
   accentcity: "Sisulaky"
 sitnianska lehotka: 
   city: "sitnianska lehotka"
-  accentcity: "Sitnianska Leh\xC3\xB4tka"
+  accentcity: "Sitnianska Lehôtka"
 sitnianska: 
   city: "sitnianska"
   accentcity: "Sitnianska"
@@ -15143,7 +15143,7 @@ sobotiste:
   accentcity: "Sobotiste"
 sobotka: 
   city: "sobotka"
-  accentcity: "Sob\xC3\xB4tka"
+  accentcity: "Sobôtka"
 sobrance: 
   city: "sobrance"
   accentcity: "Sobrance"
@@ -15665,7 +15665,7 @@ strocin:
   accentcity: "Strocin"
 strohhute: 
   city: "strohhute"
-  accentcity: "Strohh\xC3\xBCte"
+  accentcity: "Strohhüte"
 stropkov: 
   city: "stropkov"
   accentcity: "Stropkov"
@@ -15791,10 +15791,10 @@ sul:
   accentcity: "Sul"
 sulyk puszta: 
   city: "sulyk puszta"
-  accentcity: "S\xC3\xBClyk Puszta"
+  accentcity: "Sülyk Puszta"
 suly: 
   city: "suly"
-  accentcity: "S\xC3\xBCly"
+  accentcity: "Süly"
 sumiac: 
   city: "sumiac"
   accentcity: "Sumiac"
@@ -16241,7 +16241,7 @@ tataria:
   accentcity: "Tataria"
 tatra-fured: 
   city: "tatra-fured"
-  accentcity: "Tátra-F\xC3\xBCred"
+  accentcity: "Tátra-Füred"
 tatranska kotlina: 
   city: "tatranska kotlina"
   accentcity: "Tatranská Kotlina"
@@ -16487,7 +16487,7 @@ tompa:
   accentcity: "Tompa"
 tone: 
   city: "tone"
-  accentcity: "T\xC3\xB4ne"
+  accentcity: "Tône"
 tonkhaza: 
   city: "tonkhaza"
   accentcity: "Tonkháza"
@@ -16949,7 +16949,7 @@ udica:
   accentcity: "Udica"
 udol: 
   city: "udol"
-  accentcity: "\xC3\x9Adol"
+  accentcity: "Údol"
 udvard: 
   city: "udvard"
   accentcity: "Udvard"
@@ -16976,7 +16976,7 @@ uhliska:
   accentcity: "Uhliská"
 uhorna: 
   city: "uhorna"
-  accentcity: "\xC3\x9Ahorná"
+  accentcity: "Úhorná"
 uhorska ves: 
   city: "uhorska ves"
   accentcity: "Uhorská Ves"
@@ -17009,22 +17009,22 @@ ujak:
   accentcity: "Ujak"
 ujazd: 
   city: "ujazd"
-  accentcity: "\xC3\x9Ajazd"
+  accentcity: "Újazd"
 uj-bars: 
   city: "uj-bars"
-  accentcity: "\xC3\x9Aj-Bars"
+  accentcity: "Új-Bars"
 u jergalov: 
   city: "u jergalov"
   accentcity: "U Jergalov"
 ujezd: 
   city: "ujezd"
-  accentcity: "\xC3\x9Ajezd"
+  accentcity: "Újezd"
 ujhely-joka: 
   city: "ujhely-joka"
   accentcity: "Ujhely-Jóka"
 ujhely: 
   city: "ujhely"
-  accentcity: "\xC3\x9Ajhely"
+  accentcity: "Újhely"
 ujlacek: 
   city: "ujlacek"
   accentcity: "Ujlacek"
@@ -17078,7 +17078,7 @@ u mikulcov:
   accentcity: "U Mikulcov"
 u mocov: 
   city: "u mocov"
-  accentcity: "U M\xC3\xB4cov"
+  accentcity: "U Môcov"
 umrla lehota: 
   city: "umrla lehota"
   accentcity: "Umrlá Lehota"
@@ -17102,7 +17102,7 @@ upohlav:
   accentcity: "Upohlav"
 upor: 
   city: "upor"
-  accentcity: "\xC3\x9Apor"
+  accentcity: "Úpor"
 u potkana: 
   city: "u potkana"
   accentcity: "U Potkana"
@@ -17144,13 +17144,13 @@ u sojakov:
   accentcity: "U Sojákov"
 ustie nad oravou: 
   city: "ustie nad oravou"
-  accentcity: "\xC3\x9Astie Nad Oravou"
+  accentcity: "Ústie Nad Oravou"
 ustie nad priehradou: 
   city: "ustie nad priehradou"
-  accentcity: "\xC3\x9Astie nad Priehradou"
+  accentcity: "Ústie nad Priehradou"
 ustie: 
   city: "ustie"
-  accentcity: "\xC3\x9Astie"
+  accentcity: "Ústie"
 u svinky: 
   city: "u svinky"
   accentcity: "U Svinky"
@@ -17168,7 +17168,7 @@ u zelenaku:
   accentcity: "U Zelenáku"
 uzor: 
   city: "uzor"
-  accentcity: "\xC3\x9Azor"
+  accentcity: "Úzor"
 uzovce: 
   city: "uzovce"
   accentcity: "Uzovce"
@@ -18683,7 +18683,7 @@ waagbistritz:
   accentcity: "Waagbistritz"
 wagendrussel: 
   city: "wagendrussel"
-  accentcity: "Wagendr\xC3\xBCssel"
+  accentcity: "Wagendrüssel"
 waltersdorf: 
   city: "waltersdorf"
   accentcity: "Waltersdorf"

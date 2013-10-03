@@ -7127,7 +7127,7 @@ bonio komi:
   accentcity: "Bonio Komi"
 boobe: 
   city: "boobe"
-  accentcity: "Bo\xC3\xB4bé"
+  accentcity: "Boôbé"
 boobrie: 
   city: "boobrie"
   accentcity: "Boobrié"
@@ -8333,7 +8333,7 @@ dade:
   accentcity: "Dadé"
 dadi: 
   city: "dadi"
-  accentcity: "D\xC3\xA2di"
+  accentcity: "Dâdi"
 dadji: 
   city: "dadji"
   accentcity: "Dadji"
@@ -11108,7 +11108,7 @@ dooda:
   accentcity: "Dooda"
 doo: 
   city: "doo"
-  accentcity: "D\xC3\xB4o"
+  accentcity: "Dôo"
 dooulo: 
   city: "dooulo"
   accentcity: "Dooulo"
@@ -13688,7 +13688,7 @@ gogmi:
   accentcity: "Gogmi"
 go: 
   city: "go"
-  accentcity: "G\xC3\xB4"
+  accentcity: "Gô"
 gogo: 
   city: "gogo"
   accentcity: "Gogo"
@@ -20219,7 +20219,7 @@ leo kore:
   accentcity: "Léo Koré"
 "leo ma\xC2\x80\xC2\x9Dbasa": 
   city: "leo ma\xC2\x80\xC2\x9Dbasa"
-  accentcity: "Leo M\xC3\xA2\xC2\x80\xC2\x9DBasa"
+  accentcity: "Leo Mâ\xC2\x80\xC2\x9DBasa"
 leo mbassa: 
   city: "leo mbassa"
   accentcity: "Léo Mbassa"
@@ -20597,13 +20597,13 @@ maarte:
   accentcity: "Maarté"
 "ma\xC2\x80\xC2\x9Dbagode": 
   city: "ma\xC2\x80\xC2\x9Dbagode"
-  accentcity: "M\xC3\xA2\xC2\x80\xC2\x9DBagode"
+  accentcity: "Mâ\xC2\x80\xC2\x9DBagode"
 maba: 
   city: "maba"
   accentcity: "Maba"
 "ma\xC2\x80\xC2\x9Dbaqueu": 
   city: "ma\xC2\x80\xC2\x9Dbaqueu"
-  accentcity: "M\xC3\xA2\xC2\x80\xC2\x9DBaqueu"
+  accentcity: "Mâ\xC2\x80\xC2\x9DBaqueu"
 mabarde: 
   city: "mabarde"
   accentcity: "Mabardé"
@@ -20612,7 +20612,7 @@ mabar:
   accentcity: "Mabar"
 "ma\xC2\x80\xC2\x9Dbarou": 
   city: "ma\xC2\x80\xC2\x9Dbarou"
-  accentcity: "M\xC3\xA2\xC2\x80\xC2\x9DBarou"
+  accentcity: "Mâ\xC2\x80\xC2\x9DBarou"
 mabatam: 
   city: "mabatam"
   accentcity: "Mabatam"
@@ -22133,7 +22133,7 @@ mardou:
   accentcity: "Mardou"
 "ma\xC2\x80\xC2\x9Dredo": 
   city: "ma\xC2\x80\xC2\x9Dredo"
-  accentcity: "M\xC3\xA2\xC2\x80\xC2\x9DRedo"
+  accentcity: "Mâ\xC2\x80\xC2\x9DRedo"
 marfakatel: 
   city: "marfakatel"
   accentcity: "Marfakatèl"
@@ -24662,10 +24662,10 @@ nabrine:
   accentcity: "Nabrine"
 "na\xC2\x80\xC2\x9Dby": 
   city: "na\xC2\x80\xC2\x9Dby"
-  accentcity: "N\xC3\xA2\xC2\x80\xC2\x9DBy"
+  accentcity: "Nâ\xC2\x80\xC2\x9DBy"
 "na\xC2\x80\xC2\x9Ddakili": 
   city: "na\xC2\x80\xC2\x9Ddakili"
-  accentcity: "N\xC3\xA2\xC2\x80\xC2\x9DDakili"
+  accentcity: "Nâ\xC2\x80\xC2\x9DDakili"
 nadara: 
   city: "nadara"
   accentcity: "Nadara"
@@ -24674,7 +24674,7 @@ nade dadje:
   accentcity: "Nadé Dadjé"
 "na\xC2\x80\xC2\x9Ddela": 
   city: "na\xC2\x80\xC2\x9Ddela"
-  accentcity: "N\xC3\xA2\xC2\x80\xC2\x9DDela"
+  accentcity: "Nâ\xC2\x80\xC2\x9DDela"
 nadele: 
   city: "nadele"
   accentcity: "Nadelé"
@@ -24692,7 +24692,7 @@ nadili:
   accentcity: "Nadili"
 "na\xC2\x80\xC2\x9Ddiora": 
   city: "na\xC2\x80\xC2\x9Ddiora"
-  accentcity: "N\xC3\xA2\xC2\x80\xC2\x9DDiora"
+  accentcity: "Nâ\xC2\x80\xC2\x9DDiora"
 nadjikaba: 
   city: "nadjikaba"
   accentcity: "Nadjikaba"
@@ -24701,40 +24701,40 @@ nadjimala:
   accentcity: "Nadjimala"
 "na\xC2\x80\xC2\x9Ddjoko": 
   city: "na\xC2\x80\xC2\x9Ddjoko"
-  accentcity: "N\xC3\xA2\xC2\x80\xC2\x9DDjoko"
+  accentcity: "Nâ\xC2\x80\xC2\x9DDjoko"
 nado: 
   city: "nado"
   accentcity: "Nado"
 "na\xC2\x80\xC2\x9Dgada": 
   city: "na\xC2\x80\xC2\x9Dgada"
-  accentcity: "N\xC3\xA2\xC2\x80\xC2\x9DGada"
+  accentcity: "Nâ\xC2\x80\xC2\x9DGada"
 nagagir: 
   city: "nagagir"
   accentcity: "Nagagir"
 "na\xC2\x80\xC2\x9Dgama": 
   city: "na\xC2\x80\xC2\x9Dgama"
-  accentcity: "N\xC3\xA2\xC2\x80\xC2\x9DGama"
+  accentcity: "Nâ\xC2\x80\xC2\x9DGama"
 naga: 
   city: "naga"
   accentcity: "Naga"
 "na\xC2\x80\xC2\x9Dgaouaye": 
   city: "na\xC2\x80\xC2\x9Dgaouaye"
-  accentcity: "N\xC3\xA2\xC2\x80\xC2\x9DGaouaye"
+  accentcity: "Nâ\xC2\x80\xC2\x9DGaouaye"
 "na\xC2\x80\xC2\x9Dgolo": 
   city: "na\xC2\x80\xC2\x9Dgolo"
-  accentcity: "N\xC3\xA2\xC2\x80\xC2\x9DGolo"
+  accentcity: "Nâ\xC2\x80\xC2\x9DGolo"
 "na\xC2\x80\xC2\x9Dgousa": 
   city: "na\xC2\x80\xC2\x9Dgousa"
-  accentcity: "N\xC3\xA2\xC2\x80\xC2\x9DGousa"
+  accentcity: "Nâ\xC2\x80\xC2\x9DGousa"
 "na\xC2\x80\xC2\x9Dguede": 
   city: "na\xC2\x80\xC2\x9Dguede"
-  accentcity: "N\xC3\xA2\xC2\x80\xC2\x9DGuede"
+  accentcity: "Nâ\xC2\x80\xC2\x9DGuede"
 "na\xC2\x80\xC2\x9Dguilima": 
   city: "na\xC2\x80\xC2\x9Dguilima"
-  accentcity: "N\xC3\xA2\xC2\x80\xC2\x9DGuilima"
+  accentcity: "Nâ\xC2\x80\xC2\x9DGuilima"
 "na\xC2\x80\xC2\x9Dguilimi": 
   city: "na\xC2\x80\xC2\x9Dguilimi"
-  accentcity: "N\xC3\xA2\xC2\x80\xC2\x9DGuilimi"
+  accentcity: "Nâ\xC2\x80\xC2\x9DGuilimi"
 nahahina: 
   city: "nahahina"
   accentcity: "Nahahina"
@@ -24770,7 +24770,7 @@ nait:
   accentcity: "Na\xC3\xAFt"
 "na\xC2\x80\xC2\x9Djoye i": 
   city: "na\xC2\x80\xC2\x9Djoye i"
-  accentcity: "N\xC3\xA2\xC2\x80\xC2\x9DJoye I"
+  accentcity: "Nâ\xC2\x80\xC2\x9DJoye I"
 nakal: 
   city: "nakal"
   accentcity: "Nakal"
@@ -24974,7 +24974,7 @@ natika:
   accentcity: "Natika"
 "na\xC2\x80\xC2\x9Dtiouna": 
   city: "na\xC2\x80\xC2\x9Dtiouna"
-  accentcity: "N\xC3\xA2\xC2\x80\xC2\x9DTiouna"
+  accentcity: "Nâ\xC2\x80\xC2\x9DTiouna"
 nayena: 
   city: "nayena"
   accentcity: "Nayena"
@@ -24989,7 +24989,7 @@ naza:
   accentcity: "Naza"
 "na\xC2\x80\xC2\x9Dzaola": 
   city: "na\xC2\x80\xC2\x9Dzaola"
-  accentcity: "N\xC3\xA2\xC2\x80\xC2\x9DZaola"
+  accentcity: "Nâ\xC2\x80\xC2\x9DZaola"
 nazia: 
   city: "nazia"
   accentcity: "Nazia"
@@ -26708,7 +26708,7 @@ ozu:
   accentcity: "Ozu"
 pa bako: 
   city: "pa bako"
-  accentcity: "P\xC3\xA2 Bako"
+  accentcity: "Pâ Bako"
 padamainda: 
   city: "padamainda"
   accentcity: "Padamainda"
@@ -26729,7 +26729,7 @@ pakere:
   accentcity: "Pakéré"
 pakoulioum: 
   city: "pakoulioum"
-  accentcity: "P\xC3\xA2koulioum"
+  accentcity: "Pâkoulioum"
 palabanda: 
   city: "palabanda"
   accentcity: "Palabanda"
@@ -27251,7 +27251,7 @@ rocoum:
   accentcity: "Rocoum"
 ro doketi: 
   city: "ro doketi"
-  accentcity: "R\xC3\xB4 Doketi"
+  accentcity: "Rô Doketi"
 rogorin: 
   city: "rogorin"
   accentcity: "Rogorin"
@@ -27275,7 +27275,7 @@ rokrog:
   accentcity: "Rokrog"
 ro man: 
   city: "ro man"
-  accentcity: "R\xC3\xB4 Man"
+  accentcity: "Rô Man"
 rombou: 
   city: "rombou"
   accentcity: "Rombou"
@@ -27293,7 +27293,7 @@ ronian:
   accentcity: "Ronian"
 ro: 
   city: "ro"
-  accentcity: "R\xC3\xB4"
+  accentcity: "Rô"
 rororn: 
   city: "rororn"
   accentcity: "Rororn"
@@ -29027,7 +29027,7 @@ tazere:
   accentcity: "Tazéré"
 tcha arabe: 
   city: "tcha arabe"
-  accentcity: "Tch\xC3\xA2 Arabe"
+  accentcity: "Tchâ Arabe"
 tchadjarague: 
   city: "tchadjarague"
   accentcity: "Tchadjaragué"
@@ -29963,7 +29963,7 @@ toatang:
   accentcity: "Toatang"
 "tobaibedschea\xC2\x80\xC2\x9Ds": 
   city: "tobaibedschea\xC2\x80\xC2\x9Ds"
-  accentcity: "Tobaibedsche\xC3\xA2\xC2\x80\xC2\x9Ds"
+  accentcity: "Tobaibedscheâ\xC2\x80\xC2\x9Ds"
 tobele bassa: 
   city: "tobele bassa"
   accentcity: "Tobélé Bassa"

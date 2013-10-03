@@ -578,7 +578,7 @@ aritonova mahala:
   accentcity: "Aritonova Mahala"
 arkod: 
   city: "arkod"
-  accentcity: "\xC3\x81rkod"
+  accentcity: "Árkod"
 arlat: 
   city: "arlat"
   accentcity: "Arlat"
@@ -602,10 +602,10 @@ arnautska mahala:
   accentcity: "Arnautska Mahala"
 arpatarlo: 
   city: "arpatarlo"
-  accentcity: "\xC3\x81rpatarló"
+  accentcity: "Árpatarló"
 arpataro: 
   city: "arpataro"
-  accentcity: "\xC3\x81rpataró"
+  accentcity: "Árpataró"
 arrishta: 
   city: "arrishta"
   accentcity: "Arrishta"
@@ -3011,7 +3011,7 @@ blato:
   accentcity: "Blato"
 blauschutz: 
   city: "blauschutz"
-  accentcity: "Blausch\xC3\xBCtz"
+  accentcity: "Blauschütz"
 blazevo: 
   city: "blazevo"
   accentcity: "Blazevo"
@@ -10850,7 +10850,7 @@ ecka:
   accentcity: "Ecka"
 ecska: 
   city: "ecska"
-  accentcity: "\xC3\x89cska"
+  accentcity: "Écska"
 egyhazasker: 
   city: "egyhazasker"
   accentcity: "Egyházaskér"
@@ -11207,7 +11207,7 @@ funjure:
   accentcity: "Funjure"
 furjes: 
   city: "furjes"
-  accentcity: "F\xC3\xBCrjes"
+  accentcity: "Fürjes"
 fusa mahala: 
   city: "fusa mahala"
   accentcity: "Fusa Mahala"
@@ -14978,7 +14978,7 @@ hegyes:
   accentcity: "Hegyes"
 heideschutz: 
   city: "heideschutz"
-  accentcity: "Heidesch\xC3\xBCtz"
+  accentcity: "Heideschütz"
 henc: 
   city: "henc"
   accentcity: "Henc"
@@ -15215,7 +15215,7 @@ hudovska:
   accentcity: "Hudovska"
 hugelhorst: 
   city: "hugelhorst"
-  accentcity: "H\xC3\xBCgelhorst"
+  accentcity: "Hügelhorst"
 hulaj: 
   city: "hulaj"
   accentcity: "Hulaj"
@@ -15857,7 +15857,7 @@ janjici:
   accentcity: "Janjici"
 jankabrucke: 
   city: "jankabrucke"
-  accentcity: "Jankabr\xC3\xBCcke"
+  accentcity: "Jankabrücke"
 jankahid: 
   city: "jankahid"
   accentcity: "Jankahid"
@@ -18164,7 +18164,7 @@ kokince:
   accentcity: "Kokince"
 ko: 
   city: "ko"
-  accentcity: "K\xC3\xB5"
+  accentcity: "Kõ"
 kokolari mahala: 
   city: "kokolari mahala"
   accentcity: "Kokolari Mahala"
@@ -26408,7 +26408,7 @@ nemetcsernye:
   accentcity: "Németcsernye"
 nemet-ecska: 
   city: "nemet-ecska"
-  accentcity: "Német-\xC3\x89cska"
+  accentcity: "Német-Écska"
 nemet-gaj: 
   city: "nemet-gaj"
   accentcity: "Német-Gáj"
@@ -27128,7 +27128,7 @@ obarak:
   accentcity: "Obarak"
 obecse: 
   city: "obecse"
-  accentcity: "\xC3\x93becse"
+  accentcity: "Óbecse"
 obendorf: 
   city: "obendorf"
   accentcity: "Obendorf"
@@ -27308,13 +27308,13 @@ odzici:
   accentcity: "Odzici"
 oecska: 
   city: "oecska"
-  accentcity: "\xC3\x93écska"
+  accentcity: "Óécska"
 ofutak: 
   city: "ofutak"
-  accentcity: "\xC3\x93futak"
+  accentcity: "Ófutak"
 ofuttak: 
   city: "ofuttak"
-  accentcity: "\xC3\x93futtak"
+  accentcity: "Ófuttak"
 ogar: 
   city: "ogar"
   accentcity: "Ogar"
@@ -27362,10 +27362,10 @@ ojkovica:
   accentcity: "Ojkovica"
 okeresztur: 
   city: "okeresztur"
-  accentcity: "\xC3\x93keresztúr"
+  accentcity: "Ókeresztúr"
 oker: 
   city: "oker"
-  accentcity: "\xC3\x93kér"
+  accentcity: "Ókér"
 oklace: 
   city: "oklace"
   accentcity: "Oklace"
@@ -27413,10 +27413,10 @@ okruglica:
   accentcity: "Okruglica"
 olec: 
   city: "olec"
-  accentcity: "\xC3\x93léc"
+  accentcity: "Óléc"
 olecz: 
   city: "olecz"
-  accentcity: "\xC3\x93lécz"
+  accentcity: "Ólécz"
 oluri: 
   city: "oluri"
   accentcity: "Oluri"
@@ -27440,7 +27440,7 @@ omoljica:
   accentcity: "Omoljica"
 omoravicza: 
   city: "omoravicza"
-  accentcity: "\xC3\x93moravicza"
+  accentcity: "Ómoravicza"
 omorovicza: 
   city: "omorovicza"
   accentcity: "Omorovicza"
@@ -27452,10 +27452,10 @@ onice:
   accentcity: "Onice"
 o-palanka: 
   city: "o-palanka"
-  accentcity: "\xC3\x93-Palánka"
+  accentcity: "Ó-Palánka"
 opalanka: 
   city: "opalanka"
-  accentcity: "\xC3\x93palánka"
+  accentcity: "Ópalánka"
 opaljenik: 
   city: "opaljenik"
   accentcity: "Opaljenik"
@@ -27476,10 +27476,10 @@ opave:
   accentcity: "Opave"
 opazova: 
   city: "opazova"
-  accentcity: "\xC3\x93pázova"
+  accentcity: "Ópázova"
 o-petervaradja: 
   city: "o-petervaradja"
-  accentcity: "\xC3\x93-péterváradja"
+  accentcity: "Ó-péterváradja"
 opitra stena: 
   city: "opitra stena"
   accentcity: "Opitra Stena"
@@ -27851,7 +27851,7 @@ osonica:
   accentcity: "Osonica"
 osove: 
   city: "osove"
-  accentcity: "\xC3\x93sóvé"
+  accentcity: "Ósóvé"
 osreci: 
   city: "osreci"
   accentcity: "Osreci"
@@ -27941,10 +27941,10 @@ ostrvo:
   accentcity: "Ostrvo"
 oszivac: 
   city: "oszivac"
-  accentcity: "\xC3\x93szivác"
+  accentcity: "Ószivác"
 oszivacz: 
   city: "oszivacz"
-  accentcity: "\xC3\x93szivácz"
+  accentcity: "Ószivácz"
 otanj: 
   city: "otanj"
   accentcity: "Otanj"
@@ -27986,7 +27986,7 @@ ovcsa:
   accentcity: "Ovcsa"
 overbasz: 
   city: "overbasz"
-  accentcity: "\xC3\x93verbász"
+  accentcity: "Óverbász"
 ovqareve: 
   city: "ovqareve"
   accentcity: "Ovqarevë"
@@ -33305,7 +33305,7 @@ romaje:
   accentcity: "Romajë"
 roman-ecska: 
   city: "roman-ecska"
-  accentcity: "Román-\xC3\x89cska"
+  accentcity: "Román-Écska"
 romanova mahala: 
   city: "romanova mahala"
   accentcity: "Romanova Mahala"
@@ -38408,7 +38408,7 @@ szentborbala:
   accentcity: "Szentborbála"
 szentfulop: 
   city: "szentfulop"
-  accentcity: "Szentf\xC3\xBCl\xC3\xB6p"
+  accentcity: "Szentfül\xC3\xB6p"
 szent-huberth: 
   city: "szent-huberth"
   accentcity: "Szent-Huberth"
@@ -38633,7 +38633,7 @@ tankosiq:
   accentcity: "Tankosiq"
 tannenschutz: 
   city: "tannenschutz"
-  accentcity: "Tannensch\xC3\xBCtz"
+  accentcity: "Tannenschütz"
 tanovici: 
   city: "tanovici"
   accentcity: "Tanovici"
@@ -38972,7 +38972,7 @@ thanez:
   accentcity: "Thanëz"
 theisshugel: 
   city: "theisshugel"
-  accentcity: "Theissh\xC3\xBCgel"
+  accentcity: "Theisshügel"
 theresienring: 
   city: "theresienring"
   accentcity: "Theresienring"
@@ -39965,7 +39965,7 @@ tunaj:
   accentcity: "Tunaj"
 tunderes: 
   city: "tunderes"
-  accentcity: "T\xC3\xBCndéres"
+  accentcity: "Tündéres"
 tunovo: 
   city: "tunovo"
   accentcity: "Tunovo"
@@ -40055,7 +40055,7 @@ turja:
   accentcity: "Turja"
 turkisch-betsche: 
   city: "turkisch-betsche"
-  accentcity: "T\xC3\xBCrkisch-Betsche"
+  accentcity: "Türkisch-Betsche"
 turska kanjiza: 
   city: "turska kanjiza"
   accentcity: "Turska Kanjiza"
@@ -40238,13 +40238,13 @@ uj-becse:
   accentcity: "Uj-Becse"
 ujfalu: 
   city: "ujfalu"
-  accentcity: "\xC3\x9Ajfalu"
+  accentcity: "Újfalu"
 ujfutak: 
   city: "ujfutak"
-  accentcity: "\xC3\x9Ajfutak"
+  accentcity: "Újfutak"
 ujkarloca: 
   city: "ujkarloca"
-  accentcity: "\xC3\x9Ajkarlóca"
+  accentcity: "Újkarlóca"
 ujmira: 
   city: "ujmira"
   accentcity: "Ujmira"
@@ -40259,37 +40259,37 @@ ujnice:
   accentcity: "Ujnice"
 ujozora: 
   city: "ujozora"
-  accentcity: "\xC3\x9Ajozora"
+  accentcity: "Újozora"
 uj-palanka: 
   city: "uj-palanka"
-  accentcity: "\xC3\x9Aj-Palánka"
+  accentcity: "Új-Palánka"
 ujpalanka: 
   city: "ujpalanka"
-  accentcity: "\xC3\x9Ajpalánka"
+  accentcity: "Újpalánka"
 ujpazova: 
   city: "ujpazova"
-  accentcity: "\xC3\x9Ajpázova"
+  accentcity: "Újpázova"
 ujsandorfalva: 
   city: "ujsandorfalva"
-  accentcity: "\xC3\x9Ajsándorfalva"
+  accentcity: "Újsándorfalva"
 ujsove: 
   city: "ujsove"
-  accentcity: "\xC3\x9Ajsóvé"
+  accentcity: "Újsóvé"
 ujszivac: 
   city: "ujszivac"
-  accentcity: "\xC3\x9Ajszivác"
+  accentcity: "Újszivác"
 ujszivacz: 
   city: "ujszivacz"
-  accentcity: "\xC3\x9Ajszivácz"
+  accentcity: "Újszivácz"
 ujverbasz: 
   city: "ujverbasz"
-  accentcity: "\xC3\x9Ajverbász"
+  accentcity: "Újverbász"
 ujvidek: 
   city: "ujvidek"
-  accentcity: "\xC3\x9Ajvidék"
+  accentcity: "Újvidék"
 ujzalankemen: 
   city: "ujzalankemen"
-  accentcity: "\xC3\x9Ajzalánkemén"
+  accentcity: "Újzalánkemén"
 ujze: 
   city: "ujze"
   accentcity: "Ujze"
@@ -40433,7 +40433,7 @@ ursule:
   accentcity: "Ursule"
 urszentivan: 
   city: "urszentivan"
-  accentcity: "\xC3\x9Arszentiván"
+  accentcity: "Úrszentiván"
 urvic: 
   city: "urvic"
   accentcity: "Urvic"
@@ -44345,7 +44345,7 @@ zulfaj:
   accentcity: "Zulfaj"
 zumi: 
   city: "zumi"
-  accentcity: "Z\xC3\xBCmi"
+  accentcity: "Zümi"
 zune: 
   city: "zune"
   accentcity: "Zune"

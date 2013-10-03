@@ -1016,7 +1016,7 @@ as sidrah:
   accentcity: "As Sidrah"
 as snudi: 
   city: "as snudi"
-  accentcity: "As Sn\xC3\xB9di"
+  accentcity: "As Snùdi"
 as subaytat: 
   city: "as subaytat"
   accentcity: "As Subaytat"
@@ -1625,7 +1625,7 @@ bu gren:
   accentcity: "Bu Gren"
 bu isa: 
   city: "bu isa"
-  accentcity: "Bu \xC3\x8Dsa"
+  accentcity: "Bu Ísa"
 bu jabalayn: 
   city: "bu jabalayn"
   accentcity: "Bu Jabalayn"
@@ -1685,7 +1685,7 @@ cabao:
   accentcity: "Cabao"
 caf el-gebeihia: 
   city: "caf el-gebeihia"
-  accentcity: "Caf el-Gebeih\xC3\xACa"
+  accentcity: "Caf el-Gebeihìa"
 caf meias: 
   city: "caf meias"
   accentcity: "Caf Meias"
@@ -1784,7 +1784,7 @@ dar al kish:
   accentcity: "Dar al Kish"
 dar el-kish: 
   city: "dar el-kish"
-  accentcity: "Dar el-K\xC3\xACsh"
+  accentcity: "Dar el-Kìsh"
 darnah: 
   city: "darnah"
   accentcity: "Darnah"
@@ -1868,7 +1868,7 @@ ed-dachla:
   accentcity: "Ed-Dachla"
 ed diasir: 
   city: "ed diasir"
-  accentcity: "Ed Dias\xC3\xACr"
+  accentcity: "Ed Diasìr"
 ed-dtasir: 
   city: "ed-dtasir"
   accentcity: "Ed-Dtasir"
@@ -1925,7 +1925,7 @@ el ajelat:
   accentcity: "El Ajelat"
 el-amian: 
   city: "el-amian"
-  accentcity: "El-Am\xC3\xACan"
+  accentcity: "El-Amìan"
 el-asabaa: 
   city: "el-asabaa"
   accentcity: "El-Asábaa"
@@ -1940,7 +1940,7 @@ el asuagh:
   accentcity: "El Asuágh"
 el atrun: 
   city: "el atrun"
-  accentcity: "El Atr\xC3\xB9n"
+  accentcity: "El Atrùn"
 el-auenat: 
   city: "el-auenat"
   accentcity: "El-Auénat"
@@ -2021,7 +2021,7 @@ el-fager:
   accentcity: "El-Fàger"
 el-faidia: 
   city: "el-faidia"
-  accentcity: "El-Faid\xC3\xACa"
+  accentcity: "El-Faidìa"
 el faldia: 
   city: "el faldia"
   accentcity: "El Faldia"
@@ -2072,7 +2072,7 @@ el-gehesc:
   accentcity: "El-Gehésc"
 el-gemil: 
   city: "el-gemil"
-  accentcity: "El-Gem\xC3\xACl"
+  accentcity: "El-Gemìl"
 el ghadenia: 
   city: "el ghadenia"
   accentcity: "El Ghadenia"
@@ -2126,7 +2126,7 @@ el-glil:
   accentcity: "El-Glil"
 el-goradiin: 
   city: "el-goradiin"
-  accentcity: "El-Goradi\xC3\xACn"
+  accentcity: "El-Goradiìn"
 el-goradun: 
   city: "el-goradun"
   accentcity: "El-Goradun"
@@ -2201,16 +2201,16 @@ el-iaaghub:
   accentcity: "El-Iaaghub"
 el-iagghib: 
   city: "el-iagghib"
-  accentcity: "El-Iaggh\xC3\xACb"
+  accentcity: "El-Iagghìb"
 el-lamamisc: 
   city: "el-lamamisc"
-  accentcity: "El-Lamam\xC3\xACsc"
+  accentcity: "El-Lamamìsc"
 el-lebba: 
   city: "el-lebba"
   accentcity: "El-Lebba"
 el-maamura: 
   city: "el-maamura"
-  accentcity: "El-Maam\xC3\xB9ra"
+  accentcity: "El-Maamùra"
 el-maaniin: 
   city: "el-maaniin"
   accentcity: "El-Maaniin"
@@ -2240,7 +2240,7 @@ el-mebni:
   accentcity: "El-Mébni"
 el-mechili: 
   city: "el-mechili"
-  accentcity: "El-Mech\xC3\xACli"
+  accentcity: "El-Mechìli"
 el-melachi: 
   city: "el-melachi"
   accentcity: "El-Meláchi"
@@ -2252,13 +2252,13 @@ el merj:
   accentcity: "El Merj"
 el-miamin: 
   city: "el-miamin"
-  accentcity: "El-Miam\xC3\xACn"
+  accentcity: "El-Miamìn"
 el-msufiin: 
   city: "el-msufiin"
   accentcity: "El-Msufiín"
 el-msufun: 
   city: "el-msufun"
-  accentcity: "El-Msuf\xC3\xB9n"
+  accentcity: "El-Msufùn"
 el-mugarba: 
   city: "el-mugarba"
   accentcity: "El-Mugarba"
@@ -2330,7 +2330,7 @@ er-rumia:
   accentcity: "Er-Rumía"
 escchida: 
   city: "esc'chida"
-  accentcity: "\xC3\x89sc'chida"
+  accentcity: "Ésc'chida"
 esc-scech bu agela: 
   city: "esc-scech bu agela"
   accentcity: "Esc-Scech Bu Agéla"
@@ -2345,7 +2345,7 @@ esc-sciaafiin:
   accentcity: "Esc-Sciaafiín"
 esc-sciaafun: 
   city: "esc-sciaafun"
-  accentcity: "Esc-Sciaaf\xC3\xB9n"
+  accentcity: "Esc-Sciaafùn"
 esc-sciaatan: 
   city: "esc-sciaatan"
   accentcity: "Esc-Sciaatan"
@@ -2384,7 +2384,7 @@ es-sciaada:
   accentcity: "Es-Sciaàda"
 es-seghir: 
   city: "es-seghir"
-  accentcity: "Es-Segh\xC3\xACr"
+  accentcity: "Es-Seghìr"
 es-slahat: 
   city: "es-slahat"
   accentcity: "Es-Slahát"
@@ -2393,13 +2393,13 @@ es-slamat:
   accentcity: "Es-Slamát"
 es-snudi: 
   city: "es-snudi"
-  accentcity: "Es-Sn\xC3\xB9di"
+  accentcity: "Es-Snùdi"
 es stamat: 
   city: "es stamat"
   accentcity: "Es Stamat"
 es-suaadia: 
   city: "es-suaadia"
-  accentcity: "Es-Suaad\xC3\xACa"
+  accentcity: "Es-Suaadìa"
 es-suadia: 
   city: "es-suadia"
   accentcity: "Es-Suadía"
@@ -2615,7 +2615,7 @@ gasr el-fugani:
   accentcity: "Gasr el-Fugáni"
 gasr el-garabulli: 
   city: "gasr el-garabulli"
-  accentcity: "Gasr el-Garab\xC3\xB9lli"
+  accentcity: "Gasr el-Garabùlli"
 gasr el gharabulli: 
   city: "gasr el gharabulli"
   accentcity: "Gasr el Gharabulli"
@@ -2732,7 +2732,7 @@ ghebbaa:
   accentcity: "Ghebbáa"
 gheddahia: 
   city: "gheddahia"
-  accentcity: "Gheddah\xC3\xACa"
+  accentcity: "Gheddahìa"
 ghegam: 
   city: "ghegam"
   accentcity: "Ghegám"
@@ -2954,7 +2954,7 @@ ikrimah:
   accentcity: "`Ikrimah"
 imumen: 
   city: "imumen"
-  accentcity: "Im\xC3\xB9men"
+  accentcity: "Imùmen"
 iner: 
   city: "iner"
   accentcity: "Iner"
@@ -3305,7 +3305,7 @@ marsa susah:
   accentcity: "Marsa Susah"
 marsa susa: 
   city: "marsa susa"
-  accentcity: "Màrsa S\xC3\xB9sa"
+  accentcity: "Màrsa Sùsa"
 marsa uasili: 
   city: "marsa uasili"
   accentcity: "Marsa Uasili"
@@ -3503,7 +3503,7 @@ nadbas:
   accentcity: "Nadbas"
 nagur: 
   city: "nagur"
-  accentcity: "Nag\xC3\xB9r"
+  accentcity: "Nagùr"
 naimah: 
   city: "na`imah"
   accentcity: "Na`imah"
@@ -4727,7 +4727,7 @@ sedada:
   accentcity: "Sedada"
 sedrures: 
   city: "sedrures"
-  accentcity: "Sedr\xC3\xB9res"
+  accentcity: "Sedrùres"
 selma: 
   city: "selma"
   accentcity: "Sélma"
@@ -4817,10 +4817,10 @@ sidi khalifah:
   accentcity: "Sidi Khalifah"
 sidi maammer: 
   city: "sidi maammer"
-  accentcity: "S\xC3\xACdi Maàmmer"
+  accentcity: "Sìdi Maàmmer"
 sidi magrun: 
   city: "sidi magrun"
-  accentcity: "Sidi Magr\xC3\xB9n"
+  accentcity: "Sidi Magrùn"
 sidi mahius: 
   city: "sidi mahius"
   accentcity: "Sídi Mahiús"
@@ -4832,7 +4832,7 @@ sidi muammar:
   accentcity: "Sidi Mu`ammar"
 sighin: 
   city: "sighin"
-  accentcity: "Sigh\xC3\xACn"
+  accentcity: "Sighìn"
 sikin: 
   city: "sikin"
   accentcity: "Sikin"
@@ -4880,7 +4880,7 @@ soluch:
   accentcity: "Soluch"
 solugh: 
   city: "solugh"
-  accentcity: "Sol\xC3\xB9gh"
+  accentcity: "Solùgh"
 sorman: 
   city: "sorman"
   accentcity: "Sormán"
@@ -5141,7 +5141,7 @@ tasawah:
   accentcity: "Tasawah"
 taschin: 
   city: "taschin"
-  accentcity: "Tasch\xC3\xACn"
+  accentcity: "Taschìn"
 taukra: 
   city: "taukra"
   accentcity: "Taukra"
@@ -5186,7 +5186,7 @@ teggrutia:
   accentcity: "Teggrutia"
 teggrutin: 
   city: "teggrutin"
-  accentcity: "Teggrut\xC3\xACn"
+  accentcity: "Teggrutìn"
 tegrinna: 
   city: "tegrinna"
   accentcity: "Tegrínna"
@@ -5291,7 +5291,7 @@ tmezda:
   accentcity: "Tmézda"
 tmimi: 
   city: "tmimi"
-  accentcity: "Tm\xC3\xACmi"
+  accentcity: "Tmìmi"
 tmisan: 
   city: "tmisan"
   accentcity: "Tmisan"
@@ -5303,7 +5303,7 @@ tmissan:
   accentcity: "Tmissan"
 tobga: 
   city: "tobga"
-  accentcity: "T\xC3\xB2bga"
+  accentcity: "Tòbga"
 tobruch: 
   city: "tobruch"
   accentcity: "Tóbruch"
@@ -5465,7 +5465,7 @@ ulad glali:
   accentcity: "Ulàd Glàli"
 ulad isa: 
   city: "ulad isa"
-  accentcity: "Ulád \xC3\x8Dsa"
+  accentcity: "Ulád Ísa"
 ulad iusef: 
   city: "ulad iusef"
   accentcity: "Ulàd Iúsef"
@@ -5474,7 +5474,7 @@ ulad mahmud:
   accentcity: "Ulád Mahmúd"
 ulad masaud: 
   city: "ulad masaud"
-  accentcity: "Ulàd Masa\xC3\xB9d"
+  accentcity: "Ulàd Masaùd"
 ulad rian: 
   city: "ulad rian"
   accentcity: "Ulad Riàn"
@@ -5666,7 +5666,7 @@ zauia el beda:
   accentcity: "Zauia el Beda"
 zauia el-faidia: 
   city: "zauia el-faidia"
-  accentcity: "Zàuia el-Faid\xC3\xACa"
+  accentcity: "Zàuia el-Faidìa"
 zauia el mrassas: 
   city: "zauia el mrassas"
   accentcity: "Zauia el Mrassas"
@@ -5702,7 +5702,7 @@ zauiet el mahgiub:
   accentcity: "Zauiet el Mahgiub"
 zauiet el-marazigh: 
   city: "zauiet el-marazigh"
-  accentcity: "Zàuiet el-Maraz\xC3\xACgh"
+  accentcity: "Zàuiet el-Marazìgh"
 zauiet el mrassas: 
   city: "zauiet el mrassas"
   accentcity: "Zauiet el Mrassas"

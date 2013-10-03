@@ -95,7 +95,7 @@ acbasi:
   accentcity: "Acbasi"
 ac cadan: 
   city: "ac cadan"
-  accentcity: "Ac Cad\xC3\xA2n"
+  accentcity: "Ac Cadân"
 ac-cadin: 
   city: "ac-cadin"
   accentcity: "Ac-Cad\xC3\xAEn"
@@ -131,7 +131,7 @@ acrisu:
   accentcity: "Acrisu"
 acsfalva: 
   city: "acsfalva"
-  accentcity: "\xC3\x81csfalva"
+  accentcity: "Ácsfalva"
 acsova: 
   city: "acsova"
   accentcity: "Acsova"
@@ -143,7 +143,7 @@ acsuva:
   accentcity: "Acsuva"
 acsva: 
   city: "acsva"
-  accentcity: "\xC3\x81csva"
+  accentcity: "Ácsva"
 adakale: 
   city: "adakale"
   accentcity: "Adakale"
@@ -176,13 +176,13 @@ adamus:
   accentcity: "Adamus"
 adanca: 
   city: "adanca"
-  accentcity: "Ad\xC3\xA2nca"
+  accentcity: "Adânca"
 adancata: 
   city: "adancata"
-  accentcity: "Ad\xC3\xA2ncata"
+  accentcity: "Adâncata"
 adanoata: 
   city: "adanoata"
-  accentcity: "Ad\xC3\xA2noata"
+  accentcity: "Adânoata"
 adaseni: 
   city: "adaseni"
   accentcity: "Adaseni"
@@ -266,7 +266,7 @@ adunatii teiului:
   accentcity: "Adunatii Teiului"
 afanata: 
   city: "afanata"
-  accentcity: "Af\xC3\xA2nata"
+  accentcity: "Afânata"
 afinata: 
   city: "afinata"
   accentcity: "Af\xC3\xAEnata"
@@ -293,13 +293,13 @@ agapieni:
   accentcity: "Agapieni"
 agarbiciu: 
   city: "agarbiciu"
-  accentcity: "Ag\xC3\xA2rbiciu"
+  accentcity: "Agârbiciu"
 agarbiciul: 
   city: "agarbiciul"
-  accentcity: "Ag\xC3\xA2rbiciul"
+  accentcity: "Agârbiciul"
 agarcia: 
   city: "agarcia"
-  accentcity: "Ag\xC3\xA2rcia"
+  accentcity: "Agârcia"
 agard: 
   city: "agard"
   accentcity: "Agàrd"
@@ -608,7 +608,7 @@ aldamasul:
   accentcity: "Aldamasul"
 aldasos: 
   city: "aldasos"
-  accentcity: "\xC3\x81ldásos"
+  accentcity: "Áldásos"
 aldea: 
   city: "aldea"
   accentcity: "Aldea"
@@ -623,7 +623,7 @@ aldoboly:
   accentcity: "Aldoboly"
 aldofalva: 
   city: "aldofalva"
-  accentcity: "\xC3\x81ldófalva"
+  accentcity: "Áldófalva"
 aldorf: 
   city: "aldorf"
   accentcity: "Aldorf"
@@ -701,13 +701,13 @@ alexieni:
   accentcity: "Alexieni"
 alfalu: 
   city: "alfalu"
-  accentcity: "Alfal\xC3\xB9"
+  accentcity: "Alfalù"
 algya: 
   city: "algya"
   accentcity: "Algya"
 algyest: 
   city: "algyest"
-  accentcity: "\xC3\x81lgyest"
+  accentcity: "Álgyest"
 alibei-ceair: 
   city: "alibei-ceair"
   accentcity: "Alibei-Ceair"
@@ -854,13 +854,13 @@ alsobencsek:
   accentcity: "Alsóbencsek"
 alsoboldogfalva: 
   city: "alsoboldogfalva"
-  accentcity: "Als\xC3\xB2b\xC3\xB2ldogfalva"
+  accentcity: "Alsòbòldogfalva"
 alsobolkeny: 
   city: "alsobolkeny"
-  accentcity: "Als\xC3\xB2b\xC3\xB6lkèny"
+  accentcity: "Alsòb\xC3\xB6lkèny"
 alsocsernaton: 
   city: "alsocsernaton"
-  accentcity: "Als\xC3\xB2csernàton"
+  accentcity: "Alsòcsernàton"
 also-csil: 
   city: "also-csil"
   accentcity: "Alsó-Csil"
@@ -872,19 +872,19 @@ alsofeketevolgy:
   accentcity: "Alsófeketev\xC3\xB6lgy"
 alsofuves: 
   city: "alsofuves"
-  accentcity: "Alsóf\xC3\xBCves"
+  accentcity: "Alsófüves"
 alsohomorod: 
   city: "alsohomorod"
   accentcity: "Alsóhomoród"
 alsoidecs: 
   city: "alsoidecs"
-  accentcity: "Als\xC3\xB2idecs"
+  accentcity: "Alsòidecs"
 alsokimpany: 
   city: "alsokimpany"
   accentcity: "Alsókimpány"
 alsokoher: 
   city: "alsokoher"
-  accentcity: "Als\xC3\xB2k\xC3\xB6hèr"
+  accentcity: "Alsòk\xC3\xB6hèr"
 also koroknya: 
   city: "also koroknya"
   accentcity: "Alsó Koroknya"
@@ -905,10 +905,10 @@ alsopojeny:
   accentcity: "Alsópojény"
 alsorepa: 
   city: "alsorepa"
-  accentcity: "Als\xC3\xB2rèpa"
+  accentcity: "Alsòrèpa"
 alsosofalva: 
   city: "alsosofalva"
-  accentcity: "Als\xC3\xB2s\xC3\xB2falva"
+  accentcity: "Alsòsòfalva"
 alsoszakacs: 
   city: "alsoszakacs"
   accentcity: "Alsószakács"
@@ -926,7 +926,7 @@ alsoverzar:
   accentcity: "Alsóverzár"
 alsovroszi: 
   city: "alsovroszi"
-  accentcity: "Als\xC3\xB2vroszi"
+  accentcity: "Alsòvroszi"
 alsozorlenc: 
   city: "alsozorlenc"
   accentcity: "Alsózorlenc"
@@ -935,7 +935,7 @@ alszeg:
   accentcity: "Alszeg"
 altan-tepe: 
   city: "altan-tepe"
-  accentcity: "Alt\xC3\xA2n-Tepe"
+  accentcity: "Altân-Tepe"
 altarad: 
   city: "altarad"
   accentcity: "Altarad"
@@ -1214,7 +1214,7 @@ antaloc:
   accentcity: "Antaloc"
 antalok-pataka: 
   city: "antalok-pataka"
-  accentcity: "Antal\xC3\xB2k-Pataka"
+  accentcity: "Antalòk-Pataka"
 ant: 
   city: "ant"
   accentcity: "Ant"
@@ -1439,7 +1439,7 @@ arcio:
   accentcity: "Arcio"
 arcso: 
   city: "arcso"
-  accentcity: "Arcs\xC3\xB2"
+  accentcity: "Arcsò"
 arcuda: 
   city: "arcuda"
   accentcity: "Arcuda"
@@ -1658,13 +1658,13 @@ arjoci:
   accentcity: "Arjoci"
 arkis: 
   city: "arkis"
-  accentcity: "\xC3\x81rkis"
+  accentcity: "Árkis"
 arkos: 
   city: "arkos"
   accentcity: "Arkos"
 arkus: 
   city: "arkus"
-  accentcity: "\xC3\x81rkus"
+  accentcity: "Árkus"
 armadia: 
   city: "armadia"
   accentcity: "Armadia"
@@ -1832,7 +1832,7 @@ asan:
   accentcity: "Asan"
 asarlacul: 
   city: "asarlacul"
-  accentcity: "Asarl\xC3\xA2cul"
+  accentcity: "Asarlâcul"
 asarlic: 
   city: "asarlic"
   accentcity: "Asarl\xC3\xAEc"
@@ -1880,7 +1880,7 @@ aspra:
   accentcity: "Aspra"
 asszodpatak: 
   city: "asszodpatak"
-  accentcity: "Assz\xC3\xB2dpatak"
+  accentcity: "Asszòdpatak"
 astilau: 
   city: "astilau"
   accentcity: "Astilau"
@@ -2006,7 +2006,7 @@ auseu:
   accentcity: "Auseu"
 avantul: 
   city: "avantul"
-  accentcity: "Av\xC3\xA2ntul"
+  accentcity: "Avântul"
 averesti: 
   city: "averesti"
   accentcity: "Averesti"
@@ -2294,10 +2294,10 @@ bacstelek:
   accentcity: "Bácstelek"
 bacu: 
   city: "bacu"
-  accentcity: "B\xC3\xA2cu"
+  accentcity: "Bâcu"
 bacul: 
   city: "bacul"
-  accentcity: "B\xC3\xA2cul"
+  accentcity: "Bâcul"
 baczkamadaras: 
   city: "baczkamadaras"
   accentcity: "Baczkamadaras"
@@ -2492,7 +2492,7 @@ bahnisoara:
   accentcity: "Bahnisoara"
 bahnita-gunoaia: 
   city: "bahnita-gunoaia"
-  accentcity: "B\xC3\xA2hnita-Gunoaia"
+  accentcity: "Bâhnita-Gunoaia"
 baia: 
   city: "baia"
   accentcity: "Baia"
@@ -2690,7 +2690,7 @@ baile rodbav:
   accentcity: "Baile Rodbav"
 baile sfanta cruce: 
   city: "baile sfanta cruce"
-  accentcity: "Baile Sf\xC3\xA2nta Cruce"
+  accentcity: "Baile Sfânta Cruce"
 baile sintimbru: 
   city: "baile sintimbru"
   accentcity: "Baile Sintimbru"
@@ -2999,7 +2999,7 @@ balazsfalva:
   accentcity: "Balázsfalva"
 balca: 
   city: "balca"
-  accentcity: "B\xC3\xA2lca"
+  accentcity: "Bâlca"
 balcaciu: 
   city: "balcaciu"
   accentcity: "Balcaciu"
@@ -3161,7 +3161,7 @@ balomiru de cimp:
   accentcity: "Balomiru de C\xC3\xAEmp"
 balomirul-de-camp: 
   city: "balomirul-de-camp"
-  accentcity: "Balomirul-de-C\xC3\xA2mp"
+  accentcity: "Balomirul-de-Câmp"
 balosani: 
   city: "balosani"
   accentcity: "Balosani"
@@ -3233,7 +3233,7 @@ balta neagra:
   accentcity: "Balta Neagra"
 baltanele: 
   city: "baltanele"
-  accentcity: "B\xC3\xA2ltanele"
+  accentcity: "Bâltanele"
 balta oii: 
   city: "balta oii"
   accentcity: "Balta Oii"
@@ -3542,7 +3542,7 @@ barabant:
   accentcity: "Barabant"
 bara: 
   city: "bara"
-  accentcity: "B\xC3\xA2ra"
+  accentcity: "Bâra"
 baraceni: 
   city: "baraceni"
   accentcity: "Baraceni"
@@ -3623,7 +3623,7 @@ baraot:
   accentcity: "Baraót"
 bara-sat: 
   city: "bara-sat"
-  accentcity: "B\xC3\xA2ra-Sat"
+  accentcity: "Bâra-Sat"
 barasti: 
   city: "barasti"
   accentcity: "Barasti"
@@ -3650,7 +3650,7 @@ barastii iliei:
   accentcity: "Barastii Iliei"
 bara-targ: 
   city: "bara-targ"
-  accentcity: "B\xC3\xA2ra-T\xC3\xA2rg"
+  accentcity: "Bâra-Târg"
 baratca: 
   city: "baratca"
   accentcity: "Baratca"
@@ -3776,10 +3776,10 @@ barbusa:
   accentcity: "Barbusa"
 barca: 
   city: "barca"
-  accentcity: "B\xC3\xA2rca"
+  accentcity: "Bârca"
 barcacii: 
   city: "barcacii"
-  accentcity: "B\xC3\xA2rcacii"
+  accentcity: "Bârcacii"
 barcana: 
   city: "barcana"
   accentcity: "Barcana"
@@ -3803,7 +3803,7 @@ barcea:
   accentcity: "Barcea"
 barcea-mare: 
   city: "barcea-mare"
-  accentcity: "B\xC3\xA2rcea-Mare"
+  accentcity: "Bârcea-Mare"
 barcea-mica: 
   city: "barcea-mica"
   accentcity: "Barcea-Mica"
@@ -3821,19 +3821,19 @@ barcsa:
   accentcity: "Barcsa"
 barcu: 
   city: "barcu"
-  accentcity: "B\xC3\xA2rcu"
+  accentcity: "Bârcu"
 barcu-gosmani: 
   city: "barcu-gosmani"
   accentcity: "Barcu-Gosmani"
 barcul: 
   city: "barcul"
-  accentcity: "B\xC3\xA2rcul"
+  accentcity: "Bârcul"
 barcut: 
   city: "barcut"
   accentcity: "Barcut"
 barda: 
   city: "barda"
-  accentcity: "B\xC3\xA2rda"
+  accentcity: "Bârda"
 bardesti: 
   city: "bardesti"
   accentcity: "Bardesti"
@@ -3845,7 +3845,7 @@ bardos:
   accentcity: "Bàrdos"
 bareesti: 
   city: "bareesti"
-  accentcity: "B\xC3\xA2reesti"
+  accentcity: "Bâreesti"
 baresti: 
   city: "baresti"
   accentcity: "Baresti"
@@ -3878,19 +3878,19 @@ baricza:
   accentcity: "Baricza"
 bariera valcei: 
   city: "bariera valcei"
-  accentcity: "Bariera V\xC3\xA2lcei"
+  accentcity: "Bariera Vâlcei"
 bariera vilcii: 
   city: "bariera vilcii"
   accentcity: "Bariera V\xC3\xAElcii"
 barii: 
   city: "barii"
-  accentcity: "B\xC3\xA2rii"
+  accentcity: "Bârii"
 barjoveni: 
   city: "barjoveni"
-  accentcity: "B\xC3\xA2rjoveni"
+  accentcity: "Bârjoveni"
 barjoveni lipoveni: 
   city: "barjoveni lipoveni"
-  accentcity: "B\xC3\xA2rjoveni Lipoveni"
+  accentcity: "Bârjoveni Lipoveni"
 barkani: 
   city: "barkani"
   accentcity: "Barkani"
@@ -3899,13 +3899,13 @@ barla:
   accentcity: "Barla"
 barlad: 
   city: "barlad"
-  accentcity: "B\xC3\xA2rlad"
+  accentcity: "Bârlad"
 barlalesti: 
   city: "barlalesti"
   accentcity: "Barlalesti"
 barlea: 
   city: "barlea"
-  accentcity: "B\xC3\xA2rlea"
+  accentcity: "Bârlea"
 barlesti: 
   city: "barlesti"
   accentcity: "Barlesti"
@@ -3923,13 +3923,13 @@ barlibasoaia:
   accentcity: "Barlibasoaia"
 barlogeni: 
   city: "barlogeni"
-  accentcity: "B\xC3\xA2rlogeni"
+  accentcity: "Bârlogeni"
 barlogu: 
   city: "barlogu"
-  accentcity: "B\xC3\xA2rlogu"
+  accentcity: "Bârlogu"
 barlogul: 
   city: "barlogul"
-  accentcity: "B\xC3\xA2rlogul"
+  accentcity: "Bârlogul"
 barloiul: 
   city: "barloiul"
   accentcity: "Barloiul"
@@ -3938,10 +3938,10 @@ barmonestii:
   accentcity: "Barmonestii"
 barna: 
   city: "barna"
-  accentcity: "B\xC3\xA2rna"
+  accentcity: "Bârna"
 barnova: 
   city: "barnova"
-  accentcity: "B\xC3\xA2rnova"
+  accentcity: "Bârnova"
 baroianu: 
   city: "baroianu"
   accentcity: "Baroianu"
@@ -3959,16 +3959,16 @@ barot:
   accentcity: "Barót"
 barsa: 
   city: "barsa"
-  accentcity: "B\xC3\xA2rsa"
+  accentcity: "Bârsa"
 barsana: 
   city: "barsana"
-  accentcity: "B\xC3\xA2rsana"
+  accentcity: "Bârsana"
 barsanesti: 
   city: "barsanesti"
   accentcity: "Barsanesti"
 barsanul: 
   city: "barsanul"
-  accentcity: "B\xC3\xA2rsanul"
+  accentcity: "Bârsanul"
 barsau: 
   city: "barsau"
   accentcity: "Barsau"
@@ -4007,13 +4007,13 @@ barsestii-de sus:
   accentcity: "Barsestii-de Sus"
 barseu: 
   city: "barseu"
-  accentcity: "B\xC3\xA2rseu"
+  accentcity: "Bârseu"
 barseul: 
   city: "barseul"
-  accentcity: "B\xC3\xA2rseul"
+  accentcity: "Bârseul"
 barsoiul: 
   city: "barsoiul"
-  accentcity: "B\xC3\xA2rsoiul"
+  accentcity: "Bârsoiul"
 bartalusi: 
   city: "bartalusi"
   accentcity: "Bartalusi"
@@ -4070,31 +4070,31 @@ barzafalva:
   accentcity: "Barzafalva"
 barzani: 
   city: "barzani"
-  accentcity: "B\xC3\xA2rzani"
+  accentcity: "Bârzani"
 barzasti: 
   city: "barzasti"
   accentcity: "Barzasti"
 barzava: 
   city: "barzava"
-  accentcity: "B\xC3\xA2rzava"
+  accentcity: "Bârzava"
 barz: 
   city: "barz"
-  accentcity: "B\xC3\xA2rz"
+  accentcity: "Bârz"
 barzeiu: 
   city: "barzeiu"
-  accentcity: "B\xC3\xA2rzeiu"
+  accentcity: "Bârzeiu"
 barzeiu-de-padurre: 
   city: "barzeiu-de-padurre"
   accentcity: "Barzeiu-de-Padurre"
 barzeiul de gilort: 
   city: "barzeiul de gilort"
-  accentcity: "B\xC3\xA2rzeiul de Gilort"
+  accentcity: "Bârzeiul de Gilort"
 barzeiul de padurre: 
   city: "barzeiul de padurre"
   accentcity: "Barzeiul de Padurre"
 barzescu: 
   city: "barzescu"
-  accentcity: "B\xC3\xA2rzescu"
+  accentcity: "Bârzescu"
 barzesd: 
   city: "barzesd"
   accentcity: "Barzesd"
@@ -4106,10 +4106,10 @@ barzesti:
   accentcity: "Barzesti"
 barzila: 
   city: "barzila"
-  accentcity: "B\xC3\xA2rzila"
+  accentcity: "Bârzila"
 barzoteni: 
   city: "barzoteni"
-  accentcity: "B\xC3\xA2rzoteni"
+  accentcity: "Bârzoteni"
 barzuica: 
   city: "barzuica"
   accentcity: "Barzuica"
@@ -4139,22 +4139,22 @@ bas-bunar:
   accentcity: "Bas-Bunar"
 basca: 
   city: "basca"
-  accentcity: "B\xC3\xA2sca"
+  accentcity: "Bâsca"
 basca colti: 
   city: "basca colti"
   accentcity: "Basca Colti"
 basca-roziliei: 
   city: "basca-roziliei"
-  accentcity: "B\xC3\xA2sca-Roziliei"
+  accentcity: "Bâsca-Roziliei"
 basca rozilii: 
   city: "basca rozilii"
-  accentcity: "B\xC3\xA2sca Rozilii"
+  accentcity: "Bâsca Rozilii"
 basceni: 
   city: "basceni"
   accentcity: "Basceni"
 bascenii de jos: 
   city: "bascenii de jos"
-  accentcity: "B\xC3\xA2scenii de Jos"
+  accentcity: "Bâscenii de Jos"
 bascenii de sus: 
   city: "bascenii de sus"
   accentcity: "Bascenii de Sus"
@@ -4175,10 +4175,10 @@ bascovelu:
   accentcity: "Bascovelu"
 bascoveni: 
   city: "bascoveni"
-  accentcity: "B\xC3\xA2scoveni"
+  accentcity: "Bâscoveni"
 bascovu: 
   city: "bascovu"
-  accentcity: "B\xC3\xA2scovu"
+  accentcity: "Bâscovu"
 baseni: 
   city: "baseni"
   accentcity: "Baseni"
@@ -4241,7 +4241,7 @@ batasani:
   accentcity: "Batasani"
 batcari: 
   city: "batcari"
-  accentcity: "B\xC3\xA2tcari"
+  accentcity: "Bâtcari"
 batereni: 
   city: "batereni"
   accentcity: "Batereni"
@@ -4349,7 +4349,7 @@ bazarghian:
   accentcity: "Bazarghian"
 bazava: 
   city: "bazava"
-  accentcity: "B\xC3\xA2zava"
+  accentcity: "Bâzava"
 bazavani: 
   city: "bazavani"
   accentcity: "Bazavani"
@@ -4385,7 +4385,7 @@ bazna:
   accentcity: "Bazna"
 baznoasa: 
   city: "baznoasa"
-  accentcity: "B\xC3\xA2znoasa"
+  accentcity: "Bâznoasa"
 bazos: 
   city: "bazos"
   accentcity: "Bazos"
@@ -4634,7 +4634,7 @@ belarkos:
   accentcity: "Bélárkos"
 belbor: 
   city: "belbor"
-  accentcity: "Bèlb\xC3\xB2r"
+  accentcity: "Bèlbòr"
 belcea: 
   city: "belcea"
   accentcity: "Belcea"
@@ -6245,7 +6245,7 @@ blanoiul:
   accentcity: "Blanoiul"
 blanzi: 
   city: "blanzi"
-  accentcity: "Bl\xC3\xA2nzi"
+  accentcity: "Blânzi"
 blasendorf: 
   city: "blasendorf"
   accentcity: "Blasendorf"
@@ -6377,7 +6377,7 @@ bobaita:
   accentcity: "Bobaita"
 bobalna: 
   city: "bobalna"
-  accentcity: "Bob\xC3\xA2lna"
+  accentcity: "Bobâlna"
 bobaresti: 
   city: "bobaresti"
   accentcity: "Bobaresti"
@@ -6593,7 +6593,7 @@ bodinesti:
   accentcity: "Bodinesti"
 bodinu-sfantul gheorghe: 
   city: "bodinu-sfantul gheorghe"
-  accentcity: "Bodinu-Sf\xC3\xA2ntul Gheorghe"
+  accentcity: "Bodinu-Sfântul Gheorghe"
 bodnareni: 
   city: "bodnareni"
   accentcity: "Bodnareni"
@@ -6674,10 +6674,10 @@ bogati:
   accentcity: "Bogati"
 bogatul-roman: 
   city: "bogatul-roman"
-  accentcity: "Bogatul-Rom\xC3\xA2n"
+  accentcity: "Bogatul-Român"
 bogatu roman: 
   city: "bogatu roman"
-  accentcity: "Bogatu Rom\xC3\xA2n"
+  accentcity: "Bogatu Român"
 bogatu-romin: 
   city: "bogatu-romin"
   accentcity: "Bogatu-Rom\xC3\xAEn"
@@ -7421,7 +7421,7 @@ borosesti:
   accentcity: "Borosesti"
 borosestii-targ: 
   city: "borosestii-targ"
-  accentcity: "Borosestii-T\xC3\xA2rg"
+  accentcity: "Borosestii-Târg"
 borosesti-sat: 
   city: "borosesti-sat"
   accentcity: "Borosesti-Sat"
@@ -8048,10 +8048,10 @@ bragareasa:
   accentcity: "Bragareasa"
 bragleasa: 
   city: "bragleasa"
-  accentcity: "Br\xC3\xA2gleasa"
+  accentcity: "Brâgleasa"
 braglez: 
   city: "braglez"
-  accentcity: "Br\xC3\xA2glez"
+  accentcity: "Brâglez"
 bragyet: 
   city: "bragyet"
   accentcity: "Bragyet"
@@ -8105,13 +8105,13 @@ branceni:
   accentcity: "Branceni"
 brancoveanu: 
   city: "brancoveanu"
-  accentcity: "Br\xC3\xA2ncoveanu"
+  accentcity: "Brâncoveanu"
 brancovenesti: 
   city: "brancovenesti"
   accentcity: "Brancovenesti"
 brancoveni: 
   city: "brancoveni"
-  accentcity: "Br\xC3\xA2ncoveni"
+  accentcity: "Brâncoveni"
 branesti: 
   city: "branesti"
   accentcity: "Branesti"
@@ -8390,7 +8390,7 @@ brazii de sus:
   accentcity: "Brazii de Sus"
 braznic: 
   city: "braznic"
-  accentcity: "Br\xC3\xA2znic"
+  accentcity: "Brâznic"
 brazov: 
   city: "brazov"
   accentcity: "Brazov"
@@ -8429,19 +8429,19 @@ brebeni:
   accentcity: "Brebeni"
 brebenii-romani: 
   city: "brebenii-romani"
-  accentcity: "Brebenii-Rom\xC3\xA2ni"
+  accentcity: "Brebenii-Români"
 brebenii-sarbi: 
   city: "brebenii-sarbi"
-  accentcity: "Brebenii-S\xC3\xA2rbi"
+  accentcity: "Brebenii-Sârbi"
 brebeni-romini: 
   city: "brebeni-romini"
   accentcity: "Brebeni-Rom\xC3\xAEni"
 brebeni-sarbi: 
   city: "brebeni-sarbi"
-  accentcity: "Brebeni-S\xC3\xA2rbi"
+  accentcity: "Brebeni-Sârbi"
 brebeni sarbii-magiesesc: 
   city: "brebeni sarbii-magiesesc"
-  accentcity: "Brebeni S\xC3\xA2rbii-Magiesesc"
+  accentcity: "Brebeni Sârbii-Magiesesc"
 brebeni-sirbi: 
   city: "brebeni-sirbi"
   accentcity: "Brebeni-S\xC3\xAErbi"
@@ -9386,7 +9386,7 @@ bujor-sat:
   accentcity: "Bujor-Sat"
 bujor targ: 
   city: "bujor targ"
-  accentcity: "Bujor T\xC3\xA2rg"
+  accentcity: "Bujor Târg"
 bujor-tirg: 
   city: "bujor-tirg"
   accentcity: "Bujor-T\xC3\xAErg"
@@ -9401,22 +9401,22 @@ bukarest:
   accentcity: "Bukarest"
 bukfalva: 
   city: "bukfalva"
-  accentcity: "B\xC3\xBCkfalva"
+  accentcity: "Bükfalva"
 bukkfalva: 
   city: "bukkfalva"
-  accentcity: "B\xC3\xBCkkfalva"
+  accentcity: "Bükkfalva"
 bukkhavas-pataka: 
   city: "bukkhavas-pataka"
-  accentcity: "B\xC3\xBCkkhavas-Pataka"
+  accentcity: "Bükkhavas-Pataka"
 bukkhegy: 
   city: "bukkhegy"
-  accentcity: "B\xC3\xBCkkhegy"
+  accentcity: "Bükkhegy"
 bukkloka: 
   city: "bukkloka"
-  accentcity: "B\xC3\xBCkkl\xC3\xB2ka"
+  accentcity: "Bükklòka"
 bukkszoldobagy: 
   city: "bukkszoldobagy"
-  accentcity: "B\xC3\xBCkkszoldobágy"
+  accentcity: "Bükkszoldobágy"
 bukovec: 
   city: "bukovec"
   accentcity: "Bukovec"
@@ -9425,7 +9425,7 @@ bukovecz:
   accentcity: "Bukovecz"
 bukszud: 
   city: "bukszud"
-  accentcity: "B\xC3\xBCkszud"
+  accentcity: "Bükszud"
 bulaci: 
   city: "bulaci"
   accentcity: "Bulaci"
@@ -10304,7 +10304,7 @@ cainelul-de-sus:
   accentcity: "Cainelul-de-Sus"
 caineni: 
   city: "caineni"
-  accentcity: "C\xC3\xA2ineni"
+  accentcity: "Câineni"
 cair: 
   city: "cair"
   accentcity: "Cair"
@@ -10421,7 +10421,7 @@ calcaiul:
   accentcity: "Calcaiul"
 calceasca: 
   city: "calceasca"
-  accentcity: "C\xC3\xA2lceasca"
+  accentcity: "Câlceasca"
 calcesti: 
   city: "calcesti"
   accentcity: "Calcesti"
@@ -10598,16 +10598,16 @@ calnau de sus:
   accentcity: "Calnau de Sus"
 calnic: 
   city: "calnic"
-  accentcity: "C\xC3\xA2lnic"
+  accentcity: "Câlnic"
 calniceni: 
   city: "calniceni"
   accentcity: "Calniceni"
 calnicu: 
   city: "calnicu"
-  accentcity: "C\xC3\xA2lnicu"
+  accentcity: "Câlnicu"
 calnicul: 
   city: "calnicul"
-  accentcity: "C\xC3\xA2lnicul"
+  accentcity: "Câlnicul"
 calomfiresti: 
   city: "calomfiresti"
   accentcity: "Calomfiresti"
@@ -10730,7 +10730,7 @@ calvini:
   accentcity: "Calvini"
 camanca: 
   city: "camanca"
-  accentcity: "Cam\xC3\xA2nca"
+  accentcity: "Camânca"
 camara sighet: 
   city: "camara sighet"
   accentcity: "Camara Sighet"
@@ -10790,121 +10790,121 @@ camna:
   accentcity: "Camna"
 campa: 
   city: "campa"
-  accentcity: "C\xC3\xA2mpa"
+  accentcity: "Câmpa"
 campani: 
   city: "campani"
-  accentcity: "C\xC3\xA2mpani"
+  accentcity: "Câmpani"
 campanii-de-jos: 
   city: "campanii-de-jos"
-  accentcity: "C\xC3\xA2mpanii-de-Jos"
+  accentcity: "Câmpanii-de-Jos"
 campanii-de-sus: 
   city: "campanii-de-sus"
-  accentcity: "C\xC3\xA2mpanii-de-Sus"
+  accentcity: "Câmpanii-de-Sus"
 camp: 
   city: "camp"
-  accentcity: "C\xC3\xA2mp"
+  accentcity: "Câmp"
 campenesti: 
   city: "campenesti"
-  accentcity: "C\xC3\xA2mpenesti"
+  accentcity: "Câmpenesti"
 campeni: 
   city: "campeni"
-  accentcity: "C\xC3\xA2mpeni"
+  accentcity: "Câmpeni"
 campenita: 
   city: "campenita"
   accentcity: "Campenita"
 campia: 
   city: "campia"
-  accentcity: "C\xC3\xA2mpia"
+  accentcity: "Câmpia"
 campia turzei: 
   city: "campia turzei"
-  accentcity: "C\xC3\xA2mpia Turzei"
+  accentcity: "Câmpia Turzei"
 campia turzi: 
   city: "campia turzi"
-  accentcity: "C\xC3\xA2mpia Turzi"
+  accentcity: "Câmpia Turzi"
 campia turzii: 
   city: "campia turzii"
-  accentcity: "C\xC3\xA2mpia Turzii"
+  accentcity: "Câmpia Turzii"
 campina: 
   city: "campina"
-  accentcity: "C\xC3\xA2mpina"
+  accentcity: "Câmpina"
 campineanca: 
   city: "campineanca"
-  accentcity: "C\xC3\xA2mpineanca"
+  accentcity: "Câmpineanca"
 campinita: 
   city: "campinita"
   accentcity: "Campinita"
 campu-fomii: 
   city: "campu-fomii"
-  accentcity: "C\xC3\xA2mpu-Fomii"
+  accentcity: "Câmpu-Fomii"
 campul crucii: 
   city: "campul crucii"
-  accentcity: "C\xC3\xA2mpul Crucii"
+  accentcity: "Câmpul Crucii"
 campul-fomii: 
   city: "campul-fomii"
-  accentcity: "C\xC3\xA2mpul-Fomii"
+  accentcity: "Câmpul-Fomii"
 campul-lui-neag: 
   city: "campul-lui-neag"
-  accentcity: "C\xC3\xA2mpul-lui-Neag"
+  accentcity: "Câmpul-lui-Neag"
 campul mare: 
   city: "campul mare"
-  accentcity: "C\xC3\xA2mpul Mare"
+  accentcity: "Câmpul Mare"
 campul parului: 
   city: "campul parului"
   accentcity: "Campul Parului"
 campu lui neag: 
   city: "campu lui neag"
-  accentcity: "C\xC3\xA2mpu lui Neag"
+  accentcity: "Câmpu lui Neag"
 campulung: 
   city: "campulung"
-  accentcity: "C\xC3\xA2mpulung"
+  accentcity: "Câmpulung"
 campulungeanca: 
   city: "campulungeanca"
-  accentcity: "C\xC3\xA2mpulungeanca"
+  accentcity: "Câmpulungeanca"
 campulung-la tisa: 
   city: "campulung-la tisa"
-  accentcity: "C\xC3\xA2mpulung-la Tisa"
+  accentcity: "Câmpulung-la Tisa"
 campulung moldovenesc: 
   city: "campulung moldovenesc"
-  accentcity: "C\xC3\xA2mpulung Moldovenesc"
+  accentcity: "Câmpulung Moldovenesc"
 campulung-pe-tisa: 
   city: "campulung-pe-tisa"
-  accentcity: "C\xC3\xA2mpulung-pe-Tisa"
+  accentcity: "Câmpulung-pe-Tisa"
 campulungul moldov: 
   city: "campulungul moldov"
-  accentcity: "C\xC3\xA2mpulungul Moldov"
+  accentcity: "Câmpulungul Moldov"
 campulungul moldovenesc: 
   city: "campulungul moldovenesc"
-  accentcity: "C\xC3\xA2mpulungul Moldovenesc"
+  accentcity: "Câmpulungul Moldovenesc"
 campu-mare: 
   city: "campu-mare"
-  accentcity: "C\xC3\xA2mpu-Mare"
+  accentcity: "Câmpu-Mare"
 campu mare: 
   city: "campu mare"
-  accentcity: "C\xC3\xA2mpu Mare"
+  accentcity: "Câmpu Mare"
 campumare: 
   city: "campumare"
-  accentcity: "C\xC3\xA2mpumare"
+  accentcity: "Câmpumare"
 campurelu: 
   city: "campurelu"
-  accentcity: "C\xC3\xA2mpurelu"
+  accentcity: "Câmpurelu"
 campuri-de-jos: 
   city: "campuri-de-jos"
-  accentcity: "C\xC3\xA2mpuri-de-Jos"
+  accentcity: "Câmpuri-de-Jos"
 campuri de-sus: 
   city: "campuri de-sus"
-  accentcity: "C\xC3\xA2mpuri de-Sus"
+  accentcity: "Câmpuri de-Sus"
 campurile: 
   city: "campurile"
-  accentcity: "C\xC3\xA2mpurile"
+  accentcity: "Câmpurile"
 campurile de jos: 
   city: "campurile de jos"
-  accentcity: "C\xC3\xA2mpurile de Jos"
+  accentcity: "Câmpurile de Jos"
 campurile de sus: 
   city: "campurile de sus"
-  accentcity: "C\xC3\xA2mpurile de Sus"
+  accentcity: "Câmpurile de Sus"
 campuri surduc: 
   city: "campuri surduc"
-  accentcity: "C\xC3\xA2mpuri Surduc"
+  accentcity: "Câmpuri Surduc"
 camuesti: 
   city: "camuesti"
   accentcity: "Camuesti"
@@ -10928,16 +10928,16 @@ canciul:
   accentcity: "Canciul"
 candeasca: 
   city: "candeasca"
-  accentcity: "C\xC3\xA2ndeasca"
+  accentcity: "Cândeasca"
 candelele: 
   city: "candelele"
-  accentcity: "C\xC3\xA2ndelele"
+  accentcity: "Cândelele"
 candelesti: 
   city: "candelesti"
   accentcity: "Candelesti"
 candeni: 
   city: "candeni"
-  accentcity: "C\xC3\xA2ndeni"
+  accentcity: "Cândeni"
 candesti: 
   city: "candesti"
   accentcity: "Candesti"
@@ -10967,7 +10967,7 @@ candosti:
   accentcity: "Candosti"
 candu: 
   city: "candu"
-  accentcity: "C\xC3\xA2ndu"
+  accentcity: "Cându"
 canela: 
   city: "canela"
   accentcity: "Canela"
@@ -11180,7 +11180,7 @@ captalani:
   accentcity: "Captalani"
 capu campului: 
   city: "capu campului"
-  accentcity: "Capu C\xC3\xA2mpului"
+  accentcity: "Capu Câmpului"
 capucci: 
   city: "capucci"
   accentcity: "Capucci"
@@ -11279,7 +11279,7 @@ caraamat:
   accentcity: "Caraamat"
 carabaca: 
   city: "carabaca"
-  accentcity: "Carabac\xC3\xA2"
+  accentcity: "Carabacâ"
 carabaci: 
   city: "carabaci"
   accentcity: "Carabaci"
@@ -11480,7 +11480,7 @@ caravaneti:
   accentcity: "Caravaneti"
 carbesti: 
   city: "carbesti"
-  accentcity: "C\xC3\xA2rbesti"
+  accentcity: "Cârbesti"
 carbunar: 
   city: "carbunar"
   accentcity: "Carbunar"
@@ -11513,25 +11513,25 @@ carcea:
   accentcity: "Carcea"
 carceni: 
   city: "carceni"
-  accentcity: "C\xC3\xA2rceni"
+  accentcity: "Cârceni"
 carcesti: 
   city: "carcesti"
   accentcity: "Carcesti"
 carciu: 
   city: "carciu"
-  accentcity: "C\xC3\xA2rciu"
+  accentcity: "Cârciu"
 carciul: 
   city: "carciul"
-  accentcity: "C\xC3\xA2rciul"
+  accentcity: "Cârciul"
 carciuma lui visan: 
   city: "carciuma lui visan"
   accentcity: "Carciuma lui Visan"
 carciumarestii: 
   city: "carciumarestii"
-  accentcity: "C\xC3\xA2rciumarestii"
+  accentcity: "Cârciumarestii"
 carcota: 
   city: "carcota"
-  accentcity: "C\xC3\xA2rcota"
+  accentcity: "Cârcota"
 cardaol: 
   city: "cardaol"
   accentcity: "Cardaol"
@@ -11573,31 +11573,31 @@ cariera carpitus ii:
   accentcity: "Cariera Carpitus II"
 carja: 
   city: "carja"
-  accentcity: "C\xC3\xA2rja"
+  accentcity: "Cârja"
 carja de jos: 
   city: "carja de jos"
-  accentcity: "C\xC3\xA2rja de Jos"
+  accentcity: "Cârja de Jos"
 carjari: 
   city: "carjari"
-  accentcity: "C\xC3\xA2rjari"
+  accentcity: "Cârjari"
 carjei: 
   city: "carjei"
-  accentcity: "C\xC3\xA2rjei"
+  accentcity: "Cârjei"
 carjelari: 
   city: "carjelari"
-  accentcity: "C\xC3\xA2rjelari"
+  accentcity: "Cârjelari"
 carjii: 
   city: "carjii"
-  accentcity: "C\xC3\xA2rjii"
+  accentcity: "Cârjii"
 carjiti: 
   city: "carjiti"
-  accentcity: "C\xC3\xA2rjiti"
+  accentcity: "Cârjiti"
 carjoaia: 
   city: "carjoaia"
-  accentcity: "C\xC3\xA2rjoaia"
+  accentcity: "Cârjoaia"
 carjoani: 
   city: "carjoani"
-  accentcity: "C\xC3\xA2rjoani"
+  accentcity: "Cârjoani"
 carlanesti: 
   city: "carlanesti"
   accentcity: "Carlanesti"
@@ -11606,10 +11606,10 @@ carlesti:
   accentcity: "Carlesti"
 carlibaba: 
   city: "carlibaba"
-  accentcity: "C\xC3\xA2rlibaba"
+  accentcity: "Cârlibaba"
 carlibaba noua: 
   city: "carlibaba noua"
-  accentcity: "C\xC3\xA2rlibaba Noua"
+  accentcity: "Cârlibaba Noua"
 carlichioi: 
   city: "carlichioi"
   accentcity: "Carlichioi"
@@ -11624,52 +11624,52 @@ carligatii-noui:
   accentcity: "Carligatii-Noui"
 carligatii-vechi: 
   city: "carligatii-vechi"
-  accentcity: "C\xC3\xA2rligatii-Vechi"
+  accentcity: "Cârligatii-Vechi"
 carlig: 
   city: "carlig"
   accentcity: "Carlig"
 carlige: 
   city: "carlige"
-  accentcity: "C\xC3\xA2rlige"
+  accentcity: "Cârlige"
 carligei: 
   city: "carligei"
-  accentcity: "C\xC3\xA2rligei"
+  accentcity: "Cârligei"
 carligele: 
   city: "carligele"
-  accentcity: "C\xC3\xA2rligele"
+  accentcity: "Cârligele"
 carligi: 
   city: "carligi"
-  accentcity: "C\xC3\xA2rligi"
+  accentcity: "Cârligi"
 carligu: 
   city: "carligu"
   accentcity: "Carligu"
 carligul: 
   city: "carligul"
-  accentcity: "C\xC3\xA2rligul"
+  accentcity: "Cârligul"
 carligul mare: 
   city: "carligul mare"
   accentcity: "Carligul Mare"
 carligul-mic: 
   city: "carligul-mic"
-  accentcity: "C\xC3\xA2rligul-Mic"
+  accentcity: "Cârligul-Mic"
 carligu-mare: 
   city: "carligu-mare"
-  accentcity: "C\xC3\xA2rligu-Mare"
+  accentcity: "Cârligu-Mare"
 carligu-mic: 
   city: "carligu-mic"
-  accentcity: "C\xC3\xA2rligu-Mic"
+  accentcity: "Cârligu-Mic"
 carlogani: 
   city: "carlogani"
-  accentcity: "C\xC3\xA2rlogani"
+  accentcity: "Cârlogani"
 carloman: 
   city: "carloman"
-  accentcity: "C\xC3\xA2rloman"
+  accentcity: "Cârloman"
 carlomanesti: 
   city: "carlomanesti"
   accentcity: "Carlomanesti"
 carlovoaia: 
   city: "carlovoaia"
-  accentcity: "C\xC3\xA2rlovoaia"
+  accentcity: "Cârlovoaia"
 carmazinesti: 
   city: "carmazinesti"
   accentcity: "Carmazinesti"
@@ -11678,7 +11678,7 @@ carmen-sylva:
   accentcity: "Carmen-Sylva"
 carna: 
   city: "carna"
-  accentcity: "C\xC3\xA2rna"
+  accentcity: "Cârna"
 carnatin: 
   city: "carnatin"
   accentcity: "Carnatin"
@@ -11690,16 +11690,16 @@ carnesti:
   accentcity: "Carnesti"
 carniceni: 
   city: "carniceni"
-  accentcity: "C\xC3\xA2rniceni"
+  accentcity: "Cârniceni"
 carnosti: 
   city: "carnosti"
   accentcity: "Carnosti"
 carnu: 
   city: "carnu"
-  accentcity: "C\xC3\xA2rnu"
+  accentcity: "Cârnu"
 carnul: 
   city: "carnul"
-  accentcity: "C\xC3\xA2rnul"
+  accentcity: "Cârnul"
 carol i: 
   city: "carol i"
   accentcity: "Carol I"
@@ -11714,7 +11714,7 @@ caroteni:
   accentcity: "Caroteni"
 carpa: 
   city: "carpa"
-  accentcity: "C\xC3\xA2rpa"
+  accentcity: "Cârpa"
 carpen: 
   city: "carpen"
   accentcity: "Carpen"
@@ -11783,7 +11783,7 @@ carsa rosie:
   accentcity: "Carsa Rosie"
 carsisu: 
   city: "carsisu"
-  accentcity: "C\xC3\xA2rsisu"
+  accentcity: "Cârsisu"
 carsochesti: 
   city: "carsochesti"
   accentcity: "Carsochesti"
@@ -11798,7 +11798,7 @@ carstesti:
   accentcity: "Carstesti"
 carstieni: 
   city: "carstieni"
-  accentcity: "C\xC3\xA2rstieni"
+  accentcity: "Cârstieni"
 carstovani: 
   city: "carstovani"
   accentcity: "Carstovani"
@@ -11834,10 +11834,10 @@ cartiu:
   accentcity: "Cartiu"
 cartocleasca: 
   city: "cartocleasca"
-  accentcity: "C\xC3\xA2rtocleasca"
+  accentcity: "Cârtocleasca"
 cartojanca: 
   city: "cartojanca"
-  accentcity: "C\xC3\xA2rtojanca"
+  accentcity: "Cârtojanca"
 cartojani: 
   city: "cartojani"
   accentcity: "Cartojani"
@@ -11960,7 +11960,7 @@ casovatu:
   accentcity: "Casovatu"
 castani: 
   city: "castani"
-  accentcity: "C\xC3\xA2stani"
+  accentcity: "Câstani"
 castau: 
   city: "castau"
   accentcity: "Castau"
@@ -12299,10 +12299,10 @@ ceanu mic:
   accentcity: "Ceanu Mic"
 cearangu: 
   city: "cearangu"
-  accentcity: "Cear\xC3\xA2ngu"
+  accentcity: "Cearângu"
 cearangul: 
   city: "cearangul"
-  accentcity: "Cear\xC3\xA2ngul"
+  accentcity: "Cearângul"
 ceardac: 
   city: "ceardac"
   accentcity: "Ceardac"
@@ -12323,13 +12323,13 @@ ceatalchioi:
   accentcity: "Ceatalchioi"
 ceatal sfantu gheorghe: 
   city: "ceatal sfantu gheorghe"
-  accentcity: "Ceatal Sf\xC3\xA2ntu Gheorghe"
+  accentcity: "Ceatal Sfântu Gheorghe"
 ceatal-sfantul-gheorghe: 
   city: "ceatal-sfantul-gheorghe"
-  accentcity: "Ceatal-Sf\xC3\xA2ntul-Gheorghe"
+  accentcity: "Ceatal-Sfântul-Gheorghe"
 ceatalul sfantul gheorghe: 
   city: "ceatalul sfantul gheorghe"
-  accentcity: "Ceatalul Sf\xC3\xA2ntul Gheorghe"
+  accentcity: "Ceatalul Sfântul Gheorghe"
 ceatalu sfintu gheorghe: 
   city: "ceatalu sfintu gheorghe"
   accentcity: "Ceatalu Sf\xC3\xAEntu Gheorghe"
@@ -12551,7 +12551,7 @@ ceptureni:
   accentcity: "Ceptureni"
 cerangani: 
   city: "cerangani"
-  accentcity: "Cer\xC3\xA2ngani"
+  accentcity: "Cerângani"
 cerasu: 
   city: "cerasu"
   accentcity: "Cerasu"
@@ -12731,7 +12731,7 @@ cernatul-de-sus:
   accentcity: "Cernatul-de-Sus"
 cerna-varf: 
   city: "cerna-varf"
-  accentcity: "Cerna-V\xC3\xA2rf"
+  accentcity: "Cerna-Vârf"
 cerna varfu: 
   city: "cerna varfu"
   accentcity: "Cerna Varfu"
@@ -12779,7 +12779,7 @@ cernicari:
   accentcity: "Cernicari"
 cernica-tanganu: 
   city: "cernica-tanganu"
-  accentcity: "Cernica-T\xC3\xA2nganu"
+  accentcity: "Cernica-Tânganu"
 cernica-tanganul: 
   city: "cernica-tanganul"
   accentcity: "Cernica-Tanganul"
@@ -12866,7 +12866,7 @@ cetalchioi:
   accentcity: "Cetalchioi"
 cetal-sfantul gheorghe: 
   city: "cetal-sfantul gheorghe"
-  accentcity: "Cetal-Sf\xC3\xA2ntul Gheorghe"
+  accentcity: "Cetal-Sfântul Gheorghe"
 cetalu sfintu gheorghe: 
   city: "cetalu sfintu gheorghe"
   accentcity: "Cetalu Sf\xC3\xAEntu Gheorghe"
@@ -13886,7 +13886,7 @@ ciclovina:
   accentcity: "Ciclovina"
 cicracci: 
   city: "cicracci"
-  accentcity: "Cicr\xC3\xA2cci"
+  accentcity: "Cicrâcci"
 cicricei: 
   city: "cicricei"
   accentcity: "Cicr\xC3\xAEcei"
@@ -14282,7 +14282,7 @@ ciocaia:
   accentcity: "Ciocaia"
 ciocalteni: 
   city: "ciocalteni"
-  accentcity: "Cioc\xC3\xA2lteni"
+  accentcity: "Ciocâlteni"
 ciocanai: 
   city: "ciocanai"
   accentcity: "Ciocanai"
@@ -14315,13 +14315,13 @@ ciocarlesti:
   accentcity: "Ciocarlesti"
 ciocarlia: 
   city: "ciocarlia"
-  accentcity: "Cioc\xC3\xA2rlia"
+  accentcity: "Ciocârlia"
 ciocarlia-de-jos: 
   city: "ciocarlia-de-jos"
-  accentcity: "Cioc\xC3\xA2rlia-de-Jos"
+  accentcity: "Ciocârlia-de-Jos"
 ciocarlia-de-sus: 
   city: "ciocarlia-de-sus"
-  accentcity: "Cioc\xC3\xA2rlia-de-Sus"
+  accentcity: "Ciocârlia-de-Sus"
 ciocasu: 
   city: "ciocasu"
   accentcity: "Ciocasu"
@@ -14420,10 +14420,10 @@ ciofliceni:
   accentcity: "Ciofliceni"
 ciofranceni: 
   city: "ciofranceni"
-  accentcity: "Ciofr\xC3\xA2nceni"
+  accentcity: "Ciofrânceni"
 ciofrangeni: 
   city: "ciofrangeni"
-  accentcity: "Ciofr\xC3\xA2ngeni"
+  accentcity: "Ciofrângeni"
 ciofringeni: 
   city: "ciofringeni"
   accentcity: "Ciofr\xC3\xAEngeni"
@@ -14477,7 +14477,7 @@ ciomagestii:
   accentcity: "Ciomagestii"
 ciomartan: 
   city: "ciomartan"
-  accentcity: "Ciom\xC3\xA2rtan"
+  accentcity: "Ciomârtan"
 ciomirna: 
   city: "ciomirna"
   accentcity: "Ciom\xC3\xAErna"
@@ -14519,7 +14519,7 @@ cioplea:
   accentcity: "Cioplea"
 cioraca: 
   city: "cioraca"
-  accentcity: "Cior\xC3\xA2ca"
+  accentcity: "Ciorâca"
 cioracio: 
   city: "cioracio"
   accentcity: "Cioracio"
@@ -14606,7 +14606,7 @@ cioroeni:
   accentcity: "Cioroeni"
 ciorogarla: 
   city: "ciorogarla"
-  accentcity: "Ciorog\xC3\xA2rla"
+  accentcity: "Ciorogârla"
 ciorogirla: 
   city: "ciorogirla"
   accentcity: "Ciorog\xC3\xAErla"
@@ -15059,7 +15059,7 @@ ciucmandru:
   accentcity: "Ciucmandru"
 ciucsangeorgiu: 
   city: "ciucsangeorgiu"
-  accentcity: "Ciucs\xC3\xA2ngeorgiu"
+  accentcity: "Ciucsângeorgiu"
 ciucsingeorgiu: 
   city: "ciucsingeorgiu"
   accentcity: "Ciucs\xC3\xAEngeorgiu"
@@ -15158,7 +15158,7 @@ ciumani:
   accentcity: "Ciumani"
 ciumarna: 
   city: "ciumarna"
-  accentcity: "Cium\xC3\xA2rna"
+  accentcity: "Ciumârna"
 ciumasi: 
   city: "ciumasi"
   accentcity: "Ciumasi"
@@ -15611,7 +15611,7 @@ cobles:
   accentcity: "Cobles"
 coborasul: 
   city: "coborasul"
-  accentcity: "Cobor\xC3\xA2sul"
+  accentcity: "Coborâsul"
 cobor: 
   city: "cobor"
   accentcity: "Cobor"
@@ -15641,7 +15641,7 @@ cocarastii colt:
   accentcity: "Cocarastii Colt"
 cocarceni: 
   city: "cocarceni"
-  accentcity: "Coc\xC3\xA2rceni"
+  accentcity: "Cocârceni"
 cocargea: 
   city: "cocargea"
   accentcity: "Cocargea"
@@ -16601,7 +16601,7 @@ copou rediului:
   accentcity: "Copou Rediului"
 copou-targ: 
   city: "copou-targ"
-  accentcity: "Copou-T\xC3\xA2rg"
+  accentcity: "Copou-Târg"
 copru: 
   city: "copru"
   accentcity: "Copru"
@@ -17048,7 +17048,7 @@ coroiestii de jos:
   accentcity: "Coroiestii de Jos"
 coroisanmartin: 
   city: "coroisanmartin"
-  accentcity: "Corois\xC3\xA2nmartin"
+  accentcity: "Coroisânmartin"
 coroisinmartin: 
   city: "coroisinmartin"
   accentcity: "Corois\xC3\xAEnmartin"
@@ -17318,7 +17318,7 @@ costache negri:
   accentcity: "Costache Negri"
 costana: 
   city: "costana"
-  accentcity: "Cost\xC3\xA2na"
+  accentcity: "Costâna"
 costanda: 
   city: "costanda"
   accentcity: "Costanda"
@@ -17474,13 +17474,13 @@ cotacu:
   accentcity: "Cotacu"
 cotargaci: 
   city: "cotargaci"
-  accentcity: "Cot\xC3\xA2rgaci"
+  accentcity: "Cotârgaci"
 cotargasi: 
   city: "cotargasi"
   accentcity: "Cotargasi"
 cotarlaci: 
   city: "cotarlaci"
-  accentcity: "Cot\xC3\xA2rlaci"
+  accentcity: "Cotârlaci"
 cotatcu: 
   city: "cotatcu"
   accentcity: "Cotatcu"
@@ -17978,7 +17978,7 @@ craiva:
   accentcity: "Craiva"
 crajma: 
   city: "crajma"
-  accentcity: "Cr\xC3\xA2jma"
+  accentcity: "Crâjma"
 cralovat: 
   city: "cralovat"
   accentcity: "Cralovat"
@@ -17987,10 +17987,10 @@ cram:
   accentcity: "Cram"
 crampoaia: 
   city: "crampoaia"
-  accentcity: "Cr\xC3\xA2mpoaia"
+  accentcity: "Crâmpoaia"
 crampotani: 
   city: "crampotani"
-  accentcity: "Cr\xC3\xA2mpotani"
+  accentcity: "Crâmpotani"
 crancesti: 
   city: "crancesti"
   accentcity: "Crancesti"
@@ -17999,31 +17999,31 @@ crangasi:
   accentcity: "Crangasi"
 crang: 
   city: "crang"
-  accentcity: "Cr\xC3\xA2ng"
+  accentcity: "Crâng"
 crangem: 
   city: "crangem"
   accentcity: "Crangem"
 crangeni: 
   city: "crangeni"
-  accentcity: "Cr\xC3\xA2ngeni"
+  accentcity: "Crângeni"
 crangu: 
   city: "crangu"
-  accentcity: "Cr\xC3\xA2ngu"
+  accentcity: "Crângu"
 crangul: 
   city: "crangul"
-  accentcity: "Cr\xC3\xA2ngul"
+  accentcity: "Crângul"
 cranguri: 
   city: "cranguri"
-  accentcity: "Cr\xC3\xA2nguri"
+  accentcity: "Crânguri"
 crangurile-de-jos: 
   city: "crangurile-de-jos"
-  accentcity: "Cr\xC3\xA2ngurile-de-Jos"
+  accentcity: "Crângurile-de-Jos"
 crangurile de sus: 
   city: "crangurile de sus"
-  accentcity: "Cr\xC3\xA2ngurile de Sus"
+  accentcity: "Crângurile de Sus"
 crangu sihla: 
   city: "crangu sihla"
-  accentcity: "Cr\xC3\xA2ngu Sihla"
+  accentcity: "Crângu Sihla"
 crapaturi: 
   city: "crapaturi"
   accentcity: "Crapaturi"
@@ -18533,10 +18533,10 @@ csanalos:
   accentcity: "Csanálos"
 csangotelep: 
   city: "csangotelep"
-  accentcity: "Csàng\xC3\xB2telep"
+  accentcity: "Csàngòtelep"
 csaracso: 
   city: "csaracso"
-  accentcity: "Csaracs\xC3\xB2"
+  accentcity: "Csaracsò"
 csatad: 
   city: "csatad"
   accentcity: "Csatád"
@@ -18731,7 +18731,7 @@ csohosd:
   accentcity: "Csohosd"
 csoka: 
   city: "csoka"
-  accentcity: "Cs\xC3\xB2ka"
+  accentcity: "Csòka"
 csomafalva: 
   city: "csomafalva"
   accentcity: "Csomafalva"
@@ -19376,7 +19376,7 @@ dacia:
   accentcity: "Dacia"
 dacia-romana: 
   city: "dacia-romana"
-  accentcity: "Dacia-Rom\xC3\xA2na"
+  accentcity: "Dacia-Româna"
 dacindea: 
   city: "dacindea"
   accentcity: "Dacindea"
@@ -19424,7 +19424,7 @@ dalbocica:
   accentcity: "Dalbocica"
 dalbocita: 
   city: "dalbocita"
-  accentcity: "D\xC3\xA2lbocita"
+  accentcity: "Dâlbocita"
 dalbosec: 
   city: "dalbosec"
   accentcity: "Dalbosec"
@@ -19436,10 +19436,10 @@ dalci:
   accentcity: "Dalci"
 dalga: 
   city: "dalga"
-  accentcity: "D\xC3\xA2lga"
+  accentcity: "Dâlga"
 dalga mica: 
   city: "dalga mica"
-  accentcity: "D\xC3\xA2lga Mica"
+  accentcity: "Dâlga Mica"
 dalghiu: 
   city: "dalghiu"
   accentcity: "Dalghiu"
@@ -19451,10 +19451,10 @@ dalina:
   accentcity: "Dalina"
 dalma: 
   city: "dalma"
-  accentcity: "D\xC3\xA2lma"
+  accentcity: "Dâlma"
 dalmele prigorului: 
   city: "dalmele prigorului"
-  accentcity: "D\xC3\xA2lmele Prigorului"
+  accentcity: "Dâlmele Prigorului"
 dalnic: 
   city: "dalnic"
   accentcity: "Dalnic"
@@ -19487,28 +19487,28 @@ dambau:
   accentcity: "Dambau"
 dambova: 
   city: "dambova"
-  accentcity: "D\xC3\xA2mbova"
+  accentcity: "Dâmbova"
 dambovana: 
   city: "dambovana"
   accentcity: "Dambovana"
 dambovicioara: 
   city: "dambovicioara"
-  accentcity: "D\xC3\xA2mbovicioara"
+  accentcity: "Dâmbovicioara"
 dambovita-de-codru: 
   city: "dambovita-de-codru"
   accentcity: "Dambovita-de-Codru"
 dambroca: 
   city: "dambroca"
-  accentcity: "D\xC3\xA2mbroca"
+  accentcity: "Dâmbroca"
 dambu: 
   city: "dambu"
-  accentcity: "D\xC3\xA2mbu"
+  accentcity: "Dâmbu"
 dambul: 
   city: "dambul"
-  accentcity: "D\xC3\xA2mbul"
+  accentcity: "Dâmbul"
 dambul mare: 
   city: "dambul mare"
-  accentcity: "D\xC3\xA2mbul Mare"
+  accentcity: "Dâmbul Mare"
 damian: 
   city: "damian"
   accentcity: "Damian"
@@ -19592,10 +19592,10 @@ danculesti:
   accentcity: "Danculesti"
 dancul-mare: 
   city: "dancul-mare"
-  accentcity: "D\xC3\xA2ncul-Mare"
+  accentcity: "Dâncul-Mare"
 dancul mic: 
   city: "dancul mic"
-  accentcity: "D\xC3\xA2ncul Mic"
+  accentcity: "Dâncul Mic"
 danduti: 
   city: "danduti"
   accentcity: "Danduti"
@@ -19634,7 +19634,7 @@ dangaul mic:
   accentcity: "Dangaul Mic"
 dangeni: 
   city: "dangeni"
-  accentcity: "D\xC3\xA2ngeni"
+  accentcity: "Dângeni"
 dangesti: 
   city: "dangesti"
   accentcity: "Dangesti"
@@ -19691,19 +19691,19 @@ darimati:
   accentcity: "Darimati"
 darja: 
   city: "darja"
-  accentcity: "D\xC3\xA2rja"
+  accentcity: "Dârja"
 darjiu: 
   city: "darjiu"
-  accentcity: "D\xC3\xA2rjiu"
+  accentcity: "Dârjiu"
 darjiul: 
   city: "darjiul"
-  accentcity: "D\xC3\xA2rjiul"
+  accentcity: "Dârjiul"
 darloaia: 
   city: "darloaia"
-  accentcity: "D\xC3\xA2rloaia"
+  accentcity: "Dârloaia"
 darlos: 
   city: "darlos"
-  accentcity: "D\xC3\xA2rlos"
+  accentcity: "Dârlos"
 darmaneasca: 
   city: "darmaneasca"
   accentcity: "Darmaneasca"
@@ -19742,7 +19742,7 @@ darowa:
   accentcity: "Darowa"
 darste: 
   city: "darste"
-  accentcity: "D\xC3\xA2rste"
+  accentcity: "Dârste"
 darulete: 
   city: "darulete"
   accentcity: "Darulete"
@@ -19757,16 +19757,16 @@ darvaresti:
   accentcity: "Darvaresti"
 darvari: 
   city: "darvari"
-  accentcity: "D\xC3\xA2rvari"
+  accentcity: "Dârvari"
 darvas: 
   city: "darvas"
   accentcity: "Darvas"
 darza: 
   city: "darza"
-  accentcity: "D\xC3\xA2rza"
+  accentcity: "Dârza"
 darzea: 
   city: "darzea"
-  accentcity: "D\xC3\xA2rzea"
+  accentcity: "Dârzea"
 dasagesti: 
   city: "dasagesti"
   accentcity: "Dasagesti"
@@ -20060,7 +20060,7 @@ dealul mare:
   accentcity: "Dealul Mare"
 dealul mare-sparleni: 
   city: "dealul mare-sparleni"
-  accentcity: "Dealul Mare-Sp\xC3\xA2rleni"
+  accentcity: "Dealul Mare-Spârleni"
 dealul nou: 
   city: "dealul nou"
   accentcity: "Dealul Nou"
@@ -20633,7 +20633,7 @@ dichisenii:
   accentcity: "Dichisenii"
 diciosanmartin: 
   city: "diciosanmartin"
-  accentcity: "Dicios\xC3\xA2nmartin"
+  accentcity: "Diciosânmartin"
 diciosinmartin: 
   city: "diciosinmartin"
   accentcity: "Dicios\xC3\xAEnmartin"
@@ -20900,10 +20900,10 @@ distina:
   accentcity: "Distina"
 disznajo: 
   city: "disznajo"
-  accentcity: "Disznaj\xC3\xB2"
+  accentcity: "Disznajò"
 disznopatak: 
   city: "disznopatak"
-  accentcity: "Diszn\xC3\xB2patak"
+  accentcity: "Disznòpatak"
 ditesti: 
   city: "ditesti"
   accentcity: "Ditesti"
@@ -20960,7 +20960,7 @@ doanca:
   accentcity: "Doanca"
 dobaca: 
   city: "dobaca"
-  accentcity: "Dob\xC3\xA2ca"
+  accentcity: "Dobâca"
 doba: 
   city: "doba"
   accentcity: "Doba"
@@ -20975,10 +20975,10 @@ doba mica:
   accentcity: "Doba Mica"
 dobarca: 
   city: "dobarca"
-  accentcity: "Dob\xC3\xA2rca"
+  accentcity: "Dobârca"
 dobarceni: 
   city: "dobarceni"
-  accentcity: "Dob\xC3\xA2rceni"
+  accentcity: "Dobârceni"
 dobarlau: 
   city: "dobarlau"
   accentcity: "Dobarlau"
@@ -21500,7 +21500,7 @@ dor marunt:
   accentcity: "Dor Marunt"
 dorna-candrenilor: 
   city: "dorna-candrenilor"
-  accentcity: "Dorna-C\xC3\xA2ndrenilor"
+  accentcity: "Dorna-Cândrenilor"
 dorna cindrenilor: 
   city: "dorna cindrenilor"
   accentcity: "Dorna C\xC3\xAEndrenilor"
@@ -21620,7 +21620,7 @@ dosul napului:
   accentcity: "Dosul Napului"
 dosul raului: 
   city: "dosul raului"
-  accentcity: "Dosul R\xC3\xA2ului"
+  accentcity: "Dosul Râului"
 dosul sandei: 
   city: "dosul sandei"
   accentcity: "Dosul Sandei"
@@ -21668,7 +21668,7 @@ dozesti:
   accentcity: "Dozesti"
 dozsa gyorgy: 
   city: "dozsa gyorgy"
-  accentcity: "D\xC3\xB2zsa Gy\xC3\xB6rgy"
+  accentcity: "Dòzsa Gy\xC3\xB6rgy"
 dracea: 
   city: "dracea"
   accentcity: "Dracea"
@@ -22067,19 +22067,19 @@ drajova:
   accentcity: "Drajova"
 drambar: 
   city: "drambar"
-  accentcity: "Dr\xC3\xA2mbar"
+  accentcity: "Drâmbar"
 drancani: 
   city: "drancani"
   accentcity: "Drancani"
 dranceni: 
   city: "dranceni"
-  accentcity: "Dr\xC3\xA2nceni"
+  accentcity: "Drânceni"
 dranceni sat: 
   city: "dranceni sat"
-  accentcity: "Dr\xC3\xA2nceni Sat"
+  accentcity: "Drânceni Sat"
 dranceni targ: 
   city: "dranceni targ"
-  accentcity: "Dr\xC3\xA2nceni T\xC3\xA2rg"
+  accentcity: "Drânceni Târg"
 dranesti: 
   city: "dranesti"
   accentcity: "Dranesti"
@@ -22667,7 +22667,7 @@ ederue-de sus:
   accentcity: "Ederue-de Sus"
 edeslak: 
   city: "edeslak"
-  accentcity: "\xC3\x89deslak"
+  accentcity: "Édeslak"
 edilchioi: 
   city: "edilchioi"
   accentcity: "Edilchioi"
@@ -22937,10 +22937,10 @@ eriste:
   accentcity: "Eriste"
 eriu-sancraiu: 
   city: "eriu-sancraiu"
-  accentcity: "Eriu-S\xC3\xA2ncraiu"
+  accentcity: "Eriu-Sâncraiu"
 eriu sancraiul: 
   city: "eriu sancraiul"
-  accentcity: "Eriu S\xC3\xA2ncraiul"
+  accentcity: "Eriu Sâncraiul"
 eriu-sincraiu: 
   city: "eriu-sincraiu"
   accentcity: "Eriu-S\xC3\xAEncraiu"
@@ -22964,7 +22964,7 @@ erneiul:
   accentcity: "Erneiul"
 erni sancraiul: 
   city: "erni sancraiul"
-  accentcity: "Erni S\xC3\xA2ncraiul"
+  accentcity: "Erni Sâncraiul"
 erselend: 
   city: "erselend"
   accentcity: "Erselénd"
@@ -22973,7 +22973,7 @@ ersig:
   accentcity: "Ersig"
 erszeg: 
   city: "erszeg"
-  accentcity: "\xC3\x89rszeg"
+  accentcity: "Érszeg"
 erszteveny: 
   city: "erszteveny"
   accentcity: "Ersztevèny"
@@ -23225,7 +23225,7 @@ falcusa:
   accentcity: "Falcusa"
 falfani: 
   city: "falfani"
-  accentcity: "F\xC3\xA2lfani"
+  accentcity: "Fâlfani"
 falticeni: 
   city: "falticeni"
   accentcity: "Falticeni"
@@ -23234,10 +23234,10 @@ falticenii vechi:
   accentcity: "Falticenii Vechi"
 fanari: 
   city: "fanari"
-  accentcity: "F\xC3\xA2nari"
+  accentcity: "Fânari"
 fanarii: 
   city: "fanarii"
-  accentcity: "F\xC3\xA2narii"
+  accentcity: "Fânarii"
 fanata: 
   city: "fanata"
   accentcity: "Fanata"
@@ -23246,7 +23246,7 @@ fanate:
   accentcity: "Fanate"
 fancel: 
   city: "fancel"
-  accentcity: "F\xC3\xA2ncel"
+  accentcity: "Fâncel"
 fancica: 
   city: "fancica"
   accentcity: "Fancica"
@@ -23258,46 +23258,46 @@ fanete:
   accentcity: "Fanete"
 fantana banului: 
   city: "fantana banului"
-  accentcity: "F\xC3\xA2nt\xC3\xA2na Banului"
+  accentcity: "Fântâna Banului"
 fantana brazilor: 
   city: "fantana brazilor"
-  accentcity: "F\xC3\xA2nt\xC3\xA2na Brazilor"
+  accentcity: "Fântâna Brazilor"
 fantana-doamnei: 
   city: "fantana-doamnei"
-  accentcity: "F\xC3\xA2nt\xC3\xA2na-Doamnei"
+  accentcity: "Fântâna-Doamnei"
 fantana-domneasca: 
   city: "fantana-domneasca"
   accentcity: "Fantana-Domneasca"
 fantana-dulce: 
   city: "fantana-dulce"
-  accentcity: "F\xC3\xA2nt\xC3\xA2na-Dulce"
+  accentcity: "Fântâna-Dulce"
 fantana: 
   city: "fantana"
-  accentcity: "F\xC3\xA2nt\xC3\xA2na"
+  accentcity: "Fântâna"
 fantana mare: 
   city: "fantana mare"
-  accentcity: "F\xC3\xA2nt\xC3\xA2na Mare"
+  accentcity: "Fântâna Mare"
 fantana-mare: 
   city: "fantana-mare"
-  accentcity: "F\xC3\xA2nt\xC3\xA2na-Mare"
+  accentcity: "Fântâna-Mare"
 fantaneanu: 
   city: "fantaneanu"
-  accentcity: "F\xC3\xA2nt\xC3\xA2neanu"
+  accentcity: "Fântâneanu"
 fantanela: 
   city: "fantanela"
-  accentcity: "F\xC3\xA2nt\xC3\xA2nela"
+  accentcity: "Fântânela"
 fantanele: 
   city: "fantanele"
-  accentcity: "F\xC3\xA2nt\xC3\xA2nele"
+  accentcity: "Fântânele"
 fantanelele: 
   city: "fantanelele"
-  accentcity: "F\xC3\xA2nt\xC3\xA2nelele"
+  accentcity: "Fântânelele"
 fantanele negre: 
   city: "fantanele negre"
-  accentcity: "F\xC3\xA2nt\xC3\xA2nele Negre"
+  accentcity: "Fântânele Negre"
 fantani: 
   city: "fantani"
-  accentcity: "F\xC3\xA2nt\xC3\xA2ni"
+  accentcity: "Fântâni"
 fantanita: 
   city: "fantanita"
   accentcity: "Fantanita"
@@ -23309,7 +23309,7 @@ faragaul:
   accentcity: "Faragaul"
 farago: 
   city: "farago"
-  accentcity: "Farag\xC3\xB2"
+  accentcity: "Faragò"
 faraoane: 
   city: "faraoane"
   accentcity: "Faraoane"
@@ -23393,7 +23393,7 @@ farcasul:
   accentcity: "Farcasul"
 fardia: 
   city: "fardia"
-  accentcity: "F\xC3\xA2rdia"
+  accentcity: "Fârdia"
 farkashaza: 
   city: "farkashaza"
   accentcity: "Farkasháza"
@@ -23408,16 +23408,16 @@ farkaslaxa:
   accentcity: "Farkaslaxa"
 farkaspallo: 
   city: "farkaspallo"
-  accentcity: "Farkaspall\xC3\xB2"
+  accentcity: "Farkaspallò"
 farliug: 
   city: "farliug"
-  accentcity: "F\xC3\xA2rliug"
+  accentcity: "Fârliug"
 faroane: 
   city: "faroane"
   accentcity: "Faroane"
 fartagi: 
   city: "fartagi"
-  accentcity: "F\xC3\xA2rt\xC3\xA2gi"
+  accentcity: "Fârtâgi"
 fartanesti: 
   city: "fartanesti"
   accentcity: "Fartanesti"
@@ -23429,7 +23429,7 @@ fasca:
   accentcity: "Fasca"
 fastaci: 
   city: "fastaci"
-  accentcity: "F\xC3\xA2st\xC3\xA2ci"
+  accentcity: "Fâstâci"
 fata abrudului: 
   city: "fata abrudului"
   accentcity: "Fata Abrudului"
@@ -24056,7 +24056,7 @@ filiasi:
   accentcity: "Filiasi"
 filimon sarbu: 
   city: "filimon sarbu"
-  accentcity: "Filimon S\xC3\xA2rbu"
+  accentcity: "Filimon Sârbu"
 filimon sirbu: 
   city: "filimon sirbu"
   accentcity: "Filimon S\xC3\xAErbu"
@@ -24116,10 +24116,10 @@ filiul:
   accentcity: "Filiul"
 filiul tarlele: 
   city: "filiul tarlele"
-  accentcity: "Filiul T\xC3\xA2rlele"
+  accentcity: "Filiul Târlele"
 filiu tarlele: 
   city: "filiu tarlele"
-  accentcity: "Filiu T\xC3\xA2rlele"
+  accentcity: "Filiu Târlele"
 filpea: 
   city: "filpea"
   accentcity: "Filpea"
@@ -24635,10 +24635,10 @@ fonokismezos:
   accentcity: "Fonokismezos"
 fontanelele: 
   city: "fontanelele"
-  accentcity: "Font\xC3\xA2nelele"
+  accentcity: "Fontânelele"
 fontanelile: 
   city: "fontanelile"
-  accentcity: "Font\xC3\xA2nelile"
+  accentcity: "Fontânelile"
 font-mare: 
   city: "font-mare"
   accentcity: "Font-Mare"
@@ -24692,7 +24692,7 @@ frajtok:
   accentcity: "Frajtok"
 franceni boiului: 
   city: "franceni boiului"
-  accentcity: "Fr\xC3\xA2nceni Boiului"
+  accentcity: "Frânceni Boiului"
 francenii de piatra: 
   city: "francenii de piatra"
   accentcity: "Francenii de Piatra"
@@ -24818,7 +24818,7 @@ fratostita:
   accentcity: "Fratostita"
 fraua: 
   city: "fraua"
-  accentcity: "Fr\xC3\xA2ua"
+  accentcity: "Frâua"
 frecatei: 
   city: "frecatei"
   accentcity: "Frecatei"
@@ -24977,13 +24977,13 @@ fughiu:
   accentcity: "Fughiu"
 fule: 
   city: "fule"
-  accentcity: "F\xC3\xBCle"
+  accentcity: "Füle"
 fulehaza: 
   city: "fulehaza"
-  accentcity: "F\xC3\xBCleháza"
+  accentcity: "Füleháza"
 fuletelke: 
   city: "fuletelke"
-  accentcity: "F\xC3\xBCletelke"
+  accentcity: "Fületelke"
 fulga de jos: 
   city: "fulga de jos"
   accentcity: "Fulga de Jos"
@@ -25004,7 +25004,7 @@ fulgu:
   accentcity: "Fulgu"
 fulpe: 
   city: "fulpe"
-  accentcity: "F\xC3\xBClpe"
+  accentcity: "Fülpe"
 fumureni: 
   city: "fumureni"
   accentcity: "Fumureni"
@@ -25130,7 +25130,7 @@ fundul parului:
   accentcity: "Fundul Parului"
 fundul raului: 
   city: "fundul raului"
-  accentcity: "Fundul R\xC3\xA2ului"
+  accentcity: "Fundul Râului"
 fundul-tutovei: 
   city: "fundul-tutovei"
   accentcity: "Fundul-Tutovei"
@@ -25169,7 +25169,7 @@ fundu racaciuni:
   accentcity: "Fundu Racaciuni"
 fundu-raului: 
   city: "fundu-raului"
-  accentcity: "Fundu-R\xC3\xA2ului"
+  accentcity: "Fundu-Râului"
 funduri: 
   city: "funduri"
   accentcity: "Funduri"
@@ -25259,16 +25259,16 @@ fusea:
   accentcity: "Fusea"
 fuskut: 
   city: "fuskut"
-  accentcity: "F\xC3\xBCskút"
+  accentcity: "Füskút"
 futasfalva: 
   city: "futasfalva"
   accentcity: "Futàsfalva"
 fuzegy: 
   city: "fuzegy"
-  accentcity: "F\xC3\xBCzegy"
+  accentcity: "Füzegy"
 fuzkut: 
   city: "fuzkut"
-  accentcity: "F\xC3\xBCzkút"
+  accentcity: "Füzkút"
 gaad: 
   city: "gaad"
   accentcity: "Gaad"
@@ -25277,10 +25277,10 @@ gabera:
   accentcity: "Gabera"
 gabor aron vasuzem: 
   city: "gabor aron vasuzem"
-  accentcity: "Gàbor Aron Vas\xC3\xBCzem"
+  accentcity: "Gàbor Aron Vasüzem"
 gabovana: 
   city: "gabovana"
-  accentcity: "G\xC3\xA2bovana"
+  accentcity: "Gâbovana"
 gabrielescu: 
   city: "gabrielescu"
   accentcity: "Gabrielescu"
@@ -25319,7 +25319,7 @@ gafencu:
   accentcity: "Gafencu"
 gagaiul: 
   city: "gagaiul"
-  accentcity: "Gag\xC3\xA2iul"
+  accentcity: "Gagâiul"
 gageanu: 
   city: "gageanu"
   accentcity: "Gageanu"
@@ -25406,7 +25406,7 @@ galacz:
   accentcity: "Galacz"
 galambod: 
   city: "galambod"
-  accentcity: "Galamb\xC3\xB2d"
+  accentcity: "Galambòd"
 galanesti: 
   city: "galanesti"
   accentcity: "Galanesti"
@@ -25496,7 +25496,7 @@ galda de sus:
   accentcity: "Galda de Sus"
 galdaele: 
   city: "galdaele"
-  accentcity: "G\xC3\xA2ldaele"
+  accentcity: "Gâldaele"
 galdau: 
   city: "galdau"
   accentcity: "Galdau"
@@ -25565,10 +25565,10 @@ galita:
   accentcity: "Galita"
 galma: 
   city: "galma"
-  accentcity: "G\xC3\xA2lma"
+  accentcity: "Gâlma"
 galmeele: 
   city: "galmeele"
-  accentcity: "G\xC3\xA2lmeele"
+  accentcity: "Gâlmeele"
 galoaia: 
   city: "galoaia"
   accentcity: "Galoaia"
@@ -25577,7 +25577,7 @@ galocas:
   accentcity: "Galocas"
 galocaspatak: 
   city: "galocaspatak"
-  accentcity: "Gal\xC3\xB2càspatak"
+  accentcity: "Galòcàspatak"
 galoesti: 
   city: "galoesti"
   accentcity: "Galoesti"
@@ -25592,7 +25592,7 @@ galospetreu:
   accentcity: "Galospetreu"
 galpaia: 
   city: "galpaia"
-  accentcity: "G\xC3\xA2lp\xC3\xA2ia"
+  accentcity: "Gâlpâia"
 galsa: 
   city: "galsa"
   accentcity: "Galsa"
@@ -25607,7 +25607,7 @@ galtiul:
   accentcity: "Galtiul"
 galtofanii: 
   city: "galtofanii"
-  accentcity: "G\xC3\xA2ltofanii"
+  accentcity: "Gâltofanii"
 galu: 
   city: "galu"
   accentcity: "Galu"
@@ -25664,13 +25664,13 @@ ganfalau:
   accentcity: "Ganfalau"
 gangeova: 
   city: "gangeova"
-  accentcity: "G\xC3\xA2ngeova"
+  accentcity: "Gângeova"
 gangiova: 
   city: "gangiova"
-  accentcity: "G\xC3\xA2ngiova"
+  accentcity: "Gângiova"
 gansaga: 
   city: "gansaga"
-  accentcity: "G\xC3\xA2nsaga"
+  accentcity: "Gânsaga"
 gantaga: 
   city: "gantaga"
   accentcity: "Gantaga"
@@ -25850,7 +25850,7 @@ garbaul:
   accentcity: "Garbaul"
 garbeni: 
   city: "garbeni"
-  accentcity: "G\xC3\xA2rbeni"
+  accentcity: "Gârbeni"
 garbesti: 
   city: "garbesti"
   accentcity: "Garbesti"
@@ -25859,22 +25859,22 @@ garbesti-tibanesti:
   accentcity: "Garbesti-Tibanesti"
 garbociu: 
   city: "garbociu"
-  accentcity: "G\xC3\xA2rbociu"
+  accentcity: "Gârbociu"
 garboiul: 
   city: "garboiul"
-  accentcity: "G\xC3\xA2rboiul"
+  accentcity: "Gârboiul"
 garbou: 
   city: "garbou"
-  accentcity: "G\xC3\xA2rbou"
+  accentcity: "Gârbou"
 garboul-dejului: 
   city: "garboul-dejului"
-  accentcity: "G\xC3\xA2rboul-Dejului"
+  accentcity: "Gârboul-Dejului"
 garbova de jos: 
   city: "garbova de jos"
-  accentcity: "G\xC3\xA2rbova de Jos"
+  accentcity: "Gârbova de Jos"
 garbova-de-sus: 
   city: "garbova-de-sus"
-  accentcity: "G\xC3\xA2rbova-de-Sus"
+  accentcity: "Gârbova-de-Sus"
 garbova: 
   city: "garbova"
   accentcity: "Garbova"
@@ -25883,7 +25883,7 @@ garbovat:
   accentcity: "Garbovat"
 garbovatu de jos: 
   city: "garbovatu de jos"
-  accentcity: "G\xC3\xA2rbovatu de Jos"
+  accentcity: "Gârbovatu de Jos"
 garbovatu de sus: 
   city: "garbovatu de sus"
   accentcity: "Garbovatu de Sus"
@@ -25895,49 +25895,49 @@ garbovet:
   accentcity: "Garbovet"
 garbovi: 
   city: "garbovi"
-  accentcity: "G\xC3\xA2rbovi"
+  accentcity: "Gârbovi"
 garbovita: 
   city: "garbovita"
   accentcity: "Garbovita"
 garbovu: 
   city: "garbovu"
-  accentcity: "G\xC3\xA2rbovu"
+  accentcity: "Gârbovu"
 garbul: 
   city: "garbul"
   accentcity: "Garbul"
 garceiu: 
   city: "garceiu"
-  accentcity: "G\xC3\xA2rceiu"
+  accentcity: "Gârceiu"
 garceiul: 
   city: "garceiul"
-  accentcity: "G\xC3\xA2rceiul"
+  accentcity: "Gârceiul"
 garceni: 
   city: "garceni"
-  accentcity: "G\xC3\xA2rceni"
+  accentcity: "Gârceni"
 garcica: 
   city: "garcica"
-  accentcity: "G\xC3\xA2rcica"
+  accentcity: "Gârcica"
 garcina: 
   city: "garcina"
-  accentcity: "G\xC3\xA2rcina"
+  accentcity: "Gârcina"
 garciu: 
   city: "garciu"
-  accentcity: "G\xC3\xA2rciu"
+  accentcity: "Gârciu"
 garciul: 
   city: "garciul"
-  accentcity: "G\xC3\xA2rciul"
+  accentcity: "Gârciul"
 garcovu: 
   city: "garcovu"
-  accentcity: "G\xC3\xA2rcovu"
+  accentcity: "Gârcovu"
 garcovul: 
   city: "garcovul"
-  accentcity: "G\xC3\xA2rcovul"
+  accentcity: "Gârcovul"
 garcu: 
   city: "garcu"
-  accentcity: "G\xC3\xA2rcu"
+  accentcity: "Gârcu"
 garda de sus: 
   city: "garda de sus"
-  accentcity: "G\xC3\xA2rda de Sus"
+  accentcity: "Gârda de Sus"
 gardaneasa: 
   city: "gardaneasa"
   accentcity: "Gardaneasa"
@@ -25958,16 +25958,16 @@ gardinesti:
   accentcity: "Gardinesti"
 gardoaia: 
   city: "gardoaia"
-  accentcity: "G\xC3\xA2rdoaia"
+  accentcity: "Gârdoaia"
 gargalac: 
   city: "gargalac"
-  accentcity: "Gargal\xC3\xA2c"
+  accentcity: "Gargalâc"
 gargalacul mare: 
   city: "gargalacul mare"
-  accentcity: "Gargal\xC3\xA2cul Mare"
+  accentcity: "Gargalâcul Mare"
 gargalacul-mic: 
   city: "gargalacul-mic"
-  accentcity: "Gargal\xC3\xA2cul-Mic"
+  accentcity: "Gargalâcul-Mic"
 gargalic mare: 
   city: "gargalic mare"
   accentcity: "Gargal\xC3\xAEc Mare"
@@ -25985,31 +25985,31 @@ garina:
   accentcity: "Garina"
 garla: 
   city: "garla"
-  accentcity: "G\xC3\xA2rla"
+  accentcity: "Gârla"
 garla-mare: 
   city: "garla-mare"
-  accentcity: "G\xC3\xA2rla-Mare"
+  accentcity: "Gârla-Mare"
 garla mica: 
   city: "garla mica"
   accentcity: "Garla Mica"
 garleasca: 
   city: "garleasca"
-  accentcity: "G\xC3\xA2rleasca"
+  accentcity: "Gârleasca"
 garlele gazarii: 
   city: "garlele gazarii"
   accentcity: "Garlele Gazarii"
 garleni: 
   city: "garleni"
-  accentcity: "G\xC3\xA2rleni"
+  accentcity: "Gârleni"
 garlestii: 
   city: "garlestii"
-  accentcity: "G\xC3\xA2rlestii"
+  accentcity: "Gârlestii"
 garliciu: 
   city: "garliciu"
-  accentcity: "G\xC3\xA2rliciu"
+  accentcity: "Gârliciu"
 garliciul: 
   city: "garliciul"
-  accentcity: "G\xC3\xA2rliciul"
+  accentcity: "Gârliciul"
 garliste: 
   city: "garliste"
   accentcity: "Garliste"
@@ -26024,7 +26024,7 @@ garniceni:
   accentcity: "Garniceni"
 garnic: 
   city: "garnic"
-  accentcity: "G\xC3\xA2rnic"
+  accentcity: "Gârnic"
 garnita: 
   city: "garnita"
   accentcity: "Garnita"
@@ -26057,7 +26057,7 @@ gatalja:
   accentcity: "Gátalja"
 gatejesti: 
   city: "gatejesti"
-  accentcity: "G\xC3\xA2tejesti"
+  accentcity: "Gâtejesti"
 gatrejei: 
   city: "gatrejei"
   accentcity: "Gatrejei"
@@ -26999,7 +26999,7 @@ gier:
   accentcity: "Gier"
 gigartul: 
   city: "gigartul"
-  accentcity: "Gig\xC3\xA2rtul"
+  accentcity: "Gigârtul"
 gighera: 
   city: "gighera"
   accentcity: "Gighera"
@@ -27488,7 +27488,7 @@ gladna montana:
   accentcity: "Gladna Montana"
 gladna-romana: 
   city: "gladna-romana"
-  accentcity: "Gladna-Rom\xC3\xA2na"
+  accentcity: "Gladna-Româna"
 gladna romina: 
   city: "gladna romina"
   accentcity: "Gladna Romina"
@@ -27500,19 +27500,19 @@ glajarie:
   accentcity: "Glajarie"
 glamboaca: 
   city: "glamboaca"
-  accentcity: "Gl\xC3\xA2mboaca"
+  accentcity: "Glâmboaca"
 glambocata: 
   city: "glambocata"
-  accentcity: "Gl\xC3\xA2mbocata"
+  accentcity: "Glâmbocata"
 glambocel: 
   city: "glambocel"
-  accentcity: "Gl\xC3\xA2mbocel"
+  accentcity: "Glâmbocel"
 glambocelul: 
   city: "glambocelul"
-  accentcity: "Gl\xC3\xA2mbocelul"
+  accentcity: "Glâmbocelul"
 glambocul: 
   city: "glambocul"
-  accentcity: "Gl\xC3\xA2mbocul"
+  accentcity: "Glâmbocul"
 glanda montana: 
   city: "glanda montana"
   accentcity: "Glanda Montana"
@@ -27620,10 +27620,10 @@ globurau:
   accentcity: "Globurau"
 glodeanu-carlig-mare: 
   city: "glodeanu-carlig-mare"
-  accentcity: "Glodeanu-C\xC3\xA2rlig-Mare"
+  accentcity: "Glodeanu-Cârlig-Mare"
 glodeanu carlig mic: 
   city: "glodeanu carlig mic"
-  accentcity: "Glodeanu C\xC3\xA2rlig Mic"
+  accentcity: "Glodeanu Cârlig Mic"
 glodeanu: 
   city: "glodeanu"
   accentcity: "Glodeanu"
@@ -28034,19 +28034,19 @@ gorgenynadas:
   accentcity: "G\xC3\xB6rgènynàdas"
 gorgenyoroszfalu-solovaestru: 
   city: "gorgenyoroszfalu-solovaestru"
-  accentcity: "G\xC3\xB6rgenyoroszfal\xC3\xB9-Solov\xC3\xA6stru"
+  accentcity: "G\xC3\xB6rgenyoroszfalù-Solov\xC3\xA6stru"
 gorgenyorsova: 
   city: "gorgenyorsova"
   accentcity: "G\xC3\xB6rgènyorsova"
 gorgenysoakna: 
   city: "gorgenysoakna"
-  accentcity: "G\xC3\xB6rgènys\xC3\xB2akna"
+  accentcity: "G\xC3\xB6rgènysòakna"
 gorgenyszentimre: 
   city: "gorgenyszentimre"
   accentcity: "G\xC3\xB6rgényszentimre"
 gorgenyuvegcsur: 
   city: "gorgenyuvegcsur"
-  accentcity: "G\xC3\xB6rgèny\xC3\xBCvegcs\xC3\xBCr"
+  accentcity: "G\xC3\xB6rgènyüvegcsür"
 gorghesti: 
   city: "gorghesti"
   accentcity: "Gorghesti"
@@ -28352,7 +28352,7 @@ gramolea:
   accentcity: "Gramolea"
 granari: 
   city: "granari"
-  accentcity: "Gr\xC3\xA2nari"
+  accentcity: "Grânari"
 graniceri: 
   city: "graniceri"
   accentcity: "Graniceri"
@@ -28799,7 +28799,7 @@ gubaucea:
   accentcity: "Gubaucea"
 guducs: 
   city: "guducs"
-  accentcity: "G\xC3\xBCd\xC3\xBCcs"
+  accentcity: "Güdücs"
 guechid: 
   city: "guechid"
   accentcity: "Guechid"
@@ -28874,7 +28874,7 @@ gura barbuletului:
   accentcity: "Gura Barbuletului"
 gura bascei: 
   city: "gura bascei"
-  accentcity: "Gura B\xC3\xA2scei"
+  accentcity: "Gura Bâscei"
 gura beliei: 
   city: "gura beliei"
   accentcity: "Gura Beliei"
@@ -29159,7 +29159,7 @@ gura rauhui:
   accentcity: "Gura Rauhui"
 gura-raului: 
   city: "gura-raului"
-  accentcity: "Gura-R\xC3\xA2ului"
+  accentcity: "Gura-Râului"
 gura riului: 
   city: "gura riului"
   accentcity: "Gura R\xC3\xAEului"
@@ -29414,7 +29414,7 @@ gyepes:
   accentcity: "Gyepes"
 gyergoszentmiklos: 
   city: "gyergoszentmiklos"
-  accentcity: "Gyerg\xC3\xB2szentmikl\xC3\xB2s"
+  accentcity: "Gyergòszentmiklòs"
 gyer: 
   city: "gyer"
   accentcity: "Gyér"
@@ -29444,7 +29444,7 @@ gyigyiseny-vojen:
   accentcity: "Gyigyisény-Vojén"
 gyilkosto: 
   city: "gyilkosto"
-  accentcity: "Gyilkost\xC3\xB2"
+  accentcity: "Gyilkostò"
 gyimesfelsolok: 
   city: "gyimesfelsolok"
   accentcity: "Gyimesfels\xC3\xB6lok"
@@ -29474,19 +29474,19 @@ gyulicza:
   accentcity: "Gyulicza"
 gyulvesz: 
   city: "gyulvesz"
-  accentcity: "Gy\xC3\xBClvész"
+  accentcity: "Gyülvész"
 gyulvez: 
   city: "gyulvez"
   accentcity: "Gyulvéz"
 gyureg: 
   city: "gyureg"
-  accentcity: "Gy\xC3\xBCreg"
+  accentcity: "Gyüreg"
 gyurke: 
   city: "gyurke"
-  accentcity: "Gy\xC3\xBCrke"
+  accentcity: "Gyürke"
 gyurok: 
   city: "gyurok"
-  accentcity: "Gy\xC3\xBCr\xC3\xB6k"
+  accentcity: "Gyür\xC3\xB6k"
 habasesti: 
   city: "habasesti"
   accentcity: "Habasesti"
@@ -29513,10 +29513,10 @@ hadad:
   accentcity: "Hadad"
 hadambu: 
   city: "hadambu"
-  accentcity: "Had\xC3\xA2mbu"
+  accentcity: "Hadâmbu"
 hadambul: 
   city: "hadambul"
-  accentcity: "Had\xC3\xA2mbul"
+  accentcity: "Hadâmbul"
 hadarau: 
   city: "hadarau"
   accentcity: "Hadarau"
@@ -29630,7 +29630,7 @@ halalis:
   accentcity: "Halalis"
 halanga: 
   city: "halanga"
-  accentcity: "Hal\xC3\xA2nga"
+  accentcity: "Halânga"
 halangesti: 
   city: "halangesti"
   accentcity: "Halangesti"
@@ -29774,7 +29774,7 @@ handresti:
   accentcity: "Handresti"
 hanescii: 
   city: "hanescii"
-  accentcity: "H\xC3\xA2nescii"
+  accentcity: "Hânescii"
 hanesti: 
   city: "hanesti"
   accentcity: "Hanesti"
@@ -29876,7 +29876,7 @@ haraul:
   accentcity: "Haraul"
 harco: 
   city: "harco"
-  accentcity: "Harc\xC3\xB2"
+  accentcity: "Harcò"
 hardabei: 
   city: "hardabei"
   accentcity: "Hardabei"
@@ -29894,16 +29894,16 @@ harghita:
   accentcity: "Harghita"
 hargitafurdo: 
   city: "hargitafurdo"
-  accentcity: "Hargitaf\xC3\xBCrd\xC3\xB6"
+  accentcity: "Hargitafürd\xC3\xB6"
 harhadau: 
   city: "harhadau"
   accentcity: "Harhadau"
 harja: 
   city: "harja"
-  accentcity: "H\xC3\xA2rja"
+  accentcity: "Hârja"
 harlau: 
   city: "harlau"
-  accentcity: "H\xC3\xA2rlau"
+  accentcity: "Hârlau"
 harlesti: 
   city: "harlesti"
   accentcity: "Harlesti"
@@ -29933,7 +29933,7 @@ harmasfalu:
   accentcity: "Hàrmasfalu"
 harnea: 
   city: "harnea"
-  accentcity: "H\xC3\xA2rnea"
+  accentcity: "Hârnea"
 harnicesti: 
   city: "harnicesti"
   accentcity: "Harnicesti"
@@ -29948,16 +29948,16 @@ harpasesti:
   accentcity: "Harpasesti"
 harsa: 
   city: "harsa"
-  accentcity: "H\xC3\xA2rsa"
+  accentcity: "Hârsa"
 harseni: 
   city: "harseni"
-  accentcity: "H\xC3\xA2rseni"
+  accentcity: "Hârseni"
 harsesti: 
   city: "harsesti"
   accentcity: "Harsesti"
 harsova: 
   city: "harsova"
-  accentcity: "H\xC3\xA2rsova"
+  accentcity: "Hârsova"
 harsoveni: 
   city: "harsoveni"
   accentcity: "Harsoveni"
@@ -29972,28 +29972,28 @@ hartaul:
   accentcity: "Hartaul"
 hartesti: 
   city: "hartesti"
-  accentcity: "H\xC3\xA2rtesti"
+  accentcity: "Hârtesti"
 hartiesti: 
   city: "hartiesti"
   accentcity: "Hartiesti"
 hartiestii: 
   city: "hartiestii"
-  accentcity: "H\xC3\xA2rtiestii"
+  accentcity: "Hârtiestii"
 hartioana razesti: 
   city: "hartioana razesti"
   accentcity: "Hartioana Razesti"
 hartoape: 
   city: "hartoape"
-  accentcity: "H\xC3\xA2rtoape"
+  accentcity: "Hârtoape"
 hartoapele: 
   city: "hartoapele"
-  accentcity: "H\xC3\xA2rtoapele"
+  accentcity: "Hârtoapele"
 hartop: 
   city: "hartop"
-  accentcity: "H\xC3\xA2rtop"
+  accentcity: "Hârtop"
 hartopul: 
   city: "hartopul"
-  accentcity: "H\xC3\xA2rtopul"
+  accentcity: "Hârtopul"
 harzesti: 
   city: "harzesti"
   accentcity: "Harzesti"
@@ -30098,7 +30098,7 @@ havadto:
   accentcity: "Havadto"
 havarna: 
   city: "havarna"
-  accentcity: "Hav\xC3\xA2rna"
+  accentcity: "Havârna"
 havas-dombravicza: 
   city: "havas-dombravicza"
   accentcity: "Havas-Dombravicza"
@@ -30311,7 +30311,7 @@ hesmas:
   accentcity: "Hesmás"
 hetbukk: 
   city: "hetbukk"
-  accentcity: "Hétb\xC3\xBCkk"
+  accentcity: "Hétbükk"
 hetca: 
   city: "hetca"
   accentcity: "Hetca"
@@ -30425,7 +30425,7 @@ hiliseul curt:
   accentcity: "Hiliseul Curt"
 hiliseul varnav: 
   city: "hiliseul varnav"
-  accentcity: "Hiliseul V\xC3\xA2rnav"
+  accentcity: "Hiliseul Vârnav"
 hiliseu-varnav: 
   city: "hiliseu-varnav"
   accentcity: "Hiliseu-Varnav"
@@ -30569,7 +30569,7 @@ hoceni:
   accentcity: "Hoceni"
 hoceni targ: 
   city: "hoceni targ"
-  accentcity: "Hoceni T\xC3\xA2rg"
+  accentcity: "Hoceni Târg"
 hoceni tirg: 
   city: "hoceni tirg"
   accentcity: "Hoceni T\xC3\xAErg"
@@ -30725,7 +30725,7 @@ holdt:
   accentcity: "Holdt"
 hollo: 
   city: "hollo"
-  accentcity: "Holl\xC3\xB2"
+  accentcity: "Hollò"
 hollosarka: 
   city: "hollosarka"
   accentcity: "Hollósarka"
@@ -30749,7 +30749,7 @@ holt:
   accentcity: "Holt"
 holtmaros: 
   city: "holtmaros"
-  accentcity: "H\xC3\xB2ltmaros"
+  accentcity: "Hòltmaros"
 holtu: 
   city: "holtu"
   accentcity: "Holtu"
@@ -30770,10 +30770,10 @@ homojdia:
   accentcity: "Homojdia"
 homoraciu: 
   city: "homoraciu"
-  accentcity: "Homor\xC3\xA2ciu"
+  accentcity: "Homorâciu"
 homoraciul: 
   city: "homoraciul"
-  accentcity: "Homor\xC3\xA2ciul"
+  accentcity: "Homorâciul"
 homoriciu: 
   city: "homoriciu"
   accentcity: "Homor\xC3\xAEciu"
@@ -30785,7 +30785,7 @@ homoriciu ungureni:
   accentcity: "Homor\xC3\xAEciu Ungureni"
 homorodalmas: 
   city: "homorodalmas"
-  accentcity: "Homor\xC3\xB2dalmàs"
+  accentcity: "Homoròdalmàs"
 homorod-bai: 
   city: "homorod-bai"
   accentcity: "Homorod-Bai"
@@ -30803,13 +30803,13 @@ homorod:
   accentcity: "Homorod"
 homorodkaracsonfalva: 
   city: "homorodkaracsonfalva"
-  accentcity: "Homor\xC3\xB2dkaràcsonfalva"
+  accentcity: "Homoròdkaràcsonfalva"
 homorodkemenyfalva: 
   city: "homorodkemenyfalva"
-  accentcity: "Homor\xC3\xB2dkemènyfalva"
+  accentcity: "Homoròdkemènyfalva"
 homorodremete: 
   city: "homorodremete"
-  accentcity: "Homor\xC3\xB2dremete"
+  accentcity: "Homoròdremete"
 homorodszentmarton: 
   city: "homorodszentmarton"
   accentcity: "Homoródszentmàrton"
@@ -30830,7 +30830,7 @@ homorodu de sus:
   accentcity: "Homorodu de Sus"
 homorodujfalu: 
   city: "homorodujfalu"
-  accentcity: "Homor\xC3\xB2dujfal\xC3\xB9"
+  accentcity: "Homoròdujfalù"
 homorodul-de-jos: 
   city: "homorodul-de-jos"
   accentcity: "Homorodul-de-Jos"
@@ -31820,7 +31820,7 @@ ilancu:
   accentcity: "Ilancu"
 ilanlac: 
   city: "ilanlac"
-  accentcity: "Ilanl\xC3\xA2c"
+  accentcity: "Ilanlâc"
 ilanlic: 
   city: "ilanlic"
   accentcity: "Ilanl\xC3\xAEc"
@@ -32480,7 +32480,7 @@ isvoru negru:
   accentcity: "Isvoru Negru"
 iszlo: 
   city: "iszlo"
-  accentcity: "Iszl\xC3\xB2"
+  accentcity: "Iszlò"
 iszujka: 
   city: "iszujka"
   accentcity: "Iszujka"
@@ -32594,7 +32594,7 @@ ivesti:
   accentcity: "Ivesti"
 ivopataka: 
   city: "ivopataka"
-  accentcity: "Iv\xC3\xB2pataka"
+  accentcity: "Ivòpataka"
 ivrinez: 
   city: "ivrinez"
   accentcity: "Ivrinez"
@@ -32699,7 +32699,7 @@ izvoru anestilor:
   accentcity: "Izvoru Anestilor"
 izvoru barzii: 
   city: "izvoru barzii"
-  accentcity: "Izvoru B\xC3\xA2rzii"
+  accentcity: "Izvoru Bârzii"
 izvoru berheciului: 
   city: "izvoru berheciului"
   accentcity: "Izvoru Berheciului"
@@ -32924,7 +32924,7 @@ jedd:
   accentcity: "Jedd"
 jeddukapu: 
   city: "jeddukapu"
-  accentcity: "Jedd\xC3\xBCkapu"
+  accentcity: "Jeddükapu"
 jeflesti: 
   city: "jeflesti"
   accentcity: "Jeflesti"
@@ -33428,7 +33428,7 @@ jupalnic:
   accentcity: "Jupalnic"
 jupaneasa: 
   city: "jupaneasa"
-  accentcity: "Jup\xC3\xA2neasa"
+  accentcity: "Jupâneasa"
 jupanesti: 
   city: "jupanesti"
   accentcity: "Jupanesti"
@@ -33473,10 +33473,10 @@ juriu de cimpie:
   accentcity: "Juriu de C\xC3\xAEmpie"
 juriul-de-campie: 
   city: "juriul-de-campie"
-  accentcity: "Juriul-de-C\xC3\xA2mpie"
+  accentcity: "Juriul-de-Câmpie"
 juriul de camp: 
   city: "juriul de camp"
-  accentcity: "Juriul de C\xC3\xA2mp"
+  accentcity: "Juriul de Câmp"
 jurjova: 
   city: "jurjova"
   accentcity: "Jurjova"
@@ -33581,7 +33581,7 @@ kapolnasfahi:
   accentcity: "K\xC3\xA4polnasfahi"
 kapolnasfalu: 
   city: "kapolnasfalu"
-  accentcity: "Kàpolnàsfal\xC3\xB9"
+  accentcity: "Kàpolnàsfalù"
 kaposztaszent: 
   city: "kaposztaszent"
   accentcity: "Kàposztászent"
@@ -33668,7 +33668,7 @@ kaszon:
   accentcity: "Kaszon"
 kaszonuifalu: 
   city: "kaszonuifalu"
-  accentcity: "Kàszonuifal\xC3\xB9"
+  accentcity: "Kàszonuifalù"
 kataloi: 
   city: "kataloi"
   accentcity: "Kataloi"
@@ -33794,7 +33794,7 @@ kezdi almas:
   accentcity: "Kézdi Almas"
 kezdi-martonos: 
   city: "kezdi-martonos"
-  accentcity: "Kézdi-Mart\xC3\xB2nos"
+  accentcity: "Kézdi-Martònos"
 kezdisznetlelek: 
   city: "kezdisznetlelek"
   accentcity: "Kèzdisznetlèlek"
@@ -33812,7 +33812,7 @@ kibed:
   accentcity: "Kibèd"
 kicsibukk: 
   city: "kicsibukk"
-  accentcity: "Kicsib\xC3\xBCkk"
+  accentcity: "Kicsibükk"
 kiliya veki: 
   city: "kiliya veki"
   accentcity: "Kiliya Veki"
@@ -33863,7 +33863,7 @@ kis bodza:
   accentcity: "Kis Bodza"
 kisborosnyo: 
   city: "kisborosnyo"
-  accentcity: "Kisborosny\xC3\xB2"
+  accentcity: "Kisborosnyò"
 kischoda: 
   city: "kischoda"
   accentcity: "Kischoda"
@@ -33884,7 +33884,7 @@ kisfeketefalu:
   accentcity: "Kisfeketefalu"
 kisfulpos: 
   city: "kisfulpos"
-  accentcity: "Kisf\xC3\xBClp\xC3\xB6s"
+  accentcity: "Kisfülp\xC3\xB6s"
 kisgaj: 
   city: "kisgaj"
   accentcity: "Kisgáj"
@@ -34178,7 +34178,7 @@ komlosch:
   accentcity: "Komlosch"
 komollo: 
   city: "komollo"
-  accentcity: "Komoll\xC3\xB2"
+  accentcity: "Komollò"
 komoriste: 
   city: "komoriste"
   accentcity: "Komoriste"
@@ -34283,7 +34283,7 @@ kortefaja:
   accentcity: "K\xC3\xB6rtefàja"
 kortekapu: 
   city: "kortekapu"
-  accentcity: "K\xC3\xB6rtekap\xC3\xB9"
+  accentcity: "K\xC3\xB6rtekapù"
 kostesci: 
   city: "kostesci"
   accentcity: "Kostesci"
@@ -34367,7 +34367,7 @@ kranichstatten:
   accentcity: "Kranichst\xC3\xA4tten"
 krassofuzes: 
   city: "krassofuzes"
-  accentcity: "Krassóf\xC3\xBCzes"
+  accentcity: "Krassófüzes"
 krassohodos: 
   city: "krassohodos"
   accentcity: "Krassóhódos"
@@ -34451,7 +34451,7 @@ kujed:
   accentcity: "Kujed"
 kukullokemenyfalva: 
   city: "kukullokemenyfalva"
-  accentcity: "K\xC3\xBCk\xC3\xBCllokemènyfalva"
+  accentcity: "Küküllokemènyfalva"
 kukullomezo: 
   city: "kukullomezo"
   accentcity: "Kukullomezo"
@@ -34469,16 +34469,16 @@ kurtapatak:
   accentcity: "Kurtapatak"
 kurtos: 
   city: "kurtos"
-  accentcity: "K\xC3\xBCrt\xC3\xB6s"
+  accentcity: "Kürt\xC3\xB6s"
 kusma: 
   city: "kusma"
   accentcity: "Kusma"
 kusmod: 
   city: "kusmod"
-  accentcity: "K\xC3\xBCsm\xC3\xB6d"
+  accentcity: "Küsm\xC3\xB6d"
 kustenja: 
   city: "kustenja"
-  accentcity: "K\xC3\xBCstenja"
+  accentcity: "Küstenja"
 kustenje: 
   city: "kustenje"
   accentcity: "Kustenje"
@@ -34721,7 +34721,7 @@ lancram:
   accentcity: "Lancram"
 langa: 
   city: "langa"
-  accentcity: "L\xC3\xA2nga"
+  accentcity: "Lânga"
 langendorf: 
   city: "langendorf"
   accentcity: "Langendorf"
@@ -34889,7 +34889,7 @@ la spahaia:
   accentcity: "La Spahaia"
 la stangoi: 
   city: "la stangoi"
-  accentcity: "La St\xC3\xA2ngoi"
+  accentcity: "La Stângoi"
 lastuni: 
   city: "lastuni"
   accentcity: "Lastuni"
@@ -35624,10 +35624,10 @@ listiva:
   accentcity: "Listiva"
 lisznyo: 
   city: "lisznyo"
-  accentcity: "Liszny\xC3\xB2"
+  accentcity: "Lisznyò"
 lisznyopatak: 
   city: "lisznyopatak"
-  accentcity: "Liszny\xC3\xB2patak"
+  accentcity: "Lisznyòpatak"
 lita: 
   city: "lita"
   accentcity: "Lita"
@@ -35699,7 +35699,7 @@ livadea:
   accentcity: "Livadea"
 livadia-de-camp: 
   city: "livadia-de-camp"
-  accentcity: "Livadia-de-C\xC3\xA2mp"
+  accentcity: "Livadia-de-Câmp"
 livadia de cimp: 
   city: "livadia de cimp"
   accentcity: "Livadia de C\xC3\xAEmp"
@@ -35750,7 +35750,7 @@ liveni virnav:
   accentcity: "Liveni V\xC3\xAErnav"
 liventi varnov: 
   city: "liventi varnov"
-  accentcity: "Liventi V\xC3\xA2rnov"
+  accentcity: "Liventi Vârnov"
 livezei: 
   city: "livezei"
   accentcity: "Livezei"
@@ -35795,10 +35795,10 @@ locusteni:
   accentcity: "Locusteni"
 loczifogado: 
   city: "loczifogado"
-  accentcity: "L\xC3\xB2czifogadó"
+  accentcity: "Lòczifogadó"
 locz: 
   city: "locz"
-  accentcity: "L\xC3\xB2cz"
+  accentcity: "Lòcz"
 lodroman: 
   city: "lodroman"
   accentcity: "Lodroman"
@@ -35822,7 +35822,7 @@ lojnita:
   accentcity: "Lojnita"
 lokod: 
   city: "lokod"
-  accentcity: "L\xC3\xB2kod"
+  accentcity: "Lòkod"
 lolesti: 
   city: "lolesti"
   accentcity: "Lolesti"
@@ -36257,7 +36257,7 @@ lunca gantei:
   accentcity: "Lunca Gantei"
 lunca gartii: 
   city: "lunca gartii"
-  accentcity: "Lunca G\xC3\xA2rtii"
+  accentcity: "Lunca Gârtii"
 lunca girtii: 
   city: "lunca girtii"
   accentcity: "Lunca Girtii"
@@ -36404,7 +36404,7 @@ luncasprie:
   accentcity: "Luncasprie"
 lunca strambului: 
   city: "lunca strambului"
-  accentcity: "Lunca Str\xC3\xA2mbului"
+  accentcity: "Lunca Strâmbului"
 lunca strimbului: 
   city: "lunca strimbului"
   accentcity: "Lunca Str\xC3\xAEmbului"
@@ -37352,10 +37352,10 @@ malul-spart:
   accentcity: "Malul-Spart"
 malul vanat: 
   city: "malul vanat"
-  accentcity: "Malul V\xC3\xA2nat"
+  accentcity: "Malul Vânat"
 malul vartop: 
   city: "malul vartop"
-  accentcity: "Malul V\xC3\xA2rtop"
+  accentcity: "Malul Vârtop"
 malu: 
   city: "malu"
   accentcity: "Malu"
@@ -37442,7 +37442,7 @@ mamura:
   accentcity: "Mamura"
 mamuslia: 
   city: "mamuslia"
-  accentcity: "Mam\xC3\xBCslia"
+  accentcity: "Mamüslia"
 mamutcuius: 
   city: "mamutcuius"
   accentcity: "Mamutcuius"
@@ -37505,7 +37505,7 @@ manastirea ghighiul:
   accentcity: "Manastirea Ghighiul"
 manastirea gologan: 
   city: "manastirea gologan"
-  accentcity: "M\xC3\xA2nastirea Gologan"
+  accentcity: "Mânastirea Gologan"
 manastirea homorului: 
   city: "manastirea homorului"
   accentcity: "Manastirea Homorului"
@@ -37517,7 +37517,7 @@ manastirea-humorului:
   accentcity: "Manastirea-Humorului"
 manastirea: 
   city: "manastirea"
-  accentcity: "M\xC3\xA2nastirea"
+  accentcity: "Mânastirea"
 manastirea-neamt: 
   city: "manastirea-neamt"
   accentcity: "Manastirea-Neamt"
@@ -37628,7 +37628,7 @@ mandrisca:
   accentcity: "Mandrisca"
 mandruloc: 
   city: "mandruloc"
-  accentcity: "M\xC3\xA2ndruloc"
+  accentcity: "Mândruloc"
 maneasa: 
   city: "maneasa"
   accentcity: "Maneasa"
@@ -37694,13 +37694,13 @@ manioaia:
   accentcity: "Manioaia"
 maniom: 
   city: "maniom"
-  accentcity: "M\xC3\xA2niom"
+  accentcity: "Mâniom"
 manjesti: 
   city: "manjesti"
   accentcity: "Manjesti"
 manjina: 
   city: "manjina"
-  accentcity: "M\xC3\xA2njina"
+  accentcity: "Mânjina"
 manoiu: 
   city: "manoiu"
   accentcity: "Manoiu"
@@ -37763,7 +37763,7 @@ manzati-razesti:
   accentcity: "Manzati-Razesti"
 manzul: 
   city: "manzul"
-  accentcity: "M\xC3\xA2nzul"
+  accentcity: "Mânzul"
 maraceni: 
   city: "maraceni"
   accentcity: "Maraceni"
@@ -37946,10 +37946,10 @@ margheni:
   accentcity: "Margheni"
 marghia-de jos: 
   city: "marghia-de jos"
-  accentcity: "M\xC3\xA2rghia-de Jos"
+  accentcity: "Mârghia-de Jos"
 marghia-de sus: 
   city: "marghia-de sus"
-  accentcity: "M\xC3\xA2rghia-de Sus"
+  accentcity: "Mârghia-de Sus"
 marghita: 
   city: "marghita"
   accentcity: "Marghita"
@@ -38075,13 +38075,13 @@ markuszek:
   accentcity: "Márkuszék"
 marleanul: 
   city: "marleanul"
-  accentcity: "M\xC3\xA2rleanul"
+  accentcity: "Mârleanul"
 marleanu: 
   city: "marleanu"
-  accentcity: "M\xC3\xA2rleanu"
+  accentcity: "Mârleanu"
 marlogea: 
   city: "marlogea"
-  accentcity: "M\xC3\xA2rlogea"
+  accentcity: "Mârlogea"
 marmanu: 
   city: "marmanu"
   accentcity: "Marmanu"
@@ -38162,7 +38162,7 @@ marosnagyvolgy:
   accentcity: "Marosnagyv\xC3\xB6lgy"
 marosoroszfalu: 
   city: "marosoroszfalu"
-  accentcity: "Marosoroszfal\xC3\xB9"
+  accentcity: "Marosoroszfalù"
 marospetres: 
   city: "marospetres"
   accentcity: "Marospetres"
@@ -38321,7 +38321,7 @@ marvila:
   accentcity: "Marvila"
 marza: 
   city: "marza"
-  accentcity: "M\xC3\xA2rza"
+  accentcity: "Mârza"
 marzanesti: 
   city: "marzanesti"
   accentcity: "Marzanesti"
@@ -38444,7 +38444,7 @@ matnicul mare:
   accentcity: "Matnicul Mare"
 matnicul mic: 
   city: "matnicul mic"
-  accentcity: "M\xC3\xA2tnicul Mic"
+  accentcity: "Mâtnicul Mic"
 matracaua: 
   city: "matracaua"
   accentcity: "Matracaua"
@@ -38999,7 +38999,7 @@ mezopanit:
   accentcity: "Mez\xC3\xB6panit"
 mezorucs: 
   city: "mezorucs"
-  accentcity: "Mez\xC3\xB6r\xC3\xBCcs"
+  accentcity: "Mez\xC3\xB6rücs"
 mezosomlyo: 
   city: "mezosomlyo"
   accentcity: "Mezosomlyo"
@@ -39368,7 +39368,7 @@ miklosfalva:
   accentcity: "Miklósfalva"
 miklosvar: 
   city: "miklosvar"
-  accentcity: "Mikl\xC3\xB2svar"
+  accentcity: "Miklòsvar"
 mikofalva: 
   city: "mikofalva"
   accentcity: "Mikófalva"
@@ -39380,7 +39380,7 @@ mikoszalatna:
   accentcity: "Mikószalatna"
 mikoujfalu: 
   city: "mikoujfalu"
-  accentcity: "Mik\xC3\xB4ujfal\xC3\xB9"
+  accentcity: "Mikôujfalù"
 mila 23: 
   city: "mila 23"
   accentcity: "Mila 23"
@@ -39503,7 +39503,7 @@ miluta:
   accentcity: "Miluta"
 mina-altan-tepe: 
   city: "mina-altan-tepe"
-  accentcity: "Mina-Alt\xC3\xA2n-Tepe"
+  accentcity: "Mina-Altân-Tepe"
 mina altantep: 
   city: "mina altantep"
   accentcity: "Mina Altantep"
@@ -40316,7 +40316,7 @@ mogos valea birnii:
   accentcity: "Mogos Valea Birnii"
 mohartarii: 
   city: "mohartarii"
-  accentcity: "Moh\xC3\xA2rtarii"
+  accentcity: "Mohârtarii"
 mohirtari: 
   city: "mohirtari"
   accentcity: "Mohirtari"
@@ -40490,7 +40490,7 @@ moniom:
   accentcity: "Moniom"
 monorfalva: 
   city: "monorfalva"
-  accentcity: "M\xC3\xB4norfalva"
+  accentcity: "Mônorfalva"
 monor: 
   city: "monor"
   accentcity: "Monor"
@@ -40760,7 +40760,7 @@ motaeni:
   accentcity: "Motaeni"
 motalva: 
   city: "motalva"
-  accentcity: "Mot\xC3\xA2lva"
+  accentcity: "Motâlva"
 motatei gara: 
   city: "motatei gara"
   accentcity: "Motatei Gara"
@@ -40991,7 +40991,7 @@ mugesti-recea:
   accentcity: "Mugesti-Recea"
 muhlbach: 
   city: "muhlbach"
-  accentcity: "M\xC3\xBChlbach"
+  accentcity: "Mühlbach"
 muierusul: 
   city: "muierusul"
   accentcity: "Muierusul"
@@ -41222,7 +41222,7 @@ murgeanca:
   accentcity: "Murgeanca"
 murgenii targ: 
   city: "murgenii targ"
-  accentcity: "Murgenii T\xC3\xA2rg"
+  accentcity: "Murgenii Târg"
 murgeni: 
   city: "murgeni"
   accentcity: "Murgeni"
@@ -41507,7 +41507,7 @@ nagybodofalva:
   accentcity: "Nagybodófalva"
 nagyborosnyo: 
   city: "nagyborosnyo"
-  accentcity: "Nagyborosny\xC3\xB2"
+  accentcity: "Nagyborosnyò"
 nagycsanad: 
   city: "nagycsanad"
   accentcity: "Nagycsanád"
@@ -41822,10 +41822,10 @@ nazaroaia:
   accentcity: "Nazaroaia"
 nazarul: 
   city: "nazarul"
-  accentcity: "Naz\xC3\xA2rul"
+  accentcity: "Nazârul"
 nazaru: 
   city: "nazaru"
-  accentcity: "Naz\xC3\xA2ru"
+  accentcity: "Nazâru"
 naziru: 
   city: "naziru"
   accentcity: "Naz\xC3\xAEru"
@@ -41867,7 +41867,7 @@ nearsova:
   accentcity: "Nearsova"
 neatarnarea: 
   city: "neatarnarea"
-  accentcity: "Neat\xC3\xA2rnarea"
+  accentcity: "Neatârnarea"
 neatirnarea: 
   city: "neatirnarea"
   accentcity: "Neat\xC3\xAErnarea"
@@ -42644,7 +42644,7 @@ noul:
   accentcity: "Noul"
 noul roman: 
   city: "noul roman"
-  accentcity: "Noul Rom\xC3\xA2n"
+  accentcity: "Noul Român"
 noul-romin: 
   city: "noul-romin"
   accentcity: "Noul-Rom\xC3\xAEn"
@@ -42665,7 +42665,7 @@ novacesti:
   accentcity: "Novacesti"
 novacii-romani: 
   city: "novacii-romani"
-  accentcity: "Novacii-Rom\xC3\xA2ni"
+  accentcity: "Novacii-Români"
 novacii-straini: 
   city: "novacii-straini"
   accentcity: "Novacii-Straini"
@@ -42773,7 +42773,7 @@ nyaradkoszvenyes:
   accentcity: "Nyàràdk\xC3\xB6szvênyes"
 nyaradmogyoros: 
   city: "nyaradmogyoros"
-  accentcity: "Nyàràdmogyor\xC3\xB2s"
+  accentcity: "Nyàràdmogyoròs"
 nyaradremete: 
   city: "nyaradremete"
   accentcity: "Nyàradremete"
@@ -42815,7 +42815,7 @@ nyomat:
   accentcity: "Nyomàt"
 nyujtod: 
   city: "nyujtod"
-  accentcity: "Nyujt\xC3\xB2d"
+  accentcity: "Nyujtòd"
 oaia: 
   city: "oaia"
   accentcity: "Oaia"
@@ -42884,7 +42884,7 @@ obarseni clacasi:
   accentcity: "Obarseni Clacasi"
 obarsenii lingurari: 
   city: "obarsenii lingurari"
-  accentcity: "Ob\xC3\xA2rsenii Lingurari"
+  accentcity: "Obârsenii Lingurari"
 obarsenii razesi: 
   city: "obarsenii razesi"
   accentcity: "Obarsenii Razesi"
@@ -42905,19 +42905,19 @@ obarsia noua:
   accentcity: "Obarsia Noua"
 obarsia: 
   city: "obarsia"
-  accentcity: "Ob\xC3\xA2rsia"
+  accentcity: "Obârsia"
 obarsia-veche: 
   city: "obarsia-veche"
   accentcity: "Obarsia-Veche"
 obart: 
   city: "obart"
-  accentcity: "Ob\xC3\xA2rt"
+  accentcity: "Obârt"
 obcina: 
   city: "obcina"
   accentcity: "Obcina"
 obeb: 
   city: "obeb"
-  accentcity: "\xC3\x93béb"
+  accentcity: "Óbéb"
 obedeni: 
   city: "obedeni"
   accentcity: "Obedeni"
@@ -43013,7 +43013,7 @@ oblesti:
   accentcity: "Oblesti"
 obodrog: 
   city: "obodrog"
-  accentcity: "\xC3\x93bodrog"
+  accentcity: "Óbodrog"
 oboga de jos: 
   city: "oboga de jos"
   accentcity: "Oboga de Jos"
@@ -43040,7 +43040,7 @@ oboroceni:
   accentcity: "Oboroceni"
 oborsa: 
   city: "oborsa"
-  accentcity: "\xC3\x93borsa"
+  accentcity: "Óborsa"
 obranesti: 
   city: "obranesti"
   accentcity: "Obranesti"
@@ -43187,7 +43187,7 @@ ocracu:
   accentcity: "Ocracu"
 ocsisor: 
   city: "ocsisor"
-  accentcity: "\xC3\x93csisor"
+  accentcity: "Ócsisor"
 ocs: 
   city: "ocs"
   accentcity: "Ocs"
@@ -43430,13 +43430,13 @@ ohaba lunga:
   accentcity: "Ohaba Lunga"
 ohaba-matnic: 
   city: "ohaba-matnic"
-  accentcity: "Ohaba-M\xC3\xA2tnic"
+  accentcity: "Ohaba-Mâtnic"
 ohaba-matnicuiul: 
   city: "ohaba-matnicuiul"
-  accentcity: "Ohaba-M\xC3\xA2tnicuiul"
+  accentcity: "Ohaba-Mâtnicuiul"
 ohaba-matnicului: 
   city: "ohaba-matnicului"
-  accentcity: "Ohaba-M\xC3\xA2tnicului"
+  accentcity: "Ohaba-Mâtnicului"
 ohaba mitnic: 
   city: "ohaba mitnic"
   accentcity: "Ohaba M\xC3\xAEtnic"
@@ -43640,7 +43640,7 @@ omboztelke:
   accentcity: "Omboztelke"
 omoracea: 
   city: "omoracea"
-  accentcity: "Omor\xC3\xA2cea"
+  accentcity: "Omorâcea"
 omoricea: 
   city: "omoricea"
   accentcity: "Omor\xC3\xAEcea"
@@ -43706,7 +43706,7 @@ onuca:
   accentcity: "Onuca"
 opalos: 
   city: "opalos"
-  accentcity: "\xC3\x93pálos"
+  accentcity: "Ópálos"
 opariti: 
   city: "opariti"
   accentcity: "Opariti"
@@ -43724,10 +43724,10 @@ opatita:
   accentcity: "Opatita"
 opaulis: 
   city: "opaulis"
-  accentcity: "\xC3\x93paulis"
+  accentcity: "Ópaulis"
 opecska: 
   city: "opecska"
-  accentcity: "\xC3\x93pécska"
+  accentcity: "Ópécska"
 o-pojana: 
   city: "o-pojana"
   accentcity: "O-Pojana"
@@ -44075,7 +44075,7 @@ oroiu de cimpie:
   accentcity: "Oroiu de C\xC3\xAEmpie"
 oroiul de campie: 
   city: "oroiul de campie"
-  accentcity: "Oroiul de C\xC3\xA2mpie"
+  accentcity: "Oroiul de Câmpie"
 oroiul: 
   city: "oroiul"
   accentcity: "Oroiul"
@@ -44093,7 +44093,7 @@ orosia:
   accentcity: "Orosia"
 oroszfalu: 
   city: "oroszfalu"
-  accentcity: "Oroszfal\xC3\xB9"
+  accentcity: "Oroszfalù"
 oroszhegy: 
   city: "oroszhegy"
   accentcity: "Oroszhegy"
@@ -44318,7 +44318,7 @@ otelec:
   accentcity: "Otelec"
 otelek: 
   city: "otelek"
-  accentcity: "\xC3\x93telek"
+  accentcity: "Ótelek"
 otelelesanii: 
   city: "otelelesanii"
   accentcity: "Otelelesanii"
@@ -44459,7 +44459,7 @@ pacioiu:
   accentcity: "Pacioiu"
 paclele: 
   city: "paclele"
-  accentcity: "P\xC3\xA2clele"
+  accentcity: "Pâclele"
 paclisa: 
   city: "paclisa"
   accentcity: "Paclisa"
@@ -44588,7 +44588,7 @@ paduroiu:
   accentcity: "Paduroiu"
 paelele: 
   city: "paelele"
-  accentcity: "P\xC3\xA2elele"
+  accentcity: "Pâelele"
 pafranyos: 
   city: "pafranyos"
   accentcity: "Páfrányos"
@@ -44618,7 +44618,7 @@ pagubeni:
   accentcity: "Pagubeni"
 pahna: 
   city: "pahna"
-  accentcity: "P\xC3\xA2hna"
+  accentcity: "Pâhna"
 pahnestia: 
   city: "pahnestia"
   accentcity: "Pahnestia"
@@ -44771,7 +44771,7 @@ palilula:
   accentcity: "Palilula"
 palita: 
   city: "palita"
-  accentcity: "P\xC3\xA2lita"
+  accentcity: "Pâlita"
 palos: 
   city: "palos"
   accentcity: "Palos"
@@ -44828,7 +44828,7 @@ paltinu:
   accentcity: "Paltinu"
 pamanteni: 
   city: "pamanteni"
-  accentcity: "Pam\xC3\xA2nteni"
+  accentcity: "Pamânteni"
 paminteni: 
   city: "paminteni"
   accentcity: "Paminteni"
@@ -44876,7 +44876,7 @@ panciu:
   accentcity: "Panciu"
 pancota: 
   city: "pancota"
-  accentcity: "P\xC3\xA2ncota"
+  accentcity: "Pâncota"
 panc: 
   city: "panc"
   accentcity: "Panc"
@@ -44942,7 +44942,7 @@ pantea:
   accentcity: "Pantea"
 pantecani: 
   city: "pantecani"
-  accentcity: "P\xC3\xA2ntecani"
+  accentcity: "Pântecani"
 pantelimon de jos: 
   city: "pantelimon de jos"
   accentcity: "Pantelimon de Jos"
@@ -45032,22 +45032,22 @@ paracz:
   accentcity: "Parácz"
 paraeie: 
   city: "paraeie"
-  accentcity: "P\xC3\xA2raeie"
+  accentcity: "Pâraeie"
 paraeni de jos: 
   city: "paraeni de jos"
-  accentcity: "P\xC3\xA2r\xC3\xA2eni de Jos"
+  accentcity: "Pârâeni de Jos"
 paraenii de mijloc: 
   city: "paraenii de mijloc"
-  accentcity: "P\xC3\xA2r\xC3\xA2enii de Mijloc"
+  accentcity: "Pârâenii de Mijloc"
 paraenii de sus: 
   city: "paraenii de sus"
-  accentcity: "P\xC3\xA2r\xC3\xA2enii de Sus"
+  accentcity: "Pârâenii de Sus"
 paraeni: 
   city: "paraeni"
   accentcity: "Paraeni"
 parae: 
   city: "parae"
-  accentcity: "P\xC3\xA2rae"
+  accentcity: "Pârae"
 paraesti: 
   city: "paraesti"
   accentcity: "Paraesti"
@@ -45056,7 +45056,7 @@ paragina:
   accentcity: "Paragina"
 paraie: 
   city: "paraie"
-  accentcity: "P\xC3\xA2raie"
+  accentcity: "Pâraie"
 paraipani: 
   city: "paraipani"
   accentcity: "Paraipani"
@@ -45077,55 +45077,55 @@ paratz:
   accentcity: "Parátz"
 parau boghii: 
   city: "parau boghii"
-  accentcity: "P\xC3\xA2r\xC3\xA2u Boghii"
+  accentcity: "Pârâu Boghii"
 parau-boia: 
   city: "parau-boia"
-  accentcity: "P\xC3\xA2r\xC3\xA2u-Boia"
+  accentcity: "Pârâu-Boia"
 parau boului: 
   city: "parau boului"
-  accentcity: "P\xC3\xA2r\xC3\xA2u Boului"
+  accentcity: "Pârâu Boului"
 parau de pripor: 
   city: "parau de pripor"
-  accentcity: "P\xC3\xA2r\xC3\xA2u de Pripor"
+  accentcity: "Pârâu de Pripor"
 parau de vale: 
   city: "parau de vale"
-  accentcity: "P\xC3\xA2r\xC3\xA2u de Vale"
+  accentcity: "Pârâu de Vale"
 paraul-boia: 
   city: "paraul-boia"
-  accentcity: "P\xC3\xA2r\xC3\xA2ul-Boia"
+  accentcity: "Pârâul-Boia"
 paraul cailor: 
   city: "paraul cailor"
-  accentcity: "P\xC3\xA2r\xC3\xA2ul Cailor"
+  accentcity: "Pârâul Cailor"
 paraul carjei: 
   city: "paraul carjei"
-  accentcity: "P\xC3\xA2r\xC3\xA2ul Carjei"
+  accentcity: "Pârâul Carjei"
 paraul de sub pripoi: 
   city: "paraul de sub pripoi"
-  accentcity: "P\xC3\xA2r\xC3\xA2ul de Sub Pripoi"
+  accentcity: "Pârâul de Sub Pripoi"
 paraul de sub pripor: 
   city: "paraul de sub pripor"
-  accentcity: "P\xC3\xA2r\xC3\xA2ul de Sub Pripor"
+  accentcity: "Pârâul de Sub Pripor"
 paraul fagului: 
   city: "paraul fagului"
   accentcity: "Paraul Fagului"
 paraul pantei: 
   city: "paraul pantei"
-  accentcity: "P\xC3\xA2r\xC3\xA2ul Pantei"
+  accentcity: "Pârâul Pantei"
 paraul: 
   city: "paraul"
-  accentcity: "P\xC3\xA2r\xC3\xA2ul"
+  accentcity: "Pârâul"
 paraul ursului: 
   city: "paraul ursului"
-  accentcity: "P\xC3\xA2r\xC3\xA2ul Ursului"
+  accentcity: "Pârâul Ursului"
 paraul viu: 
   city: "paraul viu"
-  accentcity: "P\xC3\xA2r\xC3\xA2ul Viu"
+  accentcity: "Pârâul Viu"
 parau negru: 
   city: "parau negru"
-  accentcity: "P\xC3\xA2r\xC3\xA2u Negru"
+  accentcity: "Pârâu Negru"
 parau: 
   city: "parau"
-  accentcity: "P\xC3\xA2r\xC3\xA2u"
+  accentcity: "Pârâu"
 parausani: 
   city: "parausani"
   accentcity: "Parausani"
@@ -45140,7 +45140,7 @@ parches:
   accentcity: "Parches"
 parcovaci: 
   city: "parcovaci"
-  accentcity: "P\xC3\xA2rcovaci"
+  accentcity: "Pârcovaci"
 parcovici: 
   city: "parcovici"
   accentcity: "Parcovici"
@@ -45197,34 +45197,34 @@ pariu:
   accentcity: "Pariu"
 parjoaia: 
   city: "parjoaia"
-  accentcity: "P\xC3\xA2rjoaia"
+  accentcity: "Pârjoaia"
 parjolesti: 
   city: "parjolesti"
-  accentcity: "P\xC3\xA2rjolesti"
+  accentcity: "Pârjolesti"
 parjol: 
   city: "parjol"
-  accentcity: "P\xC3\xA2rjol"
+  accentcity: "Pârjol"
 parlagele: 
   city: "parlagele"
-  accentcity: "P\xC3\xA2rlagele"
+  accentcity: "Pârlagele"
 parligeni: 
   city: "parligeni"
-  accentcity: "P\xC3\xA2rligeni"
+  accentcity: "Pârligeni"
 parlita: 
   city: "parlita"
-  accentcity: "P\xC3\xA2rlita"
+  accentcity: "Pârlita"
 parliti: 
   city: "parliti"
   accentcity: "Parliti"
 parlitul: 
   city: "parlitul"
-  accentcity: "P\xC3\xA2rlitul"
+  accentcity: "Pârlitul"
 parlituril: 
   city: "parlituril"
-  accentcity: "P\xC3\xA2rlituril"
+  accentcity: "Pârlituril"
 parneaura: 
   city: "parneaura"
-  accentcity: "P\xC3\xA2rneaura"
+  accentcity: "Pârneaura"
 parnesti: 
   city: "parnesti"
   accentcity: "Parnesti"
@@ -45275,28 +45275,28 @@ parsanii vechi:
   accentcity: "Parsanii Vechi"
 parsani noui: 
   city: "parsani noui"
-  accentcity: "P\xC3\xA2rsani Noui"
+  accentcity: "Pârsani Noui"
 parsani: 
   city: "parsani"
   accentcity: "Parsani"
 parscov de jos: 
   city: "parscov de jos"
-  accentcity: "P\xC3\xA2rscov de Jos"
+  accentcity: "Pârscov de Jos"
 parscov de sus: 
   city: "parscov de sus"
-  accentcity: "P\xC3\xA2rscov de Sus"
+  accentcity: "Pârscov de Sus"
 parscoveni: 
   city: "parscoveni"
   accentcity: "Parscoveni"
 parscov: 
   city: "parscov"
-  accentcity: "P\xC3\xA2rscov"
+  accentcity: "Pârscov"
 parscovul: 
   city: "parscovul"
-  accentcity: "P\xC3\xA2rscovul"
+  accentcity: "Pârscovul"
 parscovu: 
   city: "parscovu"
-  accentcity: "P\xC3\xA2rscovu"
+  accentcity: "Pârscovu"
 parta: 
   city: "parta"
   accentcity: "Parta"
@@ -45338,13 +45338,13 @@ parva:
   accentcity: "Parva"
 parvesti: 
   city: "parvesti"
-  accentcity: "P\xC3\xA2rvesti"
+  accentcity: "Pârvesti"
 parvinesti: 
   city: "parvinesti"
-  accentcity: "P\xC3\xA2rvinesti"
+  accentcity: "Pârvinesti"
 parvova: 
   city: "parvova"
-  accentcity: "P\xC3\xA2rvova"
+  accentcity: "Pârvova"
 parvulestii: 
   city: "parvulestii"
   accentcity: "Parvulestii"
@@ -45353,7 +45353,7 @@ parvulesti:
   accentcity: "Parvulesti"
 parvul rosu: 
   city: "parvul rosu"
-  accentcity: "P\xC3\xA2rvul Rosu"
+  accentcity: "Pârvul Rosu"
 parvu rosu: 
   city: "parvu rosu"
   accentcity: "Parvu Rosu"
@@ -45428,7 +45428,7 @@ pasculesti:
   accentcity: "Pasculesti"
 paslari: 
   city: "paslari"
-  accentcity: "P\xC3\xA2slari"
+  accentcity: "Pâslari"
 pastarnac: 
   city: "pastarnac"
   accentcity: "Pastarnac"
@@ -46097,7 +46097,7 @@ petculesti:
   accentcity: "Petculesti"
 petea de campie: 
   city: "petea de campie"
-  accentcity: "Petea de C\xC3\xA2mpie"
+  accentcity: "Petea de Câmpie"
 petea de cimpie: 
   city: "petea de cimpie"
   accentcity: "Petea de C\xC3\xAEmpie"
@@ -47333,7 +47333,7 @@ plaiul birgaului:
   accentcity: "Plaiul Birgaului"
 plaiul campinei: 
   city: "plaiul campinei"
-  accentcity: "Plaiul C\xC3\xA2mpinei"
+  accentcity: "Plaiul Câmpinei"
 plaiul cimpinei: 
   city: "plaiul cimpinei"
   accentcity: "Plaiul C\xC3\xAEmpinei"
@@ -47534,7 +47534,7 @@ plopana-sat:
   accentcity: "Plopana-Sat"
 plopana targ: 
   city: "plopana targ"
-  accentcity: "Plopana T\xC3\xA2rg"
+  accentcity: "Plopana Târg"
 plopana-tirg: 
   city: "plopana-tirg"
   accentcity: "Plopana-T\xC3\xAErg"
@@ -47915,7 +47915,7 @@ podul dambovitei:
   accentcity: "Podul Dambovitei"
 podul damboviti: 
   city: "podul damboviti"
-  accentcity: "Podul D\xC3\xA2mboviti"
+  accentcity: "Podul Dâmboviti"
 podul-grosului: 
   city: "podul-grosului"
   accentcity: "Podul-Grosului"
@@ -47996,7 +47996,7 @@ podul valeni:
   accentcity: "Podul Valeni"
 podul vartos: 
   city: "podul vartos"
-  accentcity: "Podul V\xC3\xA2rtos"
+  accentcity: "Podul Vârtos"
 podu muncii: 
   city: "podu muncii"
   accentcity: "Podu Muncii"
@@ -48335,7 +48335,7 @@ poiana boului:
   accentcity: "Poiana Boului"
 poiana-campina: 
   city: "poiana-campina"
-  accentcity: "Poiana-C\xC3\xA2mpina"
+  accentcity: "Poiana-Câmpina"
 poiana cimpina: 
   city: "poiana cimpina"
   accentcity: "Poiana C\xC3\xAEmpina"
@@ -48449,7 +48449,7 @@ poiana lui matei:
   accentcity: "Poiana lui Matei"
 poiana lui stanga: 
   city: "poiana lui stanga"
-  accentcity: "Poiana lui St\xC3\xA2nga"
+  accentcity: "Poiana lui Stânga"
 poiana lui stan: 
   city: "poiana lui stan"
   accentcity: "Poiana lui Stan"
@@ -48623,7 +48623,7 @@ poiana vadului:
   accentcity: "Poiana Vadului"
 poiana valcului: 
   city: "poiana valcului"
-  accentcity: "Poiana V\xC3\xA2lcului"
+  accentcity: "Poiana Vâlcului"
 poiana-valea-iepei: 
   city: "poiana-valea-iepei"
   accentcity: "Poiana-Valea-Iepei"
@@ -48728,7 +48728,7 @@ pojan:
   accentcity: "Pojan"
 pojarata: 
   city: "pojarata"
-  accentcity: "Pojar\xC3\xA2ta"
+  accentcity: "Pojarâta"
 pojarul: 
   city: "pojarul"
   accentcity: "Pojarul"
@@ -48773,7 +48773,7 @@ pojorani:
   accentcity: "Pojorani"
 pojorata: 
   city: "pojorata"
-  accentcity: "Pojor\xC3\xA2ta"
+  accentcity: "Pojorâta"
 pojoreni: 
   city: "pojoreni"
   accentcity: "Pojoreni"
@@ -48788,10 +48788,10 @@ poju:
   accentcity: "Poju"
 pokakeresztur: 
   city: "pokakeresztur"
-  accentcity: "P\xC3\xB2kakeresztur"
+  accentcity: "Pòkakeresztur"
 poka: 
   city: "poka"
-  accentcity: "P\xC3\xB2ka"
+  accentcity: "Pòka"
 poklusa: 
   city: "poklusa"
   accentcity: "Poklusa"
@@ -48851,7 +48851,7 @@ polyana:
   accentcity: "Polyána"
 pomarla: 
   city: "pomarla"
-  accentcity: "Pom\xC3\xA2rla"
+  accentcity: "Pomârla"
 pometea: 
   city: "pometea"
   accentcity: "Pometea"
@@ -49262,10 +49262,10 @@ posta:
   accentcity: "Posta"
 postarnacul: 
   city: "postarnacul"
-  accentcity: "Post\xC3\xA2rnacul"
+  accentcity: "Postârnacul"
 postarnacu: 
   city: "postarnacu"
-  accentcity: "Post\xC3\xA2rnacu"
+  accentcity: "Postârnacu"
 postavari: 
   city: "postavari"
   accentcity: "Postavari"
@@ -49283,7 +49283,7 @@ potana:
   accentcity: "Potana"
 potangeni: 
   city: "potangeni"
-  accentcity: "Pot\xC3\xA2ngeni"
+  accentcity: "Potângeni"
 potarnichesti: 
   city: "potarnichesti"
   accentcity: "Potarnichesti"
@@ -49400,7 +49400,7 @@ potur:
   accentcity: "Potur"
 povargina: 
   city: "povargina"
-  accentcity: "Pov\xC3\xA2rgina"
+  accentcity: "Povârgina"
 povirgina: 
   city: "povirgina"
   accentcity: "Pov\xC3\xAErgina"
@@ -49475,7 +49475,7 @@ prazsmar:
   accentcity: "Prazsmar"
 preajba de camp: 
   city: "preajba de camp"
-  accentcity: "Preajba de C\xC3\xA2mp"
+  accentcity: "Preajba de Câmp"
 preajba de cimp: 
   city: "preajba de cimp"
   accentcity: "Preajba de C\xC3\xAEmp"
@@ -50387,7 +50387,7 @@ rabagani:
   accentcity: "Rabagani"
 rabaia: 
   city: "rabaia"
-  accentcity: "Rab\xC3\xA2ia"
+  accentcity: "Rabâia"
 raba: 
   city: "raba"
   accentcity: "Raba"
@@ -50408,7 +50408,7 @@ raca noua:
   accentcity: "Raca Noua"
 raca: 
   city: "raca"
-  accentcity: "R\xC3\xA2ca"
+  accentcity: "Râca"
 racarii de jos: 
   city: "racarii de jos"
   accentcity: "Racarii de Jos"
@@ -50459,7 +50459,7 @@ racautul:
   accentcity: "Racautul"
 raca-veche: 
   city: "raca-veche"
-  accentcity: "R\xC3\xA2ca-Veche"
+  accentcity: "Râca-Veche"
 racea: 
   city: "racea"
   accentcity: "Racea"
@@ -50552,10 +50552,10 @@ racis:
   accentcity: "Racis"
 raciul: 
   city: "raciul"
-  accentcity: "R\xC3\xA2ciul"
+  accentcity: "Râciul"
 raciu: 
   city: "raciu"
-  accentcity: "R\xC3\xA2ciu"
+  accentcity: "Râciu"
 racoasa: 
   city: "racoasa"
   accentcity: "Racoasa"
@@ -50720,7 +50720,7 @@ radna:
   accentcity: "Radna"
 radnotfaja: 
   city: "radnotfaja"
-  accentcity: "Radn\xC3\xB2tfàja"
+  accentcity: "Radnòtfàja"
 radoaia: 
   city: "radoaia"
   accentcity: "Radoaia"
@@ -50840,13 +50840,13 @@ rafnic:
   accentcity: "Rafnic"
 rafovul: 
   city: "rafovul"
-  accentcity: "R\xC3\xA2fovul"
+  accentcity: "Râfovul"
 ragla: 
   city: "ragla"
   accentcity: "Ragla"
 ragmani: 
   city: "ragmani"
-  accentcity: "R\xC3\xA2gmani"
+  accentcity: "Râgmani"
 ragmanu: 
   city: "ragmanu"
   accentcity: "Ragmanu"
@@ -50891,7 +50891,7 @@ rainic:
   accentcity: "Rainic"
 raioasa: 
   city: "raioasa"
-  accentcity: "R\xC3\xA2ioasa"
+  accentcity: "Râioasa"
 raionu minierilor: 
   city: "raionu minierilor"
   accentcity: "Raionu Minierilor"
@@ -50918,7 +50918,7 @@ raiu blindesti:
   accentcity: "Raiu Blindesti"
 raiul-blandesti: 
   city: "raiul-blandesti"
-  accentcity: "Raiul-Bl\xC3\xA2ndesti"
+  accentcity: "Raiul-Blândesti"
 raiu: 
   city: "raiu"
   accentcity: "Raiu"
@@ -50939,7 +50939,7 @@ rajletul-govora:
   accentcity: "Rajletul-Govora"
 rajletul: 
   city: "rajletul"
-  accentcity: "R\xC3\xA2jletul"
+  accentcity: "Râjletul"
 rajletul-vierosi: 
   city: "rajletul-vierosi"
   accentcity: "Rajletul-Vierosi"
@@ -50978,7 +50978,7 @@ ramadani:
   accentcity: "Ramadani"
 ramata: 
   city: "ramata"
-  accentcity: "R\xC3\xA2mata"
+  accentcity: "Râmata"
 ramazanchioi: 
   city: "ramazanchioi"
   accentcity: "Ramazanchioi"
@@ -50990,7 +50990,7 @@ ramet bradesti:
   accentcity: "Ramet Bradesti"
 ramet cheia: 
   city: "ramet cheia"
-  accentcity: "R\xC3\xA2met Cheia"
+  accentcity: "Râmet Cheia"
 ramet cotoresti: 
   city: "ramet cotoresti"
   accentcity: "Ramet Cotoresti"
@@ -51008,7 +51008,7 @@ ramet:
   accentcity: "Ramet"
 ramet valea iuzelului: 
   city: "ramet valea iuzelului"
-  accentcity: "R\xC3\xA2met Valea Iuzelului"
+  accentcity: "Râmet Valea Iuzelului"
 ramet valea manastiri: 
   city: "ramet valea manastiri"
   accentcity: "Ramet Valea Manastiri"
@@ -51023,43 +51023,43 @@ ramna:
   accentcity: "Ramna"
 ramniceanca: 
   city: "ramniceanca"
-  accentcity: "R\xC3\xA2mniceanca"
+  accentcity: "Râmniceanca"
 ramnicelul: 
   city: "ramnicelul"
-  accentcity: "R\xC3\xA2mnicelul"
+  accentcity: "Râmnicelul"
 ramnicelu: 
   city: "ramnicelu"
-  accentcity: "R\xC3\xA2mnicelu"
+  accentcity: "Râmnicelu"
 ramniceni-bratlanu: 
   city: "ramniceni-bratlanu"
   accentcity: "Ramniceni-Bratlanu"
 ramniceni: 
   city: "ramniceni"
-  accentcity: "R\xC3\xA2mniceni"
+  accentcity: "Râmniceni"
 ramnicu-de-jos: 
   city: "ramnicu-de-jos"
-  accentcity: "R\xC3\xA2mnicu-de-Jos"
+  accentcity: "Râmnicu-de-Jos"
 ramnicu-de-sus: 
   city: "ramnicu-de-sus"
-  accentcity: "R\xC3\xA2mnicu-de-Sus"
+  accentcity: "Râmnicu-de-Sus"
 ramnicul-de jos: 
   city: "ramnicul-de jos"
-  accentcity: "R\xC3\xA2mnicul-de Jos"
+  accentcity: "Râmnicul-de Jos"
 ramnicul-de sus: 
   city: "ramnicul-de sus"
-  accentcity: "R\xC3\xA2mnicul-de Sus"
+  accentcity: "Râmnicul-de Sus"
 ramnicul sarat: 
   city: "ramnicul sarat"
   accentcity: "Ramnicul Sarat"
 ramnicul valcea: 
   city: "ramnicul valcea"
-  accentcity: "R\xC3\xA2mnicul V\xC3\xA2lcea"
+  accentcity: "Râmnicul Vâlcea"
 ramnicu sarat: 
   city: "ramnicu sarat"
   accentcity: "Ramnicu Sarat"
 ramnicu valcea: 
   city: "ramnicu valcea"
-  accentcity: "R\xC3\xA2mnicu V\xC3\xA2lcea"
+  accentcity: "Râmnicu Vâlcea"
 ramnik de jos: 
   city: "ramnik de jos"
   accentcity: "Ramnik de Jos"
@@ -51083,10 +51083,10 @@ rancaciovu:
   accentcity: "Rancaciovu"
 ranceni: 
   city: "ranceni"
-  accentcity: "R\xC3\xA2nceni"
+  accentcity: "Rânceni"
 rancezi: 
   city: "rancezi"
-  accentcity: "R\xC3\xA2ncezi"
+  accentcity: "Râncezi"
 ranghilesti: 
   city: "ranghilesti"
   accentcity: "Ranghilesti"
@@ -51104,22 +51104,22 @@ ranzesti:
   accentcity: "Ranzesti"
 rapa de jos: 
   city: "rapa de jos"
-  accentcity: "R\xC3\xA2pa de Jos"
+  accentcity: "Râpa de Jos"
 rapa epei: 
   city: "rapa epei"
-  accentcity: "R\xC3\xA2pa Epei"
+  accentcity: "Râpa Epei"
 rapanasu: 
   city: "rapanasu"
   accentcity: "Rapanasu"
 rapa: 
   city: "rapa"
-  accentcity: "R\xC3\xA2pa"
+  accentcity: "Râpa"
 rapas: 
   city: "rapas"
   accentcity: "Rapas"
 rapa zegujani: 
   city: "rapa zegujani"
-  accentcity: "R\xC3\xA2pa Zegujani"
+  accentcity: "Râpa Zegujani"
 rapciuni: 
   city: "rapciuni"
   accentcity: "Rapciuni"
@@ -51131,7 +51131,7 @@ rapesti:
   accentcity: "Rapesti"
 rapile: 
   city: "rapile"
-  accentcity: "R\xC3\xA2pile"
+  accentcity: "Râpile"
 rapoldul-mare: 
   city: "rapoldul-mare"
   accentcity: "Rapoldul-Mare"
@@ -51410,7 +51410,7 @@ raturi:
   accentcity: "Raturi"
 rau-alb: 
   city: "rau-alb"
-  accentcity: "R\xC3\xA2u-Alb"
+  accentcity: "Râu-Alb"
 rau-barbat: 
   city: "rau-barbat"
   accentcity: "Rau-Barbat"
@@ -51425,25 +51425,25 @@ raucesti:
   accentcity: "Raucesti"
 rau-de-mori: 
   city: "rau-de-mori"
-  accentcity: "R\xC3\xA2u-de-Mori"
+  accentcity: "Râu-de-Mori"
 raul-alb: 
   city: "raul-alb"
-  accentcity: "R\xC3\xA2ul-Alb"
+  accentcity: "Râul-Alb"
 raul-de-mori: 
   city: "raul-de-mori"
-  accentcity: "R\xC3\xA2ul-de-Mori"
+  accentcity: "Râul-de-Mori"
 raul sadului: 
   city: "raul sadului"
-  accentcity: "R\xC3\xA2ul Sadului"
+  accentcity: "Râul Sadului"
 raul vadului: 
   city: "raul vadului"
-  accentcity: "R\xC3\xA2ul Vadului"
+  accentcity: "Râul Vadului"
 rau: 
   city: "rau"
-  accentcity: "R\xC3\xA2u"
+  accentcity: "Râu"
 raureni: 
   city: "raureni"
-  accentcity: "R\xC3\xA2ureni"
+  accentcity: "Râureni"
 rauseni: 
   city: "rauseni"
   accentcity: "Rauseni"
@@ -51659,7 +51659,7 @@ rediu:
   accentcity: "Rediu"
 rediu scanteia: 
   city: "rediu scanteia"
-  accentcity: "Rediu Sc\xC3\xA2nteia"
+  accentcity: "Rediu Scânteia"
 rediu-scinteia: 
   city: "rediu-scinteia"
   accentcity: "Rediu-Sc\xC3\xAEnteia"
@@ -52376,7 +52376,7 @@ roma de sus:
   accentcity: "Roma de Sus"
 romana: 
   city: "romana"
-  accentcity: "Rom\xC3\xA2na"
+  accentcity: "Româna"
 romanatu: 
   city: "romanatu"
   accentcity: "Romanatu"
@@ -52397,13 +52397,13 @@ romani-de-jos:
   accentcity: "Romani-de-Jos"
 romanii-de-jos: 
   city: "romanii-de-jos"
-  accentcity: "Rom\xC3\xA2nii-de-Jos"
+  accentcity: "Românii-de-Jos"
 romanii de sus: 
   city: "romanii de sus"
-  accentcity: "Rom\xC3\xA2nii de Sus"
+  accentcity: "Românii de Sus"
 romani: 
   city: "romani"
-  accentcity: "Rom\xC3\xA2ni"
+  accentcity: "Români"
 roman: 
   city: "roman"
   accentcity: "Roman"
@@ -53303,7 +53303,7 @@ sacries:
   accentcity: "Sacries"
 sac: 
   city: "sac"
-  accentcity: "S\xC3\xA2c"
+  accentcity: "Sâc"
 sacueni: 
   city: "sacueni"
   accentcity: "Sacueni"
@@ -53444,7 +53444,7 @@ saiosi:
   accentcity: "Saiosi"
 sai: 
   city: "sai"
-  accentcity: "S\xC3\xA2i"
+  accentcity: "Sâi"
 sajteny: 
   city: "sajteny"
   accentcity: "Sajtény"
@@ -53642,7 +53642,7 @@ salha costei:
   accentcity: "Salha Costei"
 salha: 
   city: "salha"
-  accentcity: "S\xC3\xA2lha"
+  accentcity: "Sâlha"
 salicea: 
   city: "salicea"
   accentcity: "Salicea"
@@ -53744,28 +53744,28 @@ sambateni:
   accentcity: "Sambateni"
 samboeni: 
   city: "samboeni"
-  accentcity: "S\xC3\xA2mboeni"
+  accentcity: "Sâmboeni"
 samboleni: 
   city: "samboleni"
-  accentcity: "S\xC3\xA2mboleni"
+  accentcity: "Sâmboleni"
 sambotin: 
   city: "sambotin"
-  accentcity: "S\xC3\xA2mbotin"
+  accentcity: "Sâmbotin"
 sambotinu: 
   city: "sambotinu"
-  accentcity: "S\xC3\xA2mbotinu"
+  accentcity: "Sâmbotinu"
 samburesti: 
   city: "samburesti"
   accentcity: "Samburesti"
 samejude: 
   city: "samejude"
-  accentcity: "S\xC3\xA2mejude"
+  accentcity: "Sâmejude"
 sameschdorf: 
   city: "sameschdorf"
   accentcity: "Sameschdorf"
 samnicul: 
   city: "samnicul"
-  accentcity: "S\xC3\xA2mnicul"
+  accentcity: "Sâmnicul"
 samoelele: 
   city: "samoelele"
   accentcity: "Samoelele"
@@ -53783,7 +53783,7 @@ samurcas:
   accentcity: "Samurcas"
 sanandrei: 
   city: "sanandrei"
-  accentcity: "S\xC3\xA2nandrei"
+  accentcity: "Sânandrei"
 sanat din paltinis: 
   city: "sanat din paltinis"
   accentcity: "Sanat din Paltinis"
@@ -53798,25 +53798,25 @@ sanatoriu nifon:
   accentcity: "Sanatoriu Nifon"
 sanbenedict: 
   city: "sanbenedict"
-  accentcity: "S\xC3\xA2nbenedict"
+  accentcity: "Sânbenedict"
 sanbenedio: 
   city: "sanbenedio"
-  accentcity: "S\xC3\xA2nbenedio"
+  accentcity: "Sânbenedio"
 sancel: 
   city: "sancel"
-  accentcity: "S\xC3\xA2ncel"
+  accentcity: "Sâncel"
 sancraeni: 
   city: "sancraeni"
   accentcity: "Sancraeni"
 sancraiem: 
   city: "sancraiem"
-  accentcity: "S\xC3\xA2ncráiem"
+  accentcity: "Sâncráiem"
 sancraieni: 
   city: "sancraieni"
   accentcity: "Sancraieni"
 sancrai: 
   city: "sancrai"
-  accentcity: "S\xC3\xA2ncrai"
+  accentcity: "Sâncrai"
 sancraiu-almasului: 
   city: "sancraiu-almasului"
   accentcity: "Sancraiu-Almasului"
@@ -53825,13 +53825,13 @@ sancraiul-almasului:
   accentcity: "Sancraiul-Almasului"
 sancraiul-de-mures: 
   city: "sancraiul-de-mures"
-  accentcity: "S\xC3\xA2ncraiul-de-Mures"
+  accentcity: "Sâncraiul-de-Mures"
 sancraiul: 
   city: "sancraiul"
-  accentcity: "S\xC3\xA2ncraiul"
+  accentcity: "Sâncraiul"
 sancraiu: 
   city: "sancraiu"
-  accentcity: "S\xC3\xA2ncraiu"
+  accentcity: "Sâncraiu"
 sanculesti: 
   city: "sanculesti"
   accentcity: "Sanculesti"
@@ -53840,7 +53840,7 @@ sandeni:
   accentcity: "Sandeni"
 sandominic: 
   city: "sandominic"
-  accentcity: "S\xC3\xA2ndominic"
+  accentcity: "Sândominic"
 sandorhaza: 
   city: "sandorhaza"
   accentcity: "Sándorháza"
@@ -53879,13 +53879,13 @@ sangeorg-de mures:
   accentcity: "Sangeorg-de Mures"
 sangeorge: 
   city: "sangeorge"
-  accentcity: "S\xC3\xA2ngeorge"
+  accentcity: "Sângeorge"
 sangeorgiu-de-padure: 
   city: "sangeorgiu-de-padure"
   accentcity: "Sangeorgiu-de-Padure"
 sangeorgiul de campie: 
   city: "sangeorgiul de campie"
-  accentcity: "S\xC3\xA2ngeorgiul de C\xC3\xA2mpie"
+  accentcity: "Sângeorgiul de Câmpie"
 sangeorgiul-de-meses: 
   city: "sangeorgiul-de-meses"
   accentcity: "Sangeorgiul-de-Meses"
@@ -53897,28 +53897,28 @@ sangeorgiul de padure:
   accentcity: "Sangeorgiul de Padure"
 sangeorgiu: 
   city: "sangeorgiu"
-  accentcity: "S\xC3\xA2ngeorgiu"
+  accentcity: "Sângeorgiu"
 sangeorz-bai: 
   city: "sangeorz-bai"
   accentcity: "Sangeorz-Bai"
 sangeorzul-nou: 
   city: "sangeorzul-nou"
-  accentcity: "S\xC3\xA2ngeorzul-Nou"
+  accentcity: "Sângeorzul-Nou"
 sangeroasa: 
   city: "sangeroasa"
-  accentcity: "S\xC3\xA2ngeroasa"
+  accentcity: "Sângeroasa"
 sanger: 
   city: "sanger"
-  accentcity: "S\xC3\xA2nger"
+  accentcity: "Sânger"
 sangerul de-padure: 
   city: "sangerul de-padure"
-  accentcity: "S\xC3\xA2ngerul de-Padure"
+  accentcity: "Sângerul de-Padure"
 sangerul: 
   city: "sangerul"
-  accentcity: "S\xC3\xA2ngerul"
+  accentcity: "Sângerul"
 sangeru: 
   city: "sangeru"
-  accentcity: "S\xC3\xA2ngeru"
+  accentcity: "Sângeru"
 sangiorgiul-de-meses: 
   city: "sangiorgiul-de-meses"
   accentcity: "Sangiorgiul-de-Meses"
@@ -53927,19 +53927,19 @@ sangiorgiul de padure:
   accentcity: "Sangiorgiul de Padure"
 sangiorgiul nou: 
   city: "sangiorgiul nou"
-  accentcity: "S\xC3\xA2ngiorgiul Nou"
+  accentcity: "Sângiorgiul Nou"
 sangiorzul nou: 
   city: "sangiorzul nou"
-  accentcity: "S\xC3\xA2ngiorzul Nou"
+  accentcity: "Sângiorzul Nou"
 saniacob: 
   city: "saniacob"
-  accentcity: "S\xC3\xA2niacob"
+  accentcity: "Sâniacob"
 sanicoara: 
   city: "sanicoara"
   accentcity: "Sanicoara"
 sanicolau german: 
   city: "sanicolau german"
-  accentcity: "S\xC3\xA2nicolau German"
+  accentcity: "Sânicolau German"
 sanislau: 
   city: "sanislau"
   accentcity: "Sanislau"
@@ -53951,16 +53951,16 @@ sankt andreas:
   accentcity: "Sankt Andreas"
 sanlazar: 
   city: "sanlazar"
-  accentcity: "S\xC3\xA2nlazar"
+  accentcity: "Sânlazar"
 sanleani: 
   city: "sanleani"
-  accentcity: "S\xC3\xA2nleani"
+  accentcity: "Sânleani"
 sanmarghita: 
   city: "sanmarghita"
-  accentcity: "S\xC3\xA2nmarghita"
+  accentcity: "Sânmarghita"
 sanmartin beius: 
   city: "sanmartin beius"
-  accentcity: "S\xC3\xA2nmartin Beius"
+  accentcity: "Sânmartin Beius"
 sanmartin: 
   city: "sanmartin"
   accentcity: "Sanmartin"
@@ -53969,22 +53969,22 @@ sanmartinu-de campie:
   accentcity: "Sanmartinu-de Campie"
 sanmartinul-de-campie: 
   city: "sanmartinul-de-campie"
-  accentcity: "S\xC3\xA2nmartinul-de-C\xC3\xA2mpie"
+  accentcity: "Sânmartinul-de-Câmpie"
 sanmartinul-de-camp: 
   city: "sanmartinul-de-camp"
   accentcity: "Sanmartinul-de-Camp"
 sanmartinul-maghiar: 
   city: "sanmartinul-maghiar"
-  accentcity: "S\xC3\xA2nmartinul-Maghiar"
+  accentcity: "Sânmartinul-Maghiar"
 sanmartinul-sarbesc: 
   city: "sanmartinul-sarbesc"
-  accentcity: "S\xC3\xA2nmartinul-S\xC3\xA2rbesc"
+  accentcity: "Sânmartinul-Sârbesc"
 sanmartinu maghiar: 
   city: "sanmartinu maghiar"
-  accentcity: "S\xC3\xA2nmartinu Maghiar"
+  accentcity: "Sânmartinu Maghiar"
 sanmartinu sarbesc: 
   city: "sanmartinu sarbesc"
-  accentcity: "S\xC3\xA2nmartinu S\xC3\xA2rbesc"
+  accentcity: "Sânmartinu Sârbesc"
 sanmiclaus: 
   city: "sanmiclaus"
   accentcity: "Sanmiclaus"
@@ -53993,55 +53993,55 @@ sanmiclauus:
   accentcity: "Sanmiclauus"
 sanmihaiu de campie: 
   city: "sanmihaiu de campie"
-  accentcity: "S\xC3\xA2nmihaiu de C\xC3\xA2mpie"
+  accentcity: "Sânmihaiu de Câmpie"
 sanmihaiu german: 
   city: "sanmihaiu german"
-  accentcity: "S\xC3\xA2nmihaiu German"
+  accentcity: "Sânmihaiu German"
 sanmihaiul-almasului: 
   city: "sanmihaiul-almasului"
   accentcity: "Sanmihaiul-Almasului"
 sanmihaiul-de-campie: 
   city: "sanmihaiul-de-campie"
-  accentcity: "S\xC3\xA2nmihaiul-de-C\xC3\xA2mpie"
+  accentcity: "Sânmihaiul-de-Câmpie"
 sanmihaiul de padure: 
   city: "sanmihaiul de padure"
   accentcity: "Sanmihaiul de Padure"
 sanmihaiul-german: 
   city: "sanmihaiul-german"
-  accentcity: "S\xC3\xA2nmihaiul-German"
+  accentcity: "Sânmihaiul-German"
 sanmihaiu roman: 
   city: "sanmihaiu roman"
-  accentcity: "S\xC3\xA2nmihaiu Rom\xC3\xA2n"
+  accentcity: "Sânmihaiu Român"
 sannicoara: 
   city: "sannicoara"
   accentcity: "Sannicoara"
 sannicolau german: 
   city: "sannicolau german"
-  accentcity: "S\xC3\xA2nnicolau German"
+  accentcity: "Sânnicolau German"
 sannicolaul de beius: 
   city: "sannicolaul de beius"
-  accentcity: "S\xC3\xA2nnicolaul de Beius"
+  accentcity: "Sânnicolaul de Beius"
 sannicolaul-de-munte: 
   city: "sannicolaul-de-munte"
-  accentcity: "S\xC3\xA2nnicolaul-de-Munte"
+  accentcity: "Sânnicolaul-de-Munte"
 sannicolaul-german: 
   city: "sannicolaul-german"
-  accentcity: "S\xC3\xA2nnicolaul-German"
+  accentcity: "Sânnicolaul-German"
 sannicolaul mare: 
   city: "sannicolaul mare"
-  accentcity: "S\xC3\xA2nnicolaul Mare"
+  accentcity: "Sânnicolaul Mare"
 sannicolaul-mic: 
   city: "sannicolaul-mic"
-  accentcity: "S\xC3\xA2nnicolaul-Mic"
+  accentcity: "Sânnicolaul-Mic"
 sannicolaul-roman: 
   city: "sannicolaul-roman"
-  accentcity: "S\xC3\xA2nnicolaul-Rom\xC3\xA2n"
+  accentcity: "Sânnicolaul-Român"
 sannicolau mare: 
   city: "sannicolau mare"
-  accentcity: "S\xC3\xA2nnicolau Mare"
+  accentcity: "Sânnicolau Mare"
 sannicolau mic: 
   city: "sannicolau mic"
-  accentcity: "S\xC3\xA2nnicolau Mic"
+  accentcity: "Sânnicolau Mic"
 sanovita: 
   city: "sanovita"
   accentcity: "Sanovita"
@@ -54053,52 +54053,52 @@ sanpetru-almasului:
   accentcity: "Sanpetru-Almasului"
 sanpetru-de-campie: 
   city: "sanpetru-de-campie"
-  accentcity: "S\xC3\xA2npetru-de-C\xC3\xA2mpie"
+  accentcity: "Sânpetru-de-Câmpie"
 sanpetru german: 
   city: "sanpetru german"
-  accentcity: "S\xC3\xA2npetru German"
+  accentcity: "Sânpetru German"
 sanpetrul-almasului: 
   city: "sanpetrul-almasului"
   accentcity: "Sanpetrul-Almasului"
 sanpetrul de campie: 
   city: "sanpetrul de campie"
-  accentcity: "S\xC3\xA2npetrul de C\xC3\xA2mpie"
+  accentcity: "Sânpetrul de Câmpie"
 sanpetrul-german: 
   city: "sanpetrul-german"
-  accentcity: "S\xC3\xA2npetrul-German"
+  accentcity: "Sânpetrul-German"
 sanpetrul-mare: 
   city: "sanpetrul-mare"
-  accentcity: "S\xC3\xA2npetrul-Mare"
+  accentcity: "Sânpetrul-Mare"
 sanpetrul-mic: 
   city: "sanpetrul-mic"
-  accentcity: "S\xC3\xA2npetrul-Mic"
+  accentcity: "Sânpetrul-Mic"
 sanpetrul-nou: 
   city: "sanpetrul-nou"
-  accentcity: "S\xC3\xA2npetrul-Nou"
+  accentcity: "Sânpetrul-Nou"
 sanpetrul: 
   city: "sanpetrul"
-  accentcity: "S\xC3\xA2npetrul"
+  accentcity: "Sânpetrul"
 sanpetru mare: 
   city: "sanpetru mare"
-  accentcity: "S\xC3\xA2npetru Mare"
+  accentcity: "Sânpetru Mare"
 sanpetru mic: 
   city: "sanpetru mic"
-  accentcity: "S\xC3\xA2npetru Mic"
+  accentcity: "Sânpetru Mic"
 sanpetru nou: 
   city: "sanpetru nou"
-  accentcity: "S\xC3\xA2npetru Nou"
+  accentcity: "Sânpetru Nou"
 sanpetru: 
   city: "sanpetru"
-  accentcity: "S\xC3\xA2npetru"
+  accentcity: "Sânpetru"
 sanpetu de campie: 
   city: "sanpetu de campie"
-  accentcity: "S\xC3\xA2npetu de C\xC3\xA2mpie"
+  accentcity: "Sânpetu de Câmpie"
 sanramas: 
   city: "sanramas"
-  accentcity: "S\xC3\xA2nramas"
+  accentcity: "Sânramas"
 sansimion: 
   city: "sansimion"
-  accentcity: "S\xC3\xA2nsimion"
+  accentcity: "Sânsimion"
 santamaria-de piatra: 
   city: "santamaria-de piatra"
   accentcity: "Santamaria-de Piatra"
@@ -54119,16 +54119,16 @@ santana-de-mures:
   accentcity: "Santana-de-Mures"
 santana-nirajului: 
   city: "santana-nirajului"
-  accentcity: "S\xC3\xA2ntana-Nirajului"
+  accentcity: "Sântana-Nirajului"
 santana: 
   city: "santana"
   accentcity: "Santana"
 santandrei: 
   city: "santandrei"
-  accentcity: "S\xC3\xA2ntandrei"
+  accentcity: "Sântandrei"
 santandreiu: 
   city: "santandreiu"
-  accentcity: "S\xC3\xA2ntandreiu"
+  accentcity: "Sântandreiu"
 santa: 
   city: "santa"
   accentcity: "Santa"
@@ -54155,37 +54155,37 @@ santau:
   accentcity: "Santau"
 santejude: 
   city: "santejude"
-  accentcity: "S\xC3\xA2ntejude"
+  accentcity: "Sântejude"
 santelec: 
   city: "santelec"
-  accentcity: "S\xC3\xA2ntelec"
+  accentcity: "Sântelec"
 santelena: 
   city: "santelena"
-  accentcity: "S\xC3\xA2ntelena"
+  accentcity: "Sântelena"
 santimbru: 
   city: "santimbru"
-  accentcity: "S\xC3\xA2ntimbru"
+  accentcity: "Sântimbru"
 santimrau: 
   city: "santimrau"
   accentcity: "Santimrau"
 santimreu: 
   city: "santimreu"
-  accentcity: "S\xC3\xA2ntimreu"
+  accentcity: "Sântimreu"
 santioana-de-mures: 
   city: "santioana-de-mures"
   accentcity: "Santioana-de-Mures"
 santioana: 
   city: "santioana"
-  accentcity: "S\xC3\xA2ntioana"
+  accentcity: "Sântioana"
 santionlunca: 
   city: "santionlunca"
-  accentcity: "S\xC3\xA2ntionlunca"
+  accentcity: "Sântionlunca"
 santion: 
   city: "santion"
-  accentcity: "S\xC3\xA2ntion"
+  accentcity: "Sântion"
 santmartin: 
   city: "santmartin"
-  accentcity: "S\xC3\xA2ntmartin"
+  accentcity: "Sântmartin"
 sant: 
   city: "sant"
   accentcity: "Sant"
@@ -54197,7 +54197,7 @@ santu floresti:
   accentcity: "Santu Floresti"
 santuhalm: 
   city: "santuhalm"
-  accentcity: "S\xC3\xA2ntuhalm"
+  accentcity: "Sântuhalm"
 santul florescu: 
   city: "santul florescu"
   accentcity: "Santul Florescu"
@@ -54206,7 +54206,7 @@ santul-floresti:
   accentcity: "Santul-Floresti"
 santul: 
   city: "santul"
-  accentcity: "S\xC3\xA2ntul"
+  accentcity: "Sântul"
 santuri: 
   city: "santuri"
   accentcity: "Santuri"
@@ -54215,13 +54215,13 @@ santu vechi:
   accentcity: "Santu Vechi"
 sanva*sii: 
   city: "sanva*sii"
-  accentcity: "S\xC3\xA2nva*sii"
+  accentcity: "Sânva*sii"
 sanzanesti: 
   city: "sanzanesti"
   accentcity: "Sanzanesti"
 sanzieni: 
   city: "sanzieni"
-  accentcity: "S\xC3\xA2nzieni"
+  accentcity: "Sânzieni"
 sapaia: 
   city: "sapaia"
   accentcity: "Sapaia"
@@ -54236,7 +54236,7 @@ sapata:
   accentcity: "Sapata"
 sapetru: 
   city: "sapetru"
-  accentcity: "S\xC3\xA2petru"
+  accentcity: "Sâpetru"
 sapiia: 
   city: "sapiia"
   accentcity: "Sapiia"
@@ -54308,7 +54308,7 @@ sarand:
   accentcity: "Sarand"
 saranga: 
   city: "saranga"
-  accentcity: "Sar\xC3\xA2nga"
+  accentcity: "Sarânga"
 sararestii: 
   city: "sararestii"
   accentcity: "Sararestii"
@@ -54407,10 +54407,10 @@ sarbatoarea:
   accentcity: "Sarbatoarea"
 sarbenii de jos: 
   city: "sarbenii de jos"
-  accentcity: "S\xC3\xA2rbenii de Jos"
+  accentcity: "Sârbenii de Jos"
 sarbeni: 
   city: "sarbeni"
-  accentcity: "S\xC3\xA2rbeni"
+  accentcity: "Sârbeni"
 sarbestii: 
   city: "sarbestii"
   accentcity: "Sarbestii"
@@ -54428,7 +54428,7 @@ sarbi-magura:
   accentcity: "Sarbi-Magura"
 sarbi: 
   city: "sarbi"
-  accentcity: "S\xC3\xA2rbi"
+  accentcity: "Sârbi"
 sarbi-sfintesti: 
   city: "sarbi-sfintesti"
   accentcity: "Sarbi-Sfintesti"
@@ -54437,7 +54437,7 @@ sarca-noua:
   accentcity: "Sarca-Noua"
 sarca: 
   city: "sarca"
-  accentcity: "S\xC3\xA2rca"
+  accentcity: "Sârca"
 sarcau: 
   city: "sarcau"
   accentcity: "Sarcau"
@@ -54473,7 +54473,7 @@ sareui:
   accentcity: "Sareui"
 sarfalu: 
   city: "sarfalu"
-  accentcity: "Sàrfal\xC3\xB9"
+  accentcity: "Sàrfalù"
 sarfalva: 
   city: "sarfalva"
   accentcity: "Sarfalva"
@@ -54617,7 +54617,7 @@ sar:
   accentcity: "Sar"
 sarsca: 
   city: "sarsca"
-  accentcity: "S\xC3\xA2rsca"
+  accentcity: "Sârsca"
 sarsic: 
   city: "sarsic"
   accentcity: "Sarsic"
@@ -54962,7 +54962,7 @@ sausa:
   accentcity: "Sausa"
 sau: 
   city: "sau"
-  accentcity: "S\xC3\xA2u"
+  accentcity: "Sâu"
 savadisla: 
   city: "savadisla"
   accentcity: "Savadisla"
@@ -55013,7 +55013,7 @@ saxoni:
   accentcity: "Saxoni"
 sbarcea: 
   city: "sbarcea"
-  accentcity: "Sb\xC3\xA2rcea"
+  accentcity: "Sbârcea"
 sberoaia: 
   city: "sberoaia"
   accentcity: "Sberoaia"
@@ -55049,16 +55049,16 @@ scanteesti:
   accentcity: "Scanteesti"
 scanteia noua: 
   city: "scanteia noua"
-  accentcity: "Sc\xC3\xA2nteia Noua"
+  accentcity: "Scânteia Noua"
 scanteia: 
   city: "scanteia"
-  accentcity: "Sc\xC3\xA2nteia"
+  accentcity: "Scânteia"
 scanteiesti: 
   city: "scanteiesti"
   accentcity: "Scanteiesti"
 scanteta: 
   city: "scanteta"
-  accentcity: "Sc\xC3\xA2nteta"
+  accentcity: "Scânteta"
 scantiesti: 
   city: "scantiesti"
   accentcity: "Scantiesti"
@@ -55262,7 +55262,7 @@ schitu-golesti:
   accentcity: "Schitu-Golesti"
 schitu hadambu: 
   city: "schitu hadambu"
-  accentcity: "Schitu Had\xC3\xA2mbu"
+  accentcity: "Schitu Hadâmbu"
 schitu hadimbului: 
   city: "schitu hadimbului"
   accentcity: "Schitu Had\xC3\xAEmbului"
@@ -55559,7 +55559,7 @@ seaca batrinu:
   accentcity: "Seaca Batrinu"
 seaca de camp: 
   city: "seaca de camp"
-  accentcity: "Seaca de C\xC3\xA2mp"
+  accentcity: "Seaca de Câmp"
 seaca de cimp: 
   city: "seaca de cimp"
   accentcity: "Seaca de C\xC3\xAEmp"
@@ -55916,7 +55916,7 @@ senced:
   accentcity: "Senced"
 sendrenii-bacu: 
   city: "sendrenii-bacu"
-  accentcity: "Sendrenii-B\xC3\xA2cu"
+  accentcity: "Sendrenii-Bâcu"
 sendreni: 
   city: "sendreni"
   accentcity: "Sendreni"
@@ -56153,34 +56153,34 @@ sfaearu:
   accentcity: "Sf\xC3\xA4earu"
 sfanta ana: 
   city: "sfanta ana"
-  accentcity: "Sf\xC3\xA2nta Ana"
+  accentcity: "Sfânta Ana"
 sfantu gheorghe nou: 
   city: "sfantu gheorghe nou"
-  accentcity: "Sf\xC3\xA2ntu Gheorghe Nou"
+  accentcity: "Sfântu Gheorghe Nou"
 sfantu-gheorghe: 
   city: "sfantu-gheorghe"
-  accentcity: "Sf\xC3\xA2ntu-Gheorghe"
+  accentcity: "Sfântu-Gheorghe"
 sfantu gheorghe: 
   city: "sfantu gheorghe"
-  accentcity: "Sf\xC3\xA2ntu Gheorghe"
+  accentcity: "Sfântu Gheorghe"
 sfantu-ilie: 
   city: "sfantu-ilie"
-  accentcity: "Sf\xC3\xA2ntu-Ilie"
+  accentcity: "Sfântu-Ilie"
 sfantul-gheorghe: 
   city: "sfantul-gheorghe"
-  accentcity: "Sf\xC3\xA2ntul-Gheorghe"
+  accentcity: "Sfântul-Gheorghe"
 sfantul-paul: 
   city: "sfantul-paul"
-  accentcity: "Sf\xC3\xA2ntul-Paul"
+  accentcity: "Sfântul-Paul"
 sfantul: 
   city: "sfantul"
-  accentcity: "Sf\xC3\xA2ntul"
+  accentcity: "Sfântul"
 sfantu-paul: 
   city: "sfantu-paul"
-  accentcity: "Sf\xC3\xA2ntu-Paul"
+  accentcity: "Sfântu-Paul"
 sfantu-vasile: 
   city: "sfantu-vasile"
-  accentcity: "Sf\xC3\xA2ntu-Vasile"
+  accentcity: "Sfântu-Vasile"
 sfaras: 
   city: "sfaras"
   accentcity: "Sfaras"
@@ -56189,10 +56189,10 @@ sfarasu:
   accentcity: "Sfarasu"
 sfarcea: 
   city: "sfarcea"
-  accentcity: "Sf\xC3\xA2rcea"
+  accentcity: "Sfârcea"
 sfarleanca: 
   city: "sfarleanca"
-  accentcity: "Sf\xC3\xA2rleanca"
+  accentcity: "Sfârleanca"
 sfinta ana: 
   city: "sfinta ana"
   accentcity: "Sf\xC3\xAEnta Ana"
@@ -56984,7 +56984,7 @@ sinmihaiu german:
   accentcity: "S\xC3\xAEnmihaiu German"
 sinmihaiu roman: 
   city: "sinmihaiu roman"
-  accentcity: "S\xC3\xAEnmihaiu Rom\xC3\xA2n"
+  accentcity: "S\xC3\xAEnmihaiu Român"
 sinmihaiu romin: 
   city: "sinmihaiu romin"
   accentcity: "S\xC3\xAEnmihaiu Rom\xC3\xAEn"
@@ -57518,7 +57518,7 @@ slobozia-leca:
   accentcity: "Slobozia-Leca"
 slobozia-mandra: 
   city: "slobozia-mandra"
-  accentcity: "Slobozia-M\xC3\xA2ndra"
+  accentcity: "Slobozia-Mândra"
 slobozia-melului: 
   city: "slobozia-melului"
   accentcity: "Slobozia-Melului"
@@ -57620,16 +57620,16 @@ smadovita:
   accentcity: "Smadovita"
 smardan: 
   city: "smardan"
-  accentcity: "Sm\xC3\xA2rdan"
+  accentcity: "Smârdan"
 smardanul-nou: 
   city: "smardanul-nou"
-  accentcity: "Sm\xC3\xA2rdanul-Nou"
+  accentcity: "Smârdanul-Nou"
 smardanu nou: 
   city: "smardanu nou"
   accentcity: "Smardanu Nou"
 smardioasa: 
   city: "smardioasa"
-  accentcity: "Sm\xC3\xA2rdioasa"
+  accentcity: "Smârdioasa"
 smardostetul: 
   city: "smardostetul"
   accentcity: "Smardostetul"
@@ -58106,7 +58106,7 @@ somfalau:
   accentcity: "Somfalau"
 somlyopataka: 
   city: "somlyopataka"
-  accentcity: "Somly\xC3\xB2pataka"
+  accentcity: "Somlyòpataka"
 somlyo: 
   city: "somlyo"
   accentcity: "Somlyó"
@@ -58154,7 +58154,7 @@ soporu de cimpie:
   accentcity: "Soporu de C\xC3\xAEmpie"
 soporul-de-campie: 
   city: "soporul-de-campie"
-  accentcity: "Soporul-de-C\xC3\xA2mpie"
+  accentcity: "Soporul-de-Câmpie"
 sopot: 
   city: "sopot"
   accentcity: "Sopot"
@@ -58184,7 +58184,7 @@ sopteriu:
   accentcity: "Sopteriu"
 soratul: 
   city: "soratul"
-  accentcity: "Sor\xC3\xA2tul"
+  accentcity: "Sorâtul"
 sorca: 
   city: "sorca"
   accentcity: "Sorca"
@@ -58259,13 +58259,13 @@ soseaua nationala:
   accentcity: "Soseaua Nationala"
 soskut: 
   city: "soskut"
-  accentcity: "S\xC3\xB2skut"
+  accentcity: "Sòskut"
 sospatac: 
   city: "sospatac"
   accentcity: "Sospatac"
 sospatak: 
   city: "sospatak"
-  accentcity: "S\xC3\xB2spatak"
+  accentcity: "Sòspatak"
 sotanga: 
   city: "sotanga"
   accentcity: "Sotanga"
@@ -58301,7 +58301,7 @@ sovaia:
   accentcity: "Sovaia"
 sovarad: 
   city: "sovarad"
-  accentcity: "S\xC3\xB2vàrad"
+  accentcity: "Sòvàrad"
 sovarna de jos: 
   city: "sovarna de jos"
   accentcity: "Sovarna de Jos"
@@ -58346,7 +58346,7 @@ spantov:
   accentcity: "Spantov"
 sparleni: 
   city: "sparleni"
-  accentcity: "Sp\xC3\xA2rleni"
+  accentcity: "Spârleni"
 spatac: 
   city: "spatac"
   accentcity: "Spatac"
@@ -58478,7 +58478,7 @@ spiru haret:
   accentcity: "Spiru Haret"
 spranceana: 
   city: "spranceana"
-  accentcity: "Spr\xC3\xA2nceana"
+  accentcity: "Sprânceana"
 sprancenata: 
   city: "sprancenata"
   accentcity: "Sprancenata"
@@ -58529,16 +58529,16 @@ stalinesti:
   accentcity: "Stalinesti"
 stalpenii: 
   city: "stalpenii"
-  accentcity: "St\xC3\xA2lpenii"
+  accentcity: "Stâlpenii"
 stalpeni: 
   city: "stalpeni"
-  accentcity: "St\xC3\xA2lpeni"
+  accentcity: "Stâlpeni"
 stalpul: 
   city: "stalpul"
-  accentcity: "St\xC3\xA2lpul"
+  accentcity: "Stâlpul"
 stalpu: 
   city: "stalpu"
-  accentcity: "St\xC3\xA2lpu"
+  accentcity: "Stâlpu"
 stamate: 
   city: "stamate"
   accentcity: "Stamate"
@@ -58559,7 +58559,7 @@ stamora romina:
   accentcity: "Stamora Romina"
 stana: 
   city: "stana"
-  accentcity: "St\xC3\xA2na"
+  accentcity: "Stâna"
 stancaseni: 
   city: "stancaseni"
   accentcity: "Stancaseni"
@@ -58568,7 +58568,7 @@ stanca sprinceana:
   accentcity: "Stanca Sprinceana"
 stanca: 
   city: "stanca"
-  accentcity: "St\xC3\xA2nca"
+  accentcity: "Stânca"
 stanceasca: 
   city: "stanceasca"
   accentcity: "Stanceasca"
@@ -58577,7 +58577,7 @@ stancea:
   accentcity: "Stancea"
 stanceni: 
   city: "stanceni"
-  accentcity: "St\xC3\xA2nceni"
+  accentcity: "Stânceni"
 stancestii: 
   city: "stancestii"
   accentcity: "Stancestii"
@@ -58610,7 +58610,7 @@ stanculesti:
   accentcity: "Stanculesti"
 stancuta: 
   city: "stancuta"
-  accentcity: "St\xC3\xA2ncuta"
+  accentcity: "Stâncuta"
 stanesti-chirculesti: 
   city: "stanesti-chirculesti"
   accentcity: "Stanesti-Chirculesti"
@@ -58628,7 +58628,7 @@ stangaceaua:
   accentcity: "Stangaceaua"
 stangulesti: 
   city: "stangulesti"
-  accentcity: "St\xC3\xA2ngulesti"
+  accentcity: "Stângulesti"
 stanicei: 
   city: "stanicei"
   accentcity: "Stanicei"
@@ -58691,22 +58691,22 @@ starchiojd:
   accentcity: "Starchiojd"
 starcii-de jos: 
   city: "starcii-de jos"
-  accentcity: "St\xC3\xA2rcii-de Jos"
+  accentcity: "Stârcii-de Jos"
 starcii-de sus: 
   city: "starcii-de sus"
-  accentcity: "St\xC3\xA2rcii-de Sus"
+  accentcity: "Stârcii-de Sus"
 starciul: 
   city: "starciul"
-  accentcity: "St\xC3\xA2rciul"
+  accentcity: "Stârciul"
 starciu: 
   city: "starciu"
-  accentcity: "St\xC3\xA2rciu"
+  accentcity: "Stârciu"
 starita: 
   city: "starita"
   accentcity: "Starita"
 starnas: 
   city: "starnas"
-  accentcity: "St\xC3\xA2rnas"
+  accentcity: "Stârnas"
 starojita stavri: 
   city: "starojita stavri"
   accentcity: "Starojita Stavri"
@@ -59261,22 +59261,22 @@ strajestii-de-sus:
   accentcity: "Strajestii-de-Sus"
 stramba-de-jiu: 
   city: "stramba-de-jiu"
-  accentcity: "Str\xC3\xA2mba-de-Jiu"
+  accentcity: "Strâmba-de-Jiu"
 stramba-jiu: 
   city: "stramba-jiu"
-  accentcity: "Str\xC3\xA2mba-Jiu"
+  accentcity: "Strâmba-Jiu"
 stramba: 
   city: "stramba"
-  accentcity: "Str\xC3\xA2mba"
+  accentcity: "Strâmba"
 strambeanul: 
   city: "strambeanul"
-  accentcity: "Str\xC3\xA2mbeanul"
+  accentcity: "Strâmbeanul"
 strambeanu: 
   city: "strambeanu"
-  accentcity: "Str\xC3\xA2mbeanu"
+  accentcity: "Strâmbeanu"
 strambeni: 
   city: "strambeni"
-  accentcity: "Str\xC3\xA2mbeni"
+  accentcity: "Strâmbeni"
 strambu-baiutului: 
   city: "strambu-baiutului"
   accentcity: "Strambu-Baiutului"
@@ -59285,10 +59285,10 @@ strambul-baiutului:
   accentcity: "Strambul-Baiutului"
 strambul: 
   city: "strambul"
-  accentcity: "Str\xC3\xA2mbul"
+  accentcity: "Strâmbul"
 strambu: 
   city: "strambu"
-  accentcity: "Str\xC3\xA2mbu"
+  accentcity: "Strâmbu"
 straminoasa de jos: 
   city: "straminoasa de jos"
   accentcity: "Straminoasa de Jos"
@@ -59300,13 +59300,13 @@ straminoasa:
   accentcity: "Straminoasa"
 stramptu: 
   city: "stramptu"
-  accentcity: "Str\xC3\xA2mptu"
+  accentcity: "Strâmptu"
 stramtura mitoc: 
   city: "stramtura mitoc"
-  accentcity: "Str\xC3\xA2mtura Mitoc"
+  accentcity: "Strâmtura Mitoc"
 stramtura: 
   city: "stramtura"
-  accentcity: "Str\xC3\xA2mtura"
+  accentcity: "Strâmtura"
 stranoanii-de jos: 
   city: "stranoanii-de jos"
   accentcity: "Stranoanii-de Jos"
@@ -59354,10 +59354,10 @@ strei sacel:
   accentcity: "Strei Sacel"
 strei-sangeorgiu: 
   city: "strei-sangeorgiu"
-  accentcity: "Strei-S\xC3\xA2ngeorgiu"
+  accentcity: "Strei-Sângeorgiu"
 streisangiorgiu: 
   city: "streisangiorgiu"
-  accentcity: "Streis\xC3\xA2ngiorgiu"
+  accentcity: "Streisângiorgiu"
 streisingeorgiu: 
   city: "streisingeorgiu"
   accentcity: "Streis\xC3\xAEngeorgiu"
@@ -59771,7 +59771,7 @@ suiug:
   accentcity: "Suiug"
 suket-demeterfalva: 
   city: "suket-demeterfalva"
-  accentcity: "S\xC3\xBCket-Demeterfalva"
+  accentcity: "Süket-Demeterfalva"
 suko: 
   city: "suko"
   accentcity: "Suko"
@@ -60071,7 +60071,7 @@ susd:
   accentcity: "Susd"
 susenii bargaului: 
   city: "susenii bargaului"
-  accentcity: "Susenii B\xC3\xA2rg\xC3\xA2ului"
+  accentcity: "Susenii Bârgâului"
 susenii birgaului: 
   city: "susenii birgaului"
   accentcity: "Susenii Birgaului"
@@ -60239,7 +60239,7 @@ szaszfalo:
   accentcity: "Szaszfal\xC3\xB6"
 szaszfalu: 
   city: "szaszfalu"
-  accentcity: "Szàszfal\xC3\xB9"
+  accentcity: "Szàszfalù"
 szaszhermany: 
   city: "szaszhermany"
   accentcity: "Szaszhermany"
@@ -60296,7 +60296,7 @@ szekas:
   accentcity: "Székás"
 szekelyabod: 
   city: "szekelyabod"
-  accentcity: "Szèkelyab\xC3\xB2d"
+  accentcity: "Szèkelyabòd"
 szekelybere: 
   city: "szekelybere"
   accentcity: "Szèkelybere"
@@ -60317,7 +60317,7 @@ szekelyders:
   accentcity: "Szèkelyders"
 szekelydobo: 
   city: "szekelydobo"
-  accentcity: "Szèkelydob\xC3\xB2"
+  accentcity: "Szèkelydobò"
 szekelyfancsal: 
   city: "szekelyfancsal"
   accentcity: "Szèkelyfancsal"
@@ -60446,7 +60446,7 @@ szentharomsag:
   accentcity: "Szentharomsag"
 szentimrei furdo: 
   city: "szentimrei furdo"
-  accentcity: "Szentimrei F\xC3\xBCrdo"
+  accentcity: "Szentimrei Fürdo"
 szentivanylaborfalva: 
   city: "szentivanylaborfalva"
   accentcity: "Szentivànylaborfalva"
@@ -60458,7 +60458,7 @@ szentkiraly:
   accentcity: "Szentkiràly"
 szentlaszlo: 
   city: "szentlaszlo"
-  accentcity: "Szentlàszl\xC3\xB2"
+  accentcity: "Szentlàszlò"
 szentleanyfalva: 
   city: "szentleanyfalva"
   accentcity: "Szentleányfalva"
@@ -60773,10 +60773,10 @@ talmesch:
   accentcity: "Talmesch"
 talpa bacoveni: 
   city: "talpa bacoveni"
-  accentcity: "Talpa B\xC3\xA2coveni"
+  accentcity: "Talpa Bâcoveni"
 talpa-bascoveni: 
   city: "talpa-bascoveni"
-  accentcity: "Talpa-B\xC3\xA2scoveni"
+  accentcity: "Talpa-Bâscoveni"
 talpa-biscoveni: 
   city: "talpa-biscoveni"
   accentcity: "Talpa-B\xC3\xAEscoveni"
@@ -60944,19 +60944,19 @@ tamburesti:
   accentcity: "Tamburesti"
 tamna: 
   city: "tamna"
-  accentcity: "T\xC3\xA2mna"
+  accentcity: "Tâmna"
 tampa: 
   city: "tampa"
-  accentcity: "T\xC3\xA2mpa"
+  accentcity: "Tâmpa"
 tampeni de-jos: 
   city: "tampeni de-jos"
-  accentcity: "T\xC3\xA2mpeni de-Jos"
+  accentcity: "Tâmpeni de-Jos"
 tampenii-de-jos: 
   city: "tampenii-de-jos"
-  accentcity: "T\xC3\xA2mpenii-de-Jos"
+  accentcity: "Tâmpenii-de-Jos"
 tampenii de sus: 
   city: "tampenii de sus"
-  accentcity: "T\xC3\xA2mpenii de Sus"
+  accentcity: "Tâmpenii de Sus"
 tampeni: 
   city: "tampeni"
   accentcity: "Tampeni"
@@ -60995,22 +60995,22 @@ tandarei:
   accentcity: "Tandarei"
 tanganul-moara: 
   city: "tanganul-moara"
-  accentcity: "T\xC3\xA2nganul-Moara"
+  accentcity: "Tânganul-Moara"
 tanganul-nou: 
   city: "tanganul-nou"
-  accentcity: "T\xC3\xA2nganul-Nou"
+  accentcity: "Tânganul-Nou"
 tanganul: 
   city: "tanganul"
-  accentcity: "T\xC3\xA2nganul"
+  accentcity: "Tânganul"
 tanganu: 
   city: "tanganu"
-  accentcity: "T\xC3\xA2nganu"
+  accentcity: "Tânganu"
 tangarul: 
   city: "tangarul"
-  accentcity: "Tang\xC3\xA2rul"
+  accentcity: "Tangârul"
 tangaru: 
   city: "tangaru"
-  accentcity: "Tang\xC3\xA2ru"
+  accentcity: "Tangâru"
 tangiru: 
   city: "tangiru"
   accentcity: "Tang\xC3\xAEru"
@@ -61046,10 +61046,10 @@ tantava balasoaia:
   accentcity: "Tantava Balasoaia"
 tantava-banului: 
   city: "tantava-banului"
-  accentcity: "T\xC3\xA2ntava-Banului"
+  accentcity: "Tântava-Banului"
 tantava: 
   city: "tantava"
-  accentcity: "T\xC3\xA2ntava"
+  accentcity: "Tântava"
 tapa: 
   city: "tapa"
   accentcity: "Tapa"
@@ -61091,7 +61091,7 @@ tarateni:
   accentcity: "Tarateni"
 taratu: 
   city: "taratu"
-  accentcity: "T\xC3\xA2r\xC3\xA2tu"
+  accentcity: "Târâtu"
 tarbesti: 
   city: "tarbesti"
   accentcity: "Tarbesti"
@@ -61121,10 +61121,10 @@ tarchesti:
   accentcity: "Tarchesti"
 tarcov pana isvor: 
   city: "tarcov pana isvor"
-  accentcity: "T\xC3\xA2rcov Pana Isvor"
+  accentcity: "Târcov Pana Isvor"
 tarcov: 
   city: "tarcov"
-  accentcity: "T\xC3\xA2rcov"
+  accentcity: "Târcov"
 tarcsafalva: 
   city: "tarcsafalva"
   accentcity: "Tàrcsafalva"
@@ -61181,19 +61181,19 @@ targu-beresti:
   accentcity: "Targu-Beresti"
 targu bujor: 
   city: "targu bujor"
-  accentcity: "T\xC3\xA2rgu Bujor"
+  accentcity: "Târgu Bujor"
 targu carbunesti: 
   city: "targu carbunesti"
   accentcity: "Targu Carbunesti"
 targu-carcinov: 
   city: "targu-carcinov"
-  accentcity: "T\xC3\xA2rgu-C\xC3\xA2rcinov"
+  accentcity: "Târgu-Cârcinov"
 targu cucu: 
   city: "targu cucu"
-  accentcity: "T\xC3\xA2rgu Cucu"
+  accentcity: "Târgu Cucu"
 targu-frumos: 
   city: "targu-frumos"
-  accentcity: "T\xC3\xA2rgu-Frumos"
+  accentcity: "Târgu-Frumos"
 targu gangiulesti: 
   city: "targu gangiulesti"
   accentcity: "Targu Gangiulesti"
@@ -61202,7 +61202,7 @@ targu gangulesti:
   accentcity: "Targu Gangulesti"
 targu jiu: 
   city: "targu jiu"
-  accentcity: "T\xC3\xA2rgu Jiu"
+  accentcity: "Târgu Jiu"
 targu-lapus: 
   city: "targu-lapus"
   accentcity: "Targu-Lapus"
@@ -61217,16 +61217,16 @@ targul-carbunesti:
   accentcity: "Targul-Carbunesti"
 targul cucului: 
   city: "targul cucului"
-  accentcity: "T\xC3\xA2rgul Cucului"
+  accentcity: "Târgul Cucului"
 targul fierbinti: 
   city: "targul fierbinti"
-  accentcity: "T\xC3\xA2rgul Fierbinti"
+  accentcity: "Târgul Fierbinti"
 targul frumos: 
   city: "targul frumos"
-  accentcity: "T\xC3\xA2rgul Frumos"
+  accentcity: "Târgul Frumos"
 targul-jiu: 
   city: "targul-jiu"
-  accentcity: "T\xC3\xA2rgul-Jiu"
+  accentcity: "Târgul-Jiu"
 targul lapusul: 
   city: "targul lapusul"
   accentcity: "Targul Lapusul"
@@ -61244,13 +61244,13 @@ targul nicoresti:
   accentcity: "Targul Nicoresti"
 targul-ocna: 
   city: "targul-ocna"
-  accentcity: "T\xC3\xA2rgul-Ocna"
+  accentcity: "Târgul-Ocna"
 targu-logresti: 
   city: "targu-logresti"
   accentcity: "Targu-Logresti"
 targul plopana: 
   city: "targul plopana"
-  accentcity: "T\xC3\xA2rgul Plopana"
+  accentcity: "Târgul Plopana"
 targul sacuesc: 
   city: "targul sacuesc"
   accentcity: "Targul Sacuesc"
@@ -61259,10 +61259,10 @@ targul stanisesti:
   accentcity: "Targul Stanisesti"
 targul: 
   city: "targul"
-  accentcity: "T\xC3\xA2rgul"
+  accentcity: "Târgul"
 targul trotusului: 
   city: "targul trotusului"
-  accentcity: "T\xC3\xA2rgul Trotusului"
+  accentcity: "Târgul Trotusului"
 targu-mures: 
   city: "targu-mures"
   accentcity: "Targu-Mures"
@@ -61271,7 +61271,7 @@ targu-neamt:
   accentcity: "Targu-Neamt"
 targu ocna: 
   city: "targu ocna"
-  accentcity: "T\xC3\xA2rgu Ocna"
+  accentcity: "Târgu Ocna"
 targu pancestii: 
   city: "targu pancestii"
   accentcity: "Targu Pancestii"
@@ -61280,7 +61280,7 @@ targu-sacuesc:
   accentcity: "Targu-Sacuesc"
 targu sascut: 
   city: "targu sascut"
-  accentcity: "T\xC3\xA2rgu Sascut"
+  accentcity: "Târgu Sascut"
 targusor: 
   city: "targusor"
   accentcity: "Targusor"
@@ -61289,7 +61289,7 @@ targusorul-nou:
   accentcity: "Targusorul-Nou"
 targu: 
   city: "targu"
-  accentcity: "T\xC3\xA2rgu"
+  accentcity: "Târgu"
 targu-trotus: 
   city: "targu-trotus"
   accentcity: "Targu-Trotus"
@@ -61331,10 +61331,10 @@ tarkany:
   accentcity: "Tárkány"
 tarlele filiul: 
   city: "tarlele filiul"
-  accentcity: "T\xC3\xA2rlele Filiul"
+  accentcity: "Târlele Filiul"
 tarlele-filiu: 
   city: "tarlele-filiu"
-  accentcity: "T\xC3\xA2rlele-Filiu"
+  accentcity: "Târlele-Filiu"
 tarlesti: 
   city: "tarlesti"
   accentcity: "Tarlesti"
@@ -61358,13 +61358,13 @@ tarnava-de-cris:
   accentcity: "Tarnava-de-Cris"
 tarnava de jos: 
   city: "tarnava de jos"
-  accentcity: "T\xC3\xA2rnava de Jos"
+  accentcity: "Târnava de Jos"
 tarnava: 
   city: "tarnava"
-  accentcity: "T\xC3\xA2rnava"
+  accentcity: "Târnava"
 tarnavele: 
   city: "tarnavele"
-  accentcity: "T\xC3\xA2rnavele"
+  accentcity: "Târnavele"
 tarnaveni: 
   city: "tarnaveni"
   accentcity: "Tarnaveni"
@@ -61385,10 +61385,10 @@ tarnokszentgyorgy:
   accentcity: "Tárnokszentgy\xC3\xB6rgy"
 tarnova: 
   city: "tarnova"
-  accentcity: "T\xC3\xA2rnova"
+  accentcity: "Târnova"
 tarnovita: 
   city: "tarnovita"
-  accentcity: "T\xC3\xA2rn\xC3\xB2vita"
+  accentcity: "Târnòvita"
 tarpesti: 
   city: "tarpesti"
   accentcity: "Tarpesti"
@@ -61400,7 +61400,7 @@ tarpiu:
   accentcity: "Tarpiu"
 tarsa: 
   city: "tarsa"
-  accentcity: "T\xC3\xA2rsa"
+  accentcity: "Târsa"
 tarsesti: 
   city: "tarsesti"
   accentcity: "Tarsesti"
@@ -61430,13 +61430,13 @@ tarulesti:
   accentcity: "Tarulesti"
 tarungemi: 
   city: "tarungemi"
-  accentcity: "T\xC3\xA2rungemi"
+  accentcity: "Târungemi"
 tarzia: 
   city: "tarzia"
-  accentcity: "T\xC3\xA2rzia"
+  accentcity: "Târzia"
 tarzii: 
   city: "tarzii"
-  accentcity: "T\xC3\xA2rzii"
+  accentcity: "Târzii"
 tasad: 
   city: "tasad"
   accentcity: "Tasad"
@@ -62033,7 +62033,7 @@ temesforgacs:
   accentcity: "Temesforgács"
 temesfuves: 
   city: "temesfuves"
-  accentcity: "Temesf\xC3\xBCves"
+  accentcity: "Temesfüves"
 temesfuzkut: 
   city: "temesfuzkut"
   accentcity: "Temesfuzkut"
@@ -62144,7 +62144,7 @@ temisvar:
   accentcity: "Temisvar"
 temlecbukke: 
   city: "temlecbukke"
-  accentcity: "Temlecb\xC3\xBCkke"
+  accentcity: "Temlecbükke"
 temletbuche: 
   city: "temletbuche"
   accentcity: "Temletbuche"
@@ -62219,7 +62219,7 @@ teregova:
   accentcity: "Teregova"
 teremeujfalu: 
   city: "teremeujfalu"
-  accentcity: "Teremeujfal\xC3\xB9"
+  accentcity: "Teremeujfalù"
 teremia mare: 
   city: "teremia mare"
   accentcity: "Teremia Mare"
@@ -62378,7 +62378,7 @@ tibeni:
   accentcity: "Tibeni"
 tibod: 
   city: "tibod"
-  accentcity: "Tib\xC3\xB2d"
+  accentcity: "Tibòd"
 tibodu: 
   city: "tibodu"
   accentcity: "Tibodu"
@@ -63101,7 +63101,7 @@ tiszafalva:
   accentcity: "Tiszafalva"
 tiszijo: 
   city: "tiszijo"
-  accentcity: "Tiszij\xC3\xB2"
+  accentcity: "Tiszijò"
 tita: 
   city: "tita"
   accentcity: "Tita"
@@ -63248,7 +63248,7 @@ tofalau:
   accentcity: "Tofalau"
 tofalva: 
   city: "tofalva"
-  accentcity: "T\xC3\xB2falva"
+  accentcity: "Tòfalva"
 toflea: 
   city: "toflea"
   accentcity: "Toflea"
@@ -63515,7 +63515,7 @@ topanfalva:
   accentcity: "Topánfalva"
 toparcea: 
   city: "toparcea"
-  accentcity: "Top\xC3\xA2rcea"
+  accentcity: "Topârcea"
 topa: 
   city: "topa"
   accentcity: "Topa"
@@ -63629,7 +63629,7 @@ torba:
   accentcity: "Torba"
 torboszlo: 
   city: "torboszlo"
-  accentcity: "Torboszl\xC3\xB2"
+  accentcity: "Torboszlò"
 torcesti: 
   city: "torcesti"
   accentcity: "Torcesti"
@@ -63671,7 +63671,7 @@ torontaldinnyes:
   accentcity: "Torontáldinnyés"
 torontalgyulvesz: 
   city: "torontalgyulvesz"
-  accentcity: "Torontálgy\xC3\xBClvész"
+  accentcity: "Torontálgyülvész"
 torontalkeresztes: 
   city: "torontalkeresztes"
   accentcity: "Torontálkeresztes"
@@ -63788,10 +63788,10 @@ trampoaiele:
   accentcity: "Trampoaiele"
 trampocle: 
   city: "trampocle"
-  accentcity: "Tr\xC3\xA2mpocle"
+  accentcity: "Trâmpocle"
 trampoele: 
   city: "trampoele"
-  accentcity: "Tr\xC3\xA2mpoele"
+  accentcity: "Trâmpoele"
 tranis: 
   city: "tranis"
   accentcity: "Tranis"
@@ -63986,7 +63986,7 @@ trusesti:
   accentcity: "Trusesti"
 truswetter: 
   city: "truswetter"
-  accentcity: "Tr\xC3\xBCswetter"
+  accentcity: "Trüswetter"
 tschakowa: 
   city: "tschakowa"
   accentcity: "Tschakowa"
@@ -64139,7 +64139,7 @@ tulnici:
   accentcity: "Tulnici"
 tulsoviz: 
   city: "tulsoviz"
-  accentcity: "Tuls\xC3\xB2viz"
+  accentcity: "Tulsòviz"
 tultscha: 
   city: "tultscha"
   accentcity: "Tultscha"
@@ -64271,10 +64271,10 @@ turia:
   accentcity: "Turia"
 turkesdorf: 
   city: "turkesdorf"
-  accentcity: "T\xC3\xBCrkesdorf"
+  accentcity: "Türkesdorf"
 turkos: 
   city: "turkos"
-  accentcity: "T\xC3\xBCrk\xC3\xB6s"
+  accentcity: "Türk\xC3\xB6s"
 turloesti: 
   city: "turloesti"
   accentcity: "Turloesti"
@@ -64358,7 +64358,7 @@ tusnad bai:
   accentcity: "Tusnad Bai"
 tusnad furdo: 
   city: "tusnad furdo"
-  accentcity: "Tusnad F\xC3\xBCrd\xC3\xB6"
+  accentcity: "Tusnad Fürd\xC3\xB6"
 tusnad-kozseg: 
   city: "tusnad-kozseg"
   accentcity: "Tusnàd-K\xC3\xB6zsèg"
@@ -64466,7 +64466,7 @@ udatii-lucieni:
   accentcity: "Udatii-Lucieni"
 udatii-manzu: 
   city: "udatii-manzu"
-  accentcity: "Udatii-M\xC3\xA2nzu"
+  accentcity: "Udatii-Mânzu"
 udati-lucieni: 
   city: "udati-lucieni"
   accentcity: "Udati-Lucieni"
@@ -64613,37 +64613,37 @@ uivar:
   accentcity: "Uivar"
 ujarad: 
   city: "ujarad"
-  accentcity: "\xC3\x9Ajarad"
+  accentcity: "Újarad"
 ujbecs: 
   city: "ujbecs"
-  accentcity: "\xC3\x9Ajbécs"
+  accentcity: "Újbécs"
 ujbesenyo: 
   city: "ujbesenyo"
   accentcity: "Ujbesenyo"
 ujbodrog: 
   city: "ujbodrog"
-  accentcity: "\xC3\x9Ajbodrog"
+  accentcity: "Újbodrog"
 ujfalu: 
   city: "ujfalu"
-  accentcity: "Ujfal\xC3\xB9"
+  accentcity: "Ujfalù"
 ujhely: 
   city: "ujhely"
-  accentcity: "\xC3\x9Ajhely"
+  accentcity: "Újhely"
 ujjozseffalva: 
   city: "ujjozseffalva"
-  accentcity: "\xC3\x9Ajjózseffalva"
+  accentcity: "Újjózseffalva"
 ujlak: 
   city: "ujlak"
-  accentcity: "\xC3\x9Ajlak"
+  accentcity: "Újlak"
 ujnep: 
   city: "ujnep"
-  accentcity: "\xC3\x9Ajnép"
+  accentcity: "Újnép"
 ujpanad: 
   city: "ujpanad"
-  accentcity: "\xC3\x9Ajpanád"
+  accentcity: "Újpanád"
 ujpecs: 
   city: "ujpecs"
-  accentcity: "\xC3\x9Ajpécs"
+  accentcity: "Újpécs"
 uj-pojana: 
   city: "uj-pojana"
   accentcity: "Uj-Pojàna"
@@ -64655,19 +64655,19 @@ ujszekely:
   accentcity: "Ujszèkely"
 ujszentes: 
   city: "ujszentes"
-  accentcity: "\xC3\x9Ajszentes"
+  accentcity: "Újszentes"
 ujszentpeter: 
   city: "ujszentpeter"
-  accentcity: "\xC3\x9Ajszentpéter"
+  accentcity: "Újszentpéter"
 ujtusnad: 
   city: "ujtusnad"
   accentcity: "Ujtusnàd"
 ujvar: 
   city: "ujvar"
-  accentcity: "\xC3\x9Ajvár"
+  accentcity: "Újvár"
 ujvinga: 
   city: "ujvinga"
-  accentcity: "\xC3\x9Ajvinga"
+  accentcity: "Újvinga"
 uknyed: 
   city: "uknyed"
   accentcity: "Uknyèd"
@@ -64709,7 +64709,7 @@ uliesi:
   accentcity: "Uliesi"
 uliesti-dambovita: 
   city: "uliesti-dambovita"
-  accentcity: "Uliesti-D\xC3\xA2mbovita"
+  accentcity: "Uliesti-Dâmbovita"
 uliesti-dimbovita: 
   city: "uliesti-dimbovita"
   accentcity: "Uliesti-Dimbovita"
@@ -64976,7 +64976,7 @@ urdesti-sat:
   accentcity: "Urdesti-Sat"
 urdesti-targ: 
   city: "urdesti-targ"
-  accentcity: "Urdesti-T\xC3\xA2rg"
+  accentcity: "Urdesti-Târg"
 urdesti-tirg: 
   city: "urdesti-tirg"
   accentcity: "Urdesti-Tirg"
@@ -65321,7 +65321,7 @@ uzlina:
   accentcity: "Uzlina"
 uzonkafurdo: 
   city: "uzonkafurdo"
-  accentcity: "Uzonkaf\xC3\xBCrd\xC3\xB6"
+  accentcity: "Uzonkafürd\xC3\xB6"
 uzon: 
   city: "uzon"
   accentcity: "Uzon"
@@ -65540,7 +65540,7 @@ vaeui:
   accentcity: "Vaeui"
 vagani: 
   city: "vagani"
-  accentcity: "V\xC3\xA2gani"
+  accentcity: "Vâgani"
 vagany: 
   city: "vagany"
   accentcity: "Vagàny"
@@ -65621,7 +65621,7 @@ vajesti:
   accentcity: "Vajesti"
 vajiitoarea: 
   city: "vajiitoarea"
-  accentcity: "V\xC3\xA2jiitoarea"
+  accentcity: "Vâjiitoarea"
 vajla: 
   city: "vajla"
   accentcity: "Vajla"
@@ -65636,7 +65636,7 @@ vala boros:
   accentcity: "Vala Boros"
 valala: 
   city: "valala"
-  accentcity: "Valal\xC3\xA2"
+  accentcity: "Valalâ"
 valali: 
   city: "valali"
   accentcity: "Valal\xC3\xAE"
@@ -65663,7 +65663,7 @@ valcanesti:
   accentcity: "Valcanesti"
 valcani: 
   city: "valcani"
-  accentcity: "V\xC3\xA2lcani"
+  accentcity: "Vâlcani"
 valcau de jos: 
   city: "valcau de jos"
   accentcity: "Valcau de Jos"
@@ -65681,28 +65681,28 @@ valcau unguresc:
   accentcity: "Valcau Unguresc"
 valceaua: 
   city: "valceaua"
-  accentcity: "V\xC3\xA2lceaua"
+  accentcity: "Vâlceaua"
 valcea: 
   city: "valcea"
   accentcity: "Valcea"
 valcelele-bune: 
   city: "valcelele-bune"
-  accentcity: "V\xC3\xA2lcelele-Bune"
+  accentcity: "Vâlcelele-Bune"
 valcelele de jos: 
   city: "valcelele de jos"
-  accentcity: "V\xC3\xA2lcelele de Jos"
+  accentcity: "Vâlcelele de Jos"
 valcelele de sus: 
   city: "valcelele de sus"
-  accentcity: "V\xC3\xA2lcelele de Sus"
+  accentcity: "Vâlcelele de Sus"
 valcelele-rele: 
   city: "valcelele-rele"
-  accentcity: "V\xC3\xA2lcelele-Rele"
+  accentcity: "Vâlcelele-Rele"
 valcelele: 
   city: "valcelele"
-  accentcity: "V\xC3\xA2lcelele"
+  accentcity: "Vâlcelele"
 valcele: 
   city: "valcele"
-  accentcity: "V\xC3\xA2lcele"
+  accentcity: "Vâlcele"
 valchid: 
   city: "valchid"
   accentcity: "Valchid"
@@ -65921,13 +65921,13 @@ valea calului:
   accentcity: "Valea Calului"
 valea campului: 
   city: "valea campului"
-  accentcity: "Valea C\xC3\xA2mpului"
+  accentcity: "Valea Câmpului"
 valea-canepei: 
   city: "valea-canepei"
-  accentcity: "Valea-C\xC3\xA2nepei"
+  accentcity: "Valea-Cânepei"
 valea canepei: 
   city: "valea canepei"
-  accentcity: "Valea C\xC3\xA2nepei"
+  accentcity: "Valea Cânepei"
 valea capelei: 
   city: "valea capelei"
   accentcity: "Valea Capelei"
@@ -66032,7 +66032,7 @@ valea cotoarei:
   accentcity: "Valea Cotoarei"
 valea crangului: 
   city: "valea crangului"
-  accentcity: "Valea Cr\xC3\xA2ngului"
+  accentcity: "Valea Crângului"
 valea cricovului: 
   city: "valea cricovului"
   accentcity: "Valea Cricovului"
@@ -66080,7 +66080,7 @@ valea dalei:
   accentcity: "Valea Dalei"
 valea daljii: 
   city: "valea daljii"
-  accentcity: "Valea D\xC3\xA2ljii"
+  accentcity: "Valea Dâljii"
 valea danului: 
   city: "valea danului"
   accentcity: "Valea Danului"
@@ -66359,7 +66359,7 @@ valea lui bosie:
   accentcity: "Valea lui Bosie"
 valea lui caine: 
   city: "valea lui caine"
-  accentcity: "Valea lui C\xC3\xA2ine"
+  accentcity: "Valea lui Câine"
 valea lui ciine: 
   city: "valea lui ciine"
   accentcity: "Valea lui C\xC3\xAEine"
@@ -66884,7 +66884,7 @@ valea rea-sat:
   accentcity: "Valea Rea-Sat"
 valea rea targ: 
   city: "valea rea targ"
-  accentcity: "Valea Rea T\xC3\xA2rg"
+  accentcity: "Valea Rea Târg"
 valea rea-tirg: 
   city: "valea rea-tirg"
   accentcity: "Valea Rea-T\xC3\xAErg"
@@ -66944,7 +66944,7 @@ valea salciilor:
   accentcity: "Valea Salciilor"
 valea sangeorgiului: 
   city: "valea sangeorgiului"
-  accentcity: "Valea S\xC3\xA2ngeorgiului"
+  accentcity: "Valea Sângeorgiului"
 valea santa: 
   city: "valea santa"
   accentcity: "Valea Santa"
@@ -67064,13 +67064,13 @@ valea spinului:
   accentcity: "Valea Spinului"
 valea stalpului: 
   city: "valea stalpului"
-  accentcity: "Valea St\xC3\xA2lpului"
+  accentcity: "Valea Stâlpului"
 valea stanciului: 
   city: "valea stanciului"
   accentcity: "Valea Stanciului"
 valea stanei: 
   city: "valea stanei"
-  accentcity: "Valea St\xC3\xA2nei"
+  accentcity: "Valea Stânei"
 valea stanisoara: 
   city: "valea stanisoara"
   accentcity: "Valea Stanisoara"
@@ -67121,19 +67121,19 @@ valea tapului:
   accentcity: "Valea Tapului"
 valea targului: 
   city: "valea targului"
-  accentcity: "Valea T\xC3\xA2rgului"
+  accentcity: "Valea Târgului"
 valea-tarnei: 
   city: "valea-tarnei"
-  accentcity: "Valea-T\xC3\xA2rnei"
+  accentcity: "Valea-Târnei"
 valea tarsei: 
   city: "valea tarsei"
-  accentcity: "Valea T\xC3\xA2rsei"
+  accentcity: "Valea Târsei"
 valea tars: 
   city: "valea tars"
   accentcity: "Valea Tars"
 valea tatei: 
   city: "valea tatei"
-  accentcity: "Valea T\xC3\xA2tei"
+  accentcity: "Valea Tâtei"
 valea teancului: 
   city: "valea teancului"
   accentcity: "Valea Teancului"
@@ -67301,7 +67301,7 @@ valea zidului:
   accentcity: "Valea Zidului"
 valeelele: 
   city: "valeelele"
-  accentcity: "V\xC3\xA2leelele"
+  accentcity: "Vâleelele"
 valee morii: 
   city: "valee morii"
   accentcity: "Valee Morii"
@@ -67430,7 +67430,7 @@ valu traian:
   accentcity: "Valu Traian"
 valvoiu: 
   city: "valvoiu"
-  accentcity: "V\xC3\xA2lvoiu"
+  accentcity: "Vâlvoiu"
 vama buzaului: 
   city: "vama buzaului"
   accentcity: "Vama Buzaului"
@@ -67472,7 +67472,7 @@ vames:
   accentcity: "Vames"
 vamsancraiu: 
   city: "vamsancraiu"
-  accentcity: "Vams\xC3\xA2ncraiu"
+  accentcity: "Vamsâncraiu"
 vam: 
   city: "vam"
   accentcity: "Vám"
@@ -67511,10 +67511,10 @@ vanjulet:
   accentcity: "Vanjulet"
 vanjul-mare: 
   city: "vanjul-mare"
-  accentcity: "V\xC3\xA2njul-Mare"
+  accentcity: "Vânjul-Mare"
 vanju-mare: 
   city: "vanju-mare"
-  accentcity: "V\xC3\xA2nju-Mare"
+  accentcity: "Vânju-Mare"
 vanvucesti: 
   city: "vanvucesti"
   accentcity: "Vanvucesti"
@@ -67592,10 +67592,10 @@ varbila:
   accentcity: "Varbila"
 varciorog: 
   city: "varciorog"
-  accentcity: "V\xC3\xA2rciorog"
+  accentcity: "Vârciorog"
 varciorova: 
   city: "varciorova"
-  accentcity: "V\xC3\xA2rciorova"
+  accentcity: "Vârciorova"
 vard: 
   city: "vard"
   accentcity: "Vard"
@@ -67604,22 +67604,22 @@ varfalau:
   accentcity: "Varfalau"
 varful-campului: 
   city: "varful-campului"
-  accentcity: "V\xC3\xA2rful-C\xC3\xA2mpului"
+  accentcity: "Vârful-Câmpului"
 varful: 
   city: "varful"
-  accentcity: "V\xC3\xA2rful"
+  accentcity: "Vârful"
 varfurenii: 
   city: "varfurenii"
-  accentcity: "V\xC3\xA2rfurenii"
+  accentcity: "Vârfurenii"
 varfurile: 
   city: "varfurile"
-  accentcity: "V\xC3\xA2rfurile"
+  accentcity: "Vârfurile"
 varfu: 
   city: "varfu"
-  accentcity: "V\xC3\xA2rfu"
+  accentcity: "Vârfu"
 varf: 
   city: "varf"
-  accentcity: "V\xC3\xA2rf"
+  accentcity: "Vârf"
 vargata: 
   city: "vargata"
   accentcity: "Vargata"
@@ -67631,7 +67631,7 @@ varghis:
   accentcity: "Varghis"
 vargolici: 
   city: "vargolici"
-  accentcity: "V\xC3\xA2rgolici"
+  accentcity: "Vârgolici"
 vargyas: 
   city: "vargyas"
   accentcity: "Vargyas"
@@ -67676,13 +67676,13 @@ varlanesti:
   accentcity: "Varlanesti"
 varleni: 
   city: "varleni"
-  accentcity: "V\xC3\xA2rleni"
+  accentcity: "Vârleni"
 varlezi: 
   city: "varlezi"
-  accentcity: "V\xC3\xA2rlezi"
+  accentcity: "Vârlezi"
 varloveni: 
   city: "varloveni"
-  accentcity: "V\xC3\xA2rloveni"
+  accentcity: "Vârloveni"
 varmaga: 
   city: "varmaga"
   accentcity: "Varmaga"
@@ -67694,7 +67694,7 @@ varnita:
   accentcity: "Varnita"
 varnov: 
   city: "varnov"
-  accentcity: "V\xC3\xA2rnov"
+  accentcity: "Vârnov"
 varodia: 
   city: "varodia"
   accentcity: "Varodia"
@@ -67748,16 +67748,16 @@ vartanesti:
   accentcity: "Vartanesti"
 vartejul-nefliu: 
   city: "vartejul-nefliu"
-  accentcity: "V\xC3\xA2rtejul-Nefliu"
+  accentcity: "Vârtejul-Nefliu"
 vartejul: 
   city: "vartejul"
-  accentcity: "V\xC3\xA2rtejul"
+  accentcity: "Vârtejul"
 varteju: 
   city: "varteju"
-  accentcity: "V\xC3\xA2rteju"
+  accentcity: "Vârteju"
 vartej: 
   city: "vartej"
-  accentcity: "V\xC3\xA2rtej"
+  accentcity: "Vârtej"
 vartescoiu: 
   city: "vartescoiu"
   accentcity: "Vartescoiu"
@@ -67766,28 +67766,28 @@ vartescoi:
   accentcity: "Vartescoi"
 vartina: 
   city: "vartina"
-  accentcity: "V\xC3\xA2rtina"
+  accentcity: "Vârtina"
 vartoapele-de-jos: 
   city: "vartoapele-de-jos"
-  accentcity: "V\xC3\xA2rtoapele-de-Jos"
+  accentcity: "Vârtoapele-de-Jos"
 vartoapele-de-sus: 
   city: "vartoapele-de-sus"
-  accentcity: "V\xC3\xA2rtoapele-de-Sus"
+  accentcity: "Vârtoapele-de-Sus"
 vartopul mare: 
   city: "vartopul mare"
-  accentcity: "V\xC3\xA2rtopul Mare"
+  accentcity: "Vârtopul Mare"
 vartopul: 
   city: "vartopul"
-  accentcity: "V\xC3\xA2rtopul"
+  accentcity: "Vârtopul"
 vartopu: 
   city: "vartopu"
-  accentcity: "V\xC3\xA2rtopu"
+  accentcity: "Vârtopu"
 vartop: 
   city: "vartop"
-  accentcity: "V\xC3\xA2rtop"
+  accentcity: "Vârtop"
 vartu: 
   city: "vartu"
-  accentcity: "V\xC3\xA2rtu"
+  accentcity: "Vârtu"
 var: 
   city: "var"
   accentcity: "Var"
@@ -67799,13 +67799,13 @@ varviz:
   accentcity: "Varviz"
 varvorul: 
   city: "varvorul"
-  accentcity: "V\xC3\xA2rvorul"
+  accentcity: "Vârvorul"
 varvoru: 
   city: "varvoru"
-  accentcity: "V\xC3\xA2rvoru"
+  accentcity: "Vârvoru"
 varvor: 
   city: "varvor"
-  accentcity: "V\xC3\xA2rvor"
+  accentcity: "Vârvor"
 varzarii de jos: 
   city: "varzarii de jos"
   accentcity: "Varzarii de Jos"
@@ -68438,7 +68438,7 @@ viezuri:
   accentcity: "Viezuri"
 viforata: 
   city: "viforata"
-  accentcity: "Vifor\xC3\xA2ta"
+  accentcity: "Viforâta"
 viforeni: 
   city: "viforeni"
   accentcity: "Viforeni"
@@ -69179,7 +69179,7 @@ vlajeni:
   accentcity: "Vlajeni"
 vlangaresti: 
   city: "vlangaresti"
-  accentcity: "Vl\xC3\xA2ngaresti"
+  accentcity: "Vlângaresti"
 vlasca: 
   city: "vlasca"
   accentcity: "Vlasca"
@@ -69512,10 +69512,10 @@ vrancea:
   accentcity: "Vrancea"
 vrancenii: 
   city: "vrancenii"
-  accentcity: "Vr\xC3\xA2ncenii"
+  accentcity: "Vrâncenii"
 vrancioaia: 
   city: "vrancioaia"
-  accentcity: "Vr\xC3\xA2ncioaia"
+  accentcity: "Vrâncioaia"
 vranesti: 
   city: "vranesti"
   accentcity: "Vranesti"
@@ -69758,7 +69758,7 @@ zabrautii:
   accentcity: "Zabrautii"
 zabreasca: 
   city: "zabreasca"
-  accentcity: "Z\xC3\xA2breasca"
+  accentcity: "Zâbreasca"
 zadareni: 
   city: "zadareni"
   accentcity: "Zadareni"
@@ -69869,7 +69869,7 @@ zamostea:
   accentcity: "Zamostea"
 zam sancraiu: 
   city: "zam sancraiu"
-  accentcity: "Zam S\xC3\xA2ncraiu"
+  accentcity: "Zam Sâncraiu"
 zam: 
   city: "zam"
   accentcity: "Zam"

@@ -161,7 +161,7 @@ achet:
   accentcity: "Achet"
 a chinecha: 
   city: "a chinecha"
-  accentcity: "\xC3\x80 Chinecha"
+  accentcity: "À Chinecha"
 achonfosse: 
   city: "achonfosse"
   accentcity: "Achonfosse"
@@ -239,7 +239,7 @@ achter weert:
   accentcity: "Achter Weert"
 a clapette: 
   city: "a clapette"
-  accentcity: "\xC3\x80 Clapette"
+  accentcity: "À Clapette"
 acosse: 
   city: "acosse"
   accentcity: "Acosse"
@@ -299,7 +299,7 @@ aertselaer:
   accentcity: "Aertselaer"
 a faihay: 
   city: "a faihay"
-  accentcity: "\xC3\x80 Faihay"
+  accentcity: "À Faihay"
 affnay: 
   city: "affnay"
   accentcity: "Affnay"
@@ -548,7 +548,7 @@ amas:
   accentcity: "Amas"
 a massehottee: 
   city: "a massehottee"
-  accentcity: "\xC3\x80 Massehottée"
+  accentcity: "À Massehottée"
 amay: 
   city: "amay"
   accentcity: "Amay"
@@ -1238,7 +1238,7 @@ au tombois:
   accentcity: "Au Tombois"
 autre-eglise: 
   city: "autre-eglise"
-  accentcity: "Autre-\xC3\x89glise"
+  accentcity: "Autre-Église"
 autreppe: 
   city: "autreppe"
   accentcity: "Autreppe"
@@ -1613,7 +1613,7 @@ bakergem:
   accentcity: "Bakergem"
 balatre: 
   city: "balatre"
-  accentcity: "Bal\xC3\xA2tre"
+  accentcity: "Balâtre"
 balderij: 
   city: "balderij"
   accentcity: "Balderij"
@@ -1688,7 +1688,7 @@ ban de laviot:
   accentcity: "Ban de Laviot"
 banes-sarts: 
   city: "banes-sarts"
-  accentcity: "Banès-S\xC3\xA2rts"
+  accentcity: "Banès-Sârts"
 banet sarts: 
   city: "banet sarts"
   accentcity: "Banet Sarts"
@@ -4985,7 +4985,7 @@ braine-lalleud:
   accentcity: "Braine-l'Alleud"
 braine-le-chateau: 
   city: "braine-le-chateau"
-  accentcity: "Braine-le-Ch\xC3\xA2teau"
+  accentcity: "Braine-le-Château"
 braine-le-comte: 
   city: "braine-le-comte"
   accentcity: "Braine-le-Comte"
@@ -5630,7 +5630,7 @@ brye:
   accentcity: "Brye"
 buchel: 
   city: "buchel"
-  accentcity: "B\xC3\xBCchel"
+  accentcity: "Büchel"
 buchelbusch: 
   city: "buchelbusch"
   accentcity: "Buchelbusch"
@@ -6560,25 +6560,25 @@ chat:
   accentcity: "Chat"
 chateau le duc: 
   city: "chateau le duc"
-  accentcity: "Ch\xC3\xA2teau le Duc"
+  accentcity: "Château le Duc"
 chateaumont: 
   city: "chateaumont"
-  accentcity: "Ch\xC3\xA2teaumont"
+  accentcity: "Châteaumont"
 chateau neuf: 
   city: "chateau neuf"
-  accentcity: "Ch\xC3\xA2teau Neuf"
+  accentcity: "Château Neuf"
 chateau renaud: 
   city: "chateau renaud"
-  accentcity: "Ch\xC3\xA2teau Renaud"
+  accentcity: "Château Renaud"
 chatelet: 
   city: "chatelet"
-  accentcity: "Ch\xC3\xA2telet"
+  accentcity: "Châtelet"
 chatelineau: 
   city: "chatelineau"
-  accentcity: "Ch\xC3\xA2telineau"
+  accentcity: "Châtelineau"
 chatillon: 
   city: "chatillon"
-  accentcity: "Ch\xC3\xA2tillon"
+  accentcity: "Châtillon"
 chat-queue: 
   city: "chat-queue"
   accentcity: "Chat-Queue"
@@ -6791,7 +6791,7 @@ choassnaye:
   accentcity: "Choassnaye"
 chodes: 
   city: "chodes"
-  accentcity: "Ch\xC3\xB4des"
+  accentcity: "Chôdes"
 chokier: 
   city: "chokier"
   accentcity: "Chokier"
@@ -7259,7 +7259,7 @@ cordes:
   accentcity: "Cordes"
 core: 
   city: "core"
-  accentcity: "C\xC3\xB4ré"
+  accentcity: "Côré"
 corenne: 
   city: "corenne"
   accentcity: "Corenne"
@@ -7322,7 +7322,7 @@ corroy:
   accentcity: "Corroy"
 corroy-le-chateau: 
   city: "corroy-le-chateau"
-  accentcity: "Corroy-le-Ch\xC3\xA2teau"
+  accentcity: "Corroy-le-Château"
 corroy-le-grand: 
   city: "corroy-le-grand"
   accentcity: "Corroy-le-Grand"
@@ -7403,16 +7403,16 @@ cosselies:
   accentcity: "Cosselies"
 cote champion: 
   city: "cote champion"
-  accentcity: "C\xC3\xB4te Champion"
+  accentcity: "Côte Champion"
 cote champlon: 
   city: "cote champlon"
-  accentcity: "C\xC3\xB4te Champlon"
+  accentcity: "Côte Champlon"
 cote de wilbauroche: 
   city: "cote de wilbauroche"
-  accentcity: "C\xC3\xB4te de Wilbauroche"
+  accentcity: "Côte de Wilbauroche"
 cote lambot: 
   city: "cote lambot"
-  accentcity: "C\xC3\xB4te Lambot"
+  accentcity: "Côte Lambot"
 cothem: 
   city: "cothem"
   accentcity: "Cothem"
@@ -7475,7 +7475,7 @@ courtrai:
   accentcity: "Courtrai"
 court-saint-etienne: 
   city: "court-saint-etienne"
-  accentcity: "Court-Saint-\xC3\x89tienne"
+  accentcity: "Court-Saint-Étienne"
 court tournant: 
   city: "court tournant"
   accentcity: "Court Tournant"
@@ -9527,7 +9527,7 @@ dreihuizen:
   accentcity: "Dreihuizen"
 dreihutten: 
   city: "dreihutten"
-  accentcity: "Dreih\xC3\xBCtten"
+  accentcity: "Dreihütten"
 drengel: 
   city: "drengel"
   accentcity: "Drengel"
@@ -9866,7 +9866,7 @@ duret:
   accentcity: "Duret"
 durler: 
   city: "durler"
-  accentcity: "D\xC3\xBCrler"
+  accentcity: "Dürler"
 durmem: 
   city: "durmem"
   accentcity: "Durmem"
@@ -9920,19 +9920,19 @@ ebly:
   accentcity: "Ebly"
 ecacheries: 
   city: "ecacheries"
-  accentcity: "\xC3\x89cacheries"
+  accentcity: "Écacheries"
 ecaussines-denghien: 
   city: "ecaussines-d'enghien"
   accentcity: "Ecaussines-d'Enghien"
 ecaussines-lalaing: 
   city: "ecaussines-lalaing"
-  accentcity: "\xC3\x89caussines-Lalaing"
+  accentcity: "Écaussines-Lalaing"
 ecaussinnes-denghien: 
   city: "ecaussinnes-d'enghien"
   accentcity: "Ecaussinnes-d'Enghien"
 ecaussinnes-lalaing: 
   city: "ecaussinnes-lalaing"
-  accentcity: "\xC3\x89caussinnes-Lalaing"
+  accentcity: "Écaussinnes-Lalaing"
 echelpoel: 
   city: "echelpoel"
   accentcity: "Echelpoel"
@@ -10175,7 +10175,7 @@ eggewaertscappelle:
   accentcity: "Eggewaertscappelle"
 eghezee: 
   city: "eghezee"
-  accentcity: "\xC3\x89ghezée"
+  accentcity: "Éghezée"
 egoven: 
   city: "egoven"
   accentcity: "Egoven"
@@ -10469,7 +10469,7 @@ elmotte:
   accentcity: "Elmotte"
 elouges: 
   city: "elouges"
-  accentcity: "\xC3\x89louges"
+  accentcity: "Élouges"
 els brug: 
   city: "els brug"
   accentcity: "Els Brug"
@@ -10562,7 +10562,7 @@ embourg:
   accentcity: "Embourg"
 emcomont: 
   city: "emcomont"
-  accentcity: "Emc\xC3\xB4mont"
+  accentcity: "Emcômont"
 emelgem: 
   city: "emelgem"
   accentcity: "Emelgem"
@@ -10574,7 +10574,7 @@ emeville:
   accentcity: "Emeville"
 emines: 
   city: "emines"
-  accentcity: "\xC3\x89mines"
+  accentcity: "Émines"
 emnuez: 
   city: "emnuez"
   accentcity: "Emnuez"
@@ -10643,7 +10643,7 @@ en hoc:
   accentcity: "En Hoc"
 enines: 
   city: "enines"
-  accentcity: "\xC3\x89nines"
+  accentcity: "Énines"
 enmuez: 
   city: "enmuez"
   accentcity: "Enmuez"
@@ -10682,13 +10682,13 @@ epelaar heide:
   accentcity: "Epelaar Heide"
 epinette: 
   city: "epinette"
-  accentcity: "\xC3\x89pinette"
+  accentcity: "Épinette"
 epinois: 
   city: "epinois"
-  accentcity: "\xC3\x89pinois"
+  accentcity: "Épinois"
 epioux: 
   city: "epioux"
-  accentcity: "\xC3\x89pioux"
+  accentcity: "Épioux"
 eppegem: 
   city: "eppegem"
   accentcity: "Eppegem"
@@ -10697,10 +10697,10 @@ eppeghem:
   accentcity: "Eppeghem"
 eprave: 
   city: "eprave"
-  accentcity: "\xC3\x89prave"
+  accentcity: "Éprave"
 equipee: 
   city: "equipee"
-  accentcity: "\xC3\x89quipée"
+  accentcity: "Équipée"
 erbaut: 
   city: "erbaut"
   accentcity: "Erbaut"
@@ -10721,7 +10721,7 @@ erembodegem:
   accentcity: "Erembodegem"
 erezee: 
   city: "erezee"
-  accentcity: "\xC3\x89rezée"
+  accentcity: "Érezée"
 erkegem: 
   city: "erkegem"
   accentcity: "Erkegem"
@@ -10925,10 +10925,10 @@ estree:
   accentcity: "Estrée"
 etablissements de chassart: 
   city: "etablissements de chassart"
-  accentcity: "\xC3\x89tablissements de Chassart"
+  accentcity: "Établissements de Chassart"
 etalle: 
   city: "etalle"
-  accentcity: "\xC3\x89talle"
+  accentcity: "Étalle"
 etbosch: 
   city: "etbosch"
   accentcity: "Etbosch"
@@ -10937,7 +10937,7 @@ etbos:
   accentcity: "Etbos"
 ethe: 
   city: "ethe"
-  accentcity: "\xC3\x89the"
+  accentcity: "Éthe"
 etichove: 
   city: "etichove"
   accentcity: "Etichove"
@@ -10976,13 +10976,13 @@ evangelieboom:
   accentcity: "Evangelieboom"
 eve: 
   city: "eve"
-  accentcity: "\xC3\x89ve"
+  accentcity: "Éve"
 evegnee: 
   city: "evegnee"
-  accentcity: "\xC3\x89vegnée"
+  accentcity: "Évegnée"
 evegnee-tignee: 
   city: "evegnee-tignee"
-  accentcity: "\xC3\x89vegnée-Tignée"
+  accentcity: "Évegnée-Tignée"
 evelette: 
   city: "evelette"
   accentcity: "Evelette"
@@ -11573,7 +11573,7 @@ flohimont:
   accentcity: "Flohimont"
 flone: 
   city: "flone"
-  accentcity: "Fl\xC3\xB4ne"
+  accentcity: "Flône"
 florbecq: 
   city: "florbecq"
   accentcity: "Florbecq"
@@ -11666,7 +11666,7 @@ fond-de-chene:
   accentcity: "Fond-de-Chêne"
 fond de cone: 
   city: "fond de cone"
-  accentcity: "Fond de C\xC3\xB4ne"
+  accentcity: "Fond de Cône"
 fond de gay: 
   city: "fond de gay"
   accentcity: "Fond de Gay"
@@ -13595,7 +13595,7 @@ gozin:
   accentcity: "Gozin"
 grace-berleur: 
   city: "grace-berleur"
-  accentcity: "Gr\xC3\xA2ce-Berleur"
+  accentcity: "Grâce-Berleur"
 gracht: 
   city: "gracht"
   accentcity: "Gracht"
@@ -14501,7 +14501,7 @@ grufflange:
   accentcity: "Grufflange"
 grufflingen: 
   city: "grufflingen"
-  accentcity: "Gr\xC3\xBCfflingen"
+  accentcity: "Grüfflingen"
 gruflange: 
   city: "gruflange"
   accentcity: "Gruflange"
@@ -14513,7 +14513,7 @@ grune:
   accentcity: "Grune"
 grune hohe: 
   city: "grune hohe"
-  accentcity: "Gr\xC3\xBCne H\xC3\xB6he"
+  accentcity: "Grüne H\xC3\xB6he"
 grupchy: 
   city: "grupchy"
   accentcity: "Grupchy"
@@ -15548,7 +15548,7 @@ hautecroix:
   accentcity: "Hautecroix"
 haute flone: 
   city: "haute flone"
-  accentcity: "Haute Fl\xC3\xB4ne"
+  accentcity: "Haute Flône"
 haute folie: 
   city: "haute folie"
   accentcity: "Haute Folie"
@@ -16670,7 +16670,7 @@ herzele:
   accentcity: "Herzele"
 herzogenhugel: 
   city: "herzogenhugel"
-  accentcity: "Herzogenh\xC3\xBCgel"
+  accentcity: "Herzogenhügel"
 hesbie: 
   city: "hesbie"
   accentcity: "Hesbie"
@@ -18566,7 +18566,7 @@ hunnange:
   accentcity: "Hunnange"
 hunningen: 
   city: "hunningen"
-  accentcity: "H\xC3\xBCnningen"
+  accentcity: "Hünningen"
 hunsberg: 
   city: "hunsberg"
   accentcity: "Hunsberg"
@@ -18611,7 +18611,7 @@ hutteghem:
   accentcity: "Hutteghem"
 hutte: 
   city: "hutte"
-  accentcity: "H\xC3\xBCtte"
+  accentcity: "Hütte"
 hututu: 
   city: "hututu"
   accentcity: "Hututu"
@@ -18707,7 +18707,7 @@ imbrechies:
   accentcity: "Imbrechies"
 im grunenthal: 
   city: "im grunenthal"
-  accentcity: "Im Gr\xC3\xBCnenthal"
+  accentcity: "Im Grünenthal"
 im heinsterterpaad: 
   city: "im heinsterterpaad"
   accentcity: "Im Heinsterterpaad"
@@ -21302,7 +21302,7 @@ kruyshoek:
   accentcity: "Kruyshoek"
 kuchelscheid: 
   city: "kuchelscheid"
-  accentcity: "K\xC3\xBCchelscheid"
+  accentcity: "Küchelscheid"
 kuilen: 
   city: "kuilen"
   accentcity: "Kuilen"
@@ -21728,7 +21728,7 @@ la cort:
   accentcity: "La Cort"
 la cote: 
   city: "la cote"
-  accentcity: "La C\xC3\xB4te"
+  accentcity: "La Côte"
 la coulberie: 
   city: "la coulberie"
   accentcity: "La Coulberie"
@@ -23063,7 +23063,7 @@ le banc:
   accentcity: "Le Banc"
 le batiment: 
   city: "le batiment"
-  accentcity: "Le B\xC3\xA2timent"
+  accentcity: "Le Bâtiment"
 lebbeke: 
   city: "lebbeke"
   accentcity: "Lebbeke"
@@ -23153,7 +23153,7 @@ le charnoy:
   accentcity: "Le Charnoy"
 le chateau-neuf: 
   city: "le chateau-neuf"
-  accentcity: "Le Ch\xC3\xA2teau-Neuf"
+  accentcity: "Le Château-Neuf"
 le chat: 
   city: "le chat"
   accentcity: "Le Chat"
@@ -23711,7 +23711,7 @@ lennik:
   accentcity: "Lennik"
 le noir etang: 
   city: "le noir etang"
-  accentcity: "Le Noir \xC3\x89tang"
+  accentcity: "Le Noir Étang"
 lens: 
   city: "lens"
   accentcity: "Lens"
@@ -23756,7 +23756,7 @@ le passe-tout-outre:
   accentcity: "Le Passe-Tout-Outre"
 le paturage: 
   city: "le paturage"
-  accentcity: "Le P\xC3\xA2turage"
+  accentcity: "Le Pâturage"
 lepelem: 
   city: "lepelem"
   accentcity: "Lepelem"
@@ -23882,7 +23882,7 @@ le rocheux:
   accentcity: "Le Rocheux"
 le rode: 
   city: "le rode"
-  accentcity: "Le R\xC3\xB4de"
+  accentcity: "Le Rôde"
 le rond tienne: 
   city: "le rond tienne"
   accentcity: "Le Rond Tienne"
@@ -24077,7 +24077,7 @@ les cinq cents bonniers:
   accentcity: "Les Cinq Cents Bonniers"
 les cinq etoiles: 
   city: "les cinq etoiles"
-  accentcity: "Les Cinq \xC3\x89toiles"
+  accentcity: "Les Cinq Étoiles"
 les cinq rocs: 
   city: "les cinq rocs"
   accentcity: "Les Cinq Rocs"
@@ -24173,22 +24173,22 @@ les enclaves:
   accentcity: "Les Enclaves"
 les epioux: 
   city: "les epioux"
-  accentcity: "Les \xC3\x89pioux"
+  accentcity: "Les Épioux"
 les espeches: 
   city: "les espeches"
   accentcity: "Les Espèches"
 les etangs de saint-roch: 
   city: "les etangs de saint-roch"
-  accentcity: "Les \xC3\x89tangs de Saint-Roch"
+  accentcity: "Les Étangs de Saint-Roch"
 les etats: 
   city: "les etats"
-  accentcity: "Les \xC3\x89tats"
+  accentcity: "Les États"
 les etmonts: 
   city: "les etmonts"
   accentcity: "Les Etmonts"
 les etoiles: 
   city: "les etoiles"
-  accentcity: "Les \xC3\x89toiles"
+  accentcity: "Les Étoiles"
 les fanges du coq: 
   city: "les fanges du coq"
   accentcity: "Les Fanges du Coq"
@@ -25796,7 +25796,7 @@ luttel meuwen:
   accentcity: "Luttel Meuwen"
 luttich: 
   city: "luttich"
-  accentcity: "L\xC3\xBCttich"
+  accentcity: "Lüttich"
 luttre: 
   city: "luttre"
   accentcity: "Luttre"
@@ -26255,7 +26255,7 @@ mande sainte-marie:
   accentcity: "Mande Sainte-Marie"
 mande saint-etienne: 
   city: "mande saint-etienne"
-  accentcity: "Mande Saint-\xC3\x89tienne"
+  accentcity: "Mande Saint-Étienne"
 manegem: 
   city: "manegem"
   accentcity: "Manegem"
@@ -26366,10 +26366,10 @@ marche-les-dames:
   accentcity: "Marche-les-Dames"
 marche-lez ecaussines: 
   city: "marche-lez ecaussines"
-  accentcity: "Marche-lez \xC3\x89caussines"
+  accentcity: "Marche-lez Écaussines"
 marche-lez-ecaussinnes: 
   city: "marche-lez-ecaussinnes"
-  accentcity: "Marche-lez-\xC3\x89caussinnes"
+  accentcity: "Marche-lez-Écaussinnes"
 marchelle: 
   city: "marchelle"
   accentcity: "Marchelle"
@@ -27263,7 +27263,7 @@ merbeek:
   accentcity: "Merbeek"
 merbes-le-chateau: 
   city: "merbes-le-chateau"
-  accentcity: "Merbes-le-Ch\xC3\xA2teau"
+  accentcity: "Merbes-le-Château"
 merbes-sainte-marie: 
   city: "merbes-sainte-marie"
   accentcity: "Merbes-Sainte-Marie"
@@ -27371,7 +27371,7 @@ meslin-leveque:
   accentcity: "Meslin-l'Eveque"
 mesnil-eglise: 
   city: "mesnil-eglise"
-  accentcity: "Mesnil-\xC3\x89glise"
+  accentcity: "Mesnil-Église"
 mesnil: 
   city: "mesnil"
   accentcity: "Mesnil"
@@ -28097,7 +28097,7 @@ mondekenstraat:
   accentcity: "Mondekenstraat"
 mon etable: 
   city: "mon etable"
-  accentcity: "Mon \xC3\x89table"
+  accentcity: "Mon Étable"
 mon-garni: 
   city: "mon-garni"
   accentcity: "Mon-Garni"
@@ -28187,7 +28187,7 @@ montenau:
   accentcity: "Montenau"
 mont eribus: 
   city: "mont eribus"
-  accentcity: "Mont \xC3\x89ribus"
+  accentcity: "Mont Éribus"
 monte-rigi: 
   city: "monte-rigi"
   accentcity: "Monte-Rigi"
@@ -28766,7 +28766,7 @@ murrange:
   accentcity: "Murrange"
 murringen: 
   city: "murringen"
-  accentcity: "M\xC3\xBCrringen"
+  accentcity: "Mürringen"
 musenhoek: 
   city: "musenhoek"
   accentcity: "Musenhoek"
@@ -28811,10 +28811,10 @@ mutsaard:
   accentcity: "Mutsaard"
 mutshagen: 
   city: "mutshagen"
-  accentcity: "M\xC3\xBCtshagen"
+  accentcity: "Mütshagen"
 mutzhagen: 
   city: "mutzhagen"
-  accentcity: "M\xC3\xBCtzhagen"
+  accentcity: "Mützhagen"
 muylem: 
   city: "muylem"
   accentcity: "Muylem"
@@ -29333,7 +29333,7 @@ nettinne:
   accentcity: "Nettinne"
 neubruck: 
   city: "neubruck"
-  accentcity: "Neubr\xC3\xBCck"
+  accentcity: "Neubrück"
 neucoye: 
   city: "neucoye"
   accentcity: "Neucoyé"
@@ -29345,7 +29345,7 @@ neudorf:
   accentcity: "Neudorf"
 neufchateau: 
   city: "neufchateau"
-  accentcity: "Neufch\xC3\xA2teau"
+  accentcity: "Neufchâteau"
 neufmaison: 
   city: "neufmaison"
   accentcity: "Neufmaison"
@@ -29396,7 +29396,7 @@ neuve cour:
   accentcity: "Neuve Cour"
 neuve-eglise: 
   city: "neuve-eglise"
-  accentcity: "Neuve-\xC3\x89glise"
+  accentcity: "Neuve-Église"
 neuve haie: 
   city: "neuve haie"
   accentcity: "Neuve Haie"
@@ -29981,10 +29981,10 @@ obelisque:
   accentcity: "Obélisque"
 oben steine bruck: 
   city: "oben steine bruck"
-  accentcity: "Oben Steine Br\xC3\xBCck"
+  accentcity: "Oben Steine Brück"
 obent steine bruck: 
   city: "obent steine bruck"
-  accentcity: "Obent Steine Br\xC3\xBCck"
+  accentcity: "Obent Steine Brück"
 ober-emmels: 
   city: "ober-emmels"
   accentcity: "Ober-Emmels"
@@ -31556,10 +31556,10 @@ pattoterij:
   accentcity: "Pattoterij"
 paturage: 
   city: "paturage"
-  accentcity: "P\xC3\xA2turage"
+  accentcity: "Pâturage"
 paturages: 
   city: "paturages"
-  accentcity: "P\xC3\xA2turages"
+  accentcity: "Pâturages"
 paudure: 
   city: "paudure"
   accentcity: "Paudure"
@@ -31898,7 +31898,7 @@ petite de menin:
   accentcity: "Petite de Menin"
 petite eneille: 
   city: "petite eneille"
-  accentcity: "Petite \xC3\x89neille"
+  accentcity: "Petite Éneille"
 petite espinette: 
   city: "petite espinette"
   accentcity: "Petite Espinette"
@@ -32747,7 +32747,7 @@ pondire:
   accentcity: "Pondire"
 pondrome: 
   city: "pondrome"
-  accentcity: "Pondr\xC3\xB4me"
+  accentcity: "Pondrôme"
 ponfort: 
   city: "ponfort"
   accentcity: "Ponfort"
@@ -33314,7 +33314,7 @@ putting:
   accentcity: "Putting"
 putzhag: 
   city: "putzhag"
-  accentcity: "P\xC3\xBCtzhag"
+  accentcity: "Pützhag"
 puursheide: 
   city: "puursheide"
   accentcity: "Puursheide"
@@ -34325,7 +34325,7 @@ rhode-saint-pierre:
   accentcity: "Rhode-Saint-Pierre"
 rhone: 
   city: "rhone"
-  accentcity: "Rh\xC3\xB4ne"
+  accentcity: "Rhône"
 rho: 
   city: "rho"
   accentcity: "Rho"
@@ -34874,7 +34874,7 @@ role:
   accentcity: "Rolé"
 roli buchi: 
   city: "roli buchi"
-  accentcity: "R\xC3\xB4li Buchi"
+  accentcity: "Rôli Buchi"
 rolibuchy: 
   city: "rolibuchy"
   accentcity: "Rolibuchy"
@@ -35195,7 +35195,7 @@ roselies:
   accentcity: "Roselies"
 rosenhugel: 
   city: "rosenhugel"
-  accentcity: "Rosenh\xC3\xBCgel"
+  accentcity: "Rosenhügel"
 rosieres: 
   city: "rosieres"
   accentcity: "Rosières"
@@ -35366,7 +35366,7 @@ rourivet:
   accentcity: "Rourivet"
 rousbrugge-haringhe: 
   city: "rousbrugge-haringhe"
-  accentcity: "Rousbr\xC3\xBCgge-Haringhe"
+  accentcity: "Rousbrügge-Haringhe"
 rouscheweide: 
   city: "rouscheweide"
   accentcity: "Rouscheweide"
@@ -35849,7 +35849,7 @@ sainte-jean-geest:
   accentcity: "Sainte-Jean-Geest"
 saint-eloi: 
   city: "saint-eloi"
-  accentcity: "Saint-\xC3\x89loi"
+  accentcity: "Saint-Éloi"
 sainte-marguerite: 
   city: "sainte-marguerite"
   accentcity: "Sainte-Marguerite"
@@ -36131,7 +36131,7 @@ salles:
   accentcity: "Salles"
 salmchateau: 
   city: "salmchateau"
-  accentcity: "Salmch\xC3\xA2teau"
+  accentcity: "Salmchâteau"
 salte: 
   city: "salte"
   accentcity: "Salte"
@@ -36509,7 +36509,7 @@ schalieplein:
   accentcity: "Schaliëplein"
 schalkenfurth: 
   city: "schalkenfurth"
-  accentcity: "Schalkenf\xC3\xBCrth"
+  accentcity: "Schalkenfürth"
 schalkhoven: 
   city: "schalkhoven"
   accentcity: "Schalkhoven"
@@ -37217,7 +37217,7 @@ sept:
   accentcity: "Sept"
 seraing-le-chateau: 
   city: "seraing-le-chateau"
-  accentcity: "Seraing-le-Ch\xC3\xA2teau"
+  accentcity: "Seraing-le-Château"
 seraing: 
   city: "seraing"
   accentcity: "Seraing"
@@ -38918,7 +38918,7 @@ steinbach:
   accentcity: "Steinbach"
 steinebruck: 
   city: "steinebruck"
-  accentcity: "Steinebr\xC3\xBCck"
+  accentcity: "Steinebrück"
 steine bruck: 
   city: "steine bruck"
   accentcity: "Steine Bruck"
@@ -40313,7 +40313,7 @@ thy-le-bauduin:
   accentcity: "Thy-le-Bauduin"
 thy-le-chateau: 
   city: "thy-le-chateau"
-  accentcity: "Thy-le-Ch\xC3\xA2teau"
+  accentcity: "Thy-le-Château"
 thyle: 
   city: "thyle"
   accentcity: "Thyle"
@@ -41885,7 +41885,7 @@ viedyk:
   accentcity: "Viedyk"
 vieille eglise: 
   city: "vieille eglise"
-  accentcity: "Vieille \xC3\x89glise"
+  accentcity: "Vieille Église"
 vieille maison: 
   city: "vieille maison"
   accentcity: "Vieille Maison"
@@ -42152,7 +42152,7 @@ villers-aux-tours:
   accentcity: "Villers-aux-Tours"
 villers-deux-eglises: 
   city: "villers-deux-eglises"
-  accentcity: "Villers-Deux-\xC3\x89glises"
+  accentcity: "Villers-Deux-Églises"
 villers-devant-orval: 
   city: "villers-devant-orval"
   accentcity: "Villers-devant-Orval"
@@ -42401,7 +42401,7 @@ vive-saint-bavon:
   accentcity: "Vive-Saint-Bavon"
 vive-saint-eloi: 
   city: "vive-saint-eloi"
-  accentcity: "Vive-Saint-\xC3\x89loi"
+  accentcity: "Vive-Saint-Éloi"
 vivier coulon: 
   city: "vivier coulon"
   accentcity: "Vivier Coulon"
@@ -43529,7 +43529,7 @@ warneton:
   accentcity: "Warneton"
 waroneu: 
   city: "waroneu"
-  accentcity: "War\xC3\xB4neu"
+  accentcity: "Warôneu"
 waronneux inferieur: 
   city: "waronneux inferieur"
   accentcity: "Waronneux Inférieur"
@@ -43865,13 +43865,13 @@ weismes:
   accentcity: "Weismes"
 weissenbruch: 
   city: "weissenbruch"
-  accentcity: "Weissenbr\xC3\xBCch"
+  accentcity: "Weissenbrüch"
 weissenbrucke: 
   city: "weissenbrucke"
-  accentcity: "Weissenbr\xC3\xBCcke"
+  accentcity: "Weissenbrücke"
 weissenbruck: 
   city: "weissenbruck"
-  accentcity: "Weissenbr\xC3\xBCck"
+  accentcity: "Weissenbrück"
 weisten: 
   city: "weisten"
   accentcity: "Weisten"
@@ -44555,7 +44555,7 @@ winkel-sainte-croix:
   accentcity: "Winkel-Sainte-Croix"
 winkel-saint-eloi: 
   city: "winkel-saint-eloi"
-  accentcity: "Winkel-Saint-\xC3\x89loi"
+  accentcity: "Winkel-Saint-Éloi"
 winkel: 
   city: "winkel"
   accentcity: "Winkel"

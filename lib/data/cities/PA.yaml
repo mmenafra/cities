@@ -59,7 +59,7 @@ adentro lajas:
   accentcity: "Adentro Lajas"
 africa: 
   city: "africa"
-  accentcity: "\xC3\x81frica"
+  accentcity: "África"
 agua azules: 
   city: "agua azules"
   accentcity: "Agua Azules"
@@ -263,7 +263,7 @@ alto de gariche:
   accentcity: "Alto de Gariché"
 alto de guera: 
   city: "alto de guera"
-  accentcity: "Alto de G\xC3\xBCera"
+  accentcity: "Alto de Güera"
 alto de jacu: 
   city: "alto de jacu"
   accentcity: "Alto de Jacú"
@@ -548,7 +548,7 @@ altos de espave:
   accentcity: "Altos de Espavé"
 altos de guera: 
   city: "altos de guera"
-  accentcity: "Altos de G\xC3\xBCera"
+  accentcity: "Altos de Güera"
 altos de san francisco: 
   city: "altos de san francisco"
   accentcity: "Altos de San Francisco"
@@ -584,7 +584,7 @@ angulito:
   accentcity: "Angulito"
 angulo: 
   city: "angulo"
-  accentcity: "\xC3\x81ngulo"
+  accentcity: "Ángulo"
 anonal: 
   city: "anonal"
   accentcity: "Anonal"
@@ -851,7 +851,7 @@ bajo de geronimo:
   accentcity: "Bajo de Geronimo"
 bajo de guera: 
   city: "bajo de guera"
-  accentcity: "Bajo de G\xC3\xBCera"
+  accentcity: "Bajo de Güera"
 bajo de jeronimo: 
   city: "bajo de jeronimo"
   accentcity: "Bajo de Jerónimo"
@@ -974,7 +974,7 @@ bajo quiel:
   accentcity: "Bajo Quiel"
 bajos de guera: 
   city: "bajos de guera"
-  accentcity: "Bajos de G\xC3\xBCera"
+  accentcity: "Bajos de Güera"
 bajos de iglesia: 
   city: "bajos de iglesia"
   accentcity: "Bajos de Iglesia"
@@ -2228,7 +2228,7 @@ canajagua:
   accentcity: "Canajagua"
 canajaguito: 
   city: "canajaguito"
-  accentcity: "Canajag\xC3\xBCito"
+  accentcity: "Canajagüito"
 canas blancas: 
   city: "canas blancas"
   accentcity: "Cañas Blancas"
@@ -2942,7 +2942,7 @@ cerro papayo:
   accentcity: "Cerro Papayo"
 cerro paraguito: 
   city: "cerro paraguito"
-  accentcity: "Cerro Parag\xC3\xBCito"
+  accentcity: "Cerro Paragüito"
 cerro pelado: 
   city: "cerro pelado"
   accentcity: "Cerro Pelado"
@@ -3431,7 +3431,7 @@ cirbulaco:
   accentcity: "Cirbulaco"
 cirguelera: 
   city: "cirguelera"
-  accentcity: "Cirg\xC3\xBCelera"
+  accentcity: "Cirgüelera"
 ciriaca: 
   city: "ciriaca"
   accentcity: "Ciriaca"
@@ -4118,7 +4118,7 @@ el aguacate numero uno:
   accentcity: "El Aguacate Número Uno"
 el aguila: 
   city: "el aguila"
-  accentcity: "El \xC3\x81guila"
+  accentcity: "El Águila"
 el ahogado: 
   city: "el ahogado"
   accentcity: "El Ahogado"
@@ -4187,7 +4187,7 @@ el arado:
   accentcity: "El Arado"
 el arbol: 
   city: "el arbol"
-  accentcity: "El \xC3\x81rbol"
+  accentcity: "El Árbol"
 el arenal: 
   city: "el arenal"
   accentcity: "El Arenal"
@@ -4229,7 +4229,7 @@ el bajo de escarrea:
   accentcity: "El Bajo de Escárrea"
 el bajo de guera: 
   city: "el bajo de guera"
-  accentcity: "El Bajo de G\xC3\xBCera"
+  accentcity: "El Bajo de Güera"
 el bajo de la laguna: 
   city: "el bajo de la laguna"
   accentcity: "El Bajo de La Laguna"
@@ -4400,7 +4400,7 @@ el buho:
   accentcity: "El Buho"
 el bujo: 
   city: "el bujo"
-  accentcity: "\xC3\x89l Bujo"
+  accentcity: "Él Bujo"
 el burro: 
   city: "el burro"
   accentcity: "El Burro"
@@ -5147,7 +5147,7 @@ el jague:
   accentcity: "El Jague"
 el jaguito: 
   city: "el jaguito"
-  accentcity: "El Jag\xC3\xBCito"
+  accentcity: "El Jagüito"
 el jasmin: 
   city: "el jasmin"
   accentcity: "El Jasmín"
@@ -5399,7 +5399,7 @@ el negrito:
   accentcity: "El Negrito"
 el niguito: 
   city: "el niguito"
-  accentcity: "El Nig\xC3\xBCito"
+  accentcity: "El Nigüito"
 el nisperal: 
   city: "el nisperal"
   accentcity: "El Nisperal"
@@ -6077,7 +6077,7 @@ entradero de anguld:
   accentcity: "Entradero de Anguld"
 entradero de angulo: 
   city: "entradero de angulo"
-  accentcity: "Entradero de \xC3\x81ngulo"
+  accentcity: "Entradero de Ángulo"
 entradero de menchaca: 
   city: "entradero de menchaca"
   accentcity: "Entradero de Menchaca"
@@ -6866,16 +6866,16 @@ guayra:
   accentcity: "Guayra"
 guera: 
   city: "guera"
-  accentcity: "G\xC3\xBCera"
+  accentcity: "Güera"
 guerita arriba: 
   city: "guerita arriba"
-  accentcity: "G\xC3\xBCerita Arriba"
+  accentcity: "Güerita Arriba"
 guerita del platanal: 
   city: "guerita del platanal"
-  accentcity: "G\xC3\xBCerita del Platanal"
+  accentcity: "Güerita del Platanal"
 guerita: 
   city: "guerita"
-  accentcity: "G\xC3\xBCerita"
+  accentcity: "Güerita"
 guevara: 
   city: "guevara"
   accentcity: "Guevara"
@@ -7043,7 +7043,7 @@ hondo del naranjo:
   accentcity: "Hondo del Naranjo"
 hondo del niguito: 
   city: "hondo del niguito"
-  accentcity: "Hondo del Nig\xC3\xBCito"
+  accentcity: "Hondo del Nigüito"
 hondura: 
   city: "hondura"
   accentcity: "Hondura"
@@ -8954,13 +8954,13 @@ la samba:
   accentcity: "La Samba"
 las animas de boro: 
   city: "las animas de boro"
-  accentcity: "Las \xC3\x81nimas de Boró"
+  accentcity: "Las Ánimas de Boró"
 las animas del boro: 
   city: "las animas del boro"
   accentcity: "Las Animas del Boró"
 las animas: 
   city: "las animas"
-  accentcity: "Las \xC3\x81nimas"
+  accentcity: "Las Ánimas"
 la sapotoza: 
   city: "la sapotoza"
   accentcity: "La Sapotoza"
@@ -9653,7 +9653,7 @@ la union:
   accentcity: "La Unión"
 la ursula: 
   city: "la ursula"
-  accentcity: "La \xC3\x9Arsula"
+  accentcity: "La Úrsula"
 la uva: 
   city: "la uva"
   accentcity: "La Uva"
@@ -10292,7 +10292,7 @@ los angalles:
   accentcity: "Los Angalles"
 los angeles: 
   city: "los angeles"
-  accentcity: "Los \xC3\x81ngeles"
+  accentcity: "Los Ángeles"
 los arenales: 
   city: "los arenales"
   accentcity: "Los Arenales"
@@ -10670,7 +10670,7 @@ los guayabos:
   accentcity: "Los Guayabos"
 los guichiches: 
   city: "los guichiches"
-  accentcity: "Los G\xC3\xBCichiches"
+  accentcity: "Los Güichiches"
 los gusanos: 
   city: "los gusanos"
   accentcity: "Los Gusanos"
@@ -10934,7 +10934,7 @@ los olivos:
   accentcity: "Los Olivos"
 los organos: 
   city: "los organos"
-  accentcity: "Los \xC3\x93rganos"
+  accentcity: "Los Órganos"
 los ortigales: 
   city: "los ortigales"
   accentcity: "Los Ortigales"
@@ -13937,7 +13937,7 @@ quebrada de agua:
   accentcity: "Quebrada de Agua"
 quebrada de angulo: 
   city: "quebrada de angulo"
-  accentcity: "Quebrada de \xC3\x81ngulo"
+  accentcity: "Quebrada de Ángulo"
 quebrada de camilo: 
   city: "quebrada de camilo"
   accentcity: "Quebrada de Camilo"
@@ -14909,7 +14909,7 @@ sabaneta arriba:
   accentcity: "Sabaneta Arriba"
 sabaneta de angulo: 
   city: "sabaneta de angulo"
-  accentcity: "Sabaneta de \xC3\x81ngulo"
+  accentcity: "Sabaneta de Ángulo"
 sabaneta del alto de la montana: 
   city: "sabaneta del alto de la montana"
   accentcity: "Sabaneta del Alto de la Montaña"

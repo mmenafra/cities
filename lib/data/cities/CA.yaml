@@ -20,7 +20,7 @@ aberdeen:
   accentcity: "Aberdeen"
 abord a plouffe: 
   city: "abord a plouffe"
-  accentcity: "Abord \xC3\xA2 Plouffe"
+  accentcity: "Abord â Plouffe"
 abrahams cove: 
   city: "abrahams cove"
   accentcity: "Abrahams Cove"
@@ -2480,13 +2480,13 @@ chateau-deau:
   accentcity: "Chateau-d'Eau"
 chateauguay-centre: 
   city: "chateauguay-centre"
-  accentcity: "Ch\xC3\xA2teauguay-Centre"
+  accentcity: "Châteauguay-Centre"
 chateauguay: 
   city: "chateauguay"
-  accentcity: "Ch\xC3\xA2teauguay"
+  accentcity: "Châteauguay"
 chateauguay heights: 
   city: "chateauguay heights"
-  accentcity: "Ch\xC3\xA2teauguay Heights"
+  accentcity: "Châteauguay Heights"
 chateau richer: 
   city: "chateau richer"
   accentcity: "Chateau Richer"
@@ -3047,16 +3047,16 @@ coteau station:
   accentcity: "Coteau Station"
 cote: 
   city: "cote"
-  accentcity: "C\xC3\xB4te"
+  accentcity: "Côte"
 cote-sainte-catherine: 
   city: "cote-sainte-catherine"
-  accentcity: "C\xC3\xB4te-Sainte-Catherine"
+  accentcity: "Côte-Sainte-Catherine"
 cote-saint-luc: 
   city: "cote-saint-luc"
-  accentcity: "C\xC3\xB4te-Saint-Luc"
+  accentcity: "Côte-Saint-Luc"
 cote saint michel: 
   city: "cote saint michel"
-  accentcity: "C\xC3\xB4te Saint Michel"
+  accentcity: "Côte Saint Michel"
 cottam: 
   city: "cottam"
   accentcity: "Cottam"
@@ -4256,7 +4256,7 @@ estuary:
   accentcity: "Estuary"
 etang-du-nord: 
   city: "etang-du-nord"
-  accentcity: "\xC3\x89tang-du-Nord"
+  accentcity: "Étang-du-Nord"
 ethelbert: 
   city: "ethelbert"
   accentcity: "Ethelbert"
@@ -7637,7 +7637,7 @@ lery:
   accentcity: "Léry"
 les ecureuils: 
   city: "les ecureuils"
-  accentcity: "Les \xC3\x89cureuils"
+  accentcity: "Les Écureuils"
 les escoumains: 
   city: "les escoumains"
   accentcity: "Les Escoumains"
@@ -11822,7 +11822,7 @@ riviere-matane:
   accentcity: "Rivière-Matane"
 riviere-pentecote: 
   city: "riviere-pentecote"
-  accentcity: "Rivière-Pentec\xC3\xB4te"
+  accentcity: "Rivière-Pentecôte"
 riviere-pigou: 
   city: "riviere-pigou"
   accentcity: "Rivière-Pigou"
@@ -12290,7 +12290,7 @@ saint-coeur-de-marie:
   accentcity: "Saint-Coeur-de-Marie"
 saint come: 
   city: "saint come"
-  accentcity: "Saint C\xC3\xB4me"
+  accentcity: "Saint Côme"
 saint-cyrille: 
   city: "saint-cyrille"
   accentcity: "Saint-Cyrille"
@@ -12404,10 +12404,10 @@ sainte-dorothee:
   accentcity: "Sainte-Dorothée"
 saint-edouard-de-fabre: 
   city: "saint-edouard-de-fabre"
-  accentcity: "Saint-\xC3\x89douard-de-Fabre"
+  accentcity: "Saint-Édouard-de-Fabre"
 saint edouard: 
   city: "saint edouard"
-  accentcity: "Saint \xC3\x89douard"
+  accentcity: "Saint Édouard"
 sainte-emelie-de-lenergie: 
   city: "sainte-emelie-de-l'energie"
   accentcity: "Sainte-Emelie-de-l'Energie"
@@ -12467,7 +12467,7 @@ saint-elie-dorford:
   accentcity: "Saint-Elie-d'Orford"
 saint-eloi: 
   city: "saint-eloi"
-  accentcity: "Saint-\xC3\x89loi"
+  accentcity: "Saint-Éloi"
 sainte-lucie-de-doncaster: 
   city: "sainte-lucie-de-doncaster"
   accentcity: "Sainte-Lucie-de-Doncaster"
@@ -12521,7 +12521,7 @@ sainte-therese:
   accentcity: "Sainte-Thérèse"
 saint-etienne: 
   city: "saint-etienne"
-  accentcity: "Saint-\xC3\x89tienne"
+  accentcity: "Saint-Étienne"
 saint-eusebe: 
   city: "saint-eusebe"
   accentcity: "Saint-Eusèbe"
@@ -12707,7 +12707,7 @@ saint-jean-baptiste:
   accentcity: "Saint-Jean-Baptiste"
 saint-jean-de-boischatel: 
   city: "saint-jean-de-boischatel"
-  accentcity: "Saint-Jean-de-Boisch\xC3\xA2tel"
+  accentcity: "Saint-Jean-de-Boischâtel"
 saint jean de cherbourg: 
   city: "saint jean de cherbourg"
   accentcity: "Saint Jean de Cherbourg"
@@ -12731,7 +12731,7 @@ saint jean:
   accentcity: "Saint Jean"
 saint-jerome: 
   city: "saint-jerome"
-  accentcity: "Saint-Jér\xC3\xB4me"
+  accentcity: "Saint-Jérôme"
 saint-joachim-de-montmorency: 
   city: "saint-joachim-de-montmorency"
   accentcity: "Saint-Joachim-de-Montmorency"
@@ -12920,7 +12920,7 @@ saint-ours:
   accentcity: "Saint-Ours"
 saint-pacome: 
   city: "saint-pacome"
-  accentcity: "Saint-Pac\xC3\xB4me"
+  accentcity: "Saint-Pacôme"
 saint-pamphile: 
   city: "saint-pamphile"
   accentcity: "Saint-Pamphile"

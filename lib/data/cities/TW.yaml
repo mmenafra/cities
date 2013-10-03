@@ -5,19 +5,19 @@ achiencheng:
   accentcity: "Achiencheng"
 achuan: 
   city: "achuan"
-  accentcity: "Ach\xC3\xBCan"
+  accentcity: "Achüan"
 achuankeng (1): 
   city: "achuankeng (1)"
-  accentcity: "Ach\xC3\xBCankeng (1)"
+  accentcity: "Achüankeng (1)"
 achuankeng (2): 
   city: "achuankeng (2)"
-  accentcity: "Ach\xC3\xBCankeng (2)"
+  accentcity: "Achüankeng (2)"
 achuankeng: 
   city: "achuankeng"
-  accentcity: "Ach\xC3\xBCankeng"
+  accentcity: "Achüankeng"
 achuantsun: 
   city: "achuantsun"
-  accentcity: "Ach\xC3\xBCantsun"
+  accentcity: "Achüantsun"
 afachuang: 
   city: "afachuang"
   accentcity: "Afachuang"
@@ -32,7 +32,7 @@ ahouliao:
   accentcity: "Ahouliao"
 ahsiehmeihsu: 
   city: "ahsiehmeihsu"
-  accentcity: "Ahsiehmeihs\xC3\xBC"
+  accentcity: "Ahsiehmeihsü"
 ai: 
   city: "ai"
   accentcity: "Ai"
@@ -416,7 +416,7 @@ aoti:
   accentcity: "Aoti"
 apachuan: 
   city: "apachuan"
-  accentcity: "Apach\xC3\xBCan"
+  accentcity: "Apachüan"
 asangkeng: 
   city: "asangkeng"
   accentcity: "ASangkeng"
@@ -440,7 +440,7 @@ awutsun:
   accentcity: "Awutsun"
 ayehmeihsu: 
   city: "ayehmeihsu"
-  accentcity: "Ayehmeihs\xC3\xBC"
+  accentcity: "Ayehmeihsü"
 chacha: 
   city: "chacha"
   accentcity: "Chacha"
@@ -452,7 +452,7 @@ chaichengli:
   accentcity: "Chaichengli"
 chaichiaohsu: 
   city: "chaichiaohsu"
-  accentcity: "Chaichiaohs\xC3\xBC"
+  accentcity: "Chaichiaohsü"
 chaichiaokeng: 
   city: "chaichiaokeng"
   accentcity: "Chaichiaokeng"
@@ -464,7 +464,7 @@ chaichiaotou:
   accentcity: "Chaichiaotou"
 chaichiaoyu: 
   city: "chaichiaoyu"
-  accentcity: "Chaichiaoy\xC3\xBC"
+  accentcity: "Chaichiaoyü"
 chaikang: 
   city: "chaikang"
   accentcity: "Chaikang"
@@ -851,16 +851,16 @@ changyatsun:
   accentcity: "Changyatsun"
 changyuan: 
   city: "changyuan"
-  accentcity: "Changy\xC3\xBCan"
+  accentcity: "Changyüan"
 changyuantsun: 
   city: "changyuantsun"
-  accentcity: "Changy\xC3\xBCantsun"
+  accentcity: "Changyüantsun"
 changyu: 
   city: "changyu"
-  accentcity: "Changy\xC3\xBC"
+  accentcity: "Changyü"
 changyuli: 
   city: "changyuli"
-  accentcity: "Changy\xC3\xBCli"
+  accentcity: "Changyüli"
 chanliao: 
   city: "chanliao"
   accentcity: "Chanliao"
@@ -875,7 +875,7 @@ chantsotzu:
   accentcity: "Chantsotzu"
 chantsoyuan: 
   city: "chantsoyuan"
-  accentcity: "Chantsoy\xC3\xBCan"
+  accentcity: "Chantsoyüan"
 chaoan: 
   city: "chaoan"
   accentcity: "Chaoan"
@@ -983,7 +983,7 @@ chaoyin:
   accentcity: "Chaoyin"
 chaoyuanssu: 
   city: "chaoyuanssu"
-  accentcity: "Chaoy\xC3\xBCanssu"
+  accentcity: "Chaoyüanssu"
 chashan: 
   city: "chashan"
   accentcity: "Chashan"
@@ -992,7 +992,7 @@ chatso:
   accentcity: "Chatso"
 chayuanping: 
   city: "chayuanping"
-  accentcity: "Chay\xC3\xBCanping"
+  accentcity: "Chayüanping"
 chcha: 
   city: "chcha"
   accentcity: "Chcha"
@@ -1382,7 +1382,7 @@ chiafanli:
   accentcity: "Chiafanli"
 chiafeiyuan: 
   city: "chiafeiyuan"
-  accentcity: "Chiafeiy\xC3\xBCan"
+  accentcity: "Chiafeiyüan"
 chiafengli: 
   city: "chiafengli"
   accentcity: "Chiafengli"
@@ -1607,7 +1607,7 @@ chialutang:
   accentcity: "Chialutang"
 chialutsun: 
   city: "chialutsun"
-  accentcity: "Chial\xC3\xBCtsun"
+  accentcity: "Chialütsun"
 chiamin: 
   city: "chiamin"
   accentcity: "Chiamin"
@@ -1691,25 +1691,25 @@ chiangchientzu:
   accentcity: "Chiangchientzu"
 chiangchunao: 
   city: "chiangchunao"
-  accentcity: "Chiangch\xC3\xBCnao"
+  accentcity: "Chiangchünao"
 chiangchunaoshe: 
   city: "chiangchunaoshe"
   accentcity: "Chiangchunaoshe"
 chiangchunaotsun: 
   city: "chiangchunaotsun"
-  accentcity: "Chiangch\xC3\xBCnaotsun"
+  accentcity: "Chiangchünaotsun"
 chiangchun: 
   city: "chiangchun"
-  accentcity: "Chiangch\xC3\xBCn"
+  accentcity: "Chiangchün"
 chiangchunli: 
   city: "chiangchunli"
-  accentcity: "Chiangch\xC3\xBCnli"
+  accentcity: "Chiangchünli"
 chiangchunlun: 
   city: "chiangchunlun"
-  accentcity: "Chiangch\xC3\xBCnlun"
+  accentcity: "Chiangchünlun"
 chiangchunyen: 
   city: "chiangchunyen"
-  accentcity: "Chiangch\xC3\xBCnyen"
+  accentcity: "Chiangchünyen"
 chiangfu: 
   city: "chiangfu"
   accentcity: "Chiangfu"
@@ -1784,7 +1784,7 @@ chianglingli:
   accentcity: "Chianglingli"
 chiangmayuan: 
   city: "chiangmayuan"
-  accentcity: "Chiangmay\xC3\xBCan"
+  accentcity: "Chiangmayüan"
 chiangmei: 
   city: "chiangmei"
   accentcity: "Chiangmei"
@@ -1892,7 +1892,7 @@ chiangtzuwei:
   accentcity: "Chiangtzuwei"
 chiangtzuyuan: 
   city: "chiangtzuyuan"
-  accentcity: "Chiangtzuy\xC3\xBCan"
+  accentcity: "Chiangtzuyüan"
 chiangwei: 
   city: "chiangwei"
   accentcity: "Chiangwei"
@@ -1910,10 +1910,10 @@ chiangweitsun:
   accentcity: "Chiangweitsun"
 chiangyuan: 
   city: "chiangyuan"
-  accentcity: "Chiangy\xC3\xBCan"
+  accentcity: "Chiangyüan"
 chiangyuantsun: 
   city: "chiangyuantsun"
-  accentcity: "Chiangy\xC3\xBCantsun"
+  accentcity: "Chiangyüantsun"
 chiantsun: 
   city: "chiantsun"
   accentcity: "Chiantsun"
@@ -2183,7 +2183,7 @@ chiayintsun:
   accentcity: "Chiayintsun"
 chiayulanshe: 
   city: "chiayulanshe"
-  accentcity: "Chiay\xC3\xBClanshe"
+  accentcity: "Chiayülanshe"
 chichang: 
   city: "chichang"
   accentcity: "Chichang"
@@ -2363,7 +2363,7 @@ chiehweilun:
   accentcity: "Chiehweilun"
 chiehyukeng: 
   city: "chiehyukeng"
-  accentcity: "Chiehy\xC3\xBCkeng"
+  accentcity: "Chiehyükeng"
 chiekuei: 
   city: "chiekuei"
   accentcity: "Chiekuei"
@@ -2687,7 +2687,7 @@ chienyehli:
   accentcity: "Chienyehli"
 chienyuku: 
   city: "chienyuku"
-  accentcity: "Chieny\xC3\xBCku"
+  accentcity: "Chienyüku"
 chifankeng: 
   city: "chifankeng"
   accentcity: "Chifankeng"
@@ -2774,10 +2774,10 @@ chihhsitsun:
   accentcity: "Chihhsitsun"
 chihhsueh: 
   city: "chihhsueh"
-  accentcity: "Chihhs\xC3\xBCeh"
+  accentcity: "Chihhsüeh"
 chihhsuehtsun: 
   city: "chihhsuehtsun"
-  accentcity: "Chihhs\xC3\xBCehtsun"
+  accentcity: "Chihhsüehtsun"
 chihhu: 
   city: "chihhu"
   accentcity: "Chihhu"
@@ -3233,10 +3233,10 @@ chinchinglin:
   accentcity: "Chinchinglin"
 chinchuanyang: 
   city: "chinchuanyang"
-  accentcity: "Chinch\xC3\xBCanyang"
+  accentcity: "Chinchüanyang"
 chinchunyang: 
   city: "chinchunyang"
-  accentcity: "Chinch\xC3\xBCnyang"
+  accentcity: "Chinchünyang"
 chinei: 
   city: "chinei"
   accentcity: "Chinei"
@@ -3299,7 +3299,7 @@ chingchou:
   accentcity: "Chingchou"
 chingchuan: 
   city: "chingchuan"
-  accentcity: "Chingch\xC3\xBCan"
+  accentcity: "Chingchüan"
 chingchulin: 
   city: "chingchulin"
   accentcity: "Chingchulin"
@@ -3344,7 +3344,7 @@ chinghsitsun:
   accentcity: "Chinghsitsun"
 chinghsu: 
   city: "chinghsu"
-  accentcity: "Chinghs\xC3\xBC"
+  accentcity: "Chinghsü"
 chinghua: 
   city: "chinghua"
   accentcity: "Chinghua"
@@ -3506,7 +3506,7 @@ chingtien:
   accentcity: "Chingtien"
 chingtienchuan: 
   city: "chingtienchuan"
-  accentcity: "Chingtiench\xC3\xBCan"
+  accentcity: "Chingtienchüan"
 chingtienkang: 
   city: "chingtienkang"
   accentcity: "Chingtienkang"
@@ -3581,10 +3581,10 @@ chingwei:
   accentcity: "Chingwei"
 chingyuan: 
   city: "chingyuan"
-  accentcity: "Chingy\xC3\xBCan"
+  accentcity: "Chingyüan"
 chingyu: 
   city: "chingyu"
-  accentcity: "Chingy\xC3\xBC"
+  accentcity: "Chingyü"
 chingyung: 
   city: "chingyung"
   accentcity: "ChingYung"
@@ -3785,13 +3785,13 @@ chinyen:
   accentcity: "Chinyen"
 chinyuan: 
   city: "chinyuan"
-  accentcity: "Chiny\xC3\xBCan"
+  accentcity: "Chinyüan"
 chinyuantsun: 
   city: "chinyuantsun"
-  accentcity: "Chiny\xC3\xBCantsun"
+  accentcity: "Chinyüantsun"
 chinyuehtsun: 
   city: "chinyuehtsun"
-  accentcity: "Chiny\xC3\xBCehtsun"
+  accentcity: "Chinyüehtsun"
 chipa: 
   city: "chipa"
   accentcity: "Chipa"
@@ -3965,7 +3965,7 @@ chitzuchiao:
   accentcity: "Chitzuchiao"
 chitzuchiaopuchanyuan: 
   city: "chitzuchiaopuchanyuan"
-  accentcity: "Chitzuchiaopuchany\xC3\xBCan"
+  accentcity: "Chitzuchiaopuchanyüan"
 chitzuchien: 
   city: "chitzuchien"
   accentcity: "Chitzuchien"
@@ -4088,10 +4088,10 @@ chiuchiungping:
   accentcity: "Chiuchiungping"
 chiuchuanchou: 
   city: "chiuchuanchou"
-  accentcity: "Chiuch\xC3\xBCanchou"
+  accentcity: "Chiuchüanchou"
 chiuchuanchoutso: 
   city: "chiuchuanchoutso"
-  accentcity: "Chiuch\xC3\xBCanchoutso"
+  accentcity: "Chiuchüanchoutso"
 chiuchuang: 
   city: "chiuchuang"
   accentcity: "Chiuchuang"
@@ -4103,10 +4103,10 @@ chiuchuangtsun:
   accentcity: "Chiuchuangtsun"
 chiuchu: 
   city: "chiuchu"
-  accentcity: "Chiuch\xC3\xBC"
+  accentcity: "Chiuchü"
 chiuchuli: 
   city: "chiuchuli"
-  accentcity: "Chiuch\xC3\xBCli"
+  accentcity: "Chiuchüli"
 chiuchungchiao: 
   city: "chiuchungchiao"
   accentcity: "Chiuchungchiao"
@@ -4118,13 +4118,13 @@ chiuchunghsi:
   accentcity: "Chiuchunghsi"
 chiuchutang: 
   city: "chiuchutang"
-  accentcity: "Chiuch\xC3\xBCtang"
+  accentcity: "Chiuchütang"
 chiuchutsun: 
   city: "chiuchutsun"
-  accentcity: "Chiuch\xC3\xBCtsun"
+  accentcity: "Chiuchütsun"
 chiuchuyuan: 
   city: "chiuchuyuan"
-  accentcity: "Chiuchuy\xC3\xBCan"
+  accentcity: "Chiuchuyüan"
 chiufangtso: 
   city: "chiufangtso"
   accentcity: "Chiufangtso"
@@ -4196,10 +4196,10 @@ chiuhsiungtsun:
   accentcity: "Chiuhsiungtsun"
 chiuhsueh: 
   city: "chiuhsueh"
-  accentcity: "Chiuhs\xC3\xBCeh"
+  accentcity: "Chiuhsüeh"
 chiuhsutsoliao: 
   city: "chiuhsutsoliao"
-  accentcity: "Chiuhs\xC3\xBCtsoliao"
+  accentcity: "Chiuhsütsoliao"
 chiuhuai: 
   city: "chiuhuai"
   accentcity: "Chiuhuai"
@@ -4316,7 +4316,7 @@ chiumatsun:
   accentcity: "Chiumatsun"
 chiumayuan: 
   city: "chiumayuan"
-  accentcity: "Chiumay\xC3\xBCan"
+  accentcity: "Chiumayüan"
 chiumei: 
   city: "chiumei"
   accentcity: "Chiumei"
@@ -4526,10 +4526,10 @@ chiuyinkeng:
   accentcity: "ChiuYinKêng"
 chiuyuan: 
   city: "chiuyuan"
-  accentcity: "Chiuy\xC3\xBCan"
+  accentcity: "Chiuyüan"
 chiuyutsun: 
   city: "chiuyutsun"
-  accentcity: "Chiuy\xC3\xBCtsun"
+  accentcity: "Chiuyütsun"
 chiwei: 
   city: "chiwei"
   accentcity: "Chiwei"
@@ -4556,7 +4556,7 @@ chiyang:
   accentcity: "Chiyang"
 chiyu: 
   city: "chiyu"
-  accentcity: "Chiy\xC3\xBC"
+  accentcity: "Chiyü"
 chiyulin: 
   city: "chiyulin"
   accentcity: "Chiyulin"
@@ -4682,16 +4682,16 @@ chouyou:
   accentcity: "Chouyou"
 choyun: 
   city: "choyun"
-  accentcity: "Choy\xC3\xBCn"
+  accentcity: "Choyün"
 choyuntso: 
   city: "choyuntso"
-  accentcity: "Choy\xC3\xBCntso"
+  accentcity: "Choyüntso"
 choyuntsun: 
   city: "choyuntsun"
-  accentcity: "Choy\xC3\xBCntsun"
+  accentcity: "Choyüntsun"
 chuananchiao: 
   city: "chuananchiao"
-  accentcity: "Ch\xC3\xBCananchiao"
+  accentcity: "Chüananchiao"
 chuananli: 
   city: "chuananli"
   accentcity: "Chuananli"
@@ -4700,13 +4700,13 @@ chuanchang:
   accentcity: "Chuanchang"
 chuanchien: 
   city: "chuanchien"
-  accentcity: "Ch\xC3\xBCanchien"
+  accentcity: "Chüanchien"
 chuanchientsun: 
   city: "chuanchientsun"
-  accentcity: "Ch\xC3\xBCanchientsun"
+  accentcity: "Chüanchientsun"
 chuanchihchiu: 
   city: "chuanchihchiu"
-  accentcity: "Ch\xC3\xBCanchihchiu"
+  accentcity: "Chüanchihchiu"
 chuanchin: 
   city: "chuanchin"
   accentcity: "Chuanchin"
@@ -4718,19 +4718,19 @@ chuanchingli:
   accentcity: "Chuanchingli"
 chuanchou: 
   city: "chuanchou"
-  accentcity: "Ch\xC3\xBCanchou"
+  accentcity: "Chüanchou"
 chuanchouliao: 
   city: "chuanchouliao"
-  accentcity: "Ch\xC3\xBCanchouliao"
+  accentcity: "Chüanchouliao"
 chuanchoupo: 
   city: "chuanchoupo"
-  accentcity: "Ch\xC3\xBCanchoupo"
+  accentcity: "Chüanchoupo"
 chuanchoutso: 
   city: "chuanchoutso"
-  accentcity: "Ch\xC3\xBCanchoutso"
+  accentcity: "Chüanchoutso"
 chuanchoutsun: 
   city: "chuanchoutsun"
-  accentcity: "Ch\xC3\xBCanchoutsun"
+  accentcity: "Chüanchoutsun"
 chuan: 
   city: "chuan"
   accentcity: "Chuan"
@@ -4835,28 +4835,28 @@ chuanhsin:
   accentcity: "Chuanhsin"
 chuanhsing: 
   city: "chuanhsing"
-  accentcity: "Ch\xC3\xBCanhsing"
+  accentcity: "Chüanhsing"
 chuanhsingtsun: 
   city: "chuanhsingtsun"
-  accentcity: "Ch\xC3\xBCanhsingtsun"
+  accentcity: "Chüanhsingtsun"
 chuankouchien: 
   city: "chuankouchien"
-  accentcity: "Ch\xC3\xBCankouchien"
+  accentcity: "Chüankouchien"
 chuankunghu: 
   city: "chuankunghu"
   accentcity: "Chuankunghu"
 chuankutou: 
   city: "chuankutou"
-  accentcity: "Ch\xC3\xBCankutou"
+  accentcity: "Chüankutou"
 chuanliao: 
   city: "chuanliao"
-  accentcity: "Ch\xC3\xBCanliao"
+  accentcity: "Chüanliao"
 chuanliaokeng: 
   city: "chuanliaokeng"
-  accentcity: "Ch\xC3\xBCanliaokeng"
+  accentcity: "Chüanliaokeng"
 chuanliaokungkuan: 
   city: "chuanliaokungkuan"
-  accentcity: "Ch\xC3\xBCanliaokungkuan"
+  accentcity: "Chüanliaokungkuan"
 chuanliaoli: 
   city: "chuanliaoli"
   accentcity: "Chuanliaoli"
@@ -4874,31 +4874,31 @@ chuanpei:
   accentcity: "Chuanpei"
 chuanshih: 
   city: "chuanshih"
-  accentcity: "Ch\xC3\xBCanshih"
+  accentcity: "Chüanshih"
 chuanshuikeng: 
   city: "chuanshuikeng"
-  accentcity: "Ch\xC3\xBCanshuikeng"
+  accentcity: "Chüanshuikeng"
 chuanshuikung: 
   city: "chuanshuikung"
-  accentcity: "Ch\xC3\xBCanshuikung"
+  accentcity: "Chüanshuikung"
 chuanshuitzu: 
   city: "chuanshuitzu"
-  accentcity: "Ch\xC3\xBCanshuitzu"
+  accentcity: "Chüanshuitzu"
 chuanshuiwo: 
   city: "chuanshuiwo"
-  accentcity: "Ch\xC3\xBCanshuiwo"
+  accentcity: "Chüanshuiwo"
 chuanshutsun: 
   city: "chuanshutsun"
   accentcity: "ChuanShuTsun"
 chuanting: 
   city: "chuanting"
-  accentcity: "Ch\xC3\xBCanting"
+  accentcity: "Chüanting"
 chuantiwo: 
   city: "chuantiwo"
   accentcity: "Chuantiwo"
 chuantou: 
   city: "chuantou"
-  accentcity: "Ch\xC3\xBCantou"
+  accentcity: "Chüantou"
 chuantoukeng: 
   city: "chuantoukeng"
   accentcity: "Chuantoukeng"
@@ -4907,7 +4907,7 @@ chuantoupu:
   accentcity: "Chuantoupu"
 chuantoutso: 
   city: "chuantoutso"
-  accentcity: "Ch\xC3\xBCantoutso"
+  accentcity: "Chüantoutso"
 chuantoutsun: 
   city: "chuantoutsun"
   accentcity: "Chuantoutsun"
@@ -4916,16 +4916,16 @@ chuantouwei:
   accentcity: "Chuantouwei"
 chuantso: 
   city: "chuantso"
-  accentcity: "Ch\xC3\xBCantso"
+  accentcity: "Chüantso"
 chuantsotsun: 
   city: "chuantsotsun"
-  accentcity: "Ch\xC3\xBCantsotsun"
+  accentcity: "Chüantsotsun"
 chuantu: 
   city: "chuantu"
-  accentcity: "Ch\xC3\xBCantu"
+  accentcity: "Chüantu"
 chuantutsun: 
   city: "chuantutsun"
-  accentcity: "Ch\xC3\xBCantutsun"
+  accentcity: "Chüantutsun"
 chuantzu: 
   city: "chuantzu"
   accentcity: "Chuantzu"
@@ -4937,7 +4937,7 @@ chuantzutou:
   accentcity: "Chuantzutou"
 chuantzutoukeng: 
   city: "chuantzutoukeng"
-  accentcity: "Ch\xC3\xBCantzutoukeng"
+  accentcity: "Chüantzutoukeng"
 chuantzuyao: 
   city: "chuantzuyao"
   accentcity: "Chuantzuyao"
@@ -4973,37 +4973,37 @@ chuchien:
   accentcity: "Chuchien"
 chuchih: 
   city: "chuchih"
-  accentcity: "Ch\xC3\xBCchih"
+  accentcity: "Chüchih"
 chuchihli: 
   city: "chuchihli"
-  accentcity: "Ch\xC3\xBCchihli"
+  accentcity: "Chüchihli"
 chuchiting: 
   city: "chuchiting"
-  accentcity: "Ch\xC3\xBCchiting"
+  accentcity: "Chüchiting"
 chuchuan: 
   city: "chuchuan"
-  accentcity: "Chuch\xC3\xBCan"
+  accentcity: "Chuchüan"
 chuchuanli: 
   city: "chuchuanli"
-  accentcity: "Chuch\xC3\xBCanli"
+  accentcity: "Chuchüanli"
 chuchungli: 
   city: "chuchungli"
   accentcity: "Chuchungli"
 chuehchihling: 
   city: "chuehchihling"
-  accentcity: "Ch\xC3\xBCehchihling"
+  accentcity: "Chüehchihling"
 chuehchuehssu: 
   city: "chuehchuehssu"
-  accentcity: "Ch\xC3\xBCehch\xC3\xBCehssu"
+  accentcity: "Chüehchüehssu"
 chuehchuehssushe: 
   city: "chuehchuehssushe"
-  accentcity: "Ch\xC3\xBCehch\xC3\xBCehssushe"
+  accentcity: "Chüehchüehssushe"
 chuehtzu: 
   city: "chuehtzu"
-  accentcity: "Ch\xC3\xBCehtzu"
+  accentcity: "Chüehtzu"
 chuehtzutsun: 
   city: "chuehtzutsun"
-  accentcity: "Ch\xC3\xBCehtzutsun"
+  accentcity: "Chüehtzutsun"
 chuhaoli: 
   city: "chuhaoli"
   accentcity: "Chuhaoli"
@@ -5033,7 +5033,7 @@ chuhsin:
   accentcity: "Chuhsin"
 chuhsing: 
   city: "chuhsing"
-  accentcity: "Ch\xC3\xBChsing"
+  accentcity: "Chühsing"
 chuhsingkeng: 
   city: "chuhsingkeng"
   accentcity: "Chuhsingkeng"
@@ -5048,7 +5048,7 @@ chuhsitsun:
   accentcity: "Chuhsitsun"
 chuhsueh: 
   city: "chuhsueh"
-  accentcity: "Ch\xC3\xBChs\xC3\xBCeh"
+  accentcity: "Chühsüeh"
 chuhua: 
   city: "chuhua"
   accentcity: "Chuhua"
@@ -5135,7 +5135,7 @@ chukou:
   accentcity: "Chukou"
 chukuanghsintsun: 
   city: "chukuanghsintsun"
-  accentcity: "Ch\xC3\xBCkuanghsintsun"
+  accentcity: "Chükuanghsintsun"
 chukuangkeng: 
   city: "chukuangkeng"
   accentcity: "Chukuangkeng"
@@ -5174,7 +5174,7 @@ chuli:
   accentcity: "Chuli"
 chuliehyushe: 
   city: "chuliehyushe"
-  accentcity: "Ch\xC3\xBCliehyushe"
+  accentcity: "Chüliehyushe"
 chulin: 
   city: "chulin"
   accentcity: "Chulin"
@@ -5231,19 +5231,19 @@ chumutsun:
   accentcity: "Chumutsun"
 chunanchiao: 
   city: "chunanchiao"
-  accentcity: "Ch\xC3\xBCnanchiao"
+  accentcity: "Chünanchiao"
 chunanchuang: 
   city: "chunanchuang"
   accentcity: "Chunanchuang"
 chunanchu: 
   city: "chunanchu"
-  accentcity: "Chunanch\xC3\xBC"
+  accentcity: "Chunanchü"
 chunan: 
   city: "chunan"
   accentcity: "Chunan"
 chunanli: 
   city: "chunanli"
-  accentcity: "Ch\xC3\xBCnanli"
+  accentcity: "Chünanli"
 chunantsun: 
   city: "chunantsun"
   accentcity: "Chunantsun"
@@ -5252,19 +5252,19 @@ chunanwo:
   accentcity: "ChuNanWo"
 chunchieh: 
   city: "chunchieh"
-  accentcity: "Ch\xC3\xBCnchieh"
+  accentcity: "Chünchieh"
 chunchien: 
   city: "chunchien"
-  accentcity: "Ch\xC3\xBCnchien"
+  accentcity: "Chünchien"
 chunchientsun: 
   city: "chunchientsun"
-  accentcity: "Ch\xC3\xBCnchientsun"
+  accentcity: "Chünchientsun"
 chunchihchiu: 
   city: "chunchihchiu"
-  accentcity: "Ch\xC3\xBCnchihchiu"
+  accentcity: "Chünchihchiu"
 chunchikou: 
   city: "chunchikou"
-  accentcity: "Ch\xC3\xBCnchikou"
+  accentcity: "Chünchikou"
 chunchu: 
   city: "chunchu"
   accentcity: "Chunchu"
@@ -5333,16 +5333,16 @@ chungchili:
   accentcity: "Chungchili"
 chungchingchueh: 
   city: "chungchingchueh"
-  accentcity: "Chungchingch\xC3\xBCeh"
+  accentcity: "Chungchingchüeh"
 chungchinghsueh: 
   city: "chungchinghsueh"
-  accentcity: "Chungchinghs\xC3\xBCeh"
+  accentcity: "Chungchinghsüeh"
 chungchingyen: 
   city: "chungchingyen"
   accentcity: "Chungchingyen"
 chungchingyu: 
   city: "chungchingyu"
-  accentcity: "Chungchingy\xC3\xBC"
+  accentcity: "Chungchingyü"
 chungchitsun: 
   city: "chungchitsun"
   accentcity: "Chungchitsun"
@@ -5363,7 +5363,7 @@ chungchoutzu:
   accentcity: "Chungchoutzu"
 chungchuan: 
   city: "chungchuan"
-  accentcity: "Chungch\xC3\xBCan"
+  accentcity: "Chungchüan"
 chungchuangchieh: 
   city: "chungchuangchieh"
   accentcity: "Chungchuangchieh"
@@ -5378,13 +5378,13 @@ chungchuangtzu:
   accentcity: "Chungchuangtzu"
 chungchuanli: 
   city: "chungchuanli"
-  accentcity: "Chungch\xC3\xBCanli"
+  accentcity: "Chungchüanli"
 chungchuchihso: 
   city: "chungchuchihso"
   accentcity: "Chungchuchihso"
 chungchun: 
   city: "chungchun"
-  accentcity: "Chungch\xC3\xBCn"
+  accentcity: "Chungchün"
 chungchutso: 
   city: "chungchutso"
   accentcity: "Chungchutso"
@@ -5498,7 +5498,7 @@ chunghsitsun:
   accentcity: "Chunghsitsun"
 chunghsuehshanlinpan: 
   city: "chunghsuehshanlinpan"
-  accentcity: "Chunghs\xC3\xBCehshanlinpan"
+  accentcity: "Chunghsüehshanlinpan"
 chunghua: 
   city: "chunghua"
   accentcity: "Chunghua"
@@ -5606,7 +5606,7 @@ chungliaoli:
   accentcity: "Chungliaoli"
 chungliaoshechu: 
   city: "chungliaoshechu"
-  accentcity: "Chungliaoshech\xC3\xBC"
+  accentcity: "Chungliaoshechü"
 chungliaotsun: 
   city: "chungliaotsun"
   accentcity: "Chungliaotsun"
@@ -5825,7 +5825,7 @@ chungtungwan:
   accentcity: "Chungtungwan"
 chungtunhsu: 
   city: "chungtunhsu"
-  accentcity: "Chungtunhs\xC3\xBC"
+  accentcity: "Chungtunhsü"
 chungtunshe: 
   city: "chungtunshe"
   accentcity: "Chungtunshe"
@@ -5897,28 +5897,28 @@ chungying:
   accentcity: "Chungying"
 chungyuan: 
   city: "chungyuan"
-  accentcity: "Chungy\xC3\xBCan"
+  accentcity: "Chungyüan"
 chungyuanli: 
   city: "chungyuanli"
-  accentcity: "Chungy\xC3\xBCanli"
+  accentcity: "Chungyüanli"
 chungyuanshe: 
   city: "chungyuanshe"
-  accentcity: "Chungy\xC3\xBCanshe"
+  accentcity: "Chungyüanshe"
 chungyuantsun: 
   city: "chungyuantsun"
-  accentcity: "Chungy\xC3\xBCantsun"
+  accentcity: "Chungyüantsun"
 chungyueh: 
   city: "chungyueh"
-  accentcity: "Chungy\xC3\xBCeh"
+  accentcity: "Chungyüeh"
 chungyuehshe: 
   city: "chungyuehshe"
-  accentcity: "Chungy\xC3\xBCehshe"
+  accentcity: "Chungyüehshe"
 chungyuehtsun: 
   city: "chungyuehtsun"
-  accentcity: "Chungy\xC3\xBCehtsun"
+  accentcity: "Chungyüehtsun"
 chungyun: 
   city: "chungyun"
-  accentcity: "Chungy\xC3\xBCn"
+  accentcity: "Chungyün"
 chungyung: 
   city: "chungyung"
   accentcity: "Chungyung"
@@ -5930,10 +5930,10 @@ chungyunli:
   accentcity: "ChungYunLi"
 chunhsikou: 
   city: "chunhsikou"
-  accentcity: "Ch\xC3\xBCnhsikou"
+  accentcity: "Chünhsikou"
 chunhsin: 
   city: "chunhsin"
-  accentcity: "Ch\xC3\xBCnhsin"
+  accentcity: "Chünhsin"
 chunjih: 
   city: "chunjih"
   accentcity: "Chunjih"
@@ -5951,43 +5951,43 @@ chunkan:
   accentcity: "Chunkan"
 chunkeng: 
   city: "chunkeng"
-  accentcity: "Ch\xC3\xBCnkeng"
+  accentcity: "Chünkeng"
 chunkouchien: 
   city: "chunkouchien"
-  accentcity: "Ch\xC3\xBCnkouchien"
+  accentcity: "Chünkouchien"
 chunkung: 
   city: "chunkung"
-  accentcity: "Ch\xC3\xBCnkung"
+  accentcity: "Chünkung"
 chunkungkeng: 
   city: "chunkungkeng"
-  accentcity: "Ch\xC3\xBCnkungkeng"
+  accentcity: "Chünkungkeng"
 chunkungliao: 
   city: "chunkungliao"
-  accentcity: "Ch\xC3\xBCnkungliao"
+  accentcity: "Chünkungliao"
 chunkungli: 
   city: "chunkungli"
-  accentcity: "Ch\xC3\xBCnkungli"
+  accentcity: "Chünkungli"
 chunliao: 
   city: "chunliao"
-  accentcity: "Ch\xC3\xBCnliao"
+  accentcity: "Chünliao"
 chunliaokeng: 
   city: "chunliaokeng"
-  accentcity: "Ch\xC3\xBCnliaokeng"
+  accentcity: "Chünliaokeng"
 chunliaokungkuan: 
   city: "chunliaokungkuan"
-  accentcity: "Ch\xC3\xBCnliaokungkuan"
+  accentcity: "Chünliaokungkuan"
 chunliaotso: 
   city: "chunliaotso"
-  accentcity: "Ch\xC3\xBCnliaotso"
+  accentcity: "Chünliaotso"
 chunliaotsun: 
   city: "chunliaotsun"
-  accentcity: "Ch\xC3\xBCnliaotsun"
+  accentcity: "Chünliaotsun"
 chunlintsun: 
   city: "chunlintsun"
   accentcity: "Chunlintsun"
 chunlutso: 
   city: "chunlutso"
-  accentcity: "Ch\xC3\xBCnlutso"
+  accentcity: "Chünlutso"
 chunniupu: 
   city: "chunniupu"
   accentcity: "Chunniupu"
@@ -6002,46 +6002,46 @@ chunsheli:
   accentcity: "Chunsheli"
 chunting: 
   city: "chunting"
-  accentcity: "Ch\xC3\xBCnting"
+  accentcity: "Chünting"
 chuntou: 
   city: "chuntou"
-  accentcity: "Ch\xC3\xBCntou"
+  accentcity: "Chüntou"
 chuntoukeng: 
   city: "chuntoukeng"
-  accentcity: "Ch\xC3\xBCntouKeng"
+  accentcity: "ChüntouKeng"
 chuntoutso: 
   city: "chuntoutso"
-  accentcity: "Ch\xC3\xBCntoutso"
+  accentcity: "Chüntoutso"
 chuntoutsun: 
   city: "chuntoutsun"
-  accentcity: "Ch\xC3\xBCntoutsun"
+  accentcity: "Chüntoutsun"
 chuntouwei: 
   city: "chuntouwei"
-  accentcity: "Ch\xC3\xBCntouwei"
+  accentcity: "Chüntouwei"
 chuntu: 
   city: "chuntu"
-  accentcity: "Ch\xC3\xBCntu"
+  accentcity: "Chüntu"
 chuntutsun: 
   city: "chuntutsun"
-  accentcity: "Ch\xC3\xBCntutsun"
+  accentcity: "Chüntutsun"
 chuntzutou: 
   city: "chuntzutou"
-  accentcity: "Ch\xC3\xBCntzutou"
+  accentcity: "Chüntzutou"
 chuntzutoukeng: 
   city: "chuntzutoukeng"
-  accentcity: "Ch\xC3\xBCntzutoukeng"
+  accentcity: "Chüntzutoukeng"
 chunu: 
   city: "chunu"
-  accentcity: "Ch\xC3\xBCnu"
+  accentcity: "Chünu"
 chunushe: 
   city: "chunushe"
-  accentcity: "Ch\xC3\xBCnushe"
+  accentcity: "Chünushe"
 chunutsun: 
   city: "chunutsun"
-  accentcity: "Ch\xC3\xBCnutsun"
+  accentcity: "Chünutsun"
 chunwei: 
   city: "chunwei"
-  accentcity: "Ch\xC3\xBCnwei"
+  accentcity: "Chünwei"
 chunyang: 
   city: "chunyang"
   accentcity: "Chunyang"
@@ -6050,7 +6050,7 @@ chunyangtsun:
   accentcity: "Chunyangtsun"
 chunyingtsun: 
   city: "chunyingtsun"
-  accentcity: "Ch\xC3\xBCnyingtsun"
+  accentcity: "Chünyingtsun"
 chupei: 
   city: "chupei"
   accentcity: "Chupei"
@@ -6062,10 +6062,10 @@ chupentsun:
   accentcity: "Chupentsun"
 chupingchiuchih: 
   city: "chupingchiuchih"
-  accentcity: "Ch\xC3\xBCpingchiuchih"
+  accentcity: "Chüpingchiuchih"
 chuping: 
   city: "chuping"
-  accentcity: "Ch\xC3\xBCping"
+  accentcity: "Chüping"
 chupingtzu: 
   city: "chupingtzu"
   accentcity: "Chupingtzu"
@@ -6116,7 +6116,7 @@ chushuili:
   accentcity: "Chushuili"
 chushuishe: 
   city: "chushuishe"
-  accentcity: "Ch\xC3\xBCshuishe"
+  accentcity: "Chüshuishe"
 chushuitsun: 
   city: "chushuitsun"
   accentcity: "Chushuitsun"
@@ -6242,10 +6242,10 @@ chutzutsun:
   accentcity: "Chutzutsun"
 chutzuyuan: 
   city: "chutzuyuan"
-  accentcity: "Chutzuy\xC3\xBCan"
+  accentcity: "Chutzuyüan"
 chutzuyuankeng: 
   city: "chutzuyuankeng"
-  accentcity: "Chutzuy\xC3\xBCankeng"
+  accentcity: "Chutzuyüankeng"
 chuwai: 
   city: "chuwai"
   accentcity: "Chuwai"
@@ -6302,22 +6302,22 @@ chuyingtzu:
   accentcity: "Chuyingtzu"
 chuyuan: 
   city: "chuyuan"
-  accentcity: "Chuy\xC3\xBCan"
+  accentcity: "Chuyüan"
 chuyuanhou: 
   city: "chuyuanhou"
-  accentcity: "Chuy\xC3\xBCanhou"
+  accentcity: "Chuyüanhou"
 chuyuanli: 
   city: "chuyuanli"
-  accentcity: "Chuy\xC3\xBCanli"
+  accentcity: "Chuyüanli"
 chuyuannei: 
   city: "chuyuannei"
-  accentcity: "Chuy\xC3\xBCannei"
+  accentcity: "Chuyüannei"
 chuyuantsun: 
   city: "chuyuantsun"
-  accentcity: "Chuy\xC3\xBCantsun"
+  accentcity: "Chuyüantsun"
 chuyuantzu: 
   city: "chuyuantzu"
-  accentcity: "Chuy\xC3\xBCantzu"
+  accentcity: "Chuyüantzu"
 erhchangli: 
   city: "erhchangli"
   accentcity: "Erhchangli"
@@ -6578,7 +6578,7 @@ fahshuliaokeng:
   accentcity: "FahShuLiaoKeng"
 falu: 
   city: "falu"
-  accentcity: "Fal\xC3\xBC"
+  accentcity: "Falü"
 falushe: 
   city: "falushe"
   accentcity: "Falushe"
@@ -6707,7 +6707,7 @@ fangwuchia:
   accentcity: "Fangwuchia"
 fangyuan: 
   city: "fangyuan"
-  accentcity: "Fangy\xC3\xBCan"
+  accentcity: "Fangyüan"
 fanhsi: 
   city: "fanhsi"
   accentcity: "Fanhsi"
@@ -6911,7 +6911,7 @@ fantzuyen:
   accentcity: "Fantzuyen"
 fantzuyuan: 
   city: "fantzuyuan"
-  accentcity: "Fantzuy\xC3\xBCan"
+  accentcity: "Fantzuyüan"
 fanweikeng: 
   city: "fanweikeng"
   accentcity: "Fanweikeng"
@@ -6923,7 +6923,7 @@ fanyakou:
   accentcity: "Fanyakou"
 fanyenyuan: 
   city: "fanyenyuan"
-  accentcity: "Fanyeny\xC3\xBCan"
+  accentcity: "Fanyenyüan"
 fatoulu: 
   city: "fatoulu"
   accentcity: "Fatoulu"
@@ -6992,10 +6992,10 @@ fengchou:
   accentcity: "Fengchou"
 fengchuan: 
   city: "fengchuan"
-  accentcity: "Fengch\xC3\xBCan"
+  accentcity: "Fengchüan"
 fengchuanli: 
   city: "fengchuanli"
-  accentcity: "Fengch\xC3\xBCanli"
+  accentcity: "Fengchüanli"
 fengchueiling: 
   city: "fengchueiling"
   accentcity: "FengChueiLing"
@@ -7268,25 +7268,25 @@ fengying:
   accentcity: "Fengying"
 fengyuanchen: 
   city: "fengyuanchen"
-  accentcity: "Fengy\xC3\xBCanchen"
+  accentcity: "Fengyüanchen"
 fengyuanchieh: 
   city: "fengyuanchieh"
-  accentcity: "Fengy\xC3\xBCanchieh"
+  accentcity: "Fengyüanchieh"
 fengyuanchu see taichunghsien: 
   city: "fengyuanchu see taichunghsien"
-  accentcity: "Fengy\xC3\xBCanch\xC3\xBC see Taichunghsien"
+  accentcity: "Fengyüanchü see Taichunghsien"
 fengyuan: 
   city: "fengyuan"
-  accentcity: "Fengy\xC3\xBCan"
+  accentcity: "Fengyüan"
 fengyuanshe: 
   city: "fengyuanshe"
-  accentcity: "Fengy\xC3\xBCanshe"
+  accentcity: "Fengyüanshe"
 fengyuantsun: 
   city: "fengyuantsun"
-  accentcity: "Fengy\xC3\xBCantsun"
+  accentcity: "Fengyüantsun"
 fengyun: 
   city: "fengyun"
-  accentcity: "Fengy\xC3\xBCn"
+  accentcity: "Fengyün"
 feng yung: 
   city: "feng yung"
   accentcity: "Feng Yung"
@@ -7334,10 +7334,10 @@ fentzuliao:
   accentcity: "Fentzuliao"
 fenyuan: 
   city: "fenyuan"
-  accentcity: "Feny\xC3\xBCan"
+  accentcity: "Fenyüan"
 fenyuantsun: 
   city: "fenyuantsun"
-  accentcity: "Feny\xC3\xBCantsun"
+  accentcity: "Fenyüantsun"
 fokung: 
   city: "fokung"
   accentcity: "Fokung"
@@ -7361,10 +7361,10 @@ fouchuan:
   accentcity: "Fouchuan"
 fouchuanli: 
   city: "fouchuanli"
-  accentcity: "Fouch\xC3\xBCanli"
+  accentcity: "Fouchüanli"
 fouchun: 
   city: "fouchun"
-  accentcity: "Fouch\xC3\xBCn"
+  accentcity: "Fouchün"
 foulun: 
   city: "foulun"
   accentcity: "Foulun"
@@ -7439,10 +7439,10 @@ fuchouli:
   accentcity: "Fuchouli"
 fuchuanchin: 
   city: "fuchuanchin"
-  accentcity: "Fuch\xC3\xBCanchin"
+  accentcity: "Fuchüanchin"
 fuchuan: 
   city: "fuchuan"
-  accentcity: "Fuch\xC3\xBCan"
+  accentcity: "Fuchüan"
 fuchuanli: 
   city: "fuchuanli"
   accentcity: "Fuchuanli"
@@ -7454,7 +7454,7 @@ fuchun:
   accentcity: "Fuchun"
 fuchunli: 
   city: "fuchunli"
-  accentcity: "Fuch\xC3\xBCnli"
+  accentcity: "Fuchünli"
 fuchutsun: 
   city: "fuchutsun"
   accentcity: "Fuchutsun"
@@ -7727,13 +7727,13 @@ fuyeh:
   accentcity: "Fuyeh"
 fuyuan: 
   city: "fuyuan"
-  accentcity: "Fuy\xC3\xBCan"
+  accentcity: "Fuyüan"
 fuyuantsuan: 
   city: "fuyuantsuan"
-  accentcity: "Fuy\xC3\xBCantsuan"
+  accentcity: "Fuyüantsuan"
 fuyuantsun: 
   city: "fuyuantsun"
-  accentcity: "Fuy\xC3\xBCantsun"
+  accentcity: "Fuyüantsun"
 haian: 
   city: "haian"
   accentcity: "Haian"
@@ -7976,7 +7976,7 @@ hanpaotsun:
   accentcity: "Hanpaotsun"
 hanpaoyuan: 
   city: "hanpaoyuan"
-  accentcity: "Hanpaoy\xC3\xBCan"
+  accentcity: "Hanpaoyüan"
 hanpen: 
   city: "hanpen"
   accentcity: "Hanpen"
@@ -8039,7 +8039,7 @@ haoshouchuang:
   accentcity: "Haoshouchuang"
 haoshouchu: 
   city: "haoshouchu"
-  accentcity: "Haoshouch\xC3\xBC"
+  accentcity: "Haoshouchü"
 haoshou: 
   city: "haoshou"
   accentcity: "Haoshou"
@@ -8084,16 +8084,16 @@ hengchi:
   accentcity: "Hengchi"
 hengchuan: 
   city: "hengchuan"
-  accentcity: "Hengch\xC3\xBCan"
+  accentcity: "Hengchüan"
 hengchuanting: 
   city: "hengchuanting"
-  accentcity: "Hengch\xC3\xBCanting"
+  accentcity: "Hengchüanting"
 hengchun: 
   city: "hengchun"
   accentcity: "Hengchun"
 hengchunting: 
   city: "hengchunting"
-  accentcity: "Hengch\xC3\xBCnting"
+  accentcity: "Hengchünting"
 hengfeng: 
   city: "hengfeng"
   accentcity: "Hengfeng"
@@ -8309,13 +8309,13 @@ hopao:
   accentcity: "Hopao"
 hopaohsu: 
   city: "hopaohsu"
-  accentcity: "Hopaohs\xC3\xBC"
+  accentcity: "Hopaohsü"
 hopaotsun: 
   city: "hopaotsun"
   accentcity: "Hopaotsun"
 hopaoyu: 
   city: "hopaoyu"
-  accentcity: "Hopaoy\xC3\xBC"
+  accentcity: "Hopaoyü"
 hopei: 
   city: "hopei"
   accentcity: "Hopei"
@@ -8510,16 +8510,16 @@ houchuan:
   accentcity: "HouChuan"
 houchueh: 
   city: "houchueh"
-  accentcity: "Houch\xC3\xBCeh"
+  accentcity: "Houchüeh"
 houchuehtsun: 
   city: "houchuehtsun"
-  accentcity: "Houch\xC3\xBCehtsun"
+  accentcity: "Houchüehtsun"
 houchung: 
   city: "houchung"
   accentcity: "Houchung"
 houchutan: 
   city: "houchutan"
-  accentcity: "Houch\xC3\xBCtan"
+  accentcity: "Houchütan"
 houchuwei: 
   city: "houchuwei"
   accentcity: "Houchuwei"
@@ -8561,7 +8561,7 @@ houhsiti:
   accentcity: "Houhsiti"
 houhsupo: 
   city: "houhsupo"
-  accentcity: "Houhs\xC3\xBCpo"
+  accentcity: "Houhsüpo"
 houhu: 
   city: "houhu"
   accentcity: "Houhu"
@@ -8873,13 +8873,13 @@ houying:
   accentcity: "Houying"
 houyuan: 
   city: "houyuan"
-  accentcity: "Houy\xC3\xBCan"
+  accentcity: "Houyüan"
 houyuche: 
   city: "houyuche"
   accentcity: "Houyuche"
 houyupo: 
   city: "houyupo"
-  accentcity: "Houy\xC3\xBCpo"
+  accentcity: "Houyüpo"
 howang (1): 
   city: "howang (1)"
   accentcity: "Howang (1)"
@@ -8891,7 +8891,7 @@ howang:
   accentcity: "Howang"
 hsaishuichuan: 
   city: "hsaishuichuan"
-  accentcity: "Hsaishuich\xC3\xBCan"
+  accentcity: "Hsaishuichüan"
 hsiaailiao: 
   city: "hsiaailiao"
   accentcity: "Hsiaailiao"
@@ -9098,10 +9098,10 @@ hsiachuweitzu:
   accentcity: "Hsiachuweitzu"
 hsiachuyuan: 
   city: "hsiachuyuan"
-  accentcity: "Hsiachuy\xC3\xBCan"
+  accentcity: "Hsiachuyüan"
 hsiachuyuantzu: 
   city: "hsiachuyuantzu"
-  accentcity: "Hsiachuy\xC3\xBCantzu"
+  accentcity: "Hsiachuyüantzu"
 hsiafangchiaotou: 
   city: "hsiafangchiaotou"
   accentcity: "Hsiafangchiaotou"
@@ -9131,10 +9131,10 @@ hsiafengtsun:
   accentcity: "Hsiafengtsun"
 hsiafouchuan: 
   city: "hsiafouchuan"
-  accentcity: "Hsiafouch\xC3\xBCan"
+  accentcity: "Hsiafouchüan"
 hsiafuchun: 
   city: "hsiafuchun"
-  accentcity: "Hsiafuch\xC3\xBCn"
+  accentcity: "Hsiafuchün"
 hsiafu: 
   city: "hsiafu"
   accentcity: "Hsiafu"
@@ -9170,10 +9170,10 @@ hsiahengshan:
   accentcity: "Hsiahengshan"
 hsiahopaohsu: 
   city: "hsiahopaohsu"
-  accentcity: "Hsiahopaohs\xC3\xBC"
+  accentcity: "Hsiahopaohsü"
 hsiahopaoyu: 
   city: "hsiahopaoyu"
-  accentcity: "Hsiahopaoy\xC3\xBC"
+  accentcity: "Hsiahopaoyü"
 hsiahouan: 
   city: "hsiahouan"
   accentcity: "Hsiahouan"
@@ -9233,7 +9233,7 @@ hsiahsiuyu:
   accentcity: "Hsiahsiuyu"
 hsiahsuanerhshe: 
   city: "hsiahsuanerhshe"
-  accentcity: "Hsiahs\xC3\xBCanerhshe"
+  accentcity: "Hsiahsüanerhshe"
 hsiahsutsoliao: 
   city: "hsiahsutsoliao"
   accentcity: "Hsiahsutsoliao"
@@ -9377,7 +9377,7 @@ hsialan:
   accentcity: "Hsialan"
 hsialaohsu: 
   city: "hsialaohsu"
-  accentcity: "Hsialaohs\xC3\xBC"
+  accentcity: "Hsialaohsü"
 hsialaopawan: 
   city: "hsialaopawan"
   accentcity: "Hsialaopawan"
@@ -9500,7 +9500,7 @@ hsiamatsun:
   accentcity: "Hsiamatsun"
 hsiamayuan: 
   city: "hsiamayuan"
-  accentcity: "Hsiamay\xC3\xBCan"
+  accentcity: "Hsiamayüan"
 hsiameilin: 
   city: "hsiameilin"
   accentcity: "Hsiameilin"
@@ -9692,10 +9692,10 @@ hsiangyangtsun:
   accentcity: "Hsiangyangtsun"
 hsiangyuanchiao: 
   city: "hsiangyuanchiao"
-  accentcity: "Hsiangy\xC3\xBCanchiao"
+  accentcity: "Hsiangyüanchiao"
 hsiangyuanwo: 
   city: "hsiangyuanwo"
-  accentcity: "Hsiangy\xC3\xBCanwo"
+  accentcity: "Hsiangyüanwo"
 hsian: 
   city: "hsian"
   accentcity: "Hsian"
@@ -9827,7 +9827,7 @@ hsiaohsitsun:
   accentcity: "Hsiaohsitsun"
 hsiaohsuehshanlinpan: 
   city: "hsiaohsuehshanlinpan"
-  accentcity: "Hsiaohs\xC3\xBCehshanlinpan"
+  accentcity: "Hsiaohsüehshanlinpan"
 hsiaohungmaoshe: 
   city: "hsiaohungmaoshe"
   accentcity: "Hsiaohungmaoshe"
@@ -10094,7 +10094,7 @@ hsiaotungli:
   accentcity: "Hsiaotungli"
 hsiaotunglochuan: 
   city: "hsiaotunglochuan"
-  accentcity: "Hsiaotungloch\xC3\xBCan"
+  accentcity: "Hsiaotunglochüan"
 hsiaotungshih: 
   city: "hsiaotungshih"
   accentcity: "Hsiaotungshih"
@@ -10121,10 +10121,10 @@ hsiaoyangmeili:
   accentcity: "Hsiaoyangmeili"
 hsiaoyuanchiang: 
   city: "hsiaoyuanchiang"
-  accentcity: "Hsiaoy\xC3\xBCanchiang"
+  accentcity: "Hsiaoyüanchiang"
 hsiaoyuehmei: 
   city: "hsiaoyuehmei"
-  accentcity: "Hsiaoy\xC3\xBCehmei"
+  accentcity: "Hsiaoyüehmei"
 hsiapa: 
   city: "hsiapa"
   accentcity: "Hsiapa"
@@ -10313,7 +10313,7 @@ hsiashu:
   accentcity: "Hsiashu"
 hsiashuichuan: 
   city: "hsiashuichuan"
-  accentcity: "Hsiashuich\xC3\xBCan"
+  accentcity: "Hsiashuichüan"
 hsiashui: 
   city: "hsiashui"
   accentcity: "Hsiashui"
@@ -10424,7 +10424,7 @@ hsiatsaiwei:
   accentcity: "HsiaTsaiWei"
 hsiatsaiyuan: 
   city: "hsiatsaiyuan"
-  accentcity: "Hsiatsaiy\xC3\xBCan"
+  accentcity: "Hsiatsaiyüan"
 hsiatsao: 
   city: "hsiatsao"
   accentcity: "Hsiatsao"
@@ -10547,40 +10547,40 @@ hsiayinyingwo:
   accentcity: "Hsiayinyingwo"
 hsiayuan: 
   city: "hsiayuan"
-  accentcity: "Hsiay\xC3\xBCan"
+  accentcity: "Hsiayüan"
 hsiayuankeng: 
   city: "hsiayuankeng"
-  accentcity: "Hsiay\xC3\xBCankeng"
+  accentcity: "Hsiayüankeng"
 hsiayuanlin: 
   city: "hsiayuanlin"
-  accentcity: "Hsiay\xC3\xBCanlin"
+  accentcity: "Hsiayüanlin"
 hsiayuanshan: 
   city: "hsiayuanshan"
-  accentcity: "Hsiay\xC3\xBCanshan"
+  accentcity: "Hsiayüanshan"
 hsiayucheng: 
   city: "hsiayucheng"
-  accentcity: "Hsiay\xC3\xBCcheng"
+  accentcity: "Hsiayücheng"
 hsiayuehmei: 
   city: "hsiayuehmei"
-  accentcity: "Hsiay\xC3\xBCehmei"
+  accentcity: "Hsiayüehmei"
 hsiayuehtso: 
   city: "hsiayuehtso"
-  accentcity: "Hsiay\xC3\xBCehtso"
+  accentcity: "Hsiayüehtso"
 hsiayuliao: 
   city: "hsiayuliao"
-  accentcity: "Hsiay\xC3\xBCliao"
+  accentcity: "Hsiayüliao"
 hsiayun: 
   city: "hsiayun"
-  accentcity: "Hsiay\xC3\xBCn"
+  accentcity: "Hsiayün"
 hsiayunping: 
   city: "hsiayunping"
-  accentcity: "Hsiay\xC3\xBCnping"
+  accentcity: "Hsiayünping"
 hsiayunshe: 
   city: "hsiayunshe"
-  accentcity: "Hsiay\xC3\xBCnshe"
+  accentcity: "Hsiayünshe"
 hsiayuntsun: 
   city: "hsiayuntsun"
-  accentcity: "Hsiay\xC3\xBCntsun"
+  accentcity: "Hsiayüntsun"
 hsiayutzupu: 
   city: "hsiayutzupu"
   accentcity: "Hsiayutzupu"
@@ -10640,7 +10640,7 @@ hsichiutsun:
   accentcity: "Hsichiutsun"
 hsichiyu: 
   city: "hsichiyu"
-  accentcity: "Hsichiy\xC3\xBC"
+  accentcity: "Hsichiyü"
 hsichou: 
   city: "hsichou"
   accentcity: "Hsichou"
@@ -10676,7 +10676,7 @@ hsichunghsiang:
   accentcity: "Hsichunghsiang"
 hsichuntzu: 
   city: "hsichuntzu"
-  accentcity: "Hsich\xC3\xBCntzu"
+  accentcity: "Hsichüntzu"
 hsiehcheng: 
   city: "hsiehcheng"
   accentcity: "Hsiehcheng"
@@ -10742,7 +10742,7 @@ hsienchuang:
   accentcity: "Hsienchuang"
 hsienchu: 
   city: "hsienchu"
-  accentcity: "Hsiench\xC3\xBC"
+  accentcity: "Hsienchü"
 hsienhsi: 
   city: "hsienhsi"
   accentcity: "Hsienhsi"
@@ -10859,7 +10859,7 @@ hsihsitsun:
   accentcity: "Hsihsitsun"
 hsihsu: 
   city: "hsihsu"
-  accentcity: "Hsihs\xC3\xBC"
+  accentcity: "Hsihsü"
 hsihuatsun: 
   city: "hsihuatsun"
   accentcity: "Hsihuatsun"
@@ -10916,16 +10916,16 @@ hsikoutsun:
   accentcity: "Hsikoutsun"
 hsikoyueh: 
   city: "hsikoyueh"
-  accentcity: "Hsikoy\xC3\xBCeh"
+  accentcity: "Hsikoyüeh"
 hsikoyuehshe: 
   city: "hsikoyuehshe"
-  accentcity: "Hsikoy\xC3\xBCehshe"
+  accentcity: "Hsikoyüehshe"
 hsikuaitso: 
   city: "hsikuaitso"
   accentcity: "Hsikuaitso"
 hsikuayuan: 
   city: "hsikuayuan"
-  accentcity: "Hsikuay\xC3\xBCan"
+  accentcity: "Hsikuayüan"
 hsikuli: 
   city: "hsikuli"
   accentcity: "Hsikuli"
@@ -11114,10 +11114,10 @@ hsinchou:
   accentcity: "Hsinchou"
 hsinchuanchou: 
   city: "hsinchuanchou"
-  accentcity: "Hsinch\xC3\xBCanchou"
+  accentcity: "Hsinchüanchou"
 hsinchuanchoutso: 
   city: "hsinchuanchoutso"
-  accentcity: "Hsinch\xC3\xBCanchoutso"
+  accentcity: "Hsinchüanchoutso"
 hsinchuangchen: 
   city: "hsinchuangchen"
   accentcity: "Hsinchuangchen"
@@ -11138,7 +11138,7 @@ hsinchuangtzu:
   accentcity: "Hsinchuangtzu"
 hsinchuan: 
   city: "hsinchuan"
-  accentcity: "Hsinch\xC3\xBCan"
+  accentcity: "Hsinchüan"
 hsinchuanli: 
   city: "hsinchuanli"
   accentcity: "HsinChuanLi"
@@ -11159,10 +11159,10 @@ hsinchungli:
   accentcity: "Hsinchungli"
 hsinchun: 
   city: "hsinchun"
-  accentcity: "Hsinch\xC3\xBCn"
+  accentcity: "Hsinchün"
 hsinchunli: 
   city: "hsinchunli"
-  accentcity: "Hsinch\xC3\xBCnli"
+  accentcity: "Hsinchünli"
 hsinchushih: 
   city: "hsinchushih"
   accentcity: "Hsinchushih"
@@ -11477,7 +11477,7 @@ hsinhsintsun:
   accentcity: "Hsinhsintsun"
 hsinhsutsoliao: 
   city: "hsinhsutsoliao"
-  accentcity: "Hsinhs\xC3\xBCtsoliao"
+  accentcity: "Hsinhsütsoliao"
 hsinhuachieh: 
   city: "hsinhuachieh"
   accentcity: "Hsinhuachieh"
@@ -11525,7 +11525,7 @@ hsinkaitsun:
   accentcity: "Hsinkaitsun"
 hsinkaiyuan: 
   city: "hsinkaiyuan"
-  accentcity: "Hsinkaiy\xC3\xBCan"
+  accentcity: "Hsinkaiyüan"
 hsinkanghsiang: 
   city: "hsinkanghsiang"
   accentcity: "HsinKangHsiang"
@@ -11633,7 +11633,7 @@ hsinlotsun:
   accentcity: "Hsinlotsun"
 hsinluehhsinchuang: 
   city: "hsinluehhsinchuang"
-  accentcity: "Hsinl\xC3\xBCehhsinchuang"
+  accentcity: "Hsinlüehhsinchuang"
 hsinlu: 
   city: "hsinlu"
   accentcity: "Hsinlu"
@@ -11921,7 +11921,7 @@ hsintsun:
   accentcity: "Hsintsun"
 hsintuchunying: 
   city: "hsintuchunying"
-  accentcity: "Hsintuch\xC3\xBCnying"
+  accentcity: "Hsintuchünying"
 hsintung: 
   city: "hsintung"
   accentcity: "Hsintung"
@@ -11981,10 +11981,10 @@ hsinying:
   accentcity: "Hsinying"
 hsinyuan: 
   city: "hsinyuan"
-  accentcity: "Hsiny\xC3\xBCan"
+  accentcity: "Hsinyüan"
 hsinyuantsun: 
   city: "hsinyuantsun"
-  accentcity: "Hsiny\xC3\xBCantsun"
+  accentcity: "Hsinyüantsun"
 hsinyun: 
   city: "hsinyun"
   accentcity: "HsinYun"
@@ -12401,160 +12401,160 @@ hsiyangchiu:
   accentcity: "Hsiyangchiu"
 hsiyuanchieh: 
   city: "hsiyuanchieh"
-  accentcity: "Hsiy\xC3\xBCanchieh"
+  accentcity: "Hsiyüanchieh"
 hsiyuandao: 
   city: "hsiyuandao"
-  accentcity: "Hsiy\xC3\xBCandao"
+  accentcity: "Hsiyüandao"
 hsiyuan: 
   city: "hsiyuan"
-  accentcity: "Hsiy\xC3\xBCan"
+  accentcity: "Hsiyüan"
 hsiyuanpao: 
   city: "hsiyuanpao"
-  accentcity: "Hsiy\xC3\xBCanpao"
+  accentcity: "Hsiyüanpao"
 hsiyuantan: 
   city: "hsiyuantan"
-  accentcity: "Hsiy\xC3\xBCantan"
+  accentcity: "Hsiyüantan"
 hsiyu: 
   city: "hsiyu"
-  accentcity: "Hsiy\xC3\xBC"
+  accentcity: "Hsiyü"
 hsuangfu: 
   city: "hsuangfu"
   accentcity: "HsuangFu"
 hsuanyeh: 
   city: "hsuanyeh"
-  accentcity: "Hs\xC3\xBCanyeh"
+  accentcity: "Hsüanyeh"
 hsuanyuan: 
   city: "hsuanyuan"
-  accentcity: "Hs\xC3\xBCany\xC3\xBCan"
+  accentcity: "Hsüanyüan"
 hsuchiatsun: 
   city: "hsuchiatsun"
-  accentcity: "Hs\xC3\xBCchiatsun"
+  accentcity: "Hsüchiatsun"
 hsuchi: 
   city: "hsuchi"
-  accentcity: "Hs\xC3\xBCchi"
+  accentcity: "Hsüchi"
 hsuchuang: 
   city: "hsuchuang"
-  accentcity: "Hs\xC3\xBCchuang"
+  accentcity: "Hsüchuang"
 hsuchungying: 
   city: "hsuchungying"
-  accentcity: "Hs\xC3\xBCchungying"
+  accentcity: "Hsüchungying"
 hsuchuyuan: 
   city: "hsuchuyuan"
-  accentcity: "Hs\xC3\xBCchuy\xC3\xBCan"
+  accentcity: "Hsüchuyüan"
 hsuehchiachuang: 
   city: "hsuehchiachuang"
-  accentcity: "Hs\xC3\xBCehchiachuang"
+  accentcity: "Hsüehchiachuang"
 hsuehchia: 
   city: "hsuehchia"
-  accentcity: "Hs\xC3\xBCehchia"
+  accentcity: "Hsüehchia"
 hsuehchialiao: 
   city: "hsuehchialiao"
-  accentcity: "Hs\xC3\xBCehchialiao"
+  accentcity: "Hsüehchialiao"
 hsuehchintsun: 
   city: "hsuehchintsun"
-  accentcity: "Hs\xC3\xBCehchintsun"
+  accentcity: "Hsüehchintsun"
 hsuehhsili: 
   city: "hsuehhsili"
-  accentcity: "Hs\xC3\xBCehhsili"
+  accentcity: "Hsüehhsili"
 hsuehshankeng: 
   city: "hsuehshankeng"
-  accentcity: "Hs\xC3\xBCehshankeng"
+  accentcity: "Hsüehshankeng"
 hsuehshankengshe: 
   city: "hsuehshankengshe"
-  accentcity: "Hs\xC3\xBCehshankengshe"
+  accentcity: "Hsüehshankengshe"
 hsuehtien: 
   city: "hsuehtien"
-  accentcity: "Hs\xC3\xBCehtien"
+  accentcity: "Hsüehtien"
 hsuehtientsun: 
   city: "hsuehtientsun"
-  accentcity: "Hs\xC3\xBCehtientsun"
+  accentcity: "Hsüehtientsun"
 hsuehtung: 
   city: "hsuehtung"
-  accentcity: "Hs\xC3\xBCehtung"
+  accentcity: "Hsüehtung"
 hsuehtungli: 
   city: "hsuehtungli"
-  accentcity: "Hs\xC3\xBCehtungli"
+  accentcity: "Hsüehtungli"
 hsuehtzu: 
   city: "hsuehtzu"
-  accentcity: "Hs\xC3\xBCehtzu"
+  accentcity: "Hsüehtzu"
 hsuehwu: 
   city: "hsuehwu"
-  accentcity: "Hs\xC3\xBCehwu"
+  accentcity: "Hsüehwu"
 hsuehwunaoshe: 
   city: "hsuehwunaoshe"
-  accentcity: "Hs\xC3\xBCehwunaoshe"
+  accentcity: "Hsüehwunaoshe"
 hsuhai: 
   city: "hsuhai"
-  accentcity: "Hs\xC3\xBChai"
+  accentcity: "Hsühai"
 hsuhaitsun: 
   city: "hsuhaitsun"
-  accentcity: "Hs\xC3\xBChaitsun"
+  accentcity: "Hsühaitsun"
 hsuhsi: 
   city: "hsuhsi"
-  accentcity: "Hs\xC3\xBChsi"
+  accentcity: "Hsühsi"
 hsuhsiutsai: 
   city: "hsuhsiutsai"
-  accentcity: "Hs\xC3\xBChsiutsai"
+  accentcity: "Hsühsiutsai"
 hsukochiu: 
   city: "hsukochiu"
-  accentcity: "Hs\xC3\xBCkochiu"
+  accentcity: "Hsükochiu"
 hsukuang: 
   city: "hsukuang"
-  accentcity: "Hs\xC3\xBCkuang"
+  accentcity: "Hsükuang"
 hsunhuangtsui: 
   city: "hsunhuangtsui"
-  accentcity: "Hs\xC3\xBCnhuangtsui"
+  accentcity: "Hsünhuangtsui"
 hsunhungtsui: 
   city: "hsunhungtsui"
-  accentcity: "Hs\xC3\xBCnhungtsui"
+  accentcity: "Hsünhungtsui"
 hsunkuangtsui: 
   city: "hsunkuangtsui"
-  accentcity: "Hs\xC3\xBCnkuangtsui"
+  accentcity: "Hsünkuangtsui"
 hsunliaotzu: 
   city: "hsunliaotzu"
-  accentcity: "Hs\xC3\xBCnliaotzu"
+  accentcity: "Hsünliaotzu"
 hsuntang: 
   city: "hsuntang"
-  accentcity: "Hs\xC3\xBCntang"
+  accentcity: "Hsüntang"
 hsuntangtsun: 
   city: "hsuntangtsun"
-  accentcity: "Hs\xC3\xBCntangtsun"
+  accentcity: "Hsüntangtsun"
 hsunting: 
   city: "hsunting"
-  accentcity: "Hs\xC3\xBCnting"
+  accentcity: "Hsünting"
 hsuntseng: 
   city: "hsuntseng"
-  accentcity: "Hs\xC3\xBCntseng"
+  accentcity: "Hsüntseng"
 hsushan: 
   city: "hsushan"
-  accentcity: "Hs\xC3\xBCshan"
+  accentcity: "Hsüshan"
 hsushantsun: 
   city: "hsushantsun"
-  accentcity: "Hs\xC3\xBCshantsun"
+  accentcity: "Hsüshantsun"
 hsutsochiang: 
   city: "hsutsochiang"
-  accentcity: "Hs\xC3\xBCtsochiang"
+  accentcity: "Hsütsochiang"
 hsutso: 
   city: "hsutso"
-  accentcity: "Hs\xC3\xBCtso"
+  accentcity: "Hsütso"
 hsutsohu: 
   city: "hsutsohu"
-  accentcity: "Hs\xC3\xBCtsohu"
+  accentcity: "Hsütsohu"
 hsutsokang: 
   city: "hsutsokang"
-  accentcity: "Hs\xC3\xBCtsokang"
+  accentcity: "Hsütsokang"
 hsutsoliao: 
   city: "hsutsoliao"
-  accentcity: "Hs\xC3\xBCtsoliao"
+  accentcity: "Hsütsoliao"
 hsutsotsun: 
   city: "hsutsotsun"
-  accentcity: "Hs\xC3\xBCtsotsun"
+  accentcity: "Hsütsotsun"
 hsutsun: 
   city: "hsutsun"
-  accentcity: "Hs\xC3\xBCtsun"
+  accentcity: "Hsütsun"
 hsuwu: 
   city: "hsuwu"
-  accentcity: "Hs\xC3\xBCwu"
+  accentcity: "Hsüwu"
 huachai: 
   city: "huachai"
   accentcity: "Huachai"
@@ -12569,7 +12569,7 @@ huafanshe:
   accentcity: "Huafanshe"
 huahsu: 
   city: "huahsu"
-  accentcity: "Huahs\xC3\xBC"
+  accentcity: "Huahsü"
 huajen: 
   city: "huajen"
   accentcity: "Huajen"
@@ -12647,13 +12647,13 @@ huangchukeng:
   accentcity: "Huangchukeng"
 huangchupiliao: 
   city: "huangchupiliao"
-  accentcity: "Huangch\xC3\xBCpiliao"
+  accentcity: "Huangchüpiliao"
 huangchutsun: 
   city: "huangchutsun"
   accentcity: "Huangchutsun"
 huangchuyuan: 
   city: "huangchuyuan"
-  accentcity: "Huangchuy\xC3\xBCan"
+  accentcity: "Huangchuyüan"
 huanghsi: 
   city: "huanghsi"
   accentcity: "Huanghsi"
@@ -12680,10 +12680,10 @@ huanglinli:
   accentcity: "Huanglinli"
 huangliyuan: 
   city: "huangliyuan"
-  accentcity: "Huangliy\xC3\xBCan"
+  accentcity: "Huangliyüan"
 huangmayuan: 
   city: "huangmayuan"
-  accentcity: "Huangmay\xC3\xBCan"
+  accentcity: "Huangmayüan"
 huangnitang: 
   city: "huangnitang"
   accentcity: "Huangnitang"
@@ -12770,13 +12770,13 @@ huaya:
   accentcity: "Huaya"
 huayuan: 
   city: "huayuan"
-  accentcity: "Huay\xC3\xBCan"
+  accentcity: "Huayüan"
 huayuanshe: 
   city: "huayuanshe"
-  accentcity: "Huay\xC3\xBCanshe"
+  accentcity: "Huayüanshe"
 huayutsun: 
   city: "huayutsun"
-  accentcity: "Huay\xC3\xBCtsun"
+  accentcity: "Huayütsun"
 huchiaochuang: 
   city: "huchiaochuang"
   accentcity: "Huchiaochuang"
@@ -13196,7 +13196,7 @@ hushanting:
   accentcity: "Hushanting"
 hushan wenchuan: 
   city: "hushan wenchuan"
-  accentcity: "Hushan Wench\xC3\xBCan"
+  accentcity: "Hushan Wenchüan"
 hushanyai: 
   city: "hushanyai"
   accentcity: "Hushanyai"
@@ -13358,13 +13358,13 @@ ihsintsun:
   accentcity: "Ihsintsun"
 ihsuanchia: 
   city: "ihsuanchia"
-  accentcity: "Ihs\xC3\xBCanchia"
+  accentcity: "Ihsüanchia"
 ihsuehhsia: 
   city: "ihsuehhsia"
-  accentcity: "Ihs\xC3\xBCehhsia"
+  accentcity: "Ihsüehhsia"
 ihsuehtsun: 
   city: "ihsuehtsun"
-  accentcity: "Ihs\xC3\xBCehtsun"
+  accentcity: "Ihsüehtsun"
 ijan: 
   city: "ijan"
   accentcity: "Ijan"
@@ -13505,7 +13505,7 @@ iwu:
   accentcity: "Iwu"
 iyuan: 
   city: "iyuan"
-  accentcity: "Iy\xC3\xBCan"
+  accentcity: "Iyüan"
 jaoping: 
   city: "jaoping"
   accentcity: "Jaoping"
@@ -13784,16 +13784,16 @@ juiyen:
   accentcity: "Juiyen"
 juiyuan: 
   city: "juiyuan"
-  accentcity: "Juiy\xC3\xBCan"
+  accentcity: "Juiyüan"
 juiyuanli: 
   city: "juiyuanli"
-  accentcity: "Juiy\xC3\xBCanli"
+  accentcity: "Juiyüanli"
 jungchia: 
   city: "jungchia"
   accentcity: "Jungchia"
 jungchuantsun: 
   city: "jungchuantsun"
-  accentcity: "Jungch\xC3\xBCantsun"
+  accentcity: "Jungchüantsun"
 jungho: 
   city: "jungho"
   accentcity: "Jungho"
@@ -13826,7 +13826,7 @@ jungtsun:
   accentcity: "Jungtsun"
 jungyuchihchia: 
   city: "jungyuchihchia"
-  accentcity: "Jungy\xC3\xBCchihchia"
+  accentcity: "Jungyüchihchia"
 kaai: 
   city: "kaai"
   accentcity: "Kaai"
@@ -13835,10 +13835,10 @@ kaichinshe:
   accentcity: "Kaichinshe"
 kaihsuan: 
   city: "kaihsuan"
-  accentcity: "Kaihs\xC3\xBCan"
+  accentcity: "Kaihsüan"
 kaihsuanli: 
   city: "kaihsuanli"
-  accentcity: "Kaihs\xC3\xBCanli"
+  accentcity: "Kaihsüanli"
 kaihuatsun: 
   city: "kaihuatsun"
   accentcity: "Kaihuatsun"
@@ -13853,13 +13853,13 @@ kaitzuliao:
   accentcity: "Kaitzuliao"
 kaiyuanhou: 
   city: "kaiyuanhou"
-  accentcity: "Kaiy\xC3\xBCanhou"
+  accentcity: "Kaiyüanhou"
 kaiyuankang: 
   city: "kaiyuankang"
-  accentcity: "Kaiy\xC3\xBCankang"
+  accentcity: "Kaiyüankang"
 kaiyuanssu: 
   city: "kaiyuanssu"
-  accentcity: "Kaiy\xC3\xBCanssu"
+  accentcity: "Kaiyüanssu"
 kakaoshihtsun: 
   city: "kakaoshihtsun"
   accentcity: "KaKaoshihtsun"
@@ -13913,7 +13913,7 @@ kanchetsun:
   accentcity: "Kanchetsun"
 kancheyuan: 
   city: "kancheyuan"
-  accentcity: "Kanchey\xC3\xBCan"
+  accentcity: "Kancheyüan"
 kanchiao (1): 
   city: "kanchiao (1)"
   accentcity: "Kanchiao (1)"
@@ -14018,7 +14018,7 @@ kanghsitsun:
   accentcity: "Kanghsitsun"
 kanghsuan: 
   city: "kanghsuan"
-  accentcity: "Kanghs\xC3\xBCan"
+  accentcity: "Kanghsüan"
 kangkang: 
   city: "kangkang"
   accentcity: "Kangkang"
@@ -14381,19 +14381,19 @@ kantzutoushe:
   accentcity: "Kantzutoushe"
 kantzuyuan: 
   city: "kantzuyuan"
-  accentcity: "Kantzuy\xC3\xBCan"
+  accentcity: "Kantzuyüan"
 kanweilun: 
   city: "kanweilun"
   accentcity: "Kanweilun"
 kanyuan: 
   city: "kanyuan"
-  accentcity: "Kany\xC3\xBCan"
+  accentcity: "Kanyüan"
 kanyuanli: 
   city: "kanyuanli"
-  accentcity: "Kany\xC3\xBCanli"
+  accentcity: "Kanyüanli"
 kanyuantsun: 
   city: "kanyuantsun"
-  accentcity: "Kany\xC3\xBCantsun"
+  accentcity: "Kanyüantsun"
 kaochiao: 
   city: "kaochiao"
   accentcity: "Kaochiao"
@@ -14591,7 +14591,7 @@ kaowanshe:
   accentcity: "Kaowanshe"
 kaoyuan: 
   city: "kaoyuan"
-  accentcity: "Kaoy\xC3\xBCan"
+  accentcity: "Kaoyüan"
 kapiyangshe: 
   city: "kapiyangshe"
   accentcity: "Kapiyangshe"
@@ -14609,7 +14609,7 @@ kashe:
   accentcity: "Kashe"
 kayulanshe: 
   city: "kayulanshe"
-  accentcity: "Kay\xC3\xBClanshe"
+  accentcity: "Kayülanshe"
 keelung: 
   city: "keelung"
   accentcity: "Keelung"
@@ -14756,7 +14756,7 @@ kochuangnei:
   accentcity: "Kochuangnei"
 kochuehkang: 
   city: "kochuehkang"
-  accentcity: "Koch\xC3\xBCehkang"
+  accentcity: "Kochüehkang"
 kohu: 
   city: "kohu"
   accentcity: "Kohu"
@@ -15044,10 +15044,10 @@ kouyai:
   accentcity: "Kouyai"
 kouyunkun: 
   city: "kouyunkun"
-  accentcity: "Kouy\xC3\xBCnkun"
+  accentcity: "Kouyünkun"
 kouyunyin: 
   city: "kouyunyin"
-  accentcity: "Kouy\xC3\xBCnyin"
+  accentcity: "Kouyünyin"
 kuaihuamen: 
   city: "kuaihuamen"
   accentcity: "Kuaihuamen"
@@ -15230,10 +15230,10 @@ kuangyin:
   accentcity: "Kuangyin"
 kuangyuan: 
   city: "kuangyuan"
-  accentcity: "Kuangy\xC3\xBCan"
+  accentcity: "Kuangyüan"
 kuangyuntsun: 
   city: "kuangyuntsun"
-  accentcity: "Kuangy\xC3\xBCntsun"
+  accentcity: "Kuangyüntsun"
 kuanho: 
   city: "kuanho"
   accentcity: "Kuanho"
@@ -15254,7 +15254,7 @@ kuanhsi:
   accentcity: "Kuanhsi"
 kuanhsutso: 
   city: "kuanhsutso"
-  accentcity: "Kuanhs\xC3\xBCtso"
+  accentcity: "Kuanhsütso"
 kuanjen: 
   city: "kuanjen"
   accentcity: "Kuanjen"
@@ -15383,13 +15383,13 @@ kuanyintung:
   accentcity: "Kuanyintung"
 kuanyuan: 
   city: "kuanyuan"
-  accentcity: "Kuany\xC3\xBCan"
+  accentcity: "Kuanyüan"
 kuanyukeng: 
   city: "kuanyukeng"
-  accentcity: "Kuany\xC3\xBCkeng"
+  accentcity: "Kuanyükeng"
 kuanyutso: 
   city: "kuanyutso"
-  accentcity: "Kuany\xC3\xBCtso"
+  accentcity: "Kuanyütso"
 kuashanli: 
   city: "kuashanli"
   accentcity: "Kuashanli"
@@ -15428,7 +15428,7 @@ kueichientou:
   accentcity: "Kueichientou"
 kueichueh: 
   city: "kueichueh"
-  accentcity: "Kueich\xC3\xBCeh"
+  accentcity: "Kueichüeh"
 kueichulin: 
   city: "kueichulin"
   accentcity: "Kueichulin"
@@ -15608,7 +15608,7 @@ kukulun:
   accentcity: "Kukulun"
 kukungpowuyuan: 
   city: "kukungpowuyuan"
-  accentcity: "Kukungpowuy\xC3\xBCan"
+  accentcity: "Kukungpowuyüan"
 kukutzu: 
   city: "kukutzu"
   accentcity: "Kukutzu"
@@ -15650,7 +15650,7 @@ kuloutsun:
   accentcity: "Kuloutsun"
 kulu: 
   city: "kulu"
-  accentcity: "Kul\xC3\xBC"
+  accentcity: "Kulü"
 kulun: 
   city: "kulun"
   accentcity: "Kulun"
@@ -15716,7 +15716,7 @@ kungchitsun:
   accentcity: "Kungchitsun"
 kungchuehyuan: 
   city: "kungchuehyuan"
-  accentcity: "Kungch\xC3\xBCehy\xC3\xBCan"
+  accentcity: "Kungchüehyüan"
 kungho: 
   city: "kungho"
   accentcity: "Kungho"
@@ -15869,7 +15869,7 @@ kunhsi:
   accentcity: "Kunhsi"
 kuninghsun: 
   city: "kuninghsun"
-  accentcity: "Kuninghs\xC3\xBCn"
+  accentcity: "Kuninghsün"
 kuning: 
   city: "kuning"
   accentcity: "Kuning"
@@ -15902,7 +15902,7 @@ kunshantsun:
   accentcity: "Kunshantsun"
 kunshenhaishuiyuchang: 
   city: "kunshenhaishuiyuchang"
-  accentcity: "Kunshenhaishuiy\xC3\xBCchang"
+  accentcity: "Kunshenhaishuiyüchang"
 kunshen: 
   city: "kunshen"
   accentcity: "Kunshen"
@@ -15971,19 +15971,19 @@ kuochitzu:
   accentcity: "Kuochitzu"
 kuochuan: 
   city: "kuochuan"
-  accentcity: "Kuoch\xC3\xBCan"
+  accentcity: "Kuochüan"
 kuochuanli: 
   city: "kuochuanli"
-  accentcity: "Kuoch\xC3\xBCanli"
+  accentcity: "Kuochüanli"
 kuochuantsun: 
   city: "kuochuantsun"
-  accentcity: "Kuoch\xC3\xBCantsun"
+  accentcity: "Kuochüantsun"
 kuochun: 
   city: "kuochun"
-  accentcity: "Kuoch\xC3\xBCn"
+  accentcity: "Kuochün"
 kuochuntsun: 
   city: "kuochuntsun"
-  accentcity: "Kuoch\xC3\xBCntsun"
+  accentcity: "Kuochüntsun"
 kuofang: 
   city: "kuofang"
   accentcity: "Kuofang"
@@ -16160,7 +16160,7 @@ kuotsenliao:
   accentcity: "Kuotsenliao"
 kuotsoyuan: 
   city: "kuotsoyuan"
-  accentcity: "Kuotsoy\xC3\xBCan"
+  accentcity: "Kuotsoyüan"
 kuotzulin: 
   city: "kuotzulin"
   accentcity: "Kuotzulin"
@@ -16178,7 +16178,7 @@ kuoyehwei:
   accentcity: "Kuoyehwei"
 kuoyuan: 
   city: "kuoyuan"
-  accentcity: "Kuoy\xC3\xBCan"
+  accentcity: "Kuoyüan"
 kupenchiao: 
   city: "kupenchiao"
   accentcity: "Kupenchiao"
@@ -16247,7 +16247,7 @@ kutzuliao:
   accentcity: "Kutzuliao"
 kutzulu: 
   city: "kutzulu"
-  accentcity: "Kutzul\xC3\xBC"
+  accentcity: "Kutzulü"
 kutzulun: 
   city: "kutzulun"
   accentcity: "Kutzulun"
@@ -16268,10 +16268,10 @@ kuyin:
   accentcity: "Kuyin"
 kuyuan: 
   city: "kuyuan"
-  accentcity: "Kuy\xC3\xBCan"
+  accentcity: "Kuyüan"
 kuyuantsun: 
   city: "kuyuantsun"
-  accentcity: "Kuy\xC3\xBCantsun"
+  accentcity: "Kuyüantsun"
 kveisuitsun: 
   city: "kveisuitsun"
   accentcity: "KveiSuiTsun"
@@ -16457,7 +16457,7 @@ lanyali:
   accentcity: "Lanyali"
 lanyu: 
   city: "lanyu"
-  accentcity: "Lany\xC3\xBC"
+  accentcity: "Lanyü"
 laochienkeng: 
   city: "laochienkeng"
   accentcity: "Laochienkeng"
@@ -16481,7 +16481,7 @@ laochingkeng:
   accentcity: "Laochingkeng"
 laochungyueh: 
   city: "laochungyueh"
-  accentcity: "Laochungy\xC3\xBCeh"
+  accentcity: "Laochungyüeh"
 laofantien: 
   city: "laofantien"
   accentcity: "Laofantien"
@@ -16493,7 +16493,7 @@ laohsi:
   accentcity: "Laohsi"
 laohsu: 
   city: "laohsu"
-  accentcity: "Laohs\xC3\xBC"
+  accentcity: "Laohsü"
 laohukou: 
   city: "laohukou"
   accentcity: "Laohukou"
@@ -16670,7 +16670,7 @@ leyeh:
   accentcity: "Leyeh"
 leyuan: 
   city: "leyuan"
-  accentcity: "Ley\xC3\xBCan"
+  accentcity: "Leyüan"
 liangchi: 
   city: "liangchi"
   accentcity: "Liangchi"
@@ -16820,7 +16820,7 @@ liehnei:
   accentcity: "Liehnei"
 liehyu: 
   city: "liehyu"
-  accentcity: "Liehy\xC3\xBC"
+  accentcity: "Liehyü"
 lienchiaotso: 
   city: "lienchiaotso"
   accentcity: "Lienchiaotso"
@@ -17009,7 +17009,7 @@ linao:
   accentcity: "Linao"
 linchiahuayuan: 
   city: "linchiahuayuan"
-  accentcity: "Linchiahuay\xC3\xBCan"
+  accentcity: "Linchiahuayüan"
 linchia: 
   city: "linchia"
   accentcity: "Linchia"
@@ -17045,7 +17045,7 @@ lingchi:
   accentcity: "Lingchi"
 lingchuanssu: 
   city: "lingchuanssu"
-  accentcity: "Lingch\xC3\xBCanssu"
+  accentcity: "Lingchüanssu"
 linghsiang: 
   city: "linghsiang"
   accentcity: "Linghsiang"
@@ -17198,7 +17198,7 @@ lintouwei:
   accentcity: "Lintouwei"
 lintouyuan: 
   city: "lintouyuan"
-  accentcity: "Lintouy\xC3\xBCan"
+  accentcity: "Lintouyüan"
 lintsokeng: 
   city: "lintsokeng"
   accentcity: "Lintsokeng"
@@ -17255,7 +17255,7 @@ linwei:
   accentcity: "Linwei"
 linyuan: 
   city: "linyuan"
-  accentcity: "Liny\xC3\xBCan"
+  accentcity: "Linyüan"
 lipa: 
   city: "lipa"
   accentcity: "Lipa"
@@ -17351,7 +17351,7 @@ litzunei:
   accentcity: "Litzunei"
 litzuyuan: 
   city: "litzuyuan"
-  accentcity: "Litzuy\xC3\xBCan"
+  accentcity: "Litzuyüan"
 liuao: 
   city: "liuao"
   accentcity: "Liuao"
@@ -17600,7 +17600,7 @@ liutouwei:
   accentcity: "Liutouwei"
 liutsaiyuan: 
   city: "liutsaiyuan"
-  accentcity: "Liutsaiy\xC3\xBCan"
+  accentcity: "Liutsaiyüan"
 liutsochuang: 
   city: "liutsochuang"
   accentcity: "Liutsochuang"
@@ -17654,34 +17654,34 @@ liyangtsun:
   accentcity: "Liyangtsun"
 liyuanliao: 
   city: "liyuanliao"
-  accentcity: "Liy\xC3\xBCanliao"
+  accentcity: "Liyüanliao"
 liyuan: 
   city: "liyuan"
-  accentcity: "Liy\xC3\xBCan"
+  accentcity: "Liyüan"
 liyukou: 
   city: "liyukou"
-  accentcity: "Liy\xC3\xBCkou"
+  accentcity: "Liyükou"
 liyuku: 
   city: "liyuku"
-  accentcity: "Liy\xC3\xBCku"
+  accentcity: "Liyüku"
 liyu shan: 
   city: "liyu shan"
-  accentcity: "Liy\xC3\xBC Shan"
+  accentcity: "Liyü Shan"
 liyushihhsia: 
   city: "liyushihhsia"
-  accentcity: "Liy\xC3\xBCshihhsia"
+  accentcity: "Liyüshihhsia"
 liyutan: 
   city: "liyutan"
-  accentcity: "Liy\xC3\xBCtan"
+  accentcity: "Liyütan"
 liyuwei: 
   city: "liyuwei"
-  accentcity: "Liy\xC3\xBCwei"
+  accentcity: "Liyüwei"
 lochia: 
   city: "lochia"
   accentcity: "Lochia"
 lochingchuan: 
   city: "lochingchuan"
-  accentcity: "Lochingch\xC3\xBCan"
+  accentcity: "Lochingchüan"
 lochuangli: 
   city: "lochuangli"
   accentcity: "Lochuangli"
@@ -17801,7 +17801,7 @@ loyehtsun:
   accentcity: "Loyehtsun"
 loyuan: 
   city: "loyuan"
-  accentcity: "Loy\xC3\xBCan"
+  accentcity: "Loyüan"
 luanshan: 
   city: "luanshan"
   accentcity: "Luanshan"
@@ -17819,7 +17819,7 @@ luchiachiassu:
   accentcity: "Luchiachiassu"
 luchia: 
   city: "luchia"
-  accentcity: "L\xC3\xBCchia"
+  accentcity: "Lüchia"
 luchiangchi: 
   city: "luchiangchi"
   accentcity: "Luchiangchi"
@@ -17837,10 +17837,10 @@ luchou:
   accentcity: "Luchou"
 luchuanli: 
   city: "luchuanli"
-  accentcity: "Luch\xC3\xBCanli"
+  accentcity: "Luchüanli"
 luchuan: 
   city: "luchuan"
-  accentcity: "L\xC3\xBCchuan"
+  accentcity: "Lüchuan"
 luchuchiao: 
   city: "luchuchiao"
   accentcity: "Luchuchiao"
@@ -17879,22 +17879,22 @@ luchutsun:
   accentcity: "Luchutsun"
 luchutzu: 
   city: "luchutzu"
-  accentcity: "Luch\xC3\xBCtzu"
+  accentcity: "Luchützu"
 luehnei: 
   city: "luehnei"
-  accentcity: "L\xC3\xBCehnei"
+  accentcity: "Lüehnei"
 luerhmen: 
   city: "luerhmen"
   accentcity: "Luerhmen"
 lufan: 
   city: "lufan"
-  accentcity: "L\xC3\xBCfan"
+  accentcity: "Lüfan"
 lufeng: 
   city: "lufeng"
-  accentcity: "L\xC3\xBCfeng"
+  accentcity: "Lüfeng"
 lufengtsun: 
   city: "lufengtsun"
-  accentcity: "L\xC3\xBCfengtsun"
+  accentcity: "Lüfengtsun"
 luhao: 
   city: "luhao"
   accentcity: "Luhao"
@@ -17903,7 +17903,7 @@ luhsingli:
   accentcity: "Luhsingli"
 luhsing: 
   city: "luhsing"
-  accentcity: "L\xC3\xBChsing"
+  accentcity: "Lühsing"
 luhu: 
   city: "luhu"
   accentcity: "Luhu"
@@ -17954,10 +17954,10 @@ lumachan:
   accentcity: "Lumachan"
 lumachiao: 
   city: "lumachiao"
-  accentcity: "L\xC3\xBCmachiao"
+  accentcity: "Lümachiao"
 lumanchueh: 
   city: "lumanchueh"
-  accentcity: "Lumanch\xC3\xBCeh"
+  accentcity: "Lumanchüeh"
 luman: 
   city: "luman"
   accentcity: "Luman"
@@ -17972,7 +17972,7 @@ luming:
   accentcity: "Luming"
 lumotzu: 
   city: "lumotzu"
-  accentcity: "L\xC3\xBCmotzu"
+  accentcity: "Lümotzu"
 lunan: 
   city: "lunan"
   accentcity: "Lunan"
@@ -18053,25 +18053,25 @@ lungchuang:
   accentcity: "LungChuang"
 lungchuanli: 
   city: "lungchuanli"
-  accentcity: "Lungch\xC3\xBCanli"
+  accentcity: "Lungchüanli"
 lungchuan: 
   city: "lungchuan"
-  accentcity: "Lungch\xC3\xBCan"
+  accentcity: "Lungchüan"
 lungchuanshe: 
   city: "lungchuanshe"
-  accentcity: "Lungch\xC3\xBCanshe"
+  accentcity: "Lungchüanshe"
 lungchuanshui: 
   city: "lungchuanshui"
-  accentcity: "Lungch\xC3\xBCanshui"
+  accentcity: "Lungchüanshui"
 lungchuantsun: 
   city: "lungchuantsun"
-  accentcity: "Lungch\xC3\xBCantsun"
+  accentcity: "Lungchüantsun"
 lungchuanwo: 
   city: "lungchuanwo"
   accentcity: "Lungchuanwo"
 lungchueh: 
   city: "lungchueh"
-  accentcity: "Lungch\xC3\xBCeh"
+  accentcity: "Lungchüeh"
 lunghsihsin: 
   city: "lunghsihsin"
   accentcity: "Lunghsihsin"
@@ -18269,10 +18269,10 @@ lungyin:
   accentcity: "Lungyin"
 lungyuan: 
   city: "lungyuan"
-  accentcity: "Lungy\xC3\xBCan"
+  accentcity: "Lungyüan"
 lungyuantsun: 
   city: "lungyuantsun"
-  accentcity: "Lungy\xC3\xBCantsun"
+  accentcity: "Lungyüantsun"
 lunhou: 
   city: "lunhou"
   accentcity: "Lunhou"
@@ -18446,10 +18446,10 @@ lushan:
   accentcity: "Lushan"
 lushanwenchuan: 
   city: "lushanwenchuan"
-  accentcity: "Lushanwench\xC3\xBCan"
+  accentcity: "Lushanwenchüan"
 lushui: 
   city: "lushui"
-  accentcity: "L\xC3\xBCshui"
+  accentcity: "Lüshui"
 lussuhsiu: 
   city: "lussuhsiu"
   accentcity: "Lussuhsiu"
@@ -18458,10 +18458,10 @@ lussuyu:
   accentcity: "LuSsuYu"
 lutaohsiang: 
   city: "lutaohsiang"
-  accentcity: "L\xC3\xBCtaohsiang"
+  accentcity: "Lütaohsiang"
 lutao: 
   city: "lutao"
-  accentcity: "L\xC3\xBCtao"
+  accentcity: "Lütao"
 lutaoyang: 
   city: "lutaoyang"
   accentcity: "Lutaoyang"
@@ -18569,7 +18569,7 @@ machukeng:
   accentcity: "Machukeng"
 machuyuan: 
   city: "machuyuan"
-  accentcity: "Machuy\xC3\xBCan"
+  accentcity: "Machuyüan"
 maerh: 
   city: "maerh"
   accentcity: "Maerh"
@@ -18608,7 +18608,7 @@ maifupingshe:
   accentcity: "Maifupingshe"
 maihsutso: 
   city: "maihsutso"
-  accentcity: "Maihs\xC3\xBCtso"
+  accentcity: "Maihsütso"
 mailiao: 
   city: "mailiao"
   accentcity: "Mailiao"
@@ -18632,7 +18632,7 @@ maitsotsun:
   accentcity: "Maitsotsun"
 maiyutso: 
   city: "maiyutso"
-  accentcity: "Maiy\xC3\xBCtso"
+  accentcity: "Maiyütso"
 majuchuang: 
   city: "majuchuang"
   accentcity: "Majuchuang"
@@ -18803,7 +18803,7 @@ maoerhting:
   accentcity: "Maoerhting"
 maoerhyu: 
   city: "maoerhyu"
-  accentcity: "Maoerhy\xC3\xBC"
+  accentcity: "Maoerhyü"
 maohsiehhang: 
   city: "maohsiehhang"
   accentcity: "Maohsiehhang"
@@ -18812,7 +18812,7 @@ maohsiehhsing:
   accentcity: "Maohsiehhsing"
 maohsiehhsueh: 
   city: "maohsiehhsueh"
-  accentcity: "Maohsiehhs\xC3\xBCeh"
+  accentcity: "Maohsiehhsüeh"
 maohsingtien: 
   city: "maohsingtien"
   accentcity: "Maohsingtien"
@@ -18908,7 +18908,7 @@ maoweichi:
   accentcity: "Maoweichi"
 maoyu: 
   city: "maoyu"
-  accentcity: "Maoy\xC3\xBC"
+  accentcity: "Maoyü"
 mapihao: 
   city: "mapihao"
   accentcity: "Mapihao"
@@ -19037,28 +19037,28 @@ mayatsun:
   accentcity: "Mayatsun"
 mayuangkeng: 
   city: "mayuangkeng"
-  accentcity: "May\xC3\xBCangkeng"
+  accentcity: "Mayüangkeng"
 mayuankeng: 
   city: "mayuankeng"
-  accentcity: "May\xC3\xBCankeng"
+  accentcity: "Mayüankeng"
 mayuanliao: 
   city: "mayuanliao"
-  accentcity: "May\xC3\xBCanliao"
+  accentcity: "Mayüanliao"
 mayuan: 
   city: "mayuan"
-  accentcity: "May\xC3\xBCan"
+  accentcity: "Mayüan"
 mayuantou: 
   city: "mayuantou"
-  accentcity: "May\xC3\xBCantou"
+  accentcity: "Mayüantou"
 mayuantsun: 
   city: "mayuantsun"
-  accentcity: "May\xC3\xBCantsun"
+  accentcity: "Mayüantsun"
 mayuantu: 
   city: "mayuantu"
-  accentcity: "May\xC3\xBCantu"
+  accentcity: "Mayüantu"
 mayuliao: 
   city: "mayuliao"
-  accentcity: "May\xC3\xBCliao"
+  accentcity: "Mayüliao"
 mayutzuliao: 
   city: "mayutzuliao"
   accentcity: "Mayutzuliao"
@@ -19109,7 +19109,7 @@ meihsi:
   accentcity: "Meihsi"
 meihsu: 
   city: "meihsu"
-  accentcity: "Meihs\xC3\xBC"
+  accentcity: "Meihsü"
 meihuatsun: 
   city: "meihuatsun"
   accentcity: "Meihuatsun"
@@ -19229,7 +19229,7 @@ meitzutsotsun:
   accentcity: "MeiTzuTsoTsun"
 meitzuyuan: 
   city: "meitzuyuan"
-  accentcity: "Meitzuy\xC3\xBCan"
+  accentcity: "Meitzuyüan"
 meiyatsun: 
   city: "meiyatsun"
   accentcity: "Meiyatsun"
@@ -19238,16 +19238,16 @@ meiyenshan:
   accentcity: "Meiyenshan"
 meiyuan: 
   city: "meiyuan"
-  accentcity: "Meiy\xC3\xBCan"
+  accentcity: "Meiyüan"
 meiyuantsun: 
   city: "meiyuantsun"
-  accentcity: "Meiy\xC3\xBCantsun"
+  accentcity: "Meiyüantsun"
 meiyuehli: 
   city: "meiyuehli"
-  accentcity: "Meiy\xC3\xBCehli"
+  accentcity: "Meiyüehli"
 meiyueh: 
   city: "meiyueh"
-  accentcity: "Meiy\xC3\xBCeh"
+  accentcity: "Meiyüeh"
 mengcheng: 
   city: "mengcheng"
   accentcity: "Mengcheng"
@@ -19349,7 +19349,7 @@ mientzupu:
   accentcity: "Mientzupu"
 mienyueh: 
   city: "mienyueh"
-  accentcity: "Mieny\xC3\xBCeh"
+  accentcity: "Mienyüeh"
 mifenkuan: 
   city: "mifenkuan"
   accentcity: "Mifenkuan"
@@ -19406,13 +19406,13 @@ minchingtsun:
   accentcity: "Minchingtsun"
 minchuanhsintsun: 
   city: "minchuanhsintsun"
-  accentcity: "Minch\xC3\xBCanhsintsun"
+  accentcity: "Minchüanhsintsun"
 minchuan: 
   city: "minchuan"
-  accentcity: "Minch\xC3\xBCan"
+  accentcity: "Minchüan"
 minchuantsun: 
   city: "minchuantsun"
-  accentcity: "Minch\xC3\xBCantsun"
+  accentcity: "Minchüantsun"
 mingchengli: 
   city: "mingchengli"
   accentcity: "Mingchengli"
@@ -19424,7 +19424,7 @@ mingchihtsun:
   accentcity: "Mingchihtsun"
 mingchuantsun: 
   city: "mingchuantsun"
-  accentcity: "Mingch\xC3\xBCantsun"
+  accentcity: "Mingchüantsun"
 mingfa: 
   city: "mingfa"
   accentcity: "Mingfa"
@@ -19520,7 +19520,7 @@ mipokeng:
   accentcity: "Mipokeng"
 mishihyuan: 
   city: "mishihyuan"
-  accentcity: "Mishihy\xC3\xBCan"
+  accentcity: "Mishihyüan"
 mitochuang: 
   city: "mitochuang"
   accentcity: "Mitochuang"
@@ -19568,7 +19568,7 @@ motzutsun:
   accentcity: "Motzutsun"
 motzutunyuan: 
   city: "motzutunyuan"
-  accentcity: "Motzutuny\xC3\xBCan"
+  accentcity: "Motzutunyüan"
 mouchifulatangshe: 
   city: "mouchifulatangshe"
   accentcity: "Mouchifulatangshe"
@@ -19577,7 +19577,7 @@ moukopupulushe:
   accentcity: "Moukopupulushe"
 moyuanlu: 
   city: "moyuanlu"
-  accentcity: "Moy\xC3\xBCanlu"
+  accentcity: "Moyüanlu"
 msishan: 
   city: "msishan"
   accentcity: "Msishan"
@@ -19592,7 +19592,7 @@ muchiliao:
   accentcity: "Muchiliao"
 muhsuanchuang: 
   city: "muhsuanchuang"
-  accentcity: "Muhs\xC3\xBCanchuang"
+  accentcity: "Muhsüanchuang"
 muichuang: 
   city: "muichuang"
   accentcity: "Muichuang"
@@ -19622,7 +19622,7 @@ mulin:
   accentcity: "Mulin"
 mululan: 
   city: "mululan"
-  accentcity: "Mul\xC3\xBClan"
+  accentcity: "Mulülan"
 mushaliao: 
   city: "mushaliao"
   accentcity: "Mushaliao"
@@ -19775,7 +19775,7 @@ nanchu:
   accentcity: "Nanchu"
 nanchun: 
   city: "nanchun"
-  accentcity: "Nanch\xC3\xBCn"
+  accentcity: "Nanchün"
 nanchutsun: 
   city: "nanchutsun"
   accentcity: "Nanchutsun"
@@ -20282,10 +20282,10 @@ nanyenshe:
   accentcity: "Nanyenshe"
 nanyuan: 
   city: "nanyuan"
-  accentcity: "Nany\xC3\xBCan"
+  accentcity: "Nanyüan"
 nanyuehmei: 
   city: "nanyuehmei"
-  accentcity: "Nany\xC3\xBCehmei"
+  accentcity: "Nanyüehmei"
 naokuan: 
   city: "naokuan"
   accentcity: "Naokuan"
@@ -20672,10 +20672,10 @@ neiyen:
   accentcity: "Neiyen"
 neiyuanshan: 
   city: "neiyuanshan"
-  accentcity: "Neiy\xC3\xBCanshan"
+  accentcity: "Neiyüanshan"
 neiyuchih: 
   city: "neiyuchih"
-  accentcity: "Neiy\xC3\xBCchih"
+  accentcity: "Neiyüchih"
 nengtung: 
   city: "nengtung"
   accentcity: "Nengtung"
@@ -20696,7 +20696,7 @@ niaochuwei:
   accentcity: "Niaochuwei"
 niaochuyuan: 
   city: "niaochuyuan"
-  accentcity: "Niaochuy\xC3\xBCan"
+  accentcity: "Niaochuyüan"
 niaohsiu: 
   city: "niaohsiu"
   accentcity: "Niaohsiu"
@@ -20726,7 +20726,7 @@ niaotsun:
   accentcity: "Niaotsun"
 niaoyutsun: 
   city: "niaoyutsun"
-  accentcity: "Niaoy\xC3\xBCtsun"
+  accentcity: "Niaoyütsun"
 nichiaotzu: 
   city: "nichiaotzu"
   accentcity: "Nichiaotzu"
@@ -20951,7 +20951,7 @@ niuwutsun:
   accentcity: "Niuwutsun"
 niuyunku: 
   city: "niuyunku"
-  accentcity: "Niuy\xC3\xBCnku"
+  accentcity: "Niuyünku"
 nivpu: 
   city: "nivpu"
   accentcity: "Nivpu"
@@ -21308,16 +21308,16 @@ paiyen:
   accentcity: "Paiyen"
 paiyuankeng: 
   city: "paiyuankeng"
-  accentcity: "Paiy\xC3\xBCankeng"
+  accentcity: "Paiyüankeng"
 paiyunssu: 
   city: "paiyunssu"
-  accentcity: "Paiy\xC3\xBCnssu"
+  accentcity: "Paiyünssu"
 paiyu: 
   city: "paiyu"
-  accentcity: "Paiy\xC3\xBC"
+  accentcity: "Paiyü"
 paiyutsun: 
   city: "paiyutsun"
-  accentcity: "Paiy\xC3\xBCtsun"
+  accentcity: "Paiyütsun"
 pakuaichuang: 
   city: "pakuaichuang"
   accentcity: "Pakuaichuang"
@@ -21374,7 +21374,7 @@ palaoyeh:
   accentcity: "Palaoyeh"
 palaoyu: 
   city: "palaoyu"
-  accentcity: "Palaoy\xC3\xBC"
+  accentcity: "Palaoyü"
 palashe: 
   city: "palashe"
   accentcity: "Palashe"
@@ -21605,7 +21605,7 @@ panyalin:
   accentcity: "Panyalin"
 panyuch: 
   city: "panyuch"
-  accentcity: "Pany\xC3\xBCch"
+  accentcity: "Panyüch"
 paoanlin: 
   city: "paoanlin"
   accentcity: "Paoanlin"
@@ -21653,7 +21653,7 @@ paochuang:
   accentcity: "Paochuang"
 paochuan: 
   city: "paochuan"
-  accentcity: "Paoch\xC3\xBCan"
+  accentcity: "Paochüan"
 paochukou: 
   city: "paochukou"
   accentcity: "Paochukou"
@@ -21734,7 +21734,7 @@ paoshih:
   accentcity: "Paoshih"
 paoshuichuan: 
   city: "paoshuichuan"
-  accentcity: "Paoshuich\xC3\xBCan"
+  accentcity: "Paoshuichüan"
 paotoujen: 
   city: "paotoujen"
   accentcity: "Paotoujen"
@@ -21770,7 +21770,7 @@ paotzulun:
   accentcity: "Paotzulun"
 paotzuyuan: 
   city: "paotzuyuan"
-  accentcity: "Paotzuy\xC3\xBCan"
+  accentcity: "Paotzuyüan"
 paowei: 
   city: "paowei"
   accentcity: "Paowei"
@@ -21779,10 +21779,10 @@ papahsien:
   accentcity: "Papahsien"
 papaochuan: 
   city: "papaochuan"
-  accentcity: "Papaoch\xC3\xBCan"
+  accentcity: "Papaochüan"
 papaochun: 
   city: "papaochun"
-  accentcity: "Papaoch\xC3\xBCn"
+  accentcity: "Papaochün"
 papao: 
   city: "papao"
   accentcity: "Papao"
@@ -21938,7 +21938,7 @@ payo:
   accentcity: "Payo"
 payuankeng: 
   city: "payuankeng"
-  accentcity: "Pay\xC3\xBCankeng"
+  accentcity: "Payüankeng"
 peian: 
   city: "peian"
   accentcity: "Peian"
@@ -22007,10 +22007,10 @@ peichuangtzu:
   accentcity: "Peichuangtzu"
 peichuan: 
   city: "peichuan"
-  accentcity: "Peich\xC3\xBCan"
+  accentcity: "Peichüan"
 peichun: 
   city: "peichun"
-  accentcity: "Peich\xC3\xBCn"
+  accentcity: "Peichün"
 peichu: 
   city: "peichu"
   accentcity: "Peichu"
@@ -22169,7 +22169,7 @@ peinantsun:
   accentcity: "Peinantsun"
 peinanyuchang: 
   city: "peinanyuchang"
-  accentcity: "Peinany\xC3\xBCchang"
+  accentcity: "Peinanyüchang"
 peipeishihliao: 
   city: "peipeishihliao"
   accentcity: "Peipeishihliao"
@@ -22394,16 +22394,16 @@ peiyehtsun:
   accentcity: "Peiyehtsun"
 peiyuanli: 
   city: "peiyuanli"
-  accentcity: "Peiy\xC3\xBCanli"
+  accentcity: "Peiyüanli"
 peiyuan: 
   city: "peiyuan"
-  accentcity: "Peiy\xC3\xBCan"
+  accentcity: "Peiyüan"
 peiyuantsun: 
   city: "peiyuantsun"
-  accentcity: "Peiy\xC3\xBCantsun"
+  accentcity: "Peiyüantsun"
 peiyuehmei: 
   city: "peiyuehmei"
-  accentcity: "Peiy\xC3\xBCehmei"
+  accentcity: "Peiyüehmei"
 penchiang: 
   city: "penchiang"
   accentcity: "Penchiang"
@@ -22490,7 +22490,7 @@ pengpi:
   accentcity: "Pengpi"
 pengpochueh: 
   city: "pengpochueh"
-  accentcity: "Pengpoch\xC3\xBCeh"
+  accentcity: "Pengpochüeh"
 pengpohsia: 
   city: "pengpohsia"
   accentcity: "Pengpohsia"
@@ -22580,7 +22580,7 @@ pentzukang:
   accentcity: "Pentzukang"
 penyuanliao: 
   city: "penyuanliao"
-  accentcity: "Peny\xC3\xBCanliao"
+  accentcity: "Penyüanliao"
 pichang: 
   city: "pichang"
   accentcity: "Pichang"
@@ -22877,10 +22877,10 @@ pingyenshanshe:
   accentcity: "Pingyenshanshe"
 pingyuan: 
   city: "pingyuan"
-  accentcity: "Pingy\xC3\xBCan"
+  accentcity: "Pingyüan"
 pingyuantsun: 
   city: "pingyuantsun"
-  accentcity: "Pingy\xC3\xBCantsun"
+  accentcity: "Pingyüantsun"
 pingyungwei: 
   city: "pingyungwei"
   accentcity: "Pingyungwei"
@@ -23066,7 +23066,7 @@ piyumashe:
   accentcity: "Piyumashe"
 piyunssu: 
   city: "piyunssu"
-  accentcity: "Piy\xC3\xBCnssu"
+  accentcity: "Piyünssu"
 poai: 
   city: "poai"
   accentcity: "Poai"
@@ -23204,7 +23204,7 @@ poyenan:
   accentcity: "Poyenan"
 puchanyuan: 
   city: "puchanyuan"
-  accentcity: "Puchany\xC3\xBCan"
+  accentcity: "Puchanyüan"
 pucheng: 
   city: "pucheng"
   accentcity: "Pucheng"
@@ -23456,10 +23456,10 @@ puyentsun:
   accentcity: "Puyentsun"
 puyuan: 
   city: "puyuan"
-  accentcity: "Puy\xC3\xBCan"
+  accentcity: "Puyüan"
 puyuantsun: 
   city: "puyuantsun"
-  accentcity: "Puy\xC3\xBCantsun"
+  accentcity: "Puyüantsun"
 quemoyhsien: 
   city: "quemoyhsien"
   accentcity: "Quemoyhsien"
@@ -23663,7 +23663,7 @@ sanchou:
   accentcity: "Sanchou"
 sanchuantsun: 
   city: "sanchuantsun"
-  accentcity: "Sanch\xC3\xBCantsun"
+  accentcity: "Sanchüantsun"
 sanchuatzu: 
   city: "sanchuatzu"
   accentcity: "SanChuaTzu"
@@ -23696,7 +23696,7 @@ sanchungtsun:
   accentcity: "Sanchungtsun"
 sanchun: 
   city: "sanchun"
-  accentcity: "Sanch\xC3\xBCn"
+  accentcity: "Sanchün"
 sanchuntsun: 
   city: "sanchuntsun"
   accentcity: "Sanchuntsun"
@@ -23804,10 +23804,10 @@ sanhsingtsun:
   accentcity: "Sanhsingtsun"
 sanhsuanli: 
   city: "sanhsuanli"
-  accentcity: "Sanhs\xC3\xBCanli"
+  accentcity: "Sanhsüanli"
 sanhsuan: 
   city: "sanhsuan"
-  accentcity: "Sanhs\xC3\xBCan"
+  accentcity: "Sanhsüan"
 sanhu: 
   city: "sanhu"
   accentcity: "Sanhu"
@@ -23891,7 +23891,7 @@ sankueitso:
   accentcity: "Sankueitso"
 sankungchuan: 
   city: "sankungchuan"
-  accentcity: "Sankungch\xC3\xBCan"
+  accentcity: "Sankungchüan"
 sankungli: 
   city: "sankungli"
   accentcity: "Sankungli"
@@ -23942,7 +23942,7 @@ sanlotsun:
   accentcity: "Sanlotsun"
 sanluerh: 
   city: "sanluerh"
-  accentcity: "Sanl\xC3\xBCerh"
+  accentcity: "Sanlüerh"
 sanluli: 
   city: "sanluli"
   accentcity: "Sanluli"
@@ -23963,7 +23963,7 @@ sanlu:
   accentcity: "Sanlu"
 sanlutsun: 
   city: "sanlutsun"
-  accentcity: "Sanl\xC3\xBCtsun"
+  accentcity: "Sanlütsun"
 sanmei: 
   city: "sanmei"
   accentcity: "Sanmei"
@@ -24092,10 +24092,10 @@ santetsun:
   accentcity: "Santetsun"
 santiaochuan: 
   city: "santiaochuan"
-  accentcity: "Santiaoch\xC3\xBCan"
+  accentcity: "Santiaochüan"
 santiaochun: 
   city: "santiaochun"
-  accentcity: "Santiaoch\xC3\xBCn"
+  accentcity: "Santiaochün"
 santiaokeng: 
   city: "santiaokeng"
   accentcity: "Santiaokeng"
@@ -24113,10 +24113,10 @@ santiaolun:
   accentcity: "Santiaolun"
 santiaolunyuchiang: 
   city: "santiaolunyuchiang"
-  accentcity: "Santiaoluny\xC3\xBCchiang"
+  accentcity: "Santiaolunyüchiang"
 santiaolunyukang: 
   city: "santiaolunyukang"
-  accentcity: "Santiaoluny\xC3\xBCkang"
+  accentcity: "Santiaolunyükang"
 santiao: 
   city: "santiao"
   accentcity: "Santiao"
@@ -24266,10 +24266,10 @@ shachitsun:
   accentcity: "Shachitsun"
 shachuankeng: 
   city: "shachuankeng"
-  accentcity: "Shach\xC3\xBCankeng"
+  accentcity: "Shachüankeng"
 shachuntsun: 
   city: "shachuntsun"
-  accentcity: "Shach\xC3\xBCntsun"
+  accentcity: "Shachüntsun"
 shahsi: 
   city: "shahsi"
   accentcity: "Shahsi"
@@ -24530,7 +24530,7 @@ shangchuwei:
   accentcity: "Shangchuwei"
 shangchuyuan: 
   city: "shangchuyuan"
-  accentcity: "Shangchuy\xC3\xBCan"
+  accentcity: "Shangchuyüan"
 shangfan: 
   city: "shangfan"
   accentcity: "Shangfan"
@@ -24623,7 +24623,7 @@ shangkengtzukou:
   accentcity: "Shangkengtzukou"
 shangkengyu: 
   city: "shangkengyu"
-  accentcity: "Shangkengy\xC3\xBC"
+  accentcity: "Shangkengyü"
 shangkouliao: 
   city: "shangkouliao"
   accentcity: "Shangkouliao"
@@ -24677,7 +24677,7 @@ shangluliao:
   accentcity: "Shangluliao"
 shanglungchuan: 
   city: "shanglungchuan"
-  accentcity: "Shanglungch\xC3\xBCan"
+  accentcity: "Shanglungchüan"
 shanglun: 
   city: "shanglun"
   accentcity: "Shanglun"
@@ -24773,7 +24773,7 @@ shangshuiching:
   accentcity: "Shangshuiching"
 shangshuichuan: 
   city: "shangshuichuan"
-  accentcity: "Shangshuich\xC3\xBCan"
+  accentcity: "Shangshuichüan"
 shangshushan: 
   city: "shangshushan"
   accentcity: "Shangshushan"
@@ -24815,7 +24815,7 @@ shangtao:
   accentcity: "Shangtao"
 shangtao wenchuan: 
   city: "shangtao wenchuan"
-  accentcity: "Shangtao Wench\xC3\xBCan"
+  accentcity: "Shangtao Wenchüan"
 shangtawo: 
   city: "shangtawo"
   accentcity: "Shangtawo"
@@ -24887,10 +24887,10 @@ shangyinyingwo:
   accentcity: "Shangyinyingwo"
 shangyuanlin: 
   city: "shangyuanlin"
-  accentcity: "Shangy\xC3\xBCanlin"
+  accentcity: "Shangyüanlin"
 shangyuehmei: 
   city: "shangyuehmei"
-  accentcity: "Shangy\xC3\xBCehmei"
+  accentcity: "Shangyüehmei"
 shangyunghsing: 
   city: "shangyunghsing"
   accentcity: "Shangyunghsing"
@@ -25127,13 +25127,13 @@ shanyangtung:
   accentcity: "Shanyangtung"
 shanyuan: 
   city: "shanyuan"
-  accentcity: "Shany\xC3\xBCan"
+  accentcity: "Shanyüan"
 shanyuantantzu: 
   city: "shanyuantantzu"
-  accentcity: "Shany\xC3\xBCantantzu"
+  accentcity: "Shanyüantantzu"
 shanyuantsun: 
   city: "shanyuantsun"
-  accentcity: "Shany\xC3\xBCantsun"
+  accentcity: "Shanyüantsun"
 shaoanli: 
   city: "shaoanli"
   accentcity: "Shaoanli"
@@ -25178,7 +25178,7 @@ shaolai:
   accentcity: "Shaolai"
 shaonienfuyuyuan: 
   city: "shaonienfuyuyuan"
-  accentcity: "Shaonienfuy\xC3\xBCyu\xC3\xA4n"
+  accentcity: "Shaonienfuyüyu\xC3\xA4n"
 shaoshui: 
   city: "shaoshui"
   accentcity: "Shaoshui"
@@ -25220,13 +25220,13 @@ shatzutien:
   accentcity: "Shatzutien"
 shatzuyuan: 
   city: "shatzuyuan"
-  accentcity: "Shatzuy\xC3\xBCan"
+  accentcity: "Shatzuyüan"
 shawatzu: 
   city: "shawatzu"
   accentcity: "Shawatzu"
 shaweichueh: 
   city: "shaweichueh"
-  accentcity: "Shaweich\xC3\xBCeh"
+  accentcity: "Shaweichüeh"
 shaweiku: 
   city: "shaweiku"
   accentcity: "Shaweiku"
@@ -25361,16 +25361,16 @@ shenchoutsun:
   accentcity: "Shenchoutsun"
 shenchuanlun: 
   city: "shenchuanlun"
-  accentcity: "Shench\xC3\xBCanlun"
+  accentcity: "Shenchüanlun"
 shenchuan: 
   city: "shenchuan"
-  accentcity: "Shench\xC3\xBCan"
+  accentcity: "Shenchüan"
 shenchunlun: 
   city: "shenchunlun"
-  accentcity: "Shench\xC3\xBCnlun"
+  accentcity: "Shenchünlun"
 shenchun: 
   city: "shenchun"
-  accentcity: "Shench\xC3\xBCn"
+  accentcity: "Shenchün"
 shenei: 
   city: "shenei"
   accentcity: "Shenei"
@@ -25439,7 +25439,7 @@ shengwangchihsia:
   accentcity: "Shengwangchihsia"
 shengyuan: 
   city: "shengyuan"
-  accentcity: "Shengy\xC3\xBCan"
+  accentcity: "Shengyüan"
 shenhsi: 
   city: "shenhsi"
   accentcity: "Shenhsi"
@@ -25658,10 +25658,10 @@ shihchotzu:
   accentcity: "Shihchotzu"
 shihchuanli: 
   city: "shihchuanli"
-  accentcity: "Shihch\xC3\xBCanli"
+  accentcity: "Shihchüanli"
 shihchuanshe: 
   city: "shihchuanshe"
-  accentcity: "Shihch\xC3\xBCanshe"
+  accentcity: "Shihchüanshe"
 shihchuan: 
   city: "shihchuan"
   accentcity: "Shihchuan"
@@ -25736,10 +25736,10 @@ shihhsi:
   accentcity: "Shihhsi"
 shihhsuehli: 
   city: "shihhsuehli"
-  accentcity: "Shihhs\xC3\xBCehli"
+  accentcity: "Shihhsüehli"
 shihhsunchien: 
   city: "shihhsunchien"
-  accentcity: "ShihHs\xC3\xBCnChien"
+  accentcity: "ShihHsünChien"
 shihhuikeng: 
   city: "shihhuikeng"
   accentcity: "Shihhuikeng"
@@ -26357,10 +26357,10 @@ shihweichiang:
   accentcity: "Shihweichiang"
 shihweichu: 
   city: "shihweichu"
-  accentcity: "Shihweich\xC3\xBC"
+  accentcity: "Shihweichü"
 shihweichutzu: 
   city: "shihweichutzu"
-  accentcity: "Shihweich\xC3\xBCtzu"
+  accentcity: "Shihweichützu"
 shihwei: 
   city: "shihwei"
   accentcity: "Shihwei"
@@ -26420,13 +26420,13 @@ shihying:
   accentcity: "Shihying"
 shihyuan: 
   city: "shihyuan"
-  accentcity: "Shihy\xC3\xBCan"
+  accentcity: "Shihyüan"
 shihyuantsun: 
   city: "shihyuantsun"
-  accentcity: "Shihy\xC3\xBCantsun"
+  accentcity: "Shihyüantsun"
 shihyusan: 
   city: "shihyusan"
-  accentcity: "Shihy\xC3\xBCsan"
+  accentcity: "Shihyüsan"
 shinshihmen: 
   city: "shinshihmen"
   accentcity: "Shinshihmen"
@@ -26480,10 +26480,10 @@ shoutsun:
   accentcity: "Shoutsun"
 shouyuan: 
   city: "shouyuan"
-  accentcity: "Shouy\xC3\xBCan"
+  accentcity: "Shouyüan"
 shouyuantsun: 
   city: "shouyuantsun"
-  accentcity: "Shouy\xC3\xBCantsun"
+  accentcity: "Shouyüantsun"
 shuaihou: 
   city: "shuaihou"
   accentcity: "Shuaihou"
@@ -26681,7 +26681,7 @@ shuangwantan:
   accentcity: "Shuangwantan"
 shuangyuan: 
   city: "shuangyuan"
-  accentcity: "Shuangy\xC3\xBCan"
+  accentcity: "Shuangyüan"
 shuchiao: 
   city: "shuchiao"
   accentcity: "Shuchiao"
@@ -26690,10 +26690,10 @@ shuchiaotsun:
   accentcity: "Shuchiaotsun"
 shuchuan: 
   city: "shuchuan"
-  accentcity: "Shuch\xC3\xBCan"
+  accentcity: "Shuchüan"
 shuchun: 
   city: "shuchun"
-  accentcity: "Shuch\xC3\xBCn"
+  accentcity: "Shuchün"
 shufang: 
   city: "shufang"
   accentcity: "Shufang"
@@ -26768,16 +26768,16 @@ shuichoutou:
   accentcity: "Shuichoutou"
 shuichuanchuang: 
   city: "shuichuanchuang"
-  accentcity: "Shuich\xC3\xBCanchuang"
+  accentcity: "Shuichüanchuang"
 shuichuanli: 
   city: "shuichuanli"
-  accentcity: "Shuich\xC3\xBCanli"
+  accentcity: "Shuichüanli"
 shuichuan: 
   city: "shuichuan"
-  accentcity: "Shuich\xC3\xBCan"
+  accentcity: "Shuichüan"
 shuichueh: 
   city: "shuichueh"
-  accentcity: "Shuich\xC3\xBCeh"
+  accentcity: "Shuichüeh"
 shuichui: 
   city: "shuichui"
   accentcity: "Shuichui"
@@ -26786,7 +26786,7 @@ shuichuitsun:
   accentcity: "Shuichuitsun"
 shuichuntou: 
   city: "shuichuntou"
-  accentcity: "Shuich\xC3\xBCntou"
+  accentcity: "Shuichüntou"
 shuichu: 
   city: "shuichu"
   accentcity: "Shuichu"
@@ -26813,7 +26813,7 @@ shuihsien:
   accentcity: "Shuihsien"
 shuihsutzu: 
   city: "shuihsutzu"
-  accentcity: "Shuihs\xC3\xBCtzu"
+  accentcity: "Shuihsützu"
 shuihuotung: 
   city: "shuihuotung"
   accentcity: "Shuihuotung"
@@ -27026,7 +27026,7 @@ shuitzuwei:
   accentcity: "Shuitzuwei"
 shuiwachueh: 
   city: "shuiwachueh"
-  accentcity: "Shuiwach\xC3\xBCeh"
+  accentcity: "Shuiwachüeh"
 shuiwaku: 
   city: "shuiwaku"
   accentcity: "Shuiwaku"
@@ -27062,16 +27062,16 @@ shuiwenchan:
   accentcity: "Shuiwenchan"
 shuiyuanli: 
   city: "shuiyuanli"
-  accentcity: "Shuiy\xC3\xBCanli"
+  accentcity: "Shuiyüanli"
 shuiyuan: 
   city: "shuiyuan"
-  accentcity: "Shuiy\xC3\xBCan"
+  accentcity: "Shuiyüan"
 shuiyuanti: 
   city: "shuiyuanti"
-  accentcity: "Shuiy\xC3\xBCanti"
+  accentcity: "Shuiyüanti"
 shuiyuantsun: 
   city: "shuiyuantsun"
-  accentcity: "Shuiy\xC3\xBCantsun"
+  accentcity: "Shuiyüantsun"
 shuiyungli: 
   city: "shuiyungli"
   accentcity: "Shuiyungli"
@@ -27080,7 +27080,7 @@ shuiyutso:
   accentcity: "Shuiyutso"
 shuiyutzu: 
   city: "shuiyutzu"
-  accentcity: "Shuiy\xC3\xBCtzu"
+  accentcity: "Shuiyützu"
 shukang: 
   city: "shukang"
   accentcity: "Shukang"
@@ -27170,7 +27170,7 @@ shutoupu:
   accentcity: "Shutoupu"
 shutsoliao: 
   city: "shutsoliao"
-  accentcity: "Sh\xC3\xBCtsoliao"
+  accentcity: "Shütsoliao"
 shutzuchiao: 
   city: "shutzuchiao"
   accentcity: "Shutzuchiao"
@@ -27188,7 +27188,7 @@ shuwangtsun:
   accentcity: "Shuwangtsun"
 shuyuan: 
   city: "shuyuan"
-  accentcity: "Shuy\xC3\xBCan"
+  accentcity: "Shuyüan"
 sokangli: 
   city: "sokangli"
   accentcity: "Sokangli"
@@ -27278,7 +27278,7 @@ ssuchun:
   accentcity: "Ssuchun"
 ssuchu: 
   city: "ssuchu"
-  accentcity: "Ssuch\xC3\xBC"
+  accentcity: "Ssuchü"
 ssufanglinshe: 
   city: "ssufanglinshe"
   accentcity: "Ssufanglinshe"
@@ -27386,7 +27386,7 @@ ssulintsun:
   accentcity: "Ssulintsun"
 ssului: 
   city: "ssului"
-  accentcity: "Ssul\xC3\xBCi"
+  accentcity: "Ssulüi"
 ssululashe: 
   city: "ssululashe"
   accentcity: "Ssululashe"
@@ -27497,16 +27497,16 @@ ssuwo:
   accentcity: "Ssuwo"
 ssuyuanchiao: 
   city: "ssuyuanchiao"
-  accentcity: "Ssuy\xC3\xBCanchiao"
+  accentcity: "Ssuyüanchiao"
 ssuyuanli: 
   city: "ssuyuanli"
-  accentcity: "Ssuy\xC3\xBCanli"
+  accentcity: "Ssuyüanli"
 ssuyuan: 
   city: "ssuyuan"
-  accentcity: "Ssuy\xC3\xBCan"
+  accentcity: "Ssuyüan"
 ssuyuanyakou: 
   city: "ssuyuanyakou"
-  accentcity: "Ssuy\xC3\xBCanyakou"
+  accentcity: "Ssuyüanyakou"
 suankanhu: 
   city: "suankanhu"
   accentcity: "Suankanhu"
@@ -27545,7 +27545,7 @@ suhsi:
   accentcity: "Suhsi"
 suiyutsun: 
   city: "suiyutsun"
-  accentcity: "Suiy\xC3\xBCtsun"
+  accentcity: "Suiyütsun"
 sulao: 
   city: "sulao"
   accentcity: "Sulao"
@@ -27677,7 +27677,7 @@ sungwutsun:
   accentcity: "Sungwutsun"
 sungyuan: 
   city: "sungyuan"
-  accentcity: "Sungy\xC3\xBCan"
+  accentcity: "Sungyüan"
 sunhua: 
   city: "sunhua"
   accentcity: "SunHua"
@@ -27710,7 +27710,7 @@ sutungli:
   accentcity: "Sutungli"
 sutzuyuan: 
   city: "sutzuyuan"
-  accentcity: "Sutzuy\xC3\xBCan"
+  accentcity: "Sutzuyüan"
 svayehpi: 
   city: "svayehpi"
   accentcity: "Svayehpi"
@@ -27785,7 +27785,7 @@ tachenitsun:
   accentcity: "Tachenitsun"
 tachiachu: 
   city: "tachiachu"
-  accentcity: "Tachiach\xC3\xBC"
+  accentcity: "Tachiachü"
 tachialiaoshe: 
   city: "tachialiaoshe"
   accentcity: "Tachialiaoshe"
@@ -27806,10 +27806,10 @@ tachiangtsun:
   accentcity: "TaChiangTsun"
 tachiaochuan: 
   city: "tachiaochuan"
-  accentcity: "Tachiaoch\xC3\xBCan"
+  accentcity: "Tachiaochüan"
 tachiaochun: 
   city: "tachiaochun"
-  accentcity: "Tachiaoch\xC3\xBCn"
+  accentcity: "Tachiaochün"
 tachiaohsienlin: 
   city: "tachiaohsienlin"
   accentcity: "Tachiaohsienlin"
@@ -27947,7 +27947,7 @@ tachiutsun:
   accentcity: "Tachiutsun"
 tachiuyuan: 
   city: "tachiuyuan"
-  accentcity: "Tachiuy\xC3\xBCan"
+  accentcity: "Tachiuyüan"
 tachiwei: 
   city: "tachiwei"
   accentcity: "Tachiwei"
@@ -27989,25 +27989,25 @@ tachuangtsun:
   accentcity: "Tachuangtsun"
 tachuan: 
   city: "tachuan"
-  accentcity: "Tach\xC3\xBCan"
+  accentcity: "Tachüan"
 tachuantsun: 
   city: "tachuantsun"
-  accentcity: "Tach\xC3\xBCantsun"
+  accentcity: "Tachüantsun"
 tachuchuang: 
   city: "tachuchuang"
   accentcity: "Tachuchuang"
 tachuehli: 
   city: "tachuehli"
-  accentcity: "Tach\xC3\xBCehli"
+  accentcity: "Tachüehli"
 tachuehshanlinchang: 
   city: "tachuehshanlinchang"
-  accentcity: "Tach\xC3\xBCehshanlinchang"
+  accentcity: "Tachüehshanlinchang"
 tachueh: 
   city: "tachueh"
-  accentcity: "Tach\xC3\xBCeh"
+  accentcity: "Tachüeh"
 tachuehwei: 
   city: "tachuehwei"
-  accentcity: "Tach\xC3\xBCehwei"
+  accentcity: "Tachüehwei"
 tachukaoshan: 
   city: "tachukaoshan"
   accentcity: "Tachukaoshan"
@@ -28016,7 +28016,7 @@ tachukeng:
   accentcity: "Tachukeng"
 tachulai: 
   city: "tachulai"
-  accentcity: "Tach\xC3\xBClai"
+  accentcity: "Tachülai"
 tachulin: 
   city: "tachulin"
   accentcity: "Tachulin"
@@ -28055,13 +28055,13 @@ tachuwei:
   accentcity: "Tachuwei"
 tachuyuan (1): 
   city: "tachuyuan (1)"
-  accentcity: "Tachuy\xC3\xBCan (1)"
+  accentcity: "Tachuyüan (1)"
 tachuyuan (2): 
   city: "tachuyuan (2)"
-  accentcity: "Tachuy\xC3\xBCan (2)"
+  accentcity: "Tachuyüan (2)"
 tachuyuan: 
   city: "tachuyuan"
-  accentcity: "Tachuy\xC3\xBCan"
+  accentcity: "Tachuyüan"
 tafanlieh: 
   city: "tafanlieh"
   accentcity: "Tafanlieh"
@@ -28181,19 +28181,19 @@ tahsiwei:
   accentcity: "Tahsiwei"
 tahsuehshanlinchang: 
   city: "tahsuehshanlinchang"
-  accentcity: "Tahs\xC3\xBCehshanlinchang"
+  accentcity: "Tahsüehshanlinchang"
 tahsueh: 
   city: "tahsueh"
-  accentcity: "Tahs\xC3\xBCeh"
+  accentcity: "Tahsüeh"
 tahsuehtsun: 
   city: "tahsuehtsun"
-  accentcity: "Tahs\xC3\xBCehtsun"
+  accentcity: "Tahsüehtsun"
 tahsushe: 
   city: "tahsushe"
-  accentcity: "Tahs\xC3\xBCshe"
+  accentcity: "Tahsüshe"
 tahsu: 
   city: "tahsu"
-  accentcity: "Tahs\xC3\xBC"
+  accentcity: "Tahsü"
 tahu (1): 
   city: "tahu (1)"
   accentcity: "Tahu (1)"
@@ -28508,19 +28508,19 @@ taiyenhsintun:
   accentcity: "Taiyenhsintun"
 taiyuansuitao: 
   city: "taiyuansuitao"
-  accentcity: "Taiy\xC3\xBCansuitao"
+  accentcity: "Taiyüansuitao"
 taiyuan: 
   city: "taiyuan"
-  accentcity: "Taiy\xC3\xBCan"
+  accentcity: "Taiyüan"
 taiyuantsun: 
   city: "taiyuantsun"
-  accentcity: "Taiy\xC3\xBCantsun"
+  accentcity: "Taiyüantsun"
 taiyuanyuanyeh: 
   city: "taiyuanyuanyeh"
-  accentcity: "Taiy\xC3\xBCany\xC3\xBCanyeh"
+  accentcity: "Taiyüanyüanyeh"
 taiyuku: 
   city: "taiyuku"
-  accentcity: "Taiy\xC3\xBCku"
+  accentcity: "Taiyüku"
 tajaoli: 
   city: "tajaoli"
   accentcity: "Tajaoli"
@@ -28736,7 +28736,7 @@ talatalan:
   accentcity: "Talatalan"
 talayuan: 
   city: "talayuan"
-  accentcity: "Talay\xC3\xBCan"
+  accentcity: "Talayüan"
 taliaokeng: 
   city: "taliaokeng"
   accentcity: "Taliaokeng"
@@ -29315,10 +29315,10 @@ taotzuchiao:
   accentcity: "Taotzuchiao"
 taotzuyuankeng: 
   city: "taotzuyuankeng"
-  accentcity: "Taotzuy\xC3\xBCankeng"
+  accentcity: "Taotzuyüankeng"
 taotzuyuan: 
   city: "taotzuyuan"
-  accentcity: "Taotzuy\xC3\xBCan"
+  accentcity: "Taotzuyüan"
 taoyehchuang: 
   city: "taoyehchuang"
   accentcity: "Taoyehchuang"
@@ -29327,22 +29327,22 @@ taoyeh:
   accentcity: "Taoyeh"
 taoyuanchen: 
   city: "taoyuanchen"
-  accentcity: "Taoy\xC3\xBCanchen"
+  accentcity: "Taoyüanchen"
 taoyuanchieh: 
   city: "taoyuanchieh"
-  accentcity: "Taoy\xC3\xBCanchieh"
+  accentcity: "Taoyüanchieh"
 taoyuanhsien: 
   city: "taoyuanhsien"
-  accentcity: "Taoy\xC3\xBCanhsien"
+  accentcity: "Taoyüanhsien"
 taoyuanli: 
   city: "taoyuanli"
-  accentcity: "Taoy\xC3\xBCanli"
+  accentcity: "Taoyüanli"
 taoyuan: 
   city: "taoyuan"
-  accentcity: "Taoy\xC3\xBCan"
+  accentcity: "Taoyüan"
 taoyuantsun: 
   city: "taoyuantsun"
-  accentcity: "Taoy\xC3\xBCantsun"
+  accentcity: "Taoyüantsun"
 tapachiassu: 
   city: "tapachiassu"
   accentcity: "Tapachiassu"
@@ -29423,7 +29423,7 @@ tapei:
   accentcity: "Tapei"
 tapeiyuan: 
   city: "tapeiyuan"
-  accentcity: "Tapeiy\xC3\xBCan"
+  accentcity: "Tapeiyüan"
 tapengli: 
   city: "tapengli"
   accentcity: "Tapengli"
@@ -29540,7 +29540,7 @@ tapuwei:
   accentcity: "Tapuwei"
 tapuyuan: 
   city: "tapuyuan"
-  accentcity: "Tapuy\xC3\xBCan"
+  accentcity: "Tapuyüan"
 tasanchiaotan: 
   city: "tasanchiaotan"
   accentcity: "Tasanchiaotan"
@@ -29939,19 +29939,19 @@ tayinliao:
   accentcity: "Tayinliao"
 tayuanshe: 
   city: "tayuanshe"
-  accentcity: "Tay\xC3\xBCanshe"
+  accentcity: "Tayüanshe"
 tayuan: 
   city: "tayuan"
-  accentcity: "Tay\xC3\xBCan"
+  accentcity: "Tayüan"
 tayuantsun: 
   city: "tayuantsun"
-  accentcity: "Tay\xC3\xBCantsun"
+  accentcity: "Tayüantsun"
 tayukeng: 
   city: "tayukeng"
   accentcity: "Tayukeng"
 tayuling: 
   city: "tayuling"
-  accentcity: "Tay\xC3\xBCling"
+  accentcity: "Tayüling"
 tayungli: 
   city: "tayungli"
   accentcity: "Tayungli"
@@ -29966,10 +29966,10 @@ tayunhsintsun:
   accentcity: "Tayunhsintsun"
 tayu: 
   city: "tayu"
-  accentcity: "Tay\xC3\xBC"
+  accentcity: "Tayü"
 tayutsun: 
   city: "tayutsun"
-  accentcity: "Tay\xC3\xBCtsun"
+  accentcity: "Tayütsun"
 teanliao: 
   city: "teanliao"
   accentcity: "Teanliao"
@@ -30101,7 +30101,7 @@ teyangtsun:
   accentcity: "Teyangtsun"
 teyuan: 
   city: "teyuan"
-  accentcity: "Tey\xC3\xBCan"
+  accentcity: "Teyüan"
 tiaoching: 
   city: "tiaoching"
   accentcity: "Tiaoching"
@@ -30350,7 +30350,7 @@ tienliaoyang:
   accentcity: "Tienliaoyang"
 tienlohsueh: 
   city: "tienlohsueh"
-  accentcity: "Tienlohs\xC3\xBCeh"
+  accentcity: "Tienlohsüeh"
 tienloku: 
   city: "tienloku"
   accentcity: "Tienloku"
@@ -30530,7 +30530,7 @@ tienyangtzu:
   accentcity: "Tienyangtzu"
 tienyuan: 
   city: "tienyuan"
-  accentcity: "Tieny\xC3\xBCan"
+  accentcity: "Tienyüan"
 tierhchienchang: 
   city: "tierhchienchang"
   accentcity: "Tierhchienchang"
@@ -30911,7 +30911,7 @@ tinglankou:
   accentcity: "Tinglankou"
 tinglaohsu: 
   city: "tinglaohsu"
-  accentcity: "Tinglaohs\xC3\xBC"
+  accentcity: "Tinglaohsü"
 tinglewei: 
   city: "tinglewei"
   accentcity: "Tinglewei"
@@ -30983,7 +30983,7 @@ tingmulilan:
   accentcity: "Tingmulilan"
 tingmululan: 
   city: "tingmululan"
-  accentcity: "Tingmul\xC3\xBClan"
+  accentcity: "Tingmulülan"
 tingnanhsing: 
   city: "tingnanhsing"
   accentcity: "Tingnanhsing"
@@ -31115,7 +31115,7 @@ tingshihtzu:
   accentcity: "Tingshihtzu"
 tingshuichuan: 
   city: "tingshuichuan"
-  accentcity: "Tingshuich\xC3\xBCan"
+  accentcity: "Tingshuichüan"
 tingshuikutzu: 
   city: "tingshuikutzu"
   accentcity: "Tingshuikutzu"
@@ -31175,7 +31175,7 @@ tingtoutzu:
   accentcity: "Tingtoutzu"
 tingtsaiyuan: 
   city: "tingtsaiyuan"
-  accentcity: "Tingtsaiy\xC3\xBCan"
+  accentcity: "Tingtsaiyüan"
 tingtsaoti: 
   city: "tingtsaoti"
   accentcity: "Tingtsaoti"
@@ -31268,19 +31268,19 @@ tingying:
   accentcity: "Tingying"
 tingyuanhsintsun: 
   city: "tingyuanhsintsun"
-  accentcity: "Tingy\xC3\xBCanhsintsun"
+  accentcity: "Tingyüanhsintsun"
 tingyuanlin: 
   city: "tingyuanlin"
-  accentcity: "Tingy\xC3\xBCanlin"
+  accentcity: "Tingyüanlin"
 tingyuanli: 
   city: "tingyuanli"
-  accentcity: "TingY\xC3\xBCanLi"
+  accentcity: "TingYüanLi"
 tingyuchetzu: 
   city: "tingyuchetzu"
   accentcity: "Tingyuchetzu"
 tingyuliao: 
   city: "tingyuliao"
-  accentcity: "Tingy\xC3\xBCliao"
+  accentcity: "Tingyüliao"
 tingyungfeng: 
   city: "tingyungfeng"
   accentcity: "Tingyungfeng"
@@ -31409,7 +31409,7 @@ toucheng:
   accentcity: "Toucheng"
 toucheyuan: 
   city: "toucheyuan"
-  accentcity: "Touchey\xC3\xBCan"
+  accentcity: "Toucheyüan"
 touchiang: 
   city: "touchiang"
   accentcity: "Touchiang"
@@ -31760,19 +31760,19 @@ tsaiwen:
   accentcity: "Tsaiwen"
 tsaiyuanchiao: 
   city: "tsaiyuanchiao"
-  accentcity: "Tsaiy\xC3\xBCanchiao"
+  accentcity: "Tsaiyüanchiao"
 tsaiyuanhsiang: 
   city: "tsaiyuanhsiang"
-  accentcity: "Tsaiy\xC3\xBCanhsiang"
+  accentcity: "Tsaiyüanhsiang"
 tsaiyuanli: 
   city: "tsaiyuanli"
-  accentcity: "Tsaiy\xC3\xBCanli"
+  accentcity: "Tsaiyüanli"
 tsaiyuan: 
   city: "tsaiyuan"
-  accentcity: "Tsaiy\xC3\xBCan"
+  accentcity: "Tsaiyüan"
 tsaiyuliao: 
   city: "tsaiyuliao"
-  accentcity: "Tsaiy\xC3\xBCliao"
+  accentcity: "Tsaiyüliao"
 tsanglien: 
   city: "tsanglien"
   accentcity: "Tsanglien"
@@ -31958,7 +31958,7 @@ tsaoying:
   accentcity: "TsaoYing"
 tsaoyutan: 
   city: "tsaoyutan"
-  accentcity: "Tsaoy\xC3\xBCtan"
+  accentcity: "Tsaoyütan"
 tsejen: 
   city: "tsejen"
   accentcity: "Tsejen"
@@ -32138,10 +32138,10 @@ tsunjen:
   accentcity: "Tsunjen"
 tsunyuantsun: 
   city: "tsunyuantsun"
-  accentcity: "Tsuny\xC3\xBCantsun"
+  accentcity: "Tsunyüantsun"
 tsunyuan: 
   city: "tsunyuan"
-  accentcity: "Tsuny\xC3\xBCan"
+  accentcity: "Tsunyüan"
 tsushihhu: 
   city: "tsushihhu"
   accentcity: "Tsushihhu"
@@ -32213,7 +32213,7 @@ tuchuantou:
   accentcity: "Tuchuantou"
 tuchunying: 
   city: "tuchunying"
-  accentcity: "Tuch\xC3\xBCnying"
+  accentcity: "Tuchünying"
 tufan: 
   city: "tufan"
   accentcity: "Tufan"
@@ -32402,7 +32402,7 @@ tungchihsiang:
   accentcity: "Tungchihsiang"
 tungchihsu: 
   city: "tungchihsu"
-  accentcity: "TungChiHs\xC3\xBC"
+  accentcity: "TungChiHsü"
 tungchili: 
   city: "tungchili"
   accentcity: "Tungchili"
@@ -32447,13 +32447,13 @@ tungchuang:
   accentcity: "Tungchuang"
 tungchuantsun: 
   city: "tungchuantsun"
-  accentcity: "Tungch\xC3\xBCantsun"
+  accentcity: "Tungchüantsun"
 tungchulin: 
   city: "tungchulin"
   accentcity: "Tungchulin"
 tungchun: 
   city: "tungchun"
-  accentcity: "Tungch\xC3\xBCn"
+  accentcity: "Tungchün"
 tungfangli: 
   city: "tungfangli"
   accentcity: "Tungfangli"
@@ -32618,7 +32618,7 @@ tungkuo:
   accentcity: "Tungkuo"
 tunglachuan: 
   city: "tunglachuan"
-  accentcity: "Tunglach\xC3\xBCan"
+  accentcity: "Tunglachüan"
 tunglaitso: 
   city: "tunglaitso"
   accentcity: "Tunglaitso"
@@ -32666,7 +32666,7 @@ tungli:
   accentcity: "Tungli"
 tunglochuan: 
   city: "tunglochuan"
-  accentcity: "Tungloch\xC3\xBCan"
+  accentcity: "Tunglochüan"
 tunglotsun: 
   city: "tunglotsun"
   accentcity: "Tunglotsun"
@@ -32705,7 +32705,7 @@ tungpanchuang:
   accentcity: "Tungpanchuang"
 tungpanhsu: 
   city: "tungpanhsu"
-  accentcity: "Tungpanhs\xC3\xBC"
+  accentcity: "Tungpanhsü"
 tungpanku: 
   city: "tungpanku"
   accentcity: "Tungpanku"
@@ -32717,7 +32717,7 @@ tungpantou:
   accentcity: "Tungpantou"
 tungpanyu: 
   city: "tungpanyu"
-  accentcity: "Tungpany\xC3\xBC"
+  accentcity: "Tungpanyü"
 tungpaotsun: 
   city: "tungpaotsun"
   accentcity: "Tungpaotsun"
@@ -32969,22 +32969,22 @@ tungyao:
   accentcity: "Tungyao"
 tungyuanchieh: 
   city: "tungyuanchieh"
-  accentcity: "Tungy\xC3\xBCanchieh"
+  accentcity: "Tungyüanchieh"
 tungyuanli: 
   city: "tungyuanli"
-  accentcity: "Tungy\xC3\xBCanli"
+  accentcity: "Tungyüanli"
 tungyuantsun: 
   city: "tungyuantsun"
-  accentcity: "Tungy\xC3\xBCantsun"
+  accentcity: "Tungyüantsun"
 tungyuan: 
   city: "tungyuan"
-  accentcity: "Tungy\xC3\xBCan"
+  accentcity: "Tungyüan"
 tungyuehtsun: 
   city: "tungyuehtsun"
-  accentcity: "Tungy\xC3\xBCehtsun"
+  accentcity: "Tungyüehtsun"
 tungyueh: 
   city: "tungyueh"
-  accentcity: "Tungy\xC3\xBCeh"
+  accentcity: "Tungyüeh"
 tunhoutsun: 
   city: "tunhoutsun"
   accentcity: "Tunhoutsun"
@@ -33020,7 +33020,7 @@ tunying:
   accentcity: "Tunying"
 tunyuan: 
   city: "tunyuan"
-  accentcity: "Tuny\xC3\xBCan"
+  accentcity: "Tunyüan"
 tuochantzu: 
   city: "tuochantzu"
   accentcity: "TuoChanTzu"
@@ -33251,7 +33251,7 @@ tzuyao:
   accentcity: "Tzuyao"
 tzuyuan: 
   city: "tzuyuan"
-  accentcity: "Tzuy\xC3\xBCan"
+  accentcity: "Tzuyüan"
 tzuyutsun: 
   city: "tzuyutsun"
   accentcity: "Tzuyutsun"
@@ -33311,7 +33311,7 @@ waichung:
   accentcity: "Waichung"
 waichun: 
   city: "waichun"
-  accentcity: "Waich\xC3\xBCn"
+  accentcity: "Waichün"
 waichushuikou: 
   city: "waichushuikou"
   accentcity: "Waichushuikou"
@@ -33482,7 +33482,7 @@ waiwuchienliao:
   accentcity: "Waiwuchienliao"
 waiyuanshan: 
   city: "waiyuanshan"
-  accentcity: "Waiy\xC3\xBCanshan"
+  accentcity: "Waiyüanshan"
 wakoyachi: 
   city: "wakoyachi"
   accentcity: "Wakoyachi"
@@ -33539,7 +33539,7 @@ wanchiu:
   accentcity: "Wanchiu"
 wanchuan: 
   city: "wanchuan"
-  accentcity: "Wanch\xC3\xBCan"
+  accentcity: "Wanchüan"
 wanfengtsun: 
   city: "wanfengtsun"
   accentcity: "Wanfengtsun"
@@ -33569,7 +33569,7 @@ wangchia:
   accentcity: "Wangchia"
 wangchunliao: 
   city: "wangchunliao"
-  accentcity: "Wangch\xC3\xBCnliao"
+  accentcity: "Wangchünliao"
 wanghang: 
   city: "wanghang"
   accentcity: "Wanghang"
@@ -33620,7 +33620,7 @@ wanglaikeng:
   accentcity: "Wanglaikeng"
 wanglaiyuan: 
   city: "wanglaiyuan"
-  accentcity: "Wanglaiy\xC3\xBCan"
+  accentcity: "Wanglaiyüan"
 wangliaotsun: 
   city: "wangliaotsun"
   accentcity: "Wangliaotsun"
@@ -33707,7 +33707,7 @@ wangyeh:
   accentcity: "Wangyeh"
 wangyuanliao: 
   city: "wangyuanliao"
-  accentcity: "WangY\xC3\xBCanLiao"
+  accentcity: "WangYüanLiao"
 wanholi: 
   city: "wanholi"
   accentcity: "Wanholi"
@@ -33929,7 +33929,7 @@ wanya:
   accentcity: "Wanya"
 wanyuantzunei: 
   city: "wanyuantzunei"
-  accentcity: "Wany\xC3\xBCantzunei"
+  accentcity: "Wanyüantzunei"
 watsoli: 
   city: "watsoli"
   accentcity: "Watsoli"
@@ -34109,16 +34109,16 @@ wenchintsun:
   accentcity: "Wenchintsun"
 wenchuantsun: 
   city: "wenchuantsun"
-  accentcity: "Wench\xC3\xBCantsun"
+  accentcity: "Wenchüantsun"
 wenchuan: 
   city: "wenchuan"
-  accentcity: "Wench\xC3\xBCan"
+  accentcity: "Wenchüan"
 wenchuli: 
   city: "wenchuli"
-  accentcity: "Wench\xC3\xBCli"
+  accentcity: "Wenchüli"
 wen chu: 
   city: "wen chu"
-  accentcity: "Wen ch\xC3\xBC"
+  accentcity: "Wen chü"
 wenei: 
   city: "wenei"
   accentcity: "WeNei"
@@ -34136,7 +34136,7 @@ wengkung:
   accentcity: "Wengkung"
 wengkungyuan: 
   city: "wengkungyuan"
-  accentcity: "Wengkungy\xC3\xBCan"
+  accentcity: "Wengkungyüan"
 wengsheli: 
   city: "wengsheli"
   accentcity: "Wengsheli"
@@ -34148,10 +34148,10 @@ wengtzu:
   accentcity: "Wengtzu"
 wengyuantsun: 
   city: "wengyuantsun"
-  accentcity: "Wengy\xC3\xBCantsun"
+  accentcity: "Wengyüantsun"
 wengyuan: 
   city: "wengyuan"
-  accentcity: "Wengy\xC3\xBCan"
+  accentcity: "Wengyüan"
 wenhsientsun: 
   city: "wenhsientsun"
   accentcity: "Wenhsientsun"
@@ -34274,10 +34274,10 @@ wenyaliao:
   accentcity: "Wenyaliao"
 wenyuanliao: 
   city: "wenyuanliao"
-  accentcity: "Weny\xC3\xBCanliao"
+  accentcity: "Wenyüanliao"
 wenyuan: 
   city: "wenyuan"
-  accentcity: "Weny\xC3\xBCan"
+  accentcity: "Wenyüan"
 wolang: 
   city: "wolang"
   accentcity: "Wolang"
@@ -34397,7 +34397,7 @@ wuchi:
   accentcity: "Wuchi"
 wuchuancheng: 
   city: "wuchuancheng"
-  accentcity: "Wuch\xC3\xBCancheng"
+  accentcity: "Wuchüancheng"
 wuchuangtsun: 
   city: "wuchuangtsun"
   accentcity: "Wuchuangtsun"
@@ -34409,25 +34409,25 @@ wuchuang:
   accentcity: "Wuchuang"
 wuchuanli: 
   city: "wuchuanli"
-  accentcity: "Wuch\xC3\xBCanli"
+  accentcity: "Wuchüanli"
 wuchuantou: 
   city: "wuchuantou"
   accentcity: "Wuchuantou"
 wuchuantsun: 
   city: "wuchuantsun"
-  accentcity: "Wuch\xC3\xBCantsun"
+  accentcity: "Wuchüantsun"
 wuchuan: 
   city: "wuchuan"
-  accentcity: "Wuch\xC3\xBCan"
+  accentcity: "Wuchüan"
 wuchulin: 
   city: "wuchulin"
   accentcity: "Wuchulin"
 wuchuntsun: 
   city: "wuchuntsun"
-  accentcity: "Wuch\xC3\xBCntsun"
+  accentcity: "Wuchüntsun"
 wuchunying: 
   city: "wuchunying"
-  accentcity: "Wuch\xC3\xBCnying"
+  accentcity: "Wuchünying"
 wuchutzuchiao: 
   city: "wuchutzuchiao"
   accentcity: "Wuchutzuchiao"
@@ -34511,7 +34511,7 @@ wuhsi:
   accentcity: "Wuhsi"
 wuhsuantso: 
   city: "wuhsuantso"
-  accentcity: "Wuhs\xC3\xBCantso"
+  accentcity: "Wuhsüantso"
 wuhuatsun: 
   city: "wuhuatsun"
   accentcity: "Wuhuatsun"
@@ -34730,7 +34730,7 @@ wulo:
   accentcity: "Wulo"
 wuluehhsinchuang: 
   city: "wuluehhsinchuang"
-  accentcity: "Wul\xC3\xBCehhsinchuang"
+  accentcity: "Wulüehhsinchuang"
 wulukeng: 
   city: "wulukeng"
   accentcity: "Wulukeng"
@@ -34754,7 +34754,7 @@ wuma:
   accentcity: "Wuma"
 wumayuan: 
   city: "wumayuan"
-  accentcity: "Wumay\xC3\xBCan"
+  accentcity: "Wumayüan"
 wumeihkankeng: 
   city: "wumeihkankeng"
   accentcity: "Wumeihkankeng"
@@ -35057,13 +35057,13 @@ wuying:
   accentcity: "Wuying"
 wuyuantsun: 
   city: "wuyuantsun"
-  accentcity: "Wuy\xC3\xBCantsun"
+  accentcity: "Wuyüantsun"
 wuyuan: 
   city: "wuyuan"
-  accentcity: "Wuy\xC3\xBCan"
+  accentcity: "Wuyüan"
 wuyueh: 
   city: "wuyueh"
-  accentcity: "Wuy\xC3\xBCeh"
+  accentcity: "Wuyüeh"
 yahsingtsun: 
   city: "yahsingtsun"
   accentcity: "Yahsingtsun"
@@ -35198,7 +35198,7 @@ yangmei:
   accentcity: "Yangmei"
 yangmingshankuanlichu: 
   city: "yangmingshankuanlichu"
-  accentcity: "Yangmingshankuanlich\xC3\xBC"
+  accentcity: "Yangmingshankuanlichü"
 yangmingshan: 
   city: "yangmingshan"
   accentcity: "Yangmingshan"
@@ -35276,7 +35276,7 @@ yaotienkou:
   accentcity: "Yaotienkou"
 yaotsaoyuan: 
   city: "yaotsaoyuan"
-  accentcity: "Yaotsaoy\xC3\xBCan"
+  accentcity: "Yaotsaoyüan"
 yaotso: 
   city: "yaotso"
   accentcity: "Yaotso"
@@ -35519,7 +35519,7 @@ yenyin:
   accentcity: "Yenyin"
 yenyuan: 
   city: "yenyuan"
-  accentcity: "Yeny\xC3\xBCan"
+  accentcity: "Yenyüan"
 yenyungshe: 
   city: "yenyungshe"
   accentcity: "Yenyungshe"
@@ -35591,7 +35591,7 @@ yingpan:
   accentcity: "Yingpan"
 yingpanyuan: 
   city: "yingpanyuan"
-  accentcity: "Yingpany\xC3\xBCan"
+  accentcity: "Yingpanyüan"
 yingpeili: 
   city: "yingpeili"
   accentcity: "Yingpeili"
@@ -35639,196 +35639,196 @@ yinting:
   accentcity: "Yinting"
 yuanchang: 
   city: "yuanchang"
-  accentcity: "Y\xC3\xBCanchang"
+  accentcity: "Yüanchang"
 yuanchaochung: 
   city: "yuanchaochung"
-  accentcity: "Y\xC3\xBCanchaochung"
+  accentcity: "Yüanchaochung"
 yuanchaoliao: 
   city: "yuanchaoliao"
-  accentcity: "Y\xC3\xBCanchaoliao"
+  accentcity: "Yüanchaoliao"
 yuanchaoyu: 
   city: "yuanchaoyu"
-  accentcity: "Y\xC3\xBCanchaoyu"
+  accentcity: "Yüanchaoyu"
 yuancheng: 
   city: "yuancheng"
-  accentcity: "Y\xC3\xBCancheng"
+  accentcity: "Yüancheng"
 yuanchuangkeng: 
   city: "yuanchuangkeng"
-  accentcity: "Y\xC3\xBCanchuangkeng"
+  accentcity: "Yüanchuangkeng"
 yuanchuang: 
   city: "yuanchuang"
-  accentcity: "Y\xC3\xBCanchuang"
+  accentcity: "Yüanchuang"
 yuanchuantsun: 
   city: "yuanchuantsun"
-  accentcity: "Y\xC3\xBCanch\xC3\xBCantsun"
+  accentcity: "Yüanchüantsun"
 yuanchuan: 
   city: "yuanchuan"
-  accentcity: "Y\xC3\xBCanch\xC3\xBCan"
+  accentcity: "Yüanchüan"
 yuanchungchiang: 
   city: "yuanchungchiang"
-  accentcity: "Y\xC3\xBCanchungchiang"
+  accentcity: "Yüanchungchiang"
 yuanchungkang: 
   city: "yuanchungkang"
-  accentcity: "Y\xC3\xBCanchungkang"
+  accentcity: "Yüanchungkang"
 yuanfengtsun: 
   city: "yuanfengtsun"
-  accentcity: "Y\xC3\xBCanfengtsun"
+  accentcity: "Yüanfengtsun"
 yuangli: 
   city: "yuangli"
-  accentcity: "Y\xC3\xBCangli"
+  accentcity: "Yüangli"
 yuangwang: 
   city: "yuangwang"
-  accentcity: "Y\xC3\xBCangwang"
+  accentcity: "Yüangwang"
 yuankengli: 
   city: "yuankengli"
-  accentcity: "Y\xC3\xBCankengli"
+  accentcity: "Yüankengli"
 yuankoshih: 
   city: "yuankoshih"
-  accentcity: "Y\xC3\xBCankoshih"
+  accentcity: "Yüankoshih"
 yuankutzu: 
   city: "yuankutzu"
-  accentcity: "Y\xC3\xBCankutzu"
+  accentcity: "Yüankutzu"
 yuanliaokou: 
   city: "yuanliaokou"
-  accentcity: "Y\xC3\xBCanliaokou"
+  accentcity: "Yüanliaokou"
 yuanliaotsun: 
   city: "yuanliaotsun"
-  accentcity: "Y\xC3\xBCanliaotsun"
+  accentcity: "Yüanliaotsun"
 yuanliao: 
   city: "yuanliao"
-  accentcity: "Y\xC3\xBCanliao"
+  accentcity: "Yüanliao"
 yuanlichen: 
   city: "yuanlichen"
-  accentcity: "Y\xC3\xBCanlichen"
+  accentcity: "Yüanlichen"
 yuanlichiang: 
   city: "yuanlichiang"
-  accentcity: "Y\xC3\xBCanlichiang"
+  accentcity: "Yüanlichiang"
 yuanlichuang: 
   city: "yuanlichuang"
-  accentcity: "Y\xC3\xBCanlichuang"
+  accentcity: "Yüanlichuang"
 yuanlikang: 
   city: "yuanlikang"
-  accentcity: "Y\xC3\xBCanlikang"
+  accentcity: "Yüanlikang"
 yuanlikeng: 
   city: "yuanlikeng"
-  accentcity: "Y\xC3\xBCanlikeng"
+  accentcity: "Yüanlikeng"
 yuanlingtsun: 
   city: "yuanlingtsun"
-  accentcity: "Y\xC3\xBCanlingtsun"
+  accentcity: "Yüanlingtsun"
 yuanlinkeng: 
   city: "yuanlinkeng"
-  accentcity: "Y\xC3\xBCanlinkeng"
+  accentcity: "Yüanlinkeng"
 yuanlinli: 
   city: "yuanlinli"
-  accentcity: "Y\xC3\xBCanlinli"
+  accentcity: "Yüanlinli"
 yuanlintsun: 
   city: "yuanlintsun"
-  accentcity: "Y\xC3\xBCanlintsun"
+  accentcity: "Yüanlintsun"
 yuanlin: 
   city: "yuanlin"
-  accentcity: "Y\xC3\xBCanlin"
+  accentcity: "Yüanlin"
 yuanli: 
   city: "yuanli"
-  accentcity: "Y\xC3\xBCanli"
+  accentcity: "Yüanli"
 yuannei: 
   city: "yuannei"
-  accentcity: "Y\xC3\xBCannei"
+  accentcity: "Yüannei"
 yuanpeitsun: 
   city: "yuanpeitsun"
-  accentcity: "Y\xC3\xBCanpeitsun"
+  accentcity: "Yüanpeitsun"
 yuanpen: 
   city: "yuanpen"
-  accentcity: "Y\xC3\xBCanpen"
+  accentcity: "Yüanpen"
 yuanpili: 
   city: "yuanpili"
-  accentcity: "Y\xC3\xBCanpili"
+  accentcity: "Yüanpili"
 yuanputsun: 
   city: "yuanputsun"
-  accentcity: "Y\xC3\xBCanputsun"
+  accentcity: "Yüanputsun"
 yuanpu: 
   city: "yuanpu"
-  accentcity: "Y\xC3\xBCanpu"
+  accentcity: "Yüanpu"
 yuanshangchuang: 
   city: "yuanshangchuang"
-  accentcity: "Y\xC3\xBCanshangchuang"
+  accentcity: "Yüanshangchuang"
 yuanshanli: 
   city: "yuanshanli"
-  accentcity: "Y\xC3\xBCanshanli"
+  accentcity: "Yüanshanli"
 yuanshanting: 
   city: "yuanshanting"
-  accentcity: "Y\xC3\xBCanshanting"
+  accentcity: "Yüanshanting"
 yuanshantsun: 
   city: "yuanshantsun"
-  accentcity: "Y\xC3\xBCanshantsun"
+  accentcity: "Yüanshantsun"
 yuanshantzu: 
   city: "yuanshantzu"
-  accentcity: "Y\xC3\xBCanshantzu"
+  accentcity: "Yüanshantzu"
 yuanshan: 
   city: "yuanshan"
-  accentcity: "Y\xC3\xBCanshan"
+  accentcity: "Yüanshan"
 yuanshulin: 
   city: "yuanshulin"
-  accentcity: "Y\xC3\xBCanshulin"
+  accentcity: "Yüanshulin"
 yuantantzukeng: 
   city: "yuantantzukeng"
-  accentcity: "Y\xC3\xBCantantzukeng"
+  accentcity: "Yüantantzukeng"
 yuantantzu: 
   city: "yuantantzu"
-  accentcity: "Y\xC3\xBCantantzu"
+  accentcity: "Yüantantzu"
 yuantan: 
   city: "yuantan"
-  accentcity: "Y\xC3\xBCantan"
+  accentcity: "Yüantan"
 yuantoutsun: 
   city: "yuantoutsun"
-  accentcity: "Y\xC3\xBCantoutsun"
+  accentcity: "Yüantoutsun"
 yuantou: 
   city: "yuantou"
-  accentcity: "Y\xC3\xBCantou"
+  accentcity: "Yüantou"
 yuantungli: 
   city: "yuantungli"
-  accentcity: "Y\xC3\xBCantungli"
+  accentcity: "Yüantungli"
 yuantungssu: 
   city: "yuantungssu"
-  accentcity: "Y\xC3\xBCantungssu"
+  accentcity: "Yüantungssu"
 yuantungtzu: 
   city: "yuantungtzu"
-  accentcity: "Y\xC3\xBCantungtzu"
+  accentcity: "Yüantungtzu"
 yuantung: 
   city: "yuantung"
-  accentcity: "Y\xC3\xBCantung"
+  accentcity: "Yüantung"
 yuantuntzu: 
   city: "yuantuntzu"
-  accentcity: "Y\xC3\xBCantuntzu"
+  accentcity: "Yüantuntzu"
 yuantun: 
   city: "yuantun"
-  accentcity: "Y\xC3\xBCantun"
+  accentcity: "Yüantun"
 yuantzucheng: 
   city: "yuantzucheng"
-  accentcity: "Y\xC3\xBCantzucheng"
+  accentcity: "Yüantzucheng"
 yuantzunei: 
   city: "yuantzunei"
-  accentcity: "Y\xC3\xBCantzunei"
+  accentcity: "Yüantzunei"
 yuantzunie: 
   city: "yuantzunie"
-  accentcity: "Y\xC3\xBCantzunie"
+  accentcity: "Yüantzunie"
 yuanwangkeng: 
   city: "yuanwangkeng"
-  accentcity: "Y\xC3\xBCanwangkeng"
+  accentcity: "Yüanwangkeng"
 yuanwengtso: 
   city: "yuanwengtso"
-  accentcity: "Y\xC3\xBCanwengtso"
+  accentcity: "Yüanwengtso"
 yuanwuts: 
   city: "yuanwuts"
-  accentcity: "Y\xC3\xBCanwuts"
+  accentcity: "Yüanwuts"
 yuanyin: 
   city: "yuanyin"
-  accentcity: "Y\xC3\xBCanyin"
+  accentcity: "Yüanyin"
 yuchang: 
   city: "yuchang"
   accentcity: "Yuchang"
 yuchaokeng: 
   city: "yuchaokeng"
-  accentcity: "Y\xC3\xBCchaokeng"
+  accentcity: "Yüchaokeng"
 yuchechiang: 
   city: "yuchechiang"
   accentcity: "Yuchechiang"
@@ -35846,16 +35846,16 @@ yuchekou:
   accentcity: "Yuchekou"
 yuchengli: 
   city: "yuchengli"
-  accentcity: "Y\xC3\xBCchengli"
+  accentcity: "Yüchengli"
 yucheng: 
   city: "yucheng"
-  accentcity: "Y\xC3\xBCcheng"
+  accentcity: "Yücheng"
 yuchenkeng: 
   city: "yuchenkeng"
-  accentcity: "Y\xC3\xBCchenkeng"
+  accentcity: "Yüchenkeng"
 yuchenlin: 
   city: "yuchenlin"
-  accentcity: "Y\xC3\xBCchenlin"
+  accentcity: "Yüchenlin"
 yuchetien: 
   city: "yuchetien"
   accentcity: "Yuchetien"
@@ -35873,214 +35873,214 @@ yuche:
   accentcity: "Yuche"
 yuchiang: 
   city: "yuchiang"
-  accentcity: "Y\xC3\xBCchiang"
+  accentcity: "Yüchiang"
 yuchiehtzu: 
   city: "yuchiehtzu"
-  accentcity: "Y\xC3\xBCchiehtzu"
+  accentcity: "Yüchiehtzu"
 yuchihhsiang: 
   city: "yuchihhsiang"
-  accentcity: "Y\xC3\xBCchihhsiang"
+  accentcity: "Yüchihhsiang"
 yuchihtzu: 
   city: "yuchihtzu"
-  accentcity: "Y\xC3\xBCchihtzu"
+  accentcity: "Yüchihtzu"
 yuchih: 
   city: "yuchih"
-  accentcity: "Y\xC3\xBCchih"
+  accentcity: "Yüchih"
 yuchingchuang: 
   city: "yuchingchuang"
-  accentcity: "Y\xC3\xBCchingchuang"
+  accentcity: "Yüchingchuang"
 yuchingtsun: 
   city: "yuchingtsun"
-  accentcity: "Y\xC3\xBCchingtsun"
+  accentcity: "Yüchingtsun"
 yuching: 
   city: "yuching"
-  accentcity: "Y\xC3\xBCching"
+  accentcity: "Yüching"
 yuchouhu: 
   city: "yuchouhu"
-  accentcity: "Y\xC3\xBCchouhu"
+  accentcity: "Yüchouhu"
 yuchuantsun: 
   city: "yuchuantsun"
-  accentcity: "Y\xC3\xBCch\xC3\xBCantsun"
+  accentcity: "Yüchüantsun"
 yuchung: 
   city: "yuchung"
   accentcity: "Yuchung"
 yuehchinashe: 
   city: "yuehchinashe"
-  accentcity: "Y\xC3\xBCehchinashe"
+  accentcity: "Yüehchinashe"
 yuehfuishe: 
   city: "yuehfuishe"
-  accentcity: "Y\xC3\xBCehfuishe"
+  accentcity: "Yüehfuishe"
 yuehfunishe: 
   city: "yuehfunishe"
-  accentcity: "Y\xC3\xBCehfunishe"
+  accentcity: "Yüehfunishe"
 yuehhu: 
   city: "yuehhu"
-  accentcity: "Y\xC3\xBCehhu"
+  accentcity: "Yüehhu"
 yuehmeili: 
   city: "yuehmeili"
-  accentcity: "Y\xC3\xBCehmeili"
+  accentcity: "Yüehmeili"
 yuehmeishanhsia: 
   city: "yuehmeishanhsia"
-  accentcity: "Y\xC3\xBCehmeishanhsia"
+  accentcity: "Yüehmeishanhsia"
 yuehmeitan: 
   city: "yuehmeitan"
-  accentcity: "Y\xC3\xBCehmeitan"
+  accentcity: "Yüehmeitan"
 yuehmeitso: 
   city: "yuehmeitso"
-  accentcity: "Y\xC3\xBCehmeitso"
+  accentcity: "Yüehmeitso"
 yuehmeitsun: 
   city: "yuehmeitsun"
-  accentcity: "Y\xC3\xBCehmeitsun"
+  accentcity: "Yüehmeitsun"
 yuehmei: 
   city: "yuehmei"
-  accentcity: "Y\xC3\xBCehmei"
+  accentcity: "Yüehmei"
 yuehmingli: 
   city: "yuehmingli"
-  accentcity: "Y\xC3\xBCehmingli"
+  accentcity: "Yüehmingli"
 yuehningli: 
   city: "yuehningli"
-  accentcity: "Y\xC3\xBCehningli"
+  accentcity: "Yüehningli"
 yuehning: 
   city: "yuehning"
-  accentcity: "Y\xC3\xBCehning"
+  accentcity: "Yüehning"
 yuehshanhu: 
   city: "yuehshanhu"
-  accentcity: "Y\xC3\xBCehshanhu"
+  accentcity: "Yüehshanhu"
 yuehtaoliao: 
   city: "yuehtaoliao"
-  accentcity: "Y\xC3\xBCehtaoliao"
+  accentcity: "Yüehtaoliao"
 yuehtou: 
   city: "yuehtou"
-  accentcity: "Y\xC3\xBCehtou"
+  accentcity: "Yüehtou"
 yuehtsaoyuan: 
   city: "yuehtsaoyuan"
-  accentcity: "Y\xC3\xBCehtsaoy\xC3\xBCan"
+  accentcity: "Yüehtsaoyüan"
 yuehtsoli: 
   city: "yuehtsoli"
-  accentcity: "Y\xC3\xBCehtsoli"
+  accentcity: "Yüehtsoli"
 yuehtso: 
   city: "yuehtso"
-  accentcity: "Y\xC3\xBCehtso"
+  accentcity: "Yüehtso"
 yuehyehtsun: 
   city: "yuehyehtsun"
-  accentcity: "Y\xC3\xBCehyehtsun"
+  accentcity: "Yüehyehtsun"
 yuehyeh: 
   city: "yuehyeh"
-  accentcity: "Y\xC3\xBCehyeh"
+  accentcity: "Yüehyeh"
 yuenmeitsun: 
   city: "yuenmeitsun"
-  accentcity: "Y\xC3\xBCenmeitsun"
+  accentcity: "Yüenmeitsun"
 yufangkeng: 
   city: "yufangkeng"
   accentcity: "Yufangkeng"
 yufengli: 
   city: "yufengli"
-  accentcity: "Y\xC3\xBCfengli"
+  accentcity: "Yüfengli"
 yufengtsun: 
   city: "yufengtsun"
-  accentcity: "Y\xC3\xBCfengtsun"
+  accentcity: "Yüfengtsun"
 yufeng: 
   city: "yufeng"
-  accentcity: "Y\xC3\xBCfeng"
+  accentcity: "Yüfeng"
 yufutsun: 
   city: "yufutsun"
-  accentcity: "Y\xC3\xBCfutsun"
+  accentcity: "Yüfutsun"
 yuhangtsun: 
   city: "yuhangtsun"
-  accentcity: "Y\xC3\xBChangtsun"
+  accentcity: "Yühangtsun"
 yuhang: 
   city: "yuhang"
-  accentcity: "Y\xC3\xBChang"
+  accentcity: "Yühang"
 yuhengtzu: 
   city: "yuhengtzu"
-  accentcity: "Y\xC3\xBChengtzu"
+  accentcity: "Yühengtzu"
 yuhsiayunshe: 
   city: "yuhsiayunshe"
-  accentcity: "Yuhsiay\xC3\xBCnshe"
+  accentcity: "Yuhsiayünshe"
 yuhsiayun: 
   city: "yuhsiayun"
-  accentcity: "Yuhsiay\xC3\xBCn"
+  accentcity: "Yuhsiayün"
 yuhsienfang: 
   city: "yuhsienfang"
   accentcity: "Yuhsienfang"
 yuhsitsun: 
   city: "yuhsitsun"
-  accentcity: "Y\xC3\xBChsitsun"
+  accentcity: "Yühsitsun"
 yuhsi: 
   city: "yuhsi"
-  accentcity: "Y\xC3\xBChsi"
+  accentcity: "Yühsi"
 yuhuanhsintsun: 
   city: "yuhuanhsintsun"
-  accentcity: "Y\xC3\xBChuanhsintsun"
+  accentcity: "Yühuanhsintsun"
 yuhua: 
   city: "yuhua"
-  accentcity: "Y\xC3\xBChua"
+  accentcity: "Yühua"
 yuiliaoli: 
   city: "yuiliaoli"
   accentcity: "Yuiliaoli"
 yujenshe: 
   city: "yujenshe"
-  accentcity: "Y\xC3\xBCjenshe"
+  accentcity: "Yüjenshe"
 yujentsun: 
   city: "yujentsun"
-  accentcity: "Y\xC3\xBCjentsun"
+  accentcity: "Yüjentsun"
 yujen: 
   city: "yujen"
-  accentcity: "Y\xC3\xBCjen"
+  accentcity: "Yüjen"
 yujui: 
   city: "yujui"
   accentcity: "Yujui"
 yujukou: 
   city: "yujukou"
-  accentcity: "Y\xC3\xBCjukou"
+  accentcity: "Yüjukou"
 yukang: 
   city: "yukang"
-  accentcity: "Y\xC3\xBCkang"
+  accentcity: "Yükang"
 yukeng: 
   city: "yukeng"
   accentcity: "Yukeng"
 yukuangtsun: 
   city: "yukuangtsun"
-  accentcity: "Y\xC3\xBCkuangtsun"
+  accentcity: "Yükuangtsun"
 yukuang: 
   city: "yukuang"
-  accentcity: "Y\xC3\xBCkuang"
+  accentcity: "Yükuang"
 yukueiling: 
   city: "yukueiling"
-  accentcity: "Y\xC3\xBCkueiling"
+  accentcity: "Yükueiling"
 yukutsun: 
   city: "yukutsun"
-  accentcity: "Y\xC3\xBCkutsun"
+  accentcity: "Yükutsun"
 yuku: 
   city: "yuku"
-  accentcity: "Y\xC3\xBCku"
+  accentcity: "Yüku"
 yulanlan: 
   city: "yulanlan"
-  accentcity: "Y\xC3\xBClanlan"
+  accentcity: "Yülanlan"
 yulan: 
   city: "yulan"
-  accentcity: "Y\xC3\xBClan"
+  accentcity: "Yülan"
 yuliaotsun: 
   city: "yuliaotsun"
-  accentcity: "Y\xC3\xBCliaotsun"
+  accentcity: "Yüliaotsun"
 yuliaotzu: 
   city: "yuliaotzu"
-  accentcity: "Y\xC3\xBCliaotzu"
+  accentcity: "Yüliaotzu"
 yuliao: 
   city: "yuliao"
   accentcity: "Yuliao"
 yulichen: 
   city: "yulichen"
-  accentcity: "Y\xC3\xBCLiChen"
+  accentcity: "YüLiChen"
 yuli: 
   city: "yuli"
-  accentcity: "Y\xC3\xBCli"
+  accentcity: "Yüli"
 yulo: 
   city: "yulo"
   accentcity: "Yulo"
 yulungkungssu: 
   city: "yulungkungssu"
-  accentcity: "Y\xC3\xBClungkungssu"
+  accentcity: "Yülungkungssu"
 yulushe: 
   city: "yulushe"
   accentcity: "Yulushe"
@@ -36089,19 +36089,19 @@ yulutsun:
   accentcity: "Yulutsun"
 yumiaoliao: 
   city: "yumiaoliao"
-  accentcity: "Y\xC3\xBCmiaoliao"
+  accentcity: "Yümiaoliao"
 yumintsun: 
   city: "yumintsun"
-  accentcity: "Y\xC3\xBCmintsun"
+  accentcity: "Yümintsun"
 yumin: 
   city: "yumin"
-  accentcity: "Y\xC3\xBCmin"
+  accentcity: "Yümin"
 yuneishe: 
   city: "yuneishe"
-  accentcity: "Y\xC3\xBCneishe"
+  accentcity: "Yüneishe"
 yunei: 
   city: "yunei"
-  accentcity: "Y\xC3\xBCnei"
+  accentcity: "Yünei"
 yunganli: 
   city: "yunganli"
   accentcity: "Yunganli"
@@ -36146,10 +36146,10 @@ yungchi:
   accentcity: "Yungchi"
 yungchuantsun: 
   city: "yungchuantsun"
-  accentcity: "Yungch\xC3\xBCantsun"
+  accentcity: "Yungchüantsun"
 yungchuhu: 
   city: "yungchuhu"
-  accentcity: "Yungch\xC3\xBChu"
+  accentcity: "Yungchühu"
 yungchunli: 
   city: "yungchunli"
   accentcity: "Yungchunli"
@@ -36305,67 +36305,67 @@ yungtuntsun:
   accentcity: "Yungtuntsun"
 yungyuanli: 
   city: "yungyuanli"
-  accentcity: "Yungy\xC3\xBCanli"
+  accentcity: "Yungyüanli"
 yungyuantsun: 
   city: "yungyuantsun"
-  accentcity: "Yungy\xC3\xBCantsun"
+  accentcity: "Yungyüantsun"
 yungyuan: 
   city: "yungyuan"
-  accentcity: "Yungy\xC3\xBCan"
+  accentcity: "Yungyüan"
 yunhsientungkou: 
   city: "yunhsientungkou"
-  accentcity: "Y\xC3\xBCnhsientungkou"
+  accentcity: "Yünhsientungkou"
 yunlinhsien: 
   city: "yunlinhsien"
-  accentcity: "Y\xC3\xBCnlinhsien"
+  accentcity: "Yünlinhsien"
 yunlin: 
   city: "yunlin"
-  accentcity: "Y\xC3\xBCnlin"
+  accentcity: "Yünlin"
 yunshan: 
   city: "yunshan"
-  accentcity: "Y\xC3\xBCnshan"
+  accentcity: "Yünshan"
 yunshui: 
   city: "yunshui"
-  accentcity: "Y\xC3\xBCnshui"
+  accentcity: "Yünshui"
 yuntso: 
   city: "yuntso"
-  accentcity: "Y\xC3\xBCntso"
+  accentcity: "Yüntso"
 yupaokou: 
   city: "yupaokou"
-  accentcity: "Y\xC3\xBCpaokou"
+  accentcity: "Yüpaokou"
 yupao: 
   city: "yupao"
-  accentcity: "Y\xC3\xBCpao"
+  accentcity: "Yüpao"
 yupuliao: 
   city: "yupuliao"
-  accentcity: "Y\xC3\xBCpuliao"
+  accentcity: "Yüpuliao"
 yuputsun: 
   city: "yuputsun"
-  accentcity: "Y\xC3\xBCputsun"
+  accentcity: "Yüputsun"
 yupu: 
   city: "yupu"
-  accentcity: "Y\xC3\xBCpu"
+  accentcity: "Yüpu"
 yushanhsintsun: 
   city: "yushanhsintsun"
-  accentcity: "Y\xC3\xBCshanhsintsun"
+  accentcity: "Yüshanhsintsun"
 yushantsun: 
   city: "yushantsun"
-  accentcity: "Y\xC3\xBCshantsun"
+  accentcity: "Yüshantsun"
 yushan: 
   city: "yushan"
-  accentcity: "Y\xC3\xBCshan"
+  accentcity: "Yüshan"
 yusheng: 
   city: "yusheng"
   accentcity: "Yusheng"
 yushihchi: 
   city: "yushihchi"
-  accentcity: "Y\xC3\xBCshihchi"
+  accentcity: "Yüshihchi"
 yushihli: 
   city: "yushihli"
-  accentcity: "Y\xC3\xBCshihli"
+  accentcity: "Yüshihli"
 yushihtsun: 
   city: "yushihtsun"
-  accentcity: "Y\xC3\xBCshihtsun"
+  accentcity: "Yüshihtsun"
 yushih: 
   city: "yushih"
   accentcity: "Yushih"
@@ -36374,34 +36374,34 @@ yushuikeng:
   accentcity: "Yushuikeng"
 yushuili: 
   city: "yushuili"
-  accentcity: "Y\xC3\xBCshuili"
+  accentcity: "Yüshuili"
 yushuitsun: 
   city: "yushuitsun"
-  accentcity: "Y\xC3\xBCshuitsun"
+  accentcity: "Yüshuitsun"
 yushui: 
   city: "yushui"
-  accentcity: "Y\xC3\xBCshui"
+  accentcity: "Yüshui"
 yutaikeng: 
   city: "yutaikeng"
-  accentcity: "Y\xC3\xBCtaikeng"
+  accentcity: "Yütaikeng"
 yutai: 
   city: "yutai"
-  accentcity: "Y\xC3\xBCtai"
+  accentcity: "Yütai"
 yutengping: 
   city: "yutengping"
-  accentcity: "Y\xC3\xBCtengping"
+  accentcity: "Yütengping"
 yutientsun: 
   city: "yutientsun"
-  accentcity: "Y\xC3\xBCtientsun"
+  accentcity: "Yütientsun"
 yutien: 
   city: "yutien"
   accentcity: "Yutien"
 yutoutso: 
   city: "yutoutso"
-  accentcity: "Y\xC3\xBCtoutso"
+  accentcity: "Yütoutso"
 yutsaikeng: 
   city: "yutsaikeng"
-  accentcity: "Y\xC3\xBCtsaikeng"
+  accentcity: "Yütsaikeng"
 yutsailiao: 
   city: "yutsailiao"
   accentcity: "Yutsailiao"
@@ -36416,7 +36416,7 @@ yutso:
   accentcity: "Yutso"
 yutsun: 
   city: "yutsun"
-  accentcity: "Y\xC3\xBCtsun"
+  accentcity: "Yütsun"
 yutungtsun: 
   city: "yutungtsun"
   accentcity: "Yutungtsun"
@@ -36434,19 +36434,19 @@ yutzuhu:
   accentcity: "Yutzuhu"
 yutzukeng: 
   city: "yutzukeng"
-  accentcity: "Y\xC3\xBCtzukeng"
+  accentcity: "Yützukeng"
 yutzuliao: 
   city: "yutzuliao"
-  accentcity: "Y\xC3\xBCtzuliao"
+  accentcity: "Yützuliao"
 yutzupu: 
   city: "yutzupu"
-  accentcity: "Y\xC3\xBCtzupu"
+  accentcity: "Yützupu"
 yutzu: 
   city: "yutzu"
-  accentcity: "Y\xC3\xBCtzu"
+  accentcity: "Yützu"
 yuweilun: 
   city: "yuweilun"
-  accentcity: "Y\xC3\xBCweilun"
+  accentcity: "Yüweilun"
 yuyehlin: 
   city: "yuyehlin"
   accentcity: "Yuyehlin"

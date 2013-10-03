@@ -389,7 +389,7 @@ alt cosel:
   accentcity: "Alt Cosel"
 altcustrinchen: 
   city: "altcustrinchen"
-  accentcity: "Altc\xC3\xBCstrinchen"
+  accentcity: "Altcüstrinchen"
 alt czaiken: 
   city: "alt czaiken"
   accentcity: "Alt Czaiken"
@@ -461,7 +461,7 @@ alt-griebnitz:
   accentcity: "Alt-Griebnitz"
 althammer goschutz: 
   city: "althammer goschutz"
-  accentcity: "Althammer Gosch\xC3\xBCtz"
+  accentcity: "Althammer Goschütz"
 altheide: 
   city: "altheide"
   accentcity: "Altheide"
@@ -479,10 +479,10 @@ althofen:
   accentcity: "Alth\xC3\xB6fen"
 althutte: 
   city: "althutte"
-  accentcity: "Alth\xC3\xBCtte"
+  accentcity: "Althütte"
 althuttebei mariensee: 
   city: "althuttebei mariensee"
-  accentcity: "Alth\xC3\xBCttebei Mariensee"
+  accentcity: "Althüttebei Mariensee"
 alt jablonken: 
   city: "alt jablonken"
   accentcity: "Alt Jablonken"
@@ -539,7 +539,7 @@ alt kussfeld:
   accentcity: "Alt Kussfeld"
 alt kustrinchen: 
   city: "alt kustrinchen"
-  accentcity: "Alt K\xC3\xBCstrinchen"
+  accentcity: "Alt Küstrinchen"
 altlautersee: 
   city: "altlautersee"
   accentcity: "Altlautersee"
@@ -578,10 +578,10 @@ alt mertinsdorf:
   accentcity: "Alt Mertinsdorf"
 altmunsterberg: 
   city: "altmunsterberg"
-  accentcity: "Altm\xC3\xBCnsterberg"
+  accentcity: "Altmünsterberg"
 alt munsterberg: 
   city: "alt munsterberg"
-  accentcity: "Alt M\xC3\xBCnsterberg"
+  accentcity: "Alt Münsterberg"
 altols: 
   city: "altols"
   accentcity: "Alt\xC3\xB6ls"
@@ -623,7 +623,7 @@ alt rosenthal:
   accentcity: "Alt Rosenthal"
 alt rudnitz: 
   city: "alt rudnitz"
-  accentcity: "Alt R\xC3\xBCdnitz"
+  accentcity: "Alt Rüdnitz"
 alt rudowken: 
   city: "alt rudowken"
   accentcity: "Alt Rudowken"
@@ -737,10 +737,10 @@ ancuty:
   accentcity: "Ancuty"
 andreashutte: 
   city: "andreashutte"
-  accentcity: "Andreash\xC3\xBCtte"
+  accentcity: "Andreashütte"
 andreashutte oberschlesien: 
   city: "andreashutte oberschlesien"
-  accentcity: "Andreash\xC3\xBCtte Oberschlesien"
+  accentcity: "Andreashütte Oberschlesien"
 andreastal: 
   city: "andreastal"
   accentcity: "Andreastal"
@@ -2267,7 +2267,7 @@ barenhof:
   accentcity: "Barenhof"
 barenhutte: 
   city: "barenhutte"
-  accentcity: "Barenh\xC3\xBCtte"
+  accentcity: "Barenhütte"
 barenwinkel: 
   city: "barenwinkel"
   accentcity: "B\xC3\xA4renwinkel"
@@ -3323,7 +3323,7 @@ bernstein:
   accentcity: "Bernstein"
 berthelschutz: 
   city: "berthelschutz"
-  accentcity: "Berthelsch\xC3\xBCtz"
+  accentcity: "Berthelschütz"
 bertolin: 
   city: "bertolin"
   accentcity: "Bertolin"
@@ -6161,7 +6161,7 @@ boguszyny:
   accentcity: "Boguszyny"
 bogutschutz: 
   city: "bogutschutz"
-  accentcity: "Bogutsch\xC3\xBCtz"
+  accentcity: "Bogutschütz"
 boguty: 
   city: "boguty"
   accentcity: "Boguty"
@@ -8297,7 +8297,7 @@ broschaitschen:
   accentcity: "Broschaitschen"
 broschutz: 
   city: "broschutz"
-  accentcity: "Brosch\xC3\xBCtz"
+  accentcity: "Broschütz"
 brosec: 
   city: "brosec"
   accentcity: "Brosec"
@@ -8378,19 +8378,19 @@ bruchwalde:
   accentcity: "Bruchwalde"
 bruckenberg: 
   city: "bruckenberg"
-  accentcity: "Br\xC3\xBCckenberg"
+  accentcity: "Brückenberg"
 bruckendorf: 
   city: "bruckendorf"
-  accentcity: "Br\xC3\xBCckendorf"
+  accentcity: "Brückendorf"
 bruckenfelde: 
   city: "bruckenfelde"
-  accentcity: "Br\xC3\xBCckenfelde"
+  accentcity: "Brückenfelde"
 bruckenkrug: 
   city: "bruckenkrug"
-  accentcity: "Br\xC3\xBCckenkrug"
+  accentcity: "Brückenkrug"
 brucken vorst: 
   city: "brucken vorst"
-  accentcity: "Br\xC3\xBCcken Vorst"
+  accentcity: "Brücken Vorst"
 bruczkow: 
   city: "bruczkow"
   accentcity: "Bruczków"
@@ -8402,7 +8402,7 @@ brudek:
   accentcity: "Brudek"
 bruderfelde: 
   city: "bruderfelde"
-  accentcity: "Br\xC3\xBCderfelde"
+  accentcity: "Brüderfelde"
 brudki nowe: 
   city: "brudki nowe"
   accentcity: "Brudki Nowe"
@@ -8489,7 +8489,7 @@ brudzyn:
   accentcity: "Brudzyn"
 brugge: 
   city: "brugge"
-  accentcity: "Br\xC3\xBCgge"
+  accentcity: "Brügge"
 bruk: 
   city: "bruk"
   accentcity: "Bruk"
@@ -10247,10 +10247,10 @@ bunden:
   accentcity: "Bunden"
 bundten: 
   city: "bundten"
-  accentcity: "B\xC3\xBCndten"
+  accentcity: "Bündten"
 bundtken: 
   city: "bundtken"
-  accentcity: "B\xC3\xBCndtken"
+  accentcity: "Bündtken"
 bunhausen: 
   city: "bunhausen"
   accentcity: "Bunhausen"
@@ -10295,16 +10295,16 @@ burgdorf:
   accentcity: "Burgdorf"
 burgerdorf: 
   city: "burgerdorf"
-  accentcity: "B\xC3\xBCrgerdorf"
+  accentcity: "Bürgerdorf"
 burgerhofen: 
   city: "burgerhofen"
-  accentcity: "B\xC3\xBCrgerh\xC3\xB6fen"
+  accentcity: "Bürgerh\xC3\xB6fen"
 burgerwalde: 
   city: "burgerwalde"
-  accentcity: "B\xC3\xBCrgerwalde"
+  accentcity: "Bürgerwalde"
 burgerwiesen: 
   city: "burgerwiesen"
-  accentcity: "B\xC3\xBCrgerwiesen"
+  accentcity: "Bürgerwiesen"
 burgfelde: 
   city: "burgfelde"
   accentcity: "Burgfelde"
@@ -10418,7 +10418,7 @@ bussen:
   accentcity: "Bussen"
 bussow: 
   city: "bussow"
-  accentcity: "B\xC3\xBCssow"
+  accentcity: "Büssow"
 bussowno: 
   city: "bussowno"
   accentcity: "Bussówno"
@@ -10466,7 +10466,7 @@ buszyno:
   accentcity: "Buszyno"
 butow: 
   city: "butow"
-  accentcity: "B\xC3\xBCtow"
+  accentcity: "Bütow"
 butowice: 
   city: "butowice"
   accentcity: "Butowice"
@@ -13907,7 +13907,7 @@ comeise:
   accentcity: "Comeise"
 comprachtschutz: 
   city: "comprachtschutz"
-  accentcity: "Comprachtsch\xC3\xBCtz"
+  accentcity: "Comprachtschütz"
 coniew: 
   city: "coniew"
   accentcity: "Coniew"
@@ -13994,7 +13994,7 @@ curyn:
   accentcity: "Curyn"
 custrin: 
   city: "custrin"
-  accentcity: "C\xC3\xBCstrin"
+  accentcity: "Cüstrin"
 cwaliny: 
   city: "cwaliny"
   accentcity: "Cwaliny"
@@ -19292,7 +19292,7 @@ dudy puszczanskie:
   accentcity: "Dudy Puszczanskie"
 duhringshof: 
   city: "duhringshof"
-  accentcity: "D\xC3\xBChringshof"
+  accentcity: "Dühringshof"
 dukaczew: 
   city: "dukaczew"
   accentcity: "Dukaczew"
@@ -19367,7 +19367,7 @@ duneiken:
   accentcity: "Duneiken"
 dunen: 
   city: "dunen"
-  accentcity: "D\xC3\xBCnen"
+  accentcity: "Dünen"
 duneyken: 
   city: "duneyken"
   accentcity: "Duneyken"
@@ -19376,7 +19376,7 @@ dungen:
   accentcity: "Dungen"
 dunhofen: 
   city: "dunhofen"
-  accentcity: "D\xC3\xBCnh\xC3\xB6fen"
+  accentcity: "Dünh\xC3\xB6fen"
 duniewo: 
   city: "duniewo"
   accentcity: "Duniewo"
@@ -19418,7 +19418,7 @@ dunkowiczki:
   accentcity: "Dunkowiczki"
 dunnow: 
   city: "dunnow"
-  accentcity: "D\xC3\xBCnnow"
+  accentcity: "Dünnow"
 dunowo: 
   city: "dunowo"
   accentcity: "Dunowo"
@@ -19448,7 +19448,7 @@ durlasy:
   accentcity: "Durlasy"
 durrlettel: 
   city: "durrlettel"
-  accentcity: "D\xC3\xBCrrlettel"
+  accentcity: "Dürrlettel"
 dursztyn: 
   city: "dursztyn"
   accentcity: "Dursztyn"
@@ -20768,7 +20768,7 @@ eichenau:
   accentcity: "Eichenau"
 eichenbruck: 
   city: "eichenbruck"
-  accentcity: "Eichenbr\xC3\xBCck"
+  accentcity: "Eichenbrück"
 eichendorf: 
   city: "eichendorf"
   accentcity: "Eichendorf"
@@ -20837,7 +20837,7 @@ eisenwerk:
   accentcity: "Eisenwerk"
 eisermuhl: 
   city: "eisermuhl"
-  accentcity: "Eiserm\xC3\xBChl"
+  accentcity: "Eisermühl"
 eisersdorf: 
   city: "eisersdorf"
   accentcity: "Eisersdorf"
@@ -20912,7 +20912,7 @@ ellerbruch:
   accentcity: "Ellerbruch"
 ellerbruck: 
   city: "ellerbruck"
-  accentcity: "Ellerbr\xC3\xBCck"
+  accentcity: "Ellerbrück"
 ellerwalde: 
   city: "ellerwalde"
   accentcity: "Ellerwalde"
@@ -21959,7 +21959,7 @@ friedrichsgratz:
   accentcity: "Friedrichsgr\xC3\xA4tz"
 friedrichsgratz uber malapane: 
   city: "friedrichsgratz uber malapane"
-  accentcity: "Friedrichsgr\xC3\xA4tz \xC3\xBCber Malapane"
+  accentcity: "Friedrichsgr\xC3\xA4tz über Malapane"
 friedrichshagen: 
   city: "friedrichshagen"
   accentcity: "Friedrichshagen"
@@ -22031,7 +22031,7 @@ fronopol:
   accentcity: "Fronopol"
 fruhauf: 
   city: "fruhauf"
-  accentcity: "Fr\xC3\xBChauf"
+  accentcity: "Frühauf"
 fruzow: 
   city: "fruzow"
   accentcity: "Fruzów"
@@ -22091,7 +22091,7 @@ fulki:
   accentcity: "Fulki"
 funfteichen: 
   city: "funfteichen"
-  accentcity: "F\xC3\xBCnfteichen"
+  accentcity: "Fünfteichen"
 funken: 
   city: "funken"
   accentcity: "Funken"
@@ -22112,22 +22112,22 @@ furmany:
   accentcity: "Furmany"
 furstenau: 
   city: "furstenau"
-  accentcity: "F\xC3\xBCrstenau"
+  accentcity: "Fürstenau"
 fursteneich: 
   city: "fursteneich"
-  accentcity: "F\xC3\xBCrsteneich"
+  accentcity: "Fürsteneich"
 furstenfelde: 
   city: "furstenfelde"
-  accentcity: "F\xC3\xBCrstenfelde"
+  accentcity: "Fürstenfelde"
 furstenwalde: 
   city: "furstenwalde"
-  accentcity: "F\xC3\xBCrstenwalde"
+  accentcity: "Fürstenwalde"
 furstenwerder: 
   city: "furstenwerder"
-  accentcity: "F\xC3\xBCrstenwerder"
+  accentcity: "Fürstenwerder"
 furstewalde: 
   city: "furstewalde"
-  accentcity: "F\xC3\xBCrstewalde"
+  accentcity: "Fürstewalde"
 fusinowice: 
   city: "fusinowice"
   accentcity: "Fusinowice"
@@ -23174,7 +23174,7 @@ gebiny:
   accentcity: "Gebiny"
 geburge: 
   city: "geburge"
-  accentcity: "Geb\xC3\xBCrge"
+  accentcity: "Gebürge"
 gedaiten: 
   city: "gedaiten"
   accentcity: "Gedaiten"
@@ -28025,13 +28025,13 @@ gross broszken:
   accentcity: "Gross Broszken"
 grossbruck: 
   city: "grossbruck"
-  accentcity: "Grossbr\xC3\xBCck"
+  accentcity: "Grossbrück"
 gross brunau: 
   city: "gross brunau"
   accentcity: "Gross Brunau"
 gross bruskow: 
   city: "gross bruskow"
-  accentcity: "Gross Br\xC3\xBCskow"
+  accentcity: "Gross Brüskow"
 gross brzosken: 
   city: "gross brzosken"
   accentcity: "Gross Brzosken"
@@ -28043,7 +28043,7 @@ gross budschen:
   accentcity: "Gross Budschen"
 gross burgersdorf: 
   city: "gross burgersdorf"
-  accentcity: "Gross B\xC3\xBCrgersdorf"
+  accentcity: "Gross Bürgersdorf"
 gross cammin: 
   city: "gross cammin"
   accentcity: "Gross Cammin"
@@ -28250,7 +28250,7 @@ grosskrosten:
   accentcity: "Grosskr\xC3\xB6sten"
 gross kudde: 
   city: "gross kudde"
-  accentcity: "Gross K\xC3\xBCdde"
+  accentcity: "Gross Küdde"
 gross kummetschen: 
   city: "gross kummetschen"
   accentcity: "Gross Kummetschen"
@@ -28340,7 +28340,7 @@ grossmollen:
   accentcity: "Grossm\xC3\xB6llen"
 grossmollen uber koslin: 
   city: "grossmollen uber koslin"
-  accentcity: "Grossm\xC3\xB6llen \xC3\xBCber K\xC3\xB6slin"
+  accentcity: "Grossm\xC3\xB6llen über K\xC3\xB6slin"
 gross monsdorf: 
   city: "gross monsdorf"
   accentcity: "Gross M\xC3\xB6nsdorf"
@@ -28355,10 +28355,10 @@ grossmuckenhausen:
   accentcity: "Grossmuckenhausen"
 gross munsdorf: 
   city: "gross munsdorf"
-  accentcity: "Gross M\xC3\xBCnsdorf"
+  accentcity: "Gross Münsdorf"
 gross munsterberg: 
   city: "gross munsterberg"
-  accentcity: "Gross M\xC3\xBCnsterberg"
+  accentcity: "Gross Münsterberg"
 gross nadlitz: 
   city: "gross nadlitz"
   accentcity: "Gross N\xC3\xA4dlitz"
@@ -28457,7 +28457,7 @@ gross rauschken:
   accentcity: "Gross Rauschken"
 grossrauschken sudostpreussen: 
   city: "grossrauschken sudostpreussen"
-  accentcity: "Grossrauschken S\xC3\xBCdostpreussen"
+  accentcity: "Grossrauschken Südostpreussen"
 gross rauscken: 
   city: "gross rauscken"
   accentcity: "Gross Rauscken"
@@ -28514,10 +28514,10 @@ gross schlawken:
   accentcity: "Gross Schl\xC3\xA4wken"
 gross schmuckwalde: 
   city: "gross schmuckwalde"
-  accentcity: "Gross Schm\xC3\xBCckwalde"
+  accentcity: "Gross Schmückwalde"
 gross schmuckwalde uber osterode ostpreussen: 
   city: "gross schmuckwalde uber osterode ostpreussen"
-  accentcity: "Gross Schm\xC3\xBCckwalde \xC3\xBCber Osterode Ostpreussen"
+  accentcity: "Gross Schmückwalde über Osterode Ostpreussen"
 gross schondamerau: 
   city: "gross schondamerau"
   accentcity: "Gross Sch\xC3\xB6ndamerau"
@@ -28580,7 +28580,7 @@ gross strohlitz:
   accentcity: "Gross Strohlitz"
 gross sturlack: 
   city: "gross sturlack"
-  accentcity: "Gross St\xC3\xBCrlack"
+  accentcity: "Gross Stürlack"
 gross szabienen: 
   city: "gross szabienen"
   accentcity: "Gross Szabienen"
@@ -28676,7 +28676,7 @@ gross zechen:
   accentcity: "Gross Zechen"
 gross zunder: 
   city: "gross zunder"
-  accentcity: "Gross Z\xC3\xBCnder"
+  accentcity: "Gross Zünder"
 gross zwalinnen: 
   city: "gross zwalinnen"
   accentcity: "Gross Zwalinnen"
@@ -28850,13 +28850,13 @@ grunau:
   accentcity: "Grunau"
 grunau hohe: 
   city: "grunau hohe"
-  accentcity: "Gr\xC3\xBCnau H\xC3\xB6he"
+  accentcity: "Grünau H\xC3\xB6he"
 grunberg: 
   city: "grunberg"
-  accentcity: "Gr\xC3\xBCnberg"
+  accentcity: "Grünberg"
 grunbruch: 
   city: "grunbruch"
-  accentcity: "Gr\xC3\xBCnbruch"
+  accentcity: "Grünbruch"
 grundensee: 
   city: "grundensee"
   accentcity: "Grundensee"
@@ -28868,37 +28868,37 @@ grunenfeld:
   accentcity: "Grunenfeld"
 grunfliess: 
   city: "grunfliess"
-  accentcity: "Gr\xC3\xBCnfliess"
+  accentcity: "Grünfliess"
 grunflur: 
   city: "grunflur"
-  accentcity: "Gr\xC3\xBCnflur"
+  accentcity: "Grünflur"
 grunhagen: 
   city: "grunhagen"
-  accentcity: "Gr\xC3\xBCnhagen"
+  accentcity: "Grünhagen"
 grunhagen ostpreussen: 
   city: "grunhagen ostpreussen"
-  accentcity: "Gr\xC3\xBCnhagen Ostpreussen"
+  accentcity: "Grünhagen Ostpreussen"
 grunheide: 
   city: "grunheide"
-  accentcity: "Gr\xC3\xBCnheide"
+  accentcity: "Grünheide"
 grunheyde: 
   city: "grunheyde"
-  accentcity: "Gr\xC3\xBCnheyde"
+  accentcity: "Grünheyde"
 grunhoff: 
   city: "grunhoff"
-  accentcity: "Gr\xC3\xBCnhoff"
+  accentcity: "Grünhoff"
 grunhof: 
   city: "grunhof"
-  accentcity: "Gr\xC3\xBCnhof"
+  accentcity: "Grünhof"
 grunlanden: 
   city: "grunlanden"
-  accentcity: "Gr\xC3\xBCnlanden"
+  accentcity: "Grünlanden"
 grunsberg: 
   city: "grunsberg"
   accentcity: "Grunsberg"
 grunsee: 
   city: "grunsee"
-  accentcity: "Gr\xC3\xBCnsee"
+  accentcity: "Grünsee"
 grunsruh: 
   city: "grunsruh"
   accentcity: "Grunsruh"
@@ -28907,7 +28907,7 @@ gruntowice:
   accentcity: "Gruntowice"
 grunwalde: 
   city: "grunwalde"
-  accentcity: "Gr\xC3\xBCnwalde"
+  accentcity: "Grünwalde"
 grunwald: 
   city: "grunwald"
   accentcity: "Grunwald"
@@ -28931,7 +28931,7 @@ grusen:
   accentcity: "Grusen"
 grussau: 
   city: "grussau"
-  accentcity: "Gr\xC3\xBCssau"
+  accentcity: "Grüssau"
 gruszcyn: 
   city: "gruszcyn"
   accentcity: "Gruszcyn"
@@ -29333,7 +29333,7 @@ guczewo stare:
   accentcity: "Guczewo Stare"
 gudenhagen: 
   city: "gudenhagen"
-  accentcity: "G\xC3\xBCdenhagen"
+  accentcity: "Güdenhagen"
 gudnick: 
   city: "gudnick"
   accentcity: "Gudnick"
@@ -29405,10 +29405,10 @@ gulcz:
   accentcity: "Gulcz"
 guldenboden: 
   city: "guldenboden"
-  accentcity: "G\xC3\xBCldenboden"
+  accentcity: "Güldenboden"
 guldenfelde: 
   city: "guldenfelde"
-  accentcity: "G\xC3\xBCldenfelde"
+  accentcity: "Güldenfelde"
 gulewo: 
   city: "gulewo"
   accentcity: "Gulewo"
@@ -29432,10 +29432,10 @@ guluchowice:
   accentcity: "Guluchowice"
 gulz: 
   city: "gulz"
-  accentcity: "G\xC3\xBClz"
+  accentcity: "Gülz"
 gulzow: 
   city: "gulzow"
-  accentcity: "G\xC3\xBClzow"
+  accentcity: "Gülzow"
 gumience: 
   city: "gumience"
   accentcity: "Gumience"
@@ -29504,19 +29504,19 @@ gunow:
   accentcity: "Gunów"
 guntersdorf: 
   city: "guntersdorf"
-  accentcity: "G\xC3\xBCntersdorf"
+  accentcity: "Güntersdorf"
 guntershagen: 
   city: "guntershagen"
-  accentcity: "G\xC3\xBCntershagen"
+  accentcity: "Güntershagen"
 gunthen: 
   city: "gunthen"
   accentcity: "Gunthen"
 gunthersdorf: 
   city: "gunthersdorf"
-  accentcity: "G\xC3\xBCnthersdorf"
+  accentcity: "Günthersdorf"
 guntlau: 
   city: "guntlau"
-  accentcity: "G\xC3\xBCntlau"
+  accentcity: "Güntlau"
 gura-kalvarya: 
   city: "gura-kal'var'ya"
   accentcity: "Gura-Kal'var'ya"
@@ -29570,7 +29570,7 @@ gustawow:
   accentcity: "Gustawów"
 gustebiese: 
   city: "gustebiese"
-  accentcity: "G\xC3\xBCstebiese"
+  accentcity: "Güstebiese"
 gusten: 
   city: "gusten"
   accentcity: "Gusten"
@@ -29633,7 +29633,7 @@ gutowszczyzna:
   accentcity: "Gutowszczyzna"
 gut rubenhagen: 
   city: "gut rubenhagen"
-  accentcity: "Gut R\xC3\xBCbenhagen"
+  accentcity: "Gut Rübenhagen"
 gutsch: 
   city: "gutsch"
   accentcity: "Gutsch"
@@ -29660,7 +29660,7 @@ guttenwalde:
   accentcity: "Guttenwalde"
 guttland: 
   city: "guttland"
-  accentcity: "G\xC3\xBCttland"
+  accentcity: "Güttland"
 guttstadt: 
   city: "guttstadt"
   accentcity: "Guttstadt"
@@ -29702,7 +29702,7 @@ guty stare:
   accentcity: "Guty Stare"
 gutzlaffshagen: 
   city: "gutzlaffshagen"
-  accentcity: "G\xC3\xBCtzlaffshagen"
+  accentcity: "Gützlaffshagen"
 guzdek: 
   city: "guzdek"
   accentcity: "Guzdek"
@@ -29987,7 +29987,7 @@ hammer:
   accentcity: "Hammer"
 hammermuhle: 
   city: "hammermuhle"
-  accentcity: "Hammerm\xC3\xBChle"
+  accentcity: "Hammermühle"
 hammerstein: 
   city: "hammerstein"
   accentcity: "Hammerstein"
@@ -30206,7 +30206,7 @@ heidau:
   accentcity: "Heidau"
 heidau uber neisse: 
   city: "heidau uber neisse"
-  accentcity: "Heidau \xC3\xBCber Neisse"
+  accentcity: "Heidau über Neisse"
 heideberg: 
   city: "heideberg"
   accentcity: "Heideberg"
@@ -30260,7 +30260,7 @@ heinrichsdorf:
   accentcity: "Heinrichsdorf"
 heinrichshutte: 
   city: "heinrichshutte"
-  accentcity: "Heinrichsh\xC3\xBCtte"
+  accentcity: "Heinrichshütte"
 heinrichstal: 
   city: "heinrichstal"
   accentcity: "Heinrichstal"
@@ -30542,7 +30542,7 @@ herzogskirchen:
   accentcity: "Herzogskirchen"
 herzogsmuhle: 
   city: "herzogsmuhle"
-  accentcity: "Herzogsm\xC3\xBChle"
+  accentcity: "Herzogsmühle"
 herzogswalde: 
   city: "herzogswalde"
   accentcity: "Herzogswalde"
@@ -30686,7 +30686,7 @@ hochsee:
   accentcity: "Hochsee"
 hoch stublau: 
   city: "hoch stublau"
-  accentcity: "Hoch St\xC3\xBCblau"
+  accentcity: "Hoch Stüblau"
 hochwalde: 
   city: "hochwalde"
   accentcity: "Hochwalde"
@@ -30725,7 +30725,7 @@ hohenau:
   accentcity: "Hohenau"
 hohenbruck: 
   city: "hohenbruck"
-  accentcity: "Hohenbr\xC3\xBCck"
+  accentcity: "Hohenbrück"
 hohendorf: 
   city: "hohendorf"
   accentcity: "Hohendorf"
@@ -30743,13 +30743,13 @@ hohen-friedeberg:
   accentcity: "Hohen-Friedeberg"
 hohenfurst: 
   city: "hohenfurst"
-  accentcity: "Hohenf\xC3\xBCrst"
+  accentcity: "Hohenfürst"
 hohenkranig: 
   city: "hohenkranig"
   accentcity: "Hohenkr\xC3\xA4nig"
 hohenlohehutte: 
   city: "hohenlohehutte"
-  accentcity: "Hohenloheh\xC3\xBCtte"
+  accentcity: "Hohenlohehütte"
 hohensalza: 
   city: "hohensalza"
   accentcity: "Hohensalza"
@@ -30833,7 +30833,7 @@ holiki:
   accentcity: "Holiki"
 holm bei jungfer: 
   city: "holm bei jungfer"
-  accentcity: "Holm bei J\xC3\xBCngfer"
+  accentcity: "Holm bei Jüngfer"
 holm gemeinde jungfer: 
   city: "holm gemeinde jungfer"
   accentcity: "Holm Gemeinde Jungfer"
@@ -31193,7 +31193,7 @@ hufenberg:
   accentcity: "Hufenberg"
 hugelwalde: 
   city: "hugelwalde"
-  accentcity: "H\xC3\xBCgelwalde"
+  accentcity: "Hügelwalde"
 hujsko: 
   city: "hujsko"
   accentcity: "Hujsko"
@@ -31535,7 +31535,7 @@ hutkow:
   accentcity: "Hutków"
 hutte: 
   city: "hutte"
-  accentcity: "H\xC3\xBCtte"
+  accentcity: "Hütte"
 huty: 
   city: "huty"
   accentcity: "Huty"
@@ -32333,7 +32333,7 @@ jagdhof:
   accentcity: "Jagdhof"
 jagdschutz: 
   city: "jagdschutz"
-  accentcity: "Jagdsch\xC3\xBCtz"
+  accentcity: "Jagdschütz"
 jagdwiesen: 
   city: "jagdwiesen"
   accentcity: "Jagdwiesen"
@@ -34826,7 +34826,7 @@ jordansdorf:
   accentcity: "Jordansdorf"
 jordansmuhl: 
   city: "jordansmuhl"
-  accentcity: "Jordansm\xC3\xBChl"
+  accentcity: "Jordansmühl"
 jorken: 
   city: "jorken"
   accentcity: "Jorken"
@@ -35144,13 +35144,13 @@ jurgasdorf:
   accentcity: "Jurgasdorf"
 jurgenau: 
   city: "jurgenau"
-  accentcity: "J\xC3\xBCrgenau"
+  accentcity: "Jürgenau"
 jurgen: 
   city: "jurgen"
-  accentcity: "J\xC3\xBCrgen"
+  accentcity: "Jürgen"
 jurgen jurken: 
   city: "jurgen jurken"
-  accentcity: "J\xC3\xBCrgen Jurken"
+  accentcity: "Jürgen Jurken"
 jurgi: 
   city: "jurgi"
   accentcity: "Jurgi"
@@ -37511,7 +37511,7 @@ kattowitz:
   accentcity: "Kattowitz"
 kattowitz-sud: 
   city: "kattowitz-sud"
-  accentcity: "Kattowitz-S\xC3\xBCd"
+  accentcity: "Kattowitz-Süd"
 katy bednarze: 
   city: "katy bednarze"
   accentcity: "Katy Bednarze"
@@ -38120,7 +38120,7 @@ kerstinowen:
   accentcity: "Kerstinowen"
 kertschutz: 
   city: "kertschutz"
-  accentcity: "Kertsch\xC3\xBCtz"
+  accentcity: "Kertschütz"
 kerwienen: 
   city: "kerwienen"
   accentcity: "Kerwienen"
@@ -39131,7 +39131,7 @@ klein brodsende:
   accentcity: "Klein Brodsende"
 klein bruskow: 
   city: "klein bruskow"
-  accentcity: "Klein Br\xC3\xBCskow"
+  accentcity: "Klein Brüskow"
 klein brzosken: 
   city: "klein brzosken"
   accentcity: "Klein Brzosken"
@@ -39323,7 +39323,7 @@ klein krzywen:
   accentcity: "Klein Krzywen"
 klein kudde: 
   city: "klein kudde"
-  accentcity: "Klein K\xC3\xBCdde"
+  accentcity: "Klein Küdde"
 klein kummetschen: 
   city: "klein kummetschen"
   accentcity: "Klein Kummetschen"
@@ -39389,7 +39389,7 @@ klein montau:
   accentcity: "Klein Montau"
 klein munsterberg: 
   city: "klein munsterberg"
-  accentcity: "Klein M\xC3\xBCnsterberg"
+  accentcity: "Klein Münsterberg"
 klein nadlitz: 
   city: "klein nadlitz"
   accentcity: "Klein N\xC3\xA4dlitz"
@@ -39527,7 +39527,7 @@ klein schlafken:
   accentcity: "Klein Schl\xC3\xA4fken"
 klein schmuckwalde: 
   city: "klein schmuckwalde"
-  accentcity: "Klein Schm\xC3\xBCckwalde"
+  accentcity: "Klein Schmückwalde"
 kleinschonau: 
   city: "kleinschonau"
   accentcity: "Kleinsch\xC3\xB6nau"
@@ -39593,7 +39593,7 @@ klein strengerl:
   accentcity: "Klein Strengerl"
 klein sturlack: 
   city: "klein sturlack"
-  accentcity: "Klein St\xC3\xBCrlack"
+  accentcity: "Klein Stürlack"
 klein szabienen: 
   city: "klein szabienen"
   accentcity: "Klein Szabienen"
@@ -39662,7 +39662,7 @@ kleinzollerndorf:
   accentcity: "Kleinzollerndorf"
 klein zunder: 
   city: "klein zunder"
-  accentcity: "Klein Z\xC3\xBCnder"
+  accentcity: "Klein Zünder"
 kleisack: 
   city: "kleisack"
   accentcity: "Kleisack"
@@ -40283,7 +40283,7 @@ klosowo:
   accentcity: "Klosowo"
 klosterbruck: 
   city: "klosterbruck"
-  accentcity: "Klosterbr\xC3\xBCck"
+  accentcity: "Klosterbrück"
 klosterfelde: 
   city: "klosterfelde"
   accentcity: "Klosterfelde"
@@ -40394,7 +40394,7 @@ kluozborek:
   accentcity: "Kluozborek"
 kluschau: 
   city: "kluschau"
-  accentcity: "Kl\xC3\xBCschau"
+  accentcity: "Klüschau"
 klusek bialy: 
   city: "klusek bialy"
   accentcity: "Klusek Bialy"
@@ -40409,7 +40409,7 @@ kluski:
   accentcity: "Kluski"
 kluss: 
   city: "kluss"
-  accentcity: "Kl\xC3\xBCss"
+  accentcity: "Klüss"
 klusy: 
   city: "klusy"
   accentcity: "Klusy"
@@ -40430,7 +40430,7 @@ klutznick:
   accentcity: "Klutznick"
 klutzow: 
   city: "klutzow"
-  accentcity: "Kl\xC3\xBCtzow"
+  accentcity: "Klützow"
 klwatka: 
   city: "klwatka"
   accentcity: "Klwatka"
@@ -45303,7 +45303,7 @@ konigshohe:
   accentcity: "K\xC3\xB6nigsh\xC3\xB6he"
 konigshutte: 
   city: "konigshutte"
-  accentcity: "K\xC3\xB6nigsh\xC3\xBCtte"
+  accentcity: "K\xC3\xB6nigshütte"
 konigs: 
   city: "konigs"
   accentcity: "K\xC3\xB6nigs"
@@ -45582,7 +45582,7 @@ kopaliny:
   accentcity: "Kopaliny"
 kopalnia blucher: 
   city: "kopalnia blucher"
-  accentcity: "Kopalnia Bl\xC3\xBCcher"
+  accentcity: "Kopalnia Blücher"
 kopalnia bluchle: 
   city: "kopalnia bluchle"
   accentcity: "Kopalnia Bluchle"
@@ -46203,7 +46203,7 @@ koschno:
   accentcity: "Koschno"
 koschutz: 
   city: "koschutz"
-  accentcity: "Kosch\xC3\xBCtz"
+  accentcity: "Koschütz"
 koscian: 
   city: "koscian"
   accentcity: "Koscian"
@@ -49140,7 +49140,7 @@ kruhle:
   accentcity: "Kruhle"
 kruhne: 
   city: "kruhne"
-  accentcity: "Kr\xC3\xBChne"
+  accentcity: "Krühne"
 kruki: 
   city: "kruki"
   accentcity: "Kruki"
@@ -49182,7 +49182,7 @@ krummfuss:
   accentcity: "Krummfuss"
 krummhubel: 
   city: "krummhubel"
-  accentcity: "Krummh\xC3\xBCbel"
+  accentcity: "Krummhübel"
 kruolin radomszczanski: 
   city: "kruolin radomszczanski"
   accentcity: "Kruolin Radomszczanski"
@@ -49242,7 +49242,7 @@ krupow:
   accentcity: "Krupów"
 kruppamuhle: 
   city: "kruppamuhle"
-  accentcity: "Kruppam\xC3\xBChle"
+  accentcity: "Kruppamühle"
 kruppinnen: 
   city: "kruppinnen"
   accentcity: "Kruppinnen"
@@ -50463,7 +50463,7 @@ kuchnia:
   accentcity: "Kuchnia"
 kuchwerder: 
   city: "kuchwerder"
-  accentcity: "K\xC3\xBCchwerder"
+  accentcity: "Küchwerder"
 kucice: 
   city: "kucice"
   accentcity: "Kucice"
@@ -50595,7 +50595,7 @@ kuflew:
   accentcity: "Kuflew"
 kuhlberg: 
   city: "kuhlberg"
-  accentcity: "K\xC3\xBChlberg"
+  accentcity: "Kühlberg"
 kuhnhof: 
   city: "kuhnhof"
   accentcity: "Kuhnhof"
@@ -51006,13 +51006,13 @@ kuppen:
   accentcity: "Kuppen"
 kupper bei sagan: 
   city: "kupper bei sagan"
-  accentcity: "K\xC3\xBCpper bei Sagan"
+  accentcity: "Küpper bei Sagan"
 kupper-bel-sagan: 
   city: "kupper-bel-sagan"
   accentcity: "Kupper-Bel-Sagan"
 kupper: 
   city: "kupper"
-  accentcity: "K\xC3\xBCpper"
+  accentcity: "Küpper"
 kupp: 
   city: "kupp"
   accentcity: "Kupp"
@@ -51324,7 +51324,7 @@ kusowo:
   accentcity: "Kusowo"
 kussin: 
   city: "kussin"
-  accentcity: "K\xC3\xBCssin"
+  accentcity: "Küssin"
 kustrawa: 
   city: "kustrawa"
   accentcity: "Kustrawa"
@@ -51333,7 +51333,7 @@ kustrawo:
   accentcity: "Kustrawo"
 kustrin: 
   city: "kustrin"
-  accentcity: "K\xC3\xBCstrin"
+  accentcity: "Küstrin"
 kusze: 
   city: "kusze"
   accentcity: "Kusze"
@@ -52305,7 +52305,7 @@ landsberg an der warthe:
   accentcity: "Landsberg an der Warthe"
 landsberg-bruckenvorstadt: 
   city: "landsberg-bruckenvorstadt"
-  accentcity: "Landsberg-Br\xC3\xBCckenvorstadt"
+  accentcity: "Landsberg-Brückenvorstadt"
 landsberg: 
   city: "landsberg"
   accentcity: "Landsberg"
@@ -52323,7 +52323,7 @@ langanki:
   accentcity: "Langanki"
 langbruck: 
   city: "langbruck"
-  accentcity: "Langbr\xC3\xBCck"
+  accentcity: "Langbrück"
 langebose: 
   city: "langebose"
   accentcity: "Langeb\xC3\xB6se"
@@ -52338,7 +52338,7 @@ langenbielau:
   accentcity: "Langenbielau"
 langenbruck: 
   city: "langenbruck"
-  accentcity: "Langenbr\xC3\xBCck"
+  accentcity: "Langenbrück"
 langendorf: 
   city: "langendorf"
   accentcity: "Langendorf"
@@ -53844,7 +53844,7 @@ leobrat:
   accentcity: "Leobrat"
 leobschutz: 
   city: "leobschutz"
-  accentcity: "Leobsch\xC3\xBCtz"
+  accentcity: "Leobschütz"
 leokadia: 
   city: "leokadia"
   accentcity: "Leokadia"
@@ -54690,7 +54690,7 @@ liebau:
   accentcity: "Liebau"
 liebemuhl: 
   city: "liebemuhl"
-  accentcity: "Liebem\xC3\xBChl"
+  accentcity: "Liebemühl"
 liebenau bei schwiebus: 
   city: "liebenau bei schwiebus"
   accentcity: "Liebenau bei Schwiebus"
@@ -56394,7 +56394,7 @@ lubben:
   accentcity: "Lubben"
 lubchow: 
   city: "lubchow"
-  accentcity: "L\xC3\xBCbchow"
+  accentcity: "Lübchow"
 lubcza: 
   city: "lubcza"
   accentcity: "Lubcza"
@@ -56415,13 +56415,13 @@ lubczyna:
   accentcity: "Lubczyna"
 lubeckfelde: 
   city: "lubeckfelde"
-  accentcity: "L\xC3\xBCbeckfelde"
+  accentcity: "Lübeckfelde"
 lubecko: 
   city: "lubecko"
   accentcity: "Lubecko"
 lubecksfelde: 
   city: "lubecksfelde"
-  accentcity: "L\xC3\xBCbecksfelde"
+  accentcity: "Lübecksfelde"
 lubejki: 
   city: "lubejki"
   accentcity: "Lubejki"
@@ -56433,7 +56433,7 @@ lubenia:
   accentcity: "Lubenia"
 luben: 
   city: "luben"
-  accentcity: "L\xC3\xBCben"
+  accentcity: "Lüben"
 luberadz: 
   city: "luberadz"
   accentcity: "Luberadz"
@@ -56979,7 +56979,7 @@ lubszow:
   accentcity: "Lubszów"
 lubtow: 
   city: "lubtow"
-  accentcity: "L\xC3\xBCbtow"
+  accentcity: "Lübtow"
 lubuczewo: 
   city: "lubuczewo"
   accentcity: "Lubuczewo"
@@ -57012,10 +57012,10 @@ lubzina:
   accentcity: "Lubzina"
 lubzin: 
   city: "lubzin"
-  accentcity: "L\xC3\xBCbzin"
+  accentcity: "Lübzin"
 luchenthin: 
   city: "luchenthin"
-  accentcity: "L\xC3\xBCchenthin"
+  accentcity: "Lüchenthin"
 luchow dolny: 
   city: "luchow dolny"
   accentcity: "Luchów Dolny"
@@ -57072,7 +57072,7 @@ luckau ostpreussen:
   accentcity: "Luckau Ostpreussen"
 luckerwitz: 
   city: "luckerwitz"
-  accentcity: "L\xC3\xBCckerwitz"
+  accentcity: "Lückerwitz"
 luck: 
   city: "luck"
   accentcity: "Luck"
@@ -57084,7 +57084,7 @@ lucknitz:
   accentcity: "Lucknitz"
 lucks teerofen: 
   city: "lucks teerofen"
-  accentcity: "L\xC3\xBCcks Teerofen"
+  accentcity: "Lücks Teerofen"
 lucmierz: 
   city: "lucmierz"
   accentcity: "Lucmierz"
@@ -57237,7 +57237,7 @@ ludzmierz:
   accentcity: "Ludzmierz"
 luehenthin: 
   city: "luehenthin"
-  accentcity: "L\xC3\xBCehenthin"
+  accentcity: "Lüehenthin"
 lugendorf: 
   city: "lugendorf"
   accentcity: "Lugendorf"
@@ -59727,7 +59727,7 @@ maria huta:
   accentcity: "Maria Huta"
 mariahutte: 
   city: "mariahutte"
-  accentcity: "Mariah\xC3\xBCtte"
+  accentcity: "Mariahütte"
 mariak: 
   city: "mariak"
   accentcity: "Mariak"
@@ -62124,10 +62124,10 @@ mikulowice:
   accentcity: "Mikulowice"
 mikultschutz: 
   city: "mikultschutz"
-  accentcity: "Mikultsch\xC3\xBCtz"
+  accentcity: "Mikultschütz"
 mikultschutz oberschlesien: 
   city: "mikultschutz oberschlesien"
-  accentcity: "Mikultsch\xC3\xBCtz Oberschlesien"
+  accentcity: "Mikultschütz Oberschlesien"
 mikuszewo: 
   city: "mikuszewo"
   accentcity: "Mikuszewo"
@@ -64653,10 +64653,10 @@ muchy:
   accentcity: "Muchy"
 muckeburg: 
   city: "muckeburg"
-  accentcity: "M\xC3\xBCckeburg"
+  accentcity: "Mückeburg"
 muckenburg: 
   city: "muckenburg"
-  accentcity: "M\xC3\xBCckenburg"
+  accentcity: "Mückenburg"
 muckow: 
   city: "muckow"
   accentcity: "Mucków"
@@ -64665,34 +64665,34 @@ muehlenbach:
   accentcity: "Muehlenbach"
 muggenhahl: 
   city: "muggenhahl"
-  accentcity: "M\xC3\xBCggenhahl"
+  accentcity: "Müggenhahl"
 muhlack: 
   city: "muhlack"
   accentcity: "Muhlack"
 muhlenbach: 
   city: "muhlenbach"
-  accentcity: "M\xC3\xBChlenbach"
+  accentcity: "Mühlenbach"
 muhlenberg: 
   city: "muhlenberg"
-  accentcity: "M\xC3\xBChlenberg"
+  accentcity: "Mühlenberg"
 muhlenbruch: 
   city: "muhlenbruch"
-  accentcity: "M\xC3\xBChlenbruch"
+  accentcity: "Mühlenbruch"
 muhlengrund: 
   city: "muhlengrund"
-  accentcity: "M\xC3\xBChlengrund"
+  accentcity: "Mühlengrund"
 muhlengrund ostpreussen: 
   city: "muhlengrund ostpreussen"
-  accentcity: "M\xC3\xBChlengrund Ostpreussen"
+  accentcity: "Mühlengrund Ostpreussen"
 muhlen: 
   city: "muhlen"
-  accentcity: "M\xC3\xBChlen"
+  accentcity: "Mühlen"
 muhlentor-vorstadt: 
   city: "muhlentor-vorstadt"
-  accentcity: "M\xC3\xBChlentor-Vorstadt"
+  accentcity: "Mühlentor-Vorstadt"
 muhlhausen: 
   city: "muhlhausen"
-  accentcity: "M\xC3\xBChlhausen"
+  accentcity: "Mühlhausen"
 mukrz: 
   city: "mukrz"
   accentcity: "Mukrz"
@@ -64713,19 +64713,19 @@ mule:
   accentcity: "Mule"
 mullersbruck: 
   city: "mullersbruck"
-  accentcity: "M\xC3\xBCllersbr\xC3\xBCck"
+  accentcity: "Müllersbrück"
 muly: 
   city: "muly"
   accentcity: "Muly"
 munchenfelde: 
   city: "munchenfelde"
-  accentcity: "M\xC3\xBCnchenfelde"
+  accentcity: "Münchenfelde"
 munchwitz: 
   city: "munchwitz"
-  accentcity: "M\xC3\xBCnchwitz"
+  accentcity: "Münchwitz"
 mungen: 
   city: "mungen"
-  accentcity: "M\xC3\xBCngen"
+  accentcity: "Müngen"
 muniaczkowice: 
   city: "muniaczkowice"
   accentcity: "Muniaczkowice"
@@ -64737,7 +64737,7 @@ munina:
   accentcity: "Munina"
 munsterberg: 
   city: "munsterberg"
-  accentcity: "M\xC3\xBCnsterberg"
+  accentcity: "Münsterberg"
 muntau: 
   city: "muntau"
   accentcity: "Muntau"
@@ -65988,7 +65988,7 @@ neu borowen:
   accentcity: "Neu Borowen"
 neubruck: 
   city: "neubruck"
-  accentcity: "Neubr\xC3\xBCck"
+  accentcity: "Neubrück"
 neu butkuhnen: 
   city: "neu butkuhnen"
   accentcity: "Neu Butkuhnen"
@@ -66255,13 +66255,13 @@ neumittelwalde:
   accentcity: "Neumittelwalde"
 neu muhlbach: 
   city: "neu muhlbach"
-  accentcity: "Neu M\xC3\xBChlbach"
+  accentcity: "Neu Mühlbach"
 neu munsterberg: 
   city: "neu munsterberg"
-  accentcity: "Neu M\xC3\xBCnsterberg"
+  accentcity: "Neu Münsterberg"
 neumunsterberg: 
   city: "neumunsterberg"
-  accentcity: "Neum\xC3\xBCnsterberg"
+  accentcity: "Neumünsterberg"
 neundorf: 
   city: "neundorf"
   accentcity: "Neundorf"
@@ -66783,7 +66783,7 @@ nieder ullersdorf:
   accentcity: "Nieder Ullersdorf"
 nieder wustegiersdorf: 
   city: "nieder wustegiersdorf"
-  accentcity: "Nieder W\xC3\xBCstegiersdorf"
+  accentcity: "Nieder Wüstegiersdorf"
 niederwutzen: 
   city: "niederwutzen"
   accentcity: "Niederwutzen"
@@ -69459,7 +69459,7 @@ oberholle:
   accentcity: "Oberh\xC3\xB6lle"
 oberhutte: 
   city: "oberhutte"
-  accentcity: "Oberh\xC3\xBCtte"
+  accentcity: "Oberhütte"
 ober kahlbude: 
   city: "ober kahlbude"
   accentcity: "Ober Kahlbude"
@@ -69525,7 +69525,7 @@ oberwia:
   accentcity: "Oberwia"
 ober wustegiersdorf: 
   city: "ober wustegiersdorf"
-  accentcity: "Ober W\xC3\xBCstegiersdorf"
+  accentcity: "Ober Wüstegiersdorf"
 obice: 
   city: "obice"
   accentcity: "Obice"
@@ -69975,13 +69975,13 @@ odechow:
   accentcity: "Odechów"
 oderbruck: 
   city: "oderbruck"
-  accentcity: "Oderbr\xC3\xBCck"
+  accentcity: "Oderbrück"
 odereck: 
   city: "odereck"
   accentcity: "Odereck"
 odermunde: 
   city: "odermunde"
-  accentcity: "Oderm\xC3\xBCnde"
+  accentcity: "Odermünde"
 odertal: 
   city: "odertal"
   accentcity: "Odertal"
@@ -71262,10 +71262,10 @@ oprzezow:
   accentcity: "Oprzezow"
 opukelmuhle: 
   city: "opukelmuhle"
-  accentcity: "Opukelm\xC3\xBChle"
+  accentcity: "Opukelmühle"
 opukelmule: 
   city: "opukelmule"
-  accentcity: "Opukelm\xC3\xBCle"
+  accentcity: "Opukelmüle"
 opypy: 
   city: "opypy"
   accentcity: "Opypy"
@@ -72774,7 +72774,7 @@ ownice:
   accentcity: "Ownice"
 owschutz: 
   city: "owschutz"
-  accentcity: "Owsch\xC3\xBCtz"
+  accentcity: "Owschütz"
 owsiszcze: 
   city: "owsiszcze"
   accentcity: "Owsiszcze"
@@ -76620,7 +76620,7 @@ pludy:
   accentcity: "Pludy"
 plumkenau: 
   city: "plumkenau"
-  accentcity: "Pl\xC3\xBCmkenau"
+  accentcity: "Plümkenau"
 pluski: 
   city: "pluski"
   accentcity: "Pluski"
@@ -80274,7 +80274,7 @@ pruszyn:
   accentcity: "Pruszyn"
 prutznow: 
   city: "prutznow"
-  accentcity: "Pr\xC3\xBCtznow"
+  accentcity: "Prütznow"
 prylowo: 
   city: "prylowo"
   accentcity: "Prylowo"
@@ -81855,7 +81855,7 @@ pultusk:
   accentcity: "Pultusk"
 pulz: 
   city: "pulz"
-  accentcity: "P\xC3\xBClz"
+  accentcity: "Pülz"
 pumlow: 
   city: "pumlow"
   accentcity: "Pumlow"
@@ -82047,7 +82047,7 @@ putzig:
   accentcity: "Putzig"
 putz: 
   city: "putz"
-  accentcity: "P\xC3\xBCtz"
+  accentcity: "Pütz"
 puzdrowizna: 
   city: "puzdrowizna"
   accentcity: "Puzdrowizna"
@@ -83643,7 +83643,7 @@ rauschenwalde:
   accentcity: "Rauschenwalde"
 rauschken ostpreussen sud uber wartenburg ostpreussen: 
   city: "rauschken ostpreussen sud uber wartenburg ostpreussen"
-  accentcity: "Rauschken Ostpreussen S\xC3\xBCd \xC3\xBCber Wartenburg Ostpreussen"
+  accentcity: "Rauschken Ostpreussen Süd über Wartenburg Ostpreussen"
 rauschken: 
   city: "rauschken"
   accentcity: "Rauschken"
@@ -85731,7 +85731,7 @@ rothhof:
   accentcity: "Rothhof"
 rothsurben: 
   city: "rothsurben"
-  accentcity: "Roths\xC3\xBCrben"
+  accentcity: "Rothsürben"
 rothwasser: 
   city: "rothwasser"
   accentcity: "Rothwasser"
@@ -86175,7 +86175,7 @@ rubcowo:
   accentcity: "Rubcowo"
 rubenzahl: 
   city: "rubenzahl"
-  accentcity: "R\xC3\xBCbenzahl"
+  accentcity: "Rübenzahl"
 rubno wielkie: 
   city: "rubno wielkie"
   accentcity: "Rubno Wielkie"
@@ -86214,7 +86214,7 @@ ruciany:
   accentcity: "Ruciany"
 ruckenau: 
   city: "ruckenau"
-  accentcity: "R\xC3\xBCckenau"
+  accentcity: "Rückenau"
 rucowe lasy: 
   city: "rucowe lasy"
   accentcity: "Rucowe Lasy"
@@ -86613,10 +86613,10 @@ rufen:
   accentcity: "Rufen"
 rugenwaldermunde: 
   city: "rugenwaldermunde"
-  accentcity: "R\xC3\xBCgenwalderm\xC3\xBCnde"
+  accentcity: "Rügenwaldermünde"
 rugenwalde: 
   city: "rugenwalde"
-  accentcity: "R\xC3\xBCgenwalde"
+  accentcity: "Rügenwalde"
 ruhacze: 
   city: "ruhacze"
   accentcity: "Ruhacze"
@@ -87084,7 +87084,7 @@ rutwica:
   accentcity: "Rutwica"
 rutzenhagen: 
   city: "rutzenhagen"
-  accentcity: "R\xC3\xBCtzenhagen"
+  accentcity: "Rützenhagen"
 ruze: 
   city: "ruze"
   accentcity: "Ruze"
@@ -89202,7 +89202,7 @@ scharpau:
   accentcity: "Scharpau"
 scharshutte: 
   city: "scharshutte"
-  accentcity: "Scharsh\xC3\xBCtte"
+  accentcity: "Scharshütte"
 schast: 
   city: "schast"
   accentcity: "Schast"
@@ -89445,13 +89445,13 @@ schmolz:
   accentcity: "Schmolz"
 schmuckwalde gross: 
   city: "schmuckwalde gross"
-  accentcity: "Schm\xC3\xBCckwalde Gross"
+  accentcity: "Schmückwalde Gross"
 schmuckwalde klein: 
   city: "schmuckwalde klein"
-  accentcity: "Schm\xC3\xBCckwalde Klein"
+  accentcity: "Schmückwalde Klein"
 schmuckwalde: 
   city: "schmuckwalde"
-  accentcity: "Schm\xC3\xBCckwalde"
+  accentcity: "Schmückwalde"
 schnakenburg: 
   city: "schnakenburg"
   accentcity: "Schnakenburg"
@@ -89463,10 +89463,10 @@ schneegrund:
   accentcity: "Schneegrund"
 schneidemuhle alteiche: 
   city: "schneidemuhle alteiche"
-  accentcity: "Schneidem\xC3\xBChle Alteiche"
+  accentcity: "Schneidemühle Alteiche"
 schneidemuhl: 
   city: "schneidemuhl"
-  accentcity: "Schneidem\xC3\xBChl"
+  accentcity: "Schneidemühl"
 schnellau: 
   city: "schnellau"
   accentcity: "Schnellau"
@@ -89574,7 +89574,7 @@ schonborn:
   accentcity: "Sch\xC3\xB6nborn"
 schonbruck: 
   city: "schonbruck"
-  accentcity: "Sch\xC3\xB6nbr\xC3\xBCck"
+  accentcity: "Sch\xC3\xB6nbrück"
 schondamerau: 
   city: "schondamerau"
   accentcity: "Sch\xC3\xB6ndamerau"
@@ -89712,7 +89712,7 @@ schruptow:
   accentcity: "Schruptow"
 schubben: 
   city: "schubben"
-  accentcity: "Sch\xC3\xBCbben"
+  accentcity: "Schübben"
 schubertskrosse: 
   city: "schubertskrosse"
   accentcity: "Schubertskrosse"
@@ -89724,7 +89724,7 @@ schuchten:
   accentcity: "Schuchten"
 schuddelkau: 
   city: "schuddelkau"
-  accentcity: "Sch\xC3\xBCddelkau"
+  accentcity: "Schüddelkau"
 schulen: 
   city: "schulen"
   accentcity: "Schulen"
@@ -89736,7 +89736,7 @@ schulwiese:
   accentcity: "Schulwiese"
 schulzen: 
   city: "schulzen"
-  accentcity: "Sch\xC3\xBClzen"
+  accentcity: "Schülzen"
 schulzenweide: 
   city: "schulzenweide"
   accentcity: "Schulzenweide"
@@ -89754,13 +89754,13 @@ schuttschen:
   accentcity: "Schuttschen"
 schutzenan: 
   city: "schutzenan"
-  accentcity: "Sch\xC3\xBCtzenan"
+  accentcity: "Schützenan"
 schutzendorf: 
   city: "schutzendorf"
-  accentcity: "Sch\xC3\xBCtzendorf"
+  accentcity: "Schützendorf"
 schutzengrund: 
   city: "schutzengrund"
-  accentcity: "Sch\xC3\xBCtzengrund"
+  accentcity: "Schützengrund"
 schwadtken bei preussisch eylau: 
   city: "schwadtken bei preussisch eylau"
   accentcity: "Schwadtken bei Preussisch Eylau"
@@ -89811,7 +89811,7 @@ schwarzenofen:
   accentcity: "Schwarzenofen"
 schwarzhutte: 
   city: "schwarzhutte"
-  accentcity: "Schwarzh\xC3\xBCtte"
+  accentcity: "Schwarzhütte"
 schwarzstein: 
   city: "schwarzstein"
   accentcity: "Schwarzstein"
@@ -90147,7 +90147,7 @@ seebad:
   accentcity: "Seebad"
 seebrucken: 
   city: "seebrucken"
-  accentcity: "Seebr\xC3\xBCcken"
+  accentcity: "Seebrücken"
 see-buckow: 
   city: "see-buckow"
   accentcity: "See-Buckow"
@@ -97503,7 +97503,7 @@ stettin-wilberwiese:
   accentcity: "Stettin-Wilberwiese"
 stettin zullchow: 
   city: "stettin zullchow"
-  accentcity: "Stettin Z\xC3\xBCllchow"
+  accentcity: "Stettin Züllchow"
 steznica: 
   city: "steznica"
   accentcity: "Steznica"
@@ -97761,7 +97761,7 @@ stolp in pommern:
   accentcity: "Stolp in Pommern"
 stolpmunde: 
   city: "stolpmunde"
-  accentcity: "Stolpm\xC3\xBCnde"
+  accentcity: "Stolpmünde"
 stolpno: 
   city: "stolpno"
   accentcity: "Stolpno"
@@ -98043,7 +98043,7 @@ straubendorf:
   accentcity: "Straubendorf"
 strauchhutte: 
   city: "strauchhutte"
-  accentcity: "Strauchh\xC3\xBCtte"
+  accentcity: "Strauchhütte"
 strawczynek: 
   city: "strawczynek"
   accentcity: "Strawczynek"
@@ -98799,7 +98799,7 @@ stubienko:
   accentcity: "Stubienko"
 stublau: 
   city: "stublau"
-  accentcity: "St\xC3\xBCblau"
+  accentcity: "Stüblau"
 stubno: 
   city: "stubno"
   accentcity: "Stubno"
@@ -98883,7 +98883,7 @@ stuhm:
   accentcity: "Stuhm"
 stuhmswalde: 
   city: "stuhmswalde"
-  accentcity: "St\xC3\xBChmswalde"
+  accentcity: "Stühmswalde"
 stulichy: 
   city: "stulichy"
   accentcity: "Stulichy"
@@ -98898,7 +98898,7 @@ stumsdorf:
   accentcity: "Stumsdorf"
 stumswalde: 
   city: "stumswalde"
-  accentcity: "St\xC3\xBCmswalde"
+  accentcity: "Stümswalde"
 stupice: 
   city: "stupice"
   accentcity: "Stupice"
@@ -99729,10 +99729,10 @@ susnik:
   accentcity: "Susnik"
 sussenberg: 
   city: "sussenberg"
-  accentcity: "S\xC3\xBCssenberg"
+  accentcity: "Süssenberg"
 sussenthal: 
   city: "sussenthal"
-  accentcity: "S\xC3\xBCssenthal"
+  accentcity: "Süssenthal"
 sussnick: 
   city: "sussnick"
   accentcity: "Sussnick"
@@ -100443,10 +100443,10 @@ swilcza:
   accentcity: "Swilcza"
 swinemude: 
   city: "swinemude"
-  accentcity: "Swinem\xC3\xBCde"
+  accentcity: "Swinemüde"
 swinemunde: 
   city: "swinemunde"
-  accentcity: "Swinem\xC3\xBCnde"
+  accentcity: "Swinemünde"
 swiniarow: 
   city: "swiniarow"
   accentcity: "Swiniarow"
@@ -102684,7 +102684,7 @@ tabedz:
   accentcity: "Tabedz"
 taberbruck: 
   city: "taberbruck"
-  accentcity: "Taberbr\xC3\xBCck"
+  accentcity: "Taberbrück"
 taberwiese: 
   city: "taberwiese"
   accentcity: "Taberwiese"
@@ -104544,7 +104544,7 @@ trockenhorn:
   accentcity: "Trockenhorn"
 trockenhutte: 
   city: "trockenhutte"
-  accentcity: "Trockenh\xC3\xBCtte"
+  accentcity: "Trockenhütte"
 trofimowka: 
   city: "trofimowka"
   accentcity: "Trofimówka"
@@ -105375,7 +105375,7 @@ tscherbeney:
   accentcity: "Tscherbeney"
 tschicherzig kreis zullichau: 
   city: "tschicherzig kreis zullichau"
-  accentcity: "Tschicherzig Kreis Z\xC3\xBCllichau"
+  accentcity: "Tschicherzig Kreis Züllichau"
 tschicherzig: 
   city: "tschicherzig"
   accentcity: "Tschicherzig"
@@ -105585,7 +105585,7 @@ tumusin:
   accentcity: "Tumusin"
 tungen: 
   city: "tungen"
-  accentcity: "T\xC3\xBCngen"
+  accentcity: "Tüngen"
 tuniki male: 
   city: "tuniki male"
   accentcity: "Tuniki Male"
@@ -105627,7 +105627,7 @@ turbia:
   accentcity: "Turbia"
 turchau: 
   city: "turchau"
-  accentcity: "T\xC3\xBCrchau"
+  accentcity: "Türchau"
 turczyn: 
   city: "turczyn"
   accentcity: "Turczyn"
@@ -105906,7 +105906,7 @@ tuszyny:
   accentcity: "Tuszyny"
 tutz: 
   city: "tutz"
-  accentcity: "T\xC3\xBCtz"
+  accentcity: "Tütz"
 tuznikow: 
   city: "tuznikow"
   accentcity: "Tuznikow"
@@ -107244,7 +107244,7 @@ vezhbitsa:
   accentcity: "Vezhbitsa"
 vierbrucken: 
   city: "vierbrucken"
-  accentcity: "Vierbr\xC3\xBCcken"
+  accentcity: "Vierbrücken"
 vier: 
   city: "vier"
   accentcity: "Vier"
@@ -107259,7 +107259,7 @@ vierzighufen:
   accentcity: "Vierzighufen"
 vietzig uber lauenburg pommern: 
   city: "vietzig uber lauenburg pommern"
-  accentcity: "Vietzig \xC3\xBCber Lauenburg Pommern"
+  accentcity: "Vietzig über Lauenburg Pommern"
 vietzig: 
   city: "vietzig"
   accentcity: "Vietzig"
@@ -107850,7 +107850,7 @@ waltershoh:
   accentcity: "Waltersh\xC3\xB6h"
 waltersmuhl: 
   city: "waltersmuhl"
-  accentcity: "Waltersm\xC3\xBChl"
+  accentcity: "Waltersmühl"
 wal: 
   city: "wal"
   accentcity: "Wal"
@@ -108273,7 +108273,7 @@ wartha:
   accentcity: "Wartha"
 warthbrucken: 
   city: "warthbrucken"
-  accentcity: "Warthbr\xC3\xBCcken"
+  accentcity: "Warthbrücken"
 wartkowice: 
   city: "wartkowice"
   accentcity: "Wartkowice"
@@ -108786,7 +108786,7 @@ wehrwilten:
   accentcity: "Wehrwilten"
 weichselmunde: 
   city: "weichselmunde"
-  accentcity: "Weichselm\xC3\xBCnde"
+  accentcity: "Weichselmünde"
 weidenbach: 
   city: "weidenbach"
   accentcity: "Weidenbach"
@@ -108813,7 +108813,7 @@ weingarten:
   accentcity: "Weingarten"
 weinhubel: 
   city: "weinhubel"
-  accentcity: "Weinh\xC3\xBCbel"
+  accentcity: "Weinhübel"
 weinsdorf: 
   city: "weinsdorf"
   accentcity: "Weinsdorf"
@@ -115398,16 +115398,16 @@ wulkow:
   accentcity: "Wulkow"
 wultschkau: 
   city: "wultschkau"
-  accentcity: "W\xC3\xBCltschkau"
+  accentcity: "Wültschkau"
 wultsckau: 
   city: "wultsckau"
-  accentcity: "W\xC3\xBCltsckau"
+  accentcity: "Wültsckau"
 wundichow: 
   city: "wundichow"
   accentcity: "Wundichow"
 wunschelburg: 
   city: "wunschelburg"
-  accentcity: "W\xC3\xBCnschelburg"
+  accentcity: "Wünschelburg"
 wurchow: 
   city: "wurchow"
   accentcity: "Wurchow"
@@ -115425,19 +115425,19 @@ wusseken:
   accentcity: "Wusseken"
 wustegiersdorf: 
   city: "wustegiersdorf"
-  accentcity: "W\xC3\xBCstegiersdorf"
+  accentcity: "Wüstegiersdorf"
 wustelwaltersdorf: 
   city: "wustelwaltersdorf"
-  accentcity: "W\xC3\xBCstelwaltersdorf"
+  accentcity: "Wüstelwaltersdorf"
 wusterbarth: 
   city: "wusterbarth"
   accentcity: "Wusterbarth"
 wusterwaltersdorf: 
   city: "wusterwaltersdorf"
-  accentcity: "W\xC3\xBCsterwaltersdorf"
+  accentcity: "Wüsterwaltersdorf"
 wustewaltersdorf: 
   city: "wustewaltersdorf"
-  accentcity: "W\xC3\xBCstewaltersdorf"
+  accentcity: "Wüstewaltersdorf"
 wustrow: 
   city: "wustrow"
   accentcity: "Wustrow"
@@ -121140,7 +121140,7 @@ zolkwy:
   accentcity: "Zolkwy"
 zollbruck: 
   city: "zollbruck"
-  accentcity: "Zollbr\xC3\xBCck"
+  accentcity: "Zollbrück"
 zollerndorf: 
   city: "zollerndorf"
   accentcity: "Zollerndorf"
@@ -121413,7 +121413,7 @@ zugienie:
   accentcity: "Zugienie"
 zuhlsdorf: 
   city: "zuhlsdorf"
-  accentcity: "Z\xC3\xBChlsdorf"
+  accentcity: "Zühlsdorf"
 zukcin: 
   city: "zukcin"
   accentcity: "Zukcin"
@@ -121482,13 +121482,13 @@ zulin:
   accentcity: "Zulin"
 zullchow: 
   city: "zullchow"
-  accentcity: "Z\xC3\xBCllchow"
+  accentcity: "Züllchow"
 zullichau: 
   city: "zullichau"
-  accentcity: "Z\xC3\xBCllichau"
+  accentcity: "Züllichau"
 zulz: 
   city: "zulz"
-  accentcity: "Z\xC3\xBClz"
+  accentcity: "Zülz"
 zumpy: 
   city: "zumpy"
   accentcity: "Zumpy"

@@ -35,7 +35,7 @@ agua dulce:
   accentcity: "Agua Dulce"
 agua fria: 
   city: "agua fria"
-  accentcity: "Agua Fr\xC3\xACa"
+  accentcity: "Agua Frìa"
 agua planta: 
   city: "agua planta"
   accentcity: "Agua Planta"
@@ -59,7 +59,7 @@ ahuehuito:
   accentcity: "Ahuehuito"
 alamicamba: 
   city: "alamicamba"
-  accentcity: "Alam\xC3\xACcamba"
+  accentcity: "Alamìcamba"
 alamikamba: 
   city: "alamikamba"
   accentcity: "Alamikamba"
@@ -1031,13 +1031,13 @@ chacalapa:
   accentcity: "Chacalapa"
 chaguite grande: 
   city: "chaguite grande"
-  accentcity: "Chag\xC3\xBCite Grande"
+  accentcity: "Chagüite Grande"
 chaguitillo: 
   city: "chaguitillo"
-  accentcity: "Chag\xC3\xBCitillo"
+  accentcity: "Chagüitillo"
 chaguito grande: 
   city: "chaguito grande"
-  accentcity: "Chag\xC3\xBCito Grande"
+  accentcity: "Chagüito Grande"
 chahuite grande: 
   city: "chahuite grande"
   accentcity: "Chahuite Grande"
@@ -1313,7 +1313,7 @@ coseguina:
   accentcity: "Coseguina"
 cosiguina: 
   city: "cosiguina"
-  accentcity: "Cosig\xC3\xBCina"
+  accentcity: "Cosigüina"
 cosmapa: 
   city: "cosmapa"
   accentcity: "Cosmapa"
@@ -1721,7 +1721,7 @@ el chague:
   accentcity: "El Chague"
 el chaguite: 
   city: "el chaguite"
-  accentcity: "El Chag\xC3\xBCite"
+  accentcity: "El Chagüite"
 el chamarro: 
   city: "el chamarro"
   accentcity: "El Chamarro"
@@ -2669,16 +2669,16 @@ guiguili:
   accentcity: "Guiguilí"
 guilique: 
   city: "guilique"
-  accentcity: "G\xC3\xBCilique"
+  accentcity: "Güilique"
 guilises: 
   city: "guilises"
   accentcity: "Guilises"
 guina: 
   city: "guina"
-  accentcity: "G\xC3\xBCina"
+  accentcity: "Güina"
 guiquiliapa: 
   city: "guiquiliapa"
-  accentcity: "G\xC3\xBCiquiliapa"
+  accentcity: "Güiquiliapa"
 guiquili: 
   city: "guiquili"
   accentcity: "Guiquili"
@@ -2690,13 +2690,13 @@ guiscanal:
   accentcity: "Guiscanal"
 guiscaran: 
   city: "guiscaran"
-  accentcity: "G\xC3\xBCiscarán"
+  accentcity: "Güiscarán"
 guiscaya: 
   city: "guiscaya"
   accentcity: "Guiscaya"
 guiscoyol: 
   city: "guiscoyol"
-  accentcity: "G\xC3\xBCiscoyol"
+  accentcity: "Güiscoyol"
 guiscyal: 
   city: "guiscyal"
   accentcity: "Guiscyal"
@@ -2705,7 +2705,7 @@ guisguilapa:
   accentcity: "Guisguilapa"
 guisquilapa: 
   city: "guisquilapa"
-  accentcity: "G\xC3\xBCisquilapa"
+  accentcity: "Güisquilapa"
 guisquiliapa: 
   city: "guisquiliapa"
   accentcity: "Guisquiliapa"
@@ -3731,7 +3731,7 @@ la sabaneta:
   accentcity: "La Sabaneta"
 las animas: 
   city: "las animas"
-  accentcity: "Las \xC3\x81nimas"
+  accentcity: "Las Ánimas"
 las banderas: 
   city: "las banderas"
   accentcity: "Las Banderas"
@@ -3833,7 +3833,7 @@ la sirena:
   accentcity: "La Sirena"
 las jaguitas: 
   city: "las jaguitas"
-  accentcity: "Las Jag\xC3\xBCitas"
+  accentcity: "Las Jagüitas"
 las labores: 
   city: "las labores"
   accentcity: "Las Labores"
@@ -4181,7 +4181,7 @@ los altos:
   accentcity: "Los Altos"
 los angeles: 
   city: "los angeles"
-  accentcity: "Los \xC3\x81ngeles"
+  accentcity: "Los Ángeles"
 los arados: 
   city: "los arados"
   accentcity: "Los Arados"
@@ -4241,7 +4241,7 @@ los cerritos:
   accentcity: "Los Cerritos"
 los chaguites: 
   city: "los chaguites"
-  accentcity: "Los Chag\xC3\xBCites"
+  accentcity: "Los Chagüites"
 los chilamates: 
   city: "los chilamates"
   accentcity: "Los Chilamates"
@@ -5030,7 +5030,7 @@ paiwitas:
   accentcity: "Paiwitas"
 palacaguina: 
   city: "palacaguina"
-  accentcity: "Palacag\xC3\xBCina"
+  accentcity: "Palacagüina"
 palermo: 
   city: "palermo"
   accentcity: "Palermo"
@@ -5189,7 +5189,7 @@ penas blancas:
   accentcity: "Peñas Blancas"
 penjamon: 
   city: "penjamon"
-  accentcity: "Penjam\xC3\xB5n"
+  accentcity: "Penjamõn"
 peor es nada: 
   city: "peor es nada"
   accentcity: "Peor Es Nada"
@@ -6881,7 +6881,7 @@ valencia:
   accentcity: "Valencia"
 valgue: 
   city: "valgue"
-  accentcity: "Valg\xC3\xBCe"
+  accentcity: "Valgüe"
 valle congojas: 
   city: "valle congojas"
   accentcity: "Valle Congojas"
@@ -6908,7 +6908,7 @@ valle ducuali:
   accentcity: "Valle Ducualí"
 valle el angel: 
   city: "valle el angel"
-  accentcity: "Valle El \xC3\x81ngel"
+  accentcity: "Valle El Ángel"
 valle el brasil: 
   city: "valle el brasil"
   accentcity: "Valle El Brasil"
@@ -7283,7 +7283,7 @@ yakalpanani:
   accentcity: "Yakalpanani"
 yalaguina: 
   city: "yalaguina"
-  accentcity: "Yalag\xC3\xBCina"
+  accentcity: "Yalagüina"
 yali: 
   city: "yali"
   accentcity: "Yalí"

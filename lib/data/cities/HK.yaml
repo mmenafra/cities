@@ -215,7 +215,7 @@ choong wan:
   accentcity: "Choong Wan"
 chuan-wan: 
   city: "ch'uan-wan"
-  accentcity: "Ch'\xC3\xBCan-wan"
+  accentcity: "Ch'üan-wan"
 chuen lung: 
   city: "chuen lung"
   accentcity: "Chuen Lung"
@@ -1844,7 +1844,7 @@ ping shan chai:
   accentcity: "Ping Shan Chai"
 ping-shan-hsu: 
   city: "p'ing-shan-hsu"
-  accentcity: "P'ing-shan-hs\xC3\xBC"
+  accentcity: "P'ing-shan-hsü"
 ping shan: 
   city: "ping shan"
   accentcity: "Ping Shan"
@@ -3713,10 +3713,10 @@ yiu tsz kin:
   accentcity: "Yiu Tsz Kin"
 yuan-lang-hsin-hsu: 
   city: "yuan-lang-hsin-hsu"
-  accentcity: "Y\xC3\xBCan-lang-hsin-hs\xC3\xBC"
+  accentcity: "Yüan-lang-hsin-hsü"
 yuan-lang-hsu: 
   city: "yuan-lang-hsu"
-  accentcity: "Yuan-lang-hs\xC3\xBC"
+  accentcity: "Yuan-lang-hsü"
 yue kok: 
   city: "yue kok"
   accentcity: "Yue Kok"

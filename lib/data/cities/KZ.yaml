@@ -1799,7 +1799,7 @@ aqsu-ayuly:
   accentcity: "Aqsu-Ayuly"
 aqsuyek: 
   city: "aqsuyek"
-  accentcity: "Aqs\xC3\xBCyek"
+  accentcity: "Aqsüyek"
 aqtam: 
   city: "aqtam"
   accentcity: "Aqtam"
@@ -1823,7 +1823,7 @@ aqtoghay:
   accentcity: "Aqtoghay"
 aqtubek: 
   city: "aqtubek"
-  accentcity: "Aqt\xC3\xBCbek"
+  accentcity: "Aqtübek"
 aqtuyesay: 
   city: "aqtuyesay"
   accentcity: "Aqtuyesay"
@@ -6272,7 +6272,7 @@ burkhanka:
   accentcity: "Burkhanka"
 burkitti: 
   city: "burkitti"
-  accentcity: "B\xC3\xBCrkitti"
+  accentcity: "Bürkitti"
 burkotovo: 
   city: "burkotovo"
   accentcity: "Burkotovo"
@@ -9680,7 +9680,7 @@ gulshad:
   accentcity: "Gul'shad"
 gulshat: 
   city: "gulshat"
-  accentcity: "G\xC3\xBClshat"
+  accentcity: "Gülshat"
 gulyayevka: 
   city: "gulyayevka"
   accentcity: "Gulyayevka"
@@ -16691,7 +16691,7 @@ kurday-pavlovka:
   accentcity: "Kurday-Pavlovka"
 kurengbel: 
   city: "kurengbel"
-  accentcity: "K\xC3\xBCrengbel"
+  accentcity: "Kürengbel"
 kurgaldzhino: 
   city: "kurgal'dzhino"
   accentcity: "Kurgal'dzhino"
@@ -16802,7 +16802,7 @@ kurshilik:
   accentcity: "Kurshilik"
 kurshim: 
   city: "kurshim"
-  accentcity: "K\xC3\xBCrshim"
+  accentcity: "Kürshim"
 kurskiy: 
   city: "kurskiy"
   accentcity: "Kurskiy"
@@ -23513,7 +23513,7 @@ qaraturyq:
   accentcity: "Qaraturyq"
 qaraunggir: 
   city: "qaraunggir"
-  accentcity: "Qara\xC3\xBCnggir"
+  accentcity: "Qaraünggir"
 qarauyl: 
   city: "qarauyl"
   accentcity: "Qarauyl"
@@ -28295,7 +28295,7 @@ suly:
   accentcity: "Suly"
 sumbe: 
   city: "sumbe"
-  accentcity: "S\xC3\xBCmbe"
+  accentcity: "Sümbe"
 sumnoe: 
   city: "sumnoe"
   accentcity: "Sumnoe"
@@ -28349,7 +28349,7 @@ susarenka:
   accentcity: "Susarenka"
 sutkent: 
   city: "sutkent"
-  accentcity: "S\xC3\xBCtkent"
+  accentcity: "Sütkent"
 suttegende: 
   city: "suttegende"
   accentcity: "Suttegende"
@@ -28382,7 +28382,7 @@ suygensay:
   accentcity: "Suygensay"
 suyindik: 
   city: "suyindik"
-  accentcity: "S\xC3\xBCyindik"
+  accentcity: "Süyindik"
 suykbulak: 
   city: "suykbulak"
   accentcity: "Suykbulak"
@@ -29231,7 +29231,7 @@ tasto-bulak:
   accentcity: "Tast\xC3\xB6-bulak"
 tastubek: 
   city: "tastubek"
-  accentcity: "Tast\xC3\xBCbek"
+  accentcity: "Tastübek"
 tastuma: 
   city: "tastuma"
   accentcity: "Tastuma"
@@ -30302,7 +30302,7 @@ tortqudyq:
   accentcity: "T\xC3\xB6rtqudyq"
 tortuy: 
   city: "tortuy"
-  accentcity: "T\xC3\xB6rt\xC3\xBCy"
+  accentcity: "T\xC3\xB6rtüy"
 torukseb: 
   city: "torukseb"
   accentcity: "Torukseb"
@@ -30578,7 +30578,7 @@ tughyl:
   accentcity: "Tughyl"
 tugisken: 
   city: "tugisken"
-  accentcity: "T\xC3\xBCgisken"
+  accentcity: "Tügisken"
 tugiz: 
   city: "tugiz"
   accentcity: "Tugiz"
@@ -30644,7 +30644,7 @@ tulims-aul:
   accentcity: "Tulims-aul"
 tulkibas: 
   city: "tulkibas"
-  accentcity: "T\xC3\xBClkibas"
+  accentcity: "Tülkibas"
 tulkili: 
   city: "tul'kili"
   accentcity: "Tul'kili"
@@ -30761,7 +30761,7 @@ turgen:
   accentcity: "Turgen'"
 turgen: 
   city: "turgen"
-  accentcity: "T\xC3\xBCrgen"
+  accentcity: "Türgen"
 turgusuk: 
   city: "turgusuk"
   accentcity: "Turgusuk"
@@ -30782,7 +30782,7 @@ turkestan:
   accentcity: "Turkestan"
 turkistan: 
   city: "turkistan"
-  accentcity: "T\xC3\xBCrkistan"
+  accentcity: "Türkistan"
 turksiba: 
   city: "turksiba"
   accentcity: "Turksiba"
@@ -30887,10 +30887,10 @@ tuyemoynak:
   accentcity: "Tuyemoynak"
 tuyemoynaq: 
   city: "tuyemoynaq"
-  accentcity: "T\xC3\xBCyemoynaq"
+  accentcity: "Tüyemoynaq"
 tuymekent: 
   city: "tuymekent"
-  accentcity: "T\xC3\xBCymekent"
+  accentcity: "Tüymekent"
 tuyuk: 
   city: "tuyuk"
   accentcity: "Tuyuk"
@@ -34568,7 +34568,7 @@ zhanoma:
   accentcity: "Zhanoma"
 zhansugirov: 
   city: "zhansugirov"
-  accentcity: "Zhans\xC3\xBCgirov"
+  accentcity: "Zhansügirov"
 zhantaksay: 
   city: "zhantaksay"
   accentcity: "Zhantaksay"
@@ -35282,7 +35282,7 @@ zhmantau:
   accentcity: "Zhmantau"
 zhogharghy kurshim: 
   city: "zhogharghy kurshim"
-  accentcity: "Zhogharghy K\xC3\xBCrshim"
+  accentcity: "Zhogharghy Kürshim"
 zholaman: 
   city: "zholaman"
   accentcity: "Zholaman"
@@ -35483,7 +35483,7 @@ zhuravlev:
   accentcity: "Zhuravlëv"
 zhurekadyr: 
   city: "zhurekadyr"
-  accentcity: "Zh\xC3\xBCrekadyr"
+  accentcity: "Zhürekadyr"
 zhurpash: 
   city: "zhurpash"
   accentcity: "Zhurpash"

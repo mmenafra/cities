@@ -695,7 +695,7 @@ al-salt:
   accentcity: "Al-Salt"
 aluk: 
   city: "`aluk"
-  accentcity: "`\xC3\x82l\xC3\xBBk"
+  accentcity: "`Âl\xC3\xBBk"
 al umari: 
   city: "al `umari"
   accentcity: "Al `Umari"
@@ -1268,7 +1268,7 @@ beit idis:
   accentcity: "Beit Idis"
 beit ras: 
   city: "beit ras"
-  accentcity: "Beit R\xC3\xA2s"
+  accentcity: "Beit Râs"
 beit yafa: 
   city: "beit yafa"
   accentcity: "Beit Yafa"
@@ -1487,13 +1487,13 @@ dhaba:
   accentcity: "Dhab`a"
 "dhat raa\xC2\x80\xC2\x9Ds": 
   city: "dhat raa\xC2\x80\xC2\x9Ds"
-  accentcity: "Dhat Ra\xC3\xA2\xC2\x80\xC2\x9Ds"
+  accentcity: "Dhat Raâ\xC2\x80\xC2\x9Ds"
 dhiban: 
   city: "dhiban"
   accentcity: "Dhiban"
 dhira: 
   city: "dhira`"
-  accentcity: "Dhir\xC3\xA2`"
+  accentcity: "Dhirâ`"
 dhuhayba: 
   city: "dhuhayba"
   accentcity: "Dhuhayba"
@@ -2012,7 +2012,7 @@ el mejide:
   accentcity: "El Mejide"
 el mekawer: 
   city: "el mekawer"
-  accentcity: "El Mek\xC3\xA2wer"
+  accentcity: "El Mekâwer"
 el mekheibe: 
   city: "el mekheibe"
   accentcity: "El Mekheibe"
@@ -2792,7 +2792,7 @@ iraq el amir:
   accentcity: "`Iraq el Amir"
 iraq: 
   city: "`iraq"
-  accentcity: "`Ir\xC3\xA2q"
+  accentcity: "`Irâq"
 irbid: 
   city: "irbid"
   accentcity: "Irbid"
@@ -3098,7 +3098,7 @@ kafr hudah:
   accentcity: "Kafr Hudah"
 "kafr jaa\xC2\x80\xC2\x9Diz": 
   city: "kafr jaa\xC2\x80\xC2\x9Diz"
-  accentcity: "Kafr Ja\xC3\xA2\xC2\x80\xC2\x9Diz"
+  accentcity: "Kafr Jaâ\xC2\x80\xC2\x9Diz"
 kafr khal: 
   city: "kafr khal"
   accentcity: "Kafr Khal"
@@ -3209,7 +3209,7 @@ khanasira:
   accentcity: "Khanasira"
 khanasiri: 
   city: "khanasiri"
-  accentcity: "Khan\xC3\xA2siri"
+  accentcity: "Khanâsiri"
 khanasre: 
   city: "khanasre"
   accentcity: "Khanasre"
@@ -3452,7 +3452,7 @@ khirbat deir el kahf:
   accentcity: "Khirbat Deir el Kahf"
 khirbat ed-deleilat el-gharbiyeh: 
   city: "khirbat ed-deleilat el-gharbiyeh"
-  accentcity: "Khirbat ed-Deleil\xC3\xA2t el-Gharb\xC3\xAEyeh"
+  accentcity: "Khirbat ed-Deleilât el-Gharb\xC3\xAEyeh"
 khirbat ed duqmussa: 
   city: "khirbat ed duqmussa"
   accentcity: "Khirbat ed Duqmussa"
@@ -3518,7 +3518,7 @@ khirbat el-suq:
   accentcity: "Khirbat el-Suq"
 khirbat el wahadina: 
   city: "khirbat el wahadina"
-  accentcity: "Khirbat el Wah\xC3\xA2dina"
+  accentcity: "Khirbat el Wahâdina"
 khirbat el wahadne: 
   city: "khirbat el wahadne"
   accentcity: "Khirbat el Wahadne"
@@ -3527,7 +3527,7 @@ khirbat el yazidiya:
   accentcity: "Khirbat el Yazidiya"
 khirbat er rajef: 
   city: "khirbat er rajef"
-  accentcity: "Khirbat er R\xC3\xA2jef"
+  accentcity: "Khirbat er Râjef"
 khirbat er ruqqa: 
   city: "khirbat er ruqqa"
   accentcity: "Khirbat er Ruqqa"
@@ -3656,7 +3656,7 @@ khirbat nijda:
   accentcity: "Khirbat Nijda"
 "khirbat raa\xC2\x80\xC2\x9Ds al madinah": 
   city: "khirbat raa\xC2\x80\xC2\x9Ds al madinah"
-  accentcity: "Khirbat Ra\xC3\xA2\xC2\x80\xC2\x9Ds al Madinah"
+  accentcity: "Khirbat Raâ\xC2\x80\xC2\x9Ds al Madinah"
 khirbat ras el madina: 
   city: "khirbat ras el madina"
   accentcity: "Khirbat Ras el Madina"
@@ -4076,7 +4076,7 @@ mazar abu ubeida:
   accentcity: "Mazar Abu `Ubeida"
 mazar: 
   city: "mazar"
-  accentcity: "Maz\xC3\xA2r"
+  accentcity: "Mazâr"
 mazraat el mukheiba: 
   city: "mazra`at el mukheiba"
   accentcity: "Mazra`at el Mukheiba"
@@ -4451,7 +4451,7 @@ qumeim:
   accentcity: "Qumeim"
 quraiyat: 
   city: "quraiyat"
-  accentcity: "Quraiy\xC3\xA2t"
+  accentcity: "Quraiyât"
 quraymah: 
   city: "quraymah"
   accentcity: "Quraymah"
@@ -4913,7 +4913,7 @@ simakiyah:
   accentcity: "Simakiyah"
 simakiya: 
   city: "simakiya"
-  accentcity: "Sim\xC3\xA2k\xC3\xAEya"
+  accentcity: "Simâk\xC3\xAEya"
 sinfahah: 
   city: "sinfahah"
   accentcity: "Sinfahah"
@@ -5096,7 +5096,7 @@ tebarbur:
   accentcity: "Tebarbur"
 "telaa\xC2\x80\xC2\x9D el-a\xC2\x80\xC2\x9Dali": 
   city: "telaa\xC2\x80\xC2\x9D el-a\xC2\x80\xC2\x9Dali"
-  accentcity: "Tela\xC3\xA2\xC2\x80\xC2\x9D el-\xC3\xA2\xC2\x80\xC2\x9DAli"
+  accentcity: "Telaâ\xC2\x80\xC2\x9D el-â\xC2\x80\xC2\x9DAli"
 tela el aly: 
   city: "tela` el `aly"
   accentcity: "Tela` el `Aly"
@@ -5405,7 +5405,7 @@ umm rummana:
   accentcity: "Umm Rummana"
 umm rummaneh: 
   city: "umm rummaneh"
-  accentcity: "Umm Rumm\xC3\xA2neh"
+  accentcity: "Umm Rummâneh"
 umm sawwanah: 
   city: "umm sawwanah"
   accentcity: "Umm Sawwanah"
@@ -5414,7 +5414,7 @@ umm shajara:
   accentcity: "Umm Shajara"
 umm shejeirat el gharbiyeh: 
   city: "umm shejeirat el gharbiyeh"
-  accentcity: "Umm Shejeir\xC3\xA2t el Gharb\xC3\xAEyeh"
+  accentcity: "Umm Shejeirât el Gharb\xC3\xAEyeh"
 umm shujayrah al gharbiyah: 
   city: "umm shujayrah al gharbiyah"
   accentcity: "Umm Shujayrah al Gharbiyah"
@@ -5522,7 +5522,7 @@ waqqas:
   accentcity: "Waqqas"
 yaduda: 
   city: "yaduda"
-  accentcity: "Y\xC3\xA2duda"
+  accentcity: "Yâduda"
 yajuz: 
   city: "yajuz"
   accentcity: "Yajuz"

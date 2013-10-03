@@ -836,7 +836,7 @@ buyun-uzun:
   accentcity: "Buyun-Uzun"
 buzmeyin: 
   city: "buzmeyin"
-  accentcity: "B\xC3\xBCzme\xC3\xBDin"
+  accentcity: "Büzme\xC3\xBDin"
 byr-koz: 
   city: "byr-koz"
   accentcity: "Byr-Koz"
@@ -1724,7 +1724,7 @@ gudriolum:
   accentcity: "Gudriolum"
 gudurolum: 
   city: "gudurolum"
-  accentcity: "G\xC3\xBCd\xC3\xBCrolum"
+  accentcity: "Güdürolum"
 gugerdzhengli: 
   city: "gugerdzhengli"
   accentcity: "Gugerdzhengli"
@@ -3047,7 +3047,7 @@ kone-borme:
   accentcity: "Kone-Borme"
 koneurgench: 
   city: "koneurgench"
-  accentcity: "K\xC3\xB6ne\xC3\xBCrgench"
+  accentcity: "K\xC3\xB6neürgench"
 kopak-chalak: 
   city: "kopak-chalak"
   accentcity: "Kopak-Chalak"
@@ -4430,7 +4430,7 @@ sotsializm-yul:
   accentcity: "Sotsializm-Yul"
 "soveta\xC2\x80\xC2\x9Dyap": 
   city: "soveta\xC2\x80\xC2\x9Dyap"
-  accentcity: "Sovet\xC3\xA2\xC2\x80\xC2\x9Dyap"
+  accentcity: "Sovetâ\xC2\x80\xC2\x9Dyap"
 sovet-yab: 
   city: "sovet-yab"
   accentcity: "Sovet-Yab"
@@ -4754,7 +4754,7 @@ turkmenabad:
   accentcity: "Turkmenabad"
 turkmenabat: 
   city: "turkmenabat"
-  accentcity: "T\xC3\xBCrkmenabat"
+  accentcity: "Türkmenabat"
 "turkmenbasa\xC2\xB1": 
   city: "turkmenbasa\xC2\xB1"
   accentcity: "Turkmenbas\xC3\x84\xC2\xB1"
@@ -4763,7 +4763,7 @@ turkmenbashi:
   accentcity: "Turkmenbashi"
 turkmenbashy: 
   city: "turkmenbashy"
-  accentcity: "T\xC3\xBCrkmenbashy"
+  accentcity: "Türkmenbashy"
 turkmenbasy: 
   city: "turkmenbasy"
   accentcity: "Turkmenbasy"

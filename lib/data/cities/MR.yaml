@@ -50,7 +50,7 @@ afrare:
   accentcity: "Afraré"
 agmamine: 
   city: "agmamine"
-  accentcity: "Agm\xC3\xA2m\xC3\xAEne"
+  accentcity: "Agmâm\xC3\xAEne"
 agnetir: 
   city: "agnetir"
   accentcity: "Agnétir"
@@ -197,7 +197,7 @@ aouinat:
   accentcity: "Aouinat"
 "'aouinat": 
   city: "'aouinat"
-  accentcity: "'Aou\xC3\xAEn\xC3\xA2t"
+  accentcity: "'Aou\xC3\xAEnât"
 "'aouinet nemadi": 
   city: "'aouinet nemadi"
   accentcity: "'Aou\xC3\xAEnet Némadi"
@@ -209,7 +209,7 @@ aoure baoude:
   accentcity: "Aouré Baoudé"
 archane: 
   city: "archane"
-  accentcity: "Arch\xC3\xA2ne"
+  accentcity: "Archâne"
 are koka: 
   city: "are koka"
   accentcity: "Aré Koka"
@@ -227,7 +227,7 @@ artemou:
   accentcity: "Artémou"
 atar: 
   city: "atar"
-  accentcity: "At\xC3\xA2r"
+  accentcity: "Atâr"
 atem: 
   city: "atem"
   accentcity: "Atem"
@@ -518,7 +518,7 @@ boufal:
   accentcity: "Boufal"
 bou gadoum: 
   city: "bou gadoum"
-  accentcity: "Bo\xC3\xBB G\xC3\xA2do\xC3\xBBm"
+  accentcity: "Bo\xC3\xBB Gâdo\xC3\xBBm"
 bou gamoul: 
   city: "bou gamoul"
   accentcity: "Bo\xC3\xBB Gamoul"
@@ -536,7 +536,7 @@ boulanouar:
   accentcity: "Boulanouar"
 bou lanouar: 
   city: "bou lanouar"
-  accentcity: "Bo\xC3\xBB Lanou\xC3\xA2r"
+  accentcity: "Bo\xC3\xBB Lanouâr"
 bouli borbo: 
   city: "bouli borbo"
   accentcity: "Bouli Borbo"
@@ -1034,7 +1034,7 @@ ela mouinesse:
   accentcity: "Ela Mouinessé"
 el aoueinat: 
   city: "el 'aoueinat"
-  accentcity: "El 'Aoue\xC3\xAFn\xC3\xA2t"
+  accentcity: "El 'Aoue\xC3\xAFnât"
 el arch: 
   city: "el arch"
   accentcity: "El Arch"
@@ -1064,7 +1064,7 @@ el douti:
   accentcity: "El Douti"
 eleib: 
   city: "eleib"
-  accentcity: "\xC3\x8Aleib"
+  accentcity: "Êleib"
 elemene srhir: 
   city: "elemene srhir"
   accentcity: "Elemene Srh\xC3\xAEr"
@@ -1289,7 +1289,7 @@ fra ladoum:
   accentcity: "Fra' Ladoum"
 gaat teidouma: 
   city: "ga'at teidouma"
-  accentcity: "G\xC3\xA2'\xC3\xA2t Te\xC3\xAFdouma"
+  accentcity: "Gâ'ât Te\xC3\xAFdouma"
 gadiama: 
   city: "gadiama"
   accentcity: "Gadiama"
@@ -1325,7 +1325,7 @@ give:
   accentcity: "Givé"
 gleibat boukine: 
   city: "gleibat boukine"
-  accentcity: "Gle\xC3\xAFb\xC3\xA2t Boukine"
+  accentcity: "Gle\xC3\xAFbât Boukine"
 godiavel galaoual: 
   city: "godiavel galaoual"
   accentcity: "Godiavel Galaoual"
@@ -1547,7 +1547,7 @@ hamouria:
   accentcity: "Hamouria"
 hamourya: 
   city: "hamourya"
-  accentcity: "H\xC3\xA2moury\xC3\xA2"
+  accentcity: "Hâmouryâ"
 hari hara: 
   city: "hari hara"
   accentcity: "Hari Hara"
@@ -1562,7 +1562,7 @@ hartane:
   accentcity: "Hartane"
 hasei larha: 
   city: "hasei larha"
-  accentcity: "H\xC3\xA2sè\xC3\xAF Larha"
+  accentcity: "Hâsè\xC3\xAF Larha"
 hassei larha: 
   city: "hassei larha"
   accentcity: "Hasse\xC3\xAF Larha"
@@ -1832,10 +1832,10 @@ kow nimadi:
   accentcity: "Kow Nimadi"
 kraa bou mbare: 
   city: "kraa bou mbare"
-  accentcity: "Kra\xC3\xA2 Bou Mbaré"
+  accentcity: "Kraâ Bou Mbaré"
 kra bou mbare: 
   city: "kra' bou mbare"
-  accentcity: "Kr\xC3\xA2' Bo\xC3\xBB Mbaré"
+  accentcity: "Krâ' Bo\xC3\xBB Mbaré"
 ksar chams: 
   city: "ksar chams"
   accentcity: "Ksar Chams"
@@ -1844,7 +1844,7 @@ ksar el barka:
   accentcity: "Ksar el Barka"
 ksar el khali: 
   city: "ksar el khali"
-  accentcity: "Ksar el Kh\xC3\xA2li"
+  accentcity: "Ksar el Khâli"
 ksar: 
   city: "ksar"
   accentcity: "Ksar"
@@ -2156,7 +2156,7 @@ monguel foubde dieri:
   accentcity: "Monguel Foubdé Diéri"
 monguel: 
   city: "monguel"
-  accentcity: "M\xC3\xB4nguel"
+  accentcity: "Mônguel"
 monguel tounde: 
   city: "monguel tounde"
   accentcity: "Monguel Toundé"
@@ -2231,7 +2231,7 @@ mreimida beidane:
   accentcity: "Mre\xC3\xAFmida Be\xC3\xAFdane"
 mreimida haratine: 
   city: "mreimida haratine"
-  accentcity: "Mre\xC3\xAFmida Har\xC3\xA2t\xC3\xAEne"
+  accentcity: "Mre\xC3\xAFmida Harât\xC3\xAEne"
 mreimida haratin: 
   city: "mreimida haratin"
   accentcity: "Mre\xC3\xAFmida Haratin"
@@ -2252,7 +2252,7 @@ naile:
   accentcity: "Na\xC3\xAFlé"
 nbak: 
   city: "nbak"
-  accentcity: "Nb\xC3\xA2k"
+  accentcity: "Nbâk"
 nbare: 
   city: "nbare"
   accentcity: "Nbaré"
@@ -2354,7 +2354,7 @@ niomel:
   accentcity: "Niomel"
 nouadhibou: 
   city: "nouadhibou"
-  accentcity: "Nou\xC3\xA2dhibou"
+  accentcity: "Nouâdhibou"
 nouakchat: 
   city: "nouakchat"
   accentcity: "Nouakchat"
@@ -2366,7 +2366,7 @@ nouakchott:
   accentcity: "Nouakchott"
 nouamghar: 
   city: "nouamghar"
-  accentcity: "Nou\xC3\xA2mgh\xC3\xA2r"
+  accentcity: "Nouâmghâr"
 nouamrhar: 
   city: "nouamrhar"
   accentcity: "Nouamrhar"
@@ -2396,13 +2396,13 @@ otiere:
   accentcity: "Otiéré"
 ouadane: 
   city: "ouadane"
-  accentcity: "Ouad\xC3\xA2ne"
+  accentcity: "Ouadâne"
 ouadio: 
   city: "ouadio"
   accentcity: "Ouadio"
 oualata: 
   city: "oualata"
-  accentcity: "Oual\xC3\xA2ta"
+  accentcity: "Oualâta"
 ouali diamtana: 
   city: "ouali diamtana"
   accentcity: "Ouali Diamtana"
@@ -2594,7 +2594,7 @@ portendick:
   accentcity: "Portendick"
 port-etienne: 
   city: "port-etienne"
-  accentcity: "Port-\xC3\x89tienne"
+  accentcity: "Port-Étienne"
 port ettienne: 
   city: "port ettienne"
   accentcity: "Port Ettienne"
@@ -2852,7 +2852,7 @@ takoutalla:
   accentcity: "Takoutalla"
 talhaya: 
   city: "talhaya"
-  accentcity: "Talh\xC3\xA2ya"
+  accentcity: "Talhâya"
 tamchaket: 
   city: "tamchaket"
   accentcity: "Tamchaket"
@@ -2879,7 +2879,7 @@ tanaha:
   accentcity: "Tanaha"
 tanit: 
   city: "tanit"
-  accentcity: "T\xC3\xA2n\xC3\xAEt"
+  accentcity: "Tân\xC3\xAEt"
 tanoudert: 
   city: "tanoudert"
   accentcity: "Tanoudert"
@@ -2978,7 +2978,7 @@ tichilit el hradem:
   accentcity: "T\xC3\xAEchil\xC3\xAEt el Hradem"
 tichilit el khadem: 
   city: "tichilit el khadem"
-  accentcity: "T\xC3\xAEchil\xC3\xAEt el Kh\xC3\xA2dem"
+  accentcity: "T\xC3\xAEchil\xC3\xAEt el Khâdem"
 tichilit el kountaoui: 
   city: "tichilit el kountaoui"
   accentcity: "T\xC3\xAEchil\xC3\xAEt el Kountaoui"
@@ -3290,7 +3290,7 @@ zouerat:
   accentcity: "Zouérat"
 zouirat: 
   city: "zouirat"
-  accentcity: "Zou\xC3\xAEr\xC3\xA2t"
+  accentcity: "Zou\xC3\xAErât"
 zref: 
   city: "zref"
   accentcity: "Zréf"

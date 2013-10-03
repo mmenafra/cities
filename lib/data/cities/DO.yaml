@@ -170,7 +170,7 @@ aguirre:
   accentcity: "Aguirre"
 aguita prieta: 
   city: "aguita prieta"
-  accentcity: "Ag\xC3\xBCita Prieta"
+  accentcity: "Agüita Prieta"
 ahoga maco: 
   city: "ahoga maco"
   accentcity: "Ahoga Maco"
@@ -371,7 +371,7 @@ alto viejo:
   accentcity: "Alto Viejo"
 alvarez: 
   city: "alvarez"
-  accentcity: "\xC3\x81lvarez"
+  accentcity: "Álvarez"
 amaceyes abajo: 
   city: "amaceyes abajo"
   accentcity: "Amaceyes Abajo"
@@ -455,7 +455,7 @@ anegadizos:
   accentcity: "Anegadizos"
 angel felix: 
   city: "angel felix"
-  accentcity: "\xC3\x81ngel Félix"
+  accentcity: "Ángel Félix"
 angel feliz: 
   city: "angel feliz"
   accentcity: "Angel Féliz"
@@ -755,7 +755,7 @@ arroyo guayuyo:
   accentcity: "Arroyo Guayuyo"
 arroyo higuero: 
   city: "arroyo higuero"
-  accentcity: "Arroyo Hig\xC3\xBCero"
+  accentcity: "Arroyo Higüero"
 arroyo hondo abajo: 
   city: "arroyo hondo abajo"
   accentcity: "Arroyo Hondo Abajo"
@@ -1157,19 +1157,19 @@ bapaya:
   accentcity: "Bapaya"
 baragueybano: 
   city: "baragueybano"
-  accentcity: "Barag\xC3\xBCeybano"
+  accentcity: "Baragüeybano"
 barahona: 
   city: "barahona"
   accentcity: "Barahona"
 baranguelbano: 
   city: "baranguelbano"
-  accentcity: "Barang\xC3\xBCelbano"
+  accentcity: "Barangüelbano"
 barangueyano: 
   city: "barangueyano"
-  accentcity: "Barang\xC3\xBCeyano"
+  accentcity: "Barangüeyano"
 barangueybano: 
   city: "barangueybano"
-  accentcity: "Barang\xC3\xBCeybano"
+  accentcity: "Barangüeybano"
 barbacoa: 
   city: "barbacoa"
   accentcity: "Barbacoa"
@@ -1304,7 +1304,7 @@ barrio villa reif:
   accentcity: "Barrio Villa Reif"
 barrio yaguita: 
   city: "barrio yaguita"
-  accentcity: "Barrio Yag\xC3\xBCita"
+  accentcity: "Barrio Yagüita"
 barro al medio: 
   city: "barro al medio"
   accentcity: "Barro al Medio"
@@ -1475,7 +1475,7 @@ batey badega azul:
   accentcity: "Batey Badega Azul"
 batey barangueibano: 
   city: "batey barangueibano"
-  accentcity: "Batey Barang\xC3\xBCeibano"
+  accentcity: "Batey Barangüeibano"
 batey baraueibano: 
   city: "batey baraueibano"
   accentcity: "Batey Baraueibano"
@@ -1907,10 +1907,10 @@ batey higuamo:
   accentcity: "Batey Higuamo"
 batey higuero: 
   city: "batey higuero"
-  accentcity: "Batey Hig\xC3\xBCero"
+  accentcity: "Batey Higüero"
 batey higueyana: 
   city: "batey higueyana"
-  accentcity: "Batey Hig\xC3\xBCeyana"
+  accentcity: "Batey Higüeyana"
 batey hoyo de puerco: 
   city: "batey hoyo de puerco"
   accentcity: "Batey Hoyo de Puerco"
@@ -2015,7 +2015,7 @@ batey laguneta:
   accentcity: "Batey Laguneta"
 batey la higuera: 
   city: "batey la higuera"
-  accentcity: "Batey La Hig\xC3\xBCera"
+  accentcity: "Batey La Higüera"
 batey la jagua: 
   city: "batey la jagua"
   accentcity: "Batey La Jagua"
@@ -3392,13 +3392,13 @@ caganche:
   accentcity: "Caganche"
 caguelles: 
   city: "caguelles"
-  accentcity: "Cag\xC3\xBCelles"
+  accentcity: "Cagüelles"
 caguey: 
   city: "caguey"
-  accentcity: "Cag\xC3\xBCey"
+  accentcity: "Cagüey"
 cagueyes: 
   city: "cagueyes"
-  accentcity: "Cag\xC3\xBCeyes"
+  accentcity: "Cagüeyes"
 caimital: 
   city: "caimital"
   accentcity: "Caimital"
@@ -4736,7 +4736,7 @@ china:
   accentcity: "China"
 chinguelo: 
   city: "chinguelo"
-  accentcity: "Ching\xC3\xBCelo"
+  accentcity: "Chingüelo"
 chiquito: 
   city: "chiquito"
   accentcity: "Chiquito"
@@ -4817,7 +4817,7 @@ cierrasita:
   accentcity: "Cierrasita"
 ciguelillo: 
   city: "ciguelillo"
-  accentcity: "Cig\xC3\xBCelillo"
+  accentcity: "Cigüelillo"
 cilindron: 
   city: "cilindron"
   accentcity: "Cilindrón"
@@ -5579,7 +5579,7 @@ cuesta de quinigua:
   accentcity: "Cuesta de Quinigua"
 cuesta de ursula: 
   city: "cuesta de ursula"
-  accentcity: "Cuesta de \xC3\x9Arsula"
+  accentcity: "Cuesta de Úrsula"
 cueva de la cotorra: 
   city: "cueva de la cotorra"
   accentcity: "Cueva de la Cotorra"
@@ -7019,13 +7019,13 @@ el higo gordo:
   accentcity: "El Higo Gordo"
 el higueral: 
   city: "el higueral"
-  accentcity: "El Hig\xC3\xBCeral"
+  accentcity: "El Higüeral"
 el higuerito: 
   city: "el higuerito"
-  accentcity: "El Hig\xC3\xBCerito"
+  accentcity: "El Higüerito"
 el higuero: 
   city: "el higuero"
-  accentcity: "El Hig\xC3\xBCero"
+  accentcity: "El Higüero"
 el higuito: 
   city: "el higuito"
   accentcity: "El Higuito"
@@ -7652,7 +7652,7 @@ el placer:
   accentcity: "El Placer"
 el plan de jiguey: 
   city: "el plan de jiguey"
-  accentcity: "El Plan de Jig\xC3\xBCey"
+  accentcity: "El Plan de Jigüey"
 el platanal: 
   city: "el platanal"
   accentcity: "El Platanal"
@@ -8741,7 +8741,7 @@ guaici arriba:
   accentcity: "Guaicí Arriba"
 guaigui: 
   city: "guaigui"
-  accentcity: "Guaig\xC3\xBCí"
+  accentcity: "Guaigüí"
 guaimate: 
   city: "guaimate"
   accentcity: "Guaimate"
@@ -9044,13 +9044,13 @@ guineal:
   accentcity: "Guineal"
 guirre: 
   city: "guirre"
-  accentcity: "G\xC3\xBCirre"
+  accentcity: "Güirre"
 guisa: 
   city: "guisa"
-  accentcity: "G\xC3\xBCisa"
+  accentcity: "Güisa"
 guiza: 
   city: "guiza"
-  accentcity: "G\xC3\xBCiza"
+  accentcity: "Güiza"
 gurabito de la cumbre: 
   city: "gurabito de la cumbre"
   accentcity: "Gurabito de la Cumbre"
@@ -9332,46 +9332,46 @@ higuamo uno:
   accentcity: "Higuamo Uno"
 higuera abajo: 
   city: "higuera abajo"
-  accentcity: "Hig\xC3\xBCera Abajo"
+  accentcity: "Higüera Abajo"
 higueral: 
   city: "higueral"
-  accentcity: "Hig\xC3\xBCeral"
+  accentcity: "Higüeral"
 higuereta: 
   city: "higuereta"
-  accentcity: "Hig\xC3\xBCereta"
+  accentcity: "Higüereta"
 higuerito arriba: 
   city: "higuerito arriba"
-  accentcity: "Hig\xC3\xBCerito Arriba"
+  accentcity: "Higüerito Arriba"
 higuerito: 
   city: "higuerito"
-  accentcity: "Hig\xC3\xBCerito"
+  accentcity: "Higüerito"
 higuerito penuela: 
   city: "higuerito penuela"
-  accentcity: "Hig\xC3\xBCerito Peñuela"
+  accentcity: "Higüerito Peñuela"
 higuero arriba: 
   city: "higuero arriba"
-  accentcity: "Hig\xC3\xBCero Arriba"
+  accentcity: "Higüero Arriba"
 higuero: 
   city: "higuero"
-  accentcity: "Hig\xC3\xBCero"
+  accentcity: "Higüero"
 higuerotes: 
   city: "higuerotes"
-  accentcity: "Hig\xC3\xBCerotes"
+  accentcity: "Higüerotes"
 higuerro arriba: 
   city: "higuerro arriba"
   accentcity: "Higuerro Arriba"
 higueyana: 
   city: "higueyana"
-  accentcity: "Hig\xC3\xBCeyana"
+  accentcity: "Higüeyana"
 higuey: 
   city: "higuey"
-  accentcity: "Hig\xC3\xBCey"
+  accentcity: "Higüey"
 higuito: 
   city: "higuito"
   accentcity: "Higuito"
 hijuerito: 
   city: "hijuerito"
-  accentcity: "Hij\xC3\xBCerito"
+  accentcity: "Hijüerito"
 hincha: 
   city: "hincha"
   accentcity: "Hincha"
@@ -9749,10 +9749,10 @@ jagua mocha:
   accentcity: "Jagua Mocha"
 jaguey: 
   city: "jaguey"
-  accentcity: "Jag\xC3\xBCey"
+  accentcity: "Jagüey"
 jaguita: 
   city: "jaguita"
-  accentcity: "Jag\xC3\xBCita"
+  accentcity: "Jagüita"
 jaiba: 
   city: "jaiba"
   accentcity: "Jaiba"
@@ -9959,7 +9959,7 @@ jicome:
   accentcity: "Jicomé"
 jiguey: 
   city: "jiguey"
-  accentcity: "Jig\xC3\xBCey"
+  accentcity: "Jigüey"
 jijiboa: 
   city: "jijiboa"
   accentcity: "Jijiboa"
@@ -10154,7 +10154,7 @@ joyadal:
   accentcity: "Joyadal"
 juana alvarez: 
   city: "juana alvarez"
-  accentcity: "Juana \xC3\x81lvarez"
+  accentcity: "Juana Álvarez"
 juana diaz abajo: 
   city: "juana diaz abajo"
   accentcity: "Juana Díaz Abajo"
@@ -10187,7 +10187,7 @@ juana lorenzo:
   accentcity: "Juana Lorenzo"
 juan alvarez: 
   city: "juan alvarez"
-  accentcity: "Juan \xC3\x81lvarez"
+  accentcity: "Juan Álvarez"
 juan antonio alix: 
   city: "juan antonio alix"
   accentcity: "Juan Antonio Alix"
@@ -10469,7 +10469,7 @@ la aguaita:
   accentcity: "La Aguaíta"
 la aguita: 
   city: "la aguita"
-  accentcity: "La Ag\xC3\xBCita"
+  accentcity: "La Agüita"
 la agustina: 
   city: "la agustina"
   accentcity: "La Agustina"
@@ -10985,7 +10985,7 @@ la ceibita:
   accentcity: "La Ceibita"
 la ceja de higuero: 
   city: "la ceja de higuero"
-  accentcity: "La Ceja de Hig\xC3\xBCero"
+  accentcity: "La Ceja de Higüero"
 la ceja de la palma: 
   city: "la ceja de la palma"
   accentcity: "La Ceja de la Palma"
@@ -11270,7 +11270,7 @@ la curtiembre:
   accentcity: "La Curtiembre"
 la damajagua: 
   city: "la damajagua"
-  accentcity: "La Damajag\xC3\xBCa"
+  accentcity: "La Damajagüa"
 la delgada: 
   city: "la delgada"
   accentcity: "La Delgada"
@@ -11663,7 +11663,7 @@ laguna de coto:
   accentcity: "Laguna de Coto"
 laguna del higuero: 
   city: "laguna del higuero"
-  accentcity: "Laguna del Hig\xC3\xBCero"
+  accentcity: "Laguna del Higüero"
 laguna de soliman: 
   city: "laguna de soliman"
   accentcity: "Laguna de Solimán"
@@ -11729,7 +11729,7 @@ la higera abajo:
   accentcity: "La Higera Abajo"
 la higuera: 
   city: "la higuera"
-  accentcity: "La Hig\xC3\xBCera"
+  accentcity: "La Higüera"
 la higuerita: 
   city: "la higuerita"
   accentcity: "La Higuerita"
@@ -11804,10 +11804,10 @@ la jagua mocha:
   accentcity: "La Jagua Mocha"
 la jaguita de jumunueu: 
   city: "la jaguita de jumunueu"
-  accentcity: "La Jag\xC3\xBCita de Jumunueu"
+  accentcity: "La Jagüita de Jumunueu"
 la jaguita: 
   city: "la jaguita"
-  accentcity: "La Jag\xC3\xBCita"
+  accentcity: "La Jagüita"
 la jaiba: 
   city: "la jaiba"
   accentcity: "La Jaiba"
@@ -12053,7 +12053,7 @@ la majagua:
   accentcity: "La Majagua"
 la majaguita: 
   city: "la majaguita"
-  accentcity: "La Majag\xC3\xBCita"
+  accentcity: "La Majagüita"
 la malagueta: 
   city: "la malagueta"
   accentcity: "La Malagueta"
@@ -12092,7 +12092,7 @@ la manigua:
   accentcity: "La Manigua"
 la maniguita: 
   city: "la maniguita"
-  accentcity: "La Manig\xC3\xBCita"
+  accentcity: "La Manigüita"
 la manuela: 
   city: "la manuela"
   accentcity: "La Manuela"
@@ -12749,7 +12749,7 @@ las aguas:
   accentcity: "Las Aguas"
 las aguitas: 
   city: "las aguitas"
-  accentcity: "Las Ag\xC3\xBCitas"
+  accentcity: "Las Agüitas"
 las agustinas: 
   city: "las agustinas"
   accentcity: "Las Agustinas"
@@ -12791,7 +12791,7 @@ las angosturas:
   accentcity: "Las Angosturas"
 las animas: 
   city: "las animas"
-  accentcity: "Las \xC3\x81nimas"
+  accentcity: "Las Ánimas"
 la santa: 
   city: "la santa"
   accentcity: "La Santa"
@@ -13157,7 +13157,7 @@ las guazumitas:
   accentcity: "Las Guazumitas"
 las higueras: 
   city: "las higueras"
-  accentcity: "Las Hig\xC3\xBCeras"
+  accentcity: "Las Higüeras"
 las hormigas: 
   city: "las hormigas"
   accentcity: "Las Hormigas"
@@ -13766,16 +13766,16 @@ la yagua:
   accentcity: "La Yagua"
 la yaguiza abajo: 
   city: "la yaguiza abajo"
-  accentcity: "La Yag\xC3\xBCiza Abajo"
+  accentcity: "La Yagüiza Abajo"
 la yaguiza: 
   city: "la yaguiza"
-  accentcity: "La Yag\xC3\xBCiza"
+  accentcity: "La Yagüiza"
 la yamaya: 
   city: "la yamaya"
   accentcity: "La Yamayá"
 la yaquiza: 
   city: "la yaquiza"
-  accentcity: "La Yaq\xC3\xBCiza"
+  accentcity: "La Yaqüiza"
 la yautia: 
   city: "la yautia"
   accentcity: "La Yautía"
@@ -14081,7 +14081,7 @@ loma del medio:
   accentcity: "Loma del Medio"
 loma de los angeles: 
   city: "loma de los angeles"
-  accentcity: "Loma de los \xC3\x81ngeles"
+  accentcity: "Loma de los Ángeles"
 loma de los fructuosos: 
   city: "loma de los fructuosos"
   accentcity: "Loma de los Fructuosos"
@@ -14492,10 +14492,10 @@ los cafes:
   accentcity: "Los Cafés"
 los caguelles: 
   city: "los caguelles"
-  accentcity: "Los Cag\xC3\xBCelles"
+  accentcity: "Los Cagüelles"
 los cagueyes: 
   city: "los cagueyes"
-  accentcity: "Los Cag\xC3\xBCeyes"
+  accentcity: "Los Cagüeyes"
 los caimiticos: 
   city: "los caimiticos"
   accentcity: "Los Caimiticos"
@@ -14885,7 +14885,7 @@ los fonditos:
   accentcity: "Los Fonditos"
 los fondos de jiguey: 
   city: "los fondos de jiguey"
-  accentcity: "Los Fondos de Jig\xC3\xBCey"
+  accentcity: "Los Fondos de Jigüey"
 los fondos: 
   city: "los fondos"
   accentcity: "Los Fondos"
@@ -15059,7 +15059,7 @@ los higos:
   accentcity: "Los Higos"
 los higueros: 
   city: "los higueros"
-  accentcity: "Los Hig\xC3\xBCeros"
+  accentcity: "Los Higüeros"
 los hojanchos: 
   city: "los hojanchos"
   accentcity: "Los Hojanchos"
@@ -15086,7 +15086,7 @@ los husos:
   accentcity: "Los Husos"
 los icacos: 
   city: "los icacos"
-  accentcity: "Los \xC3\x8Dcacos"
+  accentcity: "Los Ícacos"
 los igacos: 
   city: "los igacos"
   accentcity: "Los Igacos"
@@ -15860,7 +15860,7 @@ los yagrumos:
   accentcity: "Los Yagrumos"
 los yaguarisos: 
   city: "los yaguarisos"
-  accentcity: "Los Yag\xC3\xBCarisos"
+  accentcity: "Los Yagüarisos"
 los yaguarizos: 
   city: "los yaguarizos"
   accentcity: "Los Yaguarizos"
@@ -16052,7 +16052,7 @@ majaguita:
   accentcity: "Majaguita"
 majaguitas: 
   city: "majaguitas"
-  accentcity: "Majag\xC3\xBCitas"
+  accentcity: "Majagüitas"
 majuana: 
   city: "majuana"
   accentcity: "Majuana"
@@ -16187,7 +16187,7 @@ managuayabo:
   accentcity: "Managuayabo"
 managuita: 
   city: "managuita"
-  accentcity: "Manag\xC3\xBCita"
+  accentcity: "Managüita"
 mana: 
   city: "mana"
   accentcity: "Mana"
@@ -16265,7 +16265,7 @@ manigua arriba:
   accentcity: "Manigua Arriba"
 maniguita: 
   city: "maniguita"
-  accentcity: "Manig\xC3\xBCita"
+  accentcity: "Manigüita"
 manllalla: 
   city: "manllalla"
   accentcity: "Manllalla"
@@ -16997,7 +16997,7 @@ monte grande:
   accentcity: "Monte Grande"
 monte higuero: 
   city: "monte higuero"
-  accentcity: "Monte Hig\xC3\xBCero"
+  accentcity: "Monte Higüero"
 monte la guardia: 
   city: "monte la guardia"
   accentcity: "Monte La Guardia"
@@ -17738,7 +17738,7 @@ paso cibao:
   accentcity: "Paso Cibao"
 paso de higuerito: 
   city: "paso de higuerito"
-  accentcity: "Paso de Hig\xC3\xBCerito"
+  accentcity: "Paso de Higüerito"
 paso de la cana: 
   city: "paso de la cana"
   accentcity: "Paso de la Caña"
@@ -17753,7 +17753,7 @@ paso de la jagua:
   accentcity: "Paso de la Jagua"
 paso de la majaguita: 
   city: "paso de la majaguita"
-  accentcity: "Paso de la Majag\xC3\xBCita"
+  accentcity: "Paso de la Majagüita"
 paso de la palma: 
   city: "paso de la palma"
   accentcity: "Paso de la Palma"
@@ -19409,7 +19409,7 @@ sabana de chen:
   accentcity: "Sabana de Chen"
 sabana de higuerito: 
   city: "sabana de higuerito"
-  accentcity: "Sabana de Hig\xC3\xBCerito"
+  accentcity: "Sabana de Higüerito"
 sabana de la canada: 
   city: "sabana de la canada"
   accentcity: "Sabana de la Cañada"
@@ -19802,7 +19802,7 @@ salvadora:
   accentcity: "Salvadora"
 salvaleon de higuey: 
   city: "salvaleon de higuey"
-  accentcity: "Salvaleón de Hig\xC3\xBCey"
+  accentcity: "Salvaleón de Higüey"
 samana: 
   city: "samana"
   accentcity: "Samaná"
@@ -20165,7 +20165,7 @@ santiago:
   accentcity: "Santiago"
 santo angel: 
   city: "santo angel"
-  accentcity: "Santo \xC3\x81ngel"
+  accentcity: "Santo Ángel"
 santo cerro: 
   city: "santo cerro"
   accentcity: "Santo Cerro"
@@ -21059,10 +21059,10 @@ villa gonzalez:
   accentcity: "Villa González"
 villa guera: 
   city: "villa guera"
-  accentcity: "Villa G\xC3\xBCera"
+  accentcity: "Villa Güera"
 villa guerra: 
   city: "villa guerra"
-  accentcity: "Villa G\xC3\xBCerra"
+  accentcity: "Villa Güerra"
 villa hermosa: 
   city: "villa hermosa"
   accentcity: "Villa Hermosa"

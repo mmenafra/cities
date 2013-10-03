@@ -335,7 +335,7 @@ aguayo:
   accentcity: "Aguayo"
 aguila blanca: 
   city: "aguila blanca"
-  accentcity: "\xC3\x81guila Blanca"
+  accentcity: "Águila Blanca"
 aguilar: 
   city: "aguilar"
   accentcity: "Aguilar"
@@ -383,7 +383,7 @@ aike:
   accentcity: "Aike"
 aike guer: 
   city: "aike guer"
-  accentcity: "Aike G\xC3\xBCer"
+  accentcity: "Aike Güer"
 aimogasta: 
   city: "aimogasta"
   accentcity: "Aimogasta"
@@ -401,7 +401,7 @@ alagon:
   accentcity: "Alagón"
 alamos: 
   city: "alamos"
-  accentcity: "\xC3\x81lamos"
+  accentcity: "Álamos"
 alanices: 
   city: "alanices"
   accentcity: "Alanices"
@@ -650,7 +650,7 @@ algarrobo:
   accentcity: "Algarrobo"
 algarrobo del aguila: 
   city: "algarrobo del aguila"
-  accentcity: "Algarrobo del \xC3\x81guila"
+  accentcity: "Algarrobo del Águila"
 algarrobo del aguilla: 
   city: "algarrobo del aguilla"
   accentcity: "Algarrobo del Aguilla"
@@ -848,13 +848,13 @@ alvarado:
   accentcity: "Alvarado"
 alvarez: 
   city: "alvarez"
-  accentcity: "\xC3\x81lvarez"
+  accentcity: "Álvarez"
 alvarez de toledo: 
   city: "alvarez de toledo"
-  accentcity: "\xC3\x81lvarez de Toledo"
+  accentcity: "Álvarez de Toledo"
 alvarez jonte: 
   city: "alvarez jonte"
-  accentcity: "\xC3\x81lvarez Jonte"
+  accentcity: "Álvarez Jonte"
 alvarino: 
   city: "alvarino"
   accentcity: "Alvariño"
@@ -863,7 +863,7 @@ alvear:
   accentcity: "Alvear"
 alzaga: 
   city: "alzaga"
-  accentcity: "\xC3\x81lzaga"
+  accentcity: "Álzaga"
 amadores: 
   city: "amadores"
   accentcity: "Amadores"
@@ -1025,7 +1025,7 @@ angastaco:
   accentcity: "Angastaco"
 angel etcheverry: 
   city: "angel etcheverry"
-  accentcity: "\xC3\x81ngel Etcheverry"
+  accentcity: "Ángel Etcheverry"
 angelica: 
   city: "angelica"
   accentcity: "Angélica"
@@ -1061,7 +1061,7 @@ anguli:
   accentcity: "Anguli"
 angulos: 
   city: "angulos"
-  accentcity: "\xC3\x81ngulos"
+  accentcity: "Ángulos"
 anillaco: 
   city: "anillaco"
   accentcity: "Anillaco"
@@ -1073,7 +1073,7 @@ animan:
   accentcity: "Animán"
 animas: 
   city: "animas"
-  accentcity: "\xC3\x81nimas"
+  accentcity: "Ánimas"
 anisacate: 
   city: "anisacate"
   accentcity: "Anisacate"
@@ -1229,19 +1229,19 @@ araujo:
   accentcity: "Araujo"
 arbol blanco: 
   city: "arbol blanco"
-  accentcity: "\xC3\x81rbol Blanco"
+  accentcity: "Árbol Blanco"
 arboledas: 
   city: "arboledas"
   accentcity: "Arboledas"
 arboles grandes: 
   city: "arboles grandes"
-  accentcity: "\xC3\x81rboles Grandes"
+  accentcity: "Árboles Grandes"
 arbolito: 
   city: "arbolito"
   accentcity: "Arbolito"
 arbol solo: 
   city: "arbol solo"
-  accentcity: "\xC3\x81rbol Solo"
+  accentcity: "Árbol Solo"
 arcadia: 
   city: "arcadia"
   accentcity: "Arcadia"
@@ -1271,7 +1271,7 @@ argerich:
   accentcity: "Argerich"
 arguello: 
   city: "arguello"
-  accentcity: "Arg\xC3\xBCello"
+  accentcity: "Argüello"
 arias: 
   city: "arias"
   accentcity: "Arias"
@@ -1346,7 +1346,7 @@ arroyo corto:
   accentcity: "Arroyo Corto"
 arroyo de alvarez: 
   city: "arroyo de alvarez"
-  accentcity: "Arroyo de \xC3\x81lvarez"
+  accentcity: "Arroyo de Álvarez"
 arroyo de la cruz: 
   city: "arroyo de la cruz"
   accentcity: "Arroyo de la Cruz"
@@ -1508,7 +1508,7 @@ ausonia:
   accentcity: "Ausonia"
 avalos: 
   city: "avalos"
-  accentcity: "\xC3\x81valos"
+  accentcity: "Ávalos"
 a. van praet: 
   city: "a. van praet"
   accentcity: "A. Van Praet"
@@ -2894,7 +2894,7 @@ canada:
   accentcity: "Cañada"
 canada de alvarez: 
   city: "canada de alvarez"
-  accentcity: "Cañada de \xC3\x81lvarez"
+  accentcity: "Cañada de Álvarez"
 canada de coro: 
   city: "canada de coro"
   accentcity: "Cañada de Coro"
@@ -3224,7 +3224,7 @@ caranchi yaco:
   accentcity: "Caranchi Yaco"
 carapaligue: 
   city: "carapaligue"
-  accentcity: "Carapalig\xC3\xBCe"
+  accentcity: "Carapaligüe"
 carapato: 
   city: "carapato"
   accentcity: "Carapato"
@@ -4388,7 +4388,7 @@ colan conhue:
   accentcity: "Colan Conhué"
 colanguil: 
   city: "colanguil"
-  accentcity: "Colang\xC3\xBCil"
+  accentcity: "Colangüil"
 colastine: 
   city: "colastine"
   accentcity: "Colastiné"
@@ -5798,7 +5798,7 @@ cura malal:
   accentcity: "Cura Malal"
 curapaligue: 
   city: "curapaligue"
-  accentcity: "Curapalig\xC3\xBCé"
+  accentcity: "Curapaligüé"
 curaru: 
   city: "curaru"
   accentcity: "Curarú"
@@ -6173,7 +6173,7 @@ dona luisa:
   accentcity: "Doña Luisa"
 donato alvarez: 
   city: "donato alvarez"
-  accentcity: "Donato \xC3\x81lvarez"
+  accentcity: "Donato Álvarez"
 don bosco: 
   city: "don bosco"
   accentcity: "Don Bosco"
@@ -6290,7 +6290,7 @@ e. castex:
   accentcity: "E. Castex"
 echague: 
   city: "echague"
-  accentcity: "Echag\xC3\xBCe"
+  accentcity: "Echagüe"
 echegoyen: 
   city: "echegoyen"
   accentcity: "Echegoyen"
@@ -6329,7 +6329,7 @@ el abra:
   accentcity: "El Abra"
 el aguila: 
   city: "el aguila"
-  accentcity: "El \xC3\x81guila"
+  accentcity: "El Águila"
 el aguilar: 
   city: "el aguilar"
   accentcity: "El Aguilar"
@@ -6374,7 +6374,7 @@ el aranado:
   accentcity: "El Arañado"
 el arbol: 
   city: "el arbol"
-  accentcity: "El \xC3\x81rbol"
+  accentcity: "El Árbol"
 el arbolito: 
   city: "el arbolito"
   accentcity: "El Arbolito"
@@ -8288,7 +8288,7 @@ francisco a. berra:
   accentcity: "Francisco A. Berra"
 francisco alvarez: 
   city: "francisco alvarez"
-  accentcity: "Francisco \xC3\x81lvarez"
+  accentcity: "Francisco Álvarez"
 francisco ayerza: 
   city: "francisco ayerza"
   accentcity: "Francisco Ayerza"
@@ -8639,7 +8639,7 @@ general gelly:
   accentcity: "General Gelly"
 general guemes: 
   city: "general guemes"
-  accentcity: "General G\xC3\xBCemes"
+  accentcity: "General Güemes"
 general guido: 
   city: "general guido"
   accentcity: "General Guido"
@@ -8711,10 +8711,10 @@ general manuel j. campos:
   accentcity: "General Manuel J. Campos"
 general martin m. de guemes: 
   city: "general martin m. de guemes"
-  accentcity: "General Martín M. de G\xC3\xBCemes"
+  accentcity: "General Martín M. de Güemes"
 general martin miguel de guemes: 
   city: "general martin miguel de guemes"
-  accentcity: "General Martín Miguel de G\xC3\xBCemes"
+  accentcity: "General Martín Miguel de Güemes"
 general mitre: 
   city: "general mitre"
   accentcity: "General Mitre"
@@ -9149,19 +9149,19 @@ g. risos:
   accentcity: "G. Risos"
 grunbein: 
   city: "grunbein"
-  accentcity: "Gr\xC3\xBCnbein"
+  accentcity: "Grünbein"
 grutly: 
   city: "grutly"
-  accentcity: "Gr\xC3\xBCtly"
+  accentcity: "Grütly"
 grutly norte: 
   city: "grutly norte"
-  accentcity: "Gr\xC3\xBCtly Norte"
+  accentcity: "Grütly Norte"
 grutly sur: 
   city: "grutly sur"
-  accentcity: "Gr\xC3\xBCtly Sur"
+  accentcity: "Grütly Sur"
 gruttly: 
   city: "gruttly"
-  accentcity: "Gr\xC3\xBCttly"
+  accentcity: "Grüttly"
 guachipas: 
   city: "guachipas"
   accentcity: "Guachipas"
@@ -9281,10 +9281,10 @@ guayquiraro:
   accentcity: "Guayquiraró"
 guemes: 
   city: "guemes"
-  accentcity: "G\xC3\xBCemes"
+  accentcity: "Güemes"
 guer aike: 
   city: "guer aike"
-  accentcity: "G\xC3\xBCer Aike"
+  accentcity: "Güer Aike"
 guernica: 
   city: "guernica"
   accentcity: "Guernica"
@@ -9317,7 +9317,7 @@ guinazu:
   accentcity: "Guiñazú"
 gunther: 
   city: "gunther"
-  accentcity: "G\xC3\xBCnther"
+  accentcity: "Günther"
 guqueri: 
   city: "guqueri"
   accentcity: "Guqueri"
@@ -10145,28 +10145,28 @@ j.a. de la pena:
   accentcity: "J.A. de la Peña"
 jague: 
   city: "jague"
-  accentcity: "Jag\xC3\xBCé"
+  accentcity: "Jagüé"
 jaguel amarillo: 
   city: "jaguel amarillo"
-  accentcity: "Jag\xC3\xBCel Amarillo"
+  accentcity: "Jagüel Amarillo"
 jaguel de la chilca: 
   city: "jaguel de la chilca"
   accentcity: "Jaguel de la Chilca"
 jaguel de las chilcas: 
   city: "jaguel de las chilcas"
-  accentcity: "Jag\xC3\xBCel de las Chilcas"
+  accentcity: "Jagüel de las Chilcas"
 jaguel del mayo: 
   city: "jaguel del mayo"
-  accentcity: "Jag\xC3\xBCel del Mayo"
+  accentcity: "Jagüel del Mayo"
 jaguel de maya: 
   city: "jaguel de maya"
-  accentcity: "Jag\xC3\xBCel de Maya"
+  accentcity: "Jagüel de Maya"
 jaguelito: 
   city: "jaguelito"
-  accentcity: "Jag\xC3\xBCelito"
+  accentcity: "Jagüelito"
 jaguel: 
   city: "jaguel"
-  accentcity: "Jag\xC3\xBCel"
+  accentcity: "Jagüel"
 j.a. guisasola: 
   city: "j.a. guisasola"
   accentcity: "J.A. Guisasola"
@@ -10196,7 +10196,7 @@ j.a. pradere:
   accentcity: "J.A. Pradere"
 jaque: 
   city: "jaque"
-  accentcity: "Jaq\xC3\xBCé"
+  accentcity: "Jaqüé"
 jaramillo: 
   city: "jaramillo"
   accentcity: "Jaramillo"
@@ -11744,7 +11744,7 @@ la sala:
   accentcity: "La Sala"
 las animas: 
   city: "las animas"
-  accentcity: "Las \xC3\x81nimas"
+  accentcity: "Las Ánimas"
 la sara: 
   city: "la sara"
   accentcity: "La Sara"
@@ -12668,7 +12668,7 @@ los alamitos:
   accentcity: "Los Alamitos"
 los alamos: 
   city: "los alamos"
-  accentcity: "Los \xC3\x81lamos"
+  accentcity: "Los Álamos"
 los alanices: 
   city: "los alanices"
   accentcity: "Los Alanices"
@@ -12692,7 +12692,7 @@ los andes:
   accentcity: "Los Andes"
 los angeles: 
   city: "los angeles"
-  accentcity: "Los \xC3\x81ngeles"
+  accentcity: "Los Ángeles"
 los antiguos: 
   city: "los antiguos"
   accentcity: "Los Antiguos"
@@ -12701,13 +12701,13 @@ los arboles de villegas:
   accentcity: "Los Arboles de Villegas"
 los arboles: 
   city: "los arboles"
-  accentcity: "Los \xC3\x81rboles"
+  accentcity: "Los Árboles"
 los arbolitos: 
   city: "los arbolitos"
   accentcity: "Los Arbolitos"
 los arguellos: 
   city: "los arguellos"
-  accentcity: "Los Arg\xC3\xBCellos"
+  accentcity: "Los Argüellos"
 los arias: 
   city: "los arias"
   accentcity: "Los Arias"
@@ -12851,7 +12851,7 @@ los indios:
   accentcity: "Los Indios"
 los jagueles: 
   city: "los jagueles"
-  accentcity: "Los Jag\xC3\xBCeles"
+  accentcity: "Los Jagüeles"
 los juncos: 
   city: "los juncos"
   accentcity: "Los Juncos"
@@ -13352,7 +13352,7 @@ malanzan:
   accentcity: "Malanzán"
 malargue: 
   city: "malargue"
-  accentcity: "Malarg\xC3\xBCe"
+  accentcity: "Malargüe"
 malaspina: 
   city: "malaspina"
   accentcity: "Malaspina"
@@ -15524,7 +15524,7 @@ paradero usiyal:
   accentcity: "Paradero Usiyal"
 paraguil: 
   city: "paraguil"
-  accentcity: "Parag\xC3\xBCil"
+  accentcity: "Paragüil"
 paraiso: 
   city: "paraiso"
   accentcity: "Paraíso"
@@ -15644,7 +15644,7 @@ paso de la arena:
   accentcity: "Paso de la Arena"
 paso del aguila: 
   city: "paso del aguila"
-  accentcity: "Paso del \xC3\x81guila"
+  accentcity: "Paso del Águila"
 paso de la laguna: 
   city: "paso de la laguna"
   accentcity: "Paso de la Laguna"
@@ -16094,7 +16094,7 @@ piedra de aguila:
   accentcity: "Piedra de Aguila"
 piedra del aguila: 
   city: "piedra del aguila"
-  accentcity: "Piedra del \xC3\x81guila"
+  accentcity: "Piedra del Águila"
 piedra echada: 
   city: "piedra echada"
   accentcity: "Piedra Echada"
@@ -16139,7 +16139,7 @@ pierini:
   accentcity: "Pierini"
 pigue: 
   city: "pigue"
-  accentcity: "Pig\xC3\xBCé"
+  accentcity: "Pigüé"
 pilaga tercero: 
   city: "pilaga tercero"
   accentcity: "Pilagá Tercero"
@@ -16172,7 +16172,7 @@ pilon:
   accentcity: "Pilón"
 piloto avila: 
   city: "piloto avila"
-  accentcity: "Piloto \xC3\x81vila"
+  accentcity: "Piloto Ávila"
 pinalitos: 
   city: "pinalitos"
   accentcity: "Piñalitos"
@@ -16496,7 +16496,7 @@ pozo de abajo:
   accentcity: "Pozo de Abajo"
 pozo de avila: 
   city: "pozo de avila"
-  accentcity: "Pozo de \xC3\x81vila"
+  accentcity: "Pozo de Ávila"
 pozo de la esquina: 
   city: "pozo de la esquina"
   accentcity: "Pozo de la Esquina"
@@ -18011,7 +18011,7 @@ rio cuarto:
   accentcity: "Río Cuarto"
 rio de avila: 
   city: "rio de avila"
-  accentcity: "Río de \xC3\x81vila"
+  accentcity: "Río de Ávila"
 rio de la dorada: 
   city: "rio de la dorada"
   accentcity: "Río de la Dorada"
@@ -19523,7 +19523,7 @@ sierras bayas:
   accentcity: "Sierras Bayas"
 siete arboles: 
   city: "siete arboles"
-  accentcity: "Siete \xC3\x81rboles"
+  accentcity: "Siete Árboles"
 siete de abril: 
   city: "siete de abril"
   accentcity: "Siete de Abril"
@@ -20531,7 +20531,7 @@ tres amigos:
   accentcity: "Tres Amigos"
 tres arboles: 
   city: "tres arboles"
-  accentcity: "Tres \xC3\x81rboles"
+  accentcity: "Tres Árboles"
 tres arroyos: 
   city: "tres arroyos"
   accentcity: "Tres Arroyos"
@@ -21173,7 +21173,7 @@ villa ana:
   accentcity: "Villa Ana"
 villa angela: 
   city: "villa angela"
-  accentcity: "Villa \xC3\x81ngela"
+  accentcity: "Villa Ángela"
 villa angelica: 
   city: "villa angelica"
   accentcity: "Villa Angelica"
@@ -21713,7 +21713,7 @@ villa maio:
   accentcity: "Villa Maio"
 villa malargue: 
   city: "villa malargue"
-  accentcity: "Villa Malarg\xC3\xBCe"
+  accentcity: "Villa Malargüe"
 villa mantero: 
   city: "villa mantero"
   accentcity: "Villa Mantero"
@@ -22439,7 +22439,7 @@ zorro guarcuna:
   accentcity: "Zorro Guarcuna"
 zuberbuhler: 
   city: "zuberbuhler"
-  accentcity: "Zuberb\xC3\xBChler"
+  accentcity: "Zuberbühler"
 zubiaurre: 
   city: "zubiaurre"
   accentcity: "Zubiaurre"
