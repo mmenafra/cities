@@ -81,7 +81,7 @@ abaq mudule:
 abaqsaarre: 
   city: abaqsaarre
   accentcity: Abaqsaarre
-`abasa: 
+abasa: 
   city: `abasa
   accentcity: `Abasa
 abawle: 
@@ -213,7 +213,7 @@ adadleh:
 adado: 
   city: adado
   accentcity: Adado
-`adado: 
+adado: 
   city: `adado
   accentcity: `Adado
 adahio: 
@@ -252,7 +252,7 @@ addomo:
 addow: 
   city: addow
   accentcity: Addow
-`addudo: 
+addudo: 
   city: `addudo
   accentcity: `Addudo
 ade adeye: 
@@ -390,7 +390,7 @@ af yar:
 agabar: 
   city: agabar
   accentcity: Agabar
-`ag: 
+ag: 
   city: `ag
   accentcity: `Ag
 agagable: 
@@ -480,7 +480,7 @@ airebehje:
 ajaaw: 
   city: ajaaw
   accentcity: Ajaaw
-`ajin: 
+ajin: 
   city: `ajin
   accentcity: `Ajin
 akamso: 
@@ -504,7 +504,7 @@ alambuur:
 alamo: 
   city: alamo
   accentcity: "Al\xC3\xA0mo"
-`alan dabe: 
+alan dabe: 
   city: `alan dabe
   accentcity: "`Alan Dabé"
 alan debe: 
@@ -576,7 +576,7 @@ alula:
 alundi: 
   city: alundi
   accentcity: Alundi
-`amadere: 
+amadere: 
   city: `amadere
   accentcity: `Amadere
 ambago: 
@@ -600,7 +600,7 @@ aminow:
 amisighei: 
   city: amisighei
   accentcity: Amisighei
-`amtara: 
+amtara: 
   city: `amtara
   accentcity: `Amtara
 analgubi hal: 
@@ -852,7 +852,7 @@ arundoole:
 arunlei: 
   city: arunlei
   accentcity: Arunlei
-`ar weyn: 
+ar weyn: 
   city: `ar weyn
   accentcity: `Ar Weyn
 ascia gava: 
@@ -996,7 +996,7 @@ aw aamow rooble:
 awal buley: 
   city: awal buley
   accentcity: Awal Buley
-`awalegubtey: 
+awalegubtey: 
   city: `awalegubtey
   accentcity: `Awalegubtey
 aw axmad: 
@@ -1155,7 +1155,7 @@ ay guud wiin:
 ayl: 
   city: ayl
   accentcity: Ayl
-`aynle: 
+aynle: 
   city: `aynle
   accentcity: `Aynle
 ayroobley: 
@@ -6630,10 +6630,10 @@ eeyl:
 ega dale: 
   city: ega dale
   accentcity: "Eg\xC3\xA0 Dal\xC3\xA8"
-`eganlo: 
+eganlo: 
   city: `eganlo
   accentcity: `Eganlo
-`eg: 
+eg: 
   city: `eg
   accentcity: `Eg
 eggi: 
@@ -6657,7 +6657,7 @@ eidarr dabobe:
 eigud: 
   city: eigud
   accentcity: Eigud
-`eik bil`ileh: 
+eik bil`ileh: 
   city: `eik bil`ileh
   accentcity: `Eik Bil`ileh
 eik: 
@@ -6696,7 +6696,7 @@ el abdallah:
 el abgal: 
   city: el abgal
   accentcity: El Abgal
-`el abley: 
+el abley: 
   city: `el abley
   accentcity: `El Abley
 el adda: 
@@ -6735,7 +6735,7 @@ el afwein:
 el afweyne: 
   city: el afweyne
   accentcity: El Afweyne
-`elafweyn: 
+elafweyn: 
   city: `elafweyn
   accentcity: `Elafweyn
 elahano: 
@@ -6765,7 +6765,7 @@ el alul:
 ela mahallim: 
   city: ela mahallim
   accentcity: Ela Mahallim
-`el andalle: 
+el andalle: 
   city: `el andalle
   accentcity: `El Andalle
 el arab: 
@@ -6783,7 +6783,7 @@ el arar:
 el ararre: 
   city: el ararre
   accentcity: El Ararre
-`el `arrale: 
+el `arrale: 
   city: `el `arrale
   accentcity: `El `Arrale
 el asculle: 
@@ -6819,7 +6819,7 @@ el badur:
 el bahai: 
   city: el bahai
   accentcity: El Bahai
-`elbahay: 
+elbahay: 
   city: `elbahay
   accentcity: `Elbahay
 el bahi: 
@@ -6921,7 +6921,7 @@ el dagno uein:
 el dagno ven: 
   city: el dagno ven
   accentcity: El Dagno Ven
-`el damer: 
+el damer: 
   city: `el damer
   accentcity: `El Damer
 el danane: 
@@ -6939,7 +6939,7 @@ el dao:
 el darad: 
   city: el darad
   accentcity: El Darad
-`el dared: 
+el dared: 
   city: `el dared
   accentcity: `El Dared
 el dego gos: 
@@ -6996,7 +6996,7 @@ el dudu:
 el duhunle: 
   city: el duhunle
   accentcity: El Duhunle
-`eldur `alan: 
+eldur `alan: 
   city: `eldur `alan
   accentcity: `Eldur `Alan
 el dur elan: 
@@ -7095,7 +7095,7 @@ el goddumei:
 el gode: 
   city: el gode
   accentcity: El Gode
-`elgod: 
+elgod: 
   city: `elgod
   accentcity: `Elgod
 el godgod: 
@@ -7140,10 +7140,10 @@ el guberrei:
 el guddo: 
   city: el guddo
   accentcity: El Guddo
-`el gudud: 
+el gudud: 
   city: `el gudud
   accentcity: `El Gudud
-`el gulo: 
+el gulo: 
   city: `el gulo
   accentcity: `El Gulo
 el gunier: 
@@ -7185,7 +7185,7 @@ el hore:
 el hume: 
   city: el hume
   accentcity: El Hume
-`elhur: 
+elhur: 
   city: `elhur
   accentcity: `Elhur
 el hur: 
@@ -7209,7 +7209,7 @@ el laghodey:
 el lagodei: 
   city: el lagodei
   accentcity: El Lagodei
-`el lahelay: 
+el lahelay: 
   city: `el lahelay
   accentcity: `El Lahelay
 ellahele: 
@@ -7248,13 +7248,13 @@ el maduba:
 el madu: 
   city: el madu
   accentcity: El Madu
-`el maged: 
+el maged: 
   city: `el maged
   accentcity: `El Maged
 el mah: 
   city: el mah
   accentcity: El Mah
-`el makoile: 
+el makoile: 
   city: `el makoile
   accentcity: `El Makoile
 el marodi: 
@@ -7320,7 +7320,7 @@ el sceled:
 el sciama: 
   city: el sciama
   accentcity: El Sciama
-`el shama: 
+el shama: 
   city: `el shama
   accentcity: `El Shama
 el tegavei: 
@@ -7371,7 +7371,7 @@ el uneut:
 el ur: 
   city: el ur
   accentcity: El Ur
-`el waran: 
+el waran: 
   city: `el waran
   accentcity: `El Waran
 ena baianle: 
@@ -10662,7 +10662,7 @@ idannug:
 iddeed wanle: 
   city: iddeed wanle
   accentcity: Iddeed Wanle
-`iddei jebis: 
+iddei jebis: 
   city: `iddei jebis
   accentcity: `Iddei Jebis
 ideedley: 
@@ -10851,7 +10851,7 @@ ionte:
 ionti: 
   city: ionti
   accentcity: Ionti
-`iradame: 
+iradame: 
   city: `iradame
   accentcity: `Iradame
 ircut: 
@@ -10860,7 +10860,7 @@ ircut:
 iredami: 
   city: iredami
   accentcity: Iredami
-`ir kud: 
+ir kud: 
   city: `ir kud
   accentcity: "`Ir Kúd"
 irrwar: 

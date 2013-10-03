@@ -438,7 +438,7 @@ aazze:
 aazziye: 
   city: aazziye
   accentcity: Aazziye
-`aba: 
+aba: 
   city: `aba
   accentcity: `Aba
 abadiyeh: 
@@ -447,19 +447,19 @@ abadiyeh:
 abadye: 
   city: abadye
   accentcity: "Abadyé"
-`abayah: 
+abayah: 
   city: `abayah
   accentcity: `Abayah
-`abayh: 
+abayh: 
   city: `abayh
   accentcity: `Abayh
-`abba: 
+abba: 
   city: `abba
   accentcity: `Abba
-`abbah: 
+abbah: 
   city: `abbah
   accentcity: `Abbah
-`abbasiyah: 
+abbasiyah: 
   city: `abbasiyah
   accentcity: `Abbasiyah
 abbassiye: 
@@ -468,25 +468,25 @@ abbassiye:
 abboud: 
   city: abboud
   accentcity: Abboud
-`abboudiyah: 
+abboudiyah: 
   city: `abboudiyah
   accentcity: `Abboudiyah
 abbou halqa: 
   city: abbou halqa
   accentcity: Abbou Halqa
-`abbud: 
+abbud: 
   city: `abbud
   accentcity: `Abbud
-`abbudiyih: 
+abbudiyih: 
   city: `abbudiyih
   accentcity: `Abbudiyih
-`abdalali: 
+abdalali: 
   city: `abdalali
   accentcity: `Abdalali
-`abd allah: 
+abd allah: 
   city: `abd allah
   accentcity: `Abd Allah
-`abdeen: 
+abdeen: 
   city: `abdeen
   accentcity: `Abdeen
 abdelle: 
@@ -495,19 +495,19 @@ abdelle:
 abdelli: 
   city: abdelli
   accentcity: Abdelli
-`abd ilah: 
+abd ilah: 
   city: `abd ilah
   accentcity: `Abd Ilah
-`abdilli: 
+abdilli: 
   city: `abdilli
   accentcity: `Abdilli
-`abdin: 
+abdin: 
   city: `abdin
   accentcity: `Abdin
 abeidate: 
   city: abeidate
   accentcity: "Abe\xC3\xAFdate"
-`abeih: 
+abeih: 
   city: `abeih
   accentcity: `Abeih
 abey: 
@@ -519,7 +519,7 @@ abiye:
 ablah: 
   city: ablah
   accentcity: Ablah
-`ablah: 
+ablah: 
   city: `ablah
   accentcity: `Ablah
 ablaj: 
@@ -558,10 +558,10 @@ abou qamha:
 abou qamhah: 
   city: abou qamhah
   accentcity: Abou Qamhah
-`abra: 
+abra: 
   city: `abra
   accentcity: `Abra
-`abrin: 
+abrin: 
   city: `abrin
   accentcity: `Abrin
 abrine: 
@@ -570,7 +570,7 @@ abrine:
 abu `afta: 
   city: abu `afta
   accentcity: Abu `Afta
-`abudiyah: 
+abudiyah: 
   city: `abudiyah
   accentcity: `Abudiyah
 abudiyeh: 
@@ -612,7 +612,7 @@ achrafieh:
 achrafiye: 
   city: achrafiye
   accentcity: "Achrafiyé"
-`adawiyah: 
+adawiyah: 
   city: `adawiyah
   accentcity: `Adawiyah
 ad chite: 
@@ -714,7 +714,7 @@ ad diqar:
 ad dkarin: 
   city: ad dkarin
   accentcity: Ad Dkarin
-`addousiyah: 
+addousiyah: 
   city: `addousiyah
   accentcity: `Addousiyah
 ad dubayyah: 
@@ -753,7 +753,7 @@ adh dhunaybah:
 adloun: 
   city: adloun
   accentcity: Adloun
-`adlun: 
+adlun: 
   city: `adlun
   accentcity: `Adlun
 adma ad dafnah: 
@@ -774,25 +774,25 @@ adonis:
 adoudieh: 
   city: adoudieh
   accentcity: Adoudieh
-`adour: 
+adour: 
   city: `adour
   accentcity: `Adour
-`adsheet: 
+adsheet: 
   city: `adsheet
   accentcity: `Adsheet
-`adsheet el-qseir: 
+adsheet el-qseir: 
   city: `adsheet el-qseir
   accentcity: `Adsheet el-Qseir
-`adshit: 
+adshit: 
   city: `adshit
   accentcity: `Adshit
-`adshit al qusayr: 
+adshit al qusayr: 
   city: `adshit al qusayr
   accentcity: `Adshit al Qusayr
 adunis: 
   city: adunis
   accentcity: Adunis
-`adwi: 
+adwi: 
   city: `adwi
   accentcity: `Adwi
 afka: 
@@ -804,7 +804,7 @@ afqa:
 afsadik: 
   city: afsadik
   accentcity: Afsadik
-`afsadiq: 
+afsadiq: 
   city: `afsadiq
   accentcity: `Afsadiq
 aghbah: 
@@ -837,7 +837,7 @@ aichane:
 aichiye: 
   city: aichiye
   accentcity: "A\xC3\xAFchiye"
-`aidamoun: 
+aidamoun: 
   city: `aidamoun
   accentcity: `Aidamoun
 aidmoun: 
@@ -885,7 +885,7 @@ ain anoub:
 ain arab: 
   city: ain arab
   accentcity: "A\xC3\xAFn Arab"
-`ain `ata: 
+ain `ata: 
   city: `ain `ata
   accentcity: `Ain `Ata
 ainata: 
@@ -897,7 +897,7 @@ ainat:
 ain baal: 
   city: ain baal
   accentcity: "A\xC3\xAFn Ba\xC3\xA2l"
-`ain b`al: 
+ain b`al: 
   city: `ain b`al
   accentcity: `Ain B`al
 ain barq: 
@@ -912,10 +912,10 @@ ain bounaya:
 ain bourai: 
   city: ain bourai
   accentcity: "A\xC3\xAFn Boura\xC3\xAF"
-`ain burday: 
+ain burday: 
   city: `ain burday
   accentcity: `Ain Burday
-`ain buswar: 
+ain buswar: 
   city: `ain buswar
   accentcity: `Ain Buswar
 ain dara: 
@@ -927,7 +927,7 @@ ain delbi:
 ain dilbi: 
   city: ain dilbi
   accentcity: Ain Dilbi
-`ain drafeel: 
+ain drafeel: 
   city: `ain drafeel
   accentcity: `Ain Drafeel
 ain drafil: 
@@ -948,7 +948,7 @@ ain ed delbe:
 ain ed delbi: 
   city: ain ed delbi
   accentcity: "A\xC3\xAFn ed Delbi"
-`ain ed dilbe: 
+ain ed dilbe: 
   city: `ain ed dilbe
   accentcity: `Ain ed Dilbe
 ain ed dobb: 
@@ -987,7 +987,7 @@ ain el blat:
 ain el fraidis: 
   city: ain el fraidis
   accentcity: "A\xC3\xAFn el Fra\xC3\xAFdis"
-`ain el freidees: 
+ain el freidees: 
   city: `ain el freidees
   accentcity: `Ain el Freidees
 ain el ghmiqa: 
@@ -1020,7 +1020,7 @@ ain el how:
 ain el jaouze: 
   city: ain el jaouze
   accentcity: "A\xC3\xAFn el Jaouze"
-`ain el-jauzah: 
+ain el-jauzah: 
   city: `ain el-jauzah
   accentcity: "`A\xC3\xAFn el-Jauzah"
 ain el jrane: 
@@ -1029,7 +1029,7 @@ ain el jrane:
 ain el kabou: 
   city: ain el kabou
   accentcity: "A\xC3\xAFn el Kabou"
-`ain el-kharoubah: 
+ain el-kharoubah: 
   city: `ain el-kharoubah
   accentcity: `Ain el-Kharoubah
 ain el-kharoube: 
@@ -1095,7 +1095,7 @@ ain er roummane:
 ain es safsaf: 
   city: ain es safsaf
   accentcity: "A\xC3\xAFn es Safsaf"
-`ain es-salhiyah: 
+ain es-salhiyah: 
   city: `ain es-salhiyah
   accentcity: `Ain es-Salhiyah
 ain essalhiye: 
@@ -1119,7 +1119,7 @@ ain es sinndiane:
 ain et tannour: 
   city: ain et tannour
   accentcity: "A\xC3\xAFn et Tanno\xC3\xBBr"
-`ain et-teenah: 
+ain et-teenah: 
   city: `ain et-teenah
   accentcity: `Ain et-Teenah
 ain et tine: 
@@ -1140,10 +1140,10 @@ ain ez zaite:
 ain ez zaitoune: 
   city: ain ez zaitoune
   accentcity: "A\xC3\xAFn ez Za\xC3\xAFtouné"
-`ain ez-zarqa: 
+ain ez-zarqa: 
   city: `ain ez-zarqa
   accentcity: "`A\xC3\xAFn ez-Zarqa"
-`ain ez zeit: 
+ain ez zeit: 
   city: `ain ez zeit
   accentcity: `Ain ez Zeit
 ain faouar: 
@@ -1164,7 +1164,7 @@ ain hammane:
 ain herche: 
   city: ain herche
   accentcity: "A\xC3\xAFn Herché"
-`ain hirsha: 
+ain hirsha: 
   city: `ain hirsha
   accentcity: "`A\xC3\xAFn Hirsha"
 ain horche: 
@@ -1173,7 +1173,7 @@ ain horche:
 ain ibel: 
   city: ain ibel
   accentcity: "A\xC3\xAFn Ibel"
-`ain ibil: 
+ain ibil: 
   city: `ain ibil
   accentcity: `Ain Ibil
 ain ibl: 
@@ -1185,7 +1185,7 @@ ain iskandar:
 ain jaouze: 
   city: ain jaouze
   accentcity: "A\xC3\xAFn Jaouzé"
-`ain jarfa: 
+ain jarfa: 
   city: `ain jarfa
   accentcity: `Ain Jarfa
 ain jdaide: 
@@ -1212,10 +1212,10 @@ ain jrain:
 ain jrane: 
   city: ain jrane
   accentcity: "A\xC3\xAFn Jrane"
-`ain jrein: 
+ain jrein: 
   city: `ain jrein
   accentcity: `Ain Jrein
-`ain jweiya: 
+ain jweiya: 
   city: `ain jweiya
   accentcity: `Ain Jweiya
 ain kafer zabad: 
@@ -1233,10 +1233,10 @@ ain kesur:
 ain kfaa: 
   city: ain kfaa
   accentcity: "A\xC3\xAFn Kf\xC3\xA2a"
-`ain kfa`: 
+ain kfa`: 
   city: `ain kfa`
   accentcity: `Ain Kfa`
-`ain kfarzabad: 
+ain kfarzabad: 
   city: `ain kfarzabad
   accentcity: `Ain Kfarzabad
 ain kfea: 
@@ -1245,7 +1245,7 @@ ain kfea:
 ain ksour: 
   city: ain ksour
   accentcity: "A\xC3\xAFn Kso\xC3\xBBr"
-`ain ksur: 
+ain ksur: 
   city: `ain ksur
   accentcity: `Ain Ksur
 ain majdalaine: 
@@ -1296,10 +1296,10 @@ ain qara:
 ain qenia: 
   city: ain qenia
   accentcity: "A\xC3\xAFn Qénia"
-`ain qinia: 
+ain qinia: 
   city: `ain qinia
   accentcity: `Ain Qinia
-`ain qini: 
+ain qini: 
   city: `ain qini
   accentcity: `Ain Qini
 ain qlaiaa: 
@@ -1311,7 +1311,7 @@ ain qoun:
 ain qsour: 
   city: ain qsour
   accentcity: "A\xC3\xAFn Qsour"
-`ain qusur: 
+ain qusur: 
   city: `ain qusur
   accentcity: `Ain Qusur
 ain saade: 
@@ -1335,7 +1335,7 @@ ain slaiye:
 ain tanta: 
   city: ain tanta
   accentcity: "A\xC3\xAFn Tanta"
-`ain tanta: 
+ain tanta: 
   city: `ain tanta
   accentcity: `Ain Tanta
 ain tinta: 
@@ -1347,7 +1347,7 @@ ain tounta:
 aintoura: 
   city: aintoura
   accentcity: "A\xC3\xAFnto\xC3\xBBra"
-`aintourah: 
+aintourah: 
   city: `aintourah
   accentcity: `Aintourah
 ain tourine: 
@@ -1356,19 +1356,19 @@ ain tourine:
 ain traz: 
   city: ain traz
   accentcity: "A\xC3\xAFn Tr\xC3\xA2z"
-`ain trez: 
+ain trez: 
   city: `ain trez
   accentcity: `Ain Trez
-`ain tura: 
+ain tura: 
   city: `ain tura
   accentcity: `Ain Tura
 ainture: 
   city: ainture
   accentcity: Ainture
-`ain wzei: 
+ain wzei: 
   city: `ain wzei
   accentcity: `Ain Wzei
-`ain wzein: 
+ain wzein: 
   city: `ain wzein
   accentcity: `Ain Wzein
 ain yaaqoub: 
@@ -1377,7 +1377,7 @@ ain yaaqoub:
 ain yakoub: 
   city: ain yakoub
   accentcity: "A\xC3\xAFn Yakoub"
-`ain ya`qoub: 
+ain ya`qoub: 
   city: `ain ya`qoub
   accentcity: `Ain Ya`qoub
 ain zaitoun: 
@@ -1389,7 +1389,7 @@ ain zaitoune:
 ain zebde: 
   city: ain zebde
   accentcity: "A\xC3\xAFn Zebdé"
-`ain zehalta: 
+ain zehalta: 
   city: `ain zehalta
   accentcity: `Ain Zehalta
 ain zehalte: 
@@ -1398,7 +1398,7 @@ ain zehalte:
 ain zhalta: 
   city: ain zhalta
   accentcity: "A\xC3\xAFn Zhalta"
-`ain zibdah: 
+ain zibdah: 
   city: `ain zibdah
   accentcity: `Ain Zibdah
 aita chaab: 
@@ -1410,19 +1410,19 @@ aita ech chaab:
 aita el foukhar: 
   city: aita el foukhar
   accentcity: "A\xC3\xAFta el Foukhar"
-`aita el-fukhar: 
+aita el-fukhar: 
   city: `aita el-fukhar
   accentcity: `Aita el-Fukhar
-`aita esh-sha`b: 
+aita esh-sha`b: 
   city: `aita esh-sha`b
   accentcity: `Aita esh-Sha`b
 aita ez zoutt: 
   city: aita ez zoutt
   accentcity: "A\xC3\xAFta ez Zoutt"
-`aita ez-zutt: 
+aita ez-zutt: 
   city: `aita ez-zutt
   accentcity: `Aita ez-Zutt
-`aitaneet: 
+aitaneet: 
   city: `aitaneet
   accentcity: `Aitaneet
 aitanit: 
@@ -1440,7 +1440,7 @@ aitate:
 aita zott: 
   city: aita zott
   accentcity: "A\xC3\xAFta Zott"
-`aiteet: 
+aiteet: 
   city: `aiteet
   accentcity: `Aiteet
 aitite: 
@@ -1458,7 +1458,7 @@ aitout:
 ajaltoun: 
   city: ajaltoun
   accentcity: Ajaltoun
-`ajaltun: 
+ajaltun: 
   city: `ajaltun
   accentcity: `Ajaltun
 ajd aabrine: 
@@ -1473,19 +1473,19 @@ akar:
 akbe: 
   city: akbe
   accentcity: "Akbé"
-`akkar: 
+akkar: 
   city: `akkar
   accentcity: `Akkar
-`akkar al `atiqah: 
+akkar al `atiqah: 
   city: `akkar al `atiqah
   accentcity: `Akkar al `Atiqah
-`akkar el - `ateeqah: 
+akkar el - `ateeqah: 
   city: `akkar el - `ateeqah
   accentcity: `Akkar el - `Ateeqah
 akoura: 
   city: akoura
   accentcity: Akoura
-`akr `atiqah: 
+akr `atiqah: 
   city: `akr `atiqah
   accentcity: `Akr `Atiqah
 akroum: 
@@ -1545,7 +1545,7 @@ al `amarah:
 al `amariyah: 
   city: al `amariyah
   accentcity: Al `Amariyah
-`alam esh sha`b: 
+alam esh sha`b: 
   city: `alam esh sha`b
   accentcity: `Alam esh Sha`b
 al `amiriyah: 
@@ -1620,7 +1620,7 @@ al `awdah:
 al `awjan: 
   city: al `awjan
   accentcity: Al `Awjan
-`alayh: 
+alayh: 
   city: `alayh
   accentcity: `Alayh
 al `ayn: 
@@ -1842,10 +1842,10 @@ al buzuriyah:
 al bwar: 
   city: al bwar
   accentcity: Al Bwar
-`aleeta: 
+aleeta: 
   city: `aleeta
   accentcity: `Aleeta
-`aleih: 
+aleih: 
   city: `aleih
   accentcity: `Aleih
 aley: 
@@ -2136,7 +2136,7 @@ al huwaysh:
 alia: 
   city: alia
   accentcity: Alia
-`ali an nahri: 
+ali an nahri: 
   city: `ali an nahri
   accentcity: `Ali an Nahri
 ali en nahri: 
@@ -2151,7 +2151,7 @@ al istabil:
 al istabl: 
   city: al istabl
   accentcity: Al Istabl
-`alita: 
+alita: 
   city: `alita
   accentcity: `Alita
 aliye: 
@@ -2391,13 +2391,13 @@ al luwayzah:
 al ma`adin: 
   city: al ma`adin
   accentcity: Al Ma`adin
-`alma: 
+alma: 
   city: `alma
   accentcity: `Alma
 al ma`amiltayn: 
   city: al ma`amiltayn
   accentcity: Al Ma`amiltayn
-`alma ash sha`b: 
+alma ash sha`b: 
   city: `alma ash sha`b
   accentcity: `Alma ash Sha`b
 al ma`asir: 
@@ -2421,7 +2421,7 @@ al ma`dilah:
 al madinah al jadidah: 
   city: al madinah al jadidah
   accentcity: Al Madinah al Jadidah
-`alma esh sha`b: 
+alma esh sha`b: 
   city: `alma esh sha`b
   accentcity: `Alma esh Sha`b
 alma esh shaub: 
@@ -2430,7 +2430,7 @@ alma esh shaub:
 al maghar: 
   city: al maghar
   accentcity: Al Maghar
-`almah: 
+almah: 
   city: `almah
   accentcity: `Almah
 al mahattah: 
@@ -2475,10 +2475,10 @@ al m`alliyah:
 al mallulah: 
   city: al mallulah
   accentcity: Al Mallulah
-`alman ad day`ah: 
+alman ad day`ah: 
   city: `alman ad day`ah
   accentcity: `Alman ad Day`ah
-`alman: 
+alman: 
   city: `alman
   accentcity: `Alman
 al manazil: 
@@ -2580,10 +2580,10 @@ al mas`udiyah:
 al masyaf: 
   city: al masyaf
   accentcity: Al Masyaf
-`almat: 
+almat: 
   city: `almat
   accentcity: `Almat
-`almat ash sha`b: 
+almat ash sha`b: 
   city: `almat ash sha`b
   accentcity: `Almat ash Sha`b
 almate: 
@@ -3066,7 +3066,7 @@ al yammunah:
 al yasu`iyah: 
   city: al yasu`iyah
   accentcity: Al Yasu`iyah
-`amar al baykat: 
+amar al baykat: 
   city: `amar al baykat
   accentcity: `Amar al Baykat
 amar ed dine: 
@@ -3090,16 +3090,16 @@ amiun:
 ammathur: 
   city: ammathur
   accentcity: Ammathur
-`ammatour: 
+ammatour: 
   city: `ammatour
   accentcity: `Ammatour
-`ammatur: 
+ammatur: 
   city: `ammatur
   accentcity: `Ammatur
-`ammeeq: 
+ammeeq: 
   city: `ammeeq
   accentcity: `Ammeeq
-`ammiq: 
+ammiq: 
   city: `ammiq
   accentcity: `Ammiq
 amnik: 
@@ -3108,16 +3108,16 @@ amnik:
 amr ed dine: 
   city: amr ed dine
   accentcity: "Amr ed D\xC3\xAEne"
-`amriyah: 
+amriyah: 
   city: `amriyah
   accentcity: `Amriyah
 amriye: 
   city: amriye
   accentcity: "Amriyé"
-`amsheet: 
+amsheet: 
   city: `amsheet
   accentcity: `Amsheet
-`amshit: 
+amshit: 
   city: `amshit
   accentcity: `Amshit
 am tourine: 
@@ -3126,10 +3126,10 @@ am tourine:
 amyun: 
   city: amyun
   accentcity: Amyun
-`amzit: 
+amzit: 
   city: `amzit
   accentcity: `Amzit
-`ana: 
+ana: 
   city: `ana
   accentcity: `Ana
 anan: 
@@ -3138,34 +3138,34 @@ anan:
 anane: 
   city: anane
   accentcity: "An\xC3\xA2ne"
-`anbal: 
+anbal: 
   city: `anbal
   accentcity: `Anbal
 andakit: 
   city: andakit
   accentcity: Andakit
-`andaqah: 
+andaqah: 
   city: `andaqah
   accentcity: `Andaqah
-`andaqat: 
+andaqat: 
   city: `andaqat
   accentcity: `Andaqat
 andeket: 
   city: andeket
   accentcity: Andeket
-`andqit: 
+andqit: 
   city: `andqit
   accentcity: `Andqit
 anfah: 
   city: anfah
   accentcity: Anfah
-`anjar: 
+anjar: 
   city: `anjar
   accentcity: `Anjar
 ankenia: 
   city: ankenia
   accentcity: "Ankénia"
-`ankun: 
+ankun: 
   city: `ankun
   accentcity: `Ankun
 an nab`ah: 
@@ -3303,10 +3303,10 @@ an nufaysah:
 an numayriyah: 
   city: an numayriyah
   accentcity: An Numayriyah
-`anout: 
+anout: 
   city: `anout
   accentcity: `Anout
-`anqun: 
+anqun: 
   city: `anqun
   accentcity: `Anqun
 ansar: 
@@ -3324,10 +3324,10 @@ antoura:
 antura: 
   city: antura
   accentcity: Antura
-`anturah: 
+anturah: 
   city: `anturah
   accentcity: `Anturah
-`anut: 
+anut: 
   city: `anut
   accentcity: `Anut
 aoueinate: 
@@ -3336,55 +3336,55 @@ aoueinate:
 aounye: 
   city: aounye
   accentcity: "Aounyé"
-`aqabat hayruna: 
+aqabat hayruna: 
   city: `aqabat hayruna
   accentcity: `Aqabat Hayruna
-`aqabat sib`il: 
+aqabat sib`il: 
   city: `aqabat sib`il
   accentcity: `Aqabat Sib`il
-`aqlin: 
+aqlin: 
   city: `aqlin
   accentcity: `Aqlin
-`aqtanit: 
+aqtanit: 
   city: `aqtanit
   accentcity: `Aqtanit
-`arab al jall: 
+arab al jall: 
   city: `arab al jall
   accentcity: `Arab al Jall
-`arab al lizzab: 
+arab al lizzab: 
   city: `arab al lizzab
   accentcity: `Arab al Lizzab
-`arabat hilali: 
+arabat hilali: 
   city: `arabat hilali
   accentcity: `Arabat Hilali
-`arabat qizhayya: 
+arabat qizhayya: 
   city: `arabat qizhayya
   accentcity: `Arabat Qizhayya
-`arab bsaleem: 
+arab bsaleem: 
   city: `arab bsaleem
   accentcity: `Arab Bsaleem
-`arab salim: 
+arab salim: 
   city: `arab salim
   accentcity: `Arab Salim
-`arab tibbaya: 
+arab tibbaya: 
   city: `arab tibbaya
   accentcity: `Arab Tibbaya
 aramoun: 
   city: aramoun
   accentcity: Aramoun
-`aramoun: 
+aramoun: 
   city: `aramoun
   accentcity: `Aramoun
-`aramta: 
+aramta: 
   city: `aramta
   accentcity: "`Aramtá"
-`aramtah: 
+aramtah: 
   city: `aramtah
   accentcity: `Aramtah
-`aramti: 
+aramti: 
   city: `aramti
   accentcity: `Aramti
-`aramun: 
+aramun: 
   city: `aramun
   accentcity: `Aramun
 "'arat an nab`": 
@@ -3393,10 +3393,10 @@ aramoun:
 araya: 
   city: araya
   accentcity: Araya
-`arayh: 
+arayh: 
   city: `arayh
   accentcity: `Arayh
-`arayya: 
+arayya: 
   city: `arayya
   accentcity: `Arayya
 arbanie: 
@@ -3405,10 +3405,10 @@ arbanie:
 arbanieh: 
   city: arbanieh
   accentcity: Arbanieh
-`arbaniyah: 
+arbaniyah: 
   city: `arbaniyah
   accentcity: `Arbaniyah
-`arbat qizheiya: 
+arbat qizheiya: 
   city: `arbat qizheiya
   accentcity: `Arbat Qizheiya
 ardah: 
@@ -3435,7 +3435,7 @@ ardia:
 ardjes: 
   city: ardjes
   accentcity: Ardjes
-`areiya: 
+areiya: 
   city: `areiya
   accentcity: `Areiya
 areya: 
@@ -3447,16 +3447,16 @@ ar'haiya:
 arhmid: 
   city: arhmid
   accentcity: "Arhm\xC3\xAEd"
-`arid an na`s: 
+arid an na`s: 
   city: `arid an na`s
   accentcity: `Arid an Na`s
-`aridha: 
+aridha: 
   city: `aridha
   accentcity: `Aridha
 arjes: 
   city: arjes
   accentcity: Arjes
-`arjis: 
+arjis: 
   city: `arjis
   accentcity: `Arjis
 arka: 
@@ -3474,13 +3474,13 @@ arnoun:
 arnun: 
   city: arnun
   accentcity: Arnun
-`arqa: 
+arqa: 
   city: `arqa
   accentcity: `Arqa
-`arqah: 
+arqah: 
   city: `arqah
   accentcity: `Arqah
-`arqoub: 
+arqoub: 
   city: `arqoub
   accentcity: `Arqoub
 ar rabiyah: 
@@ -3570,7 +3570,7 @@ ar rushaydiyah:
 ar ruwaymah: 
   city: ar ruwaymah
   accentcity: Ar Ruwaymah
-`arsal: 
+arsal: 
   city: `arsal
   accentcity: `Arsal
 arsouna: 
@@ -3582,10 +3582,10 @@ arsoun:
 arsun: 
   city: arsun
   accentcity: Arsun
-`artez: 
+artez: 
   city: `artez
   accentcity: `Artez
-`artiz: 
+artiz: 
   city: `artiz
   accentcity: `Artiz
 arzai: 
@@ -3603,10 +3603,10 @@ asfourye:
 asfurieyh: 
   city: asfurieyh
   accentcity: Asfurieyh
-`ashash: 
+ashash: 
   city: `ashash
   accentcity: `Ashash
-`ashqut: 
+ashqut: 
   city: `ashqut
   accentcity: `Ashqut
 ashrafiyah: 
@@ -3948,7 +3948,7 @@ as suwaysah:
 as suwaysih: 
   city: as suwaysih
   accentcity: As Suwaysih
-`asun: 
+asun: 
   city: `asun
   accentcity: `Asun
 aswaq as safsaf: 
@@ -3960,7 +3960,7 @@ asya:
 ath thamiriyah: 
   city: ath thamiriyah
   accentcity: Ath Thamiriyah
-`atreen: 
+atreen: 
   city: `atreen
   accentcity: `Atreen
 at tallah: 
@@ -4002,361 +4002,361 @@ at tuwayri:
 at tuwaytah: 
   city: at tuwaytah
   accentcity: At Tuwaytah
-`awkar: 
+awkar: 
   city: `awkar
   accentcity: `Awkar
-`awrah: 
+awrah: 
   city: `awrah
   accentcity: `Awrah
 ay`at: 
   city: ay`at
   accentcity: Ay`at
-`aydamun: 
+aydamun: 
   city: `aydamun
   accentcity: `Aydamun
-`ayha: 
+ayha: 
   city: `ayha
   accentcity: `Ayha
 ayhah: 
   city: ayhah
   accentcity: Ayhah
-`ayishiyah: 
+ayishiyah: 
   city: `ayishiyah
   accentcity: `Ayishiyah
-`aylut: 
+aylut: 
   city: `aylut
   accentcity: `Aylut
-`aymar: 
+aymar: 
   city: `aymar
   accentcity: `Aymar
-`aynab: 
+aynab: 
   city: `aynab
   accentcity: `Aynab
-`ayn ad dayr: 
+ayn ad dayr: 
   city: `ayn ad dayr
   accentcity: `Ayn ad Dayr
-`ayn ad dib: 
+ayn ad dib: 
   city: `ayn ad dib
   accentcity: `Ayn ad Dib
-`ayn ad dilbah: 
+ayn ad dilbah: 
   city: `ayn ad dilbah
   accentcity: `Ayn ad Dilbah
-`ayn ad dubb: 
+ayn ad dubb: 
   city: `ayn ad dubb
   accentcity: `Ayn ad Dubb
-`ayn ad dulbah: 
+ayn ad dulbah: 
   city: `ayn ad dulbah
   accentcity: `Ayn ad Dulbah
-`ayn ad dulb: 
+ayn ad dulb: 
   city: `ayn ad dulb
   accentcity: `Ayn ad Dulb
-`ayn ahilah: 
+ayn ahilah: 
   city: `ayn ahilah
   accentcity: `Ayn Ahilah
-`ayn al `alaq: 
+ayn al `alaq: 
   city: `ayn al `alaq
   accentcity: `Ayn al `Alaq
-`ayn al asad: 
+ayn al asad: 
   city: `ayn al asad
   accentcity: `Ayn al Asad
-`ayn al balat: 
+ayn al balat: 
   city: `ayn al balat
   accentcity: `Ayn al Balat
-`ayn al baridah: 
+ayn al baridah: 
   city: `ayn al baridah
   accentcity: `Ayn al Baridah
-`ayn al batiyah: 
+ayn al batiyah: 
   city: `ayn al batiyah
   accentcity: `Ayn al Batiyah
-`ayn al batrak: 
+ayn al batrak: 
   city: `ayn al batrak
   accentcity: `Ayn al Batrak
-`ayn al bunayyah: 
+ayn al bunayyah: 
   city: `ayn al bunayyah
   accentcity: `Ayn al Bunayyah
-`ayn al fawwar: 
+ayn al fawwar: 
   city: `ayn al fawwar
   accentcity: `Ayn al Fawwar
-`ayn al furaydis: 
+ayn al furaydis: 
   city: `ayn al furaydis
   accentcity: `Ayn al Furaydis
-`ayn al ghamiqah: 
+ayn al ghamiqah: 
   city: `ayn al ghamiqah
   accentcity: `Ayn al Ghamiqah
-`ayn al halazun: 
+ayn al halazun: 
   city: `ayn al halazun
   accentcity: `Ayn al Halazun
-`ayn al hanut: 
+ayn al hanut: 
   city: `ayn al hanut
   accentcity: `Ayn al Hanut
-`ayn al hawr: 
+ayn al hawr: 
   city: `ayn al hawr
   accentcity: `Ayn al Hawr
-`ayn al hulwah: 
+ayn al hulwah: 
   city: `ayn al hulwah
   accentcity: `Ayn al Hulwah
-`ayn al jadidah: 
+ayn al jadidah: 
   city: `ayn al jadidah
   accentcity: `Ayn al Jadidah
-`ayn al janah: 
+ayn al janah: 
   city: `ayn al janah
   accentcity: `Ayn al Janah
-`ayn al jawzah: 
+ayn al jawzah: 
   city: `ayn al jawzah
   accentcity: `Ayn al Jawzah
-`ayn al jurn: 
+ayn al jurn: 
   city: `ayn al jurn
   accentcity: `Ayn al Jurn
-`ayn al kharrubah: 
+ayn al kharrubah: 
   city: `ayn al kharrubah
   accentcity: `Ayn al Kharrubah
-`ayn al labwah: 
+ayn al labwah: 
   city: `ayn al labwah
   accentcity: `Ayn al Labwah
-`ayn al marj: 
+ayn al marj: 
   city: `ayn al marj
   accentcity: `Ayn al Marj
-`ayn al mintinah: 
+ayn al mintinah: 
   city: `ayn al mintinah
   accentcity: `Ayn al Mintinah
-`ayn al mir: 
+ayn al mir: 
   city: `ayn al mir
   accentcity: `Ayn al Mir
-`ayn al mu`aysirah: 
+ayn al mu`aysirah: 
   city: `ayn al mu`aysirah
   accentcity: `Ayn al Mu`aysirah
-`ayn al muhnaydah: 
+ayn al muhnaydah: 
   city: `ayn al muhnaydah
   accentcity: `Ayn al Muhnaydah
-`ayn al muraysa: 
+ayn al muraysa: 
   city: `ayn al muraysa
   accentcity: "`Ayn al Muraysá"
-`ayn al muraysi: 
+ayn al muraysi: 
   city: `ayn al muraysi
   accentcity: `Ayn al Muraysi
-`ayn al qabu: 
+ayn al qabu: 
   city: `ayn al qabu
   accentcity: `Ayn al Qabu
-`ayn al qabw: 
+ayn al qabw: 
   city: `ayn al qabw
   accentcity: `Ayn al Qabw
-`ayn al qadah: 
+ayn al qadah: 
   city: `ayn al qadah
   accentcity: `Ayn al Qadah
-`ayn an nasb: 
+ayn an nasb: 
   city: `ayn an nasb
   accentcity: `Ayn an Nasb
-`ayn `arab: 
+ayn `arab: 
   city: `ayn `arab
   accentcity: `Ayn `Arab
-`ayn `ar: 
+ayn `ar: 
   city: `ayn `ar
   accentcity: `Ayn `Ar
-`ayn ar rahah: 
+ayn ar rahah: 
   city: `ayn ar rahah
   accentcity: `Ayn ar Rahah
-`ayn ar rayhanah: 
+ayn ar rayhanah: 
   city: `ayn ar rayhanah
   accentcity: `Ayn ar Rayhanah
-`ayn ar rummanah: 
+ayn ar rummanah: 
   city: `ayn ar rummanah
   accentcity: `Ayn ar Rummanah
-`ayn as safsaf: 
+ayn as safsaf: 
   city: `ayn as safsaf
   accentcity: `Ayn as Safsaf
-`ayn as salib: 
+ayn as salib: 
   city: `ayn as salib
   accentcity: `Ayn as Salib
-`ayn as salihiyah: 
+ayn as salihiyah: 
   city: `ayn as salihiyah
   accentcity: `Ayn as Salihiyah
-`ayn as sihhah: 
+ayn as sihhah: 
   city: `ayn as sihhah
   accentcity: `Ayn as Sihhah
-`ayn as sindiyanah: 
+ayn as sindiyanah: 
   city: `ayn as sindiyanah
   accentcity: `Ayn as Sindiyanah
-`ayn as sughayrah: 
+ayn as sughayrah: 
   city: `ayn as sughayrah
   accentcity: `Ayn as Sughayrah
-`ayn `ata: 
+ayn `ata: 
   city: `ayn `ata
   accentcity: `Ayn `Ata
-`aynata: 
+aynata: 
   city: `aynata
   accentcity: `Aynata
-`aynat: 
+aynat: 
   city: `aynat
   accentcity: `Aynat
-`ayn at tannur: 
+ayn at tannur: 
   city: `ayn at tannur
   accentcity: `Ayn at Tannur
-`ayn at tinah: 
+ayn at tinah: 
   city: `ayn at tinah
   accentcity: `Ayn at Tinah
-`ayn at tuffahah: 
+ayn at tuffahah: 
   city: `ayn at tuffahah
   accentcity: `Ayn at Tuffahah
-`ayn at tughra': 
+ayn at tughra': 
   city: `ayn at tughra'
   accentcity: `Ayn at Tughra'
-`ayn az zayt: 
+ayn az zayt: 
   city: `ayn az zayt
   accentcity: `Ayn az Zayt
-`ayn az zaytunah: 
+ayn az zaytunah: 
   city: `ayn az zaytunah
   accentcity: `Ayn az Zaytunah
-`ayn ba`al: 
+ayn ba`al: 
   city: `ayn ba`al
   accentcity: `Ayn Ba`al
-`ayn b`al: 
+ayn b`al: 
   city: `ayn b`al
   accentcity: `Ayn B`al
-`ayn balit: 
+ayn balit: 
   city: `ayn balit
   accentcity: `Ayn Balit
-`ayn barq: 
+ayn barq: 
   city: `ayn barq
   accentcity: `Ayn Barq
-`ayn bunaya: 
+ayn bunaya: 
   city: `ayn bunaya
   accentcity: `Ayn Bunaya
-`ayn burday: 
+ayn burday: 
   city: `ayn burday
   accentcity: `Ayn Burday
-`ayn darah: 
+ayn darah: 
   city: `ayn darah
   accentcity: `Ayn Darah
-`ayn drafil: 
+ayn drafil: 
   city: `ayn drafil
   accentcity: `Ayn Drafil
-`ayn fawrayn: 
+ayn fawrayn: 
   city: `ayn fawrayn
   accentcity: `Ayn Fawrayn
-`ayn hammana: 
+ayn hammana: 
   city: `ayn hammana
   accentcity: `Ayn Hammana
-`ayn hirchih: 
+ayn hirchih: 
   city: `ayn hirchih
   accentcity: `Ayn Hirchih
-`ayn hirshah: 
+ayn hirshah: 
   city: `ayn hirshah
   accentcity: `Ayn Hirshah
-`ayn ibil: 
+ayn ibil: 
   city: `ayn ibil
   accentcity: `Ayn Ibil
-`ayn `ikrin: 
+ayn `ikrin: 
   city: `ayn `ikrin
   accentcity: `Ayn `Ikrin
-`ayn iskandar: 
+ayn iskandar: 
   city: `ayn iskandar
   accentcity: `Ayn Iskandar
-`ayn jarfa: 
+ayn jarfa: 
   city: `ayn jarfa
   accentcity: `Ayn Jarfa
-`ayn jurayn: 
+ayn jurayn: 
   city: `ayn jurayn
   accentcity: `Ayn Jurayn
-`ayn jwayya: 
+ayn jwayya: 
   city: `ayn jwayya
   accentcity: `Ayn Jwayya
-`ayn kafra: 
+ayn kafra: 
   city: `ayn kafra
   accentcity: `Ayn Kafra
-`ayn kafr zabad: 
+ayn kafr zabad: 
   city: `ayn kafr zabad
   accentcity: `Ayn Kafr Zabad
-`ayn kfa`: 
+ayn kfa`: 
   city: `ayn kfa`
   accentcity: `Ayn Kfa`
-`ayn ksur: 
+ayn ksur: 
   city: `ayn ksur
   accentcity: `Ayn Ksur
-`ayn kusur: 
+ayn kusur: 
   city: `ayn kusur
   accentcity: `Ayn Kusur
-`ayn majdalayn: 
+ayn majdalayn: 
   city: `ayn majdalayn
   accentcity: `Ayn Majdalayn
-`ayn muwaffaq: 
+ayn muwaffaq: 
   city: `ayn muwaffaq
   accentcity: `Ayn Muwaffaq
-`ayn najm: 
+ayn najm: 
   city: `ayn najm
   accentcity: `Ayn Najm
-`ayn `nub: 
+ayn `nub: 
   city: `ayn `nub
   accentcity: `Ayn `Nub
-`ayn qana: 
+ayn qana: 
   city: `ayn qana
   accentcity: `Ayn Qana
-`ayn qaniyah: 
+ayn qaniyah: 
   city: `ayn qaniyah
   accentcity: `Ayn Qaniyah
-`ayn qarah: 
+ayn qarah: 
   city: `ayn qarah
   accentcity: `Ayn Qarah
-`ayn qinya: 
+ayn qinya: 
   city: `ayn qinya
   accentcity: `Ayn Qinya
-`ayn qinyah: 
+ayn qinyah: 
   city: `ayn qinyah
   accentcity: `Ayn Qinyah
-`ayn qulay`ah: 
+ayn qulay`ah: 
   city: `ayn qulay`ah
   accentcity: `Ayn Qulay`ah
-`ayn sa`adah: 
+ayn sa`adah: 
   city: `ayn sa`adah
   accentcity: `Ayn Sa`adah
-`ayn sawfar: 
+ayn sawfar: 
   city: `ayn sawfar
   accentcity: `Ayn Sawfar
-`ayn tanit: 
+ayn tanit: 
   city: `ayn tanit
   accentcity: `Ayn Tanit
-`ayn tanta: 
+ayn tanta: 
   city: `ayn tanta
   accentcity: `Ayn Tanta
-`ayn tiraz: 
+ayn tiraz: 
   city: `ayn tiraz
   accentcity: `Ayn Tiraz
-`ayn traz: 
+ayn traz: 
   city: `ayn traz
   accentcity: `Ayn Traz
-`aynturah: 
+aynturah: 
   city: `aynturah
   accentcity: `Aynturah
-`aynturin: 
+aynturin: 
   city: `aynturin
   accentcity: `Aynturin
-`ayn `unub: 
+ayn `unub: 
   city: `ayn `unub
   accentcity: `Ayn `Unub
-`ayn waraqah: 
+ayn waraqah: 
   city: `ayn waraqah
   accentcity: `Ayn Waraqah
-`ayn wzayn: 
+ayn wzayn: 
   city: `ayn wzayn
   accentcity: `Ayn Wzayn
-`ayn ya`qub: 
+ayn ya`qub: 
   city: `ayn ya`qub
   accentcity: `Ayn Ya`qub
-`ayn zahalta: 
+ayn zahalta: 
   city: `ayn zahalta
   accentcity: `Ayn Zahalta
-`ayn zahaltah: 
+ayn zahaltah: 
   city: `ayn zahaltah
   accentcity: `Ayn Zahaltah
-`ayn zaytun: 
+ayn zaytun: 
   city: `ayn zaytun
   accentcity: `Ayn Zaytun
-`ayn zhalta: 
+ayn zhalta: 
   city: `ayn zhalta
   accentcity: `Ayn Zhalta
-`ayn zibdah: 
+ayn zibdah: 
   city: `ayn zibdah
   accentcity: `Ayn Zibdah
-`ayn zubdah: 
+ayn zubdah: 
   city: `ayn zubdah
   accentcity: `Ayn Zubdah
 ayoum: 
@@ -4368,46 +4368,46 @@ ayoum er raazlane:
 ayoun ar'rhouch: 
   city: ayoun ar'rhouch
   accentcity: Ayoun Ar'rhouch
-`ayshiyah: 
+ayshiyah: 
   city: `ayshiyah
   accentcity: `Ayshiyah
-`ayta al fukhkhar: 
+ayta al fukhkhar: 
   city: `ayta al fukhkhar
   accentcity: `Ayta al Fukhkhar
-`ayta ash sha`b: 
+ayta ash sha`b: 
   city: `ayta ash sha`b
   accentcity: `Ayta ash Sha`b
-`ayta az zutt: 
+ayta az zutt: 
   city: `ayta az zutt
   accentcity: `Ayta az Zutt
-`aytah al fakhkhar: 
+aytah al fakhkhar: 
   city: `aytah al fakhkhar
   accentcity: `Aytah al Fakhkhar
-`aytah: 
+aytah: 
   city: `aytah
   accentcity: `Aytah
-`aytah az zut: 
+aytah az zut: 
   city: `aytah az zut
   accentcity: `Aytah az Zut
-`aytanit: 
+aytanit: 
   city: `aytanit
   accentcity: `Aytanit
-`aytarun: 
+aytarun: 
   city: `aytarun
   accentcity: `Aytarun
-`aytat: 
+aytat: 
   city: `aytat
   accentcity: `Aytat
-`aytazut: 
+aytazut: 
   city: `aytazut
   accentcity: `Aytazut
-`aytit: 
+aytit: 
   city: `aytit
   accentcity: `Aytit
 aytu: 
   city: aytu
   accentcity: Aytu
-`azibah at tahta: 
+azibah at tahta: 
   city: `azibah at tahta
   accentcity: `Azibah at Tahta
 "azi\xC2\xA7 zi\xC2\xA7ahir": 
@@ -4419,22 +4419,22 @@ aytu:
 azounie: 
   city: azounie
   accentcity: "Azounié"
-`azour: 
+azour: 
   city: `azour
   accentcity: `Azour
-`azqa: 
+azqa: 
   city: `azqa
   accentcity: `Azqa
-`azqah: 
+azqah: 
   city: `azqah
   accentcity: `Azqah
-`azqay: 
+azqay: 
   city: `azqay
   accentcity: `Azqay
-`azr kafrtayh: 
+azr kafrtayh: 
   city: `azr kafrtayh
   accentcity: `Azr Kafrtayh
-`azur: 
+azur: 
   city: `azur
   accentcity: `Azur
 az zakrur: 
@@ -4473,7 +4473,7 @@ az zhit:
 az zirah: 
   city: az zirah
   accentcity: Az Zirah
-`azziyah: 
+azziyah: 
   city: `azziyah
   accentcity: `Azziyah
 azziye: 
@@ -4626,7 +4626,7 @@ bachtalide:
 bachtoudar: 
   city: bachtoudar
   accentcity: "Bachto\xC3\xBBd\xC3\xA2r"
-`badat: 
+badat: 
   city: `badat
   accentcity: `Badat
 badbhoun: 
@@ -5118,7 +5118,7 @@ bayadir rish`in:
 baydar ar raml: 
   city: baydar ar raml
   accentcity: Baydar ar Raml
-`bayh: 
+bayh: 
   city: `bayh
   accentcity: `Bayh
 bayn an nuhur: 
@@ -5511,7 +5511,7 @@ beidar:
 beidar er-raml: 
   city: beidar er-raml
   accentcity: Beidar er-Raml
-`beidat: 
+beidat: 
   city: `beidat
   accentcity: `Beidat
 beikoun: 
@@ -8541,7 +8541,7 @@ deir youhanna maroun:
 deir zenoun: 
   city: deir zenoun
   accentcity: "De\xC3\xAFr Zenoun"
-`deisah: 
+deisah: 
   city: `deisah
   accentcity: `Deisah
 dekkane ed dahr: 
@@ -15111,13 +15111,13 @@ ibil as saqy:
 ibil es-saqi: 
   city: ibil es-saqi
   accentcity: Ibil es-saqi
-`ibreen: 
+ibreen: 
   city: `ibreen
   accentcity: `Ibreen
-`ibrin: 
+ibrin: 
   city: `ibrin
   accentcity: `Ibrin
-`idbil: 
+idbil: 
   city: `idbil
   accentcity: `Idbil
 iddah: 
@@ -15150,7 +15150,7 @@ ijdi`brin:
 ilat: 
   city: ilat
   accentcity: Ilat
-`ilman: 
+ilman: 
   city: `ilman
   accentcity: `Ilman
 ine maufeck: 
@@ -15159,7 +15159,7 @@ ine maufeck:
 infah: 
   city: infah
   accentcity: Infah
-`innaya: 
+innaya: 
   city: `innaya
   accentcity: `Innaya
 innchif: 
@@ -15189,13 +15189,13 @@ irkey:
 irnaya: 
   city: irnaya
   accentcity: Irnaya
-`irsal: 
+irsal: 
   city: `irsal
   accentcity: `Irsal
 irzay: 
   city: irzay
   accentcity: Irzay
-`ishash: 
+ishash: 
   city: `ishash
   accentcity: `Ishash
 iskandarounah: 
@@ -15222,25 +15222,25 @@ istabil:
 istabl: 
   city: istabl
   accentcity: Istabl
-`itrin: 
+itrin: 
   city: `itrin
   accentcity: `Itrin
-`iyat: 
+iyat: 
   city: `iyat
   accentcity: `Iyat
 izal: 
   city: izal
   accentcity: "Iz\xC3\xA2l"
-`izzah: 
+izzah: 
   city: `izzah
   accentcity: `Izzah
-`izz al `arab: 
+izz al `arab: 
   city: `izz al `arab
   accentcity: `Izz al `Arab
-`izziyat: 
+izziyat: 
   city: `izziyat
   accentcity: `Izziyat
-`izziyat qana: 
+izziyat qana: 
   city: `izziyat qana
   accentcity: `Izziyat Qana
 jaaita: 
@@ -18333,7 +18333,7 @@ saydnaya:
 saydun: 
   city: saydun
   accentcity: Saydun
-`saymut: 
+saymut: 
   city: `saymut
   accentcity: `Saymut
 saysuq: 
@@ -18930,22 +18930,22 @@ tut rumman:
 tyre: 
   city: tyre
   accentcity: Tyre
-`ubaydat: 
+ubaydat: 
   city: `ubaydat
   accentcity: `Ubaydat
-`udaysah: 
+udaysah: 
   city: `udaysah
   accentcity: `Udaysah
-`ukfur: 
+ukfur: 
   city: `ukfur
   accentcity: `Ukfur
 umm at tut: 
   city: umm at tut
   accentcity: Umm at Tut
-`uyun al ghizlan: 
+uyun al ghizlan: 
   city: `uyun al ghizlan
   accentcity: `Uyun al Ghizlan
-`uyun urghush: 
+uyun urghush: 
   city: `uyun urghush
   accentcity: `Uyun Urghush
 wadi ad dayr: 

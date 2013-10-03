@@ -1,6 +1,6 @@
 # encoding: UTF-8
 --- 
-`aawinah: 
+aawinah: 
   city: `aawinah
   accentcity: `Aawinah
 ab'ar as sababil: 
@@ -105,7 +105,7 @@ ahqaf al jabhiyh:
 ahqaf ar ruzat: 
   city: ahqaf ar ruzat
   accentcity: Ahqaf ar Ruzat
-`a'ilat lamwis: 
+a'ilat lamwis: 
   city: `a'ilat lamwis
   accentcity: `A'ilat Lamwis
 ain ghezaia: 
@@ -123,7 +123,7 @@ ajdabiya:
 ajdabiyah: 
   city: ajdabiyah
   accentcity: Ajdabiyah
-`akramah: 
+akramah: 
   city: `akramah
   accentcity: `Akramah
 al a`aqib: 
@@ -825,7 +825,7 @@ aqar:
 aqar `atabah: 
   city: aqar `atabah
   accentcity: Aqar `Atabah
-`aqqar: 
+aqqar: 
   city: `aqqar
   accentcity: `Aqqar
 ar rabitah al garbiyah: 
@@ -1197,16 +1197,16 @@ awlad yahya:
 awlad yusuf: 
   city: awlad yusuf
   accentcity: Awlad Yusuf
-`ayn al ghazaya: 
+ayn al ghazaya: 
   city: `ayn al ghazaya
   accentcity: `Ayn al Ghazaya
-`ayn ghazayah: 
+ayn ghazayah: 
   city: `ayn ghazayah
   accentcity: `Ayn Ghazayah
-`ayn marrah: 
+ayn marrah: 
   city: `ayn marrah
   accentcity: `Ayn Marrah
-`ayn zarah: 
+ayn zarah: 
   city: `ayn zarah
   accentcity: `Ayn Zarah
 azizia: 
@@ -2289,7 +2289,7 @@ en-nuss:
 enzu: 
   city: enzu
   accentcity: Enzu
-`eoj wahs: 
+eoj wahs: 
   city: `eoj wahs
   accentcity: `Eoj Wahs
 er rabta el garbia: 
@@ -2949,7 +2949,7 @@ hun:
 iefren: 
   city: iefren
   accentcity: Iefren
-`ikrimah: 
+ikrimah: 
   city: `ikrimah
   accentcity: `Ikrimah
 imumen: 
@@ -5490,7 +5490,7 @@ ulad tacbal:
 ulad tellis: 
   city: ulad tellis
   accentcity: "Ulád Tellís"
-`umar al mukhtar: 
+umar al mukhtar: 
   city: `umar al mukhtar
   accentcity: `Umar al Mukhtar
 umm al `abid: 
@@ -5571,7 +5571,7 @@ usaden:
 uscbari: 
   city: uscbari
   accentcity: Uscbari
-`uwaynat wanin: 
+uwaynat wanin: 
   city: `uwaynat wanin
   accentcity: `Uwaynat Wanin
 uzi: 
