@@ -1,9 +1,9 @@
 # encoding: UTF-8
 --- 
-10 ramadan city: "
+10 ramadan city: 
   city: "10 ramadan city"
   accentcity: "10 Ramadan City"
-10th of ramadan city: "
+10th of ramadan city: 
   city: "10th of ramadan city"
   accentcity: "10th of Ramadan City"
 1 ezbet has salib: 
@@ -12,7 +12,7 @@
 257)izbat ahmad ali udah: 
   city: "257)izbat ahmad `ali `udah"
   accentcity: "257)Izbat Ahmad `Ali `Udah"
-6 october city: "
+6 october city: 
   city: "6 october city"
   accentcity: "6 October City"
 "a\xC2\x80\xC2\x9Dabd el-gilil": 
@@ -3471,7 +3471,7 @@ al muhmudiyah:
 al mujaffaf: 
   city: "al mujaffaf"
   accentcity: "Al Mujaffaf"
-al-mukattam city: "
+al-mukattam city: 
   city: "al-mukattam city"
   accentcity: "Al-Mukattam City"
 al mukhtalatah: 
@@ -10026,7 +10026,7 @@ el-fawaqsa:
 el fayama: 
   city: "el fayama"
   accentcity: "El Fayama"
-el fayoum city: "
+el fayoum city: 
   city: "el fayoum city"
   accentcity: "El Fayoum City"
 el ferdan: 
@@ -11754,7 +11754,7 @@ el-nasira:
 el-nasirat: 
   city: "el-nasirat"
   accentcity: "El-Nas\xC3\xAErât"
-el nasr city: "
+el nasr city: 
   city: "el nasr city"
   accentcity: "El Nasr City"
 el nasriya: 
@@ -16326,7 +16326,7 @@ garagus:
 garawla: 
   city: "garawla"
   accentcity: "Garâwla"
-garden city: "
+garden city: 
   city: "garden city"
   accentcity: "Garden City"
 garf husein: 
@@ -31197,7 +31197,7 @@ munsa:
 "munshat rabia\xC2\x80\xC2\x9D": 
   city: "munshat rabia\xC2\x80\xC2\x9D"
   accentcity: "Munshat Rabiâ\xC2\x80\xC2\x9D"
-muqattam city: "
+muqattam city: 
   city: "muqattam city"
   accentcity: "Muqattam City"
 murabiin: 
@@ -33093,13 +33093,13 @@ nashwah:
 naslet el ibeid: 
   city: "naslet el ibeid"
   accentcity: "Naslet el Ibeid"
-nasr city: "
+nasr city: 
   city: "nasr city"
   accentcity: "Nasr City"
 nasr: 
   city: "nasr"
   accentcity: "Nasr"
-nasser city: "
+nasser city: 
   city: "nasser city"
   accentcity: "Nasser City"
 naturah: 
@@ -35475,7 +35475,7 @@ qosseir:
 qotur: 
   city: "qotur"
   accentcity: "Qotur"
-qubba garden city: "
+qubba garden city: 
   city: "qubba garden city"
   accentcity: "Qubba Garden City"
 qubba gardens: 
@@ -35613,13 +35613,13 @@ rahebin:
 rahiben: 
   city: "rahiben"
   accentcity: "Rahibên"
-ramadan 10 city: "
+ramadan 10 city: 
   city: "ramadan 10 city"
   accentcity: "Ramadan 10 City"
-ramadan city: "
+ramadan city: 
   city: "ramadan city"
   accentcity: "Ramadan City"
-ramadan the 10th city: "
+ramadan the 10th city: 
   city: "ramadan the 10th city"
   accentcity: "Ramadan the 10th City"
 ramisis: 
@@ -35838,10 +35838,10 @@ sadalla:
 sadaqa: 
   city: "sadaqa"
   accentcity: "Sadaqa"
-sadat city: "
+sadat city: 
   city: "sadat city"
   accentcity: "Sadat City"
-sadat new industrial city: "
+sadat new industrial city: 
   city: "sadat new industrial city"
   accentcity: "Sadat New Industrial City"
 sad ghayn alif: 
@@ -38295,7 +38295,7 @@ teneida:
 tenida: 
   city: "tenida"
   accentcity: "Tenida"
-tenth of ramadan city: "
+tenth of ramadan city: 
   city: "tenth of ramadan city"
   accentcity: "Tenth of Ramadan City"
 tentyra: 

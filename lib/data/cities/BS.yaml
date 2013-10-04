@@ -471,7 +471,7 @@ fortune hill:
 fox town: 
   city: "fox town"
   accentcity: "Fox Town"
-freeport city: "
+freeport city: 
   city: "freeport city"
   accentcity: "Freeport City"
 freeport: 
@@ -876,7 +876,7 @@ moxey town:
 murphy town: 
   city: "murphy town"
   accentcity: "Murphy Town"
-nassau city: "
+nassau city: 
   city: "nassau city"
   accentcity: "Nassau City"
 nassau estate: 
@@ -1194,7 +1194,7 @@ spanish wells settlement:
 spanish wells: 
   city: "spanish wells"
   accentcity: "Spanish Wells"
-spring city: "
+spring city: 
   city: "spring city"
   accentcity: "Spring City"
 spring point: 
@@ -1404,7 +1404,7 @@ williams town:
 william town: 
   city: "william town"
   accentcity: "William Town"
-wilson city: "
+wilson city: 
   city: "wilson city"
   accentcity: "Wilson City"
 windermere: 

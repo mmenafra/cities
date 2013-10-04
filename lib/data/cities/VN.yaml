@@ -22422,7 +22422,7 @@ con so:
 con soi: 
   city: "con soi"
   accentcity: "Con Soi"
-con son city: "
+con son city: 
   city: "con son city"
   accentcity: "Con Son City"
 con son: 
@@ -31200,7 +31200,7 @@ hoc dian:
 "hoc \xC3\x90ien": 
   city: "hoc \xC3\x90ien"
   accentcity: "Hóc \xC3\x90ien"
-ho chi minh city: "
+ho chi minh city: 
   city: "ho chi minh city"
   accentcity: "Ho Chi Minh City"
 ho chi minh ville: 
@@ -52269,7 +52269,7 @@ phu gia:
 phu guoc: 
   city: "phu guoc"
   accentcity: "Phu Guoc"
-phu hai city: "
+phu hai city: 
   city: "phu hai city"
   accentcity: "Phu Hai City"
 phu hai: 
