@@ -1599,7 +1599,7 @@ al ayyuf:
 al azariq: 
   city: "al azariq"
   accentcity: "Al Azariq"
-"al azi\xC2\xA7bur": 
+al azi\xC2\xA7bur: 
   city: "al azi\xC2\xA7bur"
   accentcity: "Al Az\xC3\x8C\xC2\xA7bur"
 al baassis: 
@@ -5211,7 +5211,7 @@ al-mahfad:
 al mahfad: 
   city: "al mahfad"
   accentcity: "Al Mahfad"
-"al mahfazi\xC2\xA7": 
+al mahfazi\xC2\xA7: 
   city: "al mahfazi\xC2\xA7"
   accentcity: "Al Mahfaz\xC3\x8C\xC2\xA7"
 al mahfid: 
@@ -5529,7 +5529,7 @@ al mantar:
 al manum: 
   city: "al man`um"
   accentcity: "Al Man`um"
-"al manzi\xC2\xA7ar": 
+al manzi\xC2\xA7ar: 
   city: "al manzi\xC2\xA7ar"
   accentcity: "Al Manz\xC3\x8C\xC2\xA7ar"
 al manzilah: 
@@ -6507,7 +6507,7 @@ al munaqqab:
 al munassar: 
   city: "al munassar"
   accentcity: "Al Munassar"
-"al munayzi\xC2\xA7irah": 
+al munayzi\xC2\xA7irah: 
   city: "al munayzi\xC2\xA7irah"
   accentcity: "Al Munayz\xC3\x8C\xC2\xA7irah"
 al munbaath: 
@@ -6555,7 +6555,7 @@ al muqbil:
 al muqtar: 
   city: "al muqtar"
   accentcity: "Al Muqtar"
-"al muquzi\xC2\xA7ah": 
+al muquzi\xC2\xA7ah: 
   city: "al muquzi\xC2\xA7ah"
   accentcity: "Al Muquz\xC3\x8C\xC2\xA7ah"
 al muraddam: 
@@ -7848,7 +7848,7 @@ al uwayja:
 al uwaysa: 
   city: "al `uwaysa'"
   accentcity: "Al `Uwaysa'"
-"al `uzi\xC2\xA7aym": 
+al uzi\xC2\xA7aym: 
   city: "al `uzi\xC2\xA7aym"
   accentcity: "Al `Uz\xC3\x8C\xC2\xA7aym"
 al uzlah: 
@@ -8862,7 +8862,7 @@ amuq:
 amur: 
   city: "amur"
   accentcity: "Amur"
-"am `uzi\xC2\xA7aym": 
+am uzi\xC2\xA7aym: 
   city: "am `uzi\xC2\xA7aym"
   accentcity: "Am `Uz\xC3\x8C\xC2\xA7aym"
 am warka: 
@@ -10245,7 +10245,7 @@ ash shuwab:
 ash shuwayhah: 
   city: "ash shuwayhah"
   accentcity: "Ash Shuwayhah"
-"ash shuzi\xC2\xA7ayf": 
+ash shuzi\xC2\xA7ayf: 
   city: "ash shuzi\xC2\xA7ayf"
   accentcity: "Ash Shuz\xC3\x8C\xC2\xA7ayf"
 ash subayhi: 
@@ -11013,7 +11013,7 @@ at tahaytha:
 at tahiriyah: 
   city: "at tahiriyah"
   accentcity: "AT Tahiriyah"
-"at tahzi\xC2\xA7ah": 
+at tahzi\xC2\xA7ah: 
   city: "at tahzi\xC2\xA7ah"
   accentcity: "At Tahz\xC3\x8C\xC2\xA7ah"
 at taif: 
@@ -11265,58 +11265,58 @@ ayuri:
 azab: 
   city: "`azab"
   accentcity: "`Azab"
-"`azi\xC2\xA7lah": 
+azi\xC2\xA7lah: 
   city: "`azi\xC2\xA7lah"
   accentcity: "`Az\xC3\x8C\xC2\xA7lah"
-"`azi\xC2\xA7mah": 
+azi\xC2\xA7mah: 
   city: "`azi\xC2\xA7mah"
   accentcity: "`Az\xC3\x8C\xC2\xA7mah"
-"azi\xC2\xA7 zi\xC2\xA7aby": 
+azi\xC2\xA7 zi\xC2\xA7aby: 
   city: "azi\xC2\xA7 zi\xC2\xA7aby"
   accentcity: "Az\xC3\x8C\xC2\xA7 Z\xC3\x8C\xC2\xA7aby"
-"azi\xC2\xA7 zi\xC2\xA7afir": 
+azi\xC2\xA7 zi\xC2\xA7afir: 
   city: "azi\xC2\xA7 zi\xC2\xA7afir"
   accentcity: "Az\xC3\x8C\xC2\xA7 Z\xC3\x8C\xC2\xA7afir"
-"azi\xC2\xA7 zi\xC2\xA7ahirah": 
+azi\xC2\xA7 zi\xC2\xA7ahirah: 
   city: "azi\xC2\xA7 zi\xC2\xA7ahirah"
   accentcity: "Az\xC3\x8C\xC2\xA7 Z\xC3\x8C\xC2\xA7ahirah"
-"azi\xC2\xA7 zi\xC2\xA7ahir": 
+azi\xC2\xA7 zi\xC2\xA7ahir: 
   city: "azi\xC2\xA7 zi\xC2\xA7ahir"
   accentcity: "Az\xC3\x8C\xC2\xA7 Z\xC3\x8C\xC2\xA7ahir"
-"azi\xC2\xA7 zi\xC2\xA7ahrah": 
+azi\xC2\xA7 zi\xC2\xA7ahrah: 
   city: "azi\xC2\xA7 zi\xC2\xA7ahrah"
   accentcity: "Az\xC3\x8C\xC2\xA7 Z\xC3\x8C\xC2\xA7ahrah"
-"azi\xC2\xA7 zi\xC2\xA7ahrayn": 
+azi\xC2\xA7 zi\xC2\xA7ahrayn: 
   city: "azi\xC2\xA7 zi\xC2\xA7ahrayn"
   accentcity: "Az\xC3\x8C\xC2\xA7 Z\xC3\x8C\xC2\xA7ahrayn"
-"azi\xC2\xA7 zi\xC2\xA7ahr": 
+azi\xC2\xA7 zi\xC2\xA7ahr: 
   city: "azi\xC2\xA7 zi\xC2\xA7ahr"
   accentcity: "Az\xC3\x8C\xC2\xA7 Z\xC3\x8C\xC2\xA7ahr"
-"azi\xC2\xA7 zi\xC2\xA7aji`": 
+azi\xC2\xA7 zi\xC2\xA7aji`: 
   city: "azi\xC2\xA7 zi\xC2\xA7aji`"
   accentcity: "Az\xC3\x8C\xC2\xA7 Z\xC3\x8C\xC2\xA7aji`"
-"azi\xC2\xA7 zi\xC2\xA7ali`": 
+azi\xC2\xA7 zi\xC2\xA7ali`: 
   city: "azi\xC2\xA7 zi\xC2\xA7ali`"
   accentcity: "Az\xC3\x8C\xC2\xA7 Z\xC3\x8C\xC2\xA7ali`"
-"azi\xC2\xA7 zi\xC2\xA7arubah": 
+azi\xC2\xA7 zi\xC2\xA7arubah: 
   city: "azi\xC2\xA7 zi\xC2\xA7arubah"
   accentcity: "Az\xC3\x8C\xC2\xA7 Z\xC3\x8C\xC2\xA7arubah"
-"azi\xC2\xA7 zi\xC2\xA7ubr": 
+azi\xC2\xA7 zi\xC2\xA7ubr: 
   city: "azi\xC2\xA7 zi\xC2\xA7ubr"
   accentcity: "Az\xC3\x8C\xC2\xA7 Z\xC3\x8C\xC2\xA7ubr"
-"azi\xC2\xA7 zi\xC2\xA7uhar al ala": 
+azi\xC2\xA7 zi\xC2\xA7uhar al ala: 
   city: "azi\xC2\xA7 zi\xC2\xA7uhar al ala"
   accentcity: "Az\xC3\x8C\xC2\xA7 Z\xC3\x8C\xC2\xA7uhar al Ala"
-"azi\xC2\xA7 zi\xC2\xA7uhar al asfal": 
+azi\xC2\xA7 zi\xC2\xA7uhar al asfal: 
   city: "azi\xC2\xA7 zi\xC2\xA7uhar al asfal"
   accentcity: "Az\xC3\x8C\xC2\xA7 Z\xC3\x8C\xC2\xA7uhar al Asfal"
-"azi\xC2\xA7 zi\xC2\xA7uhayr": 
+azi\xC2\xA7 zi\xC2\xA7uhayr: 
   city: "azi\xC2\xA7 zi\xC2\xA7uhayr"
   accentcity: "Az\xC3\x8C\xC2\xA7 Z\xC3\x8C\xC2\xA7uhayr"
-"azi\xC2\xA7 zi\xC2\xA7uhrah": 
+azi\xC2\xA7 zi\xC2\xA7uhrah: 
   city: "azi\xC2\xA7 zi\xC2\xA7uhrah"
   accentcity: "Az\xC3\x8C\xC2\xA7 Z\xC3\x8C\xC2\xA7uhrah"
-"azi\xC2\xA7 zi\xC2\xA7urah": 
+azi\xC2\xA7 zi\xC2\xA7urah: 
   city: "azi\xC2\xA7 zi\xC2\xA7urah"
   accentcity: "Az\xC3\x8C\xC2\xA7 Z\xC3\x8C\xC2\xA7urah"
 az zaawir as sufla: 
@@ -13296,7 +13296,7 @@ bayt witr:
 bayt zabadan: 
   city: "bayt zabadan"
   accentcity: "Bayt Zabadan"
-"bayt zi\xC2\xA7unbur": 
+bayt zi\xC2\xA7unbur: 
   city: "bayt zi\xC2\xA7unbur"
   accentcity: "Bayt Z\xC3\x8C\xC2\xA7unbur"
 bayt zud: 
@@ -15399,7 +15399,7 @@ dayr al majdhub:
 dayr al makin: 
   city: "dayr al makin"
   accentcity: "Dayr al Makin"
-"dayr al manzi\xC2\xA7ar": 
+dayr al manzi\xC2\xA7ar: 
   city: "dayr al manzi\xC2\xA7ar"
   accentcity: "Dayr al Manz\xC3\x8C\xC2\xA7ar"
 dayr al maqbul: 
@@ -15747,7 +15747,7 @@ dayr khashm:
 dayr kuddaf: 
   city: "dayr kuddaf"
   accentcity: "Dayr Kuddaf"
-"dayr kuzi\xC2\xA7abah": 
+dayr kuzi\xC2\xA7abah: 
   city: "dayr kuzi\xC2\xA7abah"
   accentcity: "Dayr Kuz\xC3\x8C\xC2\xA7abah"
 dayr mahdali: 
@@ -17322,7 +17322,7 @@ etua:
 ezh zhubr: 
   city: "ezh zhubr"
   accentcity: "Ezh Zhubr"
-"ezi\xC2\xA7 zi\xC2\xA7ubr": 
+ezi\xC2\xA7 zi\xC2\xA7ubr: 
   city: "ezi\xC2\xA7 zi\xC2\xA7ubr"
   accentcity: "Ez\xC3\x8C\xC2\xA7 Z\xC3\x8C\xC2\xA7ubr"
 ez-zaidiyyah: 
@@ -18159,7 +18159,7 @@ habuka:
 habur: 
   city: "habur"
   accentcity: "Habur"
-"habur zi\xC2\xA7ulaymah": 
+habur zi\xC2\xA7ulaymah: 
   city: "habur zi\xC2\xA7ulaymah"
   accentcity: "Habur Z\xC3\x8C\xC2\xA7ulaymah"
 hadabah: 
@@ -18168,7 +18168,7 @@ hadabah:
 hadabat al awn: 
   city: "hadabat al `awn"
   accentcity: "Hadabat Al `Awn"
-"hadabat al muzi\xC2\xA7zi\xC2\xA7": 
+hadabat al muzi\xC2\xA7zi\xC2\xA7: 
   city: "hadabat al muzi\xC2\xA7zi\xC2\xA7"
   accentcity: "Hadabat al Muz\xC3\x8C\xC2\xA7z\xC3\x8C\xC2\xA7"
 hadabat al qadim: 
@@ -18291,7 +18291,7 @@ hadir:
 hadiyah: 
   city: "hadiyah"
   accentcity: "Hadiyah"
-"hadizi\xC2\xA7ah": 
+hadizi\xC2\xA7ah: 
   city: "hadizi\xC2\xA7ah"
   accentcity: "Hadiz\xC3\x8C\xC2\xA7ah"
 hadrami: 
@@ -18672,7 +18672,7 @@ hami:
 hamir: 
   city: "hamir"
   accentcity: "Hamir"
-"hamizi\xC2\xA7ah": 
+hamizi\xC2\xA7ah: 
   city: "hamizi\xC2\xA7ah"
   accentcity: "Hamiz\xC3\x8C\xC2\xA7ah"
 hammam ali: 
@@ -19290,7 +19290,7 @@ hazaz:
 haz: 
   city: "haz"
   accentcity: "Haz"
-"hazi\xC2\xA7inah": 
+hazi\xC2\xA7inah: 
   city: "hazi\xC2\xA7inah"
   accentcity: "Haz\xC3\x8C\xC2\xA7inah"
 hazm al jawf: 
@@ -19341,13 +19341,13 @@ herut:
 hezjez: 
   city: "hezjez"
   accentcity: "Hezjez"
-"hi\xC2\xB1amr": 
+hi\xC2\xB1amr: 
   city: "hi\xC2\xB1amr"
   accentcity: "H\xC3\x8C\xC2\xB1amr"
-"hi\xC2\xB1arab el-wahbe": 
+hi\xC2\xB1arab el-wahbe: 
   city: "hi\xC2\xB1arab el-wahbe"
   accentcity: "H\xC3\x8C\xC2\xB1arab el-Wahbe"
-"hi\xC2\xB1arab et-taub": 
+hi\xC2\xB1arab et-taub: 
   city: "hi\xC2\xB1arab et-taub"
   accentcity: "H\xC3\x8C\xC2\xB1arab et-Taub"
 hiba: 
@@ -22065,13 +22065,13 @@ khamir:
 khamis al bakili: 
   city: "khamis al bakili"
   accentcity: "Khamis al Bakili"
-"khamis al wa`izi\xC2\xA7at": 
+khamis al wa`izi\xC2\xA7at: 
   city: "khamis al wa`izi\xC2\xA7at"
   accentcity: "Khamis al Wa`iz\xC3\x8C\xC2\xA7at"
 khamis al wasit: 
   city: "khamis al wasit"
   accentcity: "Khamis al Wasit"
-"khamis al wa`zi\xC2\xA7at": 
+khamis al wa`zi\xC2\xA7at: 
   city: "khamis al wa`zi\xC2\xA7at"
   accentcity: "Khamis al Wa`z\xC3\x8C\xC2\xA7at"
 khamis bani sad: 
@@ -23685,7 +23685,7 @@ mahall at tawqi:
 mahall aza: 
   city: "mahall aza`"
   accentcity: "Mahall Aza`"
-"mahall azi\xC2\xA7 zi\xC2\xA7uhar": 
+mahall azi\xC2\xA7 zi\xC2\xA7uhar: 
   city: "mahall azi\xC2\xA7 zi\xC2\xA7uhar"
   accentcity: "Mahall az\xC3\x8C\xC2\xA7 Z\xC3\x8C\xC2\xA7uhar"
 mahall az zawbal: 
@@ -23841,7 +23841,7 @@ mahall yahya umar:
 mahall zaghfah: 
   city: "mahall zaghfah"
   accentcity: "Mahall Zaghfah"
-"mahall zi\xC2\xA7ulaym": 
+mahall zi\xC2\xA7ulaym: 
   city: "mahall zi\xC2\xA7ulaym"
   accentcity: "Mahall Z\xC3\x8C\xC2\xA7ulaym"
 mahal: 
@@ -24009,7 +24009,7 @@ mahwa al musharri:
 mahwa al quhaym: 
   city: "mahwa al quhaym"
   accentcity: "Mahwa al Quhaym"
-"mahwa an nazi\xC2\xA7ir": 
+mahwa an nazi\xC2\xA7ir: 
   city: "mahwa an nazi\xC2\xA7ir"
   accentcity: "Mahwa an Naz\xC3\x8C\xC2\xA7ir"
 mahwa ash shujun: 
@@ -25092,16 +25092,16 @@ mazaba:
 mazabe: 
   city: "mazabe"
   accentcity: "Mazabe"
-"mazi\xC2\xA7a bani khawli": 
+mazi\xC2\xA7a bani khawli: 
   city: "mazi\xC2\xA7a bani khawli"
   accentcity: "Maz\xC3\x8C\xC2\xA7a Bani Khawli"
 mazij: 
   city: "mazij"
   accentcity: "Mazij"
-"mazi\xC2\xA7rat": 
+mazi\xC2\xA7rat: 
   city: "mazi\xC2\xA7rat"
   accentcity: "Maz\xC3\x8C\xC2\xA7rat"
-"mazra`at al mazi\xC2\xA7afirah": 
+mazra`at al mazi\xC2\xA7afirah: 
   city: "mazra`at al mazi\xC2\xA7afirah"
   accentcity: "Mazra`at al Maz\xC3\x8C\xC2\xA7afirah"
 medi: 
@@ -25893,7 +25893,7 @@ mutra:
 muzayqiyah: 
   city: "muzayqiyah"
   accentcity: "Muzayqiyah"
-"muzi\xC2\xA7muzi\xC2\xA7": 
+muzi\xC2\xA7muzi\xC2\xA7: 
   city: "muzi\xC2\xA7muzi\xC2\xA7"
   accentcity: "Muz\xC3\x8C\xC2\xA7muz\xC3\x8C\xC2\xA7"
 na ab: 
@@ -26616,7 +26616,7 @@ qabrat thirrah:
 qabr bin hud: 
   city: "qabr bin hud"
   accentcity: "Qabr Bin Hud"
-"qabr hanzi\xC2\xA7alah": 
+qabr hanzi\xC2\xA7alah: 
   city: "qabr hanzi\xC2\xA7alah"
   accentcity: "Qabr Hanz\xC3\x8C\xC2\xA7alah"
 qabr hud: 
@@ -27417,7 +27417,7 @@ qazau:
 qazaw: 
   city: "qazaw"
   accentcity: "Qazaw"
-"qazi\xC2\xA7bah": 
+qazi\xC2\xA7bah: 
   city: "qazi\xC2\xA7bah"
   accentcity: "Qaz\xC3\x8C\xC2\xA7bah"
 qiddat al mashajir: 
@@ -30810,7 +30810,7 @@ suq al muharraq:
 suq al watadah: 
   city: "suq al watadah"
   accentcity: "Suq al Watadah"
-"suq al wa`zi\xC2\xA7at": 
+suq al wa`zi\xC2\xA7at: 
   city: "suq al wa`zi\xC2\xA7at"
   accentcity: "Suq al Wa`z\xC3\x8C\xC2\xA7at"
 suq al zaptie: 
@@ -31563,7 +31563,7 @@ tuwarsah:
 tuwiia: 
   city: "tuwiia"
   accentcity: "Tuwiia"
-"tuzi\xC2\xA7an": 
+tuzi\xC2\xA7an: 
   city: "tuzi\xC2\xA7an"
   accentcity: "Tuz\xC3\x8C\xC2\xA7an"
 ubaiyah: 
@@ -32376,10 +32376,10 @@ waynan:
 waza: 
   city: "waza"
   accentcity: "Waza"
-"wazi\xC2\xA7afah": 
+wazi\xC2\xA7afah: 
   city: "wazi\xC2\xA7afah"
   accentcity: "Waz\xC3\x8C\xC2\xA7afah"
-"wazi\xC2\xA7rah": 
+wazi\xC2\xA7rah: 
   city: "wazi\xC2\xA7rah"
   accentcity: "Waz\xC3\x8C\xC2\xA7rah"
 widin az zubaydi: 
@@ -32388,7 +32388,7 @@ widin az zubaydi:
 widn dhahr: 
   city: "widn dhahr"
   accentcity: "Widn Dhahr"
-"widn zi\xC2\xA7ahir": 
+widn zi\xC2\xA7ahir: 
   city: "widn zi\xC2\xA7ahir"
   accentcity: "Widn Z\xC3\x8C\xC2\xA7ahir"
 wilan: 
@@ -32424,7 +32424,7 @@ yafrus:
 yahar: 
   city: "yahar"
   accentcity: "Yahar"
-"yahbuzi\xC2\xA7": 
+yahbuzi\xC2\xA7: 
   city: "yahbuzi\xC2\xA7"
   accentcity: "Yahbuz\xC3\x8C\xC2\xA7"
 yahya: 
@@ -32685,36 +32685,6 @@ zeidiya:
 zerab: 
   city: "zerab"
   accentcity: "Zerab"
-"zi\xC2\xA7abab": 
-  city: "zi\xC2\xA7abab"
-  accentcity: "Z\xC3\x8C\xC2\xA7abab"
-"zi\xC2\xA7afar": 
-  city: "zi\xC2\xA7afar"
-  accentcity: "Z\xC3\x8C\xC2\xA7afar"
-"zi\xC2\xA7afir": 
-  city: "zi\xC2\xA7afir"
-  accentcity: "Z\xC3\x8C\xC2\xA7afir"
-"zi\xC2\xA7ahir": 
-  city: "zi\xC2\xA7ahir"
-  accentcity: "Z\xC3\x8C\xC2\xA7ahir"
-"zi\xC2\xA7ahrah": 
-  city: "zi\xC2\xA7ahrah"
-  accentcity: "Z\xC3\x8C\xC2\xA7ahrah"
-"zi\xC2\xA7ahran": 
-  city: "zi\xC2\xA7ahran"
-  accentcity: "Z\xC3\x8C\xC2\xA7ahran"
-"zi\xC2\xA7alim": 
-  city: "zi\xC2\xA7alim"
-  accentcity: "Z\xC3\x8C\xC2\xA7alim"
-zi alul: 
-  city: "zi alul"
-  accentcity: "Zi Alul"
-"zi\xC2\xA7arwan": 
-  city: "zi\xC2\xA7arwan"
-  accentcity: "Z\xC3\x8C\xC2\xA7arwan"
-"zi\xC2\xA7aymah": 
-  city: "zi\xC2\xA7aymah"
-  accentcity: "Z\xC3\x8C\xC2\xA7aymah"
 ziblah: 
   city: "ziblah"
   accentcity: "Ziblah"
@@ -32757,15 +32727,6 @@ zirqanah:
 zitamar: 
   city: "zitamar"
   accentcity: "Zitamar"
-"zi\xC2\xA7ulaymah": 
-  city: "zi\xC2\xA7ulaymah"
-  accentcity: "Z\xC3\x8C\xC2\xA7ulaymah"
-"zi\xC2\xA7ulumah": 
-  city: "zi\xC2\xA7ulumah"
-  accentcity: "Z\xC3\x8C\xC2\xA7ulumah"
-"zi\xC2\xA7uran": 
-  city: "zi\xC2\xA7uran"
-  accentcity: "Z\xC3\x8C\xC2\xA7uran"
 zmjibar: 
   city: "zmjibar"
   accentcity: "Zmjibar"

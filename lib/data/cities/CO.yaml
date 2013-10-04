@@ -2550,9 +2550,6 @@ barrio boca grande:
 barrio boyaca: 
   city: "barrio boyaca"
   accentcity: "Barrio Boyacá"
-barrio buenos aires: 
-  city: "barrio buenos aires"
-  accentcity: "Barrio Buenos Aires"
 barrio caiman: 
   city: "barrio caiman"
   accentcity: "Barrio Caiman"
@@ -3321,9 +3318,6 @@ bocas:
 bocas de aracataca: 
   city: "bocas de aracataca"
   accentcity: "Bocas de Aracataca"
-bocas de buenos aires: 
-  city: "bocas de buenos aires"
-  accentcity: "Bocas de Buenos Aires"
 bocas de cahuinari: 
   city: "bocas de cahuinari"
   accentcity: "Bocas de Cahuinarí"
@@ -3939,12 +3933,6 @@ buen negocio:
 buenos aires: 
   city: "buenos aires"
   accentcity: "Buenos Aires"
-buenosaires: 
-  city: "buenosaires"
-  accentcity: "Buenosaires"
-buenos: 
-  city: "buenos"
-  accentcity: "Buenos"
 buenvista: 
   city: "buenvista"
   accentcity: "Buenvista"
@@ -15813,7 +15801,7 @@ el quebradon:
 el quemado: 
   city: "el quemado"
   accentcity: "El Quemado"
-" el queremal": 
+el queremal: 
   city: " el queremal"
   accentcity: " El Queremal"
 el queso: 
@@ -19416,7 +19404,7 @@ hacienda ariguani:
 hacienda arizona: 
   city: "hacienda arizona"
   accentcity: "Hacienda Arizona"
-"hacienda armadillo #3": 
+hacienda armadillo #3: 
   city: "hacienda armadillo #3"
   accentcity: "Hacienda Armadillo #3"
 hacienda arroyo: 
@@ -29814,9 +29802,6 @@ la vega de san juan:
 la vega: 
   city: "la vega"
   accentcity: "La Vega"
-" la vega": 
-  city: " la vega"
-  accentcity: " La Vega"
 la veguita: 
   city: "la veguita"
   accentcity: "La Veguita"
