@@ -80,7 +80,7 @@ baer:
   accentcity: "B\xC3\xA6r"
 "bakkafjor\xC3\xB0ur": 
   city: "bakkafjor\xC3\xB0ur"
-  accentcity: "Bakkafj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Bakkafjör\xC3\xB0ur"
 "bakkager\xC3\xB0i": 
   city: "bakkager\xC3\xB0i"
   accentcity: "Bakkager\xC3\xB0i"
@@ -110,13 +110,13 @@ bjarnanes:
   accentcity: "Bjarnanes"
 bjarnarhofn: 
   city: "bjarnarhofn"
-  accentcity: "Bjarnarh\xC3\xB6fn"
+  accentcity: "Bjarnarhöfn"
 bjoluhverfi: 
   city: "bjoluhverfi"
   accentcity: "Bjóluhverfi"
 blonduos: 
   city: "blonduos"
-  accentcity: "Bl\xC3\xB6nduós"
+  accentcity: "Blönduós"
 "bolsta\xC3\xB0arhli\xC3\xB0": 
   city: "bolsta\xC3\xB0arhli\xC3\xB0"
   accentcity: "Bólsta\xC3\xB0arhlí\xC3\xB0"
@@ -131,7 +131,7 @@ bolungavik:
   accentcity: "Bor\xC3\xB0eyri"
 borgarhofn: 
   city: "borgarhofn"
-  accentcity: "Borgarh\xC3\xB6fn"
+  accentcity: "Borgarhöfn"
 borgarnes: 
   city: "borgarnes"
   accentcity: "Borgarnes"
@@ -239,7 +239,7 @@ dvergasteinn:
   accentcity: "Dvergasteinn"
 "dyrafjor\xC3\xB0ur": 
   city: "dyrafjor\xC3\xB0ur"
-  accentcity: "D\xC3\xBDrafj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "D\xC3\xBDrafjör\xC3\xB0ur"
 dyrholahverfi: 
   city: "dyrholahverfi"
   accentcity: "Dyrhólahverfi"
@@ -260,7 +260,7 @@ engidalur:
   accentcity: "Engidalur"
 "eskifjor\xC3\xB0ur": 
   city: "eskifjor\xC3\xB0ur"
-  accentcity: "Eskifj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Eskifjör\xC3\xB0ur"
 "eskifor\xC3\xB0ur": 
   city: "eskifor\xC3\xB0ur"
   accentcity: "Eskifor\xC3\xB0ur"
@@ -281,7 +281,7 @@ eyvindarholar:
   accentcity: "Eyvindarhólar"
 "faskru\xC3\xB0sfjor\xC3\xB0ur": 
   city: "faskru\xC3\xB0sfjor\xC3\xB0ur"
-  accentcity: "Fáskrú\xC3\xB0sfj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Fáskrú\xC3\xB0sfjör\xC3\xB0ur"
 fell: 
   city: "fell"
   accentcity: "Fell"
@@ -290,7 +290,7 @@ fiflholt:
   accentcity: "Fíflholt"
 "fjor\xC3\xB0ur": 
   city: "fjor\xC3\xB0ur"
-  accentcity: "Fj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Fjör\xC3\xB0ur"
 flatey: 
   city: "flatey"
   accentcity: "Flatey"
@@ -311,7 +311,7 @@ folafotur:
   accentcity: "Folafótur"
 "furufjor\xC3\xB0ur": 
   city: "furufjor\xC3\xB0ur"
-  accentcity: "Furufj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Furufjör\xC3\xB0ur"
 "gar\xC3\xB0abaer": 
   city: "gar\xC3\xB0abaer"
   accentcity: "Gar\xC3\xB0ab\xC3\xA6r"
@@ -359,7 +359,7 @@ gilsbakki:
   accentcity: "Gilsbakki"
 gjogur: 
   city: "gjogur"
-  accentcity: "Gj\xC3\xB6gur"
+  accentcity: "Gjögur"
 glaesibaer: 
   city: "glaesibaer"
   accentcity: "Gl\xC3\xA6sib\xC3\xA6r"
@@ -395,7 +395,7 @@ grindavik:
   accentcity: "Grindavík"
 "grundarfjor\xC3\xBEur": 
   city: "grundarfjor\xC3\xBEur"
-  accentcity: "Grundarfj\xC3\xB6r\xC3\xBEur"
+  accentcity: "Grundarfjör\xC3\xBEur"
 grund: 
   city: "grund"
   accentcity: "Grund"
@@ -425,7 +425,7 @@ gvendarnes:
   accentcity: "Gvendarnes"
 "hafnarfjor\xC3\xB0ur": 
   city: "hafnarfjor\xC3\xB0ur"
-  accentcity: "Hafnarfj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Hafnarfjör\xC3\xB0ur"
 hafnarholmur: 
   city: "hafnarholmur"
   accentcity: "Hafnarhólmur"
@@ -551,22 +551,22 @@ hnjotur:
   accentcity: "Hnjótur"
 "hof\xC3\xB0ahverfi": 
   city: "hof\xC3\xB0ahverfi"
-  accentcity: "H\xC3\xB6f\xC3\xB0ahverfi"
+  accentcity: "Höf\xC3\xB0ahverfi"
 "hof\xC3\xB0akaupsta\xC3\xB0ur": 
   city: "hof\xC3\xB0akaupsta\xC3\xB0ur"
-  accentcity: "H\xC3\xB6f\xC3\xB0akaupsta\xC3\xB0ur"
+  accentcity: "Höf\xC3\xB0akaupsta\xC3\xB0ur"
 "hof\xC3\xB0astrond": 
   city: "hof\xC3\xB0astrond"
-  accentcity: "H\xC3\xB6f\xC3\xB0astr\xC3\xB6nd"
+  accentcity: "Höf\xC3\xB0aströnd"
 "hof\xC3\xB0i": 
   city: "hof\xC3\xB0i"
-  accentcity: "H\xC3\xB6f\xC3\xB0i"
+  accentcity: "Höf\xC3\xB0i"
 hof: 
   city: "hof"
   accentcity: "Hof"
 hofn: 
   city: "hofn"
-  accentcity: "H\xC3\xB6fn"
+  accentcity: "Höfn"
 hofsos: 
   city: "hofsos"
   accentcity: "Hofsós"
@@ -608,7 +608,7 @@ horn:
   accentcity: "Hoskuldssta\xC3\xB0hir"
 "hoskuldssta\xC3\xB0ir": 
   city: "hoskuldssta\xC3\xB0ir"
-  accentcity: "H\xC3\xB6skuldssta\xC3\xB0ir"
+  accentcity: "Höskuldssta\xC3\xB0ir"
 "hrafnsfjar\xC3\xB0areyri": 
   city: "hrafnsfjar\xC3\xB0areyri"
   accentcity: "Hrafnsfjar\xC3\xB0areyri"
@@ -665,7 +665,7 @@ hvolsvellir:
   accentcity: "Hvolsvellír"
 hvolsvollur: 
   city: "hvolsvollur"
-  accentcity: "Hvolsv\xC3\xB6llur"
+  accentcity: "Hvolsvöllur"
 "illugasta\xC3\xB0ir": 
   city: "illugasta\xC3\xB0ir"
   accentcity: "Illugasta\xC3\xB0ir"
@@ -686,10 +686,10 @@ isafjardardjup:
   accentcity: "Ísafjardardjup"
 "isafjor\xC3\xB0ur": 
   city: "isafjor\xC3\xB0ur"
-  accentcity: "Ísafj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Ísafjör\xC3\xB0ur"
 "issafjor\xC3\xB0ur": 
   city: "issafjor\xC3\xB0ur"
-  accentcity: "Issafj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Issafjör\xC3\xB0ur"
 kakki: 
   city: "kakki"
   accentcity: "Kakki"
@@ -704,10 +704,10 @@ kalfafell:
   accentcity: "Kálfafellssta\xC3\xB0ur"
 kalfajorn: 
   city: "kalfajorn"
-  accentcity: "Kálfaj\xC3\xB6rn"
+  accentcity: "Kálfajörn"
 kalfatjorn: 
   city: "kalfatjorn"
-  accentcity: "Kálfatj\xC3\xB6rn"
+  accentcity: "Kálfatjörn"
 kalfholt: 
   city: "kalfholt"
   accentcity: "Kálfholt"
@@ -758,7 +758,7 @@ kleppur:
   accentcity: "Kleppur"
 kljastrond: 
   city: "kljastrond"
-  accentcity: "Kljástr\xC3\xB6nd"
+  accentcity: "Kljáströnd"
 "klyppssta\xC3\xB0ir": 
   city: "klyppssta\xC3\xB0ir"
   accentcity: "Klyppssta\xC3\xB0ir"
@@ -803,7 +803,7 @@ kopavogur:
   accentcity: "Kópavogur"
 kotstrond: 
   city: "kotstrond"
-  accentcity: "Kotstr\xC3\xB6nd"
+  accentcity: "Kotströnd"
 kross: 
   city: "kross"
   accentcity: "Kross"
@@ -872,10 +872,10 @@ ljosvatn:
   accentcity: "Ljósvatn"
 "logmannshli\xC3\xB0": 
   city: "logmannshli\xC3\xB0"
-  accentcity: "L\xC3\xB6gmannshlí\xC3\xB0"
+  accentcity: "Lögmannshlí\xC3\xB0"
 lond: 
   city: "lond"
-  accentcity: "L\xC3\xB6nd"
+  accentcity: "Lönd"
 lundarbrekka: 
   city: "lundarbrekka"
   accentcity: "Lundarbrekka"
@@ -929,7 +929,7 @@ minnibakki:
   accentcity: "Minnihlí\xC3\xB0"
 "mo\xC3\xB0ruvellir": 
   city: "mo\xC3\xB0ruvellir"
-  accentcity: "M\xC3\xB6\xC3\xB0ruvellir"
+  accentcity: "Mö\xC3\xB0ruvellir"
 moedruvellir: 
   city: "moedruvellir"
   accentcity: "Moedruvellir"
@@ -989,7 +989,7 @@ nes:
   accentcity: "Nor\xC3\xB0urbotn"
 "nor\xC3\xB0urfjor\xC3\xB0ur": 
   city: "nor\xC3\xB0urfjor\xC3\xB0ur"
-  accentcity: "Nor\xC3\xB0urfj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Nor\xC3\xB0urfjör\xC3\xB0ur"
 novotunga: 
   city: "novotunga"
   accentcity: "Novotunga"
@@ -1010,16 +1010,16 @@ ofanleiti:
   accentcity: "Ofanleiti"
 "ofeigsfjor\xC3\xB0ur": 
   city: "ofeigsfjor\xC3\xB0ur"
-  accentcity: "Ófeigsfj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Ófeigsfjör\xC3\xB0ur"
 ogur: 
   city: "ogur"
   accentcity: "\xC3\x96gur"
 olafsfjordhur: 
   city: "olafsfjordhur"
-  accentcity: "Olafsfj\xC3\xB6rdhur"
+  accentcity: "Olafsfjördhur"
 "olafsfjor\xC3\xB0ur": 
   city: "olafsfjor\xC3\xB0ur"
-  accentcity: "Ólafsfj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Ólafsfjör\xC3\xB0ur"
 olafsvellir: 
   city: "olafsvellir"
   accentcity: "Ólafsvellir"
@@ -1028,7 +1028,7 @@ olafsvik:
   accentcity: "Ólafsvík"
 "oliusto\xC3\xB0": 
   city: "oliusto\xC3\xB0"
-  accentcity: "Olíust\xC3\xB6\xC3\xB0"
+  accentcity: "Olíustö\xC3\xB0"
 ospakseyri: 
   city: "ospakseyri"
   accentcity: "Óspakseyri"
@@ -1037,7 +1037,7 @@ patreksfjordhur:
   accentcity: "Patreksfjordhur"
 "patreksfjor\xC3\xB0ur": 
   city: "patreksfjor\xC3\xB0ur"
-  accentcity: "Patreksfj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Patreksfjör\xC3\xB0ur"
 pingeyri: 
   city: "pingeyri"
   accentcity: "Pingeyri"
@@ -1058,10 +1058,10 @@ raudhimelur:
   accentcity: "Raudhimelur"
 raufarhofn: 
   city: "raufarhofn"
-  accentcity: "Raufarh\xC3\xB6fn"
+  accentcity: "Raufarhöfn"
 "rey\xC3\xB0arfjor\xC3\xB0ur": 
   city: "rey\xC3\xB0arfjor\xC3\xB0ur"
-  accentcity: "Rey\xC3\xB0arfj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Rey\xC3\xB0arfjör\xC3\xB0ur"
 reykhoar: 
   city: "reykhoar"
   accentcity: "Reykhóar"
@@ -1076,13 +1076,13 @@ reykir:
   accentcity: "Reykir"
 "reykjafjor\xC3\xB0ur": 
   city: "reykjafjor\xC3\xB0ur"
-  accentcity: "Reykjafj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Reykjafjör\xC3\xB0ur"
 "reykjahli\xC3\xB0": 
   city: "reykjahli\xC3\xB0"
   accentcity: "Reykjahlí\xC3\xB0"
 "reykjarfjor\xC3\xB0ur": 
   city: "reykjarfjor\xC3\xB0ur"
-  accentcity: "Reykjarfj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Reykjarfjör\xC3\xB0ur"
 reykjarnes: 
   city: "reykjarnes"
   accentcity: "Reykjarnes"
@@ -1166,7 +1166,7 @@ setberg:
   accentcity: "Seydisfjor\xC3\xB0ur"
 "sey\xC3\xB0isfjor\xC3\xB0ur": 
   city: "sey\xC3\xB0isfjor\xC3\xB0ur"
-  accentcity: "Sey\xC3\xB0isfj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Sey\xC3\xB0isfjör\xC3\xB0ur"
 "si\xC3\xB0muli": 
   city: "si\xC3\xB0muli"
   accentcity: "Si\xC3\xB0múli"
@@ -1175,7 +1175,7 @@ setberg:
   accentcity: "Sí\xC3\xB0umúli"
 "siglufjor\xC3\xB0ur": 
   city: "siglufjor\xC3\xB0ur"
-  accentcity: "Siglufj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Siglufjör\xC3\xB0ur"
 "silfrasta\xC3\xB0ir": 
   city: "silfrasta\xC3\xB0ir"
   accentcity: "Silfrasta\xC3\xB0ir"
@@ -1190,7 +1190,7 @@ skagastrand:
   accentcity: "Skagastrand"
 skagastrond: 
   city: "skagastrond"
-  accentcity: "Skagastr\xC3\xB6nd"
+  accentcity: "Skagaströnd"
 skalanes: 
   city: "skalanes"
   accentcity: "Skálanes"
@@ -1214,13 +1214,13 @@ skalmarnesmuli:
   accentcity: "Skeggjasta\xC3\xB0ir"
 "skei\xC3\xB0flotur": 
   city: "skei\xC3\xB0flotur"
-  accentcity: "Skei\xC3\xB0fl\xC3\xB6tur"
+  accentcity: "Skei\xC3\xB0flötur"
 "skei\xC3\xB0iflotur": 
   city: "skei\xC3\xB0iflotur"
-  accentcity: "Skei\xC3\xB0ifl\xC3\xB6tur"
+  accentcity: "Skei\xC3\xB0iflötur"
 "skel\xC3\xB0flotur": 
   city: "skel\xC3\xB0flotur"
-  accentcity: "Skel\xC3\xB0fl\xC3\xB6tur"
+  accentcity: "Skel\xC3\xB0flötur"
 "skinnasta\xC3\xB0ir": 
   city: "skinnasta\xC3\xB0ir"
   accentcity: "Skinnasta\xC3\xB0ir"
@@ -1241,7 +1241,7 @@ skogur:
   accentcity: "Sle\xC3\xB0brjótur"
 snaefjoll: 
   city: "snaefjoll"
-  accentcity: "Sn\xC3\xA6fj\xC3\xB6ll"
+  accentcity: "Sn\xC3\xA6fjöll"
 snartarstadir: 
   city: "snartarstadir"
   accentcity: "Snartarstadir"
@@ -1259,7 +1259,7 @@ snoksdolur:
   accentcity: "Snóksdolur"
 "solmundarhof\xC3\xB0i": 
   city: "solmundarhof\xC3\xB0i"
-  accentcity: "Sólmundarh\xC3\xB6f\xC3\xB0i"
+  accentcity: "Sólmundarhöf\xC3\xB0i"
 spakonufell: 
   city: "spakonufell"
   accentcity: "Spákonufell"
@@ -1307,10 +1307,10 @@ starmyri:
   accentcity: "Starm\xC3\xBDri"
 "sto\xC3\xB0": 
   city: "sto\xC3\xB0"
-  accentcity: "St\xC3\xB6\xC3\xB0"
+  accentcity: "Stö\xC3\xB0"
 "sto\xC3\xB0varfjor\xC3\xB0ur": 
   city: "sto\xC3\xB0varfjor\xC3\xB0ur"
-  accentcity: "St\xC3\xB6\xC3\xB0varfj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Stö\xC3\xB0varfjör\xC3\xB0ur"
 stokkseyre: 
   city: "stokkseyre"
   accentcity: "Stokkseyre"
@@ -1391,7 +1391,7 @@ tjaldtangi:
   accentcity: "Tjaldtangi"
 tjorn: 
   city: "tjorn"
-  accentcity: "Tj\xC3\xB6rn"
+  accentcity: "Tjörn"
 "torfasta\xC3\xB0ir": 
   city: "torfasta\xC3\xB0ir"
   accentcity: "Torfasta\xC3\xB0ir"
@@ -1400,7 +1400,7 @@ torfastadur:
   accentcity: "Torfastadur"
 "tro\xC3\xB0": 
   city: "tro\xC3\xB0"
-  accentcity: "Tr\xC3\xB6\xC3\xB0"
+  accentcity: "Trö\xC3\xB0"
 tunga: 
   city: "tunga"
   accentcity: "Tunga"
@@ -1457,16 +1457,16 @@ vallanes:
   accentcity: "Val\xC3\xBEjófssta\xC3\xB0ur"
 "vantsfjor\xC3\xB0ur": 
   city: "vantsfjor\xC3\xB0ur"
-  accentcity: "Vantsfj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Vantsfjör\xC3\xB0ur"
 vatneyri: 
   city: "vatneyri"
   accentcity: "Vatneyri"
 "vatnsefjor\xC3\xB0ur": 
   city: "vatnsefjor\xC3\xB0ur"
-  accentcity: "Vatnsefj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Vatnsefjör\xC3\xB0ur"
 "vatnsfjor\xC3\xB0ur": 
   city: "vatnsfjor\xC3\xB0ur"
-  accentcity: "Vatnsfj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Vatnsfjör\xC3\xB0ur"
 vattannes: 
   city: "vattannes"
   accentcity: "Vattannes"
@@ -1529,7 +1529,7 @@ vopnafjordur:
   accentcity: "Vopnafjordur"
 "vopnafjor\xC3\xB0ur": 
   city: "vopnafjor\xC3\xB0ur"
-  accentcity: "Vopnafj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "Vopnafjör\xC3\xB0ur"
 "vopnatjor\xC3\xB0ur": 
   city: "vopnatjor\xC3\xB0ur"
   accentcity: "Vopnatjor\xC3\xB0ur"
@@ -1544,7 +1544,7 @@ ytri-baegisa:
   accentcity: "Ytri-Rau\xC3\xB0amelur"
 "\xC3\x9Earalatursfjor\xC3\xB0ur": 
   city: "\xC3\x9Earalatursfjor\xC3\xB0ur"
-  accentcity: "\xC3\x9Earalátursfj\xC3\xB6r\xC3\xB0ur"
+  accentcity: "\xC3\x9Earalátursfjör\xC3\xB0ur"
 "\xC3\x9Eingeri": 
   city: "\xC3\x9Eingeri"
   accentcity: "\xC3\x9Eingeri"
@@ -1565,19 +1565,19 @@ ytri-baegisa:
   accentcity: "\xC3\x9Ejórsárbrú"
 "\xC3\x9Eonglabakki": 
   city: "\xC3\x9Eonglabakki"
-  accentcity: "\xC3\x9E\xC3\xB6nglabakki"
+  accentcity: "\xC3\x9Eönglabakki"
 "\xC3\x9Eorkotlusta\xC3\xB0ir": 
   city: "\xC3\x9Eorkotlusta\xC3\xB0ir"
-  accentcity: "\xC3\x9Eork\xC3\xB6tlusta\xC3\xB0ir"
+  accentcity: "\xC3\x9Eorkötlusta\xC3\xB0ir"
 "\xC3\x9Eorlakshofn": 
   city: "\xC3\x9Eorlakshofn"
-  accentcity: "\xC3\x9Eorláksh\xC3\xB6fn"
+  accentcity: "\xC3\x9Eorlákshöfn"
 "\xC3\x9Eoroddssta\xC3\xB0ur": 
   city: "\xC3\x9Eoroddssta\xC3\xB0ur"
   accentcity: "\xC3\x9Eóroddssta\xC3\xB0ur"
 "\xC3\x9Eorshofn": 
   city: "\xC3\x9Eorshofn"
-  accentcity: "\xC3\x9Eórsh\xC3\xB6fn"
+  accentcity: "\xC3\x9Eórshöfn"
 "\xC3\x9Erestbakki": 
   city: "\xC3\x9Erestbakki"
   accentcity: "\xC3\x9Erestbakki"

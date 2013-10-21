@@ -8,7 +8,7 @@ aa:
   accentcity: "Aa"
 aabjorgan: 
   city: "aabjorgan"
-  accentcity: "Aabj\xC3\xB6rgan"
+  accentcity: "Aabjörgan"
 aabol: 
   city: "aabol"
   accentcity: "Aabol"
@@ -53,7 +53,7 @@ aaker:
   accentcity: "Aaker"
 aakeroen: 
   city: "aakeroen"
-  accentcity: "Aaker\xC3\xB6en"
+  accentcity: "Aakeröen"
 aakerviken: 
   city: "aakerviken"
   accentcity: "Aakerviken"
@@ -140,7 +140,7 @@ aamot-modum:
   accentcity: "Aamot-Modum"
 aamoyhamn: 
   city: "aamoyhamn"
-  accentcity: "Aam\xC3\xB6yhamn"
+  accentcity: "Aamöyhamn"
 aamsosen: 
   city: "aamsosen"
   accentcity: "Aamsosen"
@@ -194,7 +194,7 @@ aarak:
   accentcity: "Aarak"
 aaraksbo: 
   city: "aaraksbo"
-  accentcity: "Aaraksb\xC3\xB6"
+  accentcity: "Aaraksbö"
 aarbogen: 
   city: "aarbogen"
   accentcity: "Aarbogen"
@@ -236,10 +236,10 @@ aarnes:
   accentcity: "Aarnes"
 aaro: 
   city: "aaro"
-  accentcity: "Aar\xC3\xB6"
+  accentcity: "Aarö"
 aarobugt: 
   city: "aarobugt"
-  accentcity: "Aar\xC3\xB6bugt"
+  accentcity: "Aaröbugt"
 aaros: 
   city: "aaros"
   accentcity: "Aaros"
@@ -290,7 +290,7 @@ aasanvangene:
   accentcity: "Aasanvangene"
 aasaroy: 
   city: "aasaroy"
-  accentcity: "Aasar\xC3\xB6y"
+  accentcity: "Aasaröy"
 aasaunet: 
   city: "aasaunet"
   accentcity: "Aasaunet"
@@ -299,10 +299,10 @@ aasberg:
   accentcity: "Aasberg"
 aasbo: 
   city: "aasbo"
-  accentcity: "Aasb\xC3\xB6"
+  accentcity: "Aasbö"
 aasbogrend: 
   city: "aasbogrend"
-  accentcity: "Aasb\xC3\xB6grend"
+  accentcity: "Aasbögrend"
 aase: 
   city: "aase"
   accentcity: "Aase"
@@ -317,7 +317,7 @@ aaseral:
   accentcity: "Aaseral"
 aaserod: 
   city: "aaserod"
-  accentcity: "Aaser\xC3\xB6d"
+  accentcity: "Aaseröd"
 aaserum: 
   city: "aaserum"
   accentcity: "Aaserum"
@@ -476,10 +476,10 @@ afjord:
   accentcity: "\xC3\x85fjord"
 afloisen: 
   city: "afloisen"
-  accentcity: "Afl\xC3\xB6isen"
+  accentcity: "Aflöisen"
 aflojsen: 
   city: "aflojsen"
-  accentcity: "Afl\xC3\xB6jsen"
+  accentcity: "Aflöjsen"
 afoss: 
   city: "afoss"
   accentcity: "\xC3\x85foss"
@@ -1241,7 +1241,7 @@ asane:
   accentcity: "\xC3\x85sane"
 asaroy: 
   city: "asaroy"
-  accentcity: "\xC3\x85sar\xC3\xB6y"
+  accentcity: "\xC3\x85saröy"
 as: 
   city: "as"
   accentcity: "\xC3\x85s"
@@ -1322,10 +1322,10 @@ asker:
   accentcity: "Asker"
 askeroen: 
   city: "askeroen"
-  accentcity: "Asker\xC3\xB6en"
+  accentcity: "Askeröen"
 askeroy: 
   city: "askeroy"
-  accentcity: "Asker\xC3\xB6y"
+  accentcity: "Askeröy"
 askevag: 
   city: "askevag"
   accentcity: "Askevag"
@@ -1733,7 +1733,7 @@ baasmoen:
   accentcity: "Baasmoen"
 baatsto: 
   city: "baatsto"
-  accentcity: "Baatst\xC3\xB6"
+  accentcity: "Baatstö"
 badderbotn: 
   city: "badderbotn"
   accentcity: "Badderbotn"
@@ -1949,7 +1949,7 @@ barnas:
   accentcity: "B\xC3\xA5rn\xC3\xA5s"
 baroen: 
   city: "baroen"
-  accentcity: "Bar\xC3\xB6en"
+  accentcity: "Baröen"
 baroya: 
   city: "baroya"
   accentcity: "Bar\xC3\xB8ya"
@@ -2006,7 +2006,7 @@ batnfjordsora:
   accentcity: "Batnfjords\xC3\xB8ra"
 batnfjordsoren: 
   city: "batnfjordsoren"
-  accentcity: "Batnfjords\xC3\xB6ren"
+  accentcity: "Batnfjordsören"
 batsfjord: 
   city: "batsfjord"
   accentcity: "B\xC3\xA5tsfjord"
@@ -2015,7 +2015,7 @@ batsto:
   accentcity: "B\xC3\xA5tst\xC3\xB8"
 battenfjordsoren: 
   city: "battenfjordsoren"
-  accentcity: "Battenfjords\xC3\xB6ren"
+  accentcity: "Battenfjordsören"
 bauge: 
   city: "bauge"
   accentcity: "Bauge"
@@ -2465,7 +2465,7 @@ bjerve:
   accentcity: "Bjerve"
 bjodalen: 
   city: "bjodalen"
-  accentcity: "Bj\xC3\xB6dalen"
+  accentcity: "Bjödalen"
 bjodalssaetrane: 
   city: "bjodalssaetrane"
   accentcity: "Bj\xC3\xB8dalss\xC3\xA6trane"
@@ -2492,7 +2492,7 @@ bjonnes:
   accentcity: "Bj\xC3\xB8nnes"
 bjonnraa: 
   city: "bjonnraa"
-  accentcity: "Bj\xC3\xB6nnraa"
+  accentcity: "Bjönnraa"
 bjordal: 
   city: "bjordal"
   accentcity: "Bjordal"
@@ -2504,7 +2504,7 @@ bjoreimsbygda:
   accentcity: "Bj\xC3\xB8reimsbygda"
 bjoren: 
   city: "bjoren"
-  accentcity: "Bj\xC3\xB6ren"
+  accentcity: "Björen"
 bjorgan: 
   city: "bjorgan"
   accentcity: "Bj\xC3\xB8rgan"
@@ -2543,7 +2543,7 @@ bjoringen:
   accentcity: "Bj\xC3\xB8ringen"
 bjorkaasen: 
   city: "bjorkaasen"
-  accentcity: "Bj\xC3\xB6rkaasen"
+  accentcity: "Björkaasen"
 bjorkan: 
   city: "bjorkan"
   accentcity: "Bj\xC3\xB8rkan"
@@ -2561,16 +2561,16 @@ bjorkedal:
   accentcity: "Bj\xC3\xB8rkedal"
 bjorkeland: 
   city: "bjorkeland"
-  accentcity: "Bj\xC3\xB6rkeland"
+  accentcity: "Björkeland"
 bjorkelangen: 
   city: "bjorkelangen"
   accentcity: "Bj\xC3\xB8rkelangen"
 bjorkeli: 
   city: "bjorkeli"
-  accentcity: "Bj\xC3\xB6rkeli"
+  accentcity: "Björkeli"
 bjorkelo: 
   city: "bjorkelo"
-  accentcity: "Bj\xC3\xB6rkelo"
+  accentcity: "Björkelo"
 bjorkelund: 
   city: "bjorkelund"
   accentcity: "Bj\xC3\xB8rkelund"
@@ -2588,7 +2588,7 @@ bjorkli:
   accentcity: "Bj\xC3\xB8rkli"
 bjorklid: 
   city: "bjorklid"
-  accentcity: "Bj\xC3\xB6rklid"
+  accentcity: "Björklid"
 bjorkreim: 
   city: "bjorkreim"
   accentcity: "Bjorkreim"
@@ -2603,10 +2603,10 @@ bjornaa:
   accentcity: "Bj\xC3\xB8rn\xC3\xA5a"
 bjornaaen: 
   city: "bjornaaen"
-  accentcity: "Bj\xC3\xB6rnaaen"
+  accentcity: "Björnaaen"
 bjornaasen: 
   city: "bjornaasen"
-  accentcity: "Bj\xC3\xB6rnaasen"
+  accentcity: "Björnaasen"
 bjornasen: 
   city: "bjornasen"
   accentcity: "Bj\xC3\xB8rn\xC3\xA5sen"
@@ -2615,7 +2615,7 @@ bjornbaervika:
   accentcity: "Bj\xC3\xB8rnb\xC3\xA6rvika"
 bjornbaerviken: 
   city: "bjornbaerviken"
-  accentcity: "Bj\xC3\xB6rnb\xC3\xA6rviken"
+  accentcity: "Björnb\xC3\xA6rviken"
 bjorn: 
   city: "bjorn"
   accentcity: "Bj\xC3\xB8rn"
@@ -2627,10 +2627,10 @@ bjorndalen:
   accentcity: "Bj\xC3\xB8rndalen"
 bjornelvdalen: 
   city: "bjornelvdalen"
-  accentcity: "Bj\xC3\xB6rnelvdalen"
+  accentcity: "Björnelvdalen"
 bjorneraas: 
   city: "bjorneraas"
-  accentcity: "Bj\xC3\xB6rneraas"
+  accentcity: "Björneraas"
 bjorneras: 
   city: "bjorneras"
   accentcity: "Bj\xC3\xB8rner\xC3\xA5s"
@@ -2642,13 +2642,13 @@ bjornestad:
   accentcity: "Bj\xC3\xB8rnestad"
 bjornevaag: 
   city: "bjornevaag"
-  accentcity: "Bj\xC3\xB6rnevaag"
+  accentcity: "Björnevaag"
 bjornevag: 
   city: "bjornevag"
   accentcity: "Bj\xC3\xB8rnev\xC3\xA5g"
 bjornevand: 
   city: "bjornevand"
-  accentcity: "Bj\xC3\xB6rnevand"
+  accentcity: "Björnevand"
 bjornevatn: 
   city: "bjornevatn"
   accentcity: "Bj\xC3\xB8rnevatn"
@@ -2657,7 +2657,7 @@ bjornhalt:
   accentcity: "Bjornhalt"
 bjornheim: 
   city: "bjornheim"
-  accentcity: "Bj\xC3\xB6rnheim"
+  accentcity: "Björnheim"
 bjornholt: 
   city: "bjornholt"
   accentcity: "Bj\xC3\xB8rnholt"
@@ -2672,7 +2672,7 @@ bjornoy:
   accentcity: "Bj\xC3\xB8rn\xC3\xB8y"
 bjornraa: 
   city: "bjornraa"
-  accentcity: "Bj\xC3\xB6rnraa"
+  accentcity: "Björnraa"
 bjornra: 
   city: "bjornra"
   accentcity: "Bj\xC3\xB8rnr\xC3\xA5"
@@ -2693,7 +2693,7 @@ bjornsvik:
   accentcity: "Bj\xC3\xB8rnsvik"
 bjornvaag: 
   city: "bjornvaag"
-  accentcity: "Bj\xC3\xB6rnvaag"
+  accentcity: "Björnvaag"
 bjornvag: 
   city: "bjornvag"
   accentcity: "Bj\xC3\xB8rnv\xC3\xA5g"
@@ -2702,10 +2702,10 @@ bjornvagen:
   accentcity: "Bj\xC3\xB8rnv\xC3\xA5gen"
 bjornvandet: 
   city: "bjornvandet"
-  accentcity: "Bj\xC3\xB6rnvandet"
+  accentcity: "Björnvandet"
 bjornvasdalen: 
   city: "bjornvasdalen"
-  accentcity: "Bj\xC3\xB6rnvasdalen"
+  accentcity: "Björnvasdalen"
 bjornvassdalen: 
   city: "bjornvassdalen"
   accentcity: "Bj\xC3\xB8rnvassdalen"
@@ -2720,7 +2720,7 @@ bjorvatn:
   accentcity: "Bjorvatn"
 bjorvika: 
   city: "bjorvika"
-  accentcity: "Bj\xC3\xB6rvika"
+  accentcity: "Björvika"
 bjorvik: 
   city: "bjorvik"
   accentcity: "Bjorvik"
@@ -2885,7 +2885,7 @@ bo:
   accentcity: "B\xC3\xB8"
 bodalen: 
   city: "bodalen"
-  accentcity: "B\xC3\xB6dalen"
+  accentcity: "Bödalen"
 bodn: 
   city: "bodn"
   accentcity: "Bodn"
@@ -2894,7 +2894,7 @@ bodo:
   accentcity: "Bod\xC3\xB8"
 bodogaard: 
   city: "bodogaard"
-  accentcity: "Bod\xC3\xB6gaard"
+  accentcity: "Bodögaard"
 bodogard: 
   city: "bodogard"
   accentcity: "Bod\xC3\xB8g\xC3\xA5rd"
@@ -2948,7 +2948,7 @@ bolgen:
   accentcity: "Bolgen"
 bolingen: 
   city: "bolingen"
-  accentcity: "B\xC3\xB6lingen"
+  accentcity: "Bölingen"
 bolinghavn: 
   city: "bolinghavn"
   accentcity: "B\xC3\xB8linghavn"
@@ -3044,13 +3044,13 @@ borelva:
   accentcity: "B\xC3\xB8relva"
 borelv: 
   city: "borelv"
-  accentcity: "B\xC3\xB6relv"
+  accentcity: "Börelv"
 borelven: 
   city: "borelven"
-  accentcity: "B\xC3\xB6relven"
+  accentcity: "Börelven"
 boremark: 
   city: "boremark"
-  accentcity: "B\xC3\xB6remark"
+  accentcity: "Böremark"
 borgan: 
   city: "borgan"
   accentcity: "Borgan"
@@ -3140,7 +3140,7 @@ borselven:
   accentcity: "B\xC3\xB8rselven"
 borselv kapel: 
   city: "borselv kapel"
-  accentcity: "B\xC3\xB6rselv Kapel"
+  accentcity: "Börselv Kapel"
 borselvnes: 
   city: "borselvnes"
   accentcity: "B\xC3\xB8rselvnes"
@@ -3155,7 +3155,7 @@ borsholmen:
   accentcity: "Borsholmen"
 borsjohogruva: 
   city: "borsjohogruva"
-  accentcity: "B\xC3\xB6rsj\xC3\xB6h\xC3\xB6gruva"
+  accentcity: "Börsjöhögruva"
 borsjohogruve: 
   city: "borsjohogruve"
   accentcity: "B\xC3\xB8rsj\xC3\xB8h\xC3\xB8gruve"
@@ -3176,7 +3176,7 @@ borte:
   accentcity: "B\xC3\xB8rte"
 bortegrend: 
   city: "bortegrend"
-  accentcity: "B\xC3\xB6rtegrend"
+  accentcity: "Börtegrend"
 bortheim: 
   city: "bortheim"
   accentcity: "Bortheim"
@@ -3194,7 +3194,7 @@ bosboen:
   accentcity: "Bosb\xC3\xB8en"
 bosdalen: 
   city: "bosdalen"
-  accentcity: "B\xC3\xB6sdalen"
+  accentcity: "Bösdalen"
 bosekop: 
   city: "bosekop"
   accentcity: "Bosekop"
@@ -3260,7 +3260,7 @@ bovagen:
   accentcity: "B\xC3\xB8v\xC3\xA5gen"
 boverfjord: 
   city: "boverfjord"
-  accentcity: "B\xC3\xB6verfjord"
+  accentcity: "Böverfjord"
 boverfjorden: 
   city: "boverfjorden"
   accentcity: "B\xC3\xB8verfjorden"
@@ -3308,7 +3308,7 @@ bragernes:
   accentcity: "Bragernes"
 bragoy: 
   city: "bragoy"
-  accentcity: "Brag\xC3\xB6y"
+  accentcity: "Bragöy"
 brakstad: 
   city: "brakstad"
   accentcity: "Brakstad"
@@ -3329,7 +3329,7 @@ branddal:
   accentcity: "Branddal"
 brandso: 
   city: "brandso"
-  accentcity: "Brands\xC3\xB6"
+  accentcity: "Brandsö"
 brandsoy: 
   city: "brandsoy"
   accentcity: "Brands\xC3\xB8y"
@@ -3713,7 +3713,7 @@ brokland:
   accentcity: "Brokland"
 broklois: 
   city: "broklois"
-  accentcity: "Brokl\xC3\xB6is"
+  accentcity: "Broklöis"
 brokloys: 
   city: "brokloys"
   accentcity: "Brokl\xC3\xB8ys"
@@ -3731,7 +3731,7 @@ bromsgard:
   accentcity: "Bromsg\xC3\xA5rd"
 bronbu: 
   city: "bronbu"
-  accentcity: "Br\xC3\xB6nbu"
+  accentcity: "Brönbu"
 bronka: 
   city: "bronka"
   accentcity: "Bronka"
@@ -3773,7 +3773,7 @@ brosvik:
   accentcity: "Brosvik"
 brotoen: 
   city: "brotoen"
-  accentcity: "Brot\xC3\xB6en"
+  accentcity: "Brotöen"
 brottem: 
   city: "brottem"
   accentcity: "Br\xC3\xB8ttem"
@@ -3941,10 +3941,10 @@ bufloen:
   accentcity: "Bufloen"
 bugones: 
   city: "bugones"
-  accentcity: "Bug\xC3\xB6nes"
+  accentcity: "Bugönes"
 bugones vaer: 
   city: "bugones vaer"
-  accentcity: "Bug\xC3\xB6nes V\xC3\xA6r"
+  accentcity: "Bugönes V\xC3\xA6r"
 bugoynes: 
   city: "bugoynes"
   accentcity: "Bug\xC3\xB8ynes"
@@ -4004,7 +4004,7 @@ bunesfjord:
   accentcity: "Bunesfjord"
 buoen: 
   city: "buoen"
-  accentcity: "Bu\xC3\xB6en"
+  accentcity: "Buöen"
 buoy: 
   city: "buoy"
   accentcity: "Bu\xC3\xB8y"
@@ -4094,7 +4094,7 @@ bygd:
   accentcity: "Bygd"
 bygdo: 
   city: "bygdo"
-  accentcity: "Bygd\xC3\xB6"
+  accentcity: "Bygdö"
 bygdoy: 
   city: "bygdoy"
   accentcity: "Bygd\xC3\xB8y"
@@ -4166,10 +4166,10 @@ christiansand:
   accentcity: "Christiansand"
 daaro: 
   city: "daaro"
-  accentcity: "Daar\xC3\xB6"
+  accentcity: "Daarö"
 daavoy: 
   city: "daavoy"
-  accentcity: "Daav\xC3\xB6y"
+  accentcity: "Daavöy"
 dacagiedde: 
   city: "dacagiedde"
   accentcity: "Dacagiedde"
@@ -4247,7 +4247,7 @@ dalsbygda:
   accentcity: "Dalsbygda"
 dalsora: 
   city: "dalsora"
-  accentcity: "Dals\xC3\xB6ra"
+  accentcity: "Dalsöra"
 dalsoyra: 
   city: "dalsoyra"
   accentcity: "Dals\xC3\xB8yra"
@@ -4364,7 +4364,7 @@ divimoen:
   accentcity: "Divimoen"
 djonna: 
   city: "djonna"
-  accentcity: "Dj\xC3\xB6nna"
+  accentcity: "Djönna"
 djonno: 
   city: "djonno"
   accentcity: "Dj\xC3\xB8nno"
@@ -4538,7 +4538,7 @@ dovik:
   accentcity: "D\xC3\xB8vik"
 doviki: 
   city: "doviki"
-  accentcity: "D\xC3\xB6viki"
+  accentcity: "Döviki"
 dovland: 
   city: "dovland"
   accentcity: "Dovland"
@@ -4646,7 +4646,7 @@ droia:
   accentcity: "Dr\xC3\xB8ia"
 droivold: 
   city: "droivold"
-  accentcity: "Dr\xC3\xB6ivold"
+  accentcity: "Dröivold"
 drolsum: 
   city: "drolsum"
   accentcity: "Drolsum"
@@ -4658,7 +4658,7 @@ dromnes:
   accentcity: "Dromnes"
 dronen: 
   city: "dronen"
-  accentcity: "Dr\xC3\xB6nen"
+  accentcity: "Drönen"
 droni: 
   city: "droni"
   accentcity: "Dr\xC3\xB8ni"
@@ -4727,7 +4727,7 @@ dyngjeland:
   accentcity: "Dyngjeland"
 dyngo: 
   city: "dyngo"
-  accentcity: "Dyng\xC3\xB6"
+  accentcity: "Dyngö"
 dyngoya: 
   city: "dyngoya"
   accentcity: "Dyng\xC3\xB8ya"
@@ -4766,7 +4766,7 @@ dyrnes:
   accentcity: "Dyrnes"
 dyroen: 
   city: "dyroen"
-  accentcity: "Dyr\xC3\xB6en"
+  accentcity: "Dyröen"
 dyroy: 
   city: "dyroy"
   accentcity: "Dyr\xC3\xB8y"
@@ -4994,10 +4994,10 @@ eidsora:
   accentcity: "Eids\xC3\xB8ra"
 eidsoren: 
   city: "eidsoren"
-  accentcity: "Eids\xC3\xB6ren"
+  accentcity: "Eidsören"
 eidsoyra: 
   city: "eidsoyra"
-  accentcity: "Eids\xC3\xB6yra"
+  accentcity: "Eidsöyra"
 eidssund: 
   city: "eidssund"
   accentcity: "Eidssund"
@@ -5342,10 +5342,10 @@ elset:
   accentcity: "Elset"
 elshoa: 
   city: "elshoa"
-  accentcity: "Elsh\xC3\xB6a"
+  accentcity: "Elshöa"
 elsho: 
   city: "elsho"
-  accentcity: "Elsh\xC3\xB6"
+  accentcity: "Elshö"
 elsnes: 
   city: "elsnes"
   accentcity: "Elsnes"
@@ -5492,7 +5492,7 @@ engelsviken:
   accentcity: "Engelsviken"
 engelsviko: 
   city: "engelsviko"
-  accentcity: "Engelsvik\xC3\xB6"
+  accentcity: "Engelsvikö"
 engenaes: 
   city: "engenaes"
   accentcity: "Engen\xC3\xA6s"
@@ -6287,7 +6287,7 @@ finnland:
   accentcity: "Finnland"
 finnoen: 
   city: "finnoen"
-  accentcity: "Finn\xC3\xB6en"
+  accentcity: "Finnöen"
 finnoya: 
   city: "finnoya"
   accentcity: "Finn\xC3\xB8ya"
@@ -6698,7 +6698,7 @@ flatoya:
   accentcity: "Flat\xC3\xB8ya"
 flatoy: 
   city: "flatoy"
-  accentcity: "Flat\xC3\xB6y"
+  accentcity: "Flatöy"
 flatraker: 
   city: "flatraker"
   accentcity: "Flatr\xC3\xA5ker"
@@ -6806,10 +6806,10 @@ flogo:
   accentcity: "Flogo"
 floistad: 
   city: "floistad"
-  accentcity: "Fl\xC3\xB6istad"
+  accentcity: "Flöistad"
 flojstad: 
   city: "flojstad"
-  accentcity: "Fl\xC3\xB6jstad"
+  accentcity: "Flöjstad"
 flokenes: 
   city: "flokenes"
   accentcity: "Flokenes"
@@ -6824,7 +6824,7 @@ florengstranden:
   accentcity: "Florengstranden"
 florlid: 
   city: "florlid"
-  accentcity: "Fl\xC3\xB6rlid"
+  accentcity: "Flörlid"
 florli: 
   city: "florli"
   accentcity: "Fl\xC3\xB8rli"
@@ -6845,7 +6845,7 @@ flotlia:
   accentcity: "Fl\xC3\xB8tlia"
 flotlien: 
   city: "flotlien"
-  accentcity: "Fl\xC3\xB6tlien"
+  accentcity: "Flötlien"
 flotre: 
   city: "flotre"
   accentcity: "Fl\xC3\xB8tre"
@@ -6866,7 +6866,7 @@ flovik:
   accentcity: "Fl\xC3\xB8vik"
 floyrlid: 
   city: "floyrlid"
-  accentcity: "Fl\xC3\xB6yrlid"
+  accentcity: "Flöyrlid"
 floyrli: 
   city: "floyrli"
   accentcity: "Fl\xC3\xB8yrli"
@@ -7055,7 +7055,7 @@ fornes:
   accentcity: "Fornes"
 forosaeter: 
   city: "forosaeter"
-  accentcity: "For\xC3\xB6s\xC3\xA6ter"
+  accentcity: "Forös\xC3\xA6ter"
 foroya: 
   city: "foroya"
   accentcity: "For\xC3\xB8ya"
@@ -7067,7 +7067,7 @@ foroysaetran:
   accentcity: "For\xC3\xB8ys\xC3\xA6tran"
 foroyseter: 
   city: "foroyseter"
-  accentcity: "For\xC3\xB6yseter"
+  accentcity: "Foröyseter"
 forra: 
   city: "forra"
   accentcity: "Forra"
@@ -7349,19 +7349,19 @@ frohol:
   accentcity: "Fr\xC3\xB8hol"
 froiland: 
   city: "froiland"
-  accentcity: "Fr\xC3\xB6iland"
+  accentcity: "Fröiland"
 froisland: 
   city: "froisland"
-  accentcity: "Fr\xC3\xB6island"
+  accentcity: "Fröisland"
 froistul: 
   city: "froistul"
   accentcity: "Fr\xC3\xB8istul"
 froitland: 
   city: "froitland"
-  accentcity: "Fr\xC3\xB6itland"
+  accentcity: "Fröitland"
 frojen: 
   city: "frojen"
-  accentcity: "Fr\xC3\xB6jen"
+  accentcity: "Fröjen"
 froland: 
   city: "froland"
   accentcity: "Froland"
@@ -7379,7 +7379,7 @@ fronningan:
   accentcity: "Fr\xC3\xB8nningan"
 fronningen: 
   city: "fronningen"
-  accentcity: "Fr\xC3\xB6nningen"
+  accentcity: "Frönningen"
 frosendal: 
   city: "frosendal"
   accentcity: "Fr\xC3\xB8sendal"
@@ -7391,7 +7391,7 @@ froskeland:
   accentcity: "Fr\xC3\xB8skeland"
 frossendal: 
   city: "frossendal"
-  accentcity: "Fr\xC3\xB6ssendal"
+  accentcity: "Frössendal"
 froviken: 
   city: "froviken"
   accentcity: "Froviken"
@@ -7409,7 +7409,7 @@ froynes:
   accentcity: "Fr\xC3\xB8ynes"
 froysaa: 
   city: "froysaa"
-  accentcity: "Fr\xC3\xB6ysaa"
+  accentcity: "Fröysaa"
 froysa: 
   city: "froysa"
   accentcity: "Fr\xC3\xB8ys\xC3\xA5"
@@ -7562,7 +7562,7 @@ gaasbakken:
   accentcity: "Gaasbakken"
 gaasbol: 
   city: "gaasbol"
-  accentcity: "Gaasb\xC3\xB6l"
+  accentcity: "Gaasböl"
 gaaseby: 
   city: "gaaseby"
   accentcity: "Gaaseby"
@@ -7574,7 +7574,7 @@ gaaserud:
   accentcity: "Gaaserud"
 gaaskjolen: 
   city: "gaaskjolen"
-  accentcity: "Gaaskj\xC3\xB6len"
+  accentcity: "Gaaskjölen"
 gaasvaer: 
   city: "gaasvaer"
   accentcity: "Gaasvaer"
@@ -7733,7 +7733,7 @@ garsjoen:
   accentcity: "Garsj\xC3\xB8en"
 garsjo: 
   city: "garsjo"
-  accentcity: "Garsj\xC3\xB6"
+  accentcity: "Garsjö"
 garstad: 
   city: "garstad"
   accentcity: "Garstad"
@@ -8003,10 +8003,10 @@ gjengstoa:
   accentcity: "Gjengst\xC3\xB8a"
 gjengstoen: 
   city: "gjengstoen"
-  accentcity: "Gjengst\xC3\xB6en"
+  accentcity: "Gjengstöen"
 gjengsto: 
   city: "gjengsto"
-  accentcity: "Gjengst\xC3\xB6"
+  accentcity: "Gjengstö"
 gjennestad: 
   city: "gjennestad"
   accentcity: "Gjennestad"
@@ -8099,7 +8099,7 @@ gjesval:
   accentcity: "Gjesval"
 gjetsjo: 
   city: "gjetsjo"
-  accentcity: "Gjetsj\xC3\xB6"
+  accentcity: "Gjetsjö"
 gjetvik: 
   city: "gjetvik"
   accentcity: "Gjetvik"
@@ -8120,7 +8120,7 @@ gjoljalia:
   accentcity: "Gj\xC3\xB8ljalia"
 gjoljalien: 
   city: "gjoljalien"
-  accentcity: "Gj\xC3\xB6ljalien"
+  accentcity: "Gjöljalien"
 gjolme: 
   city: "gjolme"
   accentcity: "Gj\xC3\xB8lme"
@@ -8267,7 +8267,7 @@ glostad:
   accentcity: "Gl\xC3\xB8stad"
 glosvaag: 
   city: "glosvaag"
-  accentcity: "Gl\xC3\xB6svaag"
+  accentcity: "Glösvaag"
 glosvag: 
   city: "glosvag"
   accentcity: "Gl\xC3\xB8sv\xC3\xA5g"
@@ -8306,13 +8306,13 @@ godli:
   accentcity: "Godli"
 godoen: 
   city: "godoen"
-  accentcity: "God\xC3\xB6en"
+  accentcity: "Godöen"
 godo: 
   city: "godo"
-  accentcity: "God\xC3\xB6"
+  accentcity: "Godö"
 godones: 
   city: "godones"
-  accentcity: "God\xC3\xB6nes"
+  accentcity: "Godönes"
 godoy: 
   city: "godoy"
   accentcity: "God\xC3\xB8y"
@@ -8393,7 +8393,7 @@ goystdal:
   accentcity: "G\xC3\xB8ystdal"
 goystdalsgardene: 
   city: "goystdalsgardene"
-  accentcity: "G\xC3\xB6ystdalsgardene"
+  accentcity: "Göystdalsgardene"
 goytil: 
   city: "goytil"
   accentcity: "G\xC3\xB8ytil"
@@ -8654,7 +8654,7 @@ groa pa nordmore:
   accentcity: "Gr\xC3\xB8a p\xC3\xA5 Nordm\xC3\xB8re"
 grodaas: 
   city: "grodaas"
-  accentcity: "Gr\xC3\xB6daas"
+  accentcity: "Grödaas"
 grodal: 
   city: "grodal"
   accentcity: "Gr\xC3\xB8dal"
@@ -8705,7 +8705,7 @@ gronlid:
   accentcity: "Gr\xC3\xB8nlid"
 gronlien: 
   city: "gronlien"
-  accentcity: "Gr\xC3\xB6nlien"
+  accentcity: "Grönlien"
 gronli: 
   city: "gronli"
   accentcity: "Gr\xC3\xB8nli"
@@ -8750,13 +8750,13 @@ grosland:
   accentcity: "Gr\xC3\xB8sland"
 grosnes litle: 
   city: "grosnes litle"
-  accentcity: "Gr\xC3\xB6snes Litle"
+  accentcity: "Grösnes Litle"
 grosnes star: 
   city: "grosnes star"
-  accentcity: "Gr\xC3\xB6snes Star"
+  accentcity: "Grösnes Star"
 grosnes store: 
   city: "grosnes store"
-  accentcity: "Gr\xC3\xB6snes Store"
+  accentcity: "Grösnes Store"
 grossaas: 
   city: "grossaas"
   accentcity: "Grossaas"
@@ -8792,16 +8792,16 @@ grotlia:
   accentcity: "Gr\xC3\xB8tlia"
 grotlien: 
   city: "grotlien"
-  accentcity: "Gr\xC3\xB6tlien"
+  accentcity: "Grötlien"
 grotnesbukt: 
   city: "grotnesbukt"
-  accentcity: "Gr\xC3\xB6tnesbukt"
+  accentcity: "Grötnesbukt"
 grotnesdalen: 
   city: "grotnesdalen"
   accentcity: "Gr\xC3\xB8tnesdalen"
 grotoen: 
   city: "grotoen"
-  accentcity: "Gr\xC3\xB6t\xC3\xB6en"
+  accentcity: "Grötöen"
 grotoy: 
   city: "grotoy"
   accentcity: "Gr\xC3\xB8t\xC3\xB8y"
@@ -8864,10 +8864,10 @@ grundfjord:
   accentcity: "Grundfjord"
 grundforfjord: 
   city: "grundforfjord"
-  accentcity: "Grundf\xC3\xB6rfjord"
+  accentcity: "Grundförfjord"
 grundfor: 
   city: "grundfor"
-  accentcity: "Grundf\xC3\xB6r"
+  accentcity: "Grundför"
 grungebru: 
   city: "grungebru"
   accentcity: "Grungebru"
@@ -8936,7 +8936,7 @@ gryting:
   accentcity: "Gryting"
 grytora: 
   city: "grytora"
-  accentcity: "Gryt\xC3\xB6ra"
+  accentcity: "Grytöra"
 grytoyra: 
   city: "grytoyra"
   accentcity: "Gryt\xC3\xB8yra"
@@ -9122,7 +9122,7 @@ gyllenpris:
   accentcity: "Gyllenpris"
 gylloien: 
   city: "gylloien"
-  accentcity: "Gyll\xC3\xB6ien"
+  accentcity: "Gyllöien"
 gyllvik: 
   city: "gyllvik"
   accentcity: "Gyllvik"
@@ -9167,7 +9167,7 @@ haakonshella:
   accentcity: "Haakonshella"
 haakoybotn: 
   city: "haakoybotn"
-  accentcity: "Haak\xC3\xB6ybotn"
+  accentcity: "Haaköybotn"
 haakvik: 
   city: "haakvik"
   accentcity: "Haakvik"
@@ -9182,7 +9182,7 @@ haalsund:
   accentcity: "Haalsund"
 haaoen: 
   city: "haaoen"
-  accentcity: "Haa\xC3\xB6en"
+  accentcity: "Haaöen"
 haarberg: 
   city: "haarberg"
   accentcity: "Haarberg"
@@ -9242,7 +9242,7 @@ haeim:
   accentcity: "H\xC3\xA5eim"
 haenoen: 
   city: "haenoen"
-  accentcity: "H\xC3\xA6n\xC3\xB6en"
+  accentcity: "H\xC3\xA6nöen"
 haere: 
   city: "haere"
   accentcity: "H\xC3\xA6re"
@@ -9359,7 +9359,7 @@ hakonshell:
   accentcity: "Hakonshell"
 hakoybom: 
   city: "hakoybom"
-  accentcity: "H\xC3\xA5k\xC3\xB6ybom"
+  accentcity: "H\xC3\xA5köybom"
 hakoybotn: 
   city: "hakoybotn"
   accentcity: "H\xC3\xA5k\xC3\xB8ybotn"
@@ -9416,7 +9416,7 @@ hallem:
   accentcity: "Hallem"
 halleroen: 
   city: "halleroen"
-  accentcity: "Haller\xC3\xB6en"
+  accentcity: "Halleröen"
 hall: 
   city: "hall"
   accentcity: "Hall"
@@ -9500,7 +9500,7 @@ halten:
   accentcity: "Halten"
 halteroen: 
   city: "halteroen"
-  accentcity: "Halter\xC3\xB6en"
+  accentcity: "Halteröen"
 halto: 
   city: "halto"
   accentcity: "Halto"
@@ -9629,7 +9629,7 @@ hamran:
   accentcity: "Hamran"
 hamrebo: 
   city: "hamrebo"
-  accentcity: "Hamreb\xC3\xB6"
+  accentcity: "Hamrebö"
 hamre: 
   city: "hamre"
   accentcity: "Hamre"
@@ -9698,19 +9698,19 @@ hankesund:
   accentcity: "Hankesund"
 hanko bad: 
   city: "hanko bad"
-  accentcity: "Hank\xC3\xB6 Bad"
+  accentcity: "Hankö Bad"
 hannberget: 
   city: "hannberget"
   accentcity: "Hannberget"
 hano: 
   city: "hano"
-  accentcity: "Han\xC3\xB6"
+  accentcity: "Hanö"
 hanoya: 
   city: "hanoya"
   accentcity: "Han\xC3\xB8ya"
 hanoyen: 
   city: "hanoyen"
-  accentcity: "Han\xC3\xB6yen"
+  accentcity: "Hanöyen"
 hanoy: 
   city: "hanoy"
   accentcity: "Han\xC3\xB8y"
@@ -10127,7 +10127,7 @@ havnnoes:
   accentcity: "Havnnoes"
 havno: 
   city: "havno"
-  accentcity: "Havn\xC3\xB6"
+  accentcity: "Havnö"
 havoll: 
   city: "havoll"
   accentcity: "H\xC3\xA5voll"
@@ -10307,7 +10307,7 @@ heimsjoen:
   accentcity: "Heimsj\xC3\xB8en"
 heimsjo: 
   city: "heimsjo"
-  accentcity: "Heimsj\xC3\xB6"
+  accentcity: "Heimsjö"
 heimsnes: 
   city: "heimsnes"
   accentcity: "Heimsnes"
@@ -10412,7 +10412,7 @@ hellandsjoen:
   accentcity: "Hellandsj\xC3\xB8en"
 hellandsjo: 
   city: "hellandsjo"
-  accentcity: "Hellandsj\xC3\xB6"
+  accentcity: "Hellandsjö"
 hellaren: 
   city: "hellaren"
   accentcity: "Hellaren"
@@ -10616,7 +10616,7 @@ henriksbo:
   accentcity: "Henriksb\xC3\xB8"
 henrikso: 
   city: "henrikso"
-  accentcity: "Henriks\xC3\xB6"
+  accentcity: "Henriksö"
 henriksoy: 
   city: "henriksoy"
   accentcity: "Henriks\xC3\xB8y"
@@ -10685,7 +10685,7 @@ hernes:
   accentcity: "Hernes"
 hernsjo: 
   city: "hernsjo"
-  accentcity: "Hernsj\xC3\xB6"
+  accentcity: "Hernsjö"
 heroen: 
   city: "heroen"
   accentcity: "Heroen"
@@ -10784,7 +10784,7 @@ hestnes:
   accentcity: "Hestnes"
 hestnesora: 
   city: "hestnesora"
-  accentcity: "Hestnes\xC3\xB6ra"
+  accentcity: "Hestnesöra"
 hestnesoyra: 
   city: "hestnesoyra"
   accentcity: "Hestnes\xC3\xB8yra"
@@ -11024,7 +11024,7 @@ hobbasland:
   accentcity: "Hobb\xC3\xA5sland"
 hobugten: 
   city: "hobugten"
-  accentcity: "H\xC3\xB6bugten"
+  accentcity: "Höbugten"
 hodal: 
   city: "hodal"
   accentcity: "Hodal"
@@ -11036,7 +11036,7 @@ hoddoen:
   accentcity: "Hoddoen"
 hoddoy: 
   city: "hoddoy"
-  accentcity: "Hodd\xC3\xB6y"
+  accentcity: "Hoddöy"
 hodnaberg: 
   city: "hodnaberg"
   accentcity: "Hodnaberg"
@@ -11054,7 +11054,7 @@ hoem:
   accentcity: "Hoem"
 hoeroya: 
   city: "hoeroya"
-  accentcity: "Hoer\xC3\xB6ya"
+  accentcity: "Hoeröya"
 hoff: 
   city: "hoff"
   accentcity: "Hoff"
@@ -11141,46 +11141,46 @@ hogvalstad:
   accentcity: "Hogvalstad"
 hoibakken: 
   city: "hoibakken"
-  accentcity: "H\xC3\xB6ibakken"
+  accentcity: "Höibakken"
 hoibo: 
   city: "hoibo"
   accentcity: "H\xC3\xB8ibo"
 hoibugten: 
   city: "hoibugten"
-  accentcity: "H\xC3\xB6ibugten"
+  accentcity: "Höibugten"
 hoibukta: 
   city: "hoibukta"
-  accentcity: "H\xC3\xB6ibukta"
+  accentcity: "Höibukta"
 hoidal: 
   city: "hoidal"
   accentcity: "H\xC3\xB8idal"
 hoie: 
   city: "hoie"
-  accentcity: "H\xC3\xB6ie"
+  accentcity: "Höie"
 hoiforsslet: 
   city: "hoiforsslet"
-  accentcity: "H\xC3\xB6iforsslet"
+  accentcity: "Höiforsslet"
 hoiholm: 
   city: "hoiholm"
-  accentcity: "H\xC3\xB6iholm"
+  accentcity: "Höiholm"
 hoijord: 
   city: "hoijord"
   accentcity: "H\xC3\xB8ijord"
 hoiland: 
   city: "hoiland"
-  accentcity: "H\xC3\xB6iland"
+  accentcity: "Höiland"
 hoiset: 
   city: "hoiset"
   accentcity: "H\xC3\xB8iset"
 hoivaag: 
   city: "hoivaag"
-  accentcity: "H\xC3\xB6ivaag"
+  accentcity: "Höivaag"
 hojem: 
   city: "hojem"
   accentcity: "Hojem"
 hojnaes: 
   city: "hojnaes"
-  accentcity: "H\xC3\xB6jn\xC3\xA6s"
+  accentcity: "Höjn\xC3\xA6s"
 hokkasen: 
   city: "hokkasen"
   accentcity: "Hokk\xC3\xA5sen"
@@ -11189,13 +11189,13 @@ hokksund:
   accentcity: "Hokksund"
 hoknes: 
   city: "hoknes"
-  accentcity: "H\xC3\xB6knes"
+  accentcity: "Höknes"
 hokstad: 
   city: "hokstad"
   accentcity: "Hokstad"
 holandet: 
   city: "holandet"
-  accentcity: "H\xC3\xB6landet"
+  accentcity: "Hölandet"
 holand: 
   city: "holand"
   accentcity: "Holand"
@@ -11210,7 +11210,7 @@ holandsklubben:
   accentcity: "Holandsklubben"
 holandsoien: 
   city: "holandsoien"
-  accentcity: "Holands\xC3\xB6ien"
+  accentcity: "Holandsöien"
 holandsoya: 
   city: "holandsoya"
   accentcity: "Holands\xC3\xB8ya"
@@ -11342,13 +11342,13 @@ holmli:
   accentcity: "Holmli"
 holmoiene: 
   city: "holmoiene"
-  accentcity: "Holm\xC3\xB6iene"
+  accentcity: "Holmöiene"
 holmoyane: 
   city: "holmoyane"
   accentcity: "Holm\xC3\xB8yane"
 holmoy: 
   city: "holmoy"
-  accentcity: "Holm\xC3\xB6y"
+  accentcity: "Holmöy"
 holmsbu: 
   city: "holmsbu"
   accentcity: "Holmsbu"
@@ -11363,7 +11363,7 @@ holo:
   accentcity: "Holo"
 holoien: 
   city: "holoien"
-  accentcity: "Hol\xC3\xB6ien"
+  accentcity: "Holöien"
 holoya: 
   city: "holoya"
   accentcity: "Hol\xC3\xB8ya"
@@ -11492,7 +11492,7 @@ honnebo:
   accentcity: "H\xC3\xB8nneb\xC3\xB8"
 honningsvaag: 
   city: "honningsvaag"
-  accentcity: "H\xC3\xB6nningsvaag"
+  accentcity: "Hönningsvaag"
 honningsvag: 
   city: "honningsvag"
   accentcity: "Honningsv\xC3\xA5g"
@@ -11654,7 +11654,7 @@ hosten:
   accentcity: "Hosten"
 hostland: 
   city: "hostland"
-  accentcity: "H\xC3\xB6stland"
+  accentcity: "Höstland"
 hostnes: 
   city: "hostnes"
   accentcity: "H\xC3\xB8stnes"
@@ -11678,7 +11678,7 @@ houm:
   accentcity: "Houm"
 hovaag: 
   city: "hovaag"
-  accentcity: "H\xC3\xB6vaag"
+  accentcity: "Hövaag"
 hovag: 
   city: "hovag"
   accentcity: "H\xC3\xB8v\xC3\xA5g"
@@ -11762,7 +11762,7 @@ hoybakken:
   accentcity: "H\xC3\xB8ybakken"
 hoybraaten: 
   city: "hoybraaten"
-  accentcity: "H\xC3\xB6ybraaten"
+  accentcity: "Höybraaten"
 hoybraten: 
   city: "hoybraten"
   accentcity: "H\xC3\xB8ybr\xC3\xA5ten"
@@ -11774,7 +11774,7 @@ hoybukt:
   accentcity: "H\xC3\xB8ybukt"
 hoydal: 
   city: "hoydal"
-  accentcity: "H\xC3\xB6ydal"
+  accentcity: "Höydal"
 hoye: 
   city: "hoye"
   accentcity: "H\xC3\xB8ye"
@@ -11993,7 +11993,7 @@ husvaer:
   accentcity: "Husv\xC3\xA6r"
 husvaero: 
   city: "husvaero"
-  accentcity: "Husvaer\xC3\xB6"
+  accentcity: "Husvaerö"
 husvag: 
   city: "husvag"
   accentcity: "Husv\xC3\xA5g"
@@ -12113,7 +12113,7 @@ idse i ryfylke:
   accentcity: "Idse i Ryfylke"
 idso: 
   city: "idso"
-  accentcity: "Ids\xC3\xB6"
+  accentcity: "Idsö"
 igaldas: 
   city: "igaldas"
   accentcity: "Igaldas"
@@ -12125,10 +12125,10 @@ igelkjon:
   accentcity: "Igelkj\xC3\xB8n"
 igeroen: 
   city: "igeroen"
-  accentcity: "Iger\xC3\xB6en"
+  accentcity: "Igeröen"
 igero: 
   city: "igero"
-  accentcity: "Iger\xC3\xB6"
+  accentcity: "Igerö"
 igeroya: 
   city: "igeroya"
   accentcity: "Iger\xC3\xB8ya"
@@ -12194,7 +12194,7 @@ imsland:
   accentcity: "Imsland"
 indbjor: 
   city: "indbjor"
-  accentcity: "Indbj\xC3\xB6r"
+  accentcity: "Indbjör"
 inderby: 
   city: "inderby"
   accentcity: "Inderby"
@@ -12239,10 +12239,10 @@ indre hjartholm:
   accentcity: "Indre Hjartholm"
 indre hoddoen: 
   city: "indre hoddoen"
-  accentcity: "Indre Hodd\xC3\xB6en"
+  accentcity: "Indre Hoddöen"
 indre hoddo: 
   city: "indre hoddo"
-  accentcity: "Indre Hodd\xC3\xB6"
+  accentcity: "Indre Hoddö"
 indre hoddoy: 
   city: "indre hoddoy"
   accentcity: "Indre Hodd\xC3\xB8y"
@@ -12275,7 +12275,7 @@ indrekvam:
   accentcity: "Indrekvam"
 indre kvaroen: 
   city: "indre kvaroen"
-  accentcity: "Indre Kvar\xC3\xB6en"
+  accentcity: "Indre Kvaröen"
 indre kvaroya: 
   city: "indre kvaroya"
   accentcity: "Indre Kvar\xC3\xB8ya"
@@ -12383,7 +12383,7 @@ ingelsfjord:
   accentcity: "Ingelsfjord"
 ingeroy: 
   city: "ingeroy"
-  accentcity: "Inger\xC3\xB6y"
+  accentcity: "Ingeröy"
 ingvaldstad: 
   city: "ingvaldstad"
   accentcity: "Ingvaldstad"
@@ -12509,7 +12509,7 @@ jagervatn:
   accentcity: "J\xC3\xA4gervatn"
 jagtoien: 
   city: "jagtoien"
-  accentcity: "Jagt\xC3\xB6ien"
+  accentcity: "Jagtöien"
 jakobsbakken: 
   city: "jakobsbakken"
   accentcity: "Jakobsbakken"
@@ -12650,7 +12650,7 @@ jolstad:
   accentcity: "J\xC3\xB8lstad"
 jolstol: 
   city: "jolstol"
-  accentcity: "J\xC3\xB6lst\xC3\xB6l"
+  accentcity: "Jölstöl"
 joma: 
   city: "joma"
   accentcity: "Joma"
@@ -12761,7 +12761,7 @@ josen:
   accentcity: "J\xC3\xB8sen"
 jossanger: 
   city: "jossanger"
-  accentcity: "J\xC3\xB6ssanger"
+  accentcity: "Jössanger"
 jossang: 
   city: "jossang"
   accentcity: "J\xC3\xB8ssang"
@@ -12848,7 +12848,7 @@ kaarevik:
   accentcity: "Kaarevik"
 kaarsto: 
   city: "kaarsto"
-  accentcity: "Kaarst\xC3\xB6"
+  accentcity: "Kaarstö"
 kaarvatn: 
   city: "kaarvatn"
   accentcity: "Kaarvatn"
@@ -13079,13 +13079,13 @@ kambo:
   accentcity: "Kambo"
 kamovaer: 
   city: "kamovaer"
-  accentcity: "Kam\xC3\xB6v\xC3\xA6r"
+  accentcity: "Kamöv\xC3\xA6r"
 kamoyvaer: 
   city: "kamoyvaer"
   accentcity: "Kam\xC3\xB8yv\xC3\xA6r"
 kamoyver: 
   city: "kamoyver"
-  accentcity: "Kam\xC3\xB6yver"
+  accentcity: "Kamöyver"
 kampesaeter: 
   city: "kampesaeter"
   accentcity: "Kampes\xC3\xA6ter"
@@ -13106,7 +13106,7 @@ kanestraum:
   accentcity: "Kanestraum"
 kanestrom: 
   city: "kanestrom"
-  accentcity: "Kanestr\xC3\xB6m"
+  accentcity: "Kaneström"
 kanfjellien: 
   city: "kanfjellien"
   accentcity: "Kanfjellien"
@@ -13178,7 +13178,7 @@ karlshus:
   accentcity: "Karlshus"
 karlso: 
   city: "karlso"
-  accentcity: "Karls\xC3\xB6"
+  accentcity: "Karlsö"
 karlsoy: 
   city: "karlsoy"
   accentcity: "Karls\xC3\xB8y"
@@ -13376,7 +13376,7 @@ kiran:
   accentcity: "Kiran"
 kirkebo: 
   city: "kirkebo"
-  accentcity: "Kirkeb\xC3\xB6"
+  accentcity: "Kirkebö"
 kirkefjord: 
   city: "kirkefjord"
   accentcity: "Kirkefjord"
@@ -13430,7 +13430,7 @@ kirkreit:
   accentcity: "Kirkreit"
 kirksaeteroren: 
   city: "kirksaeteroren"
-  accentcity: "Kirksaeter\xC3\xB6ren"
+  accentcity: "Kirksaeterören"
 kirkvolden: 
   city: "kirkvolden"
   accentcity: "Kirkvolden"
@@ -13493,7 +13493,7 @@ kjeilen:
   accentcity: "Kjeilen"
 kjeiprod: 
   city: "kjeiprod"
-  accentcity: "Kjeipr\xC3\xB6d"
+  accentcity: "Kjeipröd"
 kjejkan: 
   city: "kjejkan"
   accentcity: "Kjejkan"
@@ -13562,7 +13562,7 @@ kjellsund:
   accentcity: "Kjellsund"
 kjelmeso vaer: 
   city: "kjelmeso vaer"
-  accentcity: "Kjelmes\xC3\xB6 V\xC3\xA6r"
+  accentcity: "Kjelmesö V\xC3\xA6r"
 kjelmoen: 
   city: "kjelmoen"
   accentcity: "Kjelmoen"
@@ -13571,7 +13571,7 @@ kjelmsoen:
   accentcity: "Kjelms\xC3\xB8en"
 kjelmsoya: 
   city: "kjelmsoya"
-  accentcity: "Kjelms\xC3\xB6ya"
+  accentcity: "Kjelmsöya"
 kjelstad: 
   city: "kjelstad"
   accentcity: "Kjelstad"
@@ -13649,7 +13649,7 @@ kjerringnes:
   accentcity: "Kjerringnes"
 kjerringo: 
   city: "kjerringo"
-  accentcity: "Kjerring\xC3\xB6"
+  accentcity: "Kjerringö"
 kjerringoy: 
   city: "kjerringoy"
   accentcity: "Kjerring\xC3\xB8y"
@@ -13715,16 +13715,16 @@ kjolhaug:
   accentcity: "Kj\xC3\xB8lhaug"
 kjoli grube: 
   city: "kjoli grube"
-  accentcity: "Kj\xC3\xB6li Grube"
+  accentcity: "Kjöli Grube"
 kjoligruben: 
   city: "kjoligruben"
-  accentcity: "Kj\xC3\xB6ligruben"
+  accentcity: "Kjöligruben"
 kjoligruva: 
   city: "kjoligruva"
   accentcity: "Kj\xC3\xB8ligruva"
 kjoligruve: 
   city: "kjoligruve"
-  accentcity: "Kj\xC3\xB6ligruve"
+  accentcity: "Kjöligruve"
 kjollefjord: 
   city: "kjollefjord"
   accentcity: "Kj\xC3\xB8llefjord"
@@ -13739,10 +13739,10 @@ kjomme:
   accentcity: "Kjomme"
 kjondalen: 
   city: "kjondalen"
-  accentcity: "Kj\xC3\xB6ndalen"
+  accentcity: "Kjöndalen"
 kjonnaas: 
   city: "kjonnaas"
-  accentcity: "Kj\xC3\xB6nnaas"
+  accentcity: "Kjönnaas"
 kjonnas: 
   city: "kjonnas"
   accentcity: "Kj\xC3\xB8nn\xC3\xA5s"
@@ -13751,13 +13751,13 @@ kjonnsvik:
   accentcity: "Kj\xC3\xB8nnsvik"
 kjonsberg: 
   city: "kjonsberg"
-  accentcity: "Kj\xC3\xB6nsberg"
+  accentcity: "Kjönsberg"
 kjonsoen: 
   city: "kjonsoen"
-  accentcity: "Kj\xC3\xB6ns\xC3\xB6en"
+  accentcity: "Kjönsöen"
 kjonso: 
   city: "kjonso"
-  accentcity: "Kj\xC3\xB6ns\xC3\xB6"
+  accentcity: "Kjönsö"
 kjonstad: 
   city: "kjonstad"
   accentcity: "Kj\xC3\xB8nstad"
@@ -13778,7 +13778,7 @@ kjorem:
   accentcity: "Kj\xC3\xB8rem"
 kjoren: 
   city: "kjoren"
-  accentcity: "Kj\xC3\xB6ren"
+  accentcity: "Kjören"
 kjorholt: 
   city: "kjorholt"
   accentcity: "Kj\xC3\xB8rholt"
@@ -13793,7 +13793,7 @@ kjorstad:
   accentcity: "Kj\xC3\xB8rstad"
 kjorsvikbugen: 
   city: "kjorsvikbugen"
-  accentcity: "Kj\xC3\xB6rsvikbugen"
+  accentcity: "Kjörsvikbugen"
 kjorsvikbukt: 
   city: "kjorsvikbukt"
   accentcity: "Kjorsvikbukt"
@@ -13817,13 +13817,13 @@ kjosnesvoll:
   accentcity: "Kj\xC3\xB8snesvoll"
 kjostveid: 
   city: "kjostveid"
-  accentcity: "Kj\xC3\xB6stveid"
+  accentcity: "Kjöstveid"
 kjostveit: 
   city: "kjostveit"
   accentcity: "Kj\xC3\xB8stveit"
 kjosvik: 
   city: "kjosvik"
-  accentcity: "Kj\xC3\xB6svik"
+  accentcity: "Kjösvik"
 kjottvik: 
   city: "kjottvik"
   accentcity: "Kjottvik"
@@ -14045,13 +14045,13 @@ klopp:
   accentcity: "Klopp"
 kloven: 
   city: "kloven"
-  accentcity: "Kl\xC3\xB6ven"
+  accentcity: "Klöven"
 klovsaet: 
   city: "klovsaet"
-  accentcity: "Kl\xC3\xB6vs\xC3\xA6t"
+  accentcity: "Klövs\xC3\xA6t"
 klovset: 
   city: "klovset"
-  accentcity: "Kl\xC3\xB6vset"
+  accentcity: "Klövset"
 klubba: 
   city: "klubba"
   accentcity: "Klubba"
@@ -14495,7 +14495,7 @@ kpalshaug:
   accentcity: "Kpalshaug"
 kraabol: 
   city: "kraabol"
-  accentcity: "Kraab\xC3\xB6l"
+  accentcity: "Kraaböl"
 kraakeberget: 
   city: "kraakeberget"
   accentcity: "Kraakeberget"
@@ -14711,7 +14711,7 @@ krokstadora:
   accentcity: "Krokstad\xC3\xB8ra"
 krokstadoren: 
   city: "krokstadoren"
-  accentcity: "Krokstad\xC3\xB6ren"
+  accentcity: "Krokstadören"
 kroksti: 
   city: "kroksti"
   accentcity: "Kroksti"
@@ -14876,10 +14876,10 @@ kvalnes:
   accentcity: "Kvalnes"
 kvaloen: 
   city: "kvaloen"
-  accentcity: "Kval\xC3\xB6en"
+  accentcity: "Kvalöen"
 kvalosaeter: 
   city: "kvalosaeter"
-  accentcity: "Kval\xC3\xB6s\xC3\xA6ter"
+  accentcity: "Kvalös\xC3\xA6ter"
 kvaloy: 
   city: "kvaloy"
   accentcity: "Kval\xC3\xB8y"
@@ -14906,7 +14906,7 @@ kvalshavsen:
   accentcity: "Kvalshavsen"
 kvalsoen: 
   city: "kvalsoen"
-  accentcity: "Kvals\xC3\xB6en"
+  accentcity: "Kvalsöen"
 kvalsoy: 
   city: "kvalsoy"
   accentcity: "Kvals\xC3\xB8y"
@@ -15005,7 +15005,7 @@ kvarme:
   accentcity: "Kvarme"
 kvaroy: 
   city: "kvaroy"
-  accentcity: "Kvar\xC3\xB6y"
+  accentcity: "Kvaröy"
 kvarrsnes: 
   city: "kvarrsnes"
   accentcity: "Kvarrsnes"
@@ -15293,7 +15293,7 @@ kylstad:
   accentcity: "Kylstad"
 kyrkeboen: 
   city: "kyrkeboen"
-  accentcity: "Kyrkeb\xC3\xB6en"
+  accentcity: "Kyrkeböen"
 kyrkjeboen: 
   city: "kyrkjeboen"
   accentcity: "Kyrkjeb\xC3\xB8en"
@@ -15362,7 +15362,7 @@ lade:
   accentcity: "Lade"
 laedalsoyra: 
   city: "laedalsoyra"
-  accentcity: "L\xC3\xA6dals\xC3\xB6yra"
+  accentcity: "L\xC3\xA6dalsöyra"
 laegereid: 
   city: "laegereid"
   accentcity: "L\xC3\xA6gereid"
@@ -15377,7 +15377,7 @@ laerdal:
   accentcity: "Laerdal"
 laerdalsora: 
   city: "laerdalsora"
-  accentcity: "L\xC3\xA6rdals\xC3\xB6ra"
+  accentcity: "L\xC3\xA6rdalsöra"
 laerdalsoren: 
   city: "laerdalsoren"
   accentcity: "L\xC3\xA6rdals\xC3\xB8ren"
@@ -15476,7 +15476,7 @@ lammetun:
   accentcity: "Lammetun"
 lamo: 
   city: "lamo"
-  accentcity: "Lam\xC3\xB6"
+  accentcity: "Lamö"
 lamoy: 
   city: "lamoy"
   accentcity: "Lam\xC3\xB8y"
@@ -15545,7 +15545,7 @@ lanes:
   accentcity: "Lanes"
 lanesora: 
   city: "lanesora"
-  accentcity: "Lanes\xC3\xB6ra"
+  accentcity: "Lanesöra"
 lanesoren: 
   city: "lanesoren"
   accentcity: "Lanes\xC3\xB8ren"
@@ -15692,7 +15692,7 @@ langset:
   accentcity: "Langset"
 langsjoaasen: 
   city: "langsjoaasen"
-  accentcity: "Langsj\xC3\xB6aasen"
+  accentcity: "Langsjöaasen"
 langsjoasen: 
   city: "langsjoasen"
   accentcity: "Langsj\xC3\xB8\xC3\xA5sen"
@@ -15863,7 +15863,7 @@ lauvoyvagen:
   accentcity: "Lauv\xC3\xB8yv\xC3\xA5gen"
 lauvoyvag: 
   city: "lauvoyvag"
-  accentcity: "Lauv\xC3\xB6yv\xC3\xA5g"
+  accentcity: "Lauvöyv\xC3\xA5g"
 lauvrak: 
   city: "lauvrak"
   accentcity: "Lauvrak"
@@ -16217,7 +16217,7 @@ levoll:
   accentcity: "Levoll"
 liaboen: 
   city: "liaboen"
-  accentcity: "Liab\xC3\xB6en"
+  accentcity: "Liaböen"
 liabo: 
   city: "liabo"
   accentcity: "Liab\xC3\xB8"
@@ -16250,7 +16250,7 @@ liastolane:
   accentcity: "Liast\xC3\xB8lane"
 liastolan: 
   city: "liastolan"
-  accentcity: "Liast\xC3\xB6lan"
+  accentcity: "Liastölan"
 lien: 
   city: "lien"
   accentcity: "Lien"
@@ -16292,7 +16292,7 @@ lillefjord:
   accentcity: "Lillefjord"
 lille grosnes: 
   city: "lille grosnes"
-  accentcity: "Lille Gr\xC3\xB6snes"
+  accentcity: "Lille Grösnes"
 lillehammer: 
   city: "lillehammer"
   accentcity: "Lillehammer"
@@ -16340,7 +16340,7 @@ lillestrom:
   accentcity: "Lillestr\xC3\xB8m"
 lille tamso: 
   city: "lille tamso"
-  accentcity: "Lille Tams\xC3\xB6"
+  accentcity: "Lille Tamsö"
 lille vinje: 
   city: "lille vinje"
   accentcity: "Lille Vinje"
@@ -16649,7 +16649,7 @@ loding:
   accentcity: "L\xC3\xB8ding"
 lod: 
   city: "lod"
-  accentcity: "L\xC3\xB6d"
+  accentcity: "Löd"
 lodshavn: 
   city: "lodshavn"
   accentcity: "Lodshavn"
@@ -16664,7 +16664,7 @@ loen:
   accentcity: "Loen"
 lofaldli: 
   city: "lofaldli"
-  accentcity: "L\xC3\xB6faldli"
+  accentcity: "Löfaldli"
 lofald: 
   city: "lofald"
   accentcity: "L\xC3\xB8fald"
@@ -16691,13 +16691,13 @@ loga:
   accentcity: "Loga"
 loiten: 
   city: "loiten"
-  accentcity: "L\xC3\xB6iten"
+  accentcity: "Löiten"
 loken i holand: 
   city: "loken i holand"
   accentcity: "L\xC3\xB8ken i H\xC3\xB8land"
 loken: 
   city: "loken"
-  accentcity: "L\xC3\xB6ken"
+  accentcity: "Löken"
 lokevik: 
   city: "lokevik"
   accentcity: "L\xC3\xB8kevik"
@@ -16721,7 +16721,7 @@ lokker:
   accentcity: "L\xC3\xB8kker"
 lokkoen: 
   city: "lokkoen"
-  accentcity: "Lokk\xC3\xB6en"
+  accentcity: "Lokköen"
 lokkoy: 
   city: "lokkoy"
   accentcity: "Lokk\xC3\xB8y"
@@ -16730,7 +16730,7 @@ loklia:
   accentcity: "L\xC3\xB8klia"
 lokli: 
   city: "lokli"
-  accentcity: "L\xC3\xB6kli"
+  accentcity: "Lökli"
 lokoy: 
   city: "lokoy"
   accentcity: "Lok\xC3\xB8y"
@@ -16739,13 +16739,13 @@ loksletta:
   accentcity: "L\xC3\xB8ksletta"
 lokstrand: 
   city: "lokstrand"
-  accentcity: "L\xC3\xB6kstrand"
+  accentcity: "Lökstrand"
 lokvik: 
   city: "lokvik"
   accentcity: "Lokvik"
 lokvold: 
   city: "lokvold"
-  accentcity: "L\xC3\xB6kvold"
+  accentcity: "Lökvold"
 lokvollen: 
   city: "lokvollen"
   accentcity: "L\xC3\xB8kvollen"
@@ -16835,7 +16835,7 @@ lonkan:
   accentcity: "Lonkan"
 lonlifaldet: 
   city: "lonlifaldet"
-  accentcity: "L\xC3\xB6nlifaldet"
+  accentcity: "Lönlifaldet"
 lonlifallet: 
   city: "lonlifallet"
   accentcity: "L\xC3\xB8nlifallet"
@@ -16856,10 +16856,10 @@ lopsmarka:
   accentcity: "L\xC3\xB8psmarka"
 lopsmarken: 
   city: "lopsmarken"
-  accentcity: "L\xC3\xB6psmarken"
+  accentcity: "Löpsmarken"
 lordal: 
   city: "lordal"
-  accentcity: "L\xC3\xB6rdal"
+  accentcity: "Lördal"
 lorenfallet: 
   city: "lorenfallet"
   accentcity: "L\xC3\xB8renfallet"
@@ -16868,7 +16868,7 @@ loren:
   accentcity: "L\xC3\xB8ren"
 losaamoen: 
   city: "losaamoen"
-  accentcity: "L\xC3\xB6saamoen"
+  accentcity: "Lösaamoen"
 losamoen: 
   city: "losamoen"
   accentcity: "L\xC3\xB8s\xC3\xA5moen"
@@ -16877,7 +16877,7 @@ losby:
   accentcity: "Losby"
 losetli: 
   city: "losetli"
-  accentcity: "L\xC3\xB6setli"
+  accentcity: "Lösetli"
 loset: 
   city: "loset"
   accentcity: "L\xC3\xB8set"
@@ -16919,19 +16919,19 @@ lotveit:
   accentcity: "L\xC3\xB8tveit"
 lovdal: 
   city: "lovdal"
-  accentcity: "L\xC3\xB6vdal"
+  accentcity: "Lövdal"
 love: 
   city: "love"
-  accentcity: "L\xC3\xB6ve"
+  accentcity: "Löve"
 lovhaugen: 
   city: "lovhaugen"
-  accentcity: "L\xC3\xB6vhaugen"
+  accentcity: "Lövhaugen"
 lovik: 
   city: "lovik"
   accentcity: "L\xC3\xB8vik"
 loviknaes: 
   city: "loviknaes"
-  accentcity: "L\xC3\xB6vikn\xC3\xA6s"
+  accentcity: "Lövikn\xC3\xA6s"
 lovikneset: 
   city: "lovikneset"
   accentcity: "L\xC3\xB8vikneset"
@@ -16943,10 +16943,10 @@ lovjammas:
   accentcity: "L\xC3\xB8vj\xC3\xA5mm\xC3\xA5s"
 lovland: 
   city: "lovland"
-  accentcity: "L\xC3\xB6vland"
+  accentcity: "Lövland"
 lovoen: 
   city: "lovoen"
-  accentcity: "L\xC3\xB6v\xC3\xB6en"
+  accentcity: "Lövöen"
 lovold: 
   city: "lovold"
   accentcity: "Lovold"
@@ -16955,22 +16955,22 @@ lovoll:
   accentcity: "L\xC3\xB8voll"
 lovo: 
   city: "lovo"
-  accentcity: "L\xC3\xB6v\xC3\xB6"
+  accentcity: "Lövö"
 lovoya: 
   city: "lovoya"
   accentcity: "L\xC3\xB8v\xC3\xB8ya"
 lovoyen: 
   city: "lovoyen"
-  accentcity: "L\xC3\xB6v\xC3\xB6yen"
+  accentcity: "Lövöyen"
 lovset: 
   city: "lovset"
-  accentcity: "L\xC3\xB6vset"
+  accentcity: "Lövset"
 lovsjolien: 
   city: "lovsjolien"
-  accentcity: "L\xC3\xB6vsj\xC3\xB6lien"
+  accentcity: "Lövsjölien"
 lovstrand: 
   city: "lovstrand"
-  accentcity: "L\xC3\xB6vstrand"
+  accentcity: "Lövstrand"
 lovunden: 
   city: "lovunden"
   accentcity: "Lovunden"
@@ -16979,7 +16979,7 @@ lovund:
   accentcity: "Lovund"
 lovvik: 
   city: "lovvik"
-  accentcity: "L\xC3\xB6vvik"
+  accentcity: "Lövvik"
 loyning: 
   city: "loyning"
   accentcity: "L\xC3\xB8yning"
@@ -17219,13 +17219,13 @@ maarnes:
   accentcity: "Maarnes"
 maaroy: 
   city: "maaroy"
-  accentcity: "Maar\xC3\xB6y"
+  accentcity: "Maaröy"
 maarsund: 
   city: "maarsund"
   accentcity: "Maarsund"
 maasoy: 
   city: "maasoy"
-  accentcity: "Maas\xC3\xB6y"
+  accentcity: "Maasöy"
 maastad: 
   city: "maastad"
   accentcity: "Maastad"
@@ -17600,7 +17600,7 @@ medstraum:
   accentcity: "Medstraum"
 medstrom: 
   city: "medstrom"
-  accentcity: "Medstr\xC3\xB6m"
+  accentcity: "Medström"
 meeidalen: 
   city: "meeidalen"
   accentcity: "Meeidalen"
@@ -17765,7 +17765,7 @@ mel:
   accentcity: "Mel"
 melosjoen: 
   city: "melosjoen"
-  accentcity: "Mel\xC3\xB6sj\xC3\xB6en"
+  accentcity: "Melösjöen"
 meloy: 
   city: "meloy"
   accentcity: "Mel\xC3\xB8y"
@@ -17861,7 +17861,7 @@ mesnsaga:
   accentcity: "Mesnsaga"
 mesoen: 
   city: "mesoen"
-  accentcity: "Mes\xC3\xB6en"
+  accentcity: "Mesöen"
 mesoy: 
   city: "mesoy"
   accentcity: "Mes\xC3\xB8y"
@@ -17921,7 +17921,7 @@ midtboen:
   accentcity: "Midtb\xC3\xB8en"
 midtbo: 
   city: "midtbo"
-  accentcity: "Midtb\xC3\xB6"
+  accentcity: "Midtbö"
 midtbrod: 
   city: "midtbrod"
   accentcity: "Midtbr\xC3\xB8d"
@@ -18026,7 +18026,7 @@ misten:
   accentcity: "Misten"
 misteroya: 
   city: "misteroya"
-  accentcity: "Mister\xC3\xB6ya"
+  accentcity: "Misteröya"
 misteroy: 
   city: "misteroy"
   accentcity: "Mister\xC3\xB8y"
@@ -18083,7 +18083,7 @@ mjoa:
   accentcity: "Mj\xC3\xB8a"
 mjoen: 
   city: "mjoen"
-  accentcity: "Mj\xC3\xB6en"
+  accentcity: "Mjöen"
 mjolfjell: 
   city: "mjolfjell"
   accentcity: "Mj\xC3\xB8lfjell"
@@ -18095,13 +18095,13 @@ mjolkarlia:
   accentcity: "Mj\xC3\xB8lkarlia"
 mjolkarlien: 
   city: "mjolkarlien"
-  accentcity: "Mj\xC3\xB6lkarlien"
+  accentcity: "Mjölkarlien"
 mjolkeraen: 
   city: "mjolkeraen"
   accentcity: "Mj\xC3\xB8lker\xC3\xA5en"
 mjolkraani: 
   city: "mjolkraani"
-  accentcity: "Mj\xC3\xB6lkraani"
+  accentcity: "Mjölkraani"
 mjolkrani: 
   city: "mjolkrani"
   accentcity: "Mj\xC3\xB8lkr\xC3\xA5ni"
@@ -18110,7 +18110,7 @@ mjolsnes:
   accentcity: "Mj\xC3\xB8lsnes"
 mjomen: 
   city: "mjomen"
-  accentcity: "Mj\xC3\xB6men"
+  accentcity: "Mjömen"
 mjomna: 
   city: "mjomna"
   accentcity: "Mj\xC3\xB8mna"
@@ -18179,13 +18179,13 @@ mo i rana:
   accentcity: "Mo i Rana"
 moistad: 
   city: "moistad"
-  accentcity: "M\xC3\xB6istad"
+  accentcity: "Möistad"
 mojstad: 
   city: "mojstad"
-  accentcity: "M\xC3\xB6jstad"
+  accentcity: "Möjstad"
 mokjaaland: 
   city: "mokjaaland"
-  accentcity: "M\xC3\xB6kjaaland"
+  accentcity: "Mökjaaland"
 mokjaland: 
   city: "mokjaland"
   accentcity: "M\xC3\xB8kj\xC3\xA5land"
@@ -18197,7 +18197,7 @@ mokkland:
   accentcity: "M\xC3\xB8kkland"
 mokland: 
   city: "mokland"
-  accentcity: "M\xC3\xB6kland"
+  accentcity: "Mökland"
 mokleby: 
   city: "mokleby"
   accentcity: "M\xC3\xB8kleby"
@@ -18224,7 +18224,7 @@ moldjord:
   accentcity: "Moldjord"
 moldo: 
   city: "moldo"
-  accentcity: "Mold\xC3\xB6"
+  accentcity: "Moldö"
 moldtua: 
   city: "moldtua"
   accentcity: "Moldtua"
@@ -18242,7 +18242,7 @@ molle:
   accentcity: "M\xC3\xB8lle"
 mollen: 
   city: "mollen"
-  accentcity: "M\xC3\xB6llen"
+  accentcity: "Möllen"
 mollerstad: 
   city: "mollerstad"
   accentcity: "M\xC3\xB8llerstad"
@@ -18353,13 +18353,13 @@ morland:
   accentcity: "Morland"
 morre: 
   city: "morre"
-  accentcity: "M\xC3\xB6rre"
+  accentcity: "Mörre"
 morrfjord: 
   city: "morrfjord"
   accentcity: "Morrfjord"
 morrsvik: 
   city: "morrsvik"
-  accentcity: "M\xC3\xB6rrsvik"
+  accentcity: "Mörrsvik"
 morstad: 
   city: "morstad"
   accentcity: "M\xC3\xB8rstad"
@@ -18653,7 +18653,7 @@ naerbo:
   accentcity: "N\xC3\xA6rb\xC3\xB8"
 naerebo: 
   city: "naerebo"
-  accentcity: "N\xC3\xA6reb\xC3\xB6"
+  accentcity: "N\xC3\xA6rebö"
 naerland: 
   city: "naerland"
   accentcity: "N\xC3\xA6rland"
@@ -18905,7 +18905,7 @@ nedre kaldvik:
   accentcity: "Nedre Kaldvik"
 nedre kjoren: 
   city: "nedre kjoren"
-  accentcity: "Nedre Kj\xC3\xB6ren"
+  accentcity: "Nedre Kjören"
 nedre leira: 
   city: "nedre leira"
   accentcity: "Nedre Leira"
@@ -19256,10 +19256,10 @@ nordanger:
   accentcity: "Nordanger"
 nord arnoen: 
   city: "nord arnoen"
-  accentcity: "Nord Arn\xC3\xB6en"
+  accentcity: "Nord Arnöen"
 nordarno: 
   city: "nordarno"
-  accentcity: "Nordarn\xC3\xB6"
+  accentcity: "Nordarnö"
 nordarnoya: 
   city: "nordarnoya"
   accentcity: "Nordarn\xC3\xB8ya"
@@ -19424,7 +19424,7 @@ nordlenangen:
   accentcity: "Nordlenangen"
 nord maagero: 
   city: "nord maagero"
-  accentcity: "Nord Maager\xC3\xB6"
+  accentcity: "Nord Maagerö"
 nord makeroy: 
   city: "nord makeroy"
   accentcity: "Nord M\xC3\xA5ker\xC3\xB8y"
@@ -19457,10 +19457,10 @@ nordnes:
   accentcity: "Nordnes"
 nordnesogardene: 
   city: "nordnesogardene"
-  accentcity: "Nordnes\xC3\xB6gardene"
+  accentcity: "Nordnesögardene"
 nordnesogard: 
   city: "nordnesogard"
-  accentcity: "Nordnes\xC3\xB6gard"
+  accentcity: "Nordnesögard"
 nordnesoya: 
   city: "nordnesoya"
   accentcity: "Nordnes\xC3\xB8ya"
@@ -19499,7 +19499,7 @@ nordre heggdal:
   accentcity: "Nordre Heggdal"
 nordre hjartoen: 
   city: "nordre hjartoen"
-  accentcity: "Nordre Hjart\xC3\xB6en"
+  accentcity: "Nordre Hjartöen"
 nordre hjartoy: 
   city: "nordre hjartoy"
   accentcity: "Nordre Hjart\xC3\xB8y"
@@ -19595,7 +19595,7 @@ nordstraum:
   accentcity: "Nordstraum"
 nordstrommen: 
   city: "nordstrommen"
-  accentcity: "Nordstr\xC3\xB6mmen"
+  accentcity: "Nordströmmen"
 nordstrom: 
   city: "nordstrom"
   accentcity: "Nordstrom"
@@ -19643,7 +19643,7 @@ norem:
   accentcity: "Norem"
 noren: 
   city: "noren"
-  accentcity: "N\xC3\xB6ren"
+  accentcity: "Nören"
 nore: 
   city: "nore"
   accentcity: "Nore"
@@ -19682,10 +19682,10 @@ nornes:
   accentcity: "Nornes"
 norva: 
   city: "norva"
-  accentcity: "N\xC3\xB6rva"
+  accentcity: "Nörva"
 norve: 
   city: "norve"
-  accentcity: "N\xC3\xB6rve"
+  accentcity: "Nörve"
 norvesund: 
   city: "norvesund"
   accentcity: "N\xC3\xB8rvesund"
@@ -19703,7 +19703,7 @@ noss:
   accentcity: "N\xC3\xB8ss"
 noste: 
   city: "noste"
-  accentcity: "N\xC3\xB6ste"
+  accentcity: "Nöste"
 noteland: 
   city: "noteland"
   accentcity: "Noteland"
@@ -19712,13 +19712,13 @@ notodden:
   accentcity: "Notodden"
 notsaet: 
   city: "notsaet"
-  accentcity: "N\xC3\xB6ts\xC3\xA6t"
+  accentcity: "Nöts\xC3\xA6t"
 notset: 
   city: "notset"
   accentcity: "N\xC3\xB8tset"
 nottero: 
   city: "nottero"
-  accentcity: "N\xC3\xB6ttero"
+  accentcity: "Nöttero"
 notteroy: 
   city: "notteroy"
   accentcity: "N\xC3\xB8tter\xC3\xB8y"
@@ -19772,7 +19772,7 @@ nygaard:
   accentcity: "Nygaard"
 nygaardsjoen: 
   city: "nygaardsjoen"
-  accentcity: "Nygaardsj\xC3\xB6en"
+  accentcity: "Nygaardsjöen"
 nygard: 
   city: "nygard"
   accentcity: "Nyg\xC3\xA5rd"
@@ -19919,7 +19919,7 @@ oen:
   accentcity: "\xC3\x96en"
 offersoen: 
   city: "offersoen"
-  accentcity: "Offers\xC3\xB6en"
+  accentcity: "Offersöen"
 offersoya: 
   city: "offersoya"
   accentcity: "Offers\xC3\xB8ya"
@@ -19973,7 +19973,7 @@ oines:
   accentcity: "\xC3\x96ines"
 oislebo: 
   city: "oislebo"
-  accentcity: "\xC3\x96isleb\xC3\xB6"
+  accentcity: "\xC3\x96islebö"
 okan: 
   city: "okan"
   accentcity: "Okan"
@@ -20012,7 +20012,7 @@ oksendalsora:
   accentcity: "\xC3\x98ksendals\xC3\xB8ra"
 oksendalsoren: 
   city: "oksendalsoren"
-  accentcity: "\xC3\x96ksendals\xC3\xB6ren"
+  accentcity: "\xC3\x96ksendalsören"
 okset: 
   city: "okset"
   accentcity: "\xC3\x98kset"
@@ -20129,7 +20129,7 @@ oldernes:
   accentcity: "Oldernes"
 oldero: 
   city: "oldero"
-  accentcity: "Older\xC3\xB6"
+  accentcity: "Olderö"
 olderoy: 
   city: "olderoy"
   accentcity: "Older\xC3\xB8y"
@@ -20291,7 +20291,7 @@ oni:
   accentcity: "Oni"
 onoen: 
   city: "onoen"
-  accentcity: "On\xC3\xB6en"
+  accentcity: "Onöen"
 "on": 
   city: "on"
   accentcity: "\xC3\x98n"
@@ -20312,7 +20312,7 @@ opdal:
   accentcity: "Opdal"
 opdol: 
   city: "opdol"
-  accentcity: "Opd\xC3\xB6l"
+  accentcity: "Opdöl"
 opedal: 
   city: "opedal"
   accentcity: "Opedal"
@@ -20333,10 +20333,10 @@ opland:
   accentcity: "Opland"
 oplo: 
   city: "oplo"
-  accentcity: "Opl\xC3\xB6"
+  accentcity: "Oplö"
 oploy: 
   city: "oploy"
-  accentcity: "Opl\xC3\xB6y"
+  accentcity: "Oplöy"
 opmyre: 
   city: "opmyre"
   accentcity: "Opmyre"
@@ -20663,7 +20663,7 @@ ostera:
   accentcity: "\xC3\x98ster\xC3\xA5"
 osterbo: 
   city: "osterbo"
-  accentcity: "\xC3\x96sterb\xC3\xB6"
+  accentcity: "\xC3\x96sterbö"
 osterelv: 
   city: "osterelv"
   accentcity: "\xC3\x98sterelv"
@@ -20675,7 +20675,7 @@ osterhus:
   accentcity: "\xC3\x98sterhus"
 osteroen: 
   city: "osteroen"
-  accentcity: "\xC3\x96ster\xC3\xB6en"
+  accentcity: "\xC3\x96steröen"
 ostervik: 
   city: "ostervik"
   accentcity: "\xC3\x98stervik"
@@ -20705,7 +20705,7 @@ ostrat:
   accentcity: "\xC3\x98str\xC3\xA5t"
 ostre aamoy: 
   city: "ostre aamoy"
-  accentcity: "\xC3\x96stre Aam\xC3\xB6y"
+  accentcity: "\xC3\x96stre Aamöy"
 ostre askeroen: 
   city: "ostre askeroen"
   accentcity: "\xC3\x98stre Asker\xC3\xB8en"
@@ -20780,7 +20780,7 @@ otterhalsen:
   accentcity: "Otterhalsen"
 otteroen: 
   city: "otteroen"
-  accentcity: "Otter\xC3\xB6en"
+  accentcity: "Otteröen"
 otteroy: 
   city: "otteroy"
   accentcity: "Otter\xC3\xB8y"
@@ -20792,7 +20792,7 @@ ottersbuen:
   accentcity: "Ottersbuen"
 otterso: 
   city: "otterso"
-  accentcity: "Otters\xC3\xB6"
+  accentcity: "Ottersö"
 ottersoy: 
   city: "ottersoy"
   accentcity: "Otters\xC3\xB8y"
@@ -20813,7 +20813,7 @@ overaas:
   accentcity: "\xC3\x96veraas"
 overaassjoen: 
   city: "overaassjoen"
-  accentcity: "\xC3\x96veraassj\xC3\xB6en"
+  accentcity: "\xC3\x96veraassjöen"
 overas: 
   city: "overas"
   accentcity: "\xC3\x98ver\xC3\xA5s"
@@ -20870,7 +20870,7 @@ ovre aardal:
   accentcity: "\xC3\x98vre Aardal"
 ovreaasjoen: 
   city: "ovreaasjoen"
-  accentcity: "\xC3\x96vreaasj\xC3\xB6en"
+  accentcity: "\xC3\x96vreaasjöen"
 ovre alta: 
   city: "ovre alta"
   accentcity: "\xC3\x98vre Alta"
@@ -21074,13 +21074,13 @@ oystese:
   accentcity: "\xC3\x98ystese"
 oysteso: 
   city: "oysteso"
-  accentcity: "\xC3\x96ystes\xC3\xB6"
+  accentcity: "\xC3\x96ystesö"
 oystgard: 
   city: "oystgard"
   accentcity: "\xC3\x98ystgard"
 oystrebo: 
   city: "oystrebo"
-  accentcity: "\xC3\x96ystreb\xC3\xB6"
+  accentcity: "\xC3\x96ystrebö"
 oysvoll: 
   city: "oysvoll"
   accentcity: "\xC3\x98ysvoll"
@@ -21167,7 +21167,7 @@ porsmyr:
   accentcity: "Porsmyr"
 porsoen: 
   city: "porsoen"
-  accentcity: "Pors\xC3\xB6en"
+  accentcity: "Porsöen"
 porsoy: 
   city: "porsoy"
   accentcity: "Pors\xC3\xB8y"
@@ -21275,7 +21275,7 @@ raa:
   accentcity: "Raa"
 raasjoen: 
   city: "raasjoen"
-  accentcity: "Raasj\xC3\xB6en"
+  accentcity: "Raasjöen"
 raastad: 
   city: "raastad"
   accentcity: "Raastad"
@@ -21407,7 +21407,7 @@ ramsli:
   accentcity: "Ramsli"
 ramsoien: 
   city: "ramsoien"
-  accentcity: "Rams\xC3\xB6ien"
+  accentcity: "Ramsöien"
 ramsoya: 
   city: "ramsoya"
   accentcity: "Rams\xC3\xB8ya"
@@ -21950,7 +21950,7 @@ rinde:
   accentcity: "Rinde"
 rindero: 
   city: "rindero"
-  accentcity: "Rinder\xC3\xB6"
+  accentcity: "Rinderö"
 ringberg: 
   city: "ringberg"
   accentcity: "Ringberg"
@@ -22058,7 +22058,7 @@ risnes:
   accentcity: "Risnes"
 risobank: 
   city: "risobank"
-  accentcity: "Ris\xC3\xB6bank"
+  accentcity: "Risöbank"
 risorbank: 
   city: "risorbank"
   accentcity: "Ris\xC3\xB8rbank"
@@ -22067,7 +22067,7 @@ risor:
   accentcity: "Ris\xC3\xB8r"
 risosund: 
   city: "risosund"
-  accentcity: "Ris\xC3\xB6sund"
+  accentcity: "Risösund"
 risoyhamn: 
   city: "risoyhamn"
   accentcity: "Ris\xC3\xB8yhamn"
@@ -22139,7 +22139,7 @@ roa:
   accentcity: "R\xC3\xB8a"
 roberget: 
   city: "roberget"
-  accentcity: "R\xC3\xB6berget"
+  accentcity: "Röberget"
 robole: 
   city: "robole"
   accentcity: "Rob\xC3\xB8le"
@@ -22148,7 +22148,7 @@ rodal:
   accentcity: "Rodal"
 rodberg: 
   city: "rodberg"
-  accentcity: "R\xC3\xB6dberg"
+  accentcity: "Rödberg"
 rodbol: 
   city: "rodbol"
   accentcity: "R\xC3\xB8db\xC3\xB8l"
@@ -22166,7 +22166,7 @@ rodmin:
   accentcity: "Rodmin"
 rodmyr: 
   city: "rodmyr"
-  accentcity: "R\xC3\xB6dmyr"
+  accentcity: "Rödmyr"
 rodno: 
   city: "rodno"
   accentcity: "R\xC3\xB8dno"
@@ -22190,7 +22190,7 @@ rodseidet:
   accentcity: "R\xC3\xB8dseidet"
 rodset: 
   city: "rodset"
-  accentcity: "R\xC3\xB6dset"
+  accentcity: "Rödset"
 rodstad: 
   city: "rodstad"
   accentcity: "R\xC3\xB8dstad"
@@ -22205,7 +22205,7 @@ rodtangen:
   accentcity: "R\xC3\xB8dtangen"
 rodvatnet: 
   city: "rodvatnet"
-  accentcity: "R\xC3\xB6dvatnet"
+  accentcity: "Rödvatnet"
 rodvatn: 
   city: "rodvatn"
   accentcity: "R\xC3\xB8dvatn"
@@ -22223,7 +22223,7 @@ rogla:
   accentcity: "Rogla"
 roglen: 
   city: "roglen"
-  accentcity: "R\xC3\xB6glen"
+  accentcity: "Röglen"
 rognaldsvag: 
   city: "rognaldsvag"
   accentcity: "Rognaldsv\xC3\xA5g"
@@ -22268,28 +22268,28 @@ rogsvoll:
   accentcity: "Rogsvoll"
 roiken: 
   city: "roiken"
-  accentcity: "R\xC3\xB6iken"
+  accentcity: "Röiken"
 roine: 
   city: "roine"
   accentcity: "R\xC3\xB8ine"
 roirvik: 
   city: "roirvik"
-  accentcity: "R\xC3\xB6irvik"
+  accentcity: "Röirvik"
 roiseland: 
   city: "roiseland"
-  accentcity: "R\xC3\xB6iseland"
+  accentcity: "Röiseland"
 roiseng: 
   city: "roiseng"
-  accentcity: "R\xC3\xB6iseng"
+  accentcity: "Röiseng"
 roisheim: 
   city: "roisheim"
-  accentcity: "R\xC3\xB6isheim"
+  accentcity: "Röisheim"
 roising: 
   city: "roising"
-  accentcity: "R\xC3\xB6ising"
+  accentcity: "Röising"
 roitvold: 
   city: "roitvold"
-  accentcity: "R\xC3\xB6itvold"
+  accentcity: "Röitvold"
 rokenes: 
   city: "rokenes"
   accentcity: "R\xC3\xB8kenes"
@@ -22304,7 +22304,7 @@ rokland:
   accentcity: "Rokland"
 roksoy: 
   city: "roksoy"
-  accentcity: "Roks\xC3\xB6y"
+  accentcity: "Roksöy"
 rokstad: 
   city: "rokstad"
   accentcity: "Rokstad"
@@ -22328,7 +22328,7 @@ rolfshus:
   accentcity: "Rolfshus"
 rolfsohavn: 
   city: "rolfsohavn"
-  accentcity: "Rolfs\xC3\xB6havn"
+  accentcity: "Rolfsöhavn"
 roligheden: 
   city: "roligheden"
   accentcity: "Roligheden"
@@ -22340,7 +22340,7 @@ roligheten:
   accentcity: "Roligheten"
 rollaang: 
   city: "rollaang"
-  accentcity: "R\xC3\xB6llaang"
+  accentcity: "Röllaang"
 rollag: 
   city: "rollag"
   accentcity: "Rollag"
@@ -22430,7 +22430,7 @@ romundstad:
   accentcity: "Romundstad"
 ronaabak: 
   city: "ronaabak"
-  accentcity: "R\xC3\xB6naabak"
+  accentcity: "Rönaabak"
 ronabakk: 
   city: "ronabakk"
   accentcity: "R\xC3\xB8n\xC3\xA5bakk"
@@ -22475,19 +22475,19 @@ rordal:
   accentcity: "R\xC3\xB8rdal"
 roren: 
   city: "roren"
-  accentcity: "R\xC3\xB6ren"
+  accentcity: "Rören"
 rorholt: 
   city: "rorholt"
   accentcity: "R\xC3\xB8rholt"
 roroen: 
   city: "roroen"
-  accentcity: "R\xC3\xB6r\xC3\xB6en"
+  accentcity: "Röröen"
 roro: 
   city: "roro"
-  accentcity: "R\xC3\xB6r\xC3\xB6"
+  accentcity: "Rörö"
 rorosgaard: 
   city: "rorosgaard"
-  accentcity: "R\xC3\xB6rosgaard"
+  accentcity: "Rörosgaard"
 rorosgard: 
   city: "rorosgard"
   accentcity: "R\xC3\xB8rosgard"
@@ -22505,22 +22505,22 @@ roroy:
   accentcity: "R\xC3\xB8r\xC3\xB8y"
 ror: 
   city: "ror"
-  accentcity: "R\xC3\xB6r"
+  accentcity: "Rör"
 rorstad: 
   city: "rorstad"
   accentcity: "R\xC3\xB8rstad"
 rorvig: 
   city: "rorvig"
-  accentcity: "R\xC3\xB6rvig"
+  accentcity: "Rörvig"
 rorvik: 
   city: "rorvik"
   accentcity: "R\xC3\xB8rvik"
 rosaaen: 
   city: "rosaaen"
-  accentcity: "R\xC3\xB6saaen"
+  accentcity: "Rösaaen"
 rosaas: 
   city: "rosaas"
-  accentcity: "R\xC3\xB6saas"
+  accentcity: "Rösaas"
 rosegg: 
   city: "rosegg"
   accentcity: "R\xC3\xB8segg"
@@ -22553,13 +22553,13 @@ rosnes:
   accentcity: "R\xC3\xB8snes"
 rosnesvaagen: 
   city: "rosnesvaagen"
-  accentcity: "R\xC3\xB6snesvaagen"
+  accentcity: "Rösnesvaagen"
 rosnesvag: 
   city: "rosnesvag"
   accentcity: "R\xC3\xB8snesv\xC3\xA5g"
 rossaaen: 
   city: "rossaaen"
-  accentcity: "R\xC3\xB6ssaaen"
+  accentcity: "Rössaaen"
 rossaga: 
   city: "rossaga"
   accentcity: "R\xC3\xB8ss\xC3\xA5ga"
@@ -22619,7 +22619,7 @@ rosti:
   accentcity: "Rosti"
 rostnesvaag: 
   city: "rostnesvaag"
-  accentcity: "R\xC3\xB6stnesvaag"
+  accentcity: "Röstnesvaag"
 rostog: 
   city: "rostog"
   accentcity: "Rostog"
@@ -22646,10 +22646,10 @@ rosvik:
   accentcity: "Rosvik"
 rosvold: 
   city: "rosvold"
-  accentcity: "R\xC3\xB6svold"
+  accentcity: "Rösvold"
 rosvollnes: 
   city: "rosvollnes"
-  accentcity: "R\xC3\xB6svollnes"
+  accentcity: "Rösvollnes"
 rosvoll: 
   city: "rosvoll"
   accentcity: "R\xC3\xB8svoll"
@@ -22676,7 +22676,7 @@ rotingen:
   accentcity: "R\xC3\xB8tingen"
 rotingi: 
   city: "rotingi"
-  accentcity: "R\xC3\xB6tingi"
+  accentcity: "Rötingi"
 rotneim: 
   city: "rotneim"
   accentcity: "Rotneim"
@@ -22685,7 +22685,7 @@ rotnes:
   accentcity: "Rotnes"
 rotset: 
   city: "rotset"
-  accentcity: "R\xC3\xB6tset"
+  accentcity: "Rötset"
 rotsund: 
   city: "rotsund"
   accentcity: "Rotsund"
@@ -22739,7 +22739,7 @@ rov:
   accentcity: "R\xC3\xB8v"
 rovsklen: 
   city: "rovsklen"
-  accentcity: "R\xC3\xB6vsklen"
+  accentcity: "Rövsklen"
 roydland: 
   city: "roydland"
   accentcity: "R\xC3\xB8ydland"
@@ -22763,7 +22763,7 @@ royknes:
   accentcity: "R\xC3\xB8yknes"
 royland: 
   city: "royland"
-  accentcity: "R\xC3\xB6yland"
+  accentcity: "Röyland"
 royneberg: 
   city: "royneberg"
   accentcity: "R\xC3\xB8yneberg"
@@ -22775,7 +22775,7 @@ roynestad:
   accentcity: "R\xC3\xB8ynestad"
 royraas: 
   city: "royraas"
-  accentcity: "R\xC3\xB6yraas"
+  accentcity: "Röyraas"
 royra: 
   city: "royra"
   accentcity: "R\xC3\xB8yra"
@@ -22784,7 +22784,7 @@ royras:
   accentcity: "R\xC3\xB8yr\xC3\xA5s"
 royrbakkan: 
   city: "royrbakkan"
-  accentcity: "R\xC3\xB6yrbakkan"
+  accentcity: "Röyrbakkan"
 royrbakken: 
   city: "royrbakken"
   accentcity: "R\xC3\xB8yrbakken"
@@ -22817,7 +22817,7 @@ roysneshamn:
   accentcity: "R\xC3\xB8ysneshamn"
 roysnes: 
   city: "roysnes"
-  accentcity: "R\xC3\xB6ysnes"
+  accentcity: "Röysnes"
 roytvoll: 
   city: "roytvoll"
   accentcity: "R\xC3\xB8ytvoll"
@@ -23036,7 +23036,7 @@ rysfjaeren:
   accentcity: "Rysfj\xC3\xA6ren"
 ryssfjora: 
   city: "ryssfjora"
-  accentcity: "Ryssfj\xC3\xB6ra"
+  accentcity: "Ryssfjöra"
 rysstad: 
   city: "rysstad"
   accentcity: "Rysstad"
@@ -23060,7 +23060,7 @@ saebo:
   accentcity: "S\xC3\xA6bo"
 saebovagen: 
   city: "saebovagen"
-  accentcity: "S\xC3\xA6b\xC3\xB6vagen"
+  accentcity: "S\xC3\xA6bövagen"
 saebovik: 
   city: "saebovik"
   accentcity: "S\xC3\xA6b\xC3\xB8vik"
@@ -23123,7 +23123,7 @@ saetersagen:
   accentcity: "S\xC3\xA6tersagen"
 saeterstoen: 
   city: "saeterstoen"
-  accentcity: "S\xC3\xA6terst\xC3\xB6en"
+  accentcity: "S\xC3\xA6terstöen"
 saeterstolen: 
   city: "saeterstolen"
   accentcity: "S\xC3\xA6terst\xC3\xB8len"
@@ -23309,7 +23309,7 @@ salttjern:
   accentcity: "Salttjern"
 salttjorn: 
   city: "salttjorn"
-  accentcity: "Salttj\xC3\xB6rn"
+  accentcity: "Salttjörn"
 saltvika: 
   city: "saltvika"
   accentcity: "Saltvika"
@@ -23468,13 +23468,13 @@ sandom:
   accentcity: "Sandom"
 sandoren: 
   city: "sandoren"
-  accentcity: "Sand\xC3\xB6ren"
+  accentcity: "Sandören"
 sandoyra: 
   city: "sandoyra"
   accentcity: "Sand\xC3\xB8yra"
 sandoy: 
   city: "sandoy"
-  accentcity: "Sand\xC3\xB6y"
+  accentcity: "Sandöy"
 sandoystrand: 
   city: "sandoystrand"
   accentcity: "Sand\xC3\xB8ystrand"
@@ -23501,7 +23501,7 @@ sandsmork:
   accentcity: "Sandsmork"
 sandso: 
   city: "sandso"
-  accentcity: "Sands\xC3\xB6"
+  accentcity: "Sandsö"
 sandsoy i senja: 
   city: "sandsoy i senja"
   accentcity: "Sands\xC3\xB8y i Senja"
@@ -23615,7 +23615,7 @@ sastad:
   accentcity: "S\xC3\xA5stad"
 saterbo: 
   city: "saterbo"
-  accentcity: "S\xC3\xA4terb\xC3\xB6"
+  accentcity: "S\xC3\xA4terbö"
 sauane: 
   city: "sauane"
   accentcity: "Sauane"
@@ -23846,7 +23846,7 @@ selnesviken:
   accentcity: "Selnesviken"
 selsoen: 
   city: "selsoen"
-  accentcity: "Sels\xC3\xB6en"
+  accentcity: "Selsöen"
 selstad: 
   city: "selstad"
   accentcity: "Selstad"
@@ -24083,7 +24083,7 @@ simsen:
   accentcity: "Simsen"
 simsoen: 
   city: "simsoen"
-  accentcity: "Sims\xC3\xB6en"
+  accentcity: "Simsöen"
 simsoya: 
   city: "simsoya"
   accentcity: "Sims\xC3\xB8ya"
@@ -24221,7 +24221,7 @@ sjonhaug:
   accentcity: "Sj\xC3\xB8nhaug"
 sjonnstaa: 
   city: "sjonnstaa"
-  accentcity: "Sj\xC3\xB6nnstaa"
+  accentcity: "Sjönnstaa"
 sjonnsta: 
   city: "sjonnsta"
   accentcity: "Sj\xC3\xB8nnst\xC3\xA5"
@@ -24272,7 +24272,7 @@ skaabu:
   accentcity: "Skaabu"
 skaalbo: 
   city: "skaalbo"
-  accentcity: "Skaalb\xC3\xB6"
+  accentcity: "Skaalbö"
 skaalbrekken: 
   city: "skaalbrekken"
   accentcity: "Skaalbrekken"
@@ -24326,7 +24326,7 @@ skaarvik:
   accentcity: "Skaarvik"
 skaato: 
   city: "skaato"
-  accentcity: "Skaat\xC3\xB6"
+  accentcity: "Skaatö"
 skabberud: 
   city: "skabberud"
   accentcity: "Skabberud"
@@ -24824,7 +24824,7 @@ skjanes:
   accentcity: "Skj\xC3\xA5nes"
 skjarvoy: 
   city: "skjarvoy"
-  accentcity: "Skjarv\xC3\xB6y"
+  accentcity: "Skjarvöy"
 skjastad: 
   city: "skjastad"
   accentcity: "Skj\xC3\xA5stad"
@@ -24947,7 +24947,7 @@ skjervik:
   accentcity: "Skjervik"
 skjervo: 
   city: "skjervo"
-  accentcity: "Skjerv\xC3\xB6"
+  accentcity: "Skjervö"
 skjervoy: 
   city: "skjervoy"
   accentcity: "Skjerv\xC3\xB8y"
@@ -24968,7 +24968,7 @@ skjoervo:
   accentcity: "Skjoerv\xC3\xB8"
 skjolaaen: 
   city: "skjolaaen"
-  accentcity: "Skj\xC3\xB6laaen"
+  accentcity: "Skjölaaen"
 skjola: 
   city: "skjola"
   accentcity: "Skj\xC3\xB8l\xC3\xA5"
@@ -25001,13 +25001,13 @@ skjomnes:
   accentcity: "Skjomnes"
 skjonhalsen: 
   city: "skjonhalsen"
-  accentcity: "Skj\xC3\xB6nhalsen"
+  accentcity: "Skjönhalsen"
 skjonstaa: 
   city: "skjonstaa"
-  accentcity: "Skj\xC3\xB6nstaa"
+  accentcity: "Skjönstaa"
 skjonsta: 
   city: "skjonsta"
-  accentcity: "Skj\xC3\xB6nst\xC3\xA5"
+  accentcity: "Skjönst\xC3\xA5"
 skjotningberg: 
   city: "skjotningberg"
   accentcity: "Skj\xC3\xB8tningberg"
@@ -25016,7 +25016,7 @@ skjotskifflallen:
   accentcity: "Skj\xC3\xB8tskiffl\xC3\xA5llen"
 skjotskiftflaalten: 
   city: "skjotskiftflaalten"
-  accentcity: "Skj\xC3\xB6tskiftflaalten"
+  accentcity: "Skjötskiftflaalten"
 skjotskiftflatten: 
   city: "skjotskiftflatten"
   accentcity: "Skj\xC3\xB8tskiftfl\xC3\xA5tten"
@@ -25061,10 +25061,10 @@ skogero:
   accentcity: "Skoger\xC3\xB8"
 skogero vaer: 
   city: "skogero vaer"
-  accentcity: "Skoger\xC3\xB6 Vaer"
+  accentcity: "Skogerö Vaer"
 skogeroy: 
   city: "skogeroy"
-  accentcity: "Skoger\xC3\xB6y"
+  accentcity: "Skogeröy"
 skogeroyvaer: 
   city: "skogeroyvaer"
   accentcity: "Skoger\xC3\xB8yv\xC3\xA6r"
@@ -25250,7 +25250,7 @@ skovlabo:
   accentcity: "Skovlab\xC3\xB8"
 skraamesto: 
   city: "skraamesto"
-  accentcity: "Skraamest\xC3\xB6"
+  accentcity: "Skraamestö"
 skramestoi: 
   city: "skramestoi"
   accentcity: "Skr\xC3\xA5mest\xC3\xB8i"
@@ -25316,13 +25316,13 @@ skrolsvik:
   accentcity: "Skrolsvik"
 skrovsaet: 
   city: "skrovsaet"
-  accentcity: "Skr\xC3\xB6vs\xC3\xA6t"
+  accentcity: "Skrövs\xC3\xA6t"
 skrovset: 
   city: "skrovset"
   accentcity: "Skr\xC3\xB8vset"
 skrovsetvik: 
   city: "skrovsetvik"
-  accentcity: "Skr\xC3\xB6vsetvik"
+  accentcity: "Skrövsetvik"
 skrukkerud: 
   city: "skrukkerud"
   accentcity: "Skrukkerud"
@@ -25460,7 +25460,7 @@ slemmestad:
   accentcity: "Slemmestad"
 sletlelandsstolen: 
   city: "sletlelandsstolen"
-  accentcity: "Sletlelandsst\xC3\xB6len"
+  accentcity: "Sletlelandsstölen"
 sletta: 
   city: "sletta"
   accentcity: "Sletta"
@@ -25631,7 +25631,7 @@ smolan:
   accentcity: "Smolan"
 smoraas: 
   city: "smoraas"
-  accentcity: "Sm\xC3\xB6raas"
+  accentcity: "Smöraas"
 smoras: 
   city: "smoras"
   accentcity: "Sm\xC3\xB8r\xC3\xA5s"
@@ -25736,7 +25736,7 @@ sodeland:
   accentcity: "Sodeland"
 sodorp: 
   city: "sodorp"
-  accentcity: "S\xC3\xB6dorp"
+  accentcity: "Södorp"
 soervaag: 
   city: "soervaag"
   accentcity: "Soervaag"
@@ -25787,10 +25787,10 @@ sognstad:
   accentcity: "Sognstad"
 soholt: 
   city: "soholt"
-  accentcity: "S\xC3\xB6holt"
+  accentcity: "Söholt"
 soiland: 
   city: "soiland"
-  accentcity: "S\xC3\xB6iland"
+  accentcity: "Söiland"
 sokna: 
   city: "sokna"
   accentcity: "Sokna"
@@ -25919,7 +25919,7 @@ solnvik:
   accentcity: "S\xC3\xB8lnvik"
 soloien: 
   city: "soloien"
-  accentcity: "Sol\xC3\xB6ien"
+  accentcity: "Solöien"
 soloi: 
   city: "soloi"
   accentcity: "Sol\xC3\xB8i"
@@ -25952,7 +25952,7 @@ solvang:
   accentcity: "Solvang"
 solvberg: 
   city: "solvberg"
-  accentcity: "S\xC3\xB6lvberg"
+  accentcity: "Sölvberg"
 solverud: 
   city: "solverud"
   accentcity: "Solverud"
@@ -26000,7 +26000,7 @@ sommernes:
   accentcity: "Sommernes"
 sommeroen: 
   city: "sommeroen"
-  accentcity: "Sommer\xC3\xB6en"
+  accentcity: "Sommeröen"
 sommersael: 
   city: "sommersael"
   accentcity: "Sommers\xC3\xA6l"
@@ -26030,16 +26030,16 @@ sonde:
   accentcity: "Sonde"
 sondre botnen: 
   city: "sondre botnen"
-  accentcity: "S\xC3\xB6ndre Botnen"
+  accentcity: "Söndre Botnen"
 sondre hakvika: 
   city: "sondre hakvika"
   accentcity: "S\xC3\xB8ndre H\xC3\xA5kvika"
 sondre honningsvaag: 
   city: "sondre honningsvaag"
-  accentcity: "S\xC3\xB6ndre Honningsvaag"
+  accentcity: "Söndre Honningsvaag"
 sondre honningsvag: 
   city: "sondre honningsvag"
-  accentcity: "S\xC3\xB6ndre Honningsv\xC3\xA5g"
+  accentcity: "Söndre Honningsv\xC3\xA5g"
 sondre saeter: 
   city: "sondre saeter"
   accentcity: "S\xC3\xB8ndre S\xC3\xA6ter"
@@ -26048,10 +26048,10 @@ sondre storelv:
   accentcity: "S\xC3\xB8ndre Storelv"
 sondre tverfjord: 
   city: "sondre tverfjord"
-  accentcity: "S\xC3\xB6ndre Tverfjord"
+  accentcity: "Söndre Tverfjord"
 sondre undal: 
   city: "sondre undal"
-  accentcity: "S\xC3\xB6ndre Undal"
+  accentcity: "Söndre Undal"
 sondre veiholmen: 
   city: "sondre veiholmen"
   accentcity: "S\xC3\xB8ndre Veiholmen"
@@ -26096,7 +26096,7 @@ soraa:
   accentcity: "S\xC3\xB8r\xC3\xA5a"
 soralmenningen: 
   city: "soralmenningen"
-  accentcity: "S\xC3\xB6ralmenningen"
+  accentcity: "Söralmenningen"
 sor-arnoy: 
   city: "sor-arnoy"
   accentcity: "S\xC3\xB8r-Arn\xC3\xB8y"
@@ -26120,7 +26120,7 @@ sorbovag:
   accentcity: "S\xC3\xB8rb\xC3\xB8v\xC3\xA5g"
 sorbraatan: 
   city: "sorbraatan"
-  accentcity: "S\xC3\xB6rbraatan"
+  accentcity: "Sörbraatan"
 sorbrandal: 
   city: "sorbrandal"
   accentcity: "S\xC3\xB8rbrandal"
@@ -26144,7 +26144,7 @@ sore botnen:
   accentcity: "S\xC3\xB8re Botnen"
 sore fugloen: 
   city: "sore fugloen"
-  accentcity: "S\xC3\xB6re Fugl\xC3\xB6en"
+  accentcity: "Söre Fuglöen"
 sore fugloy: 
   city: "sore fugloy"
   accentcity: "S\xC3\xB8re Fugl\xC3\xB8y"
@@ -26171,7 +26171,7 @@ sorelvmo:
   accentcity: "S\xC3\xB8relvmo"
 sorem: 
   city: "sorem"
-  accentcity: "S\xC3\xB6rem"
+  accentcity: "Sörem"
 soreng: 
   city: "soreng"
   accentcity: "S\xC3\xB8reng"
@@ -26198,7 +26198,7 @@ sorfjordskardet:
   accentcity: "S\xC3\xB8rfjordskardet"
 sorfjordskaret: 
   city: "sorfjordskaret"
-  accentcity: "S\xC3\xB8rfj\xC3\xB6rdskaret"
+  accentcity: "S\xC3\xB8rfjördskaret"
 sorfjord: 
   city: "sorfjord"
   accentcity: "S\xC3\xB8rfjord"
@@ -26210,7 +26210,7 @@ sor-fron:
   accentcity: "S\xC3\xB8r-Fron"
 sorgaard: 
   city: "sorgaard"
-  accentcity: "S\xC3\xB6rgaard"
+  accentcity: "Sörgaard"
 sorgard: 
   city: "sorgard"
   accentcity: "S\xC3\xB8rgard"
@@ -26219,13 +26219,13 @@ sor geita:
   accentcity: "S\xC3\xB8r Geita"
 sor gjeiten: 
   city: "sor gjeiten"
-  accentcity: "S\xC3\xB6r Gjeiten"
+  accentcity: "Sör Gjeiten"
 sorgjer: 
   city: "sorgjer"
   accentcity: "S\xC3\xB8rgjer"
 sor gjeten: 
   city: "sor gjeten"
-  accentcity: "S\xC3\xB6r Gjeten"
+  accentcity: "Sör Gjeten"
 sorgulen: 
   city: "sorgulen"
   accentcity: "S\xC3\xB8rgulen"
@@ -26276,7 +26276,7 @@ sorlia:
   accentcity: "S\xC3\xB8rlia"
 sorlien: 
   city: "sorlien"
-  accentcity: "S\xC3\xB6rlien"
+  accentcity: "Sörlien"
 sorli: 
   city: "sorli"
   accentcity: "S\xC3\xB8rli"
@@ -26285,7 +26285,7 @@ sormela:
   accentcity: "S\xC3\xB8rmela"
 sor mele: 
   city: "sor mele"
-  accentcity: "S\xC3\xB6r Mele"
+  accentcity: "Sör Mele"
 sormjele: 
   city: "sormjele"
   accentcity: "Sormjele"
@@ -26309,7 +26309,7 @@ sorroldnes:
   accentcity: "S\xC3\xB8rroldnes"
 sorrollnes: 
   city: "sorrollnes"
-  accentcity: "S\xC3\xB6rrollnes"
+  accentcity: "Sörrollnes"
 sorsandfjord: 
   city: "sorsandfjord"
   accentcity: "S\xC3\xB8rsandfjord"
@@ -26324,7 +26324,7 @@ sorsjona:
   accentcity: "S\xC3\xB8rsjona"
 sor skaar: 
   city: "sor skaar"
-  accentcity: "S\xC3\xB6r Skaar"
+  accentcity: "Sör Skaar"
 sorskaget: 
   city: "sorskaget"
   accentcity: "S\xC3\xB8rskaget"
@@ -26366,7 +26366,7 @@ sor tverrfjord:
   accentcity: "S\xC3\xB8r Tverrfjord"
 sortvet: 
   city: "sortvet"
-  accentcity: "S\xC3\xB6rtvet"
+  accentcity: "Sörtvet"
 sortvik: 
   city: "sortvik"
   accentcity: "Sortvik"
@@ -26378,10 +26378,10 @@ sorum:
   accentcity: "S\xC3\xB8rum"
 sorvaagen: 
   city: "sorvaagen"
-  accentcity: "S\xC3\xB6rvaagen"
+  accentcity: "Sörvaagen"
 sorvaag: 
   city: "sorvaag"
-  accentcity: "S\xC3\xB6rvaag"
+  accentcity: "Sörvaag"
 sorvaer: 
   city: "sorvaer"
   accentcity: "Sorv\xC3\xA6r"
@@ -26393,7 +26393,7 @@ sorvag:
   accentcity: "S\xC3\xB8rv\xC3\xA5g"
 sor valle: 
   city: "sor valle"
-  accentcity: "S\xC3\xB6r Valle"
+  accentcity: "Sör Valle"
 sor vignes: 
   city: "sor vignes"
   accentcity: "S\xC3\xB8r Vignes"
@@ -26402,7 +26402,7 @@ sorvika:
   accentcity: "S\xC3\xB8rvika"
 sorviken: 
   city: "sorviken"
-  accentcity: "S\xC3\xB6rviken"
+  accentcity: "Sörviken"
 sorvik: 
   city: "sorvik"
   accentcity: "S\xC3\xB8rvik"
@@ -26423,13 +26423,13 @@ soteland:
   accentcity: "Soteland"
 sotveit: 
   city: "sotveit"
-  accentcity: "S\xC3\xB6tveit"
+  accentcity: "Sötveit"
 sovassli: 
   city: "sovassli"
   accentcity: "S\xC3\xB8vassli"
 soviken: 
   city: "soviken"
-  accentcity: "S\xC3\xB6viken"
+  accentcity: "Söviken"
 sovik: 
   city: "sovik"
   accentcity: "S\xC3\xB8vik"
@@ -26705,7 +26705,7 @@ statsbuoyen:
   accentcity: "Statsbu\xC3\xB8yen"
 statsbuoyi: 
   city: "statsbuoyi"
-  accentcity: "Statsbu\xC3\xB6yi"
+  accentcity: "Statsbuöyi"
 stattland: 
   city: "stattland"
   accentcity: "Stattland"
@@ -26765,7 +26765,7 @@ stavoyna:
   accentcity: "Stav\xC3\xB8yna"
 stavoy: 
   city: "stavoy"
-  accentcity: "Stav\xC3\xB6y"
+  accentcity: "Stavöy"
 stavsberg: 
   city: "stavsberg"
   accentcity: "Stavsberg"
@@ -26954,7 +26954,7 @@ stensli:
   accentcity: "Stensli"
 stensones: 
   city: "stensones"
-  accentcity: "Stens\xC3\xB6nes"
+  accentcity: "Stensönes"
 sterkaby: 
   city: "sterkaby"
   accentcity: "Sterkaby"
@@ -26996,13 +26996,13 @@ stodsbuoyi:
   accentcity: "Stodsbu\xC3\xB8yi"
 stoen: 
   city: "stoen"
-  accentcity: "St\xC3\xB6en"
+  accentcity: "Stöen"
 stokkan: 
   city: "stokkan"
   accentcity: "Stokkan"
 stokkasjoen: 
   city: "stokkasjoen"
-  accentcity: "Stokkasj\xC3\xB6en"
+  accentcity: "Stokkasjöen"
 stokka: 
   city: "stokka"
   accentcity: "Stokka"
@@ -27158,7 +27158,7 @@ stordalsbugen:
   accentcity: "St\xC3\xB8rdalsbugen"
 stordalsoren: 
   city: "stordalsoren"
-  accentcity: "St\xC3\xB6rdals\xC3\xB6ren"
+  accentcity: "Stördalsören"
 stordal: 
   city: "stordal"
   accentcity: "Stordal"
@@ -27179,7 +27179,7 @@ store bjerka:
   accentcity: "Store Bjerka"
 storebo: 
   city: "storebo"
-  accentcity: "Storeb\xC3\xB6"
+  accentcity: "Storebö"
 storebru: 
   city: "storebru"
   accentcity: "Storebru"
@@ -27467,7 +27467,7 @@ stoylen:
   accentcity: "St\xC3\xB8ylen"
 straalsjoaasen: 
   city: "straalsjoaasen"
-  accentcity: "Straalsj\xC3\xB6aasen"
+  accentcity: "Straalsjöaasen"
 straete: 
   city: "straete"
   accentcity: "Str\xC3\xA6te"
@@ -27611,13 +27611,13 @@ strinda:
   accentcity: "Strinda"
 strombotn: 
   city: "strombotn"
-  accentcity: "Str\xC3\xB6mbotn"
+  accentcity: "Strömbotn"
 strome: 
   city: "strome"
   accentcity: "Strome"
 stromfjord: 
   city: "stromfjord"
-  accentcity: "Str\xC3\xB6mfjord"
+  accentcity: "Strömfjord"
 stromfoss: 
   city: "stromfoss"
   accentcity: "Str\xC3\xB8mfoss"
@@ -27629,13 +27629,13 @@ stromme:
   accentcity: "Str\xC3\xB8mme"
 stromnes: 
   city: "stromnes"
-  accentcity: "Str\xC3\xB6mnes"
+  accentcity: "Strömnes"
 stromo: 
   city: "stromo"
   accentcity: "Str\xC3\xB8m\xC3\xB8"
 stromsaas: 
   city: "stromsaas"
-  accentcity: "Str\xC3\xB6msaas"
+  accentcity: "Strömsaas"
 stromsas: 
   city: "stromsas"
   accentcity: "Str\xC3\xB8ms\xC3\xA5s"
@@ -27653,10 +27653,10 @@ stromso:
   accentcity: "Str\xC3\xB8ms\xC3\xB8"
 strom: 
   city: "strom"
-  accentcity: "Str\xC3\xB6m"
+  accentcity: "Ström"
 stromtangen: 
   city: "stromtangen"
-  accentcity: "Str\xC3\xB6mtangen"
+  accentcity: "Strömtangen"
 strondi: 
   city: "strondi"
   accentcity: "Strondi"
@@ -27770,7 +27770,7 @@ sumstad:
   accentcity: "Sumstad"
 sundalsoren: 
   city: "sundalsoren"
-  accentcity: "Sundals\xC3\xB6ren"
+  accentcity: "Sundalsören"
 sundal: 
   city: "sundal"
   accentcity: "Sundal"
@@ -27824,7 +27824,7 @@ sundsboen:
   accentcity: "Sundsb\xC3\xB8en"
 sundsbo: 
   city: "sundsbo"
-  accentcity: "Sundsb\xC3\xB6"
+  accentcity: "Sundsbö"
 sundsby: 
   city: "sundsby"
   accentcity: "Sundsby"
@@ -27872,7 +27872,7 @@ sunndalsora:
   accentcity: "Sunndals\xC3\xB8ra"
 sunndalsoyra: 
   city: "sunndalsoyra"
-  accentcity: "Sunndals\xC3\xB6yra"
+  accentcity: "Sunndalsöyra"
 sunndal: 
   city: "sunndal"
   accentcity: "Sunndal"
@@ -27884,7 +27884,7 @@ suppelva:
   accentcity: "Suppelva"
 surendalsoren: 
   city: "surendalsoren"
-  accentcity: "Surendals\xC3\xB6ren"
+  accentcity: "Surendalsören"
 surnadalsora: 
   city: "surnadalsora"
   accentcity: "Surnadals\xC3\xB8ra"
@@ -28145,7 +28145,7 @@ svinevik:
   accentcity: "Svinevik"
 svino: 
   city: "svino"
-  accentcity: "Svin\xC3\xB6"
+  accentcity: "Svinö"
 svinoy: 
   city: "svinoy"
   accentcity: "Svin\xC3\xB8y"
@@ -28241,7 +28241,7 @@ synnovjorda:
   accentcity: "Synn\xC3\xB8vjorda"
 synnovjord: 
   city: "synnovjord"
-  accentcity: "Synn\xC3\xB6vjord"
+  accentcity: "Synnövjord"
 synstnes: 
   city: "synstnes"
   accentcity: "Synstnes"
@@ -28298,7 +28298,7 @@ taftoen:
   accentcity: "Taft\xC3\xB8en"
 tafto: 
   city: "tafto"
-  accentcity: "Taft\xC3\xB6"
+  accentcity: "Taftö"
 taftoya: 
   city: "taftoya"
   accentcity: "Taft\xC3\xB8ya"
@@ -28718,7 +28718,7 @@ tjora:
   accentcity: "Tj\xC3\xB8ra"
 tjore: 
   city: "tjore"
-  accentcity: "Tj\xC3\xB6re"
+  accentcity: "Tjöre"
 tjornberg: 
   city: "tjornberg"
   accentcity: "Tj\xC3\xB8rnberg"
@@ -28727,7 +28727,7 @@ tjorndalen:
   accentcity: "Tj\xC3\xB8rndalen"
 tjorne: 
   city: "tjorne"
-  accentcity: "Tj\xC3\xB6rne"
+  accentcity: "Tjörne"
 tjornet: 
   city: "tjornet"
   accentcity: "Tj\xC3\xB8rnet"
@@ -28802,7 +28802,7 @@ togstad:
   accentcity: "Togstad"
 toien: 
   city: "toien"
-  accentcity: "T\xC3\xB6ien"
+  accentcity: "Töien"
 tokenes: 
   city: "tokenes"
   accentcity: "Tokenes"
@@ -28850,7 +28850,7 @@ tommeide:
   accentcity: "Tommeide"
 tommeraasen: 
   city: "tommeraasen"
-  accentcity: "T\xC3\xB6mmeraasen"
+  accentcity: "Tömmeraasen"
 tommerasen: 
   city: "tommerasen"
   accentcity: "T\xC3\xB8mmer\xC3\xA5sen"
@@ -28859,7 +28859,7 @@ tommerdalen:
   accentcity: "T\xC3\xB8mmerdalen"
 tommerdal: 
   city: "tommerdal"
-  accentcity: "T\xC3\xB6mmerdal"
+  accentcity: "Tömmerdal"
 tommervika: 
   city: "tommervika"
   accentcity: "T\xC3\xB8mmervika"
@@ -28892,7 +28892,7 @@ tonjum:
   accentcity: "T\xC3\xB8njum"
 tonnel: 
   city: "tonnel"
-  accentcity: "T\xC3\xB6nnel"
+  accentcity: "Tönnel"
 tonnes i helgeland: 
   city: "tonnes i helgeland"
   accentcity: "Tonnes i Helgeland"
@@ -28904,7 +28904,7 @@ tonsberg:
   accentcity: "T\xC3\xB8nsberg"
 tonset: 
   city: "tonset"
-  accentcity: "T\xC3\xB6nset"
+  accentcity: "Tönset"
 tonsnes: 
   city: "tonsnes"
   accentcity: "T\xC3\xB8nsnes"
@@ -28928,7 +28928,7 @@ toranger:
   accentcity: "Toranger"
 torbaekmoen: 
   city: "torbaekmoen"
-  accentcity: "T\xC3\xB6rb\xC3\xA6kmoen"
+  accentcity: "Törb\xC3\xA6kmoen"
 torberget: 
   city: "torberget"
   accentcity: "T\xC3\xB8rberget"
@@ -28952,7 +28952,7 @@ torgnes:
   accentcity: "Torgnes"
 torhaug: 
   city: "torhaug"
-  accentcity: "T\xC3\xB6rhaug"
+  accentcity: "Törhaug"
 torhogg: 
   city: "torhogg"
   accentcity: "T\xC3\xB8rhogg"
@@ -29276,7 +29276,7 @@ trofors:
   accentcity: "Trofors"
 troften: 
   city: "troften"
-  accentcity: "Tr\xC3\xB6ften"
+  accentcity: "Tröften"
 troldfjorden: 
   city: "troldfjorden"
   accentcity: "Troldfjorden"
@@ -29831,7 +29831,7 @@ ulnes:
   accentcity: "Ulnes"
 uloybugt: 
   city: "uloybugt"
-  accentcity: "Ul\xC3\xB6ybugt"
+  accentcity: "Ulöybugt"
 uloybukta: 
   city: "uloybukta"
   accentcity: "Ul\xC3\xB8ybukta"
@@ -29894,7 +29894,7 @@ ulvik:
   accentcity: "Ulvik"
 ulvingensjoen: 
   city: "ulvingensjoen"
-  accentcity: "Ulvingensj\xC3\xB6en"
+  accentcity: "Ulvingensjöen"
 ulvingen: 
   city: "ulvingen"
   accentcity: "Ulvingen"
@@ -30125,7 +30125,7 @@ vaagan:
   accentcity: "Vaagan"
 vaagbo: 
   city: "vaagbo"
-  accentcity: "Vaagb\xC3\xB6"
+  accentcity: "Vaagbö"
 vaagenes: 
   city: "vaagenes"
   accentcity: "Vaagenes"
@@ -30152,7 +30152,7 @@ vaaje:
   accentcity: "Vaaje"
 vaalaasjo: 
   city: "vaalaasjo"
-  accentcity: "Vaalaasj\xC3\xB6"
+  accentcity: "Vaalaasjö"
 vaaland: 
   city: "vaaland"
   accentcity: "Vaaland"
@@ -30218,13 +30218,13 @@ vad:
   accentcity: "Vad"
 vaeloy: 
   city: "vaeloy"
-  accentcity: "V\xC3\xA6l\xC3\xB6y"
+  accentcity: "V\xC3\xA6löy"
 vaelta: 
   city: "vaelta"
   accentcity: "V\xC3\xA6lta"
 vaerdalsoren: 
   city: "vaerdalsoren"
-  accentcity: "V\xC3\xA6rdals\xC3\xB6ren"
+  accentcity: "V\xC3\xA6rdalsören"
 vaeret: 
   city: "vaeret"
   accentcity: "V\xC3\xA6ret"
@@ -30365,7 +30365,7 @@ valebjorg:
   accentcity: "Valebj\xC3\xB8rg"
 valebjor: 
   city: "valebjor"
-  accentcity: "Valebj\xC3\xB6r"
+  accentcity: "Valebjör"
 valebru: 
   city: "valebru"
   accentcity: "V\xC3\xA5lebru"
@@ -30599,7 +30599,7 @@ varnes:
   accentcity: "Varnes"
 varoen: 
   city: "varoen"
-  accentcity: "Var\xC3\xB6en"
+  accentcity: "Varöen"
 varoya: 
   city: "varoya"
   accentcity: "Var\xC3\xB8ya"
@@ -30656,7 +30656,7 @@ vassjord:
   accentcity: "Vassjord"
 vassjo: 
   city: "vassjo"
-  accentcity: "Vassj\xC3\xB6"
+  accentcity: "Vassjö"
 vasskogen: 
   city: "vasskogen"
   accentcity: "Vasskogen"
@@ -30971,10 +30971,10 @@ verdalsora:
   accentcity: "Verdals\xC3\xB8ra"
 verdalsoren: 
   city: "verdalsoren"
-  accentcity: "Verdals\xC3\xB6ren"
+  accentcity: "Verdalsören"
 verdalsoyra: 
   city: "verdalsoyra"
-  accentcity: "Verdals\xC3\xB6yra"
+  accentcity: "Verdalsöyra"
 vereide: 
   city: "vereide"
   accentcity: "Vereide"
@@ -31079,7 +31079,7 @@ vestnes:
   accentcity: "Vestnes"
 vestol: 
   city: "vestol"
-  accentcity: "Vest\xC3\xB6l"
+  accentcity: "Vestöl"
 vestpollen: 
   city: "vestpollen"
   accentcity: "Vestpollen"
@@ -31274,7 +31274,7 @@ vikesa:
   accentcity: "Vikes\xC3\xA5"
 vikesjoen: 
   city: "vikesjoen"
-  accentcity: "Vikesj\xC3\xB6en"
+  accentcity: "Vikesjöen"
 vikestad: 
   city: "vikestad"
   accentcity: "Vikestad"
@@ -31325,7 +31325,7 @@ vikran:
   accentcity: "Vikran"
 viksjoen: 
   city: "viksjoen"
-  accentcity: "Viksj\xC3\xB6en"
+  accentcity: "Viksjöen"
 vikso: 
   city: "vikso"
   accentcity: "Vikso"
@@ -31532,7 +31532,7 @@ vognil:
   accentcity: "Vognil"
 voien: 
   city: "voien"
-  accentcity: "V\xC3\xB6ien"
+  accentcity: "Vöien"
 voje: 
   city: "voje"
   accentcity: "Voje"
@@ -31742,7 +31742,7 @@ ysteby:
   accentcity: "Ysteby"
 ysterbrod: 
   city: "ysterbrod"
-  accentcity: "Ysterbr\xC3\xB6d"
+  accentcity: "Ysterbröd"
 ystheim: 
   city: "ystheim"
   accentcity: "Ystheim"
@@ -31772,7 +31772,7 @@ ytre aarnes:
   accentcity: "Ytre Aarnes"
 ytre aasaroy: 
   city: "ytre aasaroy"
-  accentcity: "Ytre Aasar\xC3\xB6y"
+  accentcity: "Ytre Aasaröy"
 ytre adal: 
   city: "ytre adal"
   accentcity: "Ytre \xC3\x85dal"
@@ -31799,7 +31799,7 @@ ytre asaroy:
   accentcity: "Ytre \xC3\x85sar\xC3\xB8y"
 ytre aserod: 
   city: "ytre aserod"
-  accentcity: "Ytre \xC3\x85ser\xC3\xB6d"
+  accentcity: "Ytre \xC3\x85seröd"
 ytre aseroy: 
   city: "ytre aseroy"
   accentcity: "Ytre \xC3\x85ser\xC3\xB8y"
@@ -31847,10 +31847,10 @@ ytre hareid:
   accentcity: "Ytre Hareid"
 ytre hoddoen: 
   city: "ytre hoddoen"
-  accentcity: "Ytre Hodd\xC3\xB6en"
+  accentcity: "Ytre Hoddöen"
 ytre hoddo: 
   city: "ytre hoddo"
-  accentcity: "Ytre Hodd\xC3\xB6"
+  accentcity: "Ytre Hoddö"
 ytre hoddoy: 
   city: "ytre hoddoy"
   accentcity: "Ytre Hodd\xC3\xB8y"
@@ -31901,7 +31901,7 @@ ytre myken:
   accentcity: "Ytre Myken"
 ytre mykoen: 
   city: "ytre mykoen"
-  accentcity: "Ytre Myk\xC3\xB6en"
+  accentcity: "Ytre Myköen"
 ytre okslia: 
   city: "ytre okslia"
   accentcity: "Ytre Okslia"

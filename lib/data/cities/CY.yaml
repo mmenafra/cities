@@ -30,15 +30,6 @@ adrakos:
 afanya: 
   city: "afanya"
   accentcity: "Afanya"
-"aga\xC2\xB1lbasa\xC2\xB1": 
-  city: "aga\xC2\xB1lbasa\xC2\xB1"
-  accentcity: "Ag\xC3\x84\xC2\xB1lbas\xC3\x84\xC2\xB1"
-"aga\xC2\xB1llar": 
-  city: "aga\xC2\xB1llar"
-  accentcity: "Ag\xC3\x84\xC2\xB1llar"
-"aga\xC2\xB1rdag": 
-  city: "aga\xC2\xB1rdag"
-  accentcity: "Ag\xC3\x84\xC2\xB1rdag"
 aghirda: 
   city: "aghirda"
   accentcity: "Aghirda"
@@ -395,7 +386,7 @@ alassa:
   accentcity: "Alassa"
 alaykoy: 
   city: "alaykoy"
-  accentcity: "Alayk\xC3\xB6y"
+  accentcity: "Alayköy"
 alehtora: 
   city: "alehtora"
   accentcity: "Alehtora"
@@ -728,7 +719,7 @@ aranya:
   accentcity: "Aranya"
 arapkoy: 
   city: "arapkoy"
-  accentcity: "Arapk\xC3\xB6y"
+  accentcity: "Arapköy"
 aratyu: 
   city: "aratyu"
   accentcity: "Aratyu"
@@ -839,7 +830,7 @@ arodhes kato:
   accentcity: "Arpal\xC3\x84\xC2\xB1k"
 arslankoy: 
   city: "arslankoy"
-  accentcity: "Arslank\xC3\xB6y"
+  accentcity: "Arslanköy"
 arsos: 
   city: "arsos"
   accentcity: "Arsos"
@@ -959,7 +950,7 @@ askeia:
   accentcity: "Askeia"
 aslankoy: 
   city: "aslankoy"
-  accentcity: "Aslank\xC3\xB6y"
+  accentcity: "Aslanköy"
 asomados: 
   city: "asomados"
   accentcity: "Asomados"
@@ -1583,7 +1574,7 @@ azgata:
   accentcity: "Azgata"
 bademlikoy: 
   city: "bademlikoy"
-  accentcity: "Bademlik\xC3\xB6y"
+  accentcity: "Bademliköy"
 baf: 
   city: "baf"
   accentcity: "Baf"
@@ -1697,7 +1688,7 @@ bey keuy:
   accentcity: "Bey Keuy"
 beykoy: 
   city: "beykoy"
-  accentcity: "Beyk\xC3\xB6y"
+  accentcity: "Beyköy"
 beylerbeyi: 
   city: "beylerbeyi"
   accentcity: "Beylerbeyi"
@@ -1808,10 +1799,10 @@ canbulat:
   accentcity: "Canbulat"
 catalkoy: 
   city: "catalkoy"
-  accentcity: "\xC3\x87atalk\xC3\xB6y"
+  accentcity: "\xC3\x87atalköy"
 catkoy: 
   city: "catkoy"
-  accentcity: "\xC3\x87atk\xC3\xB6y"
+  accentcity: "\xC3\x87atköy"
 catoz: 
   city: "catoz"
   accentcity: "\xC3\x87atoz"
@@ -1823,7 +1814,7 @@ cavuslari:
   accentcity: "Cay\xC3\x84\xC2\xB1rova"
 cayonu: 
   city: "cayonu"
-  accentcity: "\xC3\x87ay\xC3\xB6nü"
+  accentcity: "\xC3\x87ayönü"
 cedar valley: 
   city: "cedar valley"
   accentcity: "Cedar Valley"
@@ -1841,7 +1832,7 @@ celya:
   accentcity: "Celya"
 cengizkoy: 
   city: "cengizkoy"
-  accentcity: "Cengizk\xC3\xB6y"
+  accentcity: "Cengizköy"
 cevizdali: 
   city: "cevizdali"
   accentcity: "Cevizdali"
@@ -2051,7 +2042,7 @@ dereli:
   accentcity: "Dereli"
 derelikoy: 
   city: "derelikoy"
-  accentcity: "Derelik\xC3\xB6y"
+  accentcity: "Dereliköy"
 derince: 
   city: "derince"
   accentcity: "Derince"
@@ -2060,7 +2051,7 @@ derinia:
   accentcity: "Derinia"
 derinkoy: 
   city: "derinkoy"
-  accentcity: "Derink\xC3\xB6y"
+  accentcity: "Derinköy"
 derinya: 
   city: "derinya"
   accentcity: "Derinya"
@@ -2198,7 +2189,7 @@ dizdar keuy:
   accentcity: "Dizdar Keuy"
 dizdarkoy: 
   city: "dizdarkoy"
-  accentcity: "Dizdark\xC3\xB6y"
+  accentcity: "Dizdarköy"
 "doganca\xC2\xB1": 
   city: "doganca\xC2\xB1"
   accentcity: "Doganc\xC3\x84\xC2\xB1"
@@ -2210,7 +2201,7 @@ dohni:
   accentcity: "Dohni"
 donemec: 
   city: "donemec"
-  accentcity: "D\xC3\xB6nemeç"
+  accentcity: "Dönemeç"
 dora: 
   city: "dora"
   accentcity: "Dora"
@@ -2219,7 +2210,7 @@ doros:
   accentcity: "Doros"
 dortyol: 
   city: "dortyol"
-  accentcity: "D\xC3\xB6rtyol"
+  accentcity: "Dörtyol"
 drabiya: 
   city: "drabiya"
   accentcity: "Drabiya"
@@ -2411,7 +2402,7 @@ erdemli:
   accentcity: "Erdemli"
 erenkoy: 
   city: "erenkoy"
-  accentcity: "Erenk\xC3\xB6y"
+  accentcity: "Erenköy"
 ergates: 
   city: "ergates"
   accentcity: "Ergates"
@@ -2429,7 +2420,7 @@ esendag:
   accentcity: "Esendag"
 esenkoy: 
   city: "esenkoy"
-  accentcity: "Esenk\xC3\xB6y"
+  accentcity: "Esenköy"
 esensehitler: 
   city: "esensehitler"
   accentcity: "Esensehitler"
@@ -2687,13 +2678,13 @@ gayidura:
   accentcity: "Gayidura"
 gayretkoy: 
   city: "gayretkoy"
-  accentcity: "Gayretk\xC3\xB6y"
+  accentcity: "Gayretköy"
 gazibaf: 
   city: "gazibaf"
   accentcity: "Gazibaf"
 gazikoy: 
   city: "gazikoy"
-  accentcity: "Gazik\xC3\xB6y"
+  accentcity: "Gaziköy"
 gaziler: 
   city: "gaziler"
   accentcity: "Gaziler"
@@ -2717,7 +2708,7 @@ gecitkale:
   accentcity: "Geçitkale"
 gecitkoy: 
   city: "gecitkoy"
-  accentcity: "Geçitk\xC3\xB6y"
+  accentcity: "Geçitköy"
 gelincik: 
   city: "gelincik"
   accentcity: "Gelincik"
@@ -2732,7 +2723,7 @@ genagra:
   accentcity: "Genagra"
 gengizkoy: 
   city: "gengizkoy"
-  accentcity: "Gengizk\xC3\xB6y"
+  accentcity: "Gengizköy"
 gerakies: 
   city: "gerakies"
   accentcity: "Gerakies"
@@ -2792,37 +2783,37 @@ girne:
   accentcity: "Girne"
 goceri: 
   city: "goceri"
-  accentcity: "G\xC3\xB6çeri"
+  accentcity: "Göçeri"
 gokagac: 
   city: "gokagac"
   accentcity: "Gokagac"
 gokcebel: 
   city: "gokcebel"
-  accentcity: "G\xC3\xB6kçebel"
+  accentcity: "Gökçebel"
 gokhan: 
   city: "gokhan"
-  accentcity: "G\xC3\xB6khan"
+  accentcity: "Gökhan"
 golbasi: 
   city: "golbasi"
-  accentcity: "G\xC3\xB6lbasi"
+  accentcity: "Gölbasi"
 gonelli: 
   city: "gonelli"
-  accentcity: "G\xC3\xB6nelli"
+  accentcity: "Gönelli"
 gonendere: 
   city: "gonendere"
-  accentcity: "G\xC3\xB6nendere"
+  accentcity: "Gönendere"
 gonyeli: 
   city: "gonyeli"
-  accentcity: "G\xC3\xB6nyeli"
+  accentcity: "Gönyeli"
 gorfi: 
   city: "gorfi"
   accentcity: "Gorfi"
 gormeli: 
   city: "gormeli"
-  accentcity: "G\xC3\xB6rmeli"
+  accentcity: "Görmeli"
 gornec: 
   city: "gornec"
-  accentcity: "G\xC3\xB6rneç"
+  accentcity: "Görneç"
 goshi: 
   city: "goshi"
   accentcity: "Goshi"
@@ -2855,10 +2846,10 @@ gourri:
   accentcity: "Gourri"
 gozubuyuk: 
   city: "gozubuyuk"
-  accentcity: "G\xC3\xB6zübüyük"
+  accentcity: "Gözübüyük"
 gozuguzel: 
   city: "gozuguzel"
-  accentcity: "G\xC3\xB6zügüzel"
+  accentcity: "Gözügüzel"
 gritmarut: 
   city: "gritmarut"
   accentcity: "Gritmarut"
@@ -2882,7 +2873,7 @@ guneskoy:
   accentcity: "Guneskoy"
 gungor: 
   city: "gungor"
-  accentcity: "Güng\xC3\xB6r"
+  accentcity: "Güngör"
 guri: 
   city: "guri"
   accentcity: "Guri"
@@ -2897,7 +2888,7 @@ guvercinlik:
   accentcity: "Güvercinlik"
 guzelkoy: 
   city: "guzelkoy"
-  accentcity: "Güzelk\xC3\xB6y"
+  accentcity: "Güzelköy"
 "guzelyala\xC2\xB1": 
   city: "guzelyala\xC2\xB1"
   accentcity: "Guzelyal\xC3\x84\xC2\xB1"
@@ -2936,7 +2927,7 @@ hamit:
   accentcity: "Hamit"
 hamitkoy: 
   city: "hamitkoy"
-  accentcity: "Hamitk\xC3\xB6y"
+  accentcity: "Hamitköy"
 hamit mandres: 
   city: "hamit mandres"
   accentcity: "Hamit Mandres"
@@ -2978,7 +2969,7 @@ hirsofu:
   accentcity: "Hirsofu"
 hisarkoy: 
   city: "hisarkoy"
-  accentcity: "Hisark\xC3\xB6y"
+  accentcity: "Hisarköy"
 hloraka: 
   city: "hloraka"
   accentcity: "Hloraka"
@@ -3725,7 +3716,7 @@ kayalar:
   accentcity: "Kayalar"
 kaynakkoy: 
   city: "kaynakkoy"
-  accentcity: "Kaynakk\xC3\xB6y"
+  accentcity: "Kaynakköy"
 kaynokkoy: 
   city: "kaynokkoy"
   accentcity: "Kaynokkoy"
@@ -4025,7 +4016,7 @@ kofinu:
   accentcity: "Kofinu"
 kofunye: 
   city: "kofunye"
-  accentcity: "K\xC3\xB6fünye"
+  accentcity: "Köfünye"
 koilanemos: 
   city: "koilanemos"
   accentcity: "Koilanemos"
@@ -4055,7 +4046,7 @@ kokkinoyia:
   accentcity: "Kokkinoyia"
 koklu: 
   city: "koklu"
-  accentcity: "K\xC3\xB6klü"
+  accentcity: "Köklü"
 koloni: 
   city: "koloni"
   accentcity: "Koloni"
@@ -4094,7 +4085,7 @@ kominarga:
   accentcity: "Kominarga"
 komurcu: 
   city: "komurcu"
-  accentcity: "K\xC3\xB6mürcü"
+  accentcity: "Kömürcü"
 "komyala\xC2\xB1k": 
   city: "komyala\xC2\xB1k"
   accentcity: "Komyal\xC3\x84\xC2\xB1k"
@@ -4142,10 +4133,10 @@ kopia:
   accentcity: "Kopia"
 kopru: 
   city: "kopru"
-  accentcity: "K\xC3\xB6prü"
+  accentcity: "Köprü"
 koprulu: 
   city: "koprulu"
-  accentcity: "K\xC3\xB6prülü"
+  accentcity: "Köprülü"
 kopuzlu: 
   city: "kopuzlu"
   accentcity: "Kopuzlu"
@@ -4160,10 +4151,10 @@ koralou:
   accentcity: "Koralou"
 kordemen: 
   city: "kordemen"
-  accentcity: "K\xC3\xB6rdemen"
+  accentcity: "Kördemen"
 kordumen: 
   city: "kordumen"
-  accentcity: "K\xC3\xB6rdümen"
+  accentcity: "Kördümen"
 korfi: 
   city: "korfi"
   accentcity: "Korfi"
@@ -4346,13 +4337,13 @@ kuchuk kaimakli:
   accentcity: "Kuchuk Kaimakli"
 kucukerenkoy: 
   city: "kucukerenkoy"
-  accentcity: "Küçükerenk\xC3\xB6y"
+  accentcity: "Küçükerenköy"
 "kucuk kaymakla\xC2\xB1": 
   city: "kucuk kaymakla\xC2\xB1"
   accentcity: "Kucuk Kaymakl\xC3\x84\xC2\xB1"
 kucukkoy: 
   city: "kucukkoy"
-  accentcity: "Küçükk\xC3\xB6y"
+  accentcity: "Küçükköy"
 kucuk solcuklu: 
   city: "kucuk solcuklu"
   accentcity: "Küçük Solçuklu"
@@ -4856,7 +4847,7 @@ maa:
   accentcity: "Maa"
 madenlikoy: 
   city: "madenlikoy"
-  accentcity: "Madenlik\xC3\xB6y"
+  accentcity: "Madenliköy"
 madikoloni: 
   city: "madikoloni"
   accentcity: "Madikoloni"
@@ -5237,7 +5228,7 @@ minareli keuy:
   accentcity: "Minareli Keuy"
 minarelikoy: 
   city: "minarelikoy"
-  accentcity: "Minarelik\xC3\xB6y"
+  accentcity: "Minareliköy"
 minzelli: 
   city: "minzelli"
   accentcity: "Minzelli"
@@ -5291,7 +5282,7 @@ morfou:
   accentcity: "Morfou"
 morkoy: 
   city: "morkoy"
-  accentcity: "Mork\xC3\xB6y"
+  accentcity: "Morköy"
 mormenekse: 
   city: "mormenekse"
   accentcity: "Mormenekse"
@@ -5396,7 +5387,7 @@ myrtou:
   accentcity: "Nam\xC3\x84\xC2\xB1k Kemal"
 narlikoy: 
   city: "narlikoy"
-  accentcity: "Narlik\xC3\xB6y"
+  accentcity: "Narliköy"
 nata: 
   city: "nata"
   accentcity: "Nata"
@@ -5507,7 +5498,7 @@ oikos:
   accentcity: "Oikos"
 olukonu: 
   city: "olukonu"
-  accentcity: "Oluk\xC3\xB6nü"
+  accentcity: "Olukönü"
 omerli: 
   city: "omerli"
   accentcity: "\xC3\x96merli"
@@ -5573,7 +5564,7 @@ ortakonak:
   accentcity: "Ortakonak"
 ortakoy: 
   city: "ortakoy"
-  accentcity: "Ortak\xC3\xB6y"
+  accentcity: "Ortaköy"
 orunda: 
   city: "orunda"
   accentcity: "Orunda"
@@ -5597,7 +5588,7 @@ ovgoros:
   accentcity: "Ovgoros"
 ozankoy: 
   city: "ozankoy"
-  accentcity: "Ozank\xC3\xB6y"
+  accentcity: "Ozanköy"
 ozhan: 
   city: "ozhan"
   accentcity: "\xC3\x96zhan"
@@ -6506,7 +6497,7 @@ rizokarpasso:
   accentcity: "Rizokarpasso"
 sadrazamkoy: 
   city: "sadrazamkoy"
-  accentcity: "Sadrazamk\xC3\xB6y"
+  accentcity: "Sadrazamköy"
 sahinler: 
   city: "sahinler"
   accentcity: "Sahinler"
@@ -6707,10 +6698,10 @@ sellain dapi:
   accentcity: "Serdarl\xC3\x84\xC2\xB1"
 serhadkoy: 
   city: "serhadkoy"
-  accentcity: "Serhadk\xC3\xB6y"
+  accentcity: "Serhadköy"
 serhatkoy: 
   city: "serhatkoy"
-  accentcity: "Serhatk\xC3\xB6y"
+  accentcity: "Serhatköy"
 seri: 
   city: "seri"
   accentcity: "Seri"
@@ -6974,7 +6965,7 @@ suskinu:
   accentcity: "Suskinu"
 suskoy: 
   city: "suskoy"
-  accentcity: "Susk\xC3\xB6y"
+  accentcity: "Susköy"
 susuz: 
   city: "susuz"
   accentcity: "Susuz"
@@ -7145,7 +7136,7 @@ tokhni:
   accentcity: "Tokhni"
 topcukoy: 
   city: "topcukoy"
-  accentcity: "Topçuk\xC3\xB6y"
+  accentcity: "Topçuköy"
 topsiou keuy: 
   city: "topsiou keuy"
   accentcity: "Topsiou Keuy"
@@ -7301,7 +7292,7 @@ turkeli:
   accentcity: "Türkeli"
 turkmenkoy: 
   city: "turkmenkoy"
-  accentcity: "Türkmenk\xC3\xB6y"
+  accentcity: "Türkmenköy"
 turnalar: 
   city: "turnalar"
   accentcity: "Turnalar"
@@ -7337,7 +7328,7 @@ upper dikomo:
   accentcity: "Upper Dikomo"
 uzunkoy: 
   city: "uzunkoy"
-  accentcity: "Uzunk\xC3\xB6y"
+  accentcity: "Uzunköy"
 uzunmese: 
   city: "uzunmese"
   accentcity: "Uzunmese"
@@ -7604,10 +7595,10 @@ yalya:
   accentcity: "Yalya"
 yamackoy: 
   city: "yamackoy"
-  accentcity: "Yamaçk\xC3\xB6y"
+  accentcity: "Yamaçköy"
 yarkoy: 
   city: "yarkoy"
-  accentcity: "Yark\xC3\xB6y"
+  accentcity: "Yarköy"
 yayla: 
   city: "yayla"
   accentcity: "Yayla"
@@ -7631,10 +7622,10 @@ yenibosazici:
   accentcity: "Yenibosazici"
 yenicekoy: 
   city: "yenicekoy"
-  accentcity: "Yenicek\xC3\xB6y"
+  accentcity: "Yeniceköy"
 yenierenkoy: 
   city: "yenierenkoy"
-  accentcity: "Yenierenk\xC3\xB6y"
+  accentcity: "Yenierenköy"
 yeniizmir: 
   city: "yeniizmir"
   accentcity: "Yeniizmir"
@@ -7646,7 +7637,7 @@ yeni korfi:
   accentcity: "Yeni Korfi"
 yenikoy: 
   city: "yenikoy"
-  accentcity: "Yenik\xC3\xB6y"
+  accentcity: "Yeniköy"
 yenisehir: 
   city: "yenisehir"
   accentcity: "Yenisehir"
@@ -7727,7 +7718,7 @@ yigitler:
   accentcity: "Yigitler"
 yilmazkoy: 
   city: "yilmazkoy"
-  accentcity: "Yilmazk\xC3\xB6y"
+  accentcity: "Yilmazköy"
 yiolou: 
   city: "yiolou"
   accentcity: "Yiolou"
@@ -7856,7 +7847,7 @@ zanakia:
   accentcity: "Zanakia"
 zeybekkoy: 
   city: "zeybekkoy"
-  accentcity: "Zeybekk\xC3\xB6y"
+  accentcity: "Zeybekköy"
 zeytinlik: 
   city: "zeytinlik"
   accentcity: "Zeytinlik"
@@ -7886,7 +7877,7 @@ zoopiyi:
   accentcity: "Zoopiyi"
 zumrutkoy: 
   city: "zumrutkoy"
-  accentcity: "Zümrütk\xC3\xB6y"
+  accentcity: "Zümrütköy"
 zygi: 
   city: "zygi"
   accentcity: "Zygi"

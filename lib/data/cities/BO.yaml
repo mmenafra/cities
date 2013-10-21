@@ -9089,7 +9089,7 @@ comunidad nuevo horizonte:
   accentcity: "Comunidad Nuevo Horizonte"
 comunidad nuqui: 
   city: "comunidad nuqui"
-  accentcity: "Comunidad \xC3\x91uqui"
+  accentcity: "Comunidad Ñuqui"
 comunidad ococaya: 
   city: "comunidad ococaya"
   accentcity: "Comunidad Ococaya"
@@ -11237,7 +11237,7 @@ el burro:
   accentcity: "El Burro"
 el cabayo nambi: 
   city: "el cabayo nambi"
-  accentcity: "El Cabayo \xC3\x91ambi"
+  accentcity: "El Cabayo Ñambi"
 el cafetal: 
   city: "el cafetal"
   accentcity: "El Cafetal"
@@ -15212,7 +15212,7 @@ estancia jatun mayu:
   accentcity: "Estancia Jatun Mayu"
 estancia jatun nan: 
   city: "estancia jatun nan"
-  accentcity: "Estancia Jatun \xC3\x91an"
+  accentcity: "Estancia Jatun Ñan"
 estancia jatun pampa: 
   city: "estancia jatun pampa"
   accentcity: "Estancia Jatun Pampa"
@@ -16808,7 +16808,7 @@ estancia najoni:
   accentcity: "Estancia Najoni"
 estancia naka naka: 
   city: "estancia naka naka"
-  accentcity: "Estancia \xC3\x91aka \xC3\x91aka"
+  accentcity: "Estancia Ñaka Ñaka"
 estancia nanpalcayoj: 
   city: "estancia nanpalcayoj"
   accentcity: "Estancia Nanpalcayoj"
@@ -16829,19 +16829,19 @@ estancia negro pujio:
   accentcity: "Estancia Negro Pujio"
 estancia nekhe jahuira: 
   city: "estancia nekhe jahuira"
-  accentcity: "Estancia \xC3\x91ekhe Jahuira"
+  accentcity: "Estancia Ñekhe Jahuira"
 estancia nekheta: 
   city: "estancia nekheta"
   accentcity: "Estancia Nekheta"
 estancia nequeta alta: 
   city: "estancia nequeta alta"
-  accentcity: "Estancia \xC3\x91equeta Alta"
+  accentcity: "Estancia Ñequeta Alta"
 estancia nequeta baja: 
   city: "estancia nequeta baja"
-  accentcity: "Estancia \xC3\x91equeta Baja"
+  accentcity: "Estancia Ñequeta Baja"
 estancia nerue khollu: 
   city: "estancia nerue khollu"
-  accentcity: "Estancia \xC3\x91erue Khollu"
+  accentcity: "Estancia Ñerue Khollu"
 estancia nieves abajo: 
   city: "estancia nieves abajo"
   accentcity: "Estancia Nieves Abajo"
@@ -18890,7 +18890,7 @@ estancia thola mokho:
   accentcity: "Estancia Thola Mokho"
 estancia thola nusata: 
   city: "estancia thola nusata"
-  accentcity: "Estancia Thola \xC3\x91usata"
+  accentcity: "Estancia Thola Ñusata"
 estancia thola palca chico: 
   city: "estancia thola palca chico"
   accentcity: "Estancia Thola Palca Chico"
@@ -29099,10 +29099,10 @@ muyu tinco:
   accentcity: "Muyu Tinco"
 nacahuasu: 
   city: "nacahuasu"
-  accentcity: "\xC3\x91acahuasú"
+  accentcity: "Ñacahuasú"
 nacamiri: 
   city: "nacamiri"
-  accentcity: "\xC3\x91acamiri"
+  accentcity: "Ñacamiri"
 nacanvi: 
   city: "nacanvi"
   accentcity: "Nacanvi"
@@ -29126,7 +29126,7 @@ nacoyo:
   accentcity: "Nacoyo"
 nacunday: 
   city: "nacunday"
-  accentcity: "\xC3\x91acunday"
+  accentcity: "Ñacunday"
 naerenda: 
   city: "naerenda"
   accentcity: "Naerenda"
@@ -29135,13 +29135,13 @@ naguacito:
   accentcity: "Naguacito"
 nagua: 
   city: "nagua"
-  accentcity: "\xC3\x91agua"
+  accentcity: "Ñagua"
 naguapoa: 
   city: "naguapoa"
-  accentcity: "\xC3\x91aguapoa"
+  accentcity: "Ñaguapoa"
 naguapua: 
   city: "naguapua"
-  accentcity: "\xC3\x91aguapua"
+  accentcity: "Ñaguapua"
 nahurienda: 
   city: "nahurienda"
   accentcity: "Nahurienda"
@@ -29153,13 +29153,13 @@ nairapi:
   accentcity: "Nairapi"
 nairenda: 
   city: "nairenda"
-  accentcity: "\xC3\x91airenda"
+  accentcity: "Ñairenda"
 nairepi: 
   city: "nairepi"
   accentcity: "Nairepi"
 naka naka: 
   city: "naka naka"
-  accentcity: "\xC3\x91aka \xC3\x91aka"
+  accentcity: "Ñaka Ñaka"
 nampata: 
   city: "nampata"
   accentcity: "Nampata"
@@ -29183,7 +29183,7 @@ nancaroinza:
   accentcity: "Nancaroinza"
 nancorainza: 
   city: "nancorainza"
-  accentcity: "\xC3\x91ancorainza"
+  accentcity: "Ñancorainza"
 nancordinzo: 
   city: "nancordinzo"
   accentcity: "Nancordinzo"
@@ -29240,7 +29240,7 @@ naranjos:
   accentcity: "Naranjos"
 narenda: 
   city: "narenda"
-  accentcity: "\xC3\x91arenda"
+  accentcity: "Ñarenda"
 narnajal: 
   city: "narnajal"
   accentcity: "Narnajal"
@@ -29270,7 +29270,7 @@ natohu socol canchi:
   accentcity: "Natohu Socol Canchi"
 nausa: 
   city: "nausa"
-  accentcity: "\xC3\x91ausa"
+  accentcity: "Ñausa"
 nauza: 
   city: "nauza"
   accentcity: "Nauza"
@@ -29309,7 +29309,7 @@ nazo cruz:
   accentcity: "Nazo Cruz"
 necos: 
   city: "necos"
-  accentcity: "\xC3\x91ecos"
+  accentcity: "Ñecos"
 negra huata: 
   city: "negra huata"
   accentcity: "Negra Huata"
@@ -29351,10 +29351,10 @@ nekheta:
   accentcity: "Nekheta"
 nequere: 
   city: "nequere"
-  accentcity: "\xC3\x91equere"
+  accentcity: "Ñequere"
 nequeta: 
   city: "nequeta"
-  accentcity: "\xC3\x91equeta"
+  accentcity: "Ñequeta"
 nequetiri: 
   city: "nequetiri"
   accentcity: "Nequetiri"
@@ -29402,7 +29402,7 @@ ninallores:
   accentcity: "Niñallores"
 niqui pujio: 
   city: "niqui pujio"
-  accentcity: "\xC3\x91iqui Pujío"
+  accentcity: "Ñiqui Pujío"
 noajanay: 
   city: "noajanay"
   accentcity: "Noajanay"
@@ -29432,10 +29432,10 @@ nombre:
   accentcity: "Nombre"
 noquera: 
   city: "noquera"
-  accentcity: "\xC3\x91oquera"
+  accentcity: "Ñoquera"
 noquis: 
   city: "noquis"
-  accentcity: "\xC3\x91oquis"
+  accentcity: "Ñoquis"
 norasi: 
   city: "norasi"
   accentcity: "Norasi"
@@ -29474,7 +29474,7 @@ nuccho:
   accentcity: "Nuccho"
 nucchu: 
   city: "nucchu"
-  accentcity: "\xC3\x91ucchu"
+  accentcity: "Ñucchu"
 nueva america: 
   city: "nueva america"
   accentcity: "Nueva America"
@@ -29552,7 +29552,7 @@ nupucu:
   accentcity: "Nupucu"
 nuquera: 
   city: "nuquera"
-  accentcity: "\xC3\x91uquera"
+  accentcity: "Ñuquera"
 obejeria: 
   city: "obejeria"
   accentcity: "Obejería"

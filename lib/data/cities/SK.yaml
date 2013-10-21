@@ -761,7 +761,7 @@ besenov:
   accentcity: "Besenov"
 besenyo: 
   city: "besenyo"
-  accentcity: "Beseny\xC3\xB6"
+  accentcity: "Besenyö"
 besne: 
   city: "besne"
   accentcity: "Besné"
@@ -1013,7 +1013,7 @@ bodrog-szerdahely:
   accentcity: "Bodrog-Szerdahely"
 bodrogszog: 
   city: "bodrogszog"
-  accentcity: "Bodrogsz\xC3\xB6g"
+  accentcity: "Bodrogszög"
 bodruzzal: 
   city: "bodruzzal"
   accentcity: "Bodruzzal"
@@ -1031,7 +1031,7 @@ bogliarka:
   accentcity: "Bogliarka"
 bogoly patony: 
   city: "bogoly patony"
-  accentcity: "B\xC3\xB6g\xC3\xB6ly Patony"
+  accentcity: "Bögöly Patony"
 bogya: 
   city: "bogya"
   accentcity: "Bogya"
@@ -1178,7 +1178,7 @@ bosany:
   accentcity: "Bosany"
 bos: 
   city: "bos"
-  accentcity: "B\xC3\xB6s"
+  accentcity: "Bös"
 bosenovo: 
   city: "bosenovo"
   accentcity: "Bosenovo"
@@ -2231,7 +2231,7 @@ coma:
   accentcity: "Coma"
 covekfalva: 
   city: "covekfalva"
-  accentcity: "C\xC3\xB6vekfalva"
+  accentcity: "Cövekfalva"
 cremos: 
   city: "cremos"
   accentcity: "Cremos"
@@ -2252,7 +2252,7 @@ csalar:
   accentcity: "Csalár"
 csallokoz kurt: 
   city: "csallokoz kurt"
-  accentcity: "Csallók\xC3\xB6z Kürt"
+  accentcity: "Csallóköz Kürt"
 csarnnaho: 
   city: "csarnnaho"
   accentcity: "Csarnnahó"
@@ -2309,7 +2309,7 @@ csucsom:
   accentcity: "Csucsom"
 csutortok: 
   city: "csutortok"
-  accentcity: "Csüt\xC3\xB6rt\xC3\xB6k"
+  accentcity: "Csütörtök"
 cucma: 
   city: "cucma"
   accentcity: "Cucma"
@@ -2528,7 +2528,7 @@ diosek:
   accentcity: "Diosek"
 diosforge patony: 
   city: "diosforge patony"
-  accentcity: "Diósf\xC3\xB6rge Patony"
+  accentcity: "Diósförge Patony"
 disnos: 
   city: "disnos"
   accentcity: "Disnos"
@@ -2672,7 +2672,7 @@ dogabari:
   accentcity: "Dogabari"
 dogosi majer: 
   city: "dogosi majer"
-  accentcity: "D\xC3\xB6g\xC3\xB6si Majer"
+  accentcity: "Dögösi Majer"
 dohnan: 
   city: "dohnan"
   accentcity: "Dohnan"
@@ -4214,7 +4214,7 @@ egyhaz-karcsa:
   accentcity: "Egyház-Karcsa"
 einsiedel an der gollnitz: 
   city: "einsiedel an der gollnitz"
-  accentcity: "Einsiedel an der G\xC3\xB6llnitz"
+  accentcity: "Einsiedel an der Göllnitz"
 eisenbrunndel: 
   city: "eisenbrunndel"
   accentcity: "Eisenbrünndel"
@@ -4436,7 +4436,7 @@ flora:
   accentcity: "Flora"
 fodemes: 
   city: "fodemes"
-  accentcity: "F\xC3\xB6démes"
+  accentcity: "Födémes"
 folkusova: 
   city: "folkusova"
   accentcity: "Folkusova"
@@ -4553,10 +4553,10 @@ gapel:
   accentcity: "Gápel"
 garam-kovesd: 
   city: "garam-kovesd"
-  accentcity: "Garam-K\xC3\xB6vesd"
+  accentcity: "Garam-Kövesd"
 garam-szentgyorgy: 
   city: "garam-szentgyorgy"
-  accentcity: "Garam-Szentgy\xC3\xB6rgy"
+  accentcity: "Garam-Szentgyörgy"
 garamtolmacs: 
   city: "garamtolmacs"
   accentcity: "Garamtolmács"
@@ -4742,13 +4742,13 @@ gombospuszta:
   accentcity: "Gombospuszta"
 gomor-horka: 
   city: "gomor-horka"
-  accentcity: "G\xC3\xB6m\xC3\xB6r-Horka"
+  accentcity: "Gömör-Horka"
 gomor-panyit: 
   city: "gomor-panyit"
-  accentcity: "G\xC3\xB6m\xC3\xB6r-Panyit"
+  accentcity: "Gömör-Panyit"
 goncol-karcsa: 
   city: "goncol-karcsa"
-  accentcity: "G\xC3\xB6nc\xC3\xB6l-Karcsa"
+  accentcity: "Göncöl-Karcsa"
 gondovo: 
   city: "gondovo"
   accentcity: "Gondovo"
@@ -4850,7 +4850,7 @@ gynov:
   accentcity: "Gynov"
 gyorke: 
   city: "gyorke"
-  accentcity: "Gy\xC3\xB6rke"
+  accentcity: "Györke"
 "gyua\xC2\x80\xC2\x9Drmajor": 
   city: "gyua\xC2\x80\xC2\x9Drmajor"
   accentcity: "Gyuâ\xC2\x80\xC2\x9Drmajor"
@@ -4892,7 +4892,7 @@ hajnacka:
   accentcity: "Hajnacka"
 hajnalvolgypusta: 
   city: "hajnalvolgypusta"
-  accentcity: "Hajnalv\xC3\xB6lgypusta"
+  accentcity: "Hajnalvölgypusta"
 hajna nova ves: 
   city: "hajna nova ves"
   accentcity: "Hajná Nová Ves"
@@ -5312,7 +5312,7 @@ holumnica:
   accentcity: "Holumnica"
 holveny: 
   city: "holveny"
-  accentcity: "H\xC3\xB6lvény"
+  accentcity: "Hölvény"
 holy vrch odrobinovo pole: 
   city: "holy vrch odrobinovo pole"
   accentcity: "Hol\xC3\xBD Vrch Odrobinovo Pole"
@@ -6884,7 +6884,7 @@ jelsavska teplica:
   accentcity: "Jelsavska Teplica"
 jelsoc: 
   city: "jelsoc"
-  accentcity: "Jels\xC3\xB6c"
+  accentcity: "Jelsöc"
 jelsovce: 
   city: "jelsovce"
   accentcity: "Jelsovce"
@@ -7373,7 +7373,7 @@ keszegfalva:
   accentcity: "Keszegfalva"
 keszolces: 
   city: "keszolces"
-  accentcity: "Kesz\xC3\xB6lcés"
+  accentcity: "Keszölcés"
 ketkeresztur: 
   city: "ketkeresztur"
   accentcity: "Kétkeresztúr"
@@ -7439,7 +7439,7 @@ kis-geres:
   accentcity: "Kis-Géres"
 kis-gomori: 
   city: "kis-gomori"
-  accentcity: "Kis-G\xC3\xB6m\xC3\xB6ri"
+  accentcity: "Kis-Gömöri"
 kis-gyarmat: 
   city: "kis-gyarmat"
   accentcity: "Kis-Gyarmat"
@@ -7463,7 +7463,7 @@ kis-koszmaly:
   accentcity: "Kis-Koszmály"
 kis-kovesd: 
   city: "kis-kovesd"
-  accentcity: "Kis-K\xC3\xB6vesd"
+  accentcity: "Kis-Kövesd"
 kis-lucs: 
   city: "kis-lucs"
   accentcity: "Kis-Lúcs"
@@ -7517,7 +7517,7 @@ kistata pusta:
   accentcity: "Kistata Pusta"
 kis tore: 
   city: "kis tore"
-  accentcity: "Kis T\xC3\xB6re"
+  accentcity: "Kis Töre"
 kis-toronya: 
   city: "kis-toronya"
   accentcity: "Kis-Toronya"
@@ -7676,7 +7676,7 @@ kobeliarovo:
   accentcity: "Kobeliarovo"
 kobolkut: 
   city: "kobolkut"
-  accentcity: "K\xC3\xB6b\xC3\xB6lkút"
+  accentcity: "Köbölkút"
 kobylnice: 
   city: "kobylnice"
   accentcity: "Kobylnice"
@@ -7874,7 +7874,7 @@ koniarovce:
   accentcity: "Koniarovce"
 konigsberg: 
   city: "konigsberg"
-  accentcity: "K\xC3\xB6nigsberg"
+  accentcity: "Königsberg"
 konopkovo: 
   city: "konopkovo"
   accentcity: "Konopkovo"
@@ -7958,7 +7958,7 @@ kormanci:
   accentcity: "Kormanci"
 kormoczbanya: 
   city: "kormoczbanya"
-  accentcity: "K\xC3\xB6rm\xC3\xB6czbánya"
+  accentcity: "Körmöczbánya"
 kornica: 
   city: "kornica"
   accentcity: "Kornica"
@@ -7967,7 +7967,7 @@ koromla:
   accentcity: "Koromla"
 kortvelyes: 
   city: "kortvelyes"
-  accentcity: "K\xC3\xB6rtvélyes"
+  accentcity: "Körtvélyes"
 korytnanske kopanice: 
   city: "korytnanske kopanice"
   accentcity: "Korytnanske Kopanice"
@@ -8099,7 +8099,7 @@ kosuty:
   accentcity: "Kosuty"
 kotelszer pusta: 
   city: "kotelszer pusta"
-  accentcity: "K\xC3\xB6télszer Pusta"
+  accentcity: "Kötélszer Pusta"
 koterbachy: 
   city: "koterbachy"
   accentcity: "Koterbachy"
@@ -8135,7 +8135,7 @@ kovar:
   accentcity: "Kovár"
 kovecses: 
   city: "kovecses"
-  accentcity: "K\xC3\xB6vecses"
+  accentcity: "Kövecses"
 kozany: 
   city: "kozany"
   accentcity: "Kozany"
@@ -8150,10 +8150,10 @@ kozelnik:
   accentcity: "Kozelník"
 kozep ratka pusta: 
   city: "kozep ratka pusta"
-  accentcity: "K\xC3\xB6zép Rátka Pusta"
+  accentcity: "Közép Rátka Pusta"
 kozep-tur: 
   city: "kozep-tur"
-  accentcity: "K\xC3\xB6zép-Tur"
+  accentcity: "Közép-Tur"
 kozinska: 
   city: "kozinska"
   accentcity: "Kozinská"
@@ -9230,13 +9230,13 @@ livinske opatovce:
   accentcity: "Livinské Opatovce"
 locse: 
   city: "locse"
-  accentcity: "L\xC3\xB6cse"
+  accentcity: "Löcse"
 lodno: 
   city: "lodno"
   accentcity: "Lodno"
 loger patony: 
   city: "loger patony"
-  accentcity: "L\xC3\xB6ger Patony"
+  accentcity: "Löger Patony"
 logorretitanyak: 
   city: "logorretitanyak"
   accentcity: "Logorretitanyak"
@@ -9914,7 +9914,7 @@ malinovo:
   accentcity: "Malinovo"
 malomfole: 
   city: "malomfole"
-  accentcity: "Malomf\xC3\xB6le"
+  accentcity: "Malomföle"
 malomhely pusta: 
   city: "malomhely pusta"
   accentcity: "Malomhely Pusta"
@@ -10958,7 +10958,7 @@ nagyfalu:
   accentcity: "Nagyfalu"
 nagy-fodemes: 
   city: "nagy-fodemes"
-  accentcity: "Nagy-F\xC3\xB6démes"
+  accentcity: "Nagy-Födémes"
 nagy geres: 
   city: "nagy geres"
   accentcity: "Nagy Géres"
@@ -10982,7 +10982,7 @@ nagy-keszi:
   accentcity: "Nagy-Keszi"
 nagy-kovesd: 
   city: "nagy-kovesd"
-  accentcity: "Nagy-K\xC3\xB6vesd"
+  accentcity: "Nagy-Kövesd"
 nagy-lucs: 
   city: "nagy-lucs"
   accentcity: "Nagy-Lúcs"
@@ -12302,7 +12302,7 @@ palfala:
   accentcity: "Pálfala"
 palfolde: 
   city: "palfolde"
-  accentcity: "Pálf\xC3\xB6lde"
+  accentcity: "Pálfölde"
 palhaza: 
   city: "palhaza"
   accentcity: "Pálháza"
@@ -13463,7 +13463,7 @@ pusovce:
   accentcity: "Pusovce"
 puspoki: 
   city: "puspoki"
-  accentcity: "Püsp\xC3\xB6ki"
+  accentcity: "Püspöki"
 pusta dapsa: 
   city: "pusta dapsa"
   accentcity: "Pusta Dapsa"
@@ -14417,7 +14417,7 @@ sarkanyto pusta:
   accentcity: "Sárkánytó Pusta"
 sarkozytanya: 
   city: "sarkozytanya"
-  accentcity: "Sárk\xC3\xB6zytanya"
+  accentcity: "Sárközytanya"
 sarluhy: 
   city: "sarluhy"
   accentcity: "Sarluhy"
@@ -14480,10 +14480,10 @@ schmollnitzer hutta:
   accentcity: "Schmollnitzer Hutta"
 schmollnitzer hutte: 
   city: "schmollnitzer hutte"
-  accentcity: "Schm\xC3\xB6llnitzer Hütte"
+  accentcity: "Schmöllnitzer Hütte"
 schmollnitz: 
   city: "schmollnitz"
-  accentcity: "Schm\xC3\xB6llnitz"
+  accentcity: "Schmöllnitz"
 schwarzenberg: 
   city: "schwarzenberg"
   accentcity: "Schwarzenberg"
@@ -15221,7 +15221,7 @@ soporna:
   accentcity: "Soporna"
 soreg: 
   city: "soreg"
-  accentcity: "S\xC3\xB6reg"
+  accentcity: "Söreg"
 sorjakmajor: 
   city: "sorjakmajor"
   accentcity: "Sorjákmajor"
@@ -16070,7 +16070,7 @@ szecsenke:
   accentcity: "Szécsénke"
 szeloce: 
   city: "szeloce"
-  accentcity: "Szel\xC3\xB6ce"
+  accentcity: "Szelöce"
 szemere: 
   city: "szemere"
   accentcity: "Szemere"
@@ -16145,10 +16145,10 @@ szodo:
   accentcity: "Szódó"
 szogyen pusta: 
   city: "szogyen pusta"
-  accentcity: "Sz\xC3\xB6gyén Pusta"
+  accentcity: "Szögyén Pusta"
 szolgyen: 
   city: "szolgyen"
-  accentcity: "Sz\xC3\xB6lgyén"
+  accentcity: "Szölgyén"
 szolloske: 
   city: "szolloske"
   accentcity: "Szolloske"
@@ -16448,13 +16448,13 @@ tocnica:
   accentcity: "Tocnica"
 tohol: 
   city: "tohol"
-  accentcity: "T\xC3\xB6h\xC3\xB6l"
+  accentcity: "Töhöl"
 tokajik: 
   city: "tokajik"
   accentcity: "Tokajík"
 tokes: 
   city: "tokes"
-  accentcity: "T\xC3\xB6kés"
+  accentcity: "Tökés"
 tolcemes: 
   city: "tolcemes"
   accentcity: "Tolcemes"
@@ -16499,7 +16499,7 @@ ton:
   accentcity: "Ton"
 tonye: 
   city: "tonye"
-  accentcity: "T\xC3\xB6nye"
+  accentcity: "Tönye"
 topolany: 
   city: "topolany"
   accentcity: "Topolany"
@@ -16532,10 +16532,10 @@ torcs:
   accentcity: "Torcs"
 tore: 
   city: "tore"
-  accentcity: "T\xC3\xB6re"
+  accentcity: "Töre"
 torincs: 
   city: "torincs"
-  accentcity: "T\xC3\xB6rincs"
+  accentcity: "Törincs"
 torkos: 
   city: "torkos"
   accentcity: "Torkos"
@@ -16556,7 +16556,7 @@ tornoc:
   accentcity: "Tornóc"
 torom pusta: 
   city: "torom pusta"
-  accentcity: "T\xC3\xB6r\xC3\xB6m Pusta"
+  accentcity: "Töröm Pusta"
 torona: 
   city: "torona"
   accentcity: "Torona"
@@ -18140,7 +18140,7 @@ v oraviciach:
   accentcity: "V Oraviciach"
 voroko: 
   city: "voroko"
-  accentcity: "V\xC3\xB6r\xC3\xB6k\xC3\xB6"
+  accentcity: "Vörökö"
 votrubova chata: 
   city: "votrubova chata"
   accentcity: "Votrubova Chata"
@@ -19190,7 +19190,7 @@ zofia:
   accentcity: "Zofia"
 zoldallas: 
   city: "zoldallas"
-  accentcity: "Z\xC3\xB6ldállás"
+  accentcity: "Zöldállás"
 zolna: 
   city: "zolna"
   accentcity: "Zolná"

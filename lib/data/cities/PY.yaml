@@ -11,7 +11,7 @@ abai:
   accentcity: "Abaí"
 aba-ne-e: 
   city: "aba-ne-e"
-  accentcity: "Abá-\xC3\x91e-é"
+  accentcity: "Abá-Ñe-é"
 abay: 
   city: "abay"
   accentcity: "Abay"
@@ -1199,7 +1199,7 @@ colonia moses bertoni:
   accentcity: "Colonia Moses Bertoni"
 colonia nande mbaepa: 
   city: "colonia nande mbaepa"
-  accentcity: "Colonia \xC3\x91ande Mbaepá"
+  accentcity: "Colonia Ñande Mbaepá"
 colonia natalicio talavera: 
   city: "colonia natalicio talavera"
   accentcity: "Colonia Natalicio Talavera"
@@ -1316,7 +1316,7 @@ colonia r. scagnoti:
   accentcity: "Colonia R. Scagnoti"
 colonia rubio nu: 
   city: "colonia rubio nu"
-  accentcity: "Colonia Rubio \xC3\x91u"
+  accentcity: "Colonia Rubio Ñu"
 colonia rusa: 
   city: "colonia rusa"
   accentcity: "Colonia Rusa"
@@ -1838,7 +1838,7 @@ esquina:
   accentcity: "Esquina"
 establecimento nanducua: 
   city: "establecimento nanducua"
-  accentcity: "Establecimento \xC3\x91anducuá"
+  accentcity: "Establecimento Ñanducuá"
 establecimento randacua: 
   city: "establecimento randacua"
   accentcity: "Establecimento Randacua"
@@ -2828,7 +2828,7 @@ estancia nanawa:
   accentcity: "Estancia Nanawa"
 estancia nandu: 
   city: "estancia nandu"
-  accentcity: "Estancia \xC3\x91andú"
+  accentcity: "Estancia Ñandú"
 estancia nandypay: 
   city: "estancia nandypay"
   accentcity: "Estancia Nandypay"
@@ -4466,13 +4466,13 @@ morena:
   accentcity: "Morena"
 nacunday: 
   city: "nacunday"
-  accentcity: "\xC3\x91acunday"
+  accentcity: "Ñacunday"
 nanawa: 
   city: "nanawa"
   accentcity: "Nanawa"
 nanduro cai: 
   city: "nanduro cai"
-  accentcity: "\xC3\x91anduro Cái"
+  accentcity: "Ñanduro Cái"
 naranjal: 
   city: "naranjal"
   accentcity: "Naranjál"
@@ -4541,13 +4541,13 @@ nueva virginia:
   accentcity: "Nueva Virginia"
 numi: 
   city: "numi"
-  accentcity: "\xC3\x91umí"
+  accentcity: "Ñumí"
 nunez: 
   city: "nunez"
   accentcity: "Núñez"
 nu-pora: 
   city: "nu-pora"
-  accentcity: "\xC3\x91u-Porá"
+  accentcity: "Ñu-Porá"
 obligado: 
   city: "obligado"
   accentcity: "Obligado"
@@ -5159,7 +5159,7 @@ puerto militar:
   accentcity: "Puerto Militar"
 puerto nacunday: 
   city: "puerto nacunday"
-  accentcity: "Puerto \xC3\x91acunday"
+  accentcity: "Puerto Ñacunday"
 puerto napegue: 
   city: "puerto napegue"
   accentcity: "Puerto Napegué"
@@ -5360,7 +5360,7 @@ puerto ybapobo:
   accentcity: "Puerto Ybapobó"
 puerto ybcui naro: 
   city: "puerto ybcui naro"
-  accentcity: "Puerto Ybcui \xC3\x91aro"
+  accentcity: "Puerto Ybcui Ñaro"
 puerto yngo: 
   city: "puerto yngo"
   accentcity: "Puerto Yngó"
@@ -6059,10 +6059,10 @@ san jose:
   accentcity: "San José"
 san juan bautista de neembucu: 
   city: "san juan bautista de neembucu"
-  accentcity: "San Juan Bautista de \xC3\x91eembucú"
+  accentcity: "San Juan Bautista de Ñeembucú"
 san juan bautista neembucu: 
   city: "san juan bautista neembucu"
-  accentcity: "San Juan Bautista \xC3\x91eembucú"
+  accentcity: "San Juan Bautista Ñeembucú"
 san juan bautista: 
   city: "san juan bautista"
   accentcity: "San Juan Bautista"

@@ -5798,7 +5798,7 @@ dawka-lo-so:
   accentcity: "Dawka-lo-so"
 daw ka-to: 
   city: "daw ka-to"
-  accentcity: "Daw Ka-t\xC3\xB6"
+  accentcity: "Daw Ka-tö"
 dawkaw-htu: 
   city: "dawkaw-htu"
   accentcity: "Dawkaw-htu"
@@ -5810,7 +5810,7 @@ daw kawle:
   accentcity: "Daw Kawlè"
 daw kawlo: 
   city: "daw kawlo"
-  accentcity: "Daw Kawl\xC3\xB6"
+  accentcity: "Daw Kawlö"
 dawkla-taw: 
   city: "dawkla-taw"
   accentcity: "Dawkla-taw"
@@ -5852,7 +5852,7 @@ dawla-te:
   accentcity: "Dawla-tè"
 dawla-to: 
   city: "dawla-to"
-  accentcity: "Dawla-t\xC3\xB6"
+  accentcity: "Dawla-tö"
 dawlawhko: 
   city: "dawlawhko"
   accentcity: "Dawlawhko"
@@ -5936,7 +5936,7 @@ dawmya:
   accentcity: "Dawmya"
 daw na-klo: 
   city: "daw na-klo"
-  accentcity: "Daw Na-kl\xC3\xB6"
+  accentcity: "Daw Na-klö"
 daw na-le: 
   city: "daw na-le"
   accentcity: "Daw Na-lè"
@@ -6086,7 +6086,7 @@ daw ta-ho:
   accentcity: "Daw Ta-ho"
 dawta-ho: 
   city: "dawta-ho"
-  accentcity: "Dawta-h\xC3\xB6"
+  accentcity: "Dawta-hö"
 dawta-hpa: 
   city: "dawta-hpa"
   accentcity: "Dawta-hpa"
@@ -6095,7 +6095,7 @@ daw ta-hpwi:
   accentcity: "Daw Ta-hpwi"
 daw ta-hso: 
   city: "daw ta-hso"
-  accentcity: "Daw Ta-hs\xC3\xB6"
+  accentcity: "Daw Ta-hsö"
 dawta-htaw: 
   city: "dawta-htaw"
   accentcity: "Dawta-htaw"
@@ -8174,7 +8174,7 @@ hamngai:
   accentcity: "Hamngai"
 ha-mo: 
   city: "ha-mo"
-  accentcity: "Ha-m\xC3\xB6"
+  accentcity: "Ha-mö"
 hamyinbo: 
   city: "hamyinbo"
   accentcity: "Hamyinbo"
@@ -8387,7 +8387,7 @@ hatli:
   accentcity: "Hatli"
 hatlo: 
   city: "hatlo"
-  accentcity: "Hatl\xC3\xB6"
+  accentcity: "Hatlö"
 hatmau: 
   city: "hatmau"
   accentcity: "Hatmaü"
@@ -9506,13 +9506,13 @@ hko-heng:
   accentcity: "Hko-heng"
 hko-hin: 
   city: "hko-hin"
-  accentcity: "Hk\xC3\xB6-hin"
+  accentcity: "Hkö-hin"
 hkohka: 
   city: "hkohka"
   accentcity: "Hkohka"
 hko-hkam: 
   city: "hko-hkam"
-  accentcity: "Hk\xC3\xB6-hkam"
+  accentcity: "Hkö-hkam"
 hko-hkan: 
   city: "hko-hkan"
   accentcity: "Hko-hkan"
@@ -9602,7 +9602,7 @@ hkommakkeng:
   accentcity: "Hkommakkeng"
 hkomngun: 
   city: "hkomngun"
-  accentcity: "Hk\xC3\xB6mngün"
+  accentcity: "Hkömngün"
 hko-mong: 
   city: "hko-mong"
   accentcity: "Hko-mong"
@@ -9677,19 +9677,19 @@ hko-tawng:
   accentcity: "Hko-tawng"
 hko-tin: 
   city: "hko-tin"
-  accentcity: "Hk\xC3\xB6-tin"
+  accentcity: "Hkö-tin"
 hkotuk: 
   city: "hkotuk"
   accentcity: "Hkotuk"
 hko-tum: 
   city: "hko-tum"
-  accentcity: "Hk\xC3\xB6-tum"
+  accentcity: "Hkö-tum"
 hko-ut-awn: 
   city: "hko-ut-awn"
-  accentcity: "Hk\xC3\xB6-ut-awn"
+  accentcity: "Hkö-ut-awn"
 hko-ut: 
   city: "hko-ut"
-  accentcity: "Hk\xC3\xB6-ut"
+  accentcity: "Hkö-ut"
 hko-wo: 
   city: "hko-wo"
   accentcity: "Hko-wo"
@@ -9773,7 +9773,7 @@ hkummankau:
   accentcity: "Hkümmànkaü"
 hkummanmao: 
   city: "hkummanmao"
-  accentcity: "Hkümmanma\xC3\xB6"
+  accentcity: "Hkümmanmaö"
 hkumpen: 
   city: "hkumpen"
   accentcity: "Hkumpen"
@@ -10658,7 +10658,7 @@ ho hko:
   accentcity: "Ho Hko"
 hohko: 
   city: "hohko"
-  accentcity: "H\xC3\xB6hk\xC3\xB6"
+  accentcity: "Höhkö"
 ho-hko-nam-hpak-lun: 
   city: "ho-hko-nam-hpak-lun"
   accentcity: "Ho-hko-nam-hpak-lün"
@@ -10667,7 +10667,7 @@ ho-hko namhpoklun:
   accentcity: "Ho-hko Namhpoklun"
 ho-hko-namma: 
   city: "ho-hko-namma"
-  accentcity: "Ho-hk\xC3\xB6-namma"
+  accentcity: "Ho-hkö-namma"
 ho-hkong: 
   city: "ho-hkong"
   accentcity: "Ho-hkong"
@@ -10703,7 +10703,7 @@ ho-hseng:
   accentcity: "Ho-hseng"
 ho-hso: 
   city: "ho-hso"
-  accentcity: "Ho-hs\xC3\xB6"
+  accentcity: "Ho-hsö"
 ho-hsuan: 
   city: "ho-hsuan"
   accentcity: "Ho-hsuan"
@@ -10859,7 +10859,7 @@ ho-loi:
   accentcity: "Ho-loi"
 ho-long: 
   city: "ho-long"
-  accentcity: "Ho-l\xC3\xB6ng"
+  accentcity: "Ho-löng"
 ho long: 
   city: "ho long"
   accentcity: "Ho Long"
@@ -10898,7 +10898,7 @@ homohti:
   accentcity: "Homohti"
 homong: 
   city: "homong"
-  accentcity: "Hom\xC3\xB6ng"
+  accentcity: "Homöng"
 ho-mong: 
   city: "ho-mong"
   accentcity: "Ho-mong"
@@ -10970,16 +10970,16 @@ honghang:
   accentcity: "Honghang"
 honghkam: 
   city: "honghkam"
-  accentcity: "H\xC3\xB6nghkam"
+  accentcity: "Hönghkam"
 hongke: 
   city: "hongke"
   accentcity: "Hongke"
 honglai: 
   city: "honglai"
-  accentcity: "H\xC3\xB6nglai"
+  accentcity: "Hönglai"
 honglan: 
   city: "honglan"
-  accentcity: "H\xC3\xB6nglan"
+  accentcity: "Hönglan"
 hongleng: 
   city: "hongleng"
   accentcity: "Hongleng"
@@ -10988,10 +10988,10 @@ hongmon:
   accentcity: "Hongmon"
 hon-lawn: 
   city: "hon-lawn"
-  accentcity: "H\xC3\xB6n-lawn"
+  accentcity: "Hön-lawn"
 honlom: 
   city: "honlom"
-  accentcity: "H\xC3\xB6nlom"
+  accentcity: "Hönlom"
 honmalin: 
   city: "honmalin"
   accentcity: "Hônmalin"
@@ -11135,7 +11135,7 @@ ho-wao:
   accentcity: "Ho-wao"
 howit: 
   city: "howit"
-  accentcity: "H\xC3\xB6wit"
+  accentcity: "Höwit"
 hoya: 
   city: "hoya"
   accentcity: "Hoya"
@@ -11213,7 +11213,7 @@ hpa-hki:
   accentcity: "Hpa-hki"
 hpa-hko: 
   city: "hpa-hko"
-  accentcity: "Hpa-hk\xC3\xB6"
+  accentcity: "Hpa-hkö"
 hpahpek: 
   city: "hpahpek"
   accentcity: "Hpahpek"
@@ -11261,7 +11261,7 @@ hpa-hsengkio:
   accentcity: "Hpa-hsengkio"
 hpa-hso: 
   city: "hpa-hso"
-  accentcity: "Hpa-hs\xC3\xB6"
+  accentcity: "Hpa-hsö"
 hpahso: 
   city: "hpahso"
   accentcity: "Hpahso"
@@ -11297,10 +11297,10 @@ hpai-man:
   accentcity: "Hpai-man"
 hpai mong: 
   city: "hpai mong"
-  accentcity: "Hpai M\xC3\xB6ng"
+  accentcity: "Hpai Möng"
 hpai-mong: 
   city: "hpai-mong"
-  accentcity: "Hpai-m\xC3\xB6ng"
+  accentcity: "Hpai-möng"
 hpaimu: 
   city: "hpaimu"
   accentcity: "Hpaimu"
@@ -11405,7 +11405,7 @@ hpak man:
   accentcity: "Hpak Man"
 hpakmong: 
   city: "hpakmong"
-  accentcity: "Hpakm\xC3\xB6ng"
+  accentcity: "Hpakmöng"
 hpaknam: 
   city: "hpaknam"
   accentcity: "Hpaknam"
@@ -11447,7 +11447,7 @@ hpaktu-monga:
   accentcity: "Hpaktu-monga"
 hpaktu-mong: 
   city: "hpaktu-mong"
-  accentcity: "Hpaktu-m\xC3\xB6ng"
+  accentcity: "Hpaktu-möng"
 hpaktup: 
   city: "hpaktup"
   accentcity: "Hpaktup"
@@ -11615,7 +11615,7 @@ hpanglat:
   accentcity: "Hpanglat"
 hpanglat no: 
   city: "hpanglat no"
-  accentcity: "Hpanglat N\xC3\xB6"
+  accentcity: "Hpanglat Nö"
 hpanglon: 
   city: "hpanglon"
   accentcity: "Hpanglon"
@@ -11783,7 +11783,7 @@ hpa-so:
   accentcity: "Hpa-so"
 hpa-sok: 
   city: "hpa-sok"
-  accentcity: "Hpa-s\xC3\xB6k"
+  accentcity: "Hpa-sök"
 hpa sui: 
   city: "hpa sui"
   accentcity: "Hpa Süi"
@@ -12074,7 +12074,7 @@ hpongayin:
   accentcity: "Hpongayin"
 hpongmung: 
   city: "hpongmung"
-  accentcity: "Hp\xC3\xB6ngmung"
+  accentcity: "Hpöngmung"
 hpongnwe: 
   city: "hpongnwe"
   accentcity: "Hpongnwe"
@@ -12266,7 +12266,7 @@ hpya-hkamhkun:
   accentcity: "Hpya-hkamhkun"
 hpya-hkamhong: 
   city: "hpya-hkamhong"
-  accentcity: "Hpya-hkamh\xC3\xB6ng"
+  accentcity: "Hpya-hkamhöng"
 hpya-hkamhsao: 
   city: "hpya-hkamhsao"
   accentcity: "Hpya-hkamhsao"
@@ -12296,7 +12296,7 @@ hpya-hko-hkam:
   accentcity: "Hpya-hko-hkam"
 hpya hkunmong: 
   city: "hpya hkunmong"
-  accentcity: "Hpya Hkünm\xC3\xB6ng"
+  accentcity: "Hpya Hkünmöng"
 hpya-hpat: 
   city: "hpya-hpat"
   accentcity: "Hpya-hpat"
@@ -12329,7 +12329,7 @@ hpya-kawngkiao:
   accentcity: "Hpya-Kawngkiao"
 hpya-kawnmong: 
   city: "hpya-kawnmong"
-  accentcity: "Hpya-kawnm\xC3\xB6ng"
+  accentcity: "Hpya-kawnmöng"
 hpya-khun: 
   city: "hpya-khun"
   accentcity: "Hpya-khün"
@@ -12341,7 +12341,7 @@ hpya-kili:
   accentcity: "Hpya-kili"
 hpya-ku-mong: 
   city: "hpya-ku-mong"
-  accentcity: "Hpya-ku-m\xC3\xB6ng"
+  accentcity: "Hpya-ku-möng"
 hpya-langhsat: 
   city: "hpya-langhsat"
   accentcity: "Hpya-langhsat"
@@ -12362,7 +12362,7 @@ hpya-lya:
   accentcity: "Hpya-lya"
 hpya-mongmong: 
   city: "hpya-mongmong"
-  accentcity: "Hpya-m\xC3\xB6ngm\xC3\xB6ng"
+  accentcity: "Hpya-möngmöng"
 hpya-ni: 
   city: "hpya-ni"
   accentcity: "Hpya-ni"
@@ -12371,7 +12371,7 @@ hpya-pangyok:
   accentcity: "Hpya-pangyok"
 hpya-pingmong: 
   city: "hpya-pingmong"
-  accentcity: "Hpya-pingm\xC3\xB6ng"
+  accentcity: "Hpya-pingmöng"
 hpya-pu-hkam: 
   city: "hpya-pu-hkam"
   accentcity: "Hpya-pu-hkam"
@@ -12383,7 +12383,7 @@ hpya-sau:
   accentcity: "Hpya-saü"
 hpya-sawmmong: 
   city: "hpya-sawmmong"
-  accentcity: "Hpya-sawmm\xC3\xB6ng"
+  accentcity: "Hpya-sawmmöng"
 hpyathlaing: 
   city: "hpyathlaing"
   accentcity: "Hpyathlaing"
@@ -12434,7 +12434,7 @@ hsadaw:
   accentcity: "Hsadaw"
 hsa-htawmon: 
   city: "hsa-htawmon"
-  accentcity: "Hsa-htawm\xC3\xB6n"
+  accentcity: "Hsa-htawmön"
 hsa-htawmun: 
   city: "hsa-htawmun"
   accentcity: "Hsa-htawmün"
@@ -12470,7 +12470,7 @@ hsai-leng:
   accentcity: "Hsai-leng"
 hsailong: 
   city: "hsailong"
-  accentcity: "Hsail\xC3\xB6ng"
+  accentcity: "Hsailöng"
 hsai-mawn: 
   city: "hsai-mawn"
   accentcity: "Hsai-mawn"
@@ -12524,7 +12524,7 @@ hsamhseng:
   accentcity: "Hsamhseng"
 hsa mong hkam: 
   city: "hsa mong hkam"
-  accentcity: "Hsa M\xC3\xB6ng Hkam"
+  accentcity: "Hsa Möng Hkam"
 hsampa: 
   city: "hsampa"
   accentcity: "Hsampa"
@@ -12638,7 +12638,7 @@ hsawka:
   accentcity: "Hsawka"
 hsaw-ko: 
   city: "hsaw-ko"
-  accentcity: "Hsaw-k\xC3\xB6"
+  accentcity: "Hsaw-kö"
 hsawlya-daw: 
   city: "hsawlya-daw"
   accentcity: "Hsawlya-daw"
@@ -12761,7 +12761,7 @@ hsen mawng:
   accentcity: "Hsen Mawng"
 hsen mong kwang: 
   city: "hsen mong kwang"
-  accentcity: "Hsen M\xC3\xB6ng Kwang"
+  accentcity: "Hsen Möng Kwang"
 hsen-naw: 
   city: "hsen-naw"
   accentcity: "Hsen-naw"
@@ -12770,7 +12770,7 @@ hsenpanhkam:
   accentcity: "Hsenpanhkam"
 hsenpawmong: 
   city: "hsenpawmong"
-  accentcity: "Hsenpawm\xC3\xB6ng"
+  accentcity: "Hsenpawmöng"
 hsen sai ya: 
   city: "hsen sai ya"
   accentcity: "Hsen Sai ya"
@@ -12899,7 +12899,7 @@ hsinhkong:
   accentcity: "Hsinhkong"
 hsinhkon: 
   city: "hsinhkon"
-  accentcity: "Hsinhk\xC3\xB6n"
+  accentcity: "Hsinhkön"
 hsinhpong: 
   city: "hsinhpong"
   accentcity: "Hsinhpong"
@@ -12944,7 +12944,7 @@ hsinlonghkamti:
   accentcity: "Hsinlonghkamti"
 hsinlonghpawngmong: 
   city: "hsinlonghpawngmong"
-  accentcity: "Hsinlonghpawngm\xC3\xB6ng"
+  accentcity: "Hsinlonghpawngmöng"
 hsinlong: 
   city: "hsinlong"
   accentcity: "Hsinlong"
@@ -12977,7 +12977,7 @@ hsin-om:
   accentcity: "Hsin-om"
 hsinpawmong: 
   city: "hsinpawmong"
-  accentcity: "Hsinpawm\xC3\xB6ng"
+  accentcity: "Hsinpawmöng"
 hsinsai-he: 
   city: "hsinsai-he"
   accentcity: "Hsinsai-he"
@@ -13079,7 +13079,7 @@ hsonhkawn:
   accentcity: "Hsonhkawn"
 hsonkwe: 
   city: "hsonkwe"
-  accentcity: "Hs\xC3\xB6nkwè"
+  accentcity: "Hsönkwè"
 hsonkwi: 
   city: "hsonkwi"
   accentcity: "Hsonkwi"
@@ -13094,7 +13094,7 @@ hsopket:
   accentcity: "Hsopket"
 hsoplong: 
   city: "hsoplong"
-  accentcity: "Hsopl\xC3\xB6ng"
+  accentcity: "Hsoplöng"
 hsop me-la-yu: 
   city: "hsop me-la-yu"
   accentcity: "Hsop Me-la-yu"
@@ -13145,7 +13145,7 @@ hsunka:
   accentcity: "Hsunka"
 hsunlong: 
   city: "hsunlong"
-  accentcity: "Hsunl\xC3\xB6ng"
+  accentcity: "Hsunlöng"
 hsun-mawk: 
   city: "hsun-mawk"
   accentcity: "Hsun-mawk"
@@ -13997,7 +13997,7 @@ htisir:
   accentcity: "Htisir"
 htisom: 
   city: "htisom"
-  accentcity: "Htis\xC3\xB6m"
+  accentcity: "Htisöm"
 htison: 
   city: "htison"
   accentcity: "Htison"
@@ -14093,7 +14093,7 @@ hto-hpo-klo:
   accentcity: "Hto-hpo-klo"
 hto-hte: 
   city: "hto-hte"
-  accentcity: "Ht\xC3\xB6-htè"
+  accentcity: "Htö-htè"
 htoi-pao: 
   city: "htoi-pao"
   accentcity: "Htoi-pao"
@@ -14114,7 +14114,7 @@ hto-kung:
   accentcity: "Hto-kung"
 hto-la-so: 
   city: "hto-la-so"
-  accentcity: "Ht\xC3\xB6-la-so"
+  accentcity: "Htö-la-so"
 htolawng: 
   city: "htolawng"
   accentcity: "Htolawng"
@@ -14582,7 +14582,7 @@ hwe-mawnun:
   accentcity: "Hwè-mawnun"
 hwe-mong: 
   city: "hwe-mong"
-  accentcity: "Hwè-m\xC3\xB6ng"
+  accentcity: "Hwè-möng"
 hwena: 
   city: "hwena"
   accentcity: "Hwena"
@@ -16133,7 +16133,7 @@ kaidaw:
   accentcity: "Kaidaw"
 kai-hpok: 
   city: "kai-hpok"
-  accentcity: "Kai-hp\xC3\xB6k"
+  accentcity: "Kai-hpök"
 kai: 
   city: "kai"
   accentcity: "Kai"
@@ -16697,7 +16697,7 @@ kalonga ywa:
   accentcity: "Kalonga Ywa"
 kalong: 
   city: "kalong"
-  accentcity: "Kal\xC3\xB6ng"
+  accentcity: "Kalöng"
 kalonhte: 
   city: "kalonhte"
   accentcity: "Kalonhte"
@@ -17423,7 +17423,7 @@ kanglong:
   accentcity: "Kanglong"
 kangmong: 
   city: "kangmong"
-  accentcity: "Kangm\xC3\xB6ng"
+  accentcity: "Kangmöng"
 kangnahka: 
   city: "kangnahka"
   accentcity: "Kangnahka"
@@ -19289,7 +19289,7 @@ kawng-lo:
   accentcity: "Kawng-lo"
 kawnglom: 
   city: "kawnglom"
-  accentcity: "Kawngl\xC3\xB6m"
+  accentcity: "Kawnglöm"
 kawnglong: 
   city: "kawnglong"
   accentcity: "Kawnglong"
@@ -19412,7 +19412,7 @@ kawngtek:
   accentcity: "Kawngtek"
 kawngtong: 
   city: "kawngtong"
-  accentcity: "Kawngt\xC3\xB6ng"
+  accentcity: "Kawngtöng"
 kawngton: 
   city: "kawngton"
   accentcity: "Kawngton"
@@ -21113,7 +21113,7 @@ kio-sam:
   accentcity: "Kio-sam"
 kiosong: 
   city: "kiosong"
-  accentcity: "Kios\xC3\xB6ng"
+  accentcity: "Kiosöng"
 kiotaw: 
   city: "kiotaw"
   accentcity: "Kiotaw"
@@ -21146,7 +21146,7 @@ kiu-maw-ai:
   accentcity: "Kiu-maw-ai"
 kiu-menglong: 
   city: "kiu-menglong"
-  accentcity: "Kiu-mengl\xC3\xB6ng"
+  accentcity: "Kiu-menglöng"
 kiu-neng: 
   city: "kiu-neng"
   accentcity: "Kiu-neng"
@@ -21665,7 +21665,7 @@ kongchi:
   accentcity: "Kongchi"
 kong-gyawng: 
   city: "kong-gyawng"
-  accentcity: "K\xC3\xB6ng-gyawng"
+  accentcity: "Köng-gyawng"
 konghai: 
   city: "konghai"
   accentcity: "Konghai"
@@ -21674,7 +21674,7 @@ konghai-ping:
   accentcity: "Konghai-ping"
 konghat: 
   city: "konghat"
-  accentcity: "K\xC3\xB6nghat"
+  accentcity: "Könghat"
 konghe: 
   city: "konghe"
   accentcity: "Konghè"
@@ -21728,7 +21728,7 @@ konghsa-ta-pa:
   accentcity: "Konghsa-ta-pa"
 konghsatapi: 
   city: "konghsatapi"
-  accentcity: "K\xC3\xB6nghsatapi"
+  accentcity: "Könghsatapi"
 konghsem: 
   city: "konghsem"
   accentcity: "Konghsem"
@@ -21743,13 +21743,13 @@ kong hsot:
   accentcity: "Kong Hsot"
 konghsu: 
   city: "konghsu"
-  accentcity: "K\xC3\xB6nghsu"
+  accentcity: "Könghsu"
 kong hsut: 
   city: "kong hsut"
   accentcity: "Kong Hsut"
 konghtun: 
   city: "konghtun"
-  accentcity: "K\xC3\xB6nghtun"
+  accentcity: "Könghtun"
 kongiam: 
   city: "kongiam"
   accentcity: "Kongiam"
@@ -21827,7 +21827,7 @@ konglan:
   accentcity: "Konglan"
 konglaw: 
   city: "konglaw"
-  accentcity: "K\xC3\xB6nglaw"
+  accentcity: "Könglaw"
 kongleng: 
   city: "kongleng"
   accentcity: "Kongleng"
@@ -21875,7 +21875,7 @@ kongmakmau:
   accentcity: "Kongmakmau"
 kongmakmong: 
   city: "kongmakmong"
-  accentcity: "Kongmakm\xC3\xB6ng"
+  accentcity: "Kongmakmöng"
 kongmao: 
   city: "kongmao"
   accentcity: "Kongmao"
@@ -21893,7 +21893,7 @@ kongmeng:
   accentcity: "Kongmeng"
 kongmong: 
   city: "kongmong"
-  accentcity: "Kongm\xC3\xB6ng"
+  accentcity: "Kongmöng"
 kong mong: 
   city: "kong mong"
   accentcity: "Kong Mong"
@@ -21923,7 +21923,7 @@ kongnang:
   accentcity: "Kongnang"
 kongnawng: 
   city: "kongnawng"
-  accentcity: "K\xC3\xB6ngnawng"
+  accentcity: "Köngnawng"
 kongnawt: 
   city: "kongnawt"
   accentcity: "Kongnawt"
@@ -21932,7 +21932,7 @@ kongnim:
   accentcity: "Kongnim"
 kongnio: 
   city: "kongnio"
-  accentcity: "K\xC3\xB6ngnio"
+  accentcity: "Köngnio"
 kong-nio: 
   city: "kong-nio"
   accentcity: "Kong-nio"
@@ -21947,7 +21947,7 @@ kongnyaung:
   accentcity: "Kongnyaung"
 kongnyawg: 
   city: "kongnyawg"
-  accentcity: "K\xC3\xB6ngnyawg"
+  accentcity: "Köngnyawg"
 kong nyawng: 
   city: "kong nyawng"
   accentcity: "Kong Nyawng"
@@ -21962,7 +21962,7 @@ kong-pao:
   accentcity: "Kong-pao"
 kongpau: 
   city: "kongpau"
-  accentcity: "K\xC3\xB6ngpau"
+  accentcity: "Köngpau"
 kong-pau: 
   city: "kong-pau"
   accentcity: "Kong-pau"
@@ -21974,10 +21974,10 @@ kong-paw:
   accentcity: "Kong-paw"
 kong-pawman-loi: 
   city: "kong-pawman-loi"
-  accentcity: "K\xC3\xB6ng-pawman-loi"
+  accentcity: "Köng-pawman-loi"
 kong-pawman-tau: 
   city: "kong-pawman-tau"
-  accentcity: "K\xC3\xB6ng-pawman-tau"
+  accentcity: "Köng-pawman-tau"
 kongpawn: 
   city: "kongpawn"
   accentcity: "Kongpawn"
@@ -22013,7 +22013,7 @@ kongsam:
   accentcity: "Kongsam"
 kong-sam: 
   city: "kong-sam"
-  accentcity: "K\xC3\xB6ng-sam"
+  accentcity: "Köng-sam"
 kongsang: 
   city: "kongsang"
   accentcity: "Kongsang"
@@ -22034,7 +22034,7 @@ kongsong:
   accentcity: "Kongsong"
 kong-song: 
   city: "kong-song"
-  accentcity: "Kong-s\xC3\xB6ng"
+  accentcity: "Kong-söng"
 kongson: 
   city: "kongson"
   accentcity: "Kongson"
@@ -22112,7 +22112,7 @@ kongyinzein:
   accentcity: "Kongyinzein"
 kongyom: 
   city: "kongyom"
-  accentcity: "K\xC3\xB6ngyom"
+  accentcity: "Köngyom"
 kong-yom: 
   city: "kong-yom"
   accentcity: "Kong-yom"
@@ -22178,7 +22178,7 @@ konke:
   accentcity: "Konke"
 konkeng: 
   city: "konkeng"
-  accentcity: "K\xC3\xB6nkeng"
+  accentcity: "Könkeng"
 konkha: 
   city: "konkha"
   accentcity: "Konkha"
@@ -22742,7 +22742,7 @@ kulado:
   accentcity: "Kulado"
 kulalado: 
   city: "kulalado"
-  accentcity: "Kulalad\xC3\xB6"
+  accentcity: "Kulaladö"
 ku-lang: 
   city: "ku-lang"
   accentcity: "Ku-lang"
@@ -23216,7 +23216,7 @@ kunmin:
   accentcity: "Kunmin"
 kunmong: 
   city: "kunmong"
-  accentcity: "Kunm\xC3\xB6ng"
+  accentcity: "Kunmöng"
 kunmun: 
   city: "kunmun"
   accentcity: "Kunmun"
@@ -23426,7 +23426,7 @@ kwanbi:
   accentcity: "Kwanbi"
 kwang-hong: 
   city: "kwang-hong"
-  accentcity: "Kwang-h\xC3\xB6ng"
+  accentcity: "Kwang-höng"
 kwanglong: 
   city: "kwanglong"
   accentcity: "Kwanglong"
@@ -25610,7 +25610,7 @@ kyawng-keng:
   accentcity: "Kyawng-keng"
 kyawnglong: 
   city: "kyawnglong"
-  accentcity: "Kyawngl\xC3\xB6ng"
+  accentcity: "Kyawnglöng"
 kyawngon: 
   city: "kyawngon"
   accentcity: "Kyawngon"
@@ -26858,7 +26858,7 @@ kyugyaung:
   accentcity: "Kyugyaung"
 kyu-hkok: 
   city: "kyu-hkok"
-  accentcity: "Kyu-hk\xC3\xB6k"
+  accentcity: "Kyu-hkök"
 kyuhta: 
   city: "kyuhta"
   accentcity: "Kyuhta"
@@ -27155,7 +27155,7 @@ kyuzaung:
   accentcity: "Kyuzaung"
 kywaikong: 
   city: "kywaikong"
-  accentcity: "Kywaik\xC3\xB6ng"
+  accentcity: "Kywaiköng"
 kywak-aye: 
   city: "kywak-aye"
   accentcity: "Kywak-aye"
@@ -27647,7 +27647,7 @@ lagayet:
   accentcity: "Lagayet"
 lagondon: 
   city: "lagondon"
-  accentcity: "Lag\xC3\xB6nd\xC3\xB6n"
+  accentcity: "Lagöndön"
 lagum: 
   city: "lagum"
   accentcity: "Lagum"
@@ -30488,7 +30488,7 @@ limokhi:
   accentcity: "Limokhi"
 limpoklong: 
   city: "limpoklong"
-  accentcity: "Limp\xC3\xB6klong"
+  accentcity: "Limpöklong"
 limpu: 
   city: "limpu"
   accentcity: "Limpu"
@@ -30656,10 +30656,10 @@ linphon:
   accentcity: "Linphon"
 linpoklong: 
   city: "linpoklong"
-  accentcity: "Linp\xC3\xB6klong"
+  accentcity: "Linpöklong"
 linpok tek: 
   city: "linpok tek"
-  accentcity: "Linp\xC3\xB6k Tèk"
+  accentcity: "Linpök Tèk"
 lin-ten: 
   city: "lin-ten"
   accentcity: "Lin-ten"
@@ -31484,7 +31484,7 @@ loi-yoi:
   accentcity: "Loi-yoi"
 loi-yoimanmao: 
   city: "loi-yoimanmao"
-  accentcity: "Loi-yoimanma\xC3\xB6"
+  accentcity: "Loi-yoimanmaö"
 loi-yong: 
   city: "loi-yong"
   accentcity: "Loi-Yong"
@@ -31505,7 +31505,7 @@ lokhi:
   accentcity: "Lokhi"
 lokpye: 
   city: "lokpye"
-  accentcity: "L\xC3\xB6kpye"
+  accentcity: "Lökpye"
 lok-ywa: 
   city: "lok-ywa"
   accentcity: "Lôk-ywa"
@@ -31601,7 +31601,7 @@ longhkeng:
   accentcity: "Longhkeng"
 longhkok: 
   city: "longhkok"
-  accentcity: "Longhk\xC3\xB6k"
+  accentcity: "Longhkök"
 longhkwa: 
   city: "longhkwa"
   accentcity: "Longhkwa"
@@ -31655,7 +31655,7 @@ long-kaw:
   accentcity: "Long-kaw"
 long-kawng: 
   city: "long-kawng"
-  accentcity: "L\xC3\xB6ng-kawng"
+  accentcity: "Löng-kawng"
 longkeng: 
   city: "longkeng"
   accentcity: "Longkeng"
@@ -31667,7 +31667,7 @@ longku:
   accentcity: "Longku"
 longkwai: 
   city: "longkwai"
-  accentcity: "L\xC3\xB6ngkwai"
+  accentcity: "Löngkwai"
 longkwa: 
   city: "longkwa"
   accentcity: "Longkwa"
@@ -31712,13 +31712,13 @@ long-mik:
   accentcity: "Long-mik"
 longmong: 
   city: "longmong"
-  accentcity: "Longm\xC3\xB6ng"
+  accentcity: "Longmöng"
 longmon: 
   city: "longmon"
   accentcity: "Longmon"
 longmot: 
   city: "longmot"
-  accentcity: "Longm\xC3\xB6t"
+  accentcity: "Longmöt"
 longmun: 
   city: "longmun"
   accentcity: "Longmun"
@@ -31766,10 +31766,10 @@ longtan:
   accentcity: "Longtan"
 longtawkno: 
   city: "longtawkno"
-  accentcity: "Longtawkn\xC3\xB6"
+  accentcity: "Longtawknö"
 longtawktao: 
   city: "longtawktao"
-  accentcity: "Longtawkta\xC3\xB6"
+  accentcity: "Longtawktaö"
 longtaw: 
   city: "longtaw"
   accentcity: "Longtaw"
@@ -31934,7 +31934,7 @@ losau:
   accentcity: "Losau"
 losaw: 
   city: "losaw"
-  accentcity: "L\xC3\xB6saw"
+  accentcity: "Lösaw"
 lota: 
   city: "lota"
   accentcity: "Lota"
@@ -33074,7 +33074,7 @@ mahtet:
   accentcity: "Mahtet"
 ma-hto-hku: 
   city: "ma-hto-hku"
-  accentcity: "Ma-ht\xC3\xB6-hku"
+  accentcity: "Ma-htö-hku"
 mahton: 
   city: "mahton"
   accentcity: "Mahton"
@@ -33212,7 +33212,7 @@ maimawng:
   accentcity: "Maimawng"
 maimong: 
   city: "maimong"
-  accentcity: "Maim\xC3\xB6ng"
+  accentcity: "Maimöng"
 mainangli: 
   city: "mainangli"
   accentcity: "Mainangli"
@@ -33596,16 +33596,16 @@ mak mo:
   accentcity: "Mak Mo"
 makmongheng: 
   city: "makmongheng"
-  accentcity: "Makm\xC3\xB6ngheng"
+  accentcity: "Makmöngheng"
 makmonghkam: 
   city: "makmonghkam"
   accentcity: "Makmonghkam"
 mak-mong-hkam: 
   city: "mak-mong-hkam"
-  accentcity: "Mak-m\xC3\xB6ng-hkam"
+  accentcity: "Mak-möng-hkam"
 makmonghsong: 
   city: "makmonghsong"
-  accentcity: "Makm\xC3\xB6nghs\xC3\xB6ng"
+  accentcity: "Makmönghsöng"
 mak mong hsong: 
   city: "mak mong hsong"
   accentcity: "Mak Mong Hsong"
@@ -33614,7 +33614,7 @@ mak-monghsung:
   accentcity: "Mak-monghsung"
 makmongkong: 
   city: "makmongkong"
-  accentcity: "Makm\xC3\xB6ngkong"
+  accentcity: "Makmöngkong"
 makmonglau: 
   city: "makmonglau"
   accentcity: "Makmonglau"
@@ -33623,7 +33623,7 @@ makmong:
   accentcity: "Makmong"
 makmongmun: 
   city: "makmongmun"
-  accentcity: "Makm\xC3\xB6ngmun"
+  accentcity: "Makmöngmun"
 mak mong non: 
   city: "mak mong non"
   accentcity: "Mak Mong Non"
@@ -35975,7 +35975,7 @@ man ngu-lom:
   accentcity: "Man Ngu-lom"
 man ngu-lon: 
   city: "man ngu-lon"
-  accentcity: "Man Ngu-l\xC3\xB6n"
+  accentcity: "Man Ngu-lön"
 manngun: 
   city: "manngun"
   accentcity: "Manngun"
@@ -36416,7 +36416,7 @@ man pongpek:
   accentcity: "Man Pongpek"
 manpon: 
   city: "manpon"
-  accentcity: "Manp\xC3\xB6n"
+  accentcity: "Manpön"
 man pon: 
   city: "man pon"
   accentcity: "Man Pon"
@@ -39323,7 +39323,7 @@ milok:
   accentcity: "Milok"
 mi-lon: 
   city: "mi-lon"
-  accentcity: "Mi-l\xC3\xB6n"
+  accentcity: "Mi-lön"
 mimawdo: 
   city: "mimawdo"
   accentcity: "Mimawdo"
@@ -40226,31 +40226,31 @@ mongan:
   accentcity: "Mongan"
 mong awng: 
   city: "mong awng"
-  accentcity: "M\xC3\xB6ng Awng"
+  accentcity: "Möng Awng"
 mong awt: 
   city: "mong awt"
-  accentcity: "M\xC3\xB6ng Awt"
+  accentcity: "Möng Awt"
 mong fan: 
   city: "mong fan"
-  accentcity: "M\xC3\xB6ng Fan"
+  accentcity: "Möng Fan"
 mong hai: 
   city: "mong hai"
-  accentcity: "M\xC3\xB6ng Hai"
+  accentcity: "Möng Hai"
 mong ha: 
   city: "mong ha"
-  accentcity: "M\xC3\xB6ng Ha"
+  accentcity: "Möng Ha"
 mong hang: 
   city: "mong hang"
-  accentcity: "M\xC3\xB6ng Hang"
+  accentcity: "Möng Hang"
 mong han: 
   city: "mong han"
-  accentcity: "M\xC3\xB6ng Han"
+  accentcity: "Möng Han"
 mong hawm: 
   city: "mong hawm"
-  accentcity: "M\xC3\xB6ng Hawm"
+  accentcity: "Möng Hawm"
 monghawng: 
   city: "monghawng"
-  accentcity: "M\xC3\xB6nghawng"
+  accentcity: "Mönghawng"
 mong hawn: 
   city: "mong hawn"
   accentcity: "Mong Hawn"
@@ -40259,10 +40259,10 @@ mong he:
   accentcity: "Mong He"
 mongheng: 
   city: "mongheng"
-  accentcity: "M\xC3\xB6ngheng"
+  accentcity: "Möngheng"
 mong heng: 
   city: "mong heng"
-  accentcity: "M\xC3\xB6ng Heng"
+  accentcity: "Möng Heng"
 mong het: 
   city: "mong het"
   accentcity: "Mong Het"
@@ -40271,31 +40271,31 @@ mong hkak:
   accentcity: "Mong Hkak"
 mong hkang: 
   city: "mong hkang"
-  accentcity: "M\xC3\xB6ng Hkang"
+  accentcity: "Möng Hkang"
 mong hkan: 
   city: "mong hkan"
-  accentcity: "M\xC3\xB6ng Hkan"
+  accentcity: "Möng Hkan"
 mong hka-no: 
   city: "mong hka-no"
-  accentcity: "M\xC3\xB6ng Hka-no"
+  accentcity: "Möng Hka-no"
 mong hkawng: 
   city: "mong hkawng"
-  accentcity: "M\xC3\xB6ng Hkawng"
+  accentcity: "Möng Hkawng"
 mong hkawn: 
   city: "mong hkawn"
-  accentcity: "M\xC3\xB6ng Hkawn"
+  accentcity: "Möng Hkawn"
 mong hkok: 
   city: "mong hkok"
-  accentcity: "M\xC3\xB6ng Hkok"
+  accentcity: "Möng Hkok"
 mong hko: 
   city: "mong hko"
   accentcity: "Mong Hko"
 mong hkun: 
   city: "mong hkun"
-  accentcity: "M\xC3\xB6ng Hkun"
+  accentcity: "Möng Hkun"
 monghong: 
   city: "monghong"
-  accentcity: "M\xC3\xB6nghong"
+  accentcity: "Mönghong"
 mong ho-pung: 
   city: "mong ho-pung"
   accentcity: "Mong Ho-pung"
@@ -40304,64 +40304,64 @@ mong hpayak:
   accentcity: "Mong Hpayak"
 mong hpen: 
   city: "mong hpen"
-  accentcity: "M\xC3\xB6ng Hpen"
+  accentcity: "Möng Hpen"
 mong hpi: 
   city: "mong hpi"
-  accentcity: "M\xC3\xB6ng Hpi"
+  accentcity: "Möng Hpi"
 mong hsai: 
   city: "mong hsai"
   accentcity: "Mong Hsai"
 mong hsan: 
   city: "mong hsan"
-  accentcity: "M\xC3\xB6ng Hsan"
+  accentcity: "Möng Hsan"
 mong hsat: 
   city: "mong hsat"
-  accentcity: "M\xC3\xB6ng Hsat"
+  accentcity: "Möng Hsat"
 mong hsawk: 
   city: "mong hsawk"
-  accentcity: "M\xC3\xB6ng Hsawk"
+  accentcity: "Möng Hsawk"
 mong hsaw: 
   city: "mong hsaw"
-  accentcity: "M\xC3\xB6ng Hsaw"
+  accentcity: "Möng Hsaw"
 mong hseng: 
   city: "mong hseng"
-  accentcity: "M\xC3\xB6ng Hseng"
+  accentcity: "Möng Hseng"
 mong hsen: 
   city: "mong hsen"
-  accentcity: "M\xC3\xB6ng Hsen"
+  accentcity: "Möng Hsen"
 mong hsoi: 
   city: "mong hsoi"
-  accentcity: "M\xC3\xB6ng Hsoi"
+  accentcity: "Möng Hsoi"
 mong hsol: 
   city: "mong hsol"
-  accentcity: "M\xC3\xB6ng Hsol"
+  accentcity: "Möng Hsol"
 mong hso: 
   city: "mong hso"
-  accentcity: "M\xC3\xB6ng Hso"
+  accentcity: "Möng Hso"
 monghsong: 
   city: "monghsong"
   accentcity: "Monghsong"
 mong hsu: 
   city: "mong hsu"
-  accentcity: "M\xC3\xB6ng Hsu"
+  accentcity: "Möng Hsu"
 mong hta-lang: 
   city: "mong hta-lang"
   accentcity: "Mong Hta-lang"
 mong hta long: 
   city: "mong hta long"
-  accentcity: "M\xC3\xB6ng Hta Long"
+  accentcity: "Möng Hta Long"
 mong htam: 
   city: "mong htam"
-  accentcity: "M\xC3\xB6ng Htam"
+  accentcity: "Möng Htam"
 mong hta: 
   city: "mong hta"
-  accentcity: "M\xC3\xB6ng Hta"
+  accentcity: "Möng Hta"
 mong htang: 
   city: "mong htang"
   accentcity: "Mong Htang"
 mong htan: 
   city: "mong htan"
-  accentcity: "M\xC3\xB6ng Htan"
+  accentcity: "Möng Htan"
 mong-htano: 
   city: "mong-htano"
   accentcity: "Mong-Htano"
@@ -40370,109 +40370,109 @@ mong htong:
   accentcity: "Mong Htong"
 mong hton: 
   city: "mong hton"
-  accentcity: "M\xC3\xB6ng Ht\xC3\xB6n"
+  accentcity: "Möng Htön"
 mong hum: 
   city: "mong hum"
-  accentcity: "M\xC3\xB6ng Hüm"
+  accentcity: "Möng Hüm"
 monghwe: 
   city: "monghwe"
-  accentcity: "M\xC3\xB6nghwè"
+  accentcity: "Mönghwè"
 mong-ing: 
   city: "mong-ing"
   accentcity: "Mong-ing"
 mong it: 
   city: "mong it"
-  accentcity: "M\xC3\xB6ng It"
+  accentcity: "Möng It"
 mong kai: 
   city: "mong kai"
-  accentcity: "M\xC3\xB6ng Kai"
+  accentcity: "Möng Kai"
 mong ka: 
   city: "mong ka"
-  accentcity: "M\xC3\xB6ng Ka"
+  accentcity: "Möng Ka"
 mong kang: 
   city: "mong kang"
-  accentcity: "M\xC3\xB6ng Kang"
+  accentcity: "Möng Kang"
 mong kao: 
   city: "mong kao"
-  accentcity: "M\xC3\xB6ng Kao"
+  accentcity: "Möng Kao"
 mongkawk: 
   city: "mongkawk"
-  accentcity: "M\xC3\xB6ngkawk"
+  accentcity: "Möngkawk"
 mongkawng: 
   city: "mongkawng"
-  accentcity: "M\xC3\xB6ngkawng"
+  accentcity: "Möngkawng"
 mong kawng: 
   city: "mong kawng"
-  accentcity: "M\xC3\xB6ng Kawng"
+  accentcity: "Möng Kawng"
 mong keng: 
   city: "mong keng"
-  accentcity: "M\xC3\xB6ng Keng"
+  accentcity: "Möng Keng"
 mongken: 
   city: "mongken"
   accentcity: "Mongken"
 mong ket: 
   city: "mong ket"
-  accentcity: "M\xC3\xB6ng Ket"
+  accentcity: "Möng Ket"
 mong ko: 
   city: "mong ko"
-  accentcity: "M\xC3\xB6ng Ko"
+  accentcity: "Möng Ko"
 mong kong mun: 
   city: "mong kong mun"
-  accentcity: "M\xC3\xB6ng Kong Mun"
+  accentcity: "Möng Kong Mun"
 mong kung: 
   city: "mong kung"
-  accentcity: "M\xC3\xB6ng Küng"
+  accentcity: "Möng Küng"
 mongkun: 
   city: "mongkun"
   accentcity: "Mongkun"
 mong kwan: 
   city: "mong kwan"
-  accentcity: "M\xC3\xB6ng Kwan"
+  accentcity: "Möng Kwan"
 mong kyawt: 
   city: "mong kyawt"
-  accentcity: "M\xC3\xB6ng Kyawt"
+  accentcity: "Möng Kyawt"
 mong kyet: 
   city: "mong kyet"
-  accentcity: "M\xC3\xB6ng Kyet"
+  accentcity: "Möng Kyet"
 mong lai: 
   city: "mong lai"
-  accentcity: "M\xC3\xB6ng Lai"
+  accentcity: "Möng Lai"
 mong la: 
   city: "mong la"
-  accentcity: "M\xC3\xB6ng La"
+  accentcity: "Möng La"
 monglang: 
   city: "monglang"
   accentcity: "Monglang"
 mong lang: 
   city: "mong lang"
-  accentcity: "M\xC3\xB6ng Lang"
+  accentcity: "Möng Lang"
 mong lap: 
   city: "mong lap"
-  accentcity: "M\xC3\xB6ng Lap"
+  accentcity: "Möng Lap"
 monglaw: 
   city: "monglaw"
-  accentcity: "M\xC3\xB6nglaw"
+  accentcity: "Mönglaw"
 monglawng: 
   city: "monglawng"
-  accentcity: "M\xC3\xB6nglawng"
+  accentcity: "Mönglawng"
 mong leng: 
   city: "mong leng"
-  accentcity: "M\xC3\xB6ng Leng"
+  accentcity: "Möng Leng"
 mong-leng: 
   city: "mong-leng"
-  accentcity: "M\xC3\xB6ng-lèng"
+  accentcity: "Möng-lèng"
 mongleng: 
   city: "mongleng"
-  accentcity: "M\xC3\xB6ngleng"
+  accentcity: "Möngleng"
 mong len: 
   city: "mong len"
-  accentcity: "M\xC3\xB6ng Len"
+  accentcity: "Möng Len"
 mong li: 
   city: "mong li"
-  accentcity: "M\xC3\xB6ng Li"
+  accentcity: "Möng Li"
 mong ling shan: 
   city: "mong ling shan"
-  accentcity: "M\xC3\xB6ng Ling Shan"
+  accentcity: "Möng Ling Shan"
 mong lin: 
   city: "mong lin"
   accentcity: "Mong Lin"
@@ -40484,7 +40484,7 @@ mongloi:
   accentcity: "Mongloi"
 mong loi: 
   city: "mong loi"
-  accentcity: "M\xC3\xB6ng Loi"
+  accentcity: "Möng Loi"
 mong long: 
   city: "mong long"
   accentcity: "Mong Long"
@@ -40496,52 +40496,52 @@ mong lung:
   accentcity: "Mong Lung"
 mong lun: 
   city: "mong lun"
-  accentcity: "M\xC3\xB6ng Lun"
+  accentcity: "Möng Lun"
 mong lwe: 
   city: "mong lwe"
-  accentcity: "M\xC3\xB6ng Lwe"
+  accentcity: "Möng Lwe"
 mong lwi: 
   city: "mong lwi"
-  accentcity: "M\xC3\xB6ng Lwi"
+  accentcity: "Möng Lwi"
 mong mah: 
   city: "mong mah"
-  accentcity: "M\xC3\xB6ng Mah"
+  accentcity: "Möng Mah"
 mong ma: 
   city: "mong ma"
-  accentcity: "M\xC3\xB6ng Ma"
+  accentcity: "Möng Ma"
 mong mang: 
   city: "mong mang"
-  accentcity: "M\xC3\xB6ng Mang"
+  accentcity: "Möng Mang"
 mong man: 
   city: "mong man"
-  accentcity: "M\xC3\xB6ng Man"
+  accentcity: "Möng Man"
 mong mao: 
   city: "mong mao"
-  accentcity: "M\xC3\xB6ng Mao"
+  accentcity: "Möng Mao"
 mong mau: 
   city: "mong mau"
-  accentcity: "M\xC3\xB6ng Maü"
+  accentcity: "Möng Maü"
 mong mit: 
   city: "mong mit"
-  accentcity: "M\xC3\xB6ng Mit"
+  accentcity: "Möng Mit"
 mongmu: 
   city: "mongmu"
-  accentcity: "M\xC3\xB6ngmu"
+  accentcity: "Möngmu"
 mong nai: 
   city: "mong nai"
-  accentcity: "M\xC3\xB6ng Nai"
+  accentcity: "Möng Nai"
 mong nam: 
   city: "mong nam"
-  accentcity: "M\xC3\xB6ng Nam"
+  accentcity: "Möng Nam"
 mong nang: 
   city: "mong nang"
-  accentcity: "M\xC3\xB6ng Nang"
+  accentcity: "Möng Nang"
 mong nawng: 
   city: "mong nawng"
-  accentcity: "M\xC3\xB6ng Nawng"
+  accentcity: "Möng Nawng"
 mong ngawm: 
   city: "mong ngawm"
-  accentcity: "M\xC3\xB6ng Ngawm"
+  accentcity: "Möng Ngawm"
 mongngaw: 
   city: "mongngaw"
   accentcity: "Mongngaw"
@@ -40550,22 +40550,22 @@ mong-nge-awn:
   accentcity: "Mong-nge-awn"
 mong nge: 
   city: "mong nge"
-  accentcity: "M\xC3\xB6ng Nge"
+  accentcity: "Möng Nge"
 mong ngen: 
   city: "mong ngen"
-  accentcity: "M\xC3\xB6ng Ngen"
+  accentcity: "Möng Ngen"
 mong ngong: 
   city: "mong ngong"
-  accentcity: "M\xC3\xB6ng Ngong"
+  accentcity: "Möng Ngong"
 mong nim: 
   city: "mong nim"
-  accentcity: "M\xC3\xB6ng Nim"
+  accentcity: "Möng Nim"
 mong noi: 
   city: "mong noi"
   accentcity: "Mong Noi"
 mongnoi: 
   city: "mongnoi"
-  accentcity: "M\xC3\xB6ngnoi"
+  accentcity: "Möngnoi"
 mong noi-pangsa-se: 
   city: "mong noi-pangsa-se"
   accentcity: "Mong Noi-pangsa-se"
@@ -40577,7 +40577,7 @@ mongnwi:
   accentcity: "Mongnwi"
 mong nyen: 
   city: "mong nyen"
-  accentcity: "M\xC3\xB6ng Nyen"
+  accentcity: "Möng Nyen"
 mongon: 
   city: "mongon"
   accentcity: "Mongon"
@@ -40586,58 +40586,58 @@ mongor:
   accentcity: "Mongor"
 mong pai: 
   city: "mong pai"
-  accentcity: "M\xC3\xB6ng Pai"
+  accentcity: "Möng Pai"
 mong-pai: 
   city: "mong-pai"
-  accentcity: "M\xC3\xB6ng-pai"
+  accentcity: "Möng-pai"
 mong pak: 
   city: "mong pak"
-  accentcity: "M\xC3\xB6ng Pak"
+  accentcity: "Möng Pak"
 mong pa-liao: 
   city: "mong pa-liao"
-  accentcity: "M\xC3\xB6ng Pa-liao"
+  accentcity: "Möng Pa-liao"
 mong pa: 
   city: "mong pa"
   accentcity: "Mong Pa"
 mong pang: 
   city: "mong pang"
-  accentcity: "M\xC3\xB6ng Pang"
+  accentcity: "Möng Pang"
 mong pan: 
   city: "mong pan"
-  accentcity: "M\xC3\xB6ng Pan"
+  accentcity: "Möng Pan"
 mongpat: 
   city: "mongpat"
-  accentcity: "M\xC3\xB6ngpat"
+  accentcity: "Möngpat"
 mong pat: 
   city: "mong pat"
-  accentcity: "M\xC3\xB6ng Pat"
+  accentcity: "Möng Pat"
 mong pawk: 
   city: "mong pawk"
-  accentcity: "M\xC3\xB6ng Pawk"
+  accentcity: "Möng Pawk"
 mong paw: 
   city: "mong paw"
-  accentcity: "M\xC3\xB6ng Paw"
+  accentcity: "Möng Paw"
 mong pawn: 
   city: "mong pawn"
-  accentcity: "M\xC3\xB6ng Pawn"
+  accentcity: "Möng Pawn"
 mongping: 
   city: "mongping"
   accentcity: "Mongping"
 mong ping: 
   city: "mong ping"
-  accentcity: "M\xC3\xB6ng Ping"
+  accentcity: "Möng Ping"
 mongpong: 
   city: "mongpong"
   accentcity: "Mongpong"
 mong pu-awn: 
   city: "mong pu-awn"
-  accentcity: "M\xC3\xB6ng Pu-awn"
+  accentcity: "Möng Pu-awn"
 mong pu: 
   city: "mong pu"
-  accentcity: "M\xC3\xB6ng Pu"
+  accentcity: "Möng Pu"
 mong pun: 
   city: "mong pun"
-  accentcity: "M\xC3\xB6ng Pun"
+  accentcity: "Möng Pun"
 mongpya: 
   city: "mongpya"
   accentcity: "Mongpya"
@@ -40649,16 +40649,16 @@ mongpyen-long:
   accentcity: "Mongpyen-long"
 mong sang: 
   city: "mong sang"
-  accentcity: "M\xC3\xB6ng Sang"
+  accentcity: "Möng Sang"
 mong sem: 
   city: "mong sem"
-  accentcity: "M\xC3\xB6ng Sem"
+  accentcity: "Möng Sem"
 mong si: 
   city: "mong si"
-  accentcity: "M\xC3\xB6ng Si"
+  accentcity: "Möng Si"
 mong sit: 
   city: "mong sit"
-  accentcity: "M\xC3\xB6ng Sit"
+  accentcity: "Möng Sit"
 mongsong: 
   city: "mongsong"
   accentcity: "Mongsong"
@@ -40667,58 +40667,58 @@ mong sum:
   accentcity: "Mong Sum"
 mong tat: 
   city: "mong tat"
-  accentcity: "M\xC3\xB6ng Tat"
+  accentcity: "Möng Tat"
 mong ta-wa: 
   city: "mong ta-wa"
   accentcity: "Mong Ta-wa"
 mong tawm: 
   city: "mong tawm"
-  accentcity: "M\xC3\xB6ng Tawm"
+  accentcity: "Möng Tawm"
 mong taw: 
   city: "mong taw"
-  accentcity: "M\xC3\xB6ng Taw"
+  accentcity: "Möng Taw"
 mong tawng: 
   city: "mong tawng"
-  accentcity: "M\xC3\xB6ng Tawng"
+  accentcity: "Möng Tawng"
 mongtawn: 
   city: "mongtawn"
   accentcity: "Mongtawn"
 mong tin: 
   city: "mong tin"
-  accentcity: "M\xC3\xB6ng Tin"
+  accentcity: "Möng Tin"
 mong to: 
   city: "mong to"
-  accentcity: "M\xC3\xB6ng T\xC3\xB6"
+  accentcity: "Möng Tö"
 mong tong: 
   city: "mong tong"
-  accentcity: "M\xC3\xB6ng Tong"
+  accentcity: "Möng Tong"
 mong ton: 
   city: "mong ton"
-  accentcity: "M\xC3\xB6ng Ton"
+  accentcity: "Möng Ton"
 mong to-no: 
   city: "mong to-no"
-  accentcity: "M\xC3\xB6ng T\xC3\xB6-n\xC3\xB6"
+  accentcity: "Möng Tö-nö"
 mong tum: 
   city: "mong tum"
   accentcity: "Mong Tum"
 mong tung: 
   city: "mong tung"
-  accentcity: "M\xC3\xB6ng Tung"
+  accentcity: "Möng Tung"
 mong tun: 
   city: "mong tun"
-  accentcity: "M\xC3\xB6ng Tun"
+  accentcity: "Möng Tun"
 mong-tun: 
   city: "mong-tun"
-  accentcity: "M\xC3\xB6ng-tün"
+  accentcity: "Möng-tün"
 mong twi: 
   city: "mong twi"
-  accentcity: "M\xC3\xB6ng Twi"
+  accentcity: "Möng Twi"
 mong-u: 
   city: "mong-u"
-  accentcity: "M\xC3\xB6ng-u"
+  accentcity: "Möng-u"
 mong un: 
   city: "mong un"
-  accentcity: "M\xC3\xB6ng Un"
+  accentcity: "Möng Un"
 mong wai: 
   city: "mong wai"
   accentcity: "Mong Wai"
@@ -40727,94 +40727,94 @@ mong wak:
   accentcity: "Mong Wak"
 mong wa: 
   city: "mong wa"
-  accentcity: "M\xC3\xB6ng Wa"
+  accentcity: "Möng Wa"
 mongwan: 
   city: "mongwan"
-  accentcity: "M\xC3\xB6ngwan"
+  accentcity: "Möngwan"
 mong we: 
   city: "mong we"
-  accentcity: "M\xC3\xB6ng Wè"
+  accentcity: "Möng Wè"
 mong wi: 
   city: "mong wi"
-  accentcity: "M\xC3\xB6ng Wi"
+  accentcity: "Möng Wi"
 mong wing: 
   city: "mong wing"
-  accentcity: "M\xC3\xB6ng Wing"
+  accentcity: "Möng Wing"
 mong won: 
   city: "mong won"
-  accentcity: "M\xC3\xB6ng W\xC3\xB6n"
+  accentcity: "Möng Wön"
 mong yai: 
   city: "mong yai"
-  accentcity: "M\xC3\xB6ng Yai"
+  accentcity: "Möng Yai"
 mongyaing: 
   city: "mongyaing"
   accentcity: "Mongyaing"
 mongyak: 
   city: "mongyak"
-  accentcity: "M\xC3\xB6ngyak"
+  accentcity: "Möngyak"
 mong yang: 
   city: "mong yang"
-  accentcity: "M\xC3\xB6ng Yang"
+  accentcity: "Möng Yang"
 mong-yang: 
   city: "mong-yang"
-  accentcity: "M\xC3\xB6ng-yang"
+  accentcity: "Möng-yang"
 mong yaung: 
   city: "mong yaung"
-  accentcity: "M\xC3\xB6ng Yaung"
+  accentcity: "Möng Yaung"
 mong yaw: 
   city: "mong yaw"
-  accentcity: "M\xC3\xB6ng Yaw"
+  accentcity: "Möng Yaw"
 mong yawng: 
   city: "mong yawng"
-  accentcity: "M\xC3\xB6ng Yawng"
+  accentcity: "Möng Yawng"
 mong yawn: 
   city: "mong yawn"
-  accentcity: "M\xC3\xB6ng Yawn"
+  accentcity: "Möng Yawn"
 mongyin: 
   city: "mongyin"
   accentcity: "Mongyin"
 mong yin: 
   city: "mong yin"
-  accentcity: "M\xC3\xB6ng Yin"
+  accentcity: "Möng Yin"
 mong yoi: 
   city: "mong yoi"
-  accentcity: "M\xC3\xB6ng Yoi"
+  accentcity: "Möng Yoi"
 mong yom: 
   city: "mong yom"
-  accentcity: "M\xC3\xB6ng Yom"
+  accentcity: "Möng Yom"
 mong yong: 
   city: "mong yong"
   accentcity: "Mong Yong"
 mong yu: 
   city: "mong yu"
-  accentcity: "M\xC3\xB6ng Yu"
+  accentcity: "Möng Yu"
 mong yun: 
   city: "mong yun"
-  accentcity: "M\xC3\xB6ng Yun"
+  accentcity: "Möng Yun"
 monhaing: 
   city: "monhaing"
   accentcity: "Monhaing"
 monhkamhsai: 
   city: "monhkamhsai"
-  accentcity: "M\xC3\xB6nhkamhsai"
+  accentcity: "Mönhkamhsai"
 monhkamhsau: 
   city: "monhkamhsau"
-  accentcity: "M\xC3\xB6nhkamhsaü"
+  accentcity: "Mönhkamhsaü"
 monhkamhseng: 
   city: "monhkamhseng"
-  accentcity: "M\xC3\xB6nhkamhseng"
+  accentcity: "Mönhkamhseng"
 monhkamli: 
   city: "monhkamli"
-  accentcity: "M\xC3\xB6nhkamli"
+  accentcity: "Mönhkamli"
 monhkam-u: 
   city: "monhkam-u"
-  accentcity: "M\xC3\xB6nhkam-u"
+  accentcity: "Mönhkam-u"
 monhkog: 
   city: "monhkog"
   accentcity: "Monhkog"
 monhkong: 
   city: "monhkong"
-  accentcity: "M\xC3\xB6nhk\xC3\xB6ng"
+  accentcity: "Mönhköng"
 monhla: 
   city: "monhla"
   accentcity: "Monhla"
@@ -40853,7 +40853,7 @@ monnyo:
   accentcity: "Monnyo"
 monsampu: 
   city: "monsampu"
-  accentcity: "M\xC3\xB6nsampu"
+  accentcity: "Mönsampu"
 mon shanzu: 
   city: "mon shanzu"
   accentcity: "Mon Shanzu"
@@ -41153,7 +41153,7 @@ mu-hso pa-nong:
   accentcity: "Mu-hso Pa-nong"
 mu-hso pawnglik: 
   city: "mu-hso pawnglik"
-  accentcity: "Mu-hs\xC3\xB6 Pawnglik"
+  accentcity: "Mu-hsö Pawnglik"
 mu-hso-yawnglai: 
   city: "mu-hso-yawnglai"
   accentcity: "Mu-hso-yawnglai"
@@ -43028,7 +43028,7 @@ na-hong:
   accentcity: "Na-hong"
 nahong: 
   city: "nahong"
-  accentcity: "Nah\xC3\xB6ng"
+  accentcity: "Nahöng"
 na-hon: 
   city: "na-hon"
   accentcity: "Na-hon"
@@ -44498,7 +44498,7 @@ na-monglong:
   accentcity: "Na-monglong"
 na-mong: 
   city: "na-mong"
-  accentcity: "Na-m\xC3\xB6ng"
+  accentcity: "Na-möng"
 namong: 
   city: "namong"
   accentcity: "Namong"
@@ -44603,7 +44603,7 @@ nampangkai:
   accentcity: "Nampangkai"
 nampangmong: 
   city: "nampangmong"
-  accentcity: "Nampangm\xC3\xB6ng"
+  accentcity: "Nampangmöng"
 nampang: 
   city: "nampang"
   accentcity: "Nampang"
@@ -46232,7 +46232,7 @@ nau-lau-lawtawk:
   accentcity: "Nau-lau-lawtawk"
 naulong: 
   city: "naulong"
-  accentcity: "Naül\xC3\xB6ng"
+  accentcity: "Naülöng"
 na-u: 
   city: "na-u"
   accentcity: "Na-u"
@@ -46871,7 +46871,7 @@ nawnghoi:
   accentcity: "Nawnghoi"
 nawnghok: 
   city: "nawnghok"
-  accentcity: "Nawngh\xC3\xB6k"
+  accentcity: "Nawnghök"
 nawngho: 
   city: "nawngho"
   accentcity: "Nawngho"
@@ -47267,7 +47267,7 @@ nawngpan:
   accentcity: "Nawngpan"
 nawng pa sok: 
   city: "nawng pa sok"
-  accentcity: "Nawng Pa S\xC3\xB6k"
+  accentcity: "Nawng Pa Sök"
 nawngpa-tek: 
   city: "nawngpa-tek"
   accentcity: "Nawngpa-tek"
@@ -47402,7 +47402,7 @@ nawngsong:
   accentcity: "Nawngsong"
 nawng son: 
   city: "nawng son"
-  accentcity: "Nawng S\xC3\xB6n"
+  accentcity: "Nawng Sön"
 nawngtahkaw: 
   city: "nawngtahkaw"
   accentcity: "Nawngtahkaw"
@@ -47444,7 +47444,7 @@ nawngtonhong:
   accentcity: "Nawngtonhong"
 nawngton: 
   city: "nawngton"
-  accentcity: "Nawngt\xC3\xB6n"
+  accentcity: "Nawngtön"
 nawngtu: 
   city: "nawngtu"
   accentcity: "Nawngtu"
@@ -48101,7 +48101,7 @@ ngaipnaipi:
   accentcity: "Ngaipnaipi"
 ngaitao: 
   city: "ngaitao"
-  accentcity: "Ngaita\xC3\xB6"
+  accentcity: "Ngaitaö"
 ngaizam: 
   city: "ngaizam"
   accentcity: "Ngaizam"
@@ -48290,7 +48290,7 @@ ngamin:
   accentcity: "Ngamin"
 ngammong: 
   city: "ngammong"
-  accentcity: "Ngamm\xC3\xB6ng"
+  accentcity: "Ngammöng"
 ngamngai: 
   city: "ngamngai"
   accentcity: "Ngamngai"
@@ -48974,7 +48974,7 @@ ngola taung:
   accentcity: "Ngola Taung"
 ngongsang: 
   city: "ngongsang"
-  accentcity: "Ng\xC3\xB6ngsang"
+  accentcity: "Ngöngsang"
 ngong-sang: 
   city: "ngong-sang"
   accentcity: "Ngong-sang"
@@ -49016,7 +49016,7 @@ ngu-lom:
   accentcity: "Ngu-lom"
 ngu-low: 
   city: "ngu-low"
-  accentcity: "Ngu-l\xC3\xB6w"
+  accentcity: "Ngu-löw"
 ngumgahtawng: 
   city: "ngumgahtawng"
   accentcity: "Ngumgahtawng"
@@ -49703,7 +49703,7 @@ numnawn:
   accentcity: "Numnawn"
 num no: 
   city: "num no"
-  accentcity: "Num N\xC3\xB6"
+  accentcity: "Num Nö"
 numnuyang: 
   city: "numnuyang"
   accentcity: "Numnuyang"
@@ -51137,7 +51137,7 @@ ongaing:
   accentcity: "Ongaing"
 onghkok: 
   city: "onghkok"
-  accentcity: "Onghk\xC3\xB6k"
+  accentcity: "Onghkök"
 onghsi: 
   city: "onghsi"
   accentcity: "Onghsi"
@@ -52319,7 +52319,7 @@ pa-man:
   accentcity: "Pa-man"
 pamao: 
   city: "pamao"
-  accentcity: "Pàma\xC3\xB6"
+  accentcity: "Pàmaö"
 pamase: 
   city: "pamase"
   accentcity: "Pamase"
@@ -52352,7 +52352,7 @@ pammyaw:
   accentcity: "Pammyaw"
 pa-mong: 
   city: "pa-mong"
-  accentcity: "Pa-m\xC3\xB6ng"
+  accentcity: "Pa-möng"
 pamon: 
   city: "pamon"
   accentcity: "Pamon"
@@ -52706,7 +52706,7 @@ panghpakman:
   accentcity: "Panghpakman"
 panghpakmong: 
   city: "panghpakmong"
-  accentcity: "Panghpakm\xC3\xB6ng"
+  accentcity: "Panghpakmöng"
 panghpak: 
   city: "panghpak"
   accentcity: "Panghpak"
@@ -52751,7 +52751,7 @@ panghsak:
   accentcity: "Panghsak"
 panghsa-mong: 
   city: "panghsa-mong"
-  accentcity: "Panghsa-m\xC3\xB6ng"
+  accentcity: "Panghsa-möng"
 pang hsang: 
   city: "pang hsang"
   accentcity: "Pang Hsang"
@@ -53084,7 +53084,7 @@ panglong chai:
   accentcity: "Panglong Chai"
 panglongka: 
   city: "panglongka"
-  accentcity: "Pangl\xC3\xB6ngka"
+  accentcity: "Panglöngka"
 panglong: 
   city: "panglong"
   accentcity: "Panglong"
@@ -53129,7 +53129,7 @@ pangmaklang:
   accentcity: "Pangmaklang"
 pangmakmo: 
   city: "pangmakmo"
-  accentcity: "Pángmakm\xC3\xB6"
+  accentcity: "Pángmakmö"
 pangmakna: 
   city: "pangmakna"
   accentcity: "Pangmakna"
@@ -53186,7 +53186,7 @@ pangmongnai:
   accentcity: "Pangmongnai"
 pangmong: 
   city: "pangmong"
-  accentcity: "Pángm\xC3\xB6ng"
+  accentcity: "Pángmöng"
 pang-mong: 
   city: "pang-mong"
   accentcity: "Pang-mong"
@@ -53408,7 +53408,7 @@ pangshau:
   accentcity: "Pangshau"
 pangsho: 
   city: "pangsho"
-  accentcity: "Pangsh\xC3\xB6"
+  accentcity: "Pangshö"
 pangshwehlaw: 
   city: "pangshwehlaw"
   accentcity: "Pangshwehlaw"
@@ -53807,7 +53807,7 @@ pa-no-daw:
   accentcity: "Pa-no-daw"
 pa-nong: 
   city: "pa-nong"
-  accentcity: "Pa-n\xC3\xB6ng"
+  accentcity: "Pa-nöng"
 pan: 
   city: "pan"
   accentcity: "Pan"
@@ -55661,7 +55661,7 @@ pemoki:
   accentcity: "Pèmoki"
 pemong: 
   city: "pemong"
-  accentcity: "Pèm\xC3\xB6ng"
+  accentcity: "Pèmöng"
 pemyauk: 
   city: "pemyauk"
   accentcity: "Pemyauk"
@@ -56510,7 +56510,7 @@ ple-le:
   accentcity: "Plè-lè"
 ploeywemudo: 
   city: "ploeywemudo"
-  accentcity: "Ploeywemud\xC3\xB6"
+  accentcity: "Ploeywemudö"
 plokli: 
   city: "plokli"
   accentcity: "Plokli"
@@ -56543,7 +56543,7 @@ pochanado:
   accentcity: "Pochanado"
 pochanardo: 
   city: "pochanardo"
-  accentcity: "Pochanard\xC3\xB6"
+  accentcity: "Pochanardö"
 pochando: 
   city: "pochando"
   accentcity: "Pochando"
@@ -56756,7 +56756,7 @@ pongdaw:
   accentcity: "Pongdaw"
 pongga-taw: 
   city: "pongga-taw"
-  accentcity: "P\xC3\xB6ngga-taw"
+  accentcity: "Pöngga-taw"
 ponghao: 
   city: "ponghao"
   accentcity: "Ponghao"
@@ -56795,7 +56795,7 @@ pongkalau:
   accentcity: "Pongkalau"
 pongko: 
   city: "pongko"
-  accentcity: "Pongk\xC3\xB6"
+  accentcity: "Pongkö"
 ponglau: 
   city: "ponglau"
   accentcity: "Ponglau"
@@ -58664,10 +58664,10 @@ ra-sa-hkanhkam:
   accentcity: "Ra-sa-hkanhkam"
 ra-sa-hkuhmong: 
   city: "ra-sa-hkuhmong"
-  accentcity: "Ra-sa-hkühm\xC3\xB6ng"
+  accentcity: "Ra-sa-hkühmöng"
 ra-sa-hkunmong: 
   city: "ra-sa-hkunmong"
-  accentcity: "Ra-sa-hkunm\xC3\xB6ng"
+  accentcity: "Ra-sa-hkunmöng"
 ra-sa-hpa-hseng: 
   city: "ra-sa-hpa-hseng"
   accentcity: "Ra-sa-hpa-hseng"
@@ -60710,7 +60710,7 @@ sau-ram:
   accentcity: "Sau-ram"
 sa-ut no: 
   city: "sa-ut no"
-  accentcity: "Sa-ut N\xC3\xB6"
+  accentcity: "Sa-ut Nö"
 sa-ut: 
   city: "sa-ut"
   accentcity: "Sa-ut"
@@ -64463,7 +64463,7 @@ some:
   accentcity: "Some"
 som mong: 
   city: "som mong"
-  accentcity: "Som M\xC3\xB6ng"
+  accentcity: "Som Möng"
 somra: 
   city: "somra"
   accentcity: "Somra"
@@ -64502,7 +64502,7 @@ songlong:
   accentcity: "Songlong"
 song mong sihsu: 
   city: "song mong sihsu"
-  accentcity: "Song M\xC3\xB6ng Sihsu"
+  accentcity: "Song Möng Sihsu"
 songon: 
   city: "songon"
   accentcity: "Songon"
@@ -65537,7 +65537,7 @@ taho-au:
   accentcity: "Taho-au"
 ta-ho-hkao: 
   city: "ta-ho-hkao"
-  accentcity: "Ta-h\xC3\xB6-hkao"
+  accentcity: "Ta-hö-hkao"
 ta ho-hta: 
   city: "ta ho-hta"
   accentcity: "Ta Ho-hta"
@@ -65549,7 +65549,7 @@ tahona:
   accentcity: "Tahona"
 ta-hong: 
   city: "ta-hong"
-  accentcity: "Ta-h\xC3\xB6ng"
+  accentcity: "Ta-höng"
 ta ho-pong: 
   city: "ta ho-pong"
   accentcity: "Ta Ho-pong"
@@ -65609,7 +65609,7 @@ tai-chaung:
   accentcity: "Tai-chaung"
 tai-hko: 
   city: "tai-hko"
-  accentcity: "Tai-hk\xC3\xB6"
+  accentcity: "Tai-hkö"
 tai-ho: 
   city: "tai-ho"
   accentcity: "Tai-ho"
@@ -65840,7 +65840,7 @@ taklu:
   accentcity: "Taklu"
 taklyet no: 
   city: "taklyet no"
-  accentcity: "Taklyet N\xC3\xB6"
+  accentcity: "Taklyet Nö"
 takmawk: 
   city: "takmawk"
   accentcity: "Takmawk"
@@ -66347,10 +66347,10 @@ tamoktaung:
   accentcity: "Tamoktaung"
 ta-mo-le: 
   city: "ta-mo-le"
-  accentcity: "Ta-m\xC3\xB6-lè"
+  accentcity: "Ta-mö-lè"
 ta-mo-pwe: 
   city: "ta-mo-pwe"
-  accentcity: "Ta-m\xC3\xB6-pwè"
+  accentcity: "Ta-mö-pwè"
 tamo: 
   city: "tamo"
   accentcity: "Tamo"
@@ -67079,7 +67079,7 @@ tapok:
   accentcity: "Tapok"
 ta-pom: 
   city: "ta-pom"
-  accentcity: "Ta-p\xC3\xB6m"
+  accentcity: "Ta-pöm"
 ta-pong: 
   city: "ta-pong"
   accentcity: "Ta-pong"
@@ -68546,7 +68546,7 @@ tawmok:
   accentcity: "Tawmok"
 tawmong: 
   city: "tawmong"
-  accentcity: "Tawm\xC3\xB6ng"
+  accentcity: "Tawmöng"
 taw mun: 
   city: "taw mun"
   accentcity: "Taw Mun"
@@ -73514,7 +73514,7 @@ tonghsim:
   accentcity: "Tonghsim"
 tonghsongkalo: 
   city: "tonghsongkalo"
-  accentcity: "T\xC3\xB6nghs\xC3\xB6ngkalo"
+  accentcity: "Tönghsöngkalo"
 tong-ing: 
   city: "tong-ing"
   accentcity: "Tong-ing"
@@ -73529,7 +73529,7 @@ tongkaw:
   accentcity: "Tongkaw"
 tong-kwang: 
   city: "tong-kwang"
-  accentcity: "T\xC3\xB6ng-kwang"
+  accentcity: "Töng-kwang"
 tonglau: 
   city: "tonglau"
   accentcity: "Tonglau"
@@ -73559,7 +73559,7 @@ tongon:
   accentcity: "Tongon"
 tongpang: 
   city: "tongpang"
-  accentcity: "T\xC3\xB6ngpang"
+  accentcity: "Töngpang"
 tongpan: 
   city: "tongpan"
   accentcity: "Tongpan"
@@ -73601,7 +73601,7 @@ tonhnitkwa:
   accentcity: "Tonhnitkwa"
 tonhok: 
   city: "tonhok"
-  accentcity: "Tonh\xC3\xB6k"
+  accentcity: "Tonhök"
 tonhonghkam: 
   city: "tonhonghkam"
   accentcity: "Tonhonghkam"
@@ -73625,13 +73625,13 @@ toni:
   accentcity: "Toni"
 tonkaw: 
   city: "tonkaw"
-  accentcity: "T\xC3\xB6nkaw"
+  accentcity: "Tönkaw"
 tonkeng: 
   city: "tonkeng"
-  accentcity: "T\xC3\xB6nkeng"
+  accentcity: "Tönkeng"
 ton-keng: 
   city: "ton-keng"
-  accentcity: "T\xC3\xB6n-keng"
+  accentcity: "Tön-keng"
 tonkha: 
   city: "tonkha"
   accentcity: "Tonkha"
@@ -73652,7 +73652,7 @@ tonkyaing:
   accentcity: "Tonkyaing"
 tonkyeng: 
   city: "tonkyeng"
-  accentcity: "T\xC3\xB6nkyeng"
+  accentcity: "Tönkyeng"
 tonkyi: 
   city: "tonkyi"
   accentcity: "Tônkyi"
@@ -74195,7 +74195,7 @@ tunmalun:
   accentcity: "Tunmalun"
 tunmong: 
   city: "tunmong"
-  accentcity: "Tunm\xC3\xB6ng"
+  accentcity: "Tunmöng"
 tunnein: 
   city: "tunnein"
   accentcity: "Tunnein"
@@ -74555,7 +74555,7 @@ um-oi:
   accentcity: "Um-oi"
 umong: 
   city: "umong"
-  accentcity: "Um\xC3\xB6ng"
+  accentcity: "Umöng"
 um-ot: 
   city: "um-ot"
   accentcity: "\xC3\x9Cm-ot"
@@ -74825,7 +74825,7 @@ ving loi-nung:
   accentcity: "Ving Loi-nung"
 ving lon: 
   city: "ving lon"
-  accentcity: "Ving L\xC3\xB6n"
+  accentcity: "Ving Lön"
 ving ngun: 
   city: "ving ngun"
   accentcity: "Ving Ngün"
@@ -80288,7 +80288,7 @@ wan mu-hso mawhpa-ya:
   accentcity: "Wan Mu-hso Mawhpa-ya"
 wan mu-hso me-aw: 
   city: "wan mu-hso me-aw"
-  accentcity: "Wan Mu-hs\xC3\xB6 Mè-aw"
+  accentcity: "Wan Mu-hsö Mè-aw"
 wan mu-hso muhkamhpai: 
   city: "wan mu-hso muhkamhpai"
   accentcity: "Wan Mu-hso Muhkamhpai"
@@ -80300,7 +80300,7 @@ wan mu-hso munhkamsai:
   accentcity: "Wan Mu-hso Munhkamsai"
 wan mu-hso munhkamsao: 
   city: "wan mu-hso munhkamsao"
-  accentcity: "Wan Mu-hs\xC3\xB6 Münhkamsao"
+  accentcity: "Wan Mu-hsö Münhkamsao"
 wan mu-hso munhkamtang: 
   city: "wan mu-hso munhkamtang"
   accentcity: "Wan Mu-hso Munhkamtang"
@@ -85163,7 +85163,7 @@ win-aing:
   accentcity: "Win-aing"
 winawdo: 
   city: "winawdo"
-  accentcity: "Winawd\xC3\xB6"
+  accentcity: "Winawdö"
 windagon: 
   city: "windagon"
   accentcity: "Windagon"
@@ -85388,7 +85388,7 @@ wo-leng:
   accentcity: "Wo-leng"
 wolong: 
   city: "wolong"
-  accentcity: "Wol\xC3\xB6ng"
+  accentcity: "Wolöng"
 wo-long: 
   city: "wo-long"
   accentcity: "Wo-long"
@@ -87827,7 +87827,7 @@ yonyintaw:
   accentcity: "Yonyintaw"
 yon: 
   city: "yon"
-  accentcity: "Y\xC3\xB6n"
+  accentcity: "Yön"
 yon-ywa: 
   city: "yon-ywa"
   accentcity: "Yon-ywa"

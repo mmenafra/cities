@@ -1,14 +1,5 @@
 # encoding: UTF-8
 --- 
-"a\xC2\x81any": 
-  city: "a\xC2\x81any"
-  accentcity: "\xC3\x85\xC2\x81any"
-"a\xC2\x81awkswo": 
-  city: "a\xC2\x81awkswo"
-  accentcity: "\xC3\x85\xC2\x81awkswo"
-"a\xC2\x81azdeniki": 
-  city: "a\xC2\x81azdeniki"
-  accentcity: "\xC3\x85\xC2\x81azdeniki"
 abakai: 
   city: "abakai"
   accentcity: "Abakai"
@@ -7718,7 +7709,7 @@ dravdziki:
   accentcity: "Dravdziki"
 drawohnen: 
   city: "drawohnen"
-  accentcity: "Draw\xC3\xB6hnen"
+  accentcity: "Drawöhnen"
 drebuliai: 
   city: "drebuliai"
   accentcity: "Drebuliai"
@@ -8882,7 +8873,7 @@ folvark polukni:
   accentcity: "Fol'vark Polukni"
 forsterei: 
   city: "forsterei"
-  accentcity: "F\xC3\xB6rsterei"
+  accentcity: "Försterei"
 frantskabuda: 
   city: "frantskabuda"
   accentcity: "Frantskabuda"
@@ -20120,7 +20111,7 @@ liziai:
   accentcity: "Liziai"
 lobardten: 
   city: "lobardten"
-  accentcity: "L\xC3\xB6bardten"
+  accentcity: "Löbardten"
 lochyay: 
   city: "lochyay"
   accentcity: "Lochyay"
@@ -29093,7 +29084,7 @@ piktupenen:
   accentcity: "Piktupenen"
 piktuponen: 
   city: "piktuponen"
-  accentcity: "Piktup\xC3\xB6nen"
+  accentcity: "Piktupönen"
 piktuyzhyay: 
   city: "piktuyzhyay"
   accentcity: "Piktuyzhyay"
@@ -30470,7 +30461,7 @@ poswol:
   accentcity: "Poswol"
 poszeiten: 
   city: "poszeiten"
-  accentcity: "P\xC3\xB6szeiten"
+  accentcity: "Pöszeiten"
 poszumien i: 
   city: "poszumien i"
   accentcity: "Poszumien I"
@@ -30959,7 +30950,7 @@ prockai:
   accentcity: "Prockai"
 prokuls: 
   city: "prokuls"
-  accentcity: "Pr\xC3\xB6kuls"
+  accentcity: "Prökuls"
 promanelyay: 
   city: "promanelyay"
   accentcity: "Promanelyay"

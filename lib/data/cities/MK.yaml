@@ -21,9 +21,6 @@ adzimatovo:
 adzinci: 
   city: "adzinci"
   accentcity: "Adzinci"
-"a\xC2\x90eva\xC2\x91elijad": 
-  city: "a\xC2\x90eva\xC2\x91elijad"
-  accentcity: "\xC3\x83\xC2\x90ev\xC3\x84\xC2\x91elijad"
 afmate: 
   city: "afmate"
   accentcity: "Afmate"
@@ -3590,7 +3587,7 @@ jenikej:
   accentcity: "Jenikej"
 jenikoj: 
   city: "jenikoj"
-  accentcity: "Jenik\xC3\xB6j"
+  accentcity: "Jeniköj"
 jezerane: 
   city: "jezerane"
   accentcity: "Jezerane"
@@ -4115,7 +4112,7 @@ koprisnica:
   accentcity: "Koprisnica"
 koprulu: 
   city: "koprulu"
-  accentcity: "K\xC3\xB6prülü"
+  accentcity: "Köprülü"
 korenica: 
   city: "korenica"
   accentcity: "Korenica"

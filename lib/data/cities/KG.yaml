@@ -146,7 +146,7 @@ ak-olen:
   accentcity: "Ak-Olën"
 ak-olong: 
   city: "ak-olong"
-  accentcity: "Ak-\xC3\x96l\xC3\xB6ng"
+  accentcity: "Ak-\xC3\x96löng"
 ak-osten: 
   city: "ak-osten"
   accentcity: "Ak-Osten"
@@ -416,7 +416,7 @@ baglan:
   accentcity: "Baglan"
 bagosh: 
   city: "bagosh"
-  accentcity: "Bag\xC3\xB6sh"
+  accentcity: "Bagösh"
 bagysh: 
   city: "bagysh"
   accentcity: "Bagysh"
@@ -602,7 +602,7 @@ bodzhoy:
   accentcity: "Bodzhoy"
 bogatorovka: 
   city: "bogatorovka"
-  accentcity: "Bogat\xC3\xB6rovka"
+  accentcity: "Bogatörovka"
 bogatyrevka: 
   city: "bogatyrevka"
   accentcity: "Bogatyrevka"
@@ -614,7 +614,7 @@ bokombayevskoye:
   accentcity: "Bokombayevskoye"
 bokonbaev: 
   city: "bokonbaev"
-  accentcity: "B\xC3\xB6k\xC3\xB6nbaev"
+  accentcity: "Bökönbaev"
 bokonbayevo: 
   city: "bokonbayevo"
   accentcity: "Bokonbayevo"
@@ -638,7 +638,7 @@ boroldoy:
   accentcity: "Boroldoy"
 boru: 
   city: "boru"
-  accentcity: "B\xC3\xB6rü"
+  accentcity: "Börü"
 bos-beshik: 
   city: "bos-beshik"
   accentcity: "Bos-Beshik"
@@ -665,7 +665,7 @@ budennyy:
   accentcity: "Budënnyy"
 budyonnoy: 
   city: "budyonnoy"
-  accentcity: "Budyonn\xC3\xB6y"
+  accentcity: "Budyonnöy"
 bulakbashi: 
   city: "bulakbashi"
   accentcity: "Bulakbashi"
@@ -680,7 +680,7 @@ buma:
   accentcity: "Buma"
 bura-chato: 
   city: "bura-chato"
-  accentcity: "Bura-chat\xC3\xB6"
+  accentcity: "Bura-chatö"
 bura-chaty: 
   city: "bura-chaty"
   accentcity: "Bura-Chaty"
@@ -746,7 +746,7 @@ chaldavar:
   accentcity: "Chaldavar"
 chaldovar: 
   city: "chaldovar"
-  accentcity: "Chald\xC3\xB6var"
+  accentcity: "Chaldövar"
 chaldyrar: 
   city: "chaldyrar"
   accentcity: "Chaldyrar"
@@ -758,7 +758,7 @@ chalkaydy:
   accentcity: "Chalkaydy"
 chalkayudo: 
   city: "chalkayudo"
-  accentcity: "Chalkayud\xC3\xB6"
+  accentcity: "Chalkayudö"
 chalkayudy: 
   city: "chalkayudy"
   accentcity: "Chalkayudy"
@@ -779,7 +779,7 @@ chanach:
   accentcity: "Chanach"
 changortash: 
   city: "changortash"
-  accentcity: "Chang\xC3\xB6rtash"
+  accentcity: "Changörtash"
 changyr-tash: 
   city: "changyr-tash"
   accentcity: "Changyr-Tash"
@@ -857,7 +857,7 @@ cherik:
   accentcity: "Cherik"
 cherpokto: 
   city: "cherpokto"
-  accentcity: "Cherp\xC3\xB6kt\xC3\xB6"
+  accentcity: "Cherpöktö"
 cherpykty: 
   city: "cherpykty"
   accentcity: "Cherpykty"
@@ -1121,13 +1121,13 @@ don-aryk:
   accentcity: "Don-Aryk"
 dong-alysh: 
   city: "dong-alysh"
-  accentcity: "D\xC3\xB6ng-Alysh"
+  accentcity: "Döng-Alysh"
 dong-aryk: 
   city: "dong-aryk"
-  accentcity: "D\xC3\xB6ng-Aryk"
+  accentcity: "Döng-Aryk"
 dong-talaa: 
   city: "dong-talaa"
-  accentcity: "D\xC3\xB6ng-Talaa"
+  accentcity: "Döng-Talaa"
 donguztau: 
   city: "donguztau"
   accentcity: "Donguztau"
@@ -1616,7 +1616,7 @@ jangy-talap:
   accentcity: "Jangy-Talap"
 jano-bulak: 
   city: "jano-bulak"
-  accentcity: "Jan\xC3\xB6-bulak"
+  accentcity: "Janö-bulak"
 jany-bulak: 
   city: "jany-bulak"
   accentcity: "Jany-bulak"
@@ -1634,13 +1634,13 @@ jergetal:
   accentcity: "Jergetal"
 jergeto: 
   city: "jergeto"
-  accentcity: "Jerget\xC3\xB6"
+  accentcity: "Jergetö"
 jergety: 
   city: "jergety"
   accentcity: "Jergety"
 jeto-oguz: 
   city: "jeto-oguz"
-  accentcity: "Jet\xC3\xB6-Oguz"
+  accentcity: "Jetö-Oguz"
 jida: 
   city: "jida"
   accentcity: "Jida"
@@ -1754,7 +1754,7 @@ kara-balta:
   accentcity: "Kara-Balta"
 karabalto: 
   city: "karabalto"
-  accentcity: "Karabalt\xC3\xB6"
+  accentcity: "Karabaltö"
 kara-balty: 
   city: "kara-balty"
   accentcity: "Kara-Balty"
@@ -1793,7 +1793,7 @@ kara-dekhkan:
   accentcity: "Kara-Dekhkan"
 kara-dobo: 
   city: "kara-dobo"
-  accentcity: "Kara-D\xC3\xB6b\xC3\xB6"
+  accentcity: "Kara-Döbö"
 kara-dzhar: 
   city: "kara-dzhar"
   accentcity: "Kara-Dzhar"
@@ -1853,7 +1853,7 @@ karakol:
   accentcity: "Karakol"
 kara-kol: 
   city: "kara-kol"
-  accentcity: "Kara-K\xC3\xB6l"
+  accentcity: "Kara-Köl"
 karakol: 
   city: "karakol'"
   accentcity: "Karakol'"
@@ -1979,7 +1979,7 @@ karool-tebe:
   accentcity: "Karool-Tëbë"
 karool-tobo: 
   city: "karool-tobo"
-  accentcity: "Karool-T\xC3\xB6b\xC3\xB6"
+  accentcity: "Karool-Töbö"
 karyn-kur: 
   city: "karyn-kur"
   accentcity: "Karyn-Kur"
@@ -2057,7 +2057,7 @@ kegeti:
   accentcity: "Kegeti"
 kegeto: 
   city: "kegeto"
-  accentcity: "Keget\xC3\xB6"
+  accentcity: "Kegetö"
 kegety: 
   city: "kegety"
   accentcity: "Kegety"
@@ -2267,10 +2267,10 @@ kitay:
   accentcity: "Kitay"
 kizol-kiva: 
   city: "kizol-kiva"
-  accentcity: "Kiz\xC3\xB6l-Kiva"
+  accentcity: "Kizöl-Kiva"
 kizol-kurgan: 
   city: "kizol-kurgan"
-  accentcity: "Kiz\xC3\xB6l-Kurgan"
+  accentcity: "Kizöl-Kurgan"
 kizyl-ata: 
   city: "kizyl-ata"
   accentcity: "Kizyl-Ata"
@@ -2327,13 +2327,13 @@ kogoy:
   accentcity: "Kogoy"
 kok-arok: 
   city: "kok-arok"
-  accentcity: "Kok-ar\xC3\xB6k"
+  accentcity: "Kok-arök"
 kok-aryk: 
   city: "kok-aryk"
   accentcity: "Kok-Aryk"
 kok-aygyr: 
   city: "kok-aygyr"
-  accentcity: "K\xC3\xB6k-Aygyr"
+  accentcity: "Kök-Aygyr"
 kok-dzhar: 
   city: "kok-dzhar"
   accentcity: "Kok-Dzhar"
@@ -2375,7 +2375,7 @@ kokmoynak:
   accentcity: "Kokmoynak"
 kok-moynok eki: 
   city: "kok-moynok eki"
-  accentcity: "K\xC3\xB6k-Moynok Eki"
+  accentcity: "Kök-Moynok Eki"
 kok-moynok: 
   city: "kok-moynok"
   accentcity: "Kok-Moynok"
@@ -2387,7 +2387,7 @@ kok-say:
   accentcity: "Kok-Say"
 kok-tash: 
   city: "kok-tash"
-  accentcity: "K\xC3\xB6k-Tash"
+  accentcity: "Kök-Tash"
 koktash: 
   city: "koktash"
   accentcity: "Koktash"
@@ -2399,7 +2399,7 @@ kok-yangak:
   accentcity: "Kok-Yangak"
 kok-yatok: 
   city: "kok-yatok"
-  accentcity: "Kok-Yat\xC3\xB6k"
+  accentcity: "Kok-Yatök"
 kok-yatyk: 
   city: "kok-yatyk"
   accentcity: "Kok-Yatyk"
@@ -2558,7 +2558,7 @@ kum-debe:
   accentcity: "Kum-Dëbë"
 kum-dobo: 
   city: "kum-dobo"
-  accentcity: "Kum-D\xC3\xB6b\xC3\xB6"
+  accentcity: "Kum-Döbö"
 kum-dyube: 
   city: "kum-dyube"
   accentcity: "Kum-Dyube"
@@ -2567,7 +2567,7 @@ kum-tyube:
   accentcity: "Kum-Tyube"
 kunchigosh: 
   city: "kunchigosh"
-  accentcity: "Kunchig\xC3\xB6sh"
+  accentcity: "Kunchigösh"
 kunchigysh: 
   city: "kunchigysh"
   accentcity: "Kunchigysh"
@@ -2591,7 +2591,7 @@ kur-kol:
   accentcity: "Kur-Kol"
 kurmento: 
   city: "kurmento"
-  accentcity: "Kurment\xC3\xB6"
+  accentcity: "Kurmentö"
 kurmenty: 
   city: "kurmenty"
   accentcity: "Kurmenty"
@@ -2666,7 +2666,7 @@ kyzyldezkan:
   accentcity: "Kyzyldezkan"
 kyzyl-dobo: 
   city: "kyzyl-dobo"
-  accentcity: "Kyzyl-D\xC3\xB6b\xC3\xB6"
+  accentcity: "Kyzyl-Döbö"
 kyzyl-dzhar: 
   city: "kyzyl-dzhar"
   accentcity: "Kyzyl-Dzhar"
@@ -3146,7 +3146,7 @@ orgo:
   accentcity: "Orgo"
 orgorush: 
   city: "orgorush"
-  accentcity: "\xC3\x96rg\xC3\xB6rüsh"
+  accentcity: "\xC3\x96rgörüsh"
 orlevka: 
   city: "orlevka"
   accentcity: "Orlevka"
@@ -3242,7 +3242,7 @@ ozgeryush:
   accentcity: "Ozgëryush"
 ozgon: 
   city: "ozgon"
-  accentcity: "\xC3\x96zg\xC3\xB6n"
+  accentcity: "\xC3\x96zgön"
 padak: 
   city: "padak"
   accentcity: "Padak"
@@ -3374,7 +3374,7 @@ safarovskoye:
   accentcity: "Safarovskoye"
 sagoz-kandor: 
   city: "sagoz-kandor"
-  accentcity: "Sag\xC3\xB6z-Kand\xC3\xB6r"
+  accentcity: "Sagöz-Kandör"
 sagyz-kandyk: 
   city: "sagyz-kandyk"
   accentcity: "Sagyz-Kandyk"
@@ -3416,7 +3416,7 @@ sarkisar:
   accentcity: "Sarkisar"
 saro-tash: 
   city: "saro-tash"
-  accentcity: "Sar\xC3\xB6-Tash"
+  accentcity: "Sarö-Tash"
 sarsagut: 
   city: "sarsagut"
   accentcity: "Sarsagut"
@@ -3731,7 +3731,7 @@ sungandy:
   accentcity: "Sungandy"
 susamor state farm: 
   city: "susamor state farm"
-  accentcity: "Susam\xC3\xB6r State Farm"
+  accentcity: "Susamör State Farm"
 susamyr: 
   city: "susamyr"
   accentcity: "Susamyr"
@@ -3776,10 +3776,10 @@ talas:
   accentcity: "(( Tala ))"
 taldok: 
   city: "taldok"
-  accentcity: "Tald\xC3\xB6k"
+  accentcity: "Taldök"
 taldo-su: 
   city: "taldo-su"
-  accentcity: "Tald\xC3\xB6-Su"
+  accentcity: "Taldö-Su"
 taldyk: 
   city: "taldyk"
   accentcity: "Taldyk"
@@ -3809,7 +3809,7 @@ tamga:
   accentcity: "Tamga"
 tarakhano: 
   city: "tarakhano"
-  accentcity: "Tarakhan\xC3\xB6"
+  accentcity: "Tarakhanö"
 tarakhany: 
   city: "tarakhany"
   accentcity: "Tarakhany"
@@ -3845,10 +3845,10 @@ tash-kepe:
   accentcity: "Tash-Kepe"
 tash-komur: 
   city: "tash-komur"
-  accentcity: "Tash-K\xC3\xB6mür"
+  accentcity: "Tash-Kömür"
 tashkumor: 
   city: "tashkumor"
-  accentcity: "Tashkum\xC3\xB6r"
+  accentcity: "Tashkumör"
 tash-kumyr: 
   city: "tash-kumyr"
   accentcity: "Tash-Kumyr"
@@ -4007,7 +4007,7 @@ tolman:
   accentcity: "Tolman"
 toloykon: 
   city: "toloykon"
-  accentcity: "T\xC3\xB6l\xC3\xB6yk\xC3\xB6n"
+  accentcity: "Tölöykön"
 toluk: 
   city: "toluk"
   accentcity: "Toluk"
@@ -4334,7 +4334,7 @@ yshtyk:
   accentcity: "Yshtyk"
 ysyk-kol: 
   city: "ysyk-kol"
-  accentcity: "Ysyk-K\xC3\xB6l"
+  accentcity: "Ysyk-Köl"
 yurevka: 
   city: "yur'evka"
   accentcity: "Yur'evka"
